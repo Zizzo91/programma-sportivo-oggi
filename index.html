@@ -4,162 +4,317 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Programma Sportivo Italiano in TV Oggi</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-color: #f4f7f9;
-            --text-primary: #333333;
-            --text-secondary: #555555;
-            --accent-color: #e67e22;
-            --header-bg: #2c3e50;
+            --bg-gradient: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);
+            --text-primary: #1e293b;
+            --text-secondary: #64748b;
+            --accent-color: #3b82f6;
+            --header-gradient: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
             --header-text: #ffffff;
-            --card-bg: #ffffff;
-            --border-color: #e0e0e0;
+            --card-bg: rgba(255, 255, 255, 0.95);
+            --border-color: #e2e8f0;
+            --hover-bg: #f8fafc;
         }
+        
         body {
-            font-family: 'Inter', 'Roboto', 'Open Sans', sans-serif;
-            background-color: var(--bg-color);
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-gradient);
             color: var(--text-primary);
             margin: 0;
-            padding: 20px;
+            padding: 30px 15px;
             line-height: 1.6;
+            min-height: 100vh;
         }
+        
         .container {
-            max-width: 1000px;
+            max-width: 1100px;
             margin: 0 auto;
         }
-        h1 {
+
+        /* Header e Titolo */
+        .page-header {
             text-align: center;
-            color: var(--header-bg);
-            margin-bottom: 30px;
-            font-weight: 700;
+            margin-bottom: 40px;
         }
+
+        h1 {
+            color: var(--text-primary);
+            margin: 0 0 10px 0;
+            font-weight: 800;
+            font-size: 2.5rem;
+            letter-spacing: -0.5px;
+            background: linear-gradient(90deg, #1e293b, #3b82f6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        #date-display {
+            display: inline-block;
+            background: var(--header-gradient);
+            color: white;
+            padding: 8px 20px;
+            border-radius: 999px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            letter-spacing: 0.5px;
+            box-shadow: 0 4px 15px rgba(15, 23, 42, 0.15);
+        }
+
+        /* Card Principale (Glassmorphism leggero) */
         .schedule-container {
-            background-color: var(--card-bg);
-            border-radius: 14px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
-            border: 1px solid rgba(44, 62, 80, 0.10);
-            padding: 22px;
+            background: var(--card-bg);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0,0,0,0.05);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            overflow: hidden;
             min-height: 200px;
-            overflow: visible;
+            transition: transform 0.3s ease;
         }
+
         .no-events {
             text-align: center;
-            font-size: 1.5rem;
+            font-size: 1.3rem;
             color: var(--text-secondary);
-            padding: 50px 20px;
-            font-weight: bold;
+            padding: 60px 20px;
+            font-weight: 500;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
         }
+
+        .no-events::before {
+            content: "🏜️";
+            font-size: 3rem;
+        }
+
+        /* Tabella */
         .table-responsive {
             overflow-x: auto;
         }
+        
         table {
             width: 100%;
-            border-collapse: collapse;
+            border-collapse: separate;
+            border-spacing: 0;
             table-layout: fixed;
         }
+        
         thead {
-            background: linear-gradient(90deg, #2c3e50, #243646);
+            background: var(--header-gradient);
             color: var(--header-text);
         }
+        
         th, td {
-            padding: 15px;
+            padding: 18px 20px;
             text-align: left;
-            border-bottom: 1px solid var(--border-color);
-            vertical-align: top;
+            vertical-align: middle;
             overflow-wrap: anywhere;
             word-break: break-word;
+            border-bottom: 1px solid var(--border-color);
         }
+
         th {
             font-weight: 600;
             text-transform: uppercase;
-            font-size: 0.9rem;
-            letter-spacing: 0.5px;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            color: #cbd5e1;
         }
+
+        th:first-child { padding-left: 30px; }
+        td:first-child { padding-left: 30px; }
+        th:last-child { padding-right: 30px; }
+        td:last-child { padding-right: 30px; }
+
+        tbody tr {
+            transition: all 0.2s ease;
+        }
+
         tbody tr:hover {
-            background-color: rgba(230, 126, 34, 0.05);
+            background-color: var(--hover-bg);
+            transform: scale(1.002);
+            box-shadow: inset 4px 0 0 var(--accent-color);
         }
+
+        tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        /* Elementi specifici */
         .time {
-            font-weight: bold;
-            color: var(--accent-color);
+            font-weight: 700;
+            color: var(--text-primary);
+            font-size: 1.1rem;
         }
-        .channel {
-            font-weight: 600;
+        
+        .time-badge {
+            background: #eff6ff;
+            color: #1d4ed8;
+            padding: 4px 10px;
+            border-radius: 8px;
+            display: inline-block;
         }
+
+        .evento-testo {
+            font-weight: 500;
+            font-size: 1.05rem;
+        }
+
         .sport-icon {
-            margin-right: 8px;
-            font-size: 1.2rem;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 32px;
+            height: 32px;
+            background: #f1f5f9;
+            border-radius: 10px;
+            margin-right: 10px;
+            font-size: 1.1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            vertical-align: middle;
         }
-        .highlight-athlete {
-            color: var(--header-bg);
-            font-weight: 800;
-        }
-        .chip {
-            display:inline-block;
-            padding: 6px 10px;
-            border-radius: 999px;
-            background: rgba(44, 62, 80, 0.08);
-            border: 1px solid rgba(44, 62, 80, 0.10);
-            font-weight: 650;
+
+        .competizione-testo {
+            color: var(--text-secondary);
             font-size: 0.95rem;
-            margin: 2px 6px 2px 0;
-            white-space: nowrap;
+            font-weight: 500;
         }
-        @media (max-width: 768px) {
+
+        .highlight-athlete {
+            color: #ea580c;
+            font-weight: 800;
+            background: #fff7ed;
+            padding: 2px 6px;
+            border-radius: 6px;
+        }
+
+        .note-testo {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        /* Chips Canali Colorate */
+        .chip {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 999px;
+            font-weight: 700;
+            font-size: 0.85rem;
+            margin: 3px 6px 3px 0;
+            white-space: nowrap;
+            letter-spacing: 0.3px;
+            transition: transform 0.2s;
+        }
+
+        .chip:hover {
+            transform: translateY(-1px);
+        }
+
+        .chip-sky { background: #e0f2fe; color: #1e3a8a; border: 1px solid #bfdbfe; }
+        .chip-dazn { background: #fef08a; color: #000000; border: 1px solid #fde047; }
+        .chip-now { background: #dcfce7; color: #3f6212; border: 1px solid #bbf7d0; }
+        .chip-rai { background: #f1f5f9; color: #0f172a; border: 1px solid #cbd5e1; border-left: 4px solid #3b82f6;}
+        .chip-mediaset { background: #f1f5f9; color: #0f172a; border: 1px solid #cbd5e1; }
+        .chip-amazon { background: #ffedd5; color: #9a3412; border: 1px solid #fed7aa; }
+        .chip-tv8 { background: #fce7f3; color: #9d174d; border: 1px solid #fbcfe8; }
+        .chip-nove { background: #f3e8ff; color: #831843; border: 1px solid #fbcfe8; }
+        .chip-default { background: #f8fafc; color: #475569; border: 1px solid #e2e8f0; }
+
+        /* Responsive Mobile */
+        @media (max-width: 850px) {
+            body { padding: 15px 10px; }
+            h1 { font-size: 1.8rem; }
+            
             table, thead, tbody, th, td, tr { display: block; }
             thead tr { position: absolute; top: -9999px; left: -9999px; }
-            tr {
-                border: 1px solid var(--border-color);
-                margin-bottom: 15px;
-                border-radius: 8px;
-                background: var(--card-bg);
+            
+            .schedule-container {
+                background: transparent;
+                box-shadow: none;
+                border: none;
+                padding: 0;
             }
+
+            tr {
+                background: var(--card-bg);
+                border: 1px solid var(--border-color);
+                margin-bottom: 20px;
+                border-radius: 16px;
+                box-shadow: 0 8px 20px rgba(0,0,0,0.04);
+                padding: 10px 0;
+                position: relative;
+            }
+            
+            tr:hover {
+                transform: none;
+                box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+            }
+
             td {
                 border: none;
                 position: relative;
-                padding-left: 50%;
+                padding: 12px 20px 12px 40% !important;
                 text-align: right;
-                border-bottom: 1px solid #eee;
             }
+            
+            td:not(:last-child) {
+                border-bottom: 1px dashed #f1f5f9;
+            }
+
             td:before {
                 position: absolute;
-                top: 15px;
-                left: 15px;
-                width: 45%;
-                padding-right: 10px;
+                top: 50%;
+                transform: translateY(-50%);
+                left: 20px;
+                width: 35%;
                 white-space: nowrap;
                 text-align: left;
-                font-weight: bold;
-                color: var(--text-secondary);
+                font-weight: 700;
+                font-size: 0.8rem;
+                text-transform: uppercase;
+                color: #94a3b8;
+                letter-spacing: 0.5px;
             }
-            td:nth-of-type(1):before { content: "Orario (CET)"; }
-            td:nth-of-type(2):before { content: "Evento/Partita"; }
-            td:nth-of-type(3):before { content: "Competizione/Tipologia"; }
+
+            td:nth-of-type(1):before { content: "Orario"; }
+            td:nth-of-type(2):before { content: "Evento"; }
+            td:nth-of-type(3):before { content: "Competizione"; }
             td:nth-of-type(4):before { content: "Canale TV"; }
-            td:nth-of-type(5):before { content: "Note aggiuntive"; }
-            .time { text-align: right; display: block; }
+            td:nth-of-type(5):before { content: "Note"; }
+            
+            .time-badge { margin-top: 0; }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Programma Sportivo Italiano in TV Oggi</h1>
-        <div id="date-display" style="text-align: center; margin-bottom: 20px; font-weight: bold; color: var(--accent-color);"></div>
+        <div class="page-header">
+            <h1>Programma Sportivo in TV</h1>
+            <div id="date-display"></div>
+        </div>
+        
         <div class="schedule-container" id="schedule-container">
-            <div style="text-align:center; padding: 20px;">Caricamento in corso...</div>
+            <div style="text-align:center; padding: 60px; color: var(--text-secondary);">
+                <div style="font-size: 2rem; margin-bottom: 15px;">⏳</div>
+                Caricamento palinsesto in corso...
+            </div>
         </div>
     </div>
 
     <script>
-  // Data header
   const options = { timeZone: 'Europe/Rome', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
   document.getElementById('date-display').innerText =
     new Date().toLocaleDateString('it-IT', options).toUpperCase();
 
-  // Nomi da evidenziare in grassetto (puoi aggiungerne altri)
   const ITALIAN_NAMES = [
-    "Sinner", "Musetti", "Berrettini", "Paolini",
-    "Bolelli", "Vavassori", "Arnaldi", "Sonego", "Cobolli",
-    "Brignone", "Goggia"
+    "Sinner", "Musetti", "Berrettini", "Paolini", "Errani", "Cobolli", "Arnaldi", "Sonego",
+    "Bolelli", "Vavassori",
+    "Brignone", "Goggia", "Bassino", "Curtoni",
+    "Ferrari", "Ducati", "Aprilia"
   ];
 
   function escapeHtml(s) {
@@ -168,26 +323,40 @@
     }[m]));
   }
 
+  // Assegna classi css specifiche in base al nome del canale
+  function getChipClass(channelName) {
+    const c = channelName.toLowerCase();
+    if (c.includes("sky")) return "chip-sky";
+    if (c.includes("dazn")) return "chip-dazn";
+    if (c.includes("now")) return "chip-now";
+    if (c.includes("rai")) return "chip-rai";
+    if (c.includes("amazon") || c.includes("prime")) return "chip-amazon";
+    if (c.includes("tv8")) return "chip-tv8";
+    if (c.includes("nove") || c.includes("discovery")) return "chip-nove";
+    if (c.includes("mediaset") || c.includes("canale 5") || c.includes("italia 1")) return "chip-mediaset";
+    return "chip-default";
+  }
+
   function formatChannel(canale) {
     const raw = String(canale ?? "").trim();
-    if (!raw) return "-";
+    if (!raw || raw === "-") return '<span class="chip chip-default">-</span>';
 
-    // Split su "/" e "," per spezzare Sky/DAZN ecc.
+    // Split intelligente
     const parts = raw
-      .split(/\/|,/g)
+      .split(/(?:\/|,| e | e\s+)/gi)
       .map(s => s.trim())
       .filter(Boolean);
 
     return parts.length
-      ? parts.map(p => `<span class="chip">${escapeHtml(p)}</span>`).join(" ")
-      : escapeHtml(raw);
+      ? parts.map(p => `<span class="chip ${getChipClass(p)}">${escapeHtml(p)}</span>`).join(" ")
+      : `<span class="chip ${getChipClass(raw)}">${escapeHtml(raw)}</span>`;
   }
 
   function highlightItalians(text) {
     let out = escapeHtml(text ?? "-");
     for (const name of ITALIAN_NAMES) {
       const re = new RegExp(`\\b(${name})\\b`, "gi");
-      out = out.replace(re, "<strong class=\"highlight-athlete\">$1</strong>");
+      out = out.replace(re, "<span class=\"highlight-athlete\">$1</span>");
     }
     return out;
   }
@@ -195,11 +364,11 @@
   function detectSport(ev) {
     const s = `${ev?.competizione ?? ""} ${ev?.evento ?? ""}`.toLowerCase();
     if (s.includes("atp") || s.includes("wta") || s.includes("tennis")) return "tennis";
-    if (s.includes("formula 1") || s.includes(" f1")) return "f1";
-    if (s.includes("motogp") || s.includes("moto2") || s.includes("moto3") || s.includes("sbk") || s.includes("superbike")) return "motogp";
-    if (s.includes("volley") || s.includes("pallavolo") || s.includes("superlega")) return "volley";
-    if (s.includes("sci") || s.includes("slalom") || s.includes("discesa") || s.includes("superg") || s.includes("gigante")) return "sci";
-    if (s.includes("serie a") || s.includes("champions") || s.includes("europa") || s.includes("conference") || s.includes("calcio")) return "calcio";
+    if (s.includes("formula 1") || s.includes(" f1") || s.includes("gran premio")) return "f1";
+    if (s.includes("motogp") || s.includes("moto2") || s.includes("moto3") || s.includes("sbk")) return "motogp";
+    if (s.includes("volley") || s.includes("pallavolo") || s.includes("superlega") || s.includes("champions league maschile") && s.includes("trentino")) return "volley";
+    if (s.includes("sci") || s.includes("slalom") || s.includes("discesa") || s.includes("superg") || s.includes("gigante") || s.includes("coppa del mondo")) return "sci";
+    if (s.includes("serie a") || s.includes("champions") || s.includes("europa") || s.includes("conference") || s.includes("calcio") || s.includes("premier") || s.includes("liga")) return "calcio";
     return "altro";
   }
 
@@ -219,7 +388,7 @@
       const container = document.getElementById('schedule-container');
 
       if (!Array.isArray(data) || data.length === 0) {
-        container.innerHTML = '<div class="no-events">Nessun evento sportivo italiano in TV oggi nelle categorie specificate.</div>';
+        container.innerHTML = '<div class="no-events">Nessun evento in TV oggi per le tue categorie.</div>';
         return;
       }
 
@@ -228,11 +397,11 @@
           <table>
             <thead>
               <tr>
-                <th>Orario (CET)</th>
-                <th>Evento/Partita</th>
-                <th>Competizione/Tipologia</th>
-                <th>Canale TV</th>
-                <th>Note aggiuntive</th>
+                <th style="width: 12%;">Orario</th>
+                <th style="width: 30%;">Evento</th>
+                <th style="width: 25%;">Competizione</th>
+                <th style="width: 20%;">Canale TV</th>
+                <th style="width: 13%;">Note</th>
               </tr>
             </thead>
             <tbody>
@@ -244,11 +413,14 @@
 
         html += `
           <tr>
-            <td class="time">${escapeHtml(ev.orario)}</td>
-            <td>${highlightItalians(ev.evento)}</td>
-            <td><span class="sport-icon" title="${sport}">${icon}</span>${highlightItalians(ev.competizione)}</td>
+            <td class="time"><span class="time-badge">${escapeHtml(ev.orario)}</span></td>
+            <td class="evento-testo">${highlightItalians(ev.evento)}</td>
+            <td>
+                <span class="sport-icon" title="${sport}">${icon}</span>
+                <span class="competizione-testo">${highlightItalians(ev.competizione)}</span>
+            </td>
             <td class="channel">${formatChannel(ev.canale)}</td>
-            <td>${highlightItalians(ev.note || "-")}</td>
+            <td class="note-testo">${highlightItalians(ev.note || "")}</td>
           </tr>
         `;
       });
@@ -264,7 +436,7 @@
     .catch(err => {
       console.error(err);
       document.getElementById('schedule-container').innerHTML =
-        '<div class="no-events" style="color: red;">Impossibile caricare i dati. Assicurati di aver generato i risultati.</div>';
+        '<div class="no-events" style="color: #ef4444;">❌ Impossibile caricare i dati. Errore di connessione o file non trovato.</div>';
     });
 </script>
 </body>
