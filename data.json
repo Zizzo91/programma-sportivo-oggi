@@ -1,9 +1,163 @@
 [
   {
+    "orario": "02:00",
+    "evento": "Semifinali",
+    "competizione": "ATP Acapulco 2026",
+    "canale": "Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
+    "note": "Notte tra il 27 e il 28 febbraio"
+  },
+  {
+    "orario": "03:00",
+    "evento": "Prove Libere 1",
+    "competizione": "Moto3, GP Thailandia 2026",
+    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "03:50",
+    "evento": "Prove Libere 1",
+    "competizione": "Moto2, GP Thailandia 2026",
+    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "04:45",
+    "evento": "Prove Libere 1",
+    "competizione": "MotoGP, GP Thailandia 2026",
+    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "07:15",
+    "evento": "Pre-qualifiche 1 / Prove libere 2",
+    "competizione": "Moto3, GP Thailandia 2026",
+    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "08:05",
+    "evento": "Pre-qualifiche 1 / Prove libere 2",
+    "competizione": "Moto2, GP Thailandia 2026",
+    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "09:00",
+    "evento": "Pre-qualifiche / Prove libere 2",
+    "competizione": "MotoGP, GP Thailandia 2026",
+    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "10:00",
+    "evento": "Seconda prova cronometrata discesa maschile",
+    "competizione": "Sci Alpino, Coppa del Mondo a Garmisch Partenkirchen (Germania)",
+    "canale": "Nessuna copertura TV/Streaming diretta indicata, seguire OA Sport per diretta testuale",
+    "note": "Con Giovanni Franzoni"
+  },
+  {
+    "orario": "10:30",
+    "evento": "Semifinali: Bolelli/Vavassori - Arevalo/Pavic",
+    "competizione": "ATP Dubai 2026",
+    "canale": "Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
+    "note": "Con giocatori italiani"
+  },
+  {
+    "orario": "11:00",
+    "evento": "Discesa femminile",
+    "competizione": "Sci Alpino, Coppa del Mondo a Soldeu (Andorra)",
+    "canale": "Rai 2 HD, RaiPlay, Eurosport 1 HD, Discovery+, HBO Max, DAZN",
+    "note": "Con Sofia Goggia (terza classificata), Federica Brignone non partecipa"
+  },
+  {
+    "orario": "12:00",
+    "evento": "Sorteggio ottavi di finale",
+    "competizione": "Champions League 2026",
+    "canale": "Sky Sport 24 (200), SkyGo, NOW, Amazon Prime Video, UEFA.tv",
+    "note": "Sorteggio UEFA con squadre italiane"
+  },
+  {
+    "orario": "13:00",
+    "evento": "Sorteggio ottavi di finale",
+    "competizione": "Europa League 2026",
+    "canale": "Sky Sport 24 (204), SkyGo, NOW, Prime Video, UEFA.tv",
+    "note": "Sorteggio UEFA con squadre italiane (Roma e Bologna)"
+  },
+  {
+    "orario": "14:00",
+    "evento": "Sorteggio ottavi di finale",
+    "competizione": "Conference League 2026",
+    "canale": "Sky Sport 24 (204), SkyGo, NOW, UEFA.tv",
+    "note": "Sorteggio UEFA"
+  },
+  {
+    "orario": "17:00",
+    "evento": "Quarti di finale",
+    "competizione": "ATP Santiago 2026",
+    "canale": "Sky Sport Tennis (203), Sky Sport Max (206), Sky Sport Mix, SkyGo, NOW, Tennis Tv",
+    "note": "Con giocatori italiani"
+  },
+  {
+    "orario": "19:00",
+    "evento": "Monza - Virtus Entella",
+    "competizione": "Calcio, Serie B 2025-26",
+    "canale": "DAZN, Lab Channel",
+    "note": ""
+  },
+  {
+    "orario": "20:30",
+    "evento": "Cittadella - Ospitaletto",
+    "competizione": "Calcio, Serie C 2025-26",
+    "canale": "Sky Sport 251, SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "20:30",
+    "evento": "Giana Erminio - Pro Vercelli",
+    "competizione": "Calcio, Serie C 2025-26",
+    "canale": "Sky Sport 252, SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "20:30",
+    "evento": "Arzignano - Novara",
+    "competizione": "Calcio, Serie C 2025-26",
+    "canale": "Sky Sport 253, SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "20:30",
+    "evento": "Pergolettese - Triestina",
+    "competizione": "Calcio, Serie C 2025-26",
+    "canale": "Sky Sport 254, SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "20:30",
+    "evento": "Mantova - Città di Cosenza",
+    "competizione": "Calcio a 5, Serie A 2026",
+    "canale": "YouTube Divisione Calcio a 5",
+    "note": ""
+  },
+  {
+    "orario": "20:30",
+    "evento": "Napoli Futsal - AS Roma",
+    "competizione": "Calcio a 5, Serie A 2026",
+    "canale": "Sky Sport (canale da definire), SkyGo, NOW, YouTube Divisione Calcio a 5",
+    "note": ""
+  },
+  {
+    "orario": "20:30",
+    "evento": "Cadi Antincendi Futura - Benevento",
+    "competizione": "Calcio a 5, Serie A2 Elite",
+    "canale": "YouTube Divisione Nazionale Calcio a 5",
+    "note": ""
+  },
+  {
     "orario": "20:45",
-    "evento": "Esempio - Evento generato",
-    "competizione": "Serie A",
-    "canale": "DAZN / Sky Sport",
-    "note": "Aggiorna il JSON per i risultati reali"
+    "evento": "Parma - Cagliari",
+    "competizione": "Calcio, Serie A 2025-26",
+    "canale": "DAZN",
+    "note": ""
   }
 ]
