@@ -135,82 +135,107 @@
     </div>
 
     <script>
-        const options = { timeZone: 'Europe/Rome', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-        document.getElementById('date-display').innerText = new Date().toLocaleDateString('it-IT', options).toUpperCase();
+  // Data header
+  const options = { timeZone: 'Europe/Rome', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+  document.getElementById('date-display').innerText =
+    new Date().toLocaleDateString('it-IT', options).toUpperCase();
 
-        const italianAthletes = ['Sinner', 'Musetti', 'Berrettini', 'Paolini', 'Brignone', 'Goggia', 'Cobolli', 'Arnaldi', 'Sonego', 'Bassino', 'Vavassori'];
+  // Nomi da evidenziare in grassetto (puoi aggiungerne altri)
+  const ITALIAN_NAMES = [
+    "Sinner", "Musetti", "Berrettini", "Paolini",
+    "Bolelli", "Vavassori", "Arnaldi", "Sonego", "Cobolli",
+    "Brignone", "Goggia"
+  ];
 
-        function formatText(text) {
-            if (!text) return '-';
-            let formatted = text;
-            italianAthletes.forEach(athlete => {
-                const regex = new RegExp(`\\b(${athlete})\\b`, 'gi');
-                formatted = formatted.replace(regex, '<span class="highlight-athlete">$1</span>');
-            });
-            return formatted;
-        }
+  function escapeHtml(s) {
+    return String(s ?? "").replace(/[&<>"']/g, (m) => ({
+      "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"
+    }[m]));
+  }
 
-        function getIcon(competizione, evento) {
-            const text = ((competizione || '') + ' ' + (evento || '')).toLowerCase();
-            if (text.includes('calcio') || text.includes('serie a') || text.includes('serie d') || text.includes('champions league') || text.includes('europa league') || text.includes('conference league')) return '⚽';
-            if (text.includes('tennis') || text.includes('atp') || text.includes('wta')) return '🎾';
-            if (text.includes('formula 1') || text.includes('f1')) return '🏎️';
-            if (text.includes('motogp') || text.includes('moto gp') || text.includes('moto2') || text.includes('moto3') || text.includes('superbike') || text.includes('sbk')) return '🏍️';
-            if (text.includes('volley') || text.includes('pallavolo') || text.includes('superlega')) return '🏐';
-            if (text.includes('sci')) return '⛷️';
-            return '🏆';
-        }
+  function highlightItalians(text) {
+    let out = escapeHtml(text ?? "-");
+    for (const name of ITALIAN_NAMES) {
+      const re = new RegExp(`\\b(${name})\\b`, "gi");
+      out = out.replace(re, "<strong class=\"highlight-athlete\">$1</strong>");
+    }
+    return out;
+  }
 
-        fetch('data.json?v=' + new Date().getTime())
-            .then(response => response.json())
-            .then(data => {
-                const container = document.getElementById('schedule-container');
-                
-                if (!data || data.length === 0) {
-                    container.innerHTML = '<div class="no-events">Nessun evento sportivo in TV oggi nelle categorie specificate.</div>';
-                    return;
-                }
+  function detectSport(ev) {
+    const s = `${ev?.competizione ?? ""} ${ev?.evento ?? ""}`.toLowerCase();
+    if (s.includes("atp") || s.includes("wta") || s.includes("tennis")) return "tennis";
+    if (s.includes("formula 1") || s.includes(" f1")) return "f1";
+    if (s.includes("motogp") || s.includes("moto2") || s.includes("moto3") || s.includes("sbk") || s.includes("superbike")) return "motogp";
+    if (s.includes("volley") || s.includes("pallavolo") || s.includes("superlega")) return "volley";
+    if (s.includes("sci") || s.includes("slalom") || s.includes("discesa") || s.includes("superg") || s.includes("gigante")) return "sci";
+    if (s.includes("serie a") || s.includes("champions") || s.includes("europa") || s.includes("conference") || s.includes("calcio")) return "calcio";
+    return "altro";
+  }
 
-                let html = `
-                    <div class="table-responsive">
-                        <table>
-                            <thead>
-                                <tr>
-                                    <th>Orario (CET)</th>
-                                    <th>Evento/Partita</th>
-                                    <th>Competizione</th>
-                                    <th>Canale TV</th>
-                                    <th>Note</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                `;
+  const SPORT_ICON = {
+    calcio: "⚽",
+    tennis: "🎾",
+    f1: "🏎️",
+    motogp: "🏍️",
+    volley: "🏐",
+    sci: "🎿",
+    altro: "🏟️"
+  };
 
-                data.forEach(event => {
-                    const icon = getIcon(event.competizione, event.evento);
-                    html += `
-                        <tr>
-                            <td class="time">${event.orario}</td>
-                            <td>${formatText(event.evento)}</td>
-                            <td><span class="sport-icon">${icon}</span>${event.competizione}</td>
-                            <td class="channel">${event.canale}</td>
-                            <td>${formatText(event.note)}</td>
-                        </tr>
-                    `;
-                });
+  fetch('data.json?v=' + new Date().getTime())
+    .then(r => r.json())
+    .then(data => {
+      const container = document.getElementById('schedule-container');
 
-                html += `
-                            </tbody>
-                        </table>
-                    </div>
-                `;
-                container.innerHTML = html;
-            })
-            .catch(error => {
-                console.error('Error loading data:', error);
-                document.getElementById('schedule-container').innerHTML = 
-                    '<div class="no-events" style="color: red;">Impossibile caricare i dati. Assicurati di aver generato i risultati.</div>';
-            });
-    </script>
+      if (!Array.isArray(data) || data.length === 0) {
+        container.innerHTML = '<div class="no-events">Nessun evento sportivo italiano in TV oggi nelle categorie specificate.</div>';
+        return;
+      }
+
+      let html = `
+        <div class="table-responsive">
+          <table>
+            <thead>
+              <tr>
+                <th>Orario (CET)</th>
+                <th>Evento/Partita</th>
+                <th>Competizione/Tipologia</th>
+                <th>Canale TV</th>
+                <th>Note aggiuntive</th>
+              </tr>
+            </thead>
+            <tbody>
+      `;
+
+      data.forEach(ev => {
+        const sport = detectSport(ev);
+        const icon = SPORT_ICON[sport] || SPORT_ICON.altro;
+
+        html += `
+          <tr>
+            <td class="time">${escapeHtml(ev.orario)}</td>
+            <td>${highlightItalians(ev.evento)}</td>
+            <td><span class="sport-icon" title="${sport}">${icon}</span>${highlightItalians(ev.competizione)}</td>
+            <td class="channel">${escapeHtml(ev.canale)}</td>
+            <td>${highlightItalians(ev.note || "-")}</td>
+          </tr>
+        `;
+      });
+
+      html += `
+            </tbody>
+          </table>
+        </div>
+      `;
+
+      container.innerHTML = html;
+    })
+    .catch(err => {
+      console.error(err);
+      document.getElementById('schedule-container').innerHTML =
+        '<div class="no-events" style="color: red;">Impossibile caricare i dati. Assicurati di aver generato i risultati.</div>';
+    });
+</script>
 </body>
 </html>
