@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programma Sportivo Italiano in TV Oggi</title>
+    <style>
+        :root {
+            --bg-color: #f4f7f9;
+            --text-primary: #333333;
+            --text-secondary: #555555;
+            --accent-color: #e67e22;
+            --header-bg: #2c3e50;
+            --header-text: #ffffff;
+            --card-bg: #ffffff;
+            --border-color: #e0e0e0;
+        }
+        body {
+            font-family: 'Inter', 'Roboto', 'Open Sans', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            color: var(--header-bg);
+            margin-bottom: 30px;
+            font-weight: 700;
+        }
+        .schedule-container {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+            padding: 20px;
+            min-height: 200px;
+        }
+        .no-events {
+            text-align: center;
+            font-size: 1.5rem;
+            color: var(--text-secondary);
+            padding: 50px 20px;
+            font-weight: bold;
+        }
+        .table-responsive {
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            white-space: nowrap;
+        }
+        thead {
+            background-color: var(--header-bg);
+            color: var(--header-text);
+        }
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+        th {
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            letter-spacing: 0.5px;
+        }
+        tbody tr:hover {
+            background-color: rgba(230, 126, 34, 0.05);
+        }
+        .time {
+            font-weight: bold;
+            color: var(--accent-color);
+        }
+        .channel {
+            font-weight: 600;
+        }
+        @media (max-width: 768px) {
+            table, thead, tbody, th, td, tr { display: block; }
+            thead tr { position: absolute; top: -9999px; left: -9999px; }
+            tr {
+                border: 1px solid var(--border-color);
+                margin-bottom: 15px;
+                border-radius: 8px;
+                background: var(--card-bg);
+            }
+            td {
+                border: none;
+                position: relative;
+                padding-left: 50%;
+                text-align: right;
+                border-bottom: 1px solid #eee;
+            }
+            td:before {
+                position: absolute;
+                top: 15px;
+                left: 15px;
+                width: 45%;
+                padding-right: 10px;
+                white-space: nowrap;
+                text-align: left;
+                font-weight: bold;
+                color: var(--text-secondary);
+            }
+            td:nth-of-type(1):before { content: "Orario (CET)"; }
+            td:nth-of-type(2):before { content: "Evento/Partita"; }
+            td:nth-of-type(3):before { content: "Competizione/Tipologia"; }
+            td:nth-of-type(4):before { content: "Canale TV"; }
+            td:nth-of-type(5):before { content: "Note aggiuntive"; }
+            .time { text-align: right; display: block; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Programma Sportivo Italiano in TV Oggi</h1>
+        <div id="date-display" style="text-align: center; margin-bottom: 20px; font-weight: bold; color: var(--accent-color);"></div>
+        <div class="schedule-container" id="schedule-container">
+            <div style="text-align:center; padding: 20px;">Caricamento in corso...</div>
+        </div>
+    </div>
+
+    <script>
+        const options = { timeZone: 'Europe/Rome', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('date-display').innerText = new Date().toLocaleDateString('it-IT', options).toUpperCase();
+
+        fetch('data.json?v=' + new Date().getTime()) // cache buster
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('schedule-container');
+                
+                if (!data || data.length === 0) {
+                    container.innerHTML = '<div class="no-events">Nessun evento sportivo italiano in TV oggi nelle categorie specificate.</div>';
+                    return;
+                }
+
+                let html = `
+                    <div class="table-responsive">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Orario (CET)</th>
+                                    <th>Evento/Partita</th>
+                                    <th>Competizione/Tipologia</th>
+                                    <th>Canale TV</th>
+                                    <th>Note aggiuntive</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                `;
+
+                data.forEach(event => {
+                    html += `
+                        <tr>
+                            <td class="time">${event.orario}</td>
+                            <td>${event.evento}</td>
+                            <td>${event.competizione}</td>
+                            <td class="channel">${event.canale}</td>
+                            <td>${event.note || '-'}</td>
+                        </tr>
+                    `;
+                });
+
+                html += `
+                            </tbody>
+                        </table>
+                    </div>
+                `;
+                container.innerHTML = html;
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+                document.getElementById('schedule-container').innerHTML = 
+                    '<div class="no-events" style="color: red;">Impossibile caricare i dati. Assicurati che il file data.json esista.</div>';
+            });
+    </script>
+</body>
+</html>
