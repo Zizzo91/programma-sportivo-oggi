@@ -81,6 +81,14 @@
         .channel {
             font-weight: 600;
         }
+        .sport-icon {
+            margin-right: 8px;
+            font-size: 1.2rem;
+        }
+        .highlight-athlete {
+            color: var(--header-bg);
+            font-weight: 800;
+        }
         @media (max-width: 768px) {
             table, thead, tbody, th, td, tr { display: block; }
             thead tr { position: absolute; top: -9999px; left: -9999px; }
@@ -130,13 +138,36 @@
         const options = { timeZone: 'Europe/Rome', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
         document.getElementById('date-display').innerText = new Date().toLocaleDateString('it-IT', options).toUpperCase();
 
-        fetch('data.json?v=' + new Date().getTime()) // cache buster
+        const italianAthletes = ['Sinner', 'Musetti', 'Berrettini', 'Paolini', 'Brignone', 'Goggia', 'Cobolli', 'Arnaldi', 'Sonego', 'Bassino', 'Vavassori'];
+
+        function formatText(text) {
+            if (!text) return '-';
+            let formatted = text;
+            italianAthletes.forEach(athlete => {
+                const regex = new RegExp(`\\b(${athlete})\\b`, 'gi');
+                formatted = formatted.replace(regex, '<span class="highlight-athlete">$1</span>');
+            });
+            return formatted;
+        }
+
+        function getIcon(competizione, evento) {
+            const text = ((competizione || '') + ' ' + (evento || '')).toLowerCase();
+            if (text.includes('calcio') || text.includes('serie a') || text.includes('serie d') || text.includes('champions league') || text.includes('europa league') || text.includes('conference league')) return '⚽';
+            if (text.includes('tennis') || text.includes('atp') || text.includes('wta')) return '🎾';
+            if (text.includes('formula 1') || text.includes('f1')) return '🏎️';
+            if (text.includes('motogp') || text.includes('moto gp') || text.includes('moto2') || text.includes('moto3') || text.includes('superbike') || text.includes('sbk')) return '🏍️';
+            if (text.includes('volley') || text.includes('pallavolo') || text.includes('superlega')) return '🏐';
+            if (text.includes('sci')) return '⛷️';
+            return '🏆';
+        }
+
+        fetch('data.json?v=' + new Date().getTime())
             .then(response => response.json())
             .then(data => {
                 const container = document.getElementById('schedule-container');
                 
                 if (!data || data.length === 0) {
-                    container.innerHTML = '<div class="no-events">Nessun evento sportivo italiano in TV oggi nelle categorie specificate.</div>';
+                    container.innerHTML = '<div class="no-events">Nessun evento sportivo in TV oggi nelle categorie specificate.</div>';
                     return;
                 }
 
@@ -147,22 +178,23 @@
                                 <tr>
                                     <th>Orario (CET)</th>
                                     <th>Evento/Partita</th>
-                                    <th>Competizione/Tipologia</th>
+                                    <th>Competizione</th>
                                     <th>Canale TV</th>
-                                    <th>Note aggiuntive</th>
+                                    <th>Note</th>
                                 </tr>
                             </thead>
                             <tbody>
                 `;
 
                 data.forEach(event => {
+                    const icon = getIcon(event.competizione, event.evento);
                     html += `
                         <tr>
                             <td class="time">${event.orario}</td>
-                            <td>${event.evento}</td>
-                            <td>${event.competizione}</td>
+                            <td>${formatText(event.evento)}</td>
+                            <td><span class="sport-icon">${icon}</span>${event.competizione}</td>
                             <td class="channel">${event.canale}</td>
-                            <td>${event.note || '-'}</td>
+                            <td>${formatText(event.note)}</td>
                         </tr>
                     `;
                 });
@@ -177,7 +209,7 @@
             .catch(error => {
                 console.error('Error loading data:', error);
                 document.getElementById('schedule-container').innerHTML = 
-                    '<div class="no-events" style="color: red;">Impossibile caricare i dati. Assicurati che il file data.json esista.</div>';
+                    '<div class="no-events" style="color: red;">Impossibile caricare i dati. Assicurati di aver generato i risultati.</div>';
             });
     </script>
 </body>
