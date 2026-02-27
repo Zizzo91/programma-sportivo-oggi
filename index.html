@@ -35,11 +35,12 @@
         }
         .schedule-container {
             background-color: var(--card-bg);
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            overflow: hidden;
-            padding: 20px;
+            border-radius: 14px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            border: 1px solid rgba(44, 62, 80, 0.10);
+            padding: 22px;
             min-height: 200px;
+            overflow: visible;
         }
         .no-events {
             text-align: center;
@@ -54,16 +55,19 @@
         table {
             width: 100%;
             border-collapse: collapse;
-            white-space: nowrap;
+            table-layout: fixed;
         }
         thead {
-            background-color: var(--header-bg);
+            background: linear-gradient(90deg, #2c3e50, #243646);
             color: var(--header-text);
         }
         th, td {
             padding: 15px;
             text-align: left;
             border-bottom: 1px solid var(--border-color);
+            vertical-align: top;
+            overflow-wrap: anywhere;
+            word-break: break-word;
         }
         th {
             font-weight: 600;
@@ -88,6 +92,17 @@
         .highlight-athlete {
             color: var(--header-bg);
             font-weight: 800;
+        }
+        .chip {
+            display:inline-block;
+            padding: 6px 10px;
+            border-radius: 999px;
+            background: rgba(44, 62, 80, 0.08);
+            border: 1px solid rgba(44, 62, 80, 0.10);
+            font-weight: 650;
+            font-size: 0.95rem;
+            margin: 2px 6px 2px 0;
+            white-space: nowrap;
         }
         @media (max-width: 768px) {
             table, thead, tbody, th, td, tr { display: block; }
@@ -151,6 +166,21 @@
     return String(s ?? "").replace(/[&<>"']/g, (m) => ({
       "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"
     }[m]));
+  }
+
+  function formatChannel(canale) {
+    const raw = String(canale ?? "").trim();
+    if (!raw) return "-";
+
+    // Split su "/" e "," per spezzare Sky/DAZN ecc.
+    const parts = raw
+      .split(/\/|,/g)
+      .map(s => s.trim())
+      .filter(Boolean);
+
+    return parts.length
+      ? parts.map(p => `<span class="chip">${escapeHtml(p)}</span>`).join(" ")
+      : escapeHtml(raw);
   }
 
   function highlightItalians(text) {
@@ -217,7 +247,7 @@
             <td class="time">${escapeHtml(ev.orario)}</td>
             <td>${highlightItalians(ev.evento)}</td>
             <td><span class="sport-icon" title="${sport}">${icon}</span>${highlightItalians(ev.competizione)}</td>
-            <td class="channel">${escapeHtml(ev.canale)}</td>
+            <td class="channel">${formatChannel(ev.canale)}</td>
             <td>${highlightItalians(ev.note || "-")}</td>
           </tr>
         `;
