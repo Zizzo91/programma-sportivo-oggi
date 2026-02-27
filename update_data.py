@@ -33,8 +33,8 @@ I campi per ogni oggetto devono essere esattamente: "orario", "evento", "competi
 Se non ci sono eventi in programma oggi in queste categorie, restituisci un array vuoto: []
 """
 
-# Usiamo un modello che supporta la ricerca su Google
-model = genai.GenerativeModel('gemini-2.5-pro')
+# Utilizzo la versione Flash che è gratuita/inclusa nel tier free
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 try:
     # Abilitiamo il tool di ricerca su Google per permettere a Gemini di cercare il palinsesto di oggi
