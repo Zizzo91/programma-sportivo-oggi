@@ -2,7 +2,8 @@ import os
 import json
 import datetime
 import pytz
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # Setup timezone
 rome_tz = pytz.timezone('Europe/Rome')
@@ -14,7 +15,8 @@ if not api_key:
     print("GEMINI_API_KEY non trovata nelle Github Secrets.")
     exit(1)
 
-genai.configure(api_key=api_key)
+# Inizializza il nuovo client unificato
+client = genai.Client(api_key=api_key)
 
 prompt = f"""
 1. Obiettivo: FAI UNA RICERCA SUL WEB per trovare e compilare una lista di eventi sportivi italiani in TV per la data di oggi, che è: {date_str}. 
@@ -33,15 +35,22 @@ I campi per ogni oggetto devono essere esattamente: "orario", "evento", "competi
 Se non ci sono eventi in programma oggi in queste categorie, restituisci un array vuoto: []
 """
 
-# Utilizziamo la versione 1.5-flash che è gratuita, veloce e 
-# pienamente compatibile con il tool google_search_retrieval tramite l'SDK attuale
-model = genai.GenerativeModel('gemini-1.5-flash')
-
 try:
-    # Abilitiamo il tool di ricerca su Google
-    response = model.generate_content(
-        prompt,
-        tools='google_search_retrieval'
+    # Configura il tool di ricerca secondo il nuovo SDK
+    grounding_tool = types.Tool(
+        google_search=types.GoogleSearch()
+    )
+
+    # Configura le impostazioni di generazione
+    config = types.GenerateContentConfig(
+        tools=[grounding_tool]
+    )
+
+    # Effettua la richiesta usando l'API aggiornata e il modello 2.5-flash
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt,
+        config=config,
     )
     
     result_text = response.text.strip()
@@ -57,7 +66,7 @@ try:
         
     result_text = result_text.strip()
     
-    # Se il modello restituisce una stringa vuota ma non ha dato errore
+    # Se il modello restituisce una stringa vuota
     if not result_text:
         result_text = "[]"
     
