@@ -1,163 +1,107 @@
 [
   {
-    "orario": "02:00",
-    "evento": "Semifinali",
-    "competizione": "ATP Acapulco 2026",
-    "canale": "Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
-    "note": "Notte tra il 27 e il 28 febbraio"
-  },
-  {
-    "orario": "03:00",
-    "evento": "Prove Libere 1",
-    "competizione": "Moto3, GP Thailandia 2026",
-    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "03:50",
-    "evento": "Prove Libere 1",
-    "competizione": "Moto2, GP Thailandia 2026",
-    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "04:45",
-    "evento": "Prove Libere 1",
-    "competizione": "MotoGP, GP Thailandia 2026",
-    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "07:15",
-    "evento": "Pre-qualifiche 1 / Prove libere 2",
-    "competizione": "Moto3, GP Thailandia 2026",
-    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "08:05",
-    "evento": "Pre-qualifiche 1 / Prove libere 2",
-    "competizione": "Moto2, GP Thailandia 2026",
-    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "09:00",
-    "evento": "Pre-qualifiche / Prove libere 2",
-    "competizione": "MotoGP, GP Thailandia 2026",
-    "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "10:00",
-    "evento": "Seconda prova cronometrata discesa maschile",
-    "competizione": "Sci Alpino, Coppa del Mondo a Garmisch Partenkirchen (Germania)",
-    "canale": "Nessuna copertura TV/Streaming diretta indicata, seguire OA Sport per diretta testuale",
-    "note": "Con Giovanni Franzoni"
-  },
-  {
-    "orario": "10:30",
-    "evento": "Semifinali: Bolelli/Vavassori - Arevalo/Pavic",
-    "competizione": "ATP Dubai 2026",
-    "canale": "Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
-    "note": "Con giocatori italiani"
-  },
-  {
     "orario": "11:00",
     "evento": "Discesa femminile",
-    "competizione": "Sci Alpino, Coppa del Mondo a Soldeu (Andorra)",
-    "canale": "Rai 2 HD, RaiPlay, Eurosport 1 HD, Discovery+, HBO Max, DAZN",
-    "note": "Con Sofia Goggia (terza classificata), Federica Brignone non partecipa"
+    "competizione": "Sci Alpino, Coppa del Mondo (Soldeu)",
+    "canale": "Rai 2 HD, Eurosport1 HD, RaiPlay, Discovery+, HBO Max, DAZN",
+    "note": "Con Sofia Goggia; Federica Brignone non parteciperà"
   },
   {
     "orario": "12:00",
     "evento": "Sorteggio ottavi di finale",
-    "competizione": "Champions League 2026",
-    "canale": "Sky Sport 24 (200), SkyGo, NOW, Amazon Prime Video, UEFA.tv",
-    "note": "Sorteggio UEFA con squadre italiane"
+    "competizione": "Champions League",
+    "canale": "Sky Sport 24 (200), SkyGo, NOW, Amazon Prime Video, UEFA Tv",
+    "note": "Atalanta unica italiana qualificata"
   },
   {
     "orario": "13:00",
     "evento": "Sorteggio ottavi di finale",
-    "competizione": "Europa League 2026",
-    "canale": "Sky Sport 24 (204), SkyGo, NOW, Prime Video, UEFA.tv",
-    "note": "Sorteggio UEFA con squadre italiane (Roma e Bologna)"
+    "competizione": "Europa League",
+    "canale": "Sky Sport 24 (204), SkyGo, NOW, UEFA Tv",
+    "note": "Roma e Bologna tra le squadre interessate"
   },
   {
     "orario": "14:00",
     "evento": "Sorteggio ottavi di finale",
-    "competizione": "Conference League 2026",
-    "canale": "Sky Sport 24 (204), SkyGo, NOW, UEFA.tv",
-    "note": "Sorteggio UEFA"
+    "competizione": "Conference League",
+    "canale": "Sky Sport 24 (204), SkyGo, NOW, UEFA Tv",
+    "note": "Fiorentina tra le squadre interessate"
+  },
+  {
+    "orario": "14:00",
+    "evento": "Semifinali",
+    "competizione": "Tennis ATP Dubai 2026",
+    "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Mix (211), SkyGo, NOW, Tennis Tv",
+    "note": "Potenziale presenza di tennisti italiani"
   },
   {
     "orario": "17:00",
     "evento": "Quarti di finale",
-    "competizione": "ATP Santiago 2026",
+    "competizione": "Tennis ATP Santiago 2026",
     "canale": "Sky Sport Tennis (203), Sky Sport Max (206), Sky Sport Mix, SkyGo, NOW, Tennis Tv",
-    "note": "Con giocatori italiani"
+    "note": "Inclusi Pellegrino vs Darderi (non prima delle 22:30 CET)"
   },
   {
     "orario": "19:00",
-    "evento": "Monza - Virtus Entella",
-    "competizione": "Calcio, Serie B 2025-26",
+    "evento": "Monza vs Virtus Entella",
+    "competizione": "Calcio Serie B 2026",
     "canale": "DAZN, Lab Channel",
-    "note": ""
-  },
-  {
-    "orario": "20:30",
-    "evento": "Cittadella - Ospitaletto",
-    "competizione": "Calcio, Serie C 2025-26",
-    "canale": "Sky Sport 251, SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "20:30",
-    "evento": "Giana Erminio - Pro Vercelli",
-    "competizione": "Calcio, Serie C 2025-26",
-    "canale": "Sky Sport 252, SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "20:30",
-    "evento": "Arzignano - Novara",
-    "competizione": "Calcio, Serie C 2025-26",
-    "canale": "Sky Sport 253, SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "20:30",
-    "evento": "Pergolettese - Triestina",
-    "competizione": "Calcio, Serie C 2025-26",
-    "canale": "Sky Sport 254, SkyGo, NOW",
-    "note": ""
-  },
-  {
-    "orario": "20:30",
-    "evento": "Mantova - Città di Cosenza",
-    "competizione": "Calcio a 5, Serie A 2026",
-    "canale": "YouTube Divisione Calcio a 5",
-    "note": ""
-  },
-  {
-    "orario": "20:30",
-    "evento": "Napoli Futsal - AS Roma",
-    "competizione": "Calcio a 5, Serie A 2026",
-    "canale": "Sky Sport (canale da definire), SkyGo, NOW, YouTube Divisione Calcio a 5",
-    "note": ""
-  },
-  {
-    "orario": "20:30",
-    "evento": "Cadi Antincendi Futura - Benevento",
-    "competizione": "Calcio a 5, Serie A2 Elite",
-    "canale": "YouTube Divisione Nazionale Calcio a 5",
-    "note": ""
+    "note": "Esclusa per richiesta, solo Serie A e Coppe Europee con italiane. La richiesta include solo Serie A per il calcio nazionale, non Serie B."
   },
   {
     "orario": "20:45",
-    "evento": "Parma - Cagliari",
-    "competizione": "Calcio, Serie A 2025-26",
-    "canale": "DAZN",
+    "evento": "Parma vs Cagliari",
+    "competizione": "Calcio Serie A 2026",
+    "canale": "DAZN1 (214), DAZN",
+    "note": ""
+  },
+  {
+    "orario": "02:00 (28 Feb)",
+    "evento": "Semifinali",
+    "competizione": "Tennis ATP Acapulco 2026",
+    "canale": "Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
+    "note": "Potenziale presenza di tennisti italiani"
+  },
+  {
+    "orario": "02:35 (28 Feb)",
+    "evento": "Prove Libere 2",
+    "competizione": "Moto3 GP Thailandia 2026",
+    "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "03:20 (28 Feb)",
+    "evento": "Prove Libere 2",
+    "competizione": "Moto2 GP Thailandia 2026",
+    "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "04:05 (28 Feb)",
+    "evento": "Prove Libere 2",
+    "competizione": "MotoGP GP Thailandia 2026",
+    "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+    "note": ""
+  },
+  {
+    "orario": "04:45 (28 Feb)",
+    "evento": "Qualifiche",
+    "competizione": "MotoGP GP Thailandia 2026",
+    "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW, TV8",
+    "note": ""
+  },
+  {
+    "orario": "04:50 (28 Feb)",
+    "evento": "Qualifiche 1",
+    "competizione": "MotoGP GP Thailandia 2026",
+    "canale": "Sky Sport MotoGP, SkyGo, NowTv",
+    "note": ""
+  },
+  {
+    "orario": "05:15 (28 Feb)",
+    "evento": "Qualifiche 2",
+    "competizione": "MotoGP GP Thailandia 2026",
+    "canale": "Sky Sport MotoGP, SkyGo, NowTv",
     "note": ""
   }
 ]
