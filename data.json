@@ -1,107 +1,72 @@
 [
   {
-    "orario": "11:00",
-    "evento": "Discesa femminile",
-    "competizione": "Sci Alpino, Coppa del Mondo (Soldeu)",
-    "canale": "Rai 2 HD, Eurosport1 HD, RaiPlay, Discovery+, HBO Max, DAZN",
-    "note": "Con Sofia Goggia; Federica Brignone non parteciperà"
-  },
-  {
-    "orario": "12:00",
-    "evento": "Sorteggio ottavi di finale",
-    "competizione": "Champions League",
-    "canale": "Sky Sport 24 (200), SkyGo, NOW, Amazon Prime Video, UEFA Tv",
-    "note": "Atalanta unica italiana qualificata"
-  },
-  {
-    "orario": "13:00",
-    "evento": "Sorteggio ottavi di finale",
-    "competizione": "Europa League",
-    "canale": "Sky Sport 24 (204), SkyGo, NOW, UEFA Tv",
-    "note": "Roma e Bologna tra le squadre interessate"
-  },
-  {
-    "orario": "14:00",
-    "evento": "Sorteggio ottavi di finale",
-    "competizione": "Conference League",
-    "canale": "Sky Sport 24 (204), SkyGo, NOW, UEFA Tv",
-    "note": "Fiorentina tra le squadre interessate"
-  },
-  {
-    "orario": "14:00",
-    "evento": "Semifinali",
-    "competizione": "Tennis ATP Dubai 2026",
-    "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Mix (211), SkyGo, NOW, Tennis Tv",
-    "note": "Potenziale presenza di tennisti italiani"
-  },
-  {
-    "orario": "17:00",
-    "evento": "Quarti di finale",
-    "competizione": "Tennis ATP Santiago 2026",
-    "canale": "Sky Sport Tennis (203), Sky Sport Max (206), Sky Sport Mix, SkyGo, NOW, Tennis Tv",
-    "note": "Inclusi Pellegrino vs Darderi (non prima delle 22:30 CET)"
-  },
-  {
-    "orario": "19:00",
-    "evento": "Monza vs Virtus Entella",
-    "competizione": "Calcio Serie B 2026",
-    "canale": "DAZN, Lab Channel",
-    "note": "Esclusa per richiesta, solo Serie A e Coppe Europee con italiane. La richiesta include solo Serie A per il calcio nazionale, non Serie B."
-  },
-  {
-    "orario": "20:45",
-    "evento": "Parma vs Cagliari",
-    "competizione": "Calcio Serie A 2026",
-    "canale": "DAZN1 (214), DAZN",
+    "orario": "04:10 CET",
+    "evento": "Prove libere 3 MotoGP",
+    "competizione": "GP Thailandia (MotoGP)",
+    "canale": "Sky Sport MotoGP",
     "note": ""
   },
   {
-    "orario": "02:00 (28 Feb)",
-    "evento": "Semifinali",
-    "competizione": "Tennis ATP Acapulco 2026",
-    "canale": "Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
-    "note": "Potenziale presenza di tennisti italiani"
-  },
-  {
-    "orario": "02:35 (28 Feb)",
-    "evento": "Prove Libere 2",
-    "competizione": "Moto3 GP Thailandia 2026",
-    "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+    "orario": "04:50 CET",
+    "evento": "Qualifiche MotoGP",
+    "competizione": "GP Thailandia (MotoGP)",
+    "canale": "Sky Sport MotoGP, TV8",
     "note": ""
   },
   {
-    "orario": "03:20 (28 Feb)",
-    "evento": "Prove Libere 2",
-    "competizione": "Moto2 GP Thailandia 2026",
-    "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+    "orario": "09:00 CET",
+    "evento": "Gara Sprint MotoGP",
+    "competizione": "GP Thailandia (MotoGP)",
+    "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
     "note": ""
   },
   {
-    "orario": "04:05 (28 Feb)",
-    "evento": "Prove Libere 2",
-    "competizione": "MotoGP GP Thailandia 2026",
-    "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
-    "note": ""
+    "orario": "10:15 CET",
+    "evento": "SuperG femminile",
+    "competizione": "Coppa del Mondo Sci Alpino Soldeu",
+    "canale": "Rai 2 HD, Rai Play, Eurosport 1 HD, Discovery Plus, DAZN, HBO Max",
+    "note": "Con Federica Brignone (pettorale 10) e Sofia Goggia (pettorale 9)"
   },
   {
-    "orario": "04:45 (28 Feb)",
-    "evento": "Qualifiche",
-    "competizione": "MotoGP GP Thailandia 2026",
-    "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW, TV8",
-    "note": ""
+    "orario": "15:00 CET",
+    "evento": "Como-Lecce",
+    "competizione": "Serie A",
+    "canale": "DAZN",
+    "note": "27ª giornata"
   },
   {
-    "orario": "04:50 (28 Feb)",
-    "evento": "Qualifiche 1",
-    "competizione": "MotoGP GP Thailandia 2026",
-    "canale": "Sky Sport MotoGP, SkyGo, NowTv",
-    "note": ""
+    "orario": "15:30 CET",
+    "evento": "Semifinale Supercoppa Italiana Volley: Trento-Perugia",
+    "competizione": "Supercoppa Italiana Volley Maschile",
+    "canale": "Rai Play Sport 3, VBTV",
+    "note": "A Trieste"
   },
   {
-    "orario": "05:15 (28 Feb)",
-    "evento": "Qualifiche 2",
-    "competizione": "MotoGP GP Thailandia 2026",
-    "canale": "Sky Sport MotoGP, SkyGo, NowTv",
-    "note": ""
+    "orario": "18:00 CET",
+    "evento": "Verona-Napoli",
+    "competizione": "Serie A",
+    "canale": "DAZN",
+    "note": "27ª giornata"
+  },
+  {
+    "orario": "20:00 CET",
+    "evento": "Reggina-Sancataldese",
+    "competizione": "Serie D Girone I",
+    "canale": "playreggina (streaming)",
+    "note": "26ª giornata"
+  },
+  {
+    "orario": "20:45 CET",
+    "evento": "Inter-Genoa",
+    "competizione": "Serie A",
+    "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+    "note": "27ª giornata"
+  },
+  {
+    "orario": "04:40 CET (01/03)",
+    "evento": "Warm Up MotoGP",
+    "competizione": "GP Thailandia (MotoGP)",
+    "canale": "Sky Sport MotoGP",
+    "note": "Parte del palinsesto notturno del GP Thailandia"
   }
 ]
