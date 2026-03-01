@@ -3,7 +3,7 @@ name: Aggiorna Dati Sportivi
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6,7 * * *'  # 08:00 Europe/Rome (gestisce CET/CEST via gate)
+    - cron: '0 6,7 * * *'  # 07:00 Europe/Rome (gestisce CET/CEST via gate)
 
 jobs:
   update-data:
@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Decide se eseguire (08:00 Europe/Rome)
+      - name: Decide se eseguire (07:00 Europe/Rome)
         run: |
           echo "RUN_UPDATE=false" >> $GITHUB_ENV
 
@@ -23,7 +23,7 @@ jobs:
 
           hour=$(TZ='Europe/Rome' date +'%H')
           echo "Ora Europe/Rome: $hour"
-          if [ "$hour" = "08" ]; then
+          if [ "$hour" = "07" ]; then
             echo "RUN_UPDATE=true" >> $GITHUB_ENV
           fi
 
