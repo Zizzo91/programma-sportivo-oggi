@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Programma Sportivo Italiano in TV Oggi</title>
+    <!-- PWA Meta Tags -->
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#1e293b">
+    <link rel="apple-touch-icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzFBMjAyQyIgcng9IjIwIi8+PHRleHQgeD0iNTAiIHk9IjY1IiBmb250LXNpemU9IjUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjRkZGRkZGIj7irbQ8L3RleHQ+PC9zdmc+">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -96,7 +102,6 @@
             font-weight: 800;
             font-size: 2.5rem;
             letter-spacing: -0.5px;
-            /* Rimuoviamo il clip di testo in dark mode per leggibilità, lo teniamo in light */
         }
         
         [data-theme="light"] h1 {
@@ -298,6 +303,24 @@
             box-shadow: inset 4px 0 0 var(--accent-color);
         }
 
+        /* In Corso Style */
+        tbody tr.live-now {
+            background-color: rgba(239, 68, 68, 0.05);
+            border-left: 4px solid #ef4444;
+        }
+        
+        [data-theme="dark"] tbody tr.live-now {
+            background-color: rgba(239, 68, 68, 0.1);
+        }
+
+        tbody tr.live-now:hover {
+            background-color: rgba(239, 68, 68, 0.08);
+            box-shadow: none;
+        }
+        [data-theme="dark"] tbody tr.live-now:hover {
+            background-color: rgba(239, 68, 68, 0.15);
+        }
+
         tbody tr:last-child td {
             border-bottom: none;
         }
@@ -308,6 +331,10 @@
             color: var(--text-primary);
             font-size: 1.1rem;
             white-space: nowrap;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 4px;
         }
         
         .time-badge {
@@ -331,6 +358,24 @@
         
         [data-theme="dark"] .time-badge.stimato {
             color: #fbbf24;
+        }
+
+        .live-badge {
+            background: #ef4444;
+            color: white;
+            font-size: 0.7rem;
+            padding: 2px 6px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-weight: 800;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.6; }
+            100% { opacity: 1; }
         }
 
         .evento-testo {
@@ -446,6 +491,10 @@
                 transform: none;
                 box-shadow: 0 10px 25px rgba(0,0,0,0.08);
             }
+            
+            tr.live-now {
+                border-left: 4px solid #ef4444;
+            }
 
             td {
                 border: none;
@@ -529,10 +578,18 @@
     </div>
 
     <script>
+  // --- Service Worker Registration per PWA ---
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js')
+        .then(reg => console.log('Service Worker registrato con successo.', reg))
+        .catch(err => console.log('Registrazione Service Worker fallita.', err));
+    });
+  }
+
   // --- Gestione Tema (Dark/Light) ---
   const themeBtn = document.getElementById('theme-toggle-btn');
   
-  // Controlla preferenza salvata o tema di sistema
   const savedTheme = localStorage.getItem('theme');
   const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
   
@@ -621,8 +678,47 @@
     if (s.includes("serie a") || s.includes("champions") || s.includes("europa") || s.includes("conference") || s.includes("calcio") || s.includes("premier") || s.includes("liga")) return "calcio";
     return "altro";
   }
+  
+  // Funzione per convertire stringa orario (es "15:30") in minuti per ordinamento
+  function timeToMinutes(timeStr) {
+      if (!timeStr || timeStr === "TBA" || timeStr === "TBD") return 9999; // TBA in fondo
+      const cleanStr = timeStr.replace('*', '').trim();
+      const match = cleanStr.match(/(\d{1,2})[.:](\d{2})/);
+      if (match) {
+          let h = parseInt(match[1], 10);
+          let m = parseInt(match[2], 10);
+          // Sposta gli eventi notturni (00:00 - 05:59) alla fine della giornata logica (aggiunge 24h)
+          if (h >= 0 && h < 6) h += 24;
+          return h * 60 + m;
+      }
+      return 9999;
+  }
+  
+  // Controlla se un evento è in corso (entro 2 ore dall'inizio)
+  function isLiveNow(timeStr) {
+      if (!timeStr || timeStr === "TBA") return false;
+      const cleanStr = timeStr.replace('*', '').trim();
+      const match = cleanStr.match(/(\d{1,2})[.:](\d{2})/);
+      if (!match) return false;
+      
+      const eventH = parseInt(match[1], 10);
+      const eventM = parseInt(match[2], 10);
+      
+      const now = new Date();
+      const nowH = now.getHours();
+      const nowM = now.getMinutes();
+      
+      const eventTotal = eventH * 60 + eventM;
+      const nowTotal = nowH * 60 + nowM;
+      
+      // Se l'evento è iniziato da massimo 120 minuti, consideralo LIVE
+      // (gestione base, non copre il passaggio della mezzanotte, ma per la TV giornaliera è ok)
+      if (nowTotal >= eventTotal && nowTotal <= eventTotal + 120) {
+          return true;
+      }
+      return false;
+  }
 
-  // Mappa categorie per i bottoni filtro
   const FILTER_MAP = {
       calcio: ["calcio"],
       tennis: ["tennis"],
@@ -665,6 +761,9 @@
         return;
       }
 
+      // ORDINAMENTO CRONOLOGICO
+      events.sort((a, b) => timeToMinutes(a.orario) - timeToMinutes(b.orario));
+
       let html = `
         <div class="table-responsive">
           <table id="events-table">
@@ -688,14 +787,21 @@
         
         const isEstim = ev.accuratezza_orario === 'stimato' || ev.accuratezza_orario === 'tba' || String(ev.orario).includes('*');
         const badgeClass = isEstim ? 'time-badge stimato' : 'time-badge';
-        const orarioHtml = isEstim ? `${escapeHtml(ev.orario)} <span title="Orario indicativo" style="cursor:help">⏱️</span>` : escapeHtml(ev.orario);
+        const isLive = isLiveNow(ev.orario);
+        
+        // Costruzione HTML Orario
+        let orarioHtml = `<span class="${badgeClass}">${escapeHtml(ev.orario)}${isEstim ? ' <span title="Orario indicativo" style="cursor:help">⏱️</span>' : ''}</span>`;
+        if (isLive) {
+            orarioHtml += `<span class="live-badge">🔴 Live</span>`;
+        }
         
         const tooltipStr = ev.fonte ? `Fonte informazione: ${escapeHtml(ev.fonte)}` : '';
+        const rowClass = isLive ? 'live-now' : '';
 
         // Aggiungiamo data-sport-type per i bottoni
         html += `
-          <tr data-search="${escapeHtml(searchableText)}" data-sport-type="${sport}" title="${tooltipStr}">
-            <td class="time"><span class="${badgeClass}">${orarioHtml}</span></td>
+          <tr class="${rowClass}" data-search="${escapeHtml(searchableText)}" data-sport-type="${sport}" title="${tooltipStr}">
+            <td class="time">${orarioHtml}</td>
             <td class="evento-testo">${highlightItalians(ev.evento)}</td>
             <td>
                 <span class="sport-icon" title="${sport}">${icon}</span>
