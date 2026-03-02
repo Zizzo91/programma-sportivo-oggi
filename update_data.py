@@ -19,16 +19,15 @@ client = genai.Client(api_key=api_key)
 prompt = f"""
 Obiettivo: FAI UNA RICERCA SUL WEB e compila una lista di eventi sportivi italiani in TV per OGGI ({date_str}) e includi anche gli eventi fino alle 06:00 (CET) del giorno successivo, se considerati parte del palinsesto notturno.
 
-REGOLE CRITICHE SUI FUSI ORARI E TENNIS (es. Indian Wells, Miami, ecc.):
-- In California/USA il fuso orario è indietro di 9/6 ore rispetto all'Italia. DEVI calcolare l'orario italiano esatto (CET/CEST).
-- Se gli articoli dicono "inizio programma alle 19:00", NON assegnare le 19:00 a tutti i giocatori.
-- Se l'orario esatto del match di un italiano non è noto o dipende dai match precedenti, inserisci come orario "TBA" o l'orario stimato italiano (es. "01:00 (stimato)"), e specifica nelle "note" che l'orario è indicativo perché dipende dal termine dei match precedenti.
+REGOLE CRITICHE:
+1. FUSI ORARI E TENNIS (es. Indian Wells, Miami): In USA il fuso orario è indietro di 9/6 ore. DEVI calcolare l'orario italiano esatto (CET/CEST). Se dicono "inizio programma alle 19:00", NON assegnare le 19:00 a tutti i giocatori. Se l'orario esatto del match di un italiano non è noto, inserisci "TBA" o un orario stimato con nota esplicita (es. "Dipende dal match precedente").
+2. REGGINA E SERIE MINORI: I comunicati della Serie D spesso accorpano più giorni. Per inserire una partita della Reggina, devi avere la CERTEZZA ASSOLUTA che si giochi OGGI ({date_str}). Se trovi articoli che parlano di partite già giocate nel weekend (es. anticipi del sabato/domenica) o stai leggendo un riassunto di giornate precedenti, IGNORALE totalmente. Non confondere l'orario del "Monday Night" di altre squadre con la Reggina.
 
 Novità: Per gli eventi in notturna (es. MotoGP, Formula 1, Tennis), includi anche gli orari delle repliche diurne sui canali principali (es. Sky Sport) in una riga separata o nelle note.
 
 Categorie target (INCLUDI):
-- Calcio: Serie A; Champions League / Europa League / Conference League con squadre italiane; Serie D per Reggina
-- Tennis: SOLO match ATP/WTA che includono ALMENO UN GIOCATORE ITALIANO (es. Sinner, Musetti, Berrettini, Paolini, Errani, Cobolli, Arnaldi, Sonego, Bolelli, Vavassori). Se non ci sono italiani in campo, IGNORA IL MATCH.
+- Calcio: Serie A; Champions League / Europa League / Conference League con squadre italiane; Serie D per Reggina (SOLO SE GIOCA ESATTAMENTE OGGI)
+- Tennis: SOLO match ATP/WTA che includono ALMENO UN GIOCATORE ITALIANO (es. Sinner, Musetti, Berrettini, Paolini, Errani, ecc.). Se non ci sono italiani in campo, IGNORA IL MATCH.
 - Formula 1 (Gare, Qualifiche, Prove + Repliche diurne)
 - MotoGP (Gare, Qualifiche, Sprint + Repliche diurne)
 - Volley: SOLO PARTITE DEL MONZA (Vero Volley / Mint Monza). Ignora le altre squadre.
@@ -39,6 +38,7 @@ Categorie da ESCLUDERE esplicitamente:
 - Calcio a 5 / futsal (Serie A, A2, A2 Elite, ecc.)
 - Qualsiasi partita di volley che NON riguardi il Monza.
 - Qualsiasi partita di tennis che NON includa giocatori italiani.
+- Partite della Reggina o di Serie D già disputate in giorni precedenti.
 
 Requisiti:
 - Tutti gli orari in CET (Italiano).
