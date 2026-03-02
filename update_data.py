@@ -19,37 +19,41 @@ client = genai.Client(api_key=api_key)
 prompt = f"""
 Obiettivo: FAI UNA RICERCA SUL WEB e compila una lista di eventi sportivi italiani in TV per OGGI ({date_str}) e includi anche gli eventi fino alle 06:00 (CET) del giorno successivo, se considerati parte del palinsesto notturno.
 
-REGOLE CRITICHE:
-1. FUSI ORARI E TENNIS (es. Indian Wells, Miami): In USA il fuso orario è indietro di 9/6 ore. DEVI calcolare l'orario italiano esatto (CET/CEST). Se dicono "inizio programma alle 19:00", NON assegnare le 19:00 a tutti i giocatori. Se l'orario esatto del match di un italiano non è noto, inserisci "TBA" o un orario stimato.
-2. REGGINA E SERIE MINORI: I comunicati della Serie D spesso accorpano più giorni. Per inserire una partita della Reggina, devi avere la CERTEZZA ASSOLUTA che si giochi OGGI ({date_str}). Se trovi articoli che parlano di partite già giocate nel weekend o riassunti, IGNORALE.
+REGOLE CRITICHE SULLA QUALITA' DEI DATI E AFFIDABILITA':
+1. FUSI ORARI E TENNIS (es. Indian Wells, Miami): In USA il fuso orario è indietro di 9/6 ore. DEVI calcolare l'orario italiano esatto (CET/CEST). Se dicono "inizio programma alle 19:00", NON assegnare le 19:00 a tutti i giocatori.
+2. ACCURATEZZA ORARIO E FONTI: Se l'orario esatto del match non è noto (perché dipende dai match precedenti), l'orario DEVE essere "TBA" oppure un orario stimato (es. "01:00*"). Inserisci sempre la FONTE web nel campo "fonte". Usa il campo "accuratezza_orario" valorizzandolo SOLO con: "esatto", "stimato" o "tba".
+3. REGGINA E SERIE MINORI: I comunicati della Serie D spesso accorpano più giorni. Per inserire una partita della Reggina, devi avere la CERTEZZA ASSOLUTA che si giochi OGGI ({date_str}). Se trovi articoli che parlano di partite già giocate nel weekend (es. anticipi del sabato/domenica), IGNORALE.
 
-Novità: Per gli eventi in notturna, includi anche gli orari delle repliche diurne sui canali principali (es. Sky Sport) in una riga separata o nelle note.
+REGOLE SULLE REPLICHE (Motori):
+- Per Formula 1 e MotoGP in notturna/alba (prima delle 08:00 italiane), aggiungi sempre nelle note: "Repliche previste in giornata sul canale di riferimento".
 
 Categorie target (INCLUDI):
 - Calcio: Serie A; Champions League / Europa League / Conference League con squadre italiane; Serie D per Reggina (SOLO SE GIOCA ESATTAMENTE OGGI)
 - Tennis: SOLO match ATP/WTA che includono ALMENO UN GIOCATORE ITALIANO. Se non ci sono italiani in campo, IGNORA IL MATCH.
-- Formula 1 (Gare, Qualifiche, Prove + Repliche diurne)
-- MotoGP (Gare, Qualifiche, Sprint + Repliche diurne)
+- Formula 1 (Gare, Qualifiche, Prove)
+- MotoGP (Gare, Qualifiche, Sprint)
 - Volley: SOLO PARTITE DEL MONZA (Vero Volley / Mint Monza). Ignora le altre.
 - Sci Alpino (Federica Brignone o Sofia Goggia)
 
 Categorie da ESCLUDERE esplicitamente:
-- Qualsiasi "Serie C", Calcio a 5 / futsal
+- Qualsiasi "Serie C"
+- Calcio a 5 / futsal
 - Qualsiasi partita di volley senza il Monza.
 - Qualsiasi partita di tennis senza italiani.
 - Partite della Reggina o di Serie D già disputate in giorni precedenti.
 
-Requisiti:
+Requisiti Formato Output:
 - Tutti gli orari in CET (Italiano).
-- Output: restituisci ESCLUSIVAMENTE un array JSON valido.
+- Output: restituisci ESCLUSIVAMENTE un array JSON valido (no markdown extra).
 - Campi obbligatori per ogni oggetto (usa null o "" se assenti):
   "orario": stringa,
   "evento": stringa,
   "competizione": stringa,
   "canale": stringa,
   "note": stringa,
-  "fonte": stringa (URL della notizia da cui hai preso l'info, se disponibile),
-  "accuratezza_orario": stringa (usa SOLO "esatto", "stimato" oppure "tba")
+  "fonte": stringa (URL o nome del sito da cui hai preso l'informazione),
+  "accuratezza_orario": stringa ("esatto", "stimato" o "tba")
+- Se non ci sono eventi: []
 """
 
 # Lista di giocatori italiani noti da usare nel filtro Python
