@@ -1,128 +1,23 @@
 [
   {
-    "orario": "04:40",
-    "evento": "Warm Up",
-    "competizione": "MotoGP GP Thailandia",
-    "canale": "Sky Sport MotoGP",
-    "note": "Diretta"
+    "orario": "00:00",
+    "evento": "Cristina Bucsa vs Magdalena Frech (Finale)",
+    "competizione": "WTA Merida 2026",
+    "canale": "Supertennis, SuperTenniX, bet365",
+    "note": "Inizio nella notte tra 1 e 2 marzo"
   },
   {
-    "orario": "06:00",
-    "evento": "Gara Moto3",
-    "competizione": "MotoGP GP Thailandia",
-    "canale": "Sky Sport MotoGP",
-    "note": "Diretta"
-  },
-  {
-    "orario": "07:15",
-    "evento": "Gara Moto2",
-    "competizione": "MotoGP GP Thailandia",
-    "canale": "Sky Sport MotoGP",
-    "note": "Diretta"
-  },
-  {
-    "orario": "09:00",
-    "evento": "Gara MotoGP",
-    "competizione": "MotoGP GP Thailandia",
-    "canale": "Sky Sport MotoGP",
-    "note": "Diretta"
-  },
-  {
-    "orario": "10:15",
-    "evento": "Super G Femminile",
-    "competizione": "Coppa del Mondo Sci Alpino Soldeu",
-    "canale": "Rai 2, Rai Play, Eurosport, Discovery+, DAZN, HBO Max, Prime Video, TIMVision",
-    "note": "Con Federica Brignone e Sofia Goggia"
-  },
-  {
-    "orario": "11:00",
-    "evento": "Gara Moto3",
-    "competizione": "MotoGP GP Thailandia",
-    "canale": "TV8",
-    "note": "Differita"
-  },
-  {
-    "orario": "11:30",
-    "evento": "Super G Maschile",
-    "competizione": "Coppa del Mondo Sci Alpino Garmisch-Partenkirchen",
-    "canale": "Rai 2, Rai Play, Eurosport, Discovery+, DAZN, HBO Max, Prime Video, TIMVision",
-    "note": "Con atleti italiani"
-  },
-  {
-    "orario": "12:15",
-    "evento": "Gara Moto2",
-    "competizione": "MotoGP GP Thailandia",
-    "canale": "TV8",
-    "note": "Differita"
-  },
-  {
-    "orario": "12:30",
-    "evento": "Cremonese-Milan",
+    "orario": "18:30",
+    "evento": "Pisa vs Bologna",
     "competizione": "Serie A",
-    "canale": "DAZN, DAZN 1 (Sky 214)",
-    "note": ""
-  },
-  {
-    "orario": "14:00",
-    "evento": "Gara MotoGP",
-    "competizione": "MotoGP GP Thailandia",
-    "canale": "TV8",
-    "note": "Differita"
-  },
-  {
-    "orario": "14:30",
-    "evento": "Varese-Vado",
-    "competizione": "Serie D",
-    "canale": "Non specificato nelle fonti",
-    "note": ""
-  },
-  {
-    "orario": "15:00",
-    "evento": "Sassuolo-Atalanta",
-    "competizione": "Serie A",
-    "canale": "DAZN",
-    "note": ""
-  },
-  {
-    "orario": "18:00",
-    "evento": "Torino-Lazio",
-    "competizione": "Serie A",
-    "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-    "note": ""
+    "canale": "DAZN, DAZN 1 (Sky canale 214)",
+    "note": "Posticipo 27ª giornata"
   },
   {
     "orario": "20:45",
-    "evento": "Matteo Arnaldi vs Novak Djokovic",
-    "competizione": "Tennis - ATP 1000 Madrid 2025",
-    "canale": "SuperTennis",
-    "note": "L'anno indicato nelle fonti potrebbe riferirsi a una replica o essere un errore di data"
-  },
-  {
-    "orario": "20:45",
-    "evento": "Roma-Juventus",
+    "evento": "Udinese vs Fiorentina",
     "competizione": "Serie A",
-    "canale": "DAZN, DAZN 1 (Sky 214)",
-    "note": ""
-  },
-  {
-    "orario": "21:00",
-    "evento": "Stefano Tsitsipas (GRE) vs Lorenzo Musetti (ITA)",
-    "competizione": "Tennis - ATP 1000 Madrid 2025",
-    "canale": "Supertennis",
-    "note": "L'anno indicato nelle fonti potrebbe riferirsi a una replica o essere un errore di data"
-  },
-  {
-    "orario": "22:00",
-    "evento": "Jack Draper vs Lorenzo Musetti",
-    "competizione": "Tennis - ATP 1000 Madrid 2025",
-    "canale": "SuperTennis",
-    "note": "L'anno indicato nelle fonti potrebbe riferirsi a una replica o essere un errore di data"
-  },
-  {
-    "orario": "23:30",
-    "evento": "Luciano Darderi (Italia) – Yannick Hanfmann (Germania)",
-    "competizione": "Tennis - Finale ATP 250 Santiago",
-    "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-    "note": ""
+    "canale": "DAZN, Sky Sport Calcio, Sky Sport (canale 251), NOW",
+    "note": "Posticipo 27ª giornata"
   }
 ]
