@@ -18,18 +18,20 @@ client = genai.Client(api_key=api_key)
 
 prompt = f"""
 Obiettivo: FAI UNA RICERCA SUL WEB e compila una lista di eventi sportivi italiani in TV per OGGI ({date_str}) e includi anche gli eventi fino alle 06:00 (CET) del giorno successivo, se considerati parte del palinsesto notturno.
+Novità: Per gli eventi in notturna (es. MotoGP, Formula 1, Tennis), includi anche gli orari delle repliche diurne sui canali principali (es. Sky Sport) in una riga separata o nelle note.
 
 Categorie target (INCLUDI):
 - Calcio: Serie A; Champions League / Europa League / Conference League con squadre italiane; Serie D per Reggina
 - Tennis: ATP/WTA con italiani (Sinner, Musetti, Berrettini, Paolini, ecc.)
-- Formula 1
-- MotoGP
-- Volley (Monza)
+- Formula 1 (Gare, Qualifiche, Prove + Repliche diurne)
+- MotoGP (Gare, Qualifiche, Sprint + Repliche diurne)
+- Volley: SOLO PARTITE DEL MONZA (Vero Volley / Mint Monza). Ignora le altre squadre.
 - Sci Alpino (Federica Brignone o Sofia Goggia)
 
 Categorie da ESCLUDERE esplicitamente:
 - Qualsiasi "Serie C"
 - Calcio a 5 / futsal (Serie A, A2, A2 Elite, ecc.)
+- Qualsiasi partita di volley che NON riguardi il Monza.
 
 Requisiti:
 - Tutti gli orari in CET.
@@ -45,6 +47,12 @@ def should_exclude(item: dict) -> bool:
         return True
     if any(m in blob for m in futsal_markers):
         return True
+        
+    # Volley check: se è volley, deve esserci 'monza' (o varianti sponsorizzate come 'mint' o 'vero')
+    if "volley" in blob or "pallavolo" in blob or "superlega" in blob:
+        if "monza" not in blob and "mint" not in blob and "vero" not in blob:
+            return True
+            
     return False
 
 try:
