@@ -1,23 +1,37 @@
 [
   {
-    "orario": "00:00",
-    "evento": "Cristina Bucsa vs Magdalena Frech (Finale)",
-    "competizione": "WTA Merida 2026",
-    "canale": "Supertennis, SuperTenniX, bet365",
-    "note": "Inizio nella notte tra 1 e 2 marzo"
+    "orario": "18:30",
+    "evento": "Pisa - Bologna",
+    "competizione": "Calcio Serie A",
+    "canale": "DAZN, DAZN 1 Sky",
+    "note": ""
   },
   {
-    "orario": "18:30",
-    "evento": "Pisa vs Bologna",
-    "competizione": "Serie A",
-    "canale": "DAZN, DAZN 1 (Sky canale 214)",
-    "note": "Posticipo 27ª giornata"
+    "orario": "19:00",
+    "evento": "Masters 1000 Indian Wells - Qualificazioni: Nardi - Svajda",
+    "competizione": "Tennis ATP",
+    "canale": "Sky Sport Tennis (presunto), NOW (presunto)",
+    "note": "Orario approssimativo per l'inizio del match. La copertura TV su Sky Sport Tennis e NOW è presunta, in attesa di dettagli specifici del palinsesto."
   },
   {
     "orario": "20:45",
-    "evento": "Udinese vs Fiorentina",
-    "competizione": "Serie A",
-    "canale": "DAZN, Sky Sport Calcio, Sky Sport (canale 251), NOW",
-    "note": "Posticipo 27ª giornata"
+    "evento": "Udinese - Fiorentina",
+    "competizione": "Calcio Serie A",
+    "canale": "DAZN, Sky Sport Calcio, Sky Sport (251), NOW",
+    "note": ""
+  },
+  {
+    "orario": "02:00",
+    "evento": "Replica MotoGP - Gran Premio di Thailandia (Gara)",
+    "competizione": "MotoGP",
+    "canale": "Sky Sport Uno (presunto)",
+    "note": "Replica della gara disputata il 1° marzo 2026. La copertura TV su Sky Sport Uno è presunta, in attesa di dettagli specifici del palinsesto."
+  },
+  {
+    "orario": "04:00",
+    "evento": "Replica MotoGP - Gran Premio di Thailandia (Gara)",
+    "competizione": "MotoGP",
+    "canale": "Sky Sport MotoGP (presunto)",
+    "note": "Replica della gara disputata il 1° marzo 2026. La copertura TV su Sky Sport MotoGP è presunta, in attesa di dettagli specifici del palinsesto."
   }
 ]
