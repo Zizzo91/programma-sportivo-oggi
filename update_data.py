@@ -20,31 +20,36 @@ prompt = f"""
 Obiettivo: FAI UNA RICERCA SUL WEB e compila una lista di eventi sportivi italiani in TV per OGGI ({date_str}) e includi anche gli eventi fino alle 06:00 (CET) del giorno successivo, se considerati parte del palinsesto notturno.
 
 REGOLE CRITICHE:
-1. FUSI ORARI E TENNIS (es. Indian Wells, Miami): In USA il fuso orario è indietro di 9/6 ore. DEVI calcolare l'orario italiano esatto (CET/CEST). Se dicono "inizio programma alle 19:00", NON assegnare le 19:00 a tutti i giocatori. Se l'orario esatto del match di un italiano non è noto, inserisci "TBA" o un orario stimato con nota esplicita (es. "Dipende dal match precedente").
-2. REGGINA E SERIE MINORI: I comunicati della Serie D spesso accorpano più giorni. Per inserire una partita della Reggina, devi avere la CERTEZZA ASSOLUTA che si giochi OGGI ({date_str}). Se trovi articoli che parlano di partite già giocate nel weekend (es. anticipi del sabato/domenica) o stai leggendo un riassunto di giornate precedenti, IGNORALE totalmente. Non confondere l'orario del "Monday Night" di altre squadre con la Reggina.
+1. FUSI ORARI E TENNIS (es. Indian Wells, Miami): In USA il fuso orario è indietro di 9/6 ore. DEVI calcolare l'orario italiano esatto (CET/CEST). Se dicono "inizio programma alle 19:00", NON assegnare le 19:00 a tutti i giocatori. Se l'orario esatto del match di un italiano non è noto, inserisci "TBA" o un orario stimato.
+2. REGGINA E SERIE MINORI: I comunicati della Serie D spesso accorpano più giorni. Per inserire una partita della Reggina, devi avere la CERTEZZA ASSOLUTA che si giochi OGGI ({date_str}). Se trovi articoli che parlano di partite già giocate nel weekend o riassunti, IGNORALE.
 
-Novità: Per gli eventi in notturna (es. MotoGP, Formula 1, Tennis), includi anche gli orari delle repliche diurne sui canali principali (es. Sky Sport) in una riga separata o nelle note.
+Novità: Per gli eventi in notturna, includi anche gli orari delle repliche diurne sui canali principali (es. Sky Sport) in una riga separata o nelle note.
 
 Categorie target (INCLUDI):
 - Calcio: Serie A; Champions League / Europa League / Conference League con squadre italiane; Serie D per Reggina (SOLO SE GIOCA ESATTAMENTE OGGI)
-- Tennis: SOLO match ATP/WTA che includono ALMENO UN GIOCATORE ITALIANO (es. Sinner, Musetti, Berrettini, Paolini, Errani, ecc.). Se non ci sono italiani in campo, IGNORA IL MATCH.
+- Tennis: SOLO match ATP/WTA che includono ALMENO UN GIOCATORE ITALIANO. Se non ci sono italiani in campo, IGNORA IL MATCH.
 - Formula 1 (Gare, Qualifiche, Prove + Repliche diurne)
 - MotoGP (Gare, Qualifiche, Sprint + Repliche diurne)
-- Volley: SOLO PARTITE DEL MONZA (Vero Volley / Mint Monza). Ignora le altre squadre.
+- Volley: SOLO PARTITE DEL MONZA (Vero Volley / Mint Monza). Ignora le altre.
 - Sci Alpino (Federica Brignone o Sofia Goggia)
 
 Categorie da ESCLUDERE esplicitamente:
-- Qualsiasi "Serie C"
-- Calcio a 5 / futsal (Serie A, A2, A2 Elite, ecc.)
-- Qualsiasi partita di volley che NON riguardi il Monza.
-- Qualsiasi partita di tennis che NON includa giocatori italiani.
+- Qualsiasi "Serie C", Calcio a 5 / futsal
+- Qualsiasi partita di volley senza il Monza.
+- Qualsiasi partita di tennis senza italiani.
 - Partite della Reggina o di Serie D già disputate in giorni precedenti.
 
 Requisiti:
 - Tutti gli orari in CET (Italiano).
-- Output: restituisci ESCLUSIVAMENTE un array JSON valido (no markdown).
-- Campi per ogni oggetto: "orario", "evento", "competizione", "canale", "note".
-- Se non ci sono eventi: []
+- Output: restituisci ESCLUSIVAMENTE un array JSON valido.
+- Campi obbligatori per ogni oggetto (usa null o "" se assenti):
+  "orario": stringa,
+  "evento": stringa,
+  "competizione": stringa,
+  "canale": stringa,
+  "note": stringa,
+  "fonte": stringa (URL della notizia da cui hai preso l'info, se disponibile),
+  "accuratezza_orario": stringa (usa SOLO "esatto", "stimato" oppure "tba")
 """
 
 # Lista di giocatori italiani noti da usare nel filtro Python
@@ -58,27 +63,18 @@ ITALIAN_TENNIS_PLAYERS = [
 def should_exclude(item: dict) -> bool:
     blob = f"{item.get('competizione','')} {item.get('evento','')} {item.get('note','')}".lower()
     
-    # Filtro Futsal e Serie C
     futsal_markers = ["calcio a 5", "futsal", "a2 elite", "divisione calcio a 5"]
-    if "serie c" in blob:
-        return True
-    if any(m in blob for m in futsal_markers):
+    if "serie c" in blob or any(m in blob for m in futsal_markers):
         return True
         
-    # Filtro Volley: deve esserci 'monza' (o varianti sponsorizzate)
     if "volley" in blob or "pallavolo" in blob or "superlega" in blob:
         if "monza" not in blob and "mint" not in blob and "vero" not in blob:
             return True
             
-    # Filtro Tennis: deve esserci almeno un giocatore italiano se è un match specifico
     if "atp" in blob or "wta" in blob or "tennis" in blob:
-        # Se è un riepilogo generico tipo "Diretta Torneo ATP", lo teniamo. 
-        # Ma se contiene la parola "vs" o "contro" (indica un match specifico), verifichiamo i nomi
         if " vs " in blob or " vs. " in blob or " contro " in blob or "-" in item.get('evento',''):
             has_italian = any(player in blob for player in ITALIAN_TENNIS_PLAYERS)
-            # Parole chiave che indicano una trasmissione generica e non un singolo match
             is_generic_broadcast = any(word in blob for word in ["diretta", "rubrica", "studio", "highlights", "magazine"])
-            
             if not has_italian and not is_generic_broadcast:
                 return True
 
@@ -95,26 +91,25 @@ try:
     )
 
     result_text = (response.text or "").strip()
-
-    # strip eventuali fence
-    if result_text.startswith("```json"):
-        result_text = result_text[7:]
-    elif result_text.startswith("```"):
-        result_text = result_text[3:]
-    if result_text.endswith("```"):
-        result_text = result_text[:-3]
+    if result_text.startswith("```json"): result_text = result_text[7:]
+    elif result_text.startswith("```"): result_text = result_text[3:]
+    if result_text.endswith("```"): result_text = result_text[:-3]
     result_text = result_text.strip() or "[]"
 
     data = json.loads(result_text)
 
-    # post-filter di sicurezza
+    events = []
     if isinstance(data, list):
-        data = [x for x in data if isinstance(x, dict) and not should_exclude(x)]
-    else:
-        data = []
+        events = [x for x in data if isinstance(x, dict) and not should_exclude(x)]
+        
+    # Salva il file includendo il timestamp dell'aggiornamento e gli eventi
+    final_data = {
+        "last_updated": datetime.datetime.now(rome_tz).isoformat(),
+        "events": events
+    }
 
     with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(final_data, f, ensure_ascii=False, indent=2)
 
     print("Dati aggiornati con successo!")
 except Exception as e:
