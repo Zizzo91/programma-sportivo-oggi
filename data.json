@@ -1,37 +1,23 @@
 [
   {
     "orario": "18:30",
-    "evento": "Pisa - Bologna",
-    "competizione": "Calcio Serie A",
-    "canale": "DAZN, DAZN 1 Sky",
+    "evento": "Pisa-Bologna",
+    "competizione": "Serie A",
+    "canale": "DAZN",
     "note": ""
   },
   {
-    "orario": "19:00",
-    "evento": "Masters 1000 Indian Wells - Qualificazioni: Nardi - Svajda",
-    "competizione": "Tennis ATP",
-    "canale": "Sky Sport Tennis (presunto), NOW (presunto)",
-    "note": "Orario approssimativo per l'inizio del match. La copertura TV su Sky Sport Tennis e NOW è presunta, in attesa di dettagli specifici del palinsesto."
+    "orario": "20:00",
+    "evento": "Reggina-Sancataldese",
+    "competizione": "Serie D (Girone I)",
+    "canale": "Vivo Azzurro TV, YouTube LND",
+    "note": ""
   },
   {
     "orario": "20:45",
-    "evento": "Udinese - Fiorentina",
-    "competizione": "Calcio Serie A",
+    "evento": "Udinese-Fiorentina",
+    "competizione": "Serie A",
     "canale": "DAZN, Sky Sport Calcio, Sky Sport (251), NOW",
     "note": ""
-  },
-  {
-    "orario": "02:00",
-    "evento": "Replica MotoGP - Gran Premio di Thailandia (Gara)",
-    "competizione": "MotoGP",
-    "canale": "Sky Sport Uno (presunto)",
-    "note": "Replica della gara disputata il 1° marzo 2026. La copertura TV su Sky Sport Uno è presunta, in attesa di dettagli specifici del palinsesto."
-  },
-  {
-    "orario": "04:00",
-    "evento": "Replica MotoGP - Gran Premio di Thailandia (Gara)",
-    "competizione": "MotoGP",
-    "canale": "Sky Sport MotoGP (presunto)",
-    "note": "Replica della gara disputata il 1° marzo 2026. La copertura TV su Sky Sport MotoGP è presunta, in attesa di dettagli specifici del palinsesto."
   }
 ]
