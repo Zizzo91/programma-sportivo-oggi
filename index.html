@@ -217,6 +217,7 @@
             font-weight: 700;
             color: var(--text-primary);
             font-size: 1.1rem;
+            white-space: nowrap;
         }
         
         .time-badge {
@@ -225,6 +226,12 @@
             padding: 4px 10px;
             border-radius: 8px;
             display: inline-block;
+        }
+
+        .time-badge.stimato {
+            background: #fef3c7;
+            color: #b45309;
+            border: 1px dashed #fde68a;
         }
 
         .evento-testo {
@@ -261,7 +268,7 @@
         }
 
         .note-testo {
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             color: var(--text-secondary);
         }
 
@@ -467,22 +474,25 @@
   };
 
   fetch('data.json?v=' + new Date().getTime())
-    .then(r => {
-        // Leggi l'header Last-Modified per mostrare a che ora è stato aggiornato il JSON
-        const lastMod = r.headers.get("Last-Modified");
-        if(lastMod) {
-            const modDate = new Date(lastMod);
-            const timeString = modDate.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Rome' });
-            document.getElementById('last-updated').innerText = `Ultimo aggiornamento dati: Oggi alle ${timeString}`;
-        } else {
-            document.getElementById('last-updated').innerText = `Ultimo aggiornamento dati: Sconosciuto`;
-        }
-        return r.json();
-    })
+    .then(r => r.json())
     .then(data => {
+      // Gestione nuova struttura JSON con last_updated
+      let events = [];
+      if (Array.isArray(data)) {
+          events = data; // Vecchio formato
+          document.getElementById('last-updated').innerText = `Ultimo aggiornamento dati: Sconosciuto (formato precedente)`;
+      } else if (data.events && Array.isArray(data.events)) {
+          events = data.events; // Nuovo formato
+          if(data.last_updated) {
+              const modDate = new Date(data.last_updated);
+              const timeString = modDate.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Rome' });
+              document.getElementById('last-updated').innerText = `Dati aggiornati oggi alle ${timeString}`;
+          }
+      }
+
       const container = document.getElementById('schedule-container');
 
-      if (!Array.isArray(data) || data.length === 0) {
+      if (events.length === 0) {
         container.innerHTML = '<div class="no-events">Nessun evento in TV oggi per le tue categorie.</div>';
         return;
       }
@@ -502,16 +512,24 @@
             <tbody>
       `;
 
-      data.forEach(ev => {
+      events.forEach(ev => {
         const sport = detectSport(ev);
         const icon = SPORT_ICON[sport] || SPORT_ICON.altro;
         
         // Attributi data per facilitare la ricerca JS
         const searchableText = `${ev.orario} ${ev.evento} ${ev.competizione} ${ev.canale} ${ev.note || ''} ${sport}`.toLowerCase();
+        
+        // Logica orario stimato
+        const isEstim = ev.accuratezza_orario === 'stimato' || ev.accuratezza_orario === 'tba' || String(ev.orario).includes('*');
+        const badgeClass = isEstim ? 'time-badge stimato' : 'time-badge';
+        const orarioHtml = isEstim ? `${escapeHtml(ev.orario)} <span title="Orario indicativo" style="cursor:help">⏱️</span>` : escapeHtml(ev.orario);
+        
+        // Hover tooltip per la fonte
+        const tooltipStr = ev.fonte ? `Fonte informazione: ${escapeHtml(ev.fonte)}` : '';
 
         html += `
-          <tr data-search="${escapeHtml(searchableText)}">
-            <td class="time"><span class="time-badge">${escapeHtml(ev.orario)}</span></td>
+          <tr data-search="${escapeHtml(searchableText)}" title="${tooltipStr}">
+            <td class="time"><span class="${badgeClass}">${orarioHtml}</span></td>
             <td class="evento-testo">${highlightItalians(ev.evento)}</td>
             <td>
                 <span class="sport-icon" title="${sport}">${icon}</span>
@@ -549,7 +567,6 @@
               }
           });
 
-          // Mostra messaggio se non ci sono risultati per la ricerca
           const existingNoResult = document.getElementById('search-no-result');
           if(visibleCount === 0 && term !== "") {
               if(!existingNoResult) {
