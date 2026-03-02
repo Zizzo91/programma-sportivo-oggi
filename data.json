@@ -1,23 +1,16 @@
 [
   {
     "orario": "18:30",
-    "evento": "Pisa-Bologna",
+    "evento": "Pisa - Bologna",
     "competizione": "Serie A",
     "canale": "DAZN",
     "note": ""
   },
   {
-    "orario": "20:00",
-    "evento": "Reggina-Sancataldese",
-    "competizione": "Serie D (Girone I)",
-    "canale": "Vivo Azzurro TV, YouTube LND",
-    "note": ""
-  },
-  {
     "orario": "20:45",
-    "evento": "Udinese-Fiorentina",
+    "evento": "Udinese - Fiorentina",
     "competizione": "Serie A",
-    "canale": "DAZN, Sky Sport Calcio, Sky Sport (251), NOW",
+    "canale": "Sky Sport Calcio, DAZN",
     "note": ""
   }
 ]
