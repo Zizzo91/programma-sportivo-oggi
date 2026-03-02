@@ -18,6 +18,12 @@ client = genai.Client(api_key=api_key)
 
 prompt = f"""
 Obiettivo: FAI UNA RICERCA SUL WEB e compila una lista di eventi sportivi italiani in TV per OGGI ({date_str}) e includi anche gli eventi fino alle 06:00 (CET) del giorno successivo, se considerati parte del palinsesto notturno.
+
+REGOLE CRITICHE SUI FUSI ORARI E TENNIS (es. Indian Wells, Miami, ecc.):
+- In California/USA il fuso orario è indietro di 9/6 ore rispetto all'Italia. DEVI calcolare l'orario italiano esatto (CET/CEST).
+- Se gli articoli dicono "inizio programma alle 19:00", NON assegnare le 19:00 a tutti i giocatori.
+- Se l'orario esatto del match di un italiano non è noto o dipende dai match precedenti, inserisci come orario "TBA" o l'orario stimato italiano (es. "01:00 (stimato)"), e specifica nelle "note" che l'orario è indicativo perché dipende dal termine dei match precedenti.
+
 Novità: Per gli eventi in notturna (es. MotoGP, Formula 1, Tennis), includi anche gli orari delle repliche diurne sui canali principali (es. Sky Sport) in una riga separata o nelle note.
 
 Categorie target (INCLUDI):
@@ -35,7 +41,7 @@ Categorie da ESCLUDERE esplicitamente:
 - Qualsiasi partita di tennis che NON includa giocatori italiani.
 
 Requisiti:
-- Tutti gli orari in CET.
+- Tutti gli orari in CET (Italiano).
 - Output: restituisci ESCLUSIVAMENTE un array JSON valido (no markdown).
 - Campi per ogni oggetto: "orario", "evento", "competizione", "canale", "note".
 - Se non ci sono eventi: []
