@@ -1,16 +1,23 @@
-[
-  {
-    "orario": "18:30",
-    "evento": "Pisa - Bologna",
-    "competizione": "Serie A",
-    "canale": "DAZN",
-    "note": ""
-  },
-  {
-    "orario": "20:45",
-    "evento": "Udinese - Fiorentina",
-    "competizione": "Serie A",
-    "canale": "Sky Sport Calcio, DAZN",
-    "note": ""
-  }
-]
+{
+  "last_updated": "2026-03-02T16:49:39.923911+01:00",
+  "events": [
+    {
+      "orario": "18:30",
+      "evento": "Pisa - Bologna",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
+      "note": "",
+      "fonte": "Libero, Canale 10",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Udinese - Fiorentina",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport (251), NOW",
+      "note": "",
+      "fonte": "Affaritaliani.it, Libero, Canale 10",
+      "accuratezza_orario": "esatto"
+    }
+  ]
+}
