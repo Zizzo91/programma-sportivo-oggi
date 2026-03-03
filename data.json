@@ -1,22 +1,58 @@
 {
-  "last_updated": "2026-03-02T16:49:39.923911+01:00",
+  "last_updated": "2026-03-03T06:14:54.740929+01:00",
   "events": [
     {
-      "orario": "18:30",
-      "evento": "Pisa - Bologna",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
+      "orario": "19:00",
+      "evento": "Padova - Spezia",
+      "competizione": "Serie B",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Libero, Canale 10",
+      "fonte": "Tuttomercatoweb, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Udinese - Fiorentina",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport (251), NOW",
+      "orario": "20:00",
+      "evento": "Cesena - Monza",
+      "competizione": "Serie B",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Affaritaliani.it, Libero, Canale 10",
+      "fonte": "Tuttomercatoweb, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Virtus Entella - Modena",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Tuttomercatoweb, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Reggiana - Sudtirol",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Tuttomercatoweb, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Venezia - Avellino",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Tuttomercatoweb, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Como - Inter",
+      "competizione": "Coppa Italia (Semifinale andata)",
+      "canale": "Canale 5",
+      "note": "",
+      "fonte": "Guida TV, Calciomagazine, Tuttomercatoweb, OA Sport, Fanpage, Dituttounpop.it",
       "accuratezza_orario": "esatto"
     }
   ]
