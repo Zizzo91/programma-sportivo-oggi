@@ -24,14 +24,15 @@ REGOLE CRITICHE SULLA QUALITA' DEI DATI E AFFIDABILITA':
 2. ACCURATEZZA ORARIO E FONTI: Se l'orario esatto del match non è noto (perché dipende dai match precedenti), l'orario DEVE essere "TBA" oppure un orario stimato (es. "01:00*"). Inserisci sempre la FONTE web nel campo "fonte". Usa il campo "accuratezza_orario" valorizzandolo SOLO con: "esatto", "stimato" o "tba".
 3. REGGINA E SERIE MINORI: I comunicati della Serie D spesso accorpano più giorni. Per inserire una partita della Reggina, devi avere la CERTEZZA ASSOLUTA che si giochi OGGI ({date_str}). Se trovi articoli che parlano di partite già giocate nel weekend (es. anticipi del sabato/domenica), IGNORALE.
 
-REGOLE SULLE REPLICHE (Motori):
-- Per Formula 1 e MotoGP in notturna/alba (prima delle 08:00 italiane), aggiungi sempre nelle note: "Repliche previste in giornata sul canale di riferimento".
+REGOLE SULLE REPLICHE E FONTI (F1 e MotoGP) - OBBLIGATORIO:
+- Dai massima priorità alle fonti ufficiali (sport.sky.it o guide TV come guida.tv/palinsesto/sky-sport-f1).
+- REPLICHE E DIFFERITE: Se il GP (Gara, Sprint o Qualifiche) si svolge all'alba o in orari scomodi (prima delle 08:00 italiane), cerca attivamente e INSERISCI COME EVENTI SEPARATI gli orari delle "Repliche", "Differite" o "Re-live" trasmessi in giornata (fascia 08:00 - 20:00) sui canali Sky o TV8. Non scrivere solo "ci saranno repliche", voglio proprio le righe con l'orario (es. 10:00, 14:00) in cui vengono ridati in TV.
 
 Categorie target (INCLUDI):
 - Calcio: Serie A; Champions League / Europa League / Conference League con squadre italiane; Serie D per Reggina (SOLO SE GIOCA ESATTAMENTE OGGI)
 - Tennis: SOLO match ATP/WTA che includono ALMENO UN GIOCATORE ITALIANO. Se non ci sono italiani in campo, IGNORA IL MATCH.
-- Formula 1 (Gare, Qualifiche, Prove)
-- MotoGP (Gare, Qualifiche, Sprint)
+- Formula 1 (Gare, Qualifiche, Prove LIBERE e REPLICHE DELLA GARA/SPRINT)
+- MotoGP (Gare, Qualifiche, Sprint, Prove e REPLICHE DELLA GARA/SPRINT)
 - Volley: SOLO PARTITE DEL MONZA (Vero Volley / Mint Monza). Ignora le altre.
 - Sci Alpino (Federica Brignone o Sofia Goggia)
 
