@@ -1,77 +1,59 @@
 {
-  "last_updated": "2026-03-06T06:10:24.743655+01:00",
+  "last_updated": "2026-03-06T16:13:39.637032+01:00",
   "events": [
     {
       "orario": "02:30",
-      "evento": "Formula 1 - GP Australia: Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Now",
-      "note": "Repliche previste in giornata sul canale di riferimento",
-      "fonte": "OA Sport, Icon Magazine",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1 - GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Repliche disponibili in giornata sui canali Sky Sport F1.",
+      "fonte": "OA Sport, FormulaRace.it, Fanpage.it, FormulaPassion.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "03:00*",
-      "evento": "Tennis ATP/WTA 1000 Indian Wells: Sessione Diurna (con italiani in campo: Sinner, Paolini, Musetti)",
-      "competizione": "ATP/WTA 1000 Indian Wells",
-      "canale": "Sky Sport",
-      "note": "Orario di inizio sessione. L'orario esatto dei singoli match con giocatori italiani sarà definito in seguito.",
-      "fonte": "LiveTennis.it, Olympic Channel, Fanpage",
-      "accuratezza_orario": "stimato"
+      "orario": "05:35",
+      "evento": "Live WTA 1000 Indian Wells",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "SuperTennis",
+      "note": "Con italiani in campo (es. Jannik Sinner, Lorenzo Musetti).",
+      "fonte": "Super Guida TV, OA Sport",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Formula 1 - GP Australia: Prove Libere 2",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Now",
-      "note": "Repliche previste in giornata sul canale di riferimento",
-      "fonte": "Guida TV, OA Sport, Icon Magazine",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1 - GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Repliche disponibili in giornata sui canali Sky Sport F1.",
+      "fonte": "OA Sport, FormulaRace.it, Fanpage.it, FormulaPassion.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
-      "evento": "Tennis ATP/WTA 1000 Indian Wells: Sessione Serale (con italiani in campo: Berrettini, Cobolli)",
-      "competizione": "ATP/WTA 1000 Indian Wells",
-      "canale": "Sky Sport",
-      "note": "Orario di inizio sessione. L'orario esatto dei singoli match con giocatori italiani sarà definito in seguito.",
-      "fonte": "LiveTennis.it, Olympic Channel",
-      "accuratezza_orario": "stimato"
+      "orario": "11:30",
+      "evento": "Discesa Libera Femminile",
+      "competizione": "Coppa del Mondo Sci Alpino - Val di Fassa",
+      "canale": "Rai 2, Rai Sport HD, Eurosport 1, Discovery Plus, HBO Max, Sky Go, NOW Tv, DAZN",
+      "note": "Con Sofia Goggia.",
+      "fonte": "OA Sport, Fanpage.it",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Napoli-Torino",
+      "evento": "Napoli - Torino",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (Sky)",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Calcio Magazine, Programmi Sky, 90Min.com, Goal.com Italia, Quotidiano Sportivo",
+      "fonte": "Sport oggi in tv, Selectra",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:30",
-      "evento": "Formula 1 - GP Australia: Prove Libere 3",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Now",
-      "note": "Repliche previste in giornata sul canale di riferimento",
-      "fonte": "Icon Magazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00*",
-      "evento": "Tennis ATP/WTA 1000 Indian Wells: Sessione Notturna (con italiani in campo: Sinner, altri)",
-      "competizione": "ATP/WTA 1000 Indian Wells",
-      "canale": "Sky Sport",
-      "note": "Orario di inizio sessione. Il match di Sinner contro Svrcina potrebbe disputarsi in questa sessione.",
-      "fonte": "Olympic Channel, Fanpage",
+      "orario": "05:00*",
+      "evento": "Live WTA 1000 Indian Wells",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "SuperTennis",
+      "note": "Con italiani in campo. L'orario esatto del match può variare, si riferisce all'inizio della trasmissione live.",
+      "fonte": "Stasera in TV",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Formula 1 - GP Australia: Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Now",
-      "note": "Repliche previste in giornata sul canale di riferimento. Differita alle 14:00 su TV8.",
-      "fonte": "Guida TV, Icon Magazine",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
