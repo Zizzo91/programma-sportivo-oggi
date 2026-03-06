@@ -1,85 +1,76 @@
 {
-  "last_updated": "2026-03-04T06:09:21.841548+01:00",
+  "last_updated": "2026-03-06T06:10:24.743655+01:00",
   "events": [
     {
-      "orario": "19:00",
-      "evento": "Carrarese - Catanzaro",
-      "competizione": "Serie B",
-      "canale": "DAZN",
+      "orario": "02:30",
+      "evento": "Formula 1 - GP Australia: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Now",
+      "note": "Repliche previste in giornata sul canale di riferimento",
+      "fonte": "OA Sport, Icon Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00*",
+      "evento": "Tennis ATP/WTA 1000 Indian Wells: Sessione Diurna (con italiani in campo: Sinner, Paolini, Musetti)",
+      "competizione": "ATP/WTA 1000 Indian Wells",
+      "canale": "Sky Sport",
+      "note": "Orario di inizio sessione. L'orario esatto dei singoli match con giocatori italiani sarà definito in seguito.",
+      "fonte": "LiveTennis.it, Olympic Channel, Fanpage",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Formula 1 - GP Australia: Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Now",
+      "note": "Repliche previste in giornata sul canale di riferimento",
+      "fonte": "Guida TV, OA Sport, Icon Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "Tennis ATP/WTA 1000 Indian Wells: Sessione Serale (con italiani in campo: Berrettini, Cobolli)",
+      "competizione": "ATP/WTA 1000 Indian Wells",
+      "canale": "Sky Sport",
+      "note": "Orario di inizio sessione. L'orario esatto dei singoli match con giocatori italiani sarà definito in seguito.",
+      "fonte": "LiveTennis.it, Olympic Channel",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Napoli-Torino",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky)",
       "note": "",
-      "fonte": "TUTTO mercato WEB, Calcio in tv oggi, 4 marzo 2026: Lazio-Atalanta e Serie B",
+      "fonte": "Calcio Magazine, Programmi Sky, 90Min.com, Goal.com Italia, Quotidiano Sportivo",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Zona Serie B",
-      "competizione": "Serie B",
-      "canale": "DAZN",
-      "note": "Copertura multipla dei match di Serie B.",
-      "fonte": "TUTTO mercato WEB, Calcio in tv oggi, 4 marzo 2026: Lazio-Atalanta e Serie B",
+      "orario": "02:30",
+      "evento": "Formula 1 - GP Australia: Prove Libere 3",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Now",
+      "note": "Repliche previste in giornata sul canale di riferimento",
+      "fonte": "Icon Magazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Bari - Empoli",
-      "competizione": "Serie B",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "TUTTO mercato WEB, Calcio in tv oggi, 4 marzo 2026: Lazio-Atalanta e Serie B",
-      "accuratezza_orario": "esatto"
+      "orario": "03:00*",
+      "evento": "Tennis ATP/WTA 1000 Indian Wells: Sessione Notturna (con italiani in campo: Sinner, altri)",
+      "competizione": "ATP/WTA 1000 Indian Wells",
+      "canale": "Sky Sport",
+      "note": "Orario di inizio sessione. Il match di Sinner contro Svrcina potrebbe disputarsi in questa sessione.",
+      "fonte": "Olympic Channel, Fanpage",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00",
-      "evento": "Frosinone - Pescara",
-      "competizione": "Serie B",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "TUTTO mercato WEB, Calcio in tv oggi, 4 marzo 2026: Lazio-Atalanta e Serie B",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Juve Stabia - Sampdoria",
-      "competizione": "Serie B",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "TUTTO mercato WEB, Calcio in tv oggi, 4 marzo 2026: Lazio-Atalanta e Serie B",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Palermo - Mantova",
-      "competizione": "Serie B",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "TUTTO mercato WEB, Calcio in tv oggi, 4 marzo 2026: Lazio-Atalanta e Serie B",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "ATP/WTA 1000 Indian Wells - 1° turno singolare uomini",
-      "competizione": "Tennis - ATP/WTA 1000",
-      "canale": "Sky Sport, NOW",
-      "note": "Diversi giocatori italiani partecipano al torneo di Indian Wells (Sinner, Musetti, Cobolli, Bellucci, Berrettini, Darderi, Arnaldi, Maestrelli). Orario di inizio sessione, i match specifici possono variare.",
-      "fonte": "Indian Wells 2026: programma, orari delle partite, calendario e dove vedere il torneo, Sinner all'Atp Indian Wells, il sorteggio e il tabellone degli azzurri: il programma, Sinner torna in campo, oggi comincia Indian Wells: gli italiani in tabellone, programma e dove vedere il torneo in tv e streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Lazio - Atalanta",
-      "competizione": "Coppa Italia",
-      "canale": "Italia 1",
-      "note": "Semifinale di andata.",
-      "fonte": "Stasera in Tv mercoledì 4 marzo 2026, cosa vedere, guida tv, Oggi in TV, dove vedere le gare di Coppa Italia, Serie B e Serie C",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "LIVE WTA 1000 Indian Wells",
-      "competizione": "Tennis - WTA 1000",
-      "canale": "SuperTennis",
-      "note": "Copertura in diretta del torneo, con giocatrici italiane partecipanti.",
-      "fonte": "Oggi in TV - Programmi SuperTennis mercoledi 04 marzo 2026 - Stasera in TV",
+      "orario": "06:00",
+      "evento": "Formula 1 - GP Australia: Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Now",
+      "note": "Repliche previste in giornata sul canale di riferimento. Differita alle 14:00 su TV8.",
+      "fonte": "Guida TV, Icon Magazine",
       "accuratezza_orario": "esatto"
     }
   ]
