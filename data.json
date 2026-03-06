@@ -1,58 +1,76 @@
 {
-  "last_updated": "2026-03-06T16:13:39.637032+01:00",
+  "last_updated": "2026-03-06T19:12:11.815206+01:00",
   "events": [
     {
       "orario": "02:30",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - GP Australia",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Repliche disponibili in giornata sui canali Sky Sport F1.",
-      "fonte": "OA Sport, FormulaRace.it, Fanpage.it, FormulaPassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:35",
-      "evento": "Live WTA 1000 Indian Wells",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "SuperTennis",
-      "note": "Con italiani in campo (es. Jannik Sinner, Lorenzo Musetti).",
-      "fonte": "Super Guida TV, OA Sport",
+      "evento": "Formula 1 - GP Australia - Prove Libere 1",
+      "competizione": "Campionato del Mondo di Formula 1",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "note": "Diretta tv e streaming su SkyGo e NOW.",
+      "fonte": "OA Sport, Icon Magazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Prove Libere 2",
-      "competizione": "Formula 1 - GP Australia",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Repliche disponibili in giornata sui canali Sky Sport F1.",
-      "fonte": "OA Sport, FormulaRace.it, Fanpage.it, FormulaPassion.it",
+      "evento": "Formula 1 - GP Australia - Prove Libere 2",
+      "competizione": "Campionato del Mondo di Formula 1",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "note": "Diretta tv e streaming su SkyGo e NOW.",
+      "fonte": "OA Sport, Icon Magazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:30",
-      "evento": "Discesa Libera Femminile",
-      "competizione": "Coppa del Mondo Sci Alpino - Val di Fassa",
-      "canale": "Rai 2, Rai Sport HD, Eurosport 1, Discovery Plus, HBO Max, Sky Go, NOW Tv, DAZN",
-      "note": "Con Sofia Goggia.",
-      "fonte": "OA Sport, Fanpage.it",
+      "orario": "20:00",
+      "evento": "Tennis - ATP Indian Wells, 2° turno: Berrettini vs Zverev",
+      "competizione": "ATP Masters 1000 Indian Wells",
+      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204)",
+      "note": "Primo match del programma. Diretta tv e streaming su SkyGo, NOW e Tennis Tv.",
+      "fonte": "OA Sport, Ubitennis",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Tennis - ATP Indian Wells, 2° turno: Cobolli vs Kecmanovic",
+      "competizione": "ATP Masters 1000 Indian Wells",
+      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204)",
+      "note": "Primo match del programma su un campo, inizio copertura dalle 20:00 CET. Diretta tv e streaming su SkyGo, NOW e Tennis Tv.",
+      "fonte": "OA Sport, Ubitennis",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Napoli - Torino",
+      "evento": "Calcio - Napoli vs Torino",
       "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "Sport oggi in tv, Selectra",
+      "note": "Anticipo della Serie A.",
+      "fonte": "Sport oggi in tv, Libero, 90min.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00*",
-      "evento": "Live WTA 1000 Indian Wells",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "SuperTennis",
-      "note": "Con italiani in campo. L'orario esatto del match può variare, si riferisce all'inizio della trasmissione live.",
-      "fonte": "Stasera in TV",
+      "orario": "22:00*",
+      "evento": "Tennis - ATP Indian Wells, 2° turno: Musetti vs Fucsovics",
+      "competizione": "ATP Masters 1000 Indian Wells",
+      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204)",
+      "note": "Orario stimato come secondo match sul campo. Diretta tv e streaming su SkyGo, NOW e Tennis Tv.",
+      "fonte": "OA Sport, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "00:00*",
+      "evento": "Tennis - WTA Indian Wells, 2° turno: Paolini vs Potapova",
+      "competizione": "WTA 1000 Indian Wells",
+      "canale": "SuperTennis HD, Sky Sport Tennis (203), Sky Sport Arena (204)",
+      "note": "Orario stimato come terzo match sul campo. Diretta tv e streaming su supertennis.tv, SuperTennix, SkyGo e NOW.",
+      "fonte": "OA Sport, SuperTennis, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "02:00*",
+      "evento": "Tennis - ATP Indian Wells, 2° turno: Sinner vs Svrcina",
+      "competizione": "ATP Masters 1000 Indian Wells",
+      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204)",
+      "note": "Orario stimato come quarto match sul campo. Diretta tv e streaming su SkyGo, NOW e Tennis Tv.",
+      "fonte": "OA Sport, Ubitennis",
       "accuratezza_orario": "stimato"
     }
   ]
