@@ -1,77 +1,203 @@
 {
-  "last_updated": "2026-03-06T19:12:11.815206+01:00",
+  "last_updated": "2026-03-07T06:01:03.370667+01:00",
   "events": [
     {
       "orario": "02:30",
-      "evento": "Formula 1 - GP Australia - Prove Libere 1",
-      "competizione": "Campionato del Mondo di Formula 1",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
-      "note": "Diretta tv e streaming su SkyGo e NOW.",
-      "fonte": "OA Sport, Icon Magazine",
+      "evento": "Formula 1 - Prove Libere 3 GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1, Sky Sport Uno",
+      "note": "",
+      "fonte": "motorsport.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Formula 1 - GP Australia - Prove Libere 2",
-      "competizione": "Campionato del Mondo di Formula 1",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
-      "note": "Diretta tv e streaming su SkyGo e NOW.",
-      "fonte": "OA Sport, Icon Magazine",
+      "evento": "Formula 1 - Qualifiche GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1, Sky Sport Uno",
+      "note": "Diretta",
+      "fonte": "motorsport.com, Guida TV Sky Sport Uno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Tennis: ATP & WTA 1000 Indian Wells (St. 2026)",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "Sky Sport Tennis HD",
+      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
+      "fonte": "Guida programmi tv Sky Sport Tennis HD",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Tennis: ATP & WTA 1000 Indian Wells (St. 2026)",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "Sky Sport Tennis HD",
+      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
+      "fonte": "Guida programmi tv Sky Sport Tennis HD",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "07:20",
+      "evento": "Formula 1 - Paddock Live Post Qualifiche GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1, Sky Sport Uno",
+      "note": "Diretta",
+      "fonte": "Guida TV Sky Sport Uno, Guida programmi tv Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:45",
+      "evento": "Formula 1 - Paddock Live Post Qualifiche GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "Guida programmi tv Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:15",
+      "evento": "Formula 1 - Qualifiche GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "Guida programmi tv Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Formula 1 - Qualifiche GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "Guida programmi tv Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Tennis: ATP & WTA 1000 Indian Wells (St. 2026)",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "Sky Sport Tennis HD",
+      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
+      "fonte": "Guida programmi tv Sky Sport Tennis HD",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "10:45",
+      "evento": "Sci Alpino - Discesa Libera Femminile",
+      "competizione": "Coppa del Mondo Sci Alpino 2026",
+      "canale": "Rai 2, Eurosport 1",
+      "note": "Val di Fassa. Goggia e Brignone attese protagoniste.",
+      "fonte": "SciareMag",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Formula 1 - Qualifiche GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "Guida programmi tv Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Tennis: ATP & WTA 1000 Indian Wells (St. 2026)",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "Sky Sport Tennis HD",
+      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
+      "fonte": "Guida programmi tv Sky Sport Tennis HD",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio - Cagliari vs Como",
+      "competizione": "Serie A",
+      "canale": "Sky Sport, DAZN",
+      "note": "",
+      "fonte": "The Cult of Calcio, Cagliari1920news",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Formula 1 - Qualifiche GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "Guida programmi tv Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "Tennis: ATP & WTA 1000 Indian Wells (3a giornata)",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "Sky Sport Tennis HD",
+      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
+      "fonte": "TvBlog",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio - Atalanta vs Udinese",
+      "competizione": "Serie A",
+      "canale": "Sky Sport, DAZN",
+      "note": "",
+      "fonte": "The Cult of Calcio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Tennis - Studio Tennis",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "Sky Sport Tennis HD",
+      "note": "Analisi pre-partita",
+      "fonte": "TvBlog",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "Tennis - ATP Indian Wells, 2° turno: Berrettini vs Zverev",
-      "competizione": "ATP Masters 1000 Indian Wells",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204)",
-      "note": "Primo match del programma. Diretta tv e streaming su SkyGo, NOW e Tennis Tv.",
-      "fonte": "OA Sport, Ubitennis",
+      "evento": "Formula 1 - Qualifiche GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "Guida programmi tv Sky Sport F1 HD",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "Tennis - ATP Indian Wells, 2° turno: Cobolli vs Kecmanovic",
-      "competizione": "ATP Masters 1000 Indian Wells",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204)",
-      "note": "Primo match del programma su un campo, inizio copertura dalle 20:00 CET. Diretta tv e streaming su SkyGo, NOW e Tennis Tv.",
-      "fonte": "OA Sport, Ubitennis",
-      "accuratezza_orario": "esatto"
+      "evento": "Tennis: ATP & WTA 1000 Indian Wells (4a giornata)",
+      "competizione": "ATP & WTA 1000 Indian Wells",
+      "canale": "Sky Sport Tennis HD",
+      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
+      "fonte": "Guida programmi tv Sky Sport Tennis HD, TvBlog",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Napoli vs Torino",
+      "evento": "Calcio - Juventus vs Pisa",
       "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "Anticipo della Serie A.",
-      "fonte": "Sport oggi in tv, Libero, 90min.com",
+      "canale": "Sky Sport, DAZN",
+      "note": "",
+      "fonte": "The Cult of Calcio, Sky Sport, AgiproNews",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00*",
-      "evento": "Tennis - ATP Indian Wells, 2° turno: Musetti vs Fucsovics",
-      "competizione": "ATP Masters 1000 Indian Wells",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204)",
-      "note": "Orario stimato come secondo match sul campo. Diretta tv e streaming su SkyGo, NOW e Tennis Tv.",
-      "fonte": "OA Sport, Ubitennis",
-      "accuratezza_orario": "stimato"
+      "orario": "21:00",
+      "evento": "Volley - Sir Susa Scai Perugia vs Vero Volley Monza",
+      "competizione": "SuperLega Playoff Quarti - Gara 1",
+      "canale": "Rai Sport, VBTV",
+      "note": "",
+      "fonte": "Lega Pallavolo Serie A, Volley News, Umbria 24",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00*",
-      "evento": "Tennis - WTA Indian Wells, 2° turno: Paolini vs Potapova",
-      "competizione": "WTA 1000 Indian Wells",
-      "canale": "SuperTennis HD, Sky Sport Tennis (203), Sky Sport Arena (204)",
-      "note": "Orario stimato come terzo match sul campo. Diretta tv e streaming su supertennis.tv, SuperTennix, SkyGo e NOW.",
-      "fonte": "OA Sport, SuperTennis, Ubitennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "02:00*",
-      "evento": "Tennis - ATP Indian Wells, 2° turno: Sinner vs Svrcina",
-      "competizione": "ATP Masters 1000 Indian Wells",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204)",
-      "note": "Orario stimato come quarto match sul campo. Diretta tv e streaming su SkyGo, NOW e Tennis Tv.",
-      "fonte": "OA Sport, Ubitennis",
-      "accuratezza_orario": "stimato"
+      "orario": "05:00",
+      "evento": "Formula 1 - Gara GP Australia",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1, Sky Sport Uno",
+      "note": "Diretta (già giorno 8 marzo)",
+      "fonte": "motorsport.com",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
