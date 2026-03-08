@@ -1,203 +1,104 @@
 {
-  "last_updated": "2026-03-07T06:01:03.370667+01:00",
+  "last_updated": "2026-03-08T06:10:31.824377+01:00",
   "events": [
     {
-      "orario": "02:30",
-      "evento": "Formula 1 - Prove Libere 3 GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno",
+      "orario": "05:00",
+      "evento": "Gara",
+      "competizione": "Formula 1 - GP Australia 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, Sky Go, NOW",
       "note": "",
-      "fonte": "motorsport.com",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0swpmRv_447z-aLr_LHIZOSRlEEzB9zKq50IqqH0BePImQNG5wOu8cJwnRcY2DMgwgMjly37ZY9suIg-_BX9j1dfYpPuGvksfGe4hQC6H0thpLKDiErXr7HvuiDP4pxp2dSUXYGBoUumKA6VtoP5OK-tnsLv--6Wsn990g10jK4I24CiPfT5deX5O0H1NF7BWAOV5vRHBk9tLHEIY2KTI",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Formula 1 - Qualifiche GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno",
-      "note": "Diretta",
-      "fonte": "motorsport.com, Guida TV Sky Sport Uno",
+      "orario": "10:15",
+      "evento": "Replica Gara",
+      "competizione": "Formula 1 - GP Australia 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1FhuxacAqy_xQxl8YBc9eVW3EhNR3NM33JXEI-4yappUnxuQKIqpAJ_Ste5k8S1YGdBiq8JexdGDAQtlPff2CLeymqLz6trbX401IAvKjTd-QC6HxzhUccRRlTa6ssXvLR7c5IqwlrIDj-VXjR59EkI0AK6ic2n8DvFIIaGAATXiHuEoDoeDQakOPxmaB2f8khN9GjPt_PBpV79_dBLzBJxU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfnHYl4YXyK-ro66--v1RvLJLPIRKDMTKCZdhrbllDHU7jM9kxZAJcIE-XMdnr-ZUoZvgXYgXic-mrg-d2yfhfK6BKKc8ndxv93DUYpuaugsILtisyOqpf-KDvPgwrQSLTLKNdCdcr79D1o6gIDwpDrNqf",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Tennis: ATP & WTA 1000 Indian Wells (St. 2026)",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "Sky Sport Tennis HD",
-      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
-      "fonte": "Guida programmi tv Sky Sport Tennis HD",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Tennis: ATP & WTA 1000 Indian Wells (St. 2026)",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "Sky Sport Tennis HD",
-      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
-      "fonte": "Guida programmi tv Sky Sport Tennis HD",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "07:20",
-      "evento": "Formula 1 - Paddock Live Post Qualifiche GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno",
-      "note": "Diretta",
-      "fonte": "Guida TV Sky Sport Uno, Guida programmi tv Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:45",
-      "evento": "Formula 1 - Paddock Live Post Qualifiche GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "Guida programmi tv Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:15",
-      "evento": "Formula 1 - Qualifiche GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "Guida programmi tv Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Formula 1 - Qualifiche GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "Guida programmi tv Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Tennis: ATP & WTA 1000 Indian Wells (St. 2026)",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "Sky Sport Tennis HD",
-      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
-      "fonte": "Guida programmi tv Sky Sport Tennis HD",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "10:45",
-      "evento": "Sci Alpino - Discesa Libera Femminile",
-      "competizione": "Coppa del Mondo Sci Alpino 2026",
-      "canale": "Rai 2, Eurosport 1",
-      "note": "Val di Fassa. Goggia e Brignone attese protagoniste.",
-      "fonte": "SciareMag",
+      "orario": "12:30",
+      "evento": "Lecce - Cremonese",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEb4Jbq-9OUdg98AlXO1-QZwP6-y_EdWwOYEeVYVnzhfQzgtvOt4BVPDD103JGxY8FWUhmc6ODeZs5vdQ7_Ye5PDfPiFZsC0pwPdurcq23X_SbyzFY33Kj0EEo90fGC-r5kBjpk0Gq4eVYYz89EN0KPf_m3fliutPj75vlaAvo",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00",
-      "evento": "Formula 1 - Qualifiche GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "Guida programmi tv Sky Sport F1 HD",
+      "evento": "Differita Gara",
+      "competizione": "Formula 1 - GP Australia 2026",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0swpmRv_447z-aLr_LHIZOSRlEEzB9zKq50IqqH0BePImQNG5wOu8cJwnRcY2DMgwgMjly37ZY9suIg-_BX9j1dfYpPuGvksfGe4hQC6H0thpLKDiErXr7HvuiDP4pxp2dSUXYGBoUumKA6VtoP5OK-tnsLv--6Wsn990g10jK4I24CiPfT5deX5O0H1NF7BWAOV5vRHBk9tLHEIY2KTI",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Tennis: ATP & WTA 1000 Indian Wells (St. 2026)",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "Sky Sport Tennis HD",
-      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
-      "fonte": "Guida programmi tv Sky Sport Tennis HD",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "15:00",
-      "evento": "Calcio - Cagliari vs Como",
-      "competizione": "Serie A",
-      "canale": "Sky Sport, DAZN",
+      "evento": "Fiorentina - Parma",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "The Cult of Calcio, Cagliari1920news",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEb4Jbq-9OUdg98AlXO1-QZwP6-y_EdWwOYEeVYVnzhfQzgtvOt4BVPDD103JGxY8FWUhmc6ODeZs5vdQ7_Ye5PDfPiFZsC0pwPdurcq23X_SbyzFY33Kj0EEo90fGC-r5kBjpk0Gq4eVYYz89EN0KPf_m3fliutPj75vlaAvo",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Formula 1 - Qualifiche GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "Guida programmi tv Sky Sport F1 HD",
+      "orario": "15:00",
+      "evento": "Bologna - Verona",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEb4Jbq-9OUdg98AlXO1-QZwP6-y_EdWwOYEeVYVnzhfQzgtvOt4BVPDD103JGxY8FWUhmc6ODeZs5vdQ7_Ye5PDfPiFZsC0pwPdurcq23X_SbyzFY33Kj0EEo90fGC-r5kBjpk0Gq4eVYYz89EN0KPf_m3fliutPj75vlaAvo",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:30",
-      "evento": "Tennis: ATP & WTA 1000 Indian Wells (3a giornata)",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "Sky Sport Tennis HD",
-      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
-      "fonte": "TvBlog",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
-      "evento": "Calcio - Atalanta vs Udinese",
-      "competizione": "Serie A",
-      "canale": "Sky Sport, DAZN",
+      "evento": "Genoa - Roma",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, Sky",
       "note": "",
-      "fonte": "The Cult of Calcio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEb4Jbq-9OUdg98AlXO1-QZwP6-y_EdWwOYEeVYVnzhfQzgtvOt4BVPDD103JGxY8FWUhmc6ODeZs5vdQ7_Ye5PDfPiFZsC0pwPdurcq23X_SbyzFY33Kj0EEo90fGC-r5kBjpk0Gq4eVYYz89EN0KPf_m3fliutPj75vlaAvo",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:45",
-      "evento": "Tennis - Studio Tennis",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "Sky Sport Tennis HD",
-      "note": "Analisi pre-partita",
-      "fonte": "TvBlog",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Formula 1 - Qualifiche GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "Guida programmi tv Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Tennis: ATP & WTA 1000 Indian Wells (4a giornata)",
-      "competizione": "ATP & WTA 1000 Indian Wells",
-      "canale": "Sky Sport Tennis HD",
-      "note": "Programmazione generale del torneo. Possibile partecipazione di giocatori italiani.",
-      "fonte": "Guida programmi tv Sky Sport Tennis HD, TvBlog",
+      "orario": "19:00*",
+      "evento": "Jannik Sinner vs Denis Shapovalov",
+      "competizione": "Tennis - ATP Masters 1000 Indian Wells (3° turno)",
+      "canale": "Sky Sport Arena",
+      "note": "3° match della sessione diurna, orario stimato di inizio del programma.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC1mU0czONA8WVWt-pOsO-mQAnwTea-r6XA1GmRn8V6jDRoYr3qx40ddqjZps0tQkrwahW2Cs3VhFlweL7vjAhxeEA6chu_DVhH8-xU_399K4SJaQwc0C1Mr_dFaL3zxj5xhAR5pwVna85HzPaEqSrYfYdFs=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:45",
-      "evento": "Calcio - Juventus vs Pisa",
-      "competizione": "Serie A",
-      "canale": "Sky Sport, DAZN",
+      "orario": "19:00*",
+      "evento": "Jasmine Paolini vs Ajla Tomljanovic",
+      "competizione": "Tennis - WTA 1000 Indian Wells (3° turno)",
+      "canale": "Sky Sport Arena",
+      "note": "2° match della sessione diurna, orario stimato di inizio del programma.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC1mU0czONA8WVWt-pOsO-mQAnwTea-r6XA1GmRn8V6jDRoYr3qx40ddqjZps0tQkrwahW2Cs3VhFlweL7vjAhxeEA6chu_DVhH8-xU_399K4SJaQwc0C1Mr_dFaL3zxj5xhAR5pwVna85HzPaEqSrYfYdFs=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "00:45",
+      "evento": "Replica Gara",
+      "competizione": "Formula 1 - GP Australia 2026",
+      "canale": "Sport (generico, indicato in guida TV notturna)",
       "note": "",
-      "fonte": "The Cult of Calcio, Sky Sport, AgiproNews",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbcBrTJLhwV8c66vR21jh-GKYeWpSBADvsHxcgAMOm-qd5KJbvwN2gLvoiTH6HheA8EuiLpnerPAWUL3PKOsBVWdJeYyCqV7UanFpNFFiaMrhWXODa_4g-DniFY-T4dxuvFJXmHyHLw2oRFSIzFnyf7g==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Volley - Sir Susa Scai Perugia vs Vero Volley Monza",
-      "competizione": "SuperLega Playoff Quarti - Gara 1",
-      "canale": "Rai Sport, VBTV",
-      "note": "",
-      "fonte": "Lega Pallavolo Serie A, Volley News, Umbria 24",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Formula 1 - Gara GP Australia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno",
-      "note": "Diretta (già giorno 8 marzo)",
-      "fonte": "motorsport.com",
-      "accuratezza_orario": "esatto"
+      "orario": "02:00*",
+      "evento": "Flavio Cobolli vs Frances Tiafoe",
+      "competizione": "Tennis - ATP Masters 1000 Indian Wells (3° turno)",
+      "canale": "Sky Sport Arena",
+      "note": "4° match della sessione diurna, non prima delle 02:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC1mU0czONA8WVWt-pOsO-mQAnwTea-r6XA1GmRn8V6jDRoYr3qx40ddqjZps0tQkrwahW2Cs3VhFlweL7vjAhxeEA6chu_DVhH8-xU_399K4SJaQwc0C1Mr_dFaL3zxj5xhAR5pwVna85HzPaEqSrYfYdFs=",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
