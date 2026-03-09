@@ -1,104 +1,104 @@
 {
-  "last_updated": "2026-03-08T06:10:31.824377+01:00",
+  "last_updated": "2026-03-09T06:20:24.475851+01:00",
   "events": [
     {
-      "orario": "05:00",
-      "evento": "Gara",
-      "competizione": "Formula 1 - GP Australia 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0swpmRv_447z-aLr_LHIZOSRlEEzB9zKq50IqqH0BePImQNG5wOu8cJwnRcY2DMgwgMjly37ZY9suIg-_BX9j1dfYpPuGvksfGe4hQC6H0thpLKDiErXr7HvuiDP4pxp2dSUXYGBoUumKA6VtoP5OK-tnsLv--6Wsn990g10jK4I24CiPfT5deX5O0H1NF7BWAOV5vRHBk9tLHEIY2KTI",
+      "orario": "01:00",
+      "evento": "ATP Masters 1000 Indian Wells - Terzo turno: Jannik Sinner vs Denis Shapovalov",
+      "competizione": "Tennis - ATP Indian Wells 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Match giocato nelle prime ore del 9 marzo CET",
+      "fonte": "https://www.eurosport.it/tennis/atp-indian-wells/2026/live-denis-shapovalov-jannik-sinner-indian-wells-mens-singles_mtc1775730/live.shtml, https://www.olympics.com/it/notizie/sinner-shapovalov-indian-wells-2026-quando-gioca-orario-dove-vedere-diretta-tv, https://www.ilfattoquotidiano.it/2026/03/08/indian-wells-quando-gioca-sinner-contro-shapovalov-il-programma-di-oggi-e-gli-italiani-in-campo-date-orari-diretta-tv/863617/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:15",
-      "evento": "Replica Gara",
-      "competizione": "Formula 1 - GP Australia 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1FhuxacAqy_xQxl8YBc9eVW3EhNR3NM33JXEI-4yappUnxuQKIqpAJ_Ste5k8S1YGdBiq8JexdGDAQtlPff2CLeymqLz6trbX401IAvKjTd-QC6HxzhUccRRlTa6ssXvLR7c5IqwlrIDj-VXjR59EkI0AK6ic2n8DvFIIaGAATXiHuEoDoeDQakOPxmaB2f8khN9GjPt_PBpV79_dBLzBJxU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfnHYl4YXyK-ro66--v1RvLJLPIRKDMTKCZdhrbllDHU7jM9kxZAJcIE-XMdnr-ZUoZvgXYgXic-mrg-d2yfhfK6BKKc8ndxv93DUYpuaugsILtisyOqpf-KDvPgwrQSLTLKNdCdcr79D1o6gIDwpDrNqf",
+      "orario": "03:00*",
+      "evento": "ATP Masters 1000 Indian Wells - Terzo turno: Flavio Cobolli vs Frances Tiafoe",
+      "competizione": "Tennis - ATP Indian Wells 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Orario stimato. Match giocato nella notte tra l'8 e il 9 marzo CET",
+      "fonte": "https://www.ilfattoquotidiano.it/2026/03/08/indian-wells-quando-gioca-sinner-contro-shapovalov-il-programma-di-oggi-e-gli-italiani-in-campo-date-orari-diretta-tv/863617/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "03:00*",
+      "evento": "WTA 1000 Indian Wells - Terzo turno: Jasmine Paolini vs Ajla Tomljanovic",
+      "competizione": "Tennis - WTA Indian Wells 2026",
+      "canale": "Supertennis, Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Orario stimato. Match giocato nella notte tra l'8 e il 9 marzo CET",
+      "fonte": "https://www.ilfattoquotidiano.it/2026/03/08/indian-wells-quando-gioca-sinner-contro-shapovalov-il-programma-di-oggi-e-gli-italiani-in-campo-date-orari-diretta-tv/863617/, https://www.olympics.com/it/notizie/indian-wells-2026-programma-orari-partita-calendario-dove-vedere-torneo",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del GP d'Australia",
+      "fonte": "https://guida.tv/palinsesto/sky-sport-uno/2026-03-09",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:30",
+      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del GP d'Australia",
+      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del GP d'Australia",
+      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Lecce - Cremonese",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEb4Jbq-9OUdg98AlXO1-QZwP6-y_EdWwOYEeVYVnzhfQzgtvOt4BVPDD103JGxY8FWUhmc6ODeZs5vdQ7_Ye5PDfPiFZsC0pwPdurcq23X_SbyzFY33Kj0EEo90fGC-r5kBjpk0Gq4eVYYz89EN0KPf_m3fliutPj75vlaAvo",
+      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del GP d'Australia",
+      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Differita Gara",
-      "competizione": "Formula 1 - GP Australia 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0swpmRv_447z-aLr_LHIZOSRlEEzB9zKq50IqqH0BePImQNG5wOu8cJwnRcY2DMgwgMjly37ZY9suIg-_BX9j1dfYpPuGvksfGe4hQC6H0thpLKDiErXr7HvuiDP4pxp2dSUXYGBoUumKA6VtoP5OK-tnsLv--6Wsn990g10jK4I24CiPfT5deX5O0H1NF7BWAOV5vRHBk9tLHEIY2KTI",
+      "orario": "13:00",
+      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del GP d'Australia",
+      "fonte": "https://guida.tv/palinsesto/sky-sport-uno/2026-03-09",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Fiorentina - Parma",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEb4Jbq-9OUdg98AlXO1-QZwP6-y_EdWwOYEeVYVnzhfQzgtvOt4BVPDD103JGxY8FWUhmc6ODeZs5vdQ7_Ye5PDfPiFZsC0pwPdurcq23X_SbyzFY33Kj0EEo90fGC-r5kBjpk0Gq4eVYYz89EN0KPf_m3fliutPj75vlaAvo",
+      "orario": "16:00",
+      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del GP d'Australia",
+      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Bologna - Verona",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEb4Jbq-9OUdg98AlXO1-QZwP6-y_EdWwOYEeVYVnzhfQzgtvOt4BVPDD103JGxY8FWUhmc6ODeZs5vdQ7_Ye5PDfPiFZsC0pwPdurcq23X_SbyzFY33Kj0EEo90fGC-r5kBjpk0Gq4eVYYz89EN0KPf_m3fliutPj75vlaAvo",
+      "orario": "19:00",
+      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del GP d'Australia",
+      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Genoa - Roma",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEb4Jbq-9OUdg98AlXO1-QZwP6-y_EdWwOYEeVYVnzhfQzgtvOt4BVPDD103JGxY8FWUhmc6ODeZs5vdQ7_Ye5PDfPiFZsC0pwPdurcq23X_SbyzFY33Kj0EEo90fGC-r5kBjpk0Gq4eVYYz89EN0KPf_m3fliutPj75vlaAvo",
+      "orario": "20:45",
+      "evento": "Lazio - Sassuolo",
+      "competizione": "Calcio - Serie A 2025/2026",
+      "canale": "Sky Sport Calcio",
+      "note": "28a giornata",
+      "fonte": "https://www.idealista.it/news/magazine/2026/03/05/1337299-calendario-serie-a-marzo-2026-tutte-le-gare-importanti-da-seguire, https://www.skysport.it/calcio/serie-a/2025/2026/calendario-risultati, https://www.sky.it/programmi-sky/sport/serie-a-enilive/2025-2026, https://sport.sky.it/calcio/serie-a/2025/2026/notizie/calendario-anticipi-posticipi-giornate-sky-sport",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "Jannik Sinner vs Denis Shapovalov",
-      "competizione": "Tennis - ATP Masters 1000 Indian Wells (3° turno)",
-      "canale": "Sky Sport Arena",
-      "note": "3° match della sessione diurna, orario stimato di inizio del programma.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC1mU0czONA8WVWt-pOsO-mQAnwTea-r6XA1GmRn8V6jDRoYr3qx40ddqjZps0tQkrwahW2Cs3VhFlweL7vjAhxeEA6chu_DVhH8-xU_399K4SJaQwc0C1Mr_dFaL3zxj5xhAR5pwVna85HzPaEqSrYfYdFs=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "Jasmine Paolini vs Ajla Tomljanovic",
-      "competizione": "Tennis - WTA 1000 Indian Wells (3° turno)",
-      "canale": "Sky Sport Arena",
-      "note": "2° match della sessione diurna, orario stimato di inizio del programma.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC1mU0czONA8WVWt-pOsO-mQAnwTea-r6XA1GmRn8V6jDRoYr3qx40ddqjZps0tQkrwahW2Cs3VhFlweL7vjAhxeEA6chu_DVhH8-xU_399K4SJaQwc0C1Mr_dFaL3zxj5xhAR5pwVna85HzPaEqSrYfYdFs=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "00:45",
-      "evento": "Replica Gara",
-      "competizione": "Formula 1 - GP Australia 2026",
-      "canale": "Sport (generico, indicato in guida TV notturna)",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbcBrTJLhwV8c66vR21jh-GKYeWpSBADvsHxcgAMOm-qd5KJbvwN2gLvoiTH6HheA8EuiLpnerPAWUL3PKOsBVWdJeYyCqV7UanFpNFFiaMrhWXODa_4g-DniFY-T4dxuvFJXmHyHLw2oRFSIzFnyf7g==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00*",
-      "evento": "Flavio Cobolli vs Frances Tiafoe",
-      "competizione": "Tennis - ATP Masters 1000 Indian Wells (3° turno)",
-      "canale": "Sky Sport Arena",
-      "note": "4° match della sessione diurna, non prima delle 02:00 CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgZdYIznmw1nd6iJJ4wpqEKFIZEEJ6MCrX_cMDEwbKRBik1AuiH9dTZybLqqz0nDfU6o5FItUa0vkzN7cK-Oh5W3n2PH8MzTXEj_5UCeqYzFH-FDb2caYlyBDBYCFGSavbNk5b_pI6_A8V7t0SURHXY3g9r1RvH08fYcIWrkp55m528IIbNnvFtldYGbNj2dD-bJ5KxE1ZV3wNCYG0NPPrBovpQri2mrd7Jm6dmJWag9IqBJB4ug91nhOWFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC1mU0czONA8WVWt-pOsO-mQAnwTea-r6XA1GmRn8V6jDRoYr3qx40ddqjZps0tQkrwahW2Cs3VhFlweL7vjAhxeEA6chu_DVhH8-xU_399K4SJaQwc0C1Mr_dFaL3zxj5xhAR5pwVna85HzPaEqSrYfYdFs=",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
