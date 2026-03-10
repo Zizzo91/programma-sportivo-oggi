@@ -1,76 +1,58 @@
 {
-  "last_updated": "2026-03-10T06:10:33.672144+01:00",
+  "last_updated": "2026-03-10T19:34:54.781473+01:00",
   "events": [
-    {
-      "orario": "06:00",
-      "evento": "Superlega 2025/2026 - Quarto di Finale 2 - Gara 1",
-      "competizione": "Pallavolo - Superlega Playoff",
-      "canale": "Raisport HD",
-      "note": "Replica. Partita di Vero Volley Monza, giocata l'8 marzo.",
-      "fonte": "Programmi TV del 10 Marzo 2026 su Raisport Hd - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 10 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "18:45",
       "evento": "Galatasaray - Liverpool",
-      "competizione": "UEFA Champions League - Ottavi di Finale (Andata)",
+      "competizione": "UEFA Champions League",
       "canale": "Sky Sport Uno, Sky Sport (canale 251), NOW",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
+      "note": "Ottavi di finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG617j4blRkw1muoyILBAkA1C7DlhU63MofN9rO4qxaE9GSx-Nl6lB6KDcWAgYMFRxESHcLQ95DSIESBVkND4V8EQ_uU0OOzfSYaLyGerW_JiX_afGHJI_01VqmgmuytFsfv19unPpLsDz8yew2IJfPHsCP5DmUpR7Qhu8WOZdp",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Jannik Sinner vs Joao Fonseca",
-      "competizione": "Tennis - ATP Masters 1000 Indian Wells (Ottavi di Finale)",
-      "canale": "Sky Sport Tennis (stimato)",
-      "note": "Orario ancora da definire",
-      "fonte": "Atp Indian Wells - L'orario del super match tra Jannik Sinner e Joao Fonseca, Sinner agli ottavi di Indian Wells: quando gioca contro Fonseca",
-      "accuratezza_orario": "tba"
+      "orario": "21:00",
+      "evento": "Jasmine Paolini (ITA) vs Talia Gibson (AUS)",
+      "competizione": "WTA 1000 Indian Wells - Ottavi di finale",
+      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, SuperTenniX",
+      "note": "Secondo match sullo Stadium 2. Orario stimato in base all'inizio del programma.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdOhCYc6mgi3pTroUaIiLetBz3U3FIH3qy4Ljtgml7mh_lTpZcUELrkwBn7KbJ2xfAwsIe1qwM2CCR_yA4E9KuG42uaM9U9I27onL7zccRbksvjf8S4E9MNFENUcd5LgjzouvaMnq4SQ9DDWwuzRT3emIoNQhcTf_kRPGhUBrCNmgu1S6bcQ_xKTX4DmX4P88HCm8ilW_gd-n2pZCX5ccJk5kMqcmdV562hxZE49k",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:00*",
-      "evento": "Jasmine Paolini vs Talia Gibson",
-      "competizione": "Tennis - WTA 1000 Indian Wells",
-      "canale": "Sky Sport Tennis (stimato)",
-      "note": "Non prima delle 21:00 CET, dopo Arthur Fils-Felix Auger-Aliassime. Orario stimato basato sulla programmazione locale convertita.",
-      "fonte": "Atp Indian Wells - L'orario del super match tra Jannik Sinner e Joao Fonseca",
+      "orario": "21:00",
+      "evento": "Evan King (USA) / Jelena Ostapenko (LAT) vs Belinda Bencic (SUI) / Flavio Cobolli (ITA)",
+      "competizione": "ATP/WTA 1000 Indian Wells - Doppio Misto",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, NOW, SuperTennis HD",
+      "note": "Sul campo 1, dopo Sabalenka vs Osaka (che inizia alle 19:00 CET). Orario stimato in base all'inizio del programma.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDpptVHtqSOW70Cfho2FmYrcwHouidbxwKx9TWlkKfs3Blp8D8F8jQGBhj_syDc1UVZ6iFEN6hEytFDjmXZD5Yer-4awXc2zitXZ9RxucNOfGUn0vEKA6l7tiMrQoJEPWb8ZHS_e3kTyetg75JK7bs_ZFUimNnZyz_YyUmGYVEKoLoNo8rVuzvmiSpWAPmXPS0tbbQikPaomb0553lsdUUCdUO-GSYxEcKwaFJGEEN-R0hpg9K8OFjk4dLszjoqESQytn8u1k4gJo3C6W4OxediYJHZZ_fGCjjnhnd5z4_XK0=",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
       "evento": "Atalanta - Bayern Monaco",
-      "competizione": "UEFA Champions League - Ottavi di Finale (Andata)",
-      "canale": "Sky Sport (canale 252), NOW",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (canale 252), NOW",
+      "note": "Ottavi di finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG617j4blRkw1muoyILBAkA1C7DlhU63MofN9rO4qxaE9GSx-Nl6lB6KDcWAgYMFRxESHcLQ95DSIESBVkND4V8EQ_uU0OOzfSYaLyGerW_JiX_afGHJI_01VqmgmuytFsfv19unPpLsDz8yew2IJfPHsCP5DmUpR7Qhu8WOZdp",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Newcastle - Barcellona",
-      "competizione": "UEFA Champions League - Ottavi di Finale (Andata)",
+      "competizione": "UEFA Champions League",
       "canale": "Sky Sport (canale 253), NOW",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
+      "note": "Ottavi di finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG617j4blRkw1muoyILBAkA1C7DlhU63MofN9rO4qxaE9GSx-Nl6lB6KDcWAgYMFRxESHcLQ95DSIESBVkND4V8EQ_uU0OOzfSYaLyGerW_JiX_afGHJI_01VqmgmuytFsfv19unPpLsDz8yew2IJfPHsCP5DmUpR7Qhu8WOZdp",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Atlético Madrid - Tottenham",
-      "competizione": "UEFA Champions League - Ottavi di Finale (Andata)",
+      "evento": "Atletico Madrid - Tottenham",
+      "competizione": "UEFA Champions League",
       "canale": "Sky Sport (canale 254), NOW",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
+      "note": "Ottavi di finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG617j4blRkw1muoyILBAkA1C7DlhU63MofN9rO4qxaE9GSx-Nl6lB6KDcWAgYMFRxESHcLQ95DSIESBVkND4V8EQ_uU0OOzfSYaLyGerW_JiX_afGHJI_01VqmgmuytFsfv19unPpLsDz8yew2IJfPHsCP5DmUpR7Qhu8WOZdp",
       "accuratezza_orario": "esatto"
     },
     {
@@ -78,9 +60,27 @@
       "evento": "Diretta Gol Champions League",
       "competizione": "UEFA Champions League",
       "canale": "Sky Sport Calcio, Sky Sport (canale 251), NOW",
-      "note": "Per seguire in tempo reale tutte le emozioni dei match serali.",
-      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
+      "note": "Highlights in diretta delle partite di Champions League",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG617j4blRkw1muoyILBAkA1C7DlhU63MofN9rO4qxaE9GSx-Nl6lB6KDcWAgYMFRxESHcLQ95DSIESBVkND4V8EQ_uU0OOzfSYaLyGerW_JiX_afGHJI_01VqmgmuytFsfv19unPpLsDz8yew2IJfPHsCP5DmUpR7Qhu8WOZdp",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00*",
+      "evento": "Sara Errani (ITA) / Andrea Vavassori (ITA) vs Desirae Krawczyk (USA) / Neal Skupski (GBR)",
+      "competizione": "ATP/WTA 1000 Indian Wells - Doppio Misto",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, NOW, SuperTennis HD",
+      "note": "Sul campo 1, dopo altri match. Orario stimato. (01:00* indica un orario stimato nella notte tra il 10 e l'11 marzo).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDpptVHtqSOW70Cfho2FmYrcwHouidbxwKx9TWlkKfs3Blp8D8F8jQGBhj_syDc1UVZ6iFEN6hEytFDjmXZD5Yer-4awXc2zitXZ9RxucNOfGUn0vEKA6l7tiMrQoJEPWb8ZHS_e3kTyetg75JK7bs_ZFUimNnZyz_YyUmGYVEKoLoNo8rVuzvmiSpWAPmXPS0tbbQikPaomb0553lsdUUCdUO-GSYxEcKwaFJGEEN-R0hpg9K8OFjk4dLszjoqESQytn8u1k4gJo3C6W4OxediYJHZZ_fGCjjnhnd5z4_XK0=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "02:00*",
+      "evento": "Jannik Sinner (ITA) vs Joao Fonseca (BRA)",
+      "competizione": "ATP 1000 Indian Wells - Ottavi di finale",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, NOW, Tennis Tv",
+      "note": "Terzo match sullo Stadium 1. Orario stimato nella notte tra il 10 e l'11 marzo. (02:00* indica un orario stimato nella notte tra il 10 e l'11 marzo).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERHSO6iKzp5FhErsX3x87L3cmiSfOId4JFTgv9ahootuDmJBt31erzq2banvdDese9yDlCgkbWG1aHyMhmbQTuKqpyM9dS4oLhzEwqvCg1ih2AzAh4KLYvT8Fq8tT_5nmmcgb-nLxcdliDs3Sm_mvwRYtnNUpA8mnwWIkebeXmAVDc8e0En4P58mVOgspCIYwehLF0LRkQQHmRCEckicApqZLKcFX4IQ==",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
