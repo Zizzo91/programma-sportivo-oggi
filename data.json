@@ -1,103 +1,85 @@
 {
-  "last_updated": "2026-03-09T06:20:24.475851+01:00",
+  "last_updated": "2026-03-10T06:10:33.672144+01:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "ATP Masters 1000 Indian Wells - Terzo turno: Jannik Sinner vs Denis Shapovalov",
-      "competizione": "Tennis - ATP Indian Wells 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
-      "note": "Match giocato nelle prime ore del 9 marzo CET",
-      "fonte": "https://www.eurosport.it/tennis/atp-indian-wells/2026/live-denis-shapovalov-jannik-sinner-indian-wells-mens-singles_mtc1775730/live.shtml, https://www.olympics.com/it/notizie/sinner-shapovalov-indian-wells-2026-quando-gioca-orario-dove-vedere-diretta-tv, https://www.ilfattoquotidiano.it/2026/03/08/indian-wells-quando-gioca-sinner-contro-shapovalov-il-programma-di-oggi-e-gli-italiani-in-campo-date-orari-diretta-tv/863617/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00*",
-      "evento": "ATP Masters 1000 Indian Wells - Terzo turno: Flavio Cobolli vs Frances Tiafoe",
-      "competizione": "Tennis - ATP Indian Wells 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
-      "note": "Orario stimato. Match giocato nella notte tra l'8 e il 9 marzo CET",
-      "fonte": "https://www.ilfattoquotidiano.it/2026/03/08/indian-wells-quando-gioca-sinner-contro-shapovalov-il-programma-di-oggi-e-gli-italiani-in-campo-date-orari-diretta-tv/863617/",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "03:00*",
-      "evento": "WTA 1000 Indian Wells - Terzo turno: Jasmine Paolini vs Ajla Tomljanovic",
-      "competizione": "Tennis - WTA Indian Wells 2026",
-      "canale": "Supertennis, Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
-      "note": "Orario stimato. Match giocato nella notte tra l'8 e il 9 marzo CET",
-      "fonte": "https://www.ilfattoquotidiano.it/2026/03/08/indian-wells-quando-gioca-sinner-contro-shapovalov-il-programma-di-oggi-e-gli-italiani-in-campo-date-orari-diretta-tv/863617/, https://www.olympics.com/it/notizie/indian-wells-2026-programma-orari-partita-calendario-dove-vedere-torneo",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "06:00",
-      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
+      "evento": "Superlega 2025/2026 - Quarto di Finale 2 - Gara 1",
+      "competizione": "Pallavolo - Superlega Playoff",
+      "canale": "Raisport HD",
+      "note": "Replica. Partita di Vero Volley Monza, giocata l'8 marzo.",
+      "fonte": "Programmi TV del 10 Marzo 2026 su Raisport Hd - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara del GP d'Australia",
-      "fonte": "https://guida.tv/palinsesto/sky-sport-uno/2026-03-09",
+      "note": "Replica",
+      "fonte": "Programmi TV del 10 Marzo 2026 su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:30",
-      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara del GP d'Australia",
-      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
+      "orario": "18:45",
+      "evento": "Galatasaray - Liverpool",
+      "competizione": "UEFA Champions League - Ottavi di Finale (Andata)",
+      "canale": "Sky Sport Uno, Sky Sport (canale 251), NOW",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:00",
-      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara del GP d'Australia",
-      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
+      "orario": "TBA",
+      "evento": "Jannik Sinner vs Joao Fonseca",
+      "competizione": "Tennis - ATP Masters 1000 Indian Wells (Ottavi di Finale)",
+      "canale": "Sky Sport Tennis (stimato)",
+      "note": "Orario ancora da definire",
+      "fonte": "Atp Indian Wells - L'orario del super match tra Jannik Sinner e Joao Fonseca, Sinner agli ottavi di Indian Wells: quando gioca contro Fonseca",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "21:00*",
+      "evento": "Jasmine Paolini vs Talia Gibson",
+      "competizione": "Tennis - WTA 1000 Indian Wells",
+      "canale": "Sky Sport Tennis (stimato)",
+      "note": "Non prima delle 21:00 CET, dopo Arthur Fils-Felix Auger-Aliassime. Orario stimato basato sulla programmazione locale convertita.",
+      "fonte": "Atp Indian Wells - L'orario del super match tra Jannik Sinner e Joao Fonseca",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Atalanta - Bayern Monaco",
+      "competizione": "UEFA Champions League - Ottavi di Finale (Andata)",
+      "canale": "Sky Sport (canale 252), NOW",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:30",
-      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara del GP d'Australia",
-      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
+      "orario": "21:00",
+      "evento": "Newcastle - Barcellona",
+      "competizione": "UEFA Champions League - Ottavi di Finale (Andata)",
+      "canale": "Sky Sport (canale 253), NOW",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:00",
-      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara del GP d'Australia",
-      "fonte": "https://guida.tv/palinsesto/sky-sport-uno/2026-03-09",
+      "orario": "21:00",
+      "evento": "Atlético Madrid - Tottenham",
+      "competizione": "UEFA Champions League - Ottavi di Finale (Andata)",
+      "canale": "Sky Sport (canale 254), NOW",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara del GP d'Australia",
-      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Mondiale Formula 1 2026 - GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara del GP d'Australia",
-      "fonte": "https://www.tvblog.it/palinsesto/sky-sport-f1/2026-03-09",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Lazio - Sassuolo",
-      "competizione": "Calcio - Serie A 2025/2026",
-      "canale": "Sky Sport Calcio",
-      "note": "28a giornata",
-      "fonte": "https://www.idealista.it/news/magazine/2026/03/05/1337299-calendario-serie-a-marzo-2026-tutte-le-gare-importanti-da-seguire, https://www.skysport.it/calcio/serie-a/2025/2026/calendario-risultati, https://www.sky.it/programmi-sky/sport/serie-a-enilive/2025-2026, https://sport.sky.it/calcio/serie-a/2025/2026/notizie/calendario-anticipi-posticipi-giornate-sky-sport",
+      "orario": "21:00",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Sport (canale 251), NOW",
+      "note": "Per seguire in tempo reale tutte le emozioni dei match serali.",
+      "fonte": "Calcio in tv oggi, 10 marzo 2026: Atalanta-Bayern e le altre sfide di Champions League",
       "accuratezza_orario": "esatto"
     }
   ]
