@@ -1,76 +1,49 @@
 {
-  "last_updated": "2026-03-11T13:35:05.733649+01:00",
+  "last_updated": "2026-03-11T19:40:05.678007+01:00",
   "events": [
     {
+      "orario": "08:45",
+      "evento": "Gare",
+      "competizione": "Giochi Paralimpici Invernali Milano-Cortina 2026",
+      "canale": "Rai Due HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSsoa9o-HDPZc-v1dxo6KMCHf9fLC_cqm0i45fbbphw17sP7fsaLRaTvYAs1LzHV441CgM-SGfPnJiaXs9MarnPelbPnIsgCHX6_LxG2atZPBZkWnKDCs_0QRUOXhIaWElU9N8UPrQMgDVnxmCEWS0dyYo",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:05",
+      "evento": "Sledge Hockey - Italia-Germania",
+      "competizione": "Giochi Paralimpici Invernali Milano-Cortina 2026",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSOjZDTo7WwS0shmE6hj2CGTXehxLxkJs7J0THqWG8c5yE7bTwrvmq6HB_Xabk6fjzT5IhDcIgalyUx8PPPfb4_lMf_uBg5a7YO0iUXgNwCxEq6DH9_dR_lGA39ItcMwXTJGiERjsSDYpS9zFJMuWt8qnAAjpFmRdJzED-lgmjVKdLk1H0q8dDV27dyKFiVXWr-GmzP_ZIC3V1b5IeOCuK4tReP_VUheddK3yWdVo1bAQygM",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "18:00",
-      "evento": "Fiorentina - Juventus",
+      "evento": "Fiorentina-Juventus",
       "competizione": "Coppa Italia Femminile",
       "canale": "Sky Sport Calcio, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpoQ9ozuwhkKdjYExZAF-x4IG-MmE5eDblcHGZlWEW0AKNGe9XUTG7ujTNU5GS7gnrEJsMXTOsDR4lAqVvd3vbCY5CB5dNGr5j68ujWt1keB02wBgoexGRcnw3S8GbT_7Q8yT_Ilirxu9J2OgfX0A1AETphOiInNn2THWHGNlSdw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcyq1IaBhg2wsdZ4QPZOeyHTb8-3aAtgUk-qoNVXAJOeDcDbWyHvbrBbCsHsQ10SL2zLZ5Tpj66C_KlkdUzVodPtHTYA3YLkJ-BrMfDMehH-wl0aE6vulTSX8E6V_1wKa_E5vPflKrFbJiIKJfTnTD1L8rfMk9_ZlyGUryVnlsmYRn1cM36V649_eeOzwDNGQsGbJ8ZmY=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEUGJDj7Q7bt2RQNw47NcwvtPfDrUInBuNtjOeIcFR7YsFXToRvFDI4lDl6QO3VtRgzuAJBTjGubQxpbOksf3I2lbZ6QznkUkiU64r3LV1s-shECfmlhTOP7YFQ7ymTTMlyTU83hmLXa59gd4BpE6YkUjPpTJoz6hSU4hFv6DGNg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq3LX_EaC3cFVCpVjiFUYFcgupX7a4tFehrn67hNhA6YgBeitxw56bcolt1Wo3udMA3YnxNySFDGHvzmbi_65xN80B6wqumijwD1txSQQPBj4ztkPjzPm9y5hRqt68L8gk38NlSteimJMBUshHH6Ol9D_evHdVrmRLdbi8nSDVCju1yIXa6KMZXY8oibdz1qfIwWrSX9xohA2UfOHvHUY0ilZw6EhgR7D4mb2Fhe9-IZku0lFApMHC5Jg-aNlI",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "Bayer Leverkusen - Arsenal",
-      "competizione": "UEFA Champions League (Andata Ottavi di Finale)",
-      "canale": "Sky Sport Uno, Sky Sport (canale 251), NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpoQ9ozuwhkKdjYExZAF-x4IG-MmE5eDblcHGZlWEW0AKNGe9XUTG7ujTNU5GS7gnrEJsMXTOsDR4lAqVvd3vbCY5CB5dNGr5j68ujWt1keB02wBgoexGRcnw3S8GbT_7Q8yT_Ilirxu9J2OgfX0A1AETphOiInNn2THWHGNlSdw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcyq1IaBhg2wsdZ4QPZOeyHTb8-3aAtgUk-qoNVXAJOeDcDbWyHvbrBbCsHsQ10SL2zLZ5Tpj66C_KlkdUzVodPtHTYA3YLkJ-BrMfDMehH-wl0aE6vulTSX8E6V_1wKa_E5vPflKrFbJiIKJfTnTD1L8rfMk9_ZlyGUryVnlsmYRn1cM36V649_eeOzwDNGQsGbJ8ZmY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKEqm_55Xn6rxQq2k86HWm5GuNC-UG-WpBUbiIu2j9bHeD1IBuJIzmsQMZTPsjPZapz91JQPf0t5PBrrl_1iUbbmQjwBLC7g16A-Xvq6UqlXts0vvwzjZDLia2fKan477ZFii5dZCQL0fPYkYyCcMNwIEBuGirzsAUi0cWL6ThOolPKRA_uNI9d0YuL98Dls4EA-naTHj14s3d1sjn2-9wIRnY4xl0kGjAsdCB_iPbkcn_vkJn7cgY9p6wnlGXmA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League (Andata Ottavi di Finale)",
-      "canale": "Sky Sport Uno, Sky Sport (canale 251), NOW",
-      "note": "Per seguire in simultanea i momenti chiave da tutti i campi.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpoQ9ozuwhkKdjYExZAF-x4IG-MmE5eDblcHGZlWEW0AKNGe9XUTG7ujTNU5GS7gnrEJsMXTOsDR4lAqVvd3vbCY5CB5dNGr5j68ujWt1keB02wBgoexGRcnw3S8GbT_7Q8yT_Ilirxu9J2OgfX0A1AETphOiInNn2THWHGNlSdw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcyq1IaBhg2wsdZ4QPZOeyHTb8-3aAtgUk-qoNVXAJOeDcDbWyHvbrBbCsHsQ10SL2zLZ5Tpj66C_KlkdUzVodPtHTYA3YLkJ-BrMfDMehH-wl0aE6vulTSX8E6V_1wKa_E5vPflKrFbJiIKJfTnTD1L8rfMk9_ZlyGUryVnlsmYRn1cM36V649_eeOzwDNGQsGbJ8ZmY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3-Fjt8buQt_zRwS_8GYBvbeN5ezfFHXFz9rdSLJLj2VezvbpMlPV7STUeB_gAOIf2HaqOtcf242RzZGdaTWN6gcHi41N4DWgSVwG_RPG6sqGYfKemSxnVrTocXdegY0rLagCsSWZHtuy00_PuSikaC4utJdEkeY6rVnN-aSlzDQp5PZLwePZuldtWYgXYW35isRNTLsU1G45HSk0DYE7qQW3R85NbS7u7IFcph4Rdt3gc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKEqm_55Xn6rxQq2k86HWm5GuNC-UG-WpBUbiIu2j9bHeD1IBuJIzmsQMZTPsjPZapz91JQPf0t5PBrrl_1iUbbmQjwBLC7g16A-Xvq6UqlXts0vvwzjZDLia2fKan477ZFii5dZCQL0fPYkYyCcMNwIEBuGirzsAUi0cWL6ThOolPKRA_uNI9d0YuL98Dls4EA-naTHj14s3d1sjn2-9wIRnY4xl0kGjAsdCB_iPbkcn_vkJn7cgY9p6wnlGXmA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Real Madrid - Manchester City",
-      "competizione": "UEFA Champions League (Andata Ottavi di Finale)",
-      "canale": "Amazon Prime Video",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpoQ9ozuwhkKdjYExZAF-x4IG-MmE5eDblcHGZlWEW0AKNGe9XUTG7ujTNU5GS7gnrEJsMXTOsDR4lAqVvd3vbCY5CB5dNGr5j68ujWt1keB02wBgoexGRcnw3S8GbT_7Q8yT_Ilirxu9J2OgfX0A1AETphOiInNn2THWHGNlSdw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcyq1IaBhg2wsdZ4QPZOeyHTb8-3aAtgUk-qoNVXAJOeDcDbWyHvbrBbCsHsQ10SL2zLZ5Tpj66C_KlkdUzVodPtHTYA3YLkJ-BrMfDMehH-wl0aE6vulTSX8E6V_1wKa_E5vPflKrFbJiIKJfTnTD1L8rfMk9_ZlyGUryVnlsmYRn1cM36V649_eeOzwDNGQsGbJ8ZmY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3-Fjt8buQt_zRwS_8GYBvbeN5ezfFHXFz9rdSLJLj2VezvbpMlPV7STUeB_gAOIf2HaqOtcf242RzZGdaTWN6gcHi41N4DWgSVwG_RPG6sqGYfKemSxnVrTocXdegY0rLagCsSWZHtuy00_PuSikaC4utJdEkeY6rVnN-aSlzDQp5PZLwePZuldtWYgXYW35isRNTLsU1G45HSk0DYE7qQW3R85NbS7u7IFcph4Rdt3gc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKEqm_55Xn6rxQq2k86HWm5GuNC-UG-WpBUbiIu2j9bHeD1IBuJIzmsQMZTPsjPZapz91JQPf0t5PBrrl_1iUbbmQjwBLC7g16A-Xvq6UqlXts0vvwzjZDLia2fKan477ZFii5dZCQL0fPYkYyCcMNwIEBuGirzsAUi0cWL6ThOolPKRA_uNI9d0YuL98Dls4EA-naTHj14s3d1sjn2-9wIRnY4xl0kGjAsdCB_iPbkcn_vkJn7cgY9p6wnlGXmA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Paris Saint-Germain - Chelsea",
-      "competizione": "UEFA Champions League (Andata Ottavi di Finale)",
-      "canale": "TV8, Sky Sport Calcio, Sky Sport (canale 252), NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpoQ9ozuwhkKdjYExZAF-x4IG-MmE5eDblcHGZlWEW0AKNGe9XUTG7ujTNU5GS7gnrEJsMXTOsDR4lAqVvd3vbCY5CB5dNGr5j68ujWt1keB02wBgoexGRcnw3S8GbT_7Q8yT_Ilirxu9J2OgfX0A1AETphOiInNn2THWHGNlSdw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcyq1IaBhg2wsdZ4QPZOeyHTb8-3aAtgUk-qoNVXAJOeDcDbWyHvbrBbCsHsQ10SL2zLZ5Tpj66C_KlkdUzVodPtHTYA3YLkJ-BrMfDMehH-wl0aE6vulTSX8E6V_1wKa_E5vPflKrFbJiIKJfTnTD1L8rfMk9_ZlyGUryVnlsmYRn1cM36V649_eeOzwDNGQsGbJ8ZmY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHnOeMP_MuHJ2ylgnKf7PMY8n1ZkauerXUzDxO2x7ymxPox4XsWChQCiloh2mt6BuL3tTVVj8KOcTUCK0vlSUIBhDWXz_zxWkIXtJSjvkh5LP1UgrDUPD40zIFqAYlaVq8UtUcYnMJOdxgfxqEuhNs0Bh_mMHRQi5iTp7zMGzn_91nhol_6p47l5c10FjQsFQSEdwbOYpFcHTGV9M=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3-Fjt8buQt_zRwS_8GYBvbeN5ezfFHXFz9rdSLJLj2VezvbpMlPV7STUeB_gAOIf2HaqOtcf242RzZGdaTWN6gcHi41N4DWgSVwG_RPG6sqGYfKemSxnVrTocXdegY0rLagCsSWZHtuy00_PuSikaC4utJdEkeY6rVnN-aSlzDQp5PZLwePZuldtWYgXYW35isRNTLsU1G45HSk0DYE7qQW3R85NbS7u7IFcph4Rdt3gc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKEqm_55Xn6rxQq2k86HWm5GuNC-UG-WpBUbiIu2j9bHeD1IBuJIzmsQMZTPsjPZapz91JQPf0t5PBrrl_1iUbbmQjwBLC7g16A-Xvq6UqlXts0vvwzjZDLia2fKan477ZFii5dZCQL0fPYkYyCcMNwIEBuGirzsAUi0cWL6ThOolPKRA_uNI9d0YuL98Dls4EA-naTHj14s3d1sjn2-9wIRnY4xl0kGjAsdCB_iPbkcn_vkJn7cgY9p6wnlGXmA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Bodo/Glimt - Sporting",
-      "competizione": "UEFA Champions League (Andata Ottavi di Finale)",
-      "canale": "Sky Sport (canale 253), NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpoQ9ozuwhkKdjYExZAF-x4IG-MmE5eDblcHGZlWEW0AKNGe9XUTG7ujTNU5GS7gnrEJsMXTOsDR4lAqVvd3vbCY5CB5dNGr5j68ujWt1keB02wBgoexGRcnw3S8GbT_7Q8yT_Ilirxu9J2OgfX0A1AETphOiInNn2THWHGNlSdw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcyq1IaBhg2wsdZ4QPZOeyHTb8-3aAtgUk-qoNVXAJOeDcDbWyHvbrBbCsHsQ10SL2zLZ5Tpj66C_KlkdUzVodPtHTYA3YLkJ-BrMfDMehH-wl0aE6vulTSX8E6V_1wKa_E5vPflKrFbJiIKJfTnTD1L8rfMk9_ZlyGUryVnlsmYRn1cM36V649_eeOzwDNGQsGbJ8ZmY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKEqm_55Xn6rxQq2k86HWm5GuNC-UG-WpBUbiIu2j9bHeD1IBuJIzmsQMZTPsjPZapz91JQPf0t5PBrrl_1iUbbmQjwBLC7g16A-Xvq6UqlXts0vvwzjZDLia2fKan477ZFii5dZCQL0fPYkYyCcMNwIEBuGirzsAUi0cWL6ThOolPKRA_uNI9d0YuL98Dls4EA-naTHj14s3d1sjn2-9wIRnY4xl0kGjAsdCB_iPbkcn_vkJn7cgY9p6wnlGXmA==",
+      "orario": "23:30",
+      "evento": "Quarti di finale doppio maschile: Erler/Vavassori vs Bhambri/Goransson",
+      "competizione": "ATP Indian Wells 2026",
+      "canale": "Sky Sport Tennis, SuperTennis HD",
+      "note": "Andrea Vavassori è italiano.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT3gwrTTWdMCgD3Qbw9VLUOTTtIq6RLV7J43plIOyQDzenlS6p8gdwF2vcCY49WLwwJ0LOIT7d8FcYdEAKkxKezHAi1L0qhatNGgFs8BdMAGOddEBB5nNvOdTCaoXN0iTu1kSYGVOficHYySyRlL7gfAkpBhU0iAfbxLq9GTn8WsLo6s6BwJTCaPwPm2J-Y6AfluJTysOkWFMU8gh8sIfsjZcxNXN_oUNZwgzGp-tbn3xR8ktqqnhOUUk1S14cAclhPzquDF7XXaWmrded7WGZDCBsOwP2X6Jh5Ha0QOvFX-XhK3wz9XT47BXWqsFXyIzfasHKYKh6rw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:00*",
-      "evento": "Sara Errani / Jasmine Paolini (ITA) vs Guo Hanyu / Kristina Mladenovic",
-      "competizione": "WTA 1000 Indian Wells - Quarti di Finale Doppio",
-      "canale": "SuperTennis HD, Sky Sport Tennis, SuperTenniX, Sky Go, NOW",
-      "note": "Non prima delle ore 2:00 italiane di giovedì 12 marzo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_QkrJEpTNcChUKzu7eO_9WD0kOZOe6QDRQf_gwPLSeRYclfGHZBPrrRUrZvYLLEV-AyM_8a5RPY4612tTK1OmqSWRHPMm0DzgtRe0qvhibbkD_VR6SkVbhbdqrHjoMryVhMbz_vQQT1nTjxhoZ7809RnEc0mlLfG63Jbb8feR7xTz8xXycCWTuT1iGkqDEXIKTJR8o32MdbjQSdiNQ840X0m-9lz8L1SG5oyAoQBtAQdHQ3y8=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "03:00*",
-      "evento": "Andrea Vavassori (ITA) / Alexander Erler vs Yuki Bhambri / Andre Goransson",
-      "competizione": "ATP Masters 1000 Indian Wells - Quarti di Finale Doppio",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis Tv",
-      "note": "Orario stimato, dopo i match di singolare e doppio femminile. Indian Wells è 8 ore indietro rispetto all'Italia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElIE7GaF1PsSFlRovowvWaUTgytlC6j6ogw-R5X5AwQNwRGp5pI5l91WBw82dSWkJ2kz9Q8Z29n8f9yZk_vWsqksyqLIspoz3BOMUtOUsGKZYof4AJbodw0gDySDj7qLoCX2hoqRg5jQWRlOIBJMCsEVlQAVREoDaBbPUcqR8U93qGocvxym_6WKpEpqU5e3SUaFWfxIbr6bGyETD5tmUtKctp8PVT0wtu-sbDR0GMhHNDu1_A6oH03kjcbJ_zBwH1qhGCLM-vHA6FqOAuPMA0nVQU4kty_E7JFEPPi-I6FQ3UUbvxD5BW8bT5z_ZNfVfz-kKsJCeMog==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXti4FXLcbPaxJlMHSmHiQ93dbvruuy3kTBhl3OUrD272vPTyXtBiL2tIQixsblL-PEqfoNmYki-CWyJV8oqdLjKmQd28Rj2V7cQ8rGwcCB9j-4_CDIW0f03403CWskRBnLTXGNPiwBVnpdEan3QN3ENnlvh3qtUAi-r6SAPetd_cuTYfnXy1D1KLOFSrB-H_BkAFkFHkOvQlmtHvS0x2nDmAA0ozv8MUXgtfpUgxDArTOQ88=",
+      "evento": "Quarti di finale doppio femminile: Errani/Paolini vs Guo/Mladenovic",
+      "competizione": "WTA Indian Wells 2026",
+      "canale": "Sky Sport Tennis, SuperTennis HD",
+      "note": "Sara Errani e Jasmine Paolini sono italiane. L'orario è stimato in quanto il match non si giocherà prima delle 02:00 italiane del 12 marzo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT3gwrTTWdMCgD3Qbw9VLUOTTtIq6RLV7J43plIOyQDzenlS6p8gdwF2vcCY49WLwwJ0LOIT7d8FcYdEAKkxKezHAi1L0qhatNGgFs8BdMAGOddEBB5nNvOdTCaoXN0iTu1kSYGVOficHYySyRlL7gfAkpBhU0iAfbxLq9GTn8WsLo6s6BwJTCaPwPm2J-Y6AfluJTysOkWFMU8gh8sIfsjZcxNXN_oUNZwgzGp-tbn3xR8ktqqnhOUUk1S14cAclhPzquDF7XXaWmrded7WGZDCBsOwP2X6Jh5Ha0QOvFX-XhK3wz9XT47BXWqsFXyIzfasHKYKh6rw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv7T1yQmR6dGEdrHA8wuw4_xou52yWqISQ4-Wjj-2JFLkknxCHkD8GkpbrFpszxyX83A-SRM4WPgjQlxMhO2GnijutXaoyhFhR9WzEcpR_419gmmi1Xm3kzNLE_AWmJYIihkd-QccCUU8CtwHIfVnYF1WZ0d9hLpL3rBMSDvJJ98hGfvIKwF7ssBDRahAkJFHVoRC3-oTqFP-tUz9PYUf4okNSmv1CswVaizr7jpY4zDTkFIg=",
       "accuratezza_orario": "stimato"
     }
   ]
