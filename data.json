@@ -1,202 +1,85 @@
 {
-  "last_updated": "2026-03-12T07:41:06.223742+01:00",
+  "last_updated": "2026-03-12T13:33:45.565064+01:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "Qualificazioni FIBA WC - Italia vs Porto Rico",
-      "competizione": "Basket - Qualificazioni Mondiali",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ05Xjrix8CiXzVXWxPeUb63dk3nzfn6mTaMGbgTSLeLR7-JOsAvRsuQtmW6Rtev9c4Q4omeIahErBca4yMNpAYZl9t2j84pXLBIacCzj7cN6LvpWBmfD-Ly6sSSDLEybxsXs0enJcONnEMtZ2VXNZ2oVed7xowMBWfkzwi3RuPlvJ1B1FKQPVoO9j5yROcwrRTvC2QjX-IIm1IC4SSMS_XGul-aEcYiY4poAZUDWlvQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "UEFA Europa e Conference League Magazine",
-      "competizione": "Calcio - Rubrica",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOCjkjDty-foOg7VmqT4Eh8vc44aZhfRhNwPjHkLt5qNfi2f153oj4qkTw3xAcjefcysVfu_UbA-TBwDmtYUpnEuU3OgZTSXm_3Zqc0BVAJwHJjTjAsoNivfgVeuNOZ0-YH829d9lAIbBeYh7_-Rw_f8c",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "18:45",
-      "evento": "Europa League - Ottavi di finale (andata) - Bologna vs Roma",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K, Sky Go, NOW",
-      "note": "Derby italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDkKbZuYzPXoHNZxFZjegy_Mc3feGSaHulq1mk9-isEsxrnFkuQozJQQnjBXAYjPakBEehiyzgdAm8p07HF9qj03BfRotBCzIePeTb-4J4zxOOIzwUdjxKmjy18AXXTeNHohDhLqfyEo6ONl4e4CK4AsjFmU7D7yGX; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVcboNg5yS9bMg1PtMiYueysqHxzV1pd5AGIk0QrHbd0G6QPjgoOEGLco1msK9eHJyTvDEd0ah7jZKV1JgjIzDVkQGCOIvFpYA2d60VE56l2_dprA_AZM8b-55KefHYC9xxULwZ63sWyIb-qqVW10anuWMmAAivTs6Ca30BJBer8FJFI7ZO5CUIDxb72zol33VIypJtrDyScw",
+      "evento": "Bologna - Roma",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport",
+      "note": "Ottavi di finale",
+      "fonte": "Libero Magazine, Diretta.it, EOLO, BolognaToday",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "Europa League - Ottavi di finale (andata) - Diretta Gol",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky Sport 251",
-      "note": "Per seguire in contemporanea tutte le partite",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDkKbZuYzPXoHNZxFZjegy_Mc3feGSaHulq1mk9-isEsxrnFkuQozJQQnjBXAYjPakBEehiyzgdAm8p07HF9qj03BfRotBCzIePeTb-4J4zxOOIzwUdjxKmjy18AXXTeNHohDhLqfyEo6ONl4e4CK4AsjFmU7D7yGX; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVcboNg5yS9bMg1PtMiYueysqHxzV1pd5AGIk0QrHbd0G6QPjgoOEGLco1msK9eHJyTvDEd0ah7jZKV1JgjIzDVkQGCOIvFpYA2d60VE56l2_dprA_AZM8b-55KefHYC9xxULwZ63sWyIb-qqVW10anuWMmAAivTs6Ca30BJBer8FJFI7ZO5CUIDxb72zol33VIypJtrDyScw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Europa League - Ottavi di finale (andata) - Panathinaikos vs Real Betis",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDkKbZuYzPXoHNZxFZjegy_Mc3feGSaHulq1mk9-isEsxrnFkuQozJQQnjBXAYjPakBEehiyzgdAm8p07HF9qj03BfRotBCzIePeTb-4J4zxOOIzwUdjxKmjy18AXXTeNHohDhLqfyEo6ONl4e4CK4AsjFmU7D7yGX; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Europa League - Ottavi di finale (andata) - Stuttgart vs Porto",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDkKbZuYzPXoHNZxFZjegy_Mc3feGSaHulq1mk9-isEsxrnFkuQozJQQnjBXAYjPakBEehiyzgdAm8p07HF9qj03BfRotBCzIePeTb-4J4zxOOIzwUdjxKmjy18AXXTeNHohDhLqfyEo6ONl4e4CK4AsjFmU7D7yGX; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Europa League - Ottavi di finale (andata) - Lille vs Aston Villa",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky Sport Mix",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDkKbZuYzPXoHNZxFZjegy_Mc3feGSaHulq1mk9-isEsxrnFkuQozJQQnjBXAYjPakBEehiyzgdAm8p07HF9qj03BfRotBCzIePeTb-4J4zxOOIzwUdjxKmjy18AXXTeNHohDhLqfyEo6ONl4e4CK4AsjFmU7D7yGX; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Conference League - Ottavi di finale (andata) - Lech Poznan vs Shakhtar",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgBAGi9BV8jDw5HMXXvxnoa9QVW0OeJFOy1bnyxp9S0_iqe5s2KrNtQM-S8PsEn20LAhd3u7oJv-SlI8omA3PeLuTAb7BCmmGBz7khAgvwDnkGtGzqgd0EEpD8aNnD8FSiE5uaybeM7m7oiC30SQfFgsVTeLEW_SfdYx1jw; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRCAEusr1VhgnQXJS6frXU2QrWZ5tS7o-sHx5vyJiUfHszWMap-fwjMWSmaxDfVoY5NggQn982XswQObVygUswIm-O3qFIvS7yUgV1f0Rv7tN06IOloftfxg9mXTUbsPFg0mJHPlRR7G3A8_IUl2bzCK-8O-UVuPIAINNDTPlF-K1IrossCRf-3JQUT993mZixVGiIukQ9tpbZ2ky8__6e0aseWEB8Cmlv4DNuRVXcXV_5jRGMAfYJ2_L2iB_VIn-bag==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNb4CxEUk-rRCcUOMdo_KKFMn0a4S3-M6doKz6jvasdDKOz5tW78myzj26qXp5WJk83pvwLVkpjAvsYUM2f701Rnf76IHi5ToObE460GCsCXXXMBPFJxTFkWdRJg7Mlb0ogH99Vtj7bqXAWmf4wxXQW_nOERwuxkK4r7rbV6ScLve4Q1EykvOXYKHT; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHiIp_1BCDI0sIBCWqi-RKGR9rovefQSOHYuVHC3B4-C9uEsvSK-YoeZTGDwzt1FubyzppYTAuHLE5u-RSZfzYPDJun7FpHhjkbF2TZWlimI5OVppbPM8qLyJt54jAAuw3TKtYO3RM3DeB6-pGDZ2KAOi-neVLkJHbuFAwaAS4rrmdcifX0t_vSGU-bAHWVXVjlA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Conference League - Ottavi di finale (andata) - AZ Alkmaar vs Sparta Praha",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgBAGi9BV8jDw5HMXXvxnoa9QVW0OeJFOy1bnyxp9S0_iqe5s2KrNtQM-S8PsEn20LAhd3u7oJv-SlI8omA3PeLuTAb7BCmmGBz7khAgvwDnkGtGzqgd0EEpD8aNnD8FSiE5uaybeM7m7oiC30SQfFgsVTeLEW_SfdYx1jw; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRCAEusr1VhgnQXJS6frXU2QrWZ5tS7o-sHx5vyJiUfHszWMap-fwjMWSmaxDfVoY5NggQn982XswQObVygUswIm-O3qFIvS7yUgV1f0Rv7tN06IOloftfxg9mXTUbsPFg0mJHPlRR7G3A8_IUl2bzCK-8O-UVuPIAINNDTPlF-K1IrossCRf-3JQUT993mZixVGiIukQ9tpbZ2ky8__6e0aseWEB8Cmlv4DNuRVXcXV_5jRGMAfYJ2_L2iB_VIn-bag==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNb4CxEUk-rRCcUOMdo_KKFMn0a4S3-M6doKz6jvasdDKOz5tW78myzj26qXp5WJk83pvwLVkpjAvsYUM2f701Rnf76IHi5ToObE460GCsCXXXMBPFJxTFkWdRJg7Mlb0ogH99Vtj7bqXAWmf4wxXQW_nOERwuxkK4r7rbV6ScLve4Q1EykvOXYKHT; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHiIp_1BCDI0sIBCWqi-RKGR9rovefQSOHYuVHC3B4-C9uEsvSK-YoeZTGDwzt1FubyzppYTAuHLE5u-RSZfzYPDJun7FpHhjkbF2TZWlimI5OVppbPM8qLyJt54jAAuw3TKtYO3RM3DeB6-pGDZ2KAOi-neVLkJHbuFAwaAS4rrmdcifX0t_vSGU-bAHWVXVjlA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Conference League - Ottavi di finale (andata) - Samsunspor vs Rayo Vallecano",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgBAGi9BV8jDw5HMXXvxnoa9QVW0OeJFOy1bnyxp9S0_iqe5s2KrNtQM-S8PsEn20LAhd3u7oJv-SlI8omA3PeLuTAb7BCmmGBz7khAgvwDnkGtGzqgd0EEpD8aNnD8FSiE5uaybeM7m7oiC30SQfFgsVTeLEW_SfdYx1jw; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRCAEusr1VhgnQXJS6frXU2QrWZ5tS7o-sHx5vyJiUfHszWMap-fwjMWSmaxDfVoY5NggQn982XswQObVygUswIm-O3qFIvS7yUgV1f0Rv7tN06IOloftfxg9mXTUbsPFg0mJHPlRR7G3A8_IUl2bzCK-8O-UVuPIAINNDTPlF-K1IrossCRf-3JQUT993mZixVGiIukQ9tpbZ2ky8__6e0aseWEB8Cmlv4DNuRVXcXV_5jRGMAfYJ2_L2iB_VIn-bag==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNb4CxEUk-rRCcUOMdo_KKFMn0a4S3-M6doKz6jvasdDKOz5tW78myzj26qXp5WJk83pvwLVkpjAvsYUM2f701Rnf76IHi5ToObE460GCsCXXXMBPFJxTFkWdRJg7Mlb0ogH99Vtj7bqXAWmf4wxXQW_nOERwuxkK4r7rbV6ScLve4Q1EykvOXYKHT; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVcboNg5yS9bMg1PtMiYueysqHxzV1pd5AGIk0QrHbd0G6QPjgoOEGLco1msK9eHJyTvDEd0ah7jZKV1JgjIzDVkQGCOIvFpYA2d60VE56l2_dprA_AZM8b-55KefHYC9xxULwZ63sWyIb-qqVW10anuWMmAAivTs6Ca30BJBer8FJFI7ZO5CUIDxb72zol33VIypJtrDyScw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Conference League - Ottavi di finale (andata) - Rijeka vs Strasbourg",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgBAGi9BV8jDw5HMXXvxnoa9QVW0OeJFOy1bnyxp9S0_iqe5s2KrNtQM-S8PsEn20LAhd3u7oJv-SlI8omA3PeLuTAb7BCmmGBz7khAgvwDnkGtGzqgd0EEpD8aNnD8FSiE5uaybeM7m7oiC30SQfFgsVTeLEW_SfdYx1jw; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRCAEusr1VhgnQXJS6frXU2QrWZ5tS7o-sHx5vyJiUfHszWMap-fwjMWSmaxDfVoY5NggQn982XswQObVygUswIm-O3qFIvS7yUgV1f0Rv7tN06IOloftfxg9mXTUbsPFg0mJHPlRR7G3A8_IUl2bzCK-8O-UVuPIAINNDTPlF-K1IrossCRf-3JQUT993mZixVGiIukQ9tpbZ2ky8__6e0aseWEB8Cmlv4DNuRVXcXV_5jRGMAfYJ2_L2iB_VIn-bag==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNb4CxEUk-rRCcUOMdo_KKFMn0a4S3-M6doKz6jvasdDKOz5tW78myzj26qXp5WJk83pvwLVkpjAvsYUM2f701Rnf76IHi5ToObE460GCsCXXXMBPFJxTFkWdRJg7Mlb0ogH99Vtj7bqXAWmf4wxXQW_nOERwuxkK4r7rbV6ScLve4Q1EykvOXYKHT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Europa League - Ottavi di finale (andata) - Nottingham Forest vs Midtjylland",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "TV8, Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeq_XEiCoLVXv84uDO7aodKyZSS4LHKKYrKHOMsH1vmgiAvwjKg6jWpiMmPaIcPeZYKG3prqwVcG03GDXfHcxqlWVc4evC1g2-OhvDT7syoCKh7hdCC7W6FbjOfiq0G5dWbEmTSxlOpzaqyAvCF4E=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Europa League - Ottavi di finale (andata) - Ferencváros vs Braga",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDkKbZuYzPXoHNZxFZjegy_Mc3feGSaHulq1mk9-isEsxrnFkuQozJQQnjBXAYjPakBEehiyzgdAm8p07HF9qj03BfRotBCzIePeTb-4J4zxOOIzwUdjxKmjy18AXXTeNHohDhLqfyEo6ONl4e4CK4AsjFmU7D7yGX; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Europa League - Ottavi di finale (andata) - Celta vs Lyon",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDkKbZuYzPXoHNZxFZjegy_Mc3feGSaHulq1mk9-isEsxrnFkuQozJQQnjBXAYjPakBEehiyzgdAm8p07HF9qj03BfRotBCzIePeTb-4J4zxOOIzwUdjxKmjy18AXXTeNHohDhLqfyEo6ONl4e4CK4AsjFmU7D7yGX; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Europa League - Ottavi di finale (andata) - Genk vs Freiburg",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDkKbZuYzPXoHNZxFZjegy_Mc3feGSaHulq1mk9-isEsxrnFkuQozJQQnjBXAYjPakBEehiyzgdAm8p07HF9qj03BfRotBCzIePeTb-4J4zxOOIzwUdjxKmjy18AXXTeNHohDhLqfyEo6ONl4e4CK4AsjFmU7D7yGX; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Conference League - Ottavi di finale (andata) - Fiorentina vs Raków",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgBAGi9BV8jDw5HMXXvxnoa9QVW0OeJFOy1bnyxp9S0_iqe5s2KrNtQM-S8PsEn20LAhd3u7oJv-SlI8omA3PeLuTAb7BCmmGBz7khAgvwDnkGtGzqgd0EEpD8aNnD8FSiE5uaybeM7m7oiC30SQfFgsVTeLEW_SfdYx1jw; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRCAEusr1VhgnQXJS6frXU2QrWZ5tS7o-sHx5vyJiUfHszWMap-fwjMWSmaxDfVoY5NggQn982XswQObVygUswIm-O3qFIvS7yUgV1f0Rv7tN06IOloftfxg9mXTUbsPFg0mJHPlRR7G3A8_IUl2bzCK-8O-UVuPIAINNDTPlF-K1IrossCRf-3JQUT993mZixVGiIukQ9tpbZ2ky8__6e0aseWEB8Cmlv4DNuRVXcXV_5jRGMAfYJ2_L2iB_VIn-bag==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNb4CxEUk-rRCcUOMdo_KKFMn0a4S3-M6doKz6jvasdDKOz5tW78myzj26qXp5WJk83pvwLVkpjAvsYUM2f701Rnf76IHi5ToObE460GCsCXXXMBPFJxTFkWdRJg7Mlb0ogH99Vtj7bqXAWmf4wxXQW_nOERwuxkK4r7rbV6ScLve4Q1EykvOXYKHT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Conference League - Ottavi di finale (andata) - Crystal Palace vs AEK Larnaca",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgBAGi9BV8jDw5HMXXvxnoa9QVW0OeJFOy1bnyxp9S0_iqe5s2KrNtQM-S8PsEn20LAhd3u7oJv-SlI8omA3PeLuTAb7BCmmGBz7khAgvwDnkGtGzqgd0EEpD8aNnD8FSiE5uaybeM7m7oiC30SQfFgsVTeLEW_SfdYx1jw; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRCAEusr1VhgnQXJS6frXU2QrWZ5tS7o-sHx5vyJiUfHszWMap-fwjMWSmaxDfVoY5NggQn982XswQObVygUswIm-O3qFIvS7yUgV1f0Rv7tN06IOloftfxg9mXTUbsPFg0mJHPlRR7G3A8_IUl2bzCK-8O-UVuPIAINNDTPlF-K1IrossCRf-3JQUT993mZixVGiIukQ9tpbZ2ky8__6e0aseWEB8Cmlv4DNuRVXcXV_5jRGMAfYJ2_L2iB_VIn-bag==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Conference League - Ottavi di finale (andata) - Celje vs AEK Athens",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgBAGi9BV8jDw5HMXXvxnoa9QVW0OeJFOy1bnyxp9S0_iqe5s2KrNtQM-S8PsEn20LAhd3u7oJv-SlI8omA3PeLuTAb7BCmmGBz7khAgvwDnkGtGzqgd0EEpD8aNnD8FSiE5uaybeM7m7oiC30SQfFgsVTeLEW_SfdYx1jw; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHiIp_1BCDI0sIBCWqi-RKGR9rovefQSOHYuVHC3B4-C9uEsvSK-YoeZTGDwzt1FubyzppYTAuHLE5u-RSZfzYPDJun7FpHhjkbF2TZWlimI5OVppbPM8qLyJt54jAAuw3TKtYO3RM3DeB6-pGDZ2KAOi-neVLkJHbuFAwaAS4rrmdcifX0t_vSGU-bAHWVXVjlA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Conference League - Ottavi di finale (andata) - Sigma Olomouc vs Mainz",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgBAGi9BV8jDw5HMXXvxnoa9QVW0OeJFOy1bnyxp9S0_iqe5s2KrNtQM-S8PsEn20LAhd3u7oJv-SlI8omA3PeLuTAb7BCmmGBz7khAgvwDnkGtGzqgd0EEpD8aNnD8FSiE5uaybeM7m7oiC30SQfFgsVTeLEW_SfdYx1jw; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNb4CxEUk-rRCcUOMdo_KKFMn0a4S3-M6doKz6jvasdDKOz5tW78myzj26qXp5WJk83pvwLVkpjAvsYUM2f701Rnf76IHi5ToObE460GCsCXXXMBPFJxTFkWdRJg7Mlb0ogH99Vtj7bqXAWmf4wxXQW_nOERwuxkK4r7rbV6ScLve4Q1EykvOXYKHT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Tennis - ATP 1000 Indian Wells - Quarti di finale: Jannik Sinner vs Learner Tien",
-      "competizione": "Tennis - ATP Masters 1000 Indian Wells",
-      "canale": "Sky Sport Tennis",
-      "note": "Orario stimato, non prima delle 13:00 ora locale (PST)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwZ8xa-VBXGTPVzG8cKHeWqJC20elZgim35Nor8Uct3cjBQMlgw0JhFvtoPa0swy70jvkFA3dxCxukamrYZzbtqGHPuldiEppyyjCFn82LEF1kvK0AgYxYDi-AszsyKBJ-gKshyCywjMafT48o0P_qN_Cia69mRPfCI01lYx1TR3bSTSqfDLg3DbQP9tF4RobIbwXBW46w9fAdOAjdKar9Usv8zXmDjDiWIsKBKwGj3j36nhdvLhizKKPgnCi5ZA==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhj7BZKD2NurG48qfGjJKFROacUVpS5SxZUmiL0iudHaI_lRBAo1lBr7OFv3DLV1MEugYiETvwUBAoglBTug9_vg3H3LeQdVd9UqTxrm5VjEQR9ih38nKSASqHH1Nnj-pjvFF5v5f8OO9qV6WykuZIOmhuBqWLa110QDVgcfiI1dzBX2b9gIBYs5W6QdfJ-Y_Rr4deOlIhMRTe_wUCGF7Pr6XKIhBC; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUYGvoZHdh54ftcTtBM2J0JRdrtiwK1I8cAF2Y4WaX_MBCNcTkF8MguzXyoKIFLv-bO1QNwfAKZZ9nbcUscolWV5LtNLsF11V9nrCrEJjwtBOaR4i8wotqZlXi8jvorQjjBszFYldYDGFh5NkAPOGEEogXz0C_RMfzkl6fJot1LnQeKd9G-Qi2PnVaURVqQRRXTp2YFVQWA0Bi-w69ng0rMzY6LoY=; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3V7evHgZ7gCPFKiHSu1QLPEGTAQQzO5moYQPOeTzht-TWMIfe0wgBkDQO-uEGakHqAVRXAokigAMaZgBXWHECUTBtQj9y_0Sb0NNKVInaxc1xkFbdTliu68VzvF7KyW9j0nYcyzicDOzAAL4mcYbLWG7HeHeJtnagjhdBsmzultzIcFLE3LWnE4M7ziPfHI-Xi1zgeSoG4uIaHRXPMWad3yaU5OGOdk1dZpzBzqcGAP-hsIHx0NI0D6YuvMUzhEFvcwGdg8HCD5Rw8A==",
+      "orario": "19:00*",
+      "evento": "Sara Errani/Jasmine Paolini (doppio)",
+      "competizione": "WTA 1000 Indian Wells",
+      "canale": "Sky Sport",
+      "note": "Semifinali, 4° match dalle 19:00 italiane",
+      "fonte": "OA Sport, SuperTennis",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Europa League e Conference League - Diretta Gol",
-      "competizione": "Calcio - UEFA Europa League / UEFA Conference League",
-      "canale": "Sky Sport 251",
-      "note": "Per seguire in contemporanea tutte le partite",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisTKdwbRHnFk_WkCbHmywij7kHeXQbAG_Jwi87b4BeuhKhk9CiWx7ekLBncnRLsJCuPxu29vNrWhRb0ZeMiJeczHCajYTI7roAiN6-Z0RduVQngnMiSrW4gt1GS_k_WqVqWQhR7VHvxPQilD5NMFpVU3wu9EPYeWKBumJhkhd",
+      "evento": "Fiorentina - Rakow Czestochowa",
+      "competizione": "UEFA Conference League",
+      "canale": "Sky Sport",
+      "note": "Ottavi di finale",
+      "fonte": "Libero Magazine, Guida TV Zam",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:50",
-      "evento": "Qualificazioni Mondiali femminili 2026 - Nuova Zelanda vs Italia",
-      "competizione": "Calcio Femminile - Qualificazioni Mondiali",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7xlDsZp6dn8pCOFabceAim6iCf4h6aawyvZdDS5sPZ8_Rvu8VzOQUQIfpnZolXti4xl0y7G4LGbuaJuSjXzWKrWL5AGe49YnBoo6VEwdYXnBe4QBJHj3mcOZ1pHFtK8onSe9gQntbRjRgdTwdKYs1",
+      "orario": "21:00",
+      "evento": "Nottingham Forest - Midtjylland",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Max, TV8",
+      "note": "Ottavi di finale",
+      "fonte": "Libero Magazine, Dituttounpop.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Diretta Gol UEL-UECL",
+      "competizione": "UEFA Europa League / UEFA Conference League",
+      "canale": "Sky Sport Calcio",
+      "note": "Collegamento in diretta dai campi",
+      "fonte": "Libero Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00*",
+      "evento": "Jannik Sinner - Learner Tien",
+      "competizione": "ATP Masters 1000 Indian Wells",
+      "canale": "Sky Sport",
+      "note": "Quarti di finale, non prima delle 21:00 italiane",
+      "fonte": "OA Sport, Olympics.com, Tennis ATP",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:05",
+      "evento": "F1 Paddock Live Pit Walk",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Rubrica di approfondimento",
+      "fonte": "Guida TV Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:35",
+      "evento": "Stampa Piloti Sport",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Programma di approfondimento",
+      "fonte": "Guida TV Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:30",
+      "evento": "Huracan - River Plate",
+      "competizione": "Liga Profesional (Argentina)",
+      "canale": "Sportitalia",
+      "note": "Partita di campionato argentino",
+      "fonte": "Libero Magazine",
       "accuratezza_orario": "esatto"
     }
   ]
