@@ -1,50 +1,122 @@
 {
-  "last_updated": "2026-03-11T19:40:05.678007+01:00",
+  "last_updated": "2026-03-12T02:00:45.263752+01:00",
   "events": [
     {
-      "orario": "08:45",
-      "evento": "Gare",
-      "competizione": "Giochi Paralimpici Invernali Milano-Cortina 2026",
-      "canale": "Rai Due HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSsoa9o-HDPZc-v1dxo6KMCHf9fLC_cqm0i45fbbphw17sP7fsaLRaTvYAs1LzHV441CgM-SGfPnJiaXs9MarnPelbPnIsgCHX6_LxG2atZPBZkWnKDCs_0QRUOXhIaWElU9N8UPrQMgDVnxmCEWS0dyYo",
+      "orario": "18:00",
+      "evento": "Coppa Italia Femminile: Roma-Inter",
+      "competizione": "Coppa Italia Femminile (Semifinale)",
+      "canale": "Sky Sport Calcio",
+      "note": "Semifinale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF...",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:05",
-      "evento": "Sledge Hockey - Italia-Germania",
-      "competizione": "Giochi Paralimpici Invernali Milano-Cortina 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSOjZDTo7WwS0shmE6hj2CGTXehxLxkJs7J0THqWG8c5yE7bTwrvmq6HB_Xabk6fjzT5IhDcIgalyUx8PPPfb4_lMf_uBg5a7YO0iUXgNwCxEq6DH9_dR_lGA39ItcMwXTJGiERjsSDYpS9zFJMuWt8qnAAjpFmRdJzED-lgmjVKdLk1H0q8dDV27dyKFiVXWr-GmzP_ZIC3V1b5IeOCuK4tReP_VUheddK3yWdVo1bAQygM",
+      "orario": "18:45",
+      "evento": "Bologna-Roma",
+      "competizione": "Europa League (Ottavi di Finale - Andata)",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (252), Sky Go, NOW",
+      "note": "Andata ottavi di finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI...",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Fiorentina-Rakow",
+      "competizione": "Conference League (Ottavi di Finale - Andata)",
+      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K, Sky Go, NOW",
+      "note": "Andata ottavi di finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF...",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "ATP Masters 1000 Indian Wells: Quarto di Finale Sinner (ITA) vs Tien",
+      "competizione": "ATP Masters 1000 Indian Wells",
+      "canale": "Sky, Sky Go, NOW, Tennis TV",
+      "note": "Orario ancora da definire",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ...",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "02:00",
+      "evento": "WTA 1000 Indian Wells: Quarto di Finale Errani/Paolini (ITA) vs Guo/Mladenovic (doppio)",
+      "competizione": "WTA 1000 Indian Wells",
+      "canale": "SuperTennis HD, Sky Sport Tennis, SuperTenniX, Sky Go, NOW",
+      "note": "Orario stimato, match 'non prima delle 02:00 CET' del 12 marzo (quindi prime ore del 13 marzo)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOHD...",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "13:00",
+      "evento": "F1 Conferenza Stampa Piloti (GP Cina)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Conferenza stampa inizio weekend",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4...",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "GP Cina (Rubrica/Approfondimento)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Programma di approfondimento/Edizione n.74 del mondiale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4...",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "F1 Conferenza Stampa Piloti (GP Cina) (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica conferenza stampa",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4...",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "GP Australia: Analisi",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Analisi del Gran Premio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc...",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4...",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:30",
+      "evento": "F1 Prove Libere 1 (GP Cina)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Inizio venerdì 13 marzo (CET)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ...",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Fiorentina-Juventus",
-      "competizione": "Coppa Italia Femminile",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEUGJDj7Q7bt2RQNw47NcwvtPfDrUInBuNtjOeIcFR7YsFXToRvFDI4lDl6QO3VtRgzuAJBTjGubQxpbOksf3I2lbZ6QznkUkiU64r3LV1s-shECfmlhTOP7YFQ7ymTTMlyTU83hmLXa59gd4BpE6YkUjPpTJoz6hSU4hFv6DGNg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq3LX_EaC3cFVCpVjiFUYFcgupX7a4tFehrn67hNhA6YgBeitxw56bcolt1Wo3udMA3YnxNySFDGHvzmbi_65xN80B6wqumijwD1txSQQPBj4ztkPjzPm9y5hRqt68L8gk38NlSteimJMBUshHH6Ol9D_evHdVrmRLdbi8nSDVCju1yIXa6KMZXY8oibdz1qfIwWrSX9xohA2UfOHvHUY0ilZw6EhgR7D4mb2Fhe9-IZku0lFApMHC5Jg-aNlI",
+      "evento": "GP Thailandia: Sprint Race (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw...",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:30",
-      "evento": "Quarti di finale doppio maschile: Erler/Vavassori vs Bhambri/Goransson",
-      "competizione": "ATP Indian Wells 2026",
-      "canale": "Sky Sport Tennis, SuperTennis HD",
-      "note": "Andrea Vavassori è italiano.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT3gwrTTWdMCgD3Qbw9VLUOTTtIq6RLV7J43plIOyQDzenlS6p8gdwF2vcCY49WLwwJ0LOIT7d8FcYdEAKkxKezHAi1L0qhatNGgFs8BdMAGOddEBB5nNvOdTCaoXN0iTu1kSYGVOficHYySyRlL7gfAkpBhU0iAfbxLq9GTn8WsLo6s6BwJTCaPwPm2J-Y6AfluJTysOkWFMU8gh8sIfsjZcxNXN_oUNZwgzGp-tbn3xR8ktqqnhOUUk1S14cAclhPzquDF7XXaWmrded7WGZDCBsOwP2X6Jh5Ha0QOvFX-XhK3wz9XT47BXWqsFXyIzfasHKYKh6rw==",
+      "orario": "18:45",
+      "evento": "GP Thailandia: Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw...",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00*",
-      "evento": "Quarti di finale doppio femminile: Errani/Paolini vs Guo/Mladenovic",
-      "competizione": "WTA Indian Wells 2026",
-      "canale": "Sky Sport Tennis, SuperTennis HD",
-      "note": "Sara Errani e Jasmine Paolini sono italiane. L'orario è stimato in quanto il match non si giocherà prima delle 02:00 italiane del 12 marzo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT3gwrTTWdMCgD3Qbw9VLUOTTtIq6RLV7J43plIOyQDzenlS6p8gdwF2vcCY49WLwwJ0LOIT7d8FcYdEAKkxKezHAi1L0qhatNGgFs8BdMAGOddEBB5nNvOdTCaoXN0iTu1kSYGVOficHYySyRlL7gfAkpBhU0iAfbxLq9GTn8WsLo6s6BwJTCaPwPm2J-Y6AfluJTysOkWFMU8gh8sIfsjZcxNXN_oUNZwgzGp-tbn3xR8ktqqnhOUUk1S14cAclhPzquDF7XXaWmrded7WGZDCBsOwP2X6Jh5Ha0QOvFX-XhK3wz9XT47BXWqsFXyIzfasHKYKh6rw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv7T1yQmR6dGEdrHA8wuw4_xou52yWqISQ4-Wjj-2JFLkknxCHkD8GkpbrFpszxyX83A-SRM4WPgjQlxMhO2GnijutXaoyhFhR9WzEcpR_419gmmi1Xm3kzNLE_AWmJYIihkd-QccCUU8CtwHIfVnYF1WZ0d9hLpL3rBMSDvJJ98hGfvIKwF7ssBDRahAkJFHVoRC3-oTqFP-tUz9PYUf4okNSmv1CswVaizr7jpY4zDTkFIg=",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
