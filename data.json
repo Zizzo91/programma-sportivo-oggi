@@ -1,148 +1,166 @@
 {
-  "last_updated": "2026-03-12T19:38:44.877402+01:00",
+  "last_updated": "2026-03-13T02:06:40.811083+01:00",
   "events": [
     {
-      "orario": "12:55",
-      "evento": "Gare",
-      "competizione": "Paralimpiadi Invernali Milano Cortina 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "superguidatv.it",
+      "orario": "00:00",
+      "evento": "UEFA Conference League - Ottavi di Finale (andata) Fiorentina/Rakow",
+      "competizione": "Calcio - UEFA Conference League",
+      "canale": "Sky Sport Football",
+      "note": "Replica di partita giocata il 12/03/2026",
+      "fonte": "Sky Sport Football Ven 13/03/2026 - guida Tv Zam",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:00",
-      "evento": "Gare",
-      "competizione": "Giochi Paralimpici Invernali Milano-Cortina 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "guidatv.it",
+      "orario": "01:30",
+      "evento": "Copa Libertadores",
+      "competizione": "Calcio - Copa Libertadores",
+      "canale": "Sportitalia, Como TV",
+      "note": "Independiente Medellín - Juventud",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Gare",
-      "competizione": "Paralimpiadi Invernali Milano Cortina 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "superguidatv.it",
+      "orario": "01:30",
+      "evento": "Campionato Argentino",
+      "competizione": "Calcio - Campionato Argentino",
+      "canale": "Sportitalia, Como TV",
+      "note": "Huracán - River Plate",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "Prove",
-      "competizione": "F1 Academy",
-      "canale": "Sky Sport",
-      "note": "Orario stimato, l'informazione indica solo 'Practice the 12.03.2026' su Sky Sport.",
-      "fonte": "sky.ch",
+      "orario": "01:00*",
+      "evento": "ATP Masters 1000 Indian Wells - Quarti di finale singolare uomini",
+      "competizione": "Tennis - ATP Masters 1000",
+      "canale": "Sky Sport Tennis, SkyGo, NOW, Tennis Tv",
+      "note": "Include Jannik Sinner contro Learner Tien. Orario stimato 'non prima delle 01:00' per l'inizio dei quarti.",
+      "fonte": "Jannik Sinner - Alexander Zverev a Indian Wells 2026 in semifinale: quando gioca, orario e dove vedere la partita in diretta · Tennis ATP - Olympics.com, Sinner-Tien oggi in tv, ATP Indian Wells 2026: orario, programma, streaming - OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "Roma-Inter",
-      "competizione": "Coppa Italia Femminile",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "tuttomercatoweb.com, 90min.com",
+      "orario": "02:00",
+      "evento": "Champions League Atalanta - FC Bayern Monaco",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport Football",
+      "note": "Replica",
+      "fonte": "Sky Sport Football Ven 13/03/2026 - guida Tv Zam",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:15",
-      "evento": "Gare",
-      "competizione": "Paralimpiadi Invernali Milano Cortina 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "superguidatv.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Bologna-Roma",
-      "competizione": "Europa League - Ottavi di finale (andata)",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (canale 252), NOW",
-      "note": "Derby italiano.",
-      "fonte": "lapresse.it, tuttomercatoweb.com, calciomagazine.net, fanpage.it, corrieredellosport.it, 90min.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Diretta Gol Europa e Conference League",
-      "competizione": "Europa League / Conference League",
-      "canale": "Sky Sport (canale 251), NOW",
-      "note": "Copertura in contemporanea di più partite.",
-      "fonte": "tuttomercatoweb.com, calciomagazine.net, sportface.it, sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Gare",
-      "competizione": "Paralimpiadi Invernali Milano Cortina 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "superguidatv.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "Sara Errani/Jasmine Paolini vs Siniakova/Townsend",
-      "competizione": "WTA Indian Wells - Semifinali doppio",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max, Sky Go, NOW",
-      "note": "4° match in programma, orario stimato.",
-      "fonte": "oasport.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Gare",
-      "competizione": "Paralimpiadi Invernali Milano Cortina 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "superguidatv.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Fiorentina-Rakow",
-      "competizione": "Conference League - Ottavi di finale (andata)",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (canale 252), NOW",
-      "note": "",
-      "fonte": "tuttomercatoweb.com, calciomagazine.net, sportface.it, tuttomercatoweb.com, 90min.com, calciotoday.it, sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Diretta Gol Europa e Conference League",
-      "competizione": "Europa League / Conference League",
-      "canale": "Sky Sport Calcio, Sky Sport (canale 251), NOW",
-      "note": "Copertura in contemporanea di più partite.",
-      "fonte": "tuttomercatoweb.com, calciomagazine.net, sportface.it, sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00*",
-      "evento": "Jannik Sinner vs Learner Tien",
-      "competizione": "ATP Indian Wells - Quarti di finale",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max, Sky Go, NOW, Tennis Tv",
-      "note": "Non prima delle 21:00 italiane, 2° match sul campo centrale.",
-      "fonte": "adnkronos.com, oasport.it, quotidianosportivo.net, oasport.it, ilfattoquotidiano.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:50",
-      "evento": "Nuova Zelanda-Italia",
-      "competizione": "Basket - Qualificazioni Mondiali Femminili 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "guidatv.it",
+      "orario": "02:05",
+      "evento": "F1 Academy – Prove Libere",
+      "competizione": "Automobilismo - F1 Academy",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
+      "note": "GP Cina",
+      "fonte": "Formula 1, orari GP Cina 2026 a Shanghai: dove vedere la F1 in tv | Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:30",
-      "evento": "GP Cina - Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, Sky Go, NOW",
-      "note": "Evento del 13 marzo che rientra nella fascia oraria richiesta.",
-      "fonte": "adnkronos.com, motorsport.com, ilfattoquotidiano.it",
+      "evento": "F1 - Prove Libere 1",
+      "competizione": "Automobilismo - Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
+      "note": "GP Cina",
+      "fonte": "Calendario Formula 1 2026: orari e dirette TV Sky e TV8 - FormulaPassion, Formula 1 2026, Gp Cina: orari tv e diretta streaming - l'automobile / aci, Calendario F1 2026: date e orari Gran Premi di Formula 1 | Sky Sport, Formula 1, si vola in Cina: gli orari TV della seconda tappa - Virgilio, F1 2026 | Ecco gli orari TV di Sky, Now e TV8 del GP di Cina - Motorsport.com, Calendario Formula 1 2026: tutte le date e i circuiti ufficiali - Icon Magazine, Formula 1, orari GP Cina 2026 a Shanghai: dove vedere la F1 in tv | Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "F1 Academy – Qualifiche",
+      "competizione": "Automobilismo - F1 Academy",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
+      "note": "GP Cina",
+      "fonte": "Formula 1, orari GP Cina 2026 a Shanghai: dove vedere la F1 in tv | Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:30",
+      "evento": "F1 - Qualifiche Sprint",
+      "competizione": "Automobilismo - Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW, TV8",
+      "note": "GP Cina. Diretta su TV8.",
+      "fonte": "Calendario F1 2026: date e orari Gran Premi di Formula 1 | Sky Sport, Formula 1, si vola in Cina: gli orari TV della seconda tappa - Virgilio, F1 2026 | Ecco gli orari TV di Sky, Now e TV8 del GP di Cina - Motorsport.com, Calendario Formula 1 2026: tutte le date e i circuiti ufficiali - Icon Magazine, Formula 1, GP Cina 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming, Formula 1, orari GP Cina 2026 a Shanghai: dove vedere la F1 in tv | Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Greuther Fürth - Elversberg",
+      "competizione": "Calcio - Zweite Bundesliga",
+      "canale": "Sky Sport Mix, NOW",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Al Qadsiah - Al Ahli",
+      "competizione": "Calcio - Saudi Pro League",
+      "canale": "Sportitalia, Como TV",
+      "note": "",
+      "fonte": "Oggi in TV - Programmi SportItalia venerdi 13 marzo 2026 - Stasera in TV, Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Modena - Spezia",
+      "competizione": "Calcio - Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Borussia Mönchengladbach - St. Pauli",
+      "competizione": "Calcio - Bundesliga",
+      "canale": "Sport Max (indicato da un'altra fonte generalista)",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno, Guida tv venerdì 13 marzo 2026: cosa vedere stasera in tv - Dituttounpop.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Torino - Parma",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 251, NOW",
+      "note": "Anticipo 29ª giornata",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno, Partite 29a giornata Serie A: quali sono su DAZN, NOW e Sky? - Selectra, Le partite di oggi, venerdì 13 marzo 2026: Torino-Parma e Modena-Spezia, Guida tv venerdì 13 marzo 2026: cosa vedere stasera in tv - Dituttounpop.it, Serie A Enilive 25/26: calendario e dove vedere le partite | Programmi Sky",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Marsiglia - Auxerre",
+      "competizione": "Calcio - Ligue 1",
+      "canale": "Sky Sport Mix, NOW",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno, Guida tv venerdì 13 marzo 2026: cosa vedere stasera in tv - Dituttounpop.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45*",
+      "evento": "Greenock Morton - Partick Thistle",
+      "competizione": "Calcio - Scottish Championship",
+      "canale": "Como TV",
+      "note": "Orario stimato in concomitanza con altri match serali",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Alavés - Villarreal",
+      "competizione": "Calcio - La Liga",
+      "canale": "DAZN",
+      "note": "Orario non specificato, ma listato per la serata",
+      "fonte": "Calcio in tv oggi, 13 marzo 2026: Torino-Parma e le altre sfide del giorno",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "04:00",
+      "evento": "F1 - Sprint Race",
+      "competizione": "Automobilismo - Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW, TV8",
+      "note": "GP Cina, evento live del 14/03/2026 rientrante nel palinsesto notturno fino alle 06:00 del giorno successivo. Diretta su TV8.",
+      "fonte": "Formula 1 2026, Gp Cina: orari tv e diretta streaming - l'automobile / aci, Calendario F1 2026: date e orari Gran Premi di Formula 1 | Sky Sport, Formula 1, si vola in Cina: gli orari TV della seconda tappa - Virgilio, F1 2026 | Ecco gli orari TV di Sky, Now e TV8 del GP di Cina - Motorsport.com, Formula 1, GP Cina 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming, Formula 1, orari GP Cina 2026 a Shanghai: dove vedere la F1 in tv | Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
