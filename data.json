@@ -1,67 +1,157 @@
 {
-  "last_updated": "2026-03-14T07:34:06.750695+01:00",
+  "last_updated": "2026-03-14T13:27:15.174381+01:00",
   "events": [
     {
+      "orario": "04:00",
+      "evento": "Formula 1: Sprint Race GP Cina",
+      "competizione": "Formula 1 - Gran Premio della Cina",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESBpbUPpKPxAOcDFtHhhJMjWkL7KXy4nW2K5nrr2qG4-UhWROgAHChfXIxDFDLo3fi_z6HnU8xobmA0n-yDC9CxMXtfTTIIOqxG5OwvOOBHBC2sdc4ovyCCAkGgEigFRjzwcwfnQHEXTuXi0pRIEXcadtdw0q7A4WRdw37oQgZyLL6AJB5iTVG84EUT9L9uvFVMDg-t4nmUK3UhLY2q2yvrg",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "08:00",
-      "evento": "Qualifiche",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, NOW",
-      "note": "",
-      "fonte": "Sky Sport",
+      "evento": "Formula 1: Qualifiche GP Cina",
+      "competizione": "Formula 1 - Gran Premio della Cina",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESBpbUPpKPxAOcDFtHhhJMjWkL7KXy4nW2K5nrr2qG4-UhWROgAHChfXIxDFDLo3fi_z6HnU8xobmA0n-yDC9CxMXtfTTIIOqxG5OwvOOBHBC2sdc4ovyCCAkGgEigFRjzwcwfnQHEXTuXi0pRIEXcadtdw0q7A4WRdw37oQgZyLL6AJB5iTVG84EUT9L9uvFVMDg-t4nmUK3UhLY2q2yvrg",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:45",
-      "evento": "Slalom Gigante femminile - 1a manche",
-      "competizione": "Sci Alpino - Coppa del Mondo (Are)",
-      "canale": "Raisport HD",
-      "note": "Si assume la partecipazione di Federica Brignone o Sofia Goggia tra le atlete italiane.",
-      "fonte": "Rai Sport",
+      "evento": "Sci Alpino: Slalom Gigante femminile - 1a manche",
+      "competizione": "Coppa del Mondo 2025/2026 - Are",
+      "canale": "Rai Sport + HD",
+      "note": "Possibile partecipazione di Federica Brignone o Sofia Goggia",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeFKP5u9yK2UMR8A6CQOUTR_ZZmeteyqCoe_1Dy3YufTpBPTjAvIuyobNvQARysj1a2ZwADsLDToKrZUj9CrelquWT_viLqXJJBXEnUb_wDud-y22k8MzpeefTNLQJOvS9s2gzJPdyEsfEuv7m30IN",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:45*",
-      "evento": "Slalom Gigante femminile - 2a manche",
-      "competizione": "Sci Alpino - Coppa del Mondo (Are)",
-      "canale": "Raisport HD",
-      "note": "Orario stimato. Si assume la partecipazione di Federica Brignone o Sofia Goggia tra le atlete italiane.",
-      "fonte": "Rai Sport",
-      "accuratezza_orario": "stimato"
+      "orario": "14:00",
+      "evento": "Formula 1: Replica Sprint Race GP Cina",
+      "competizione": "Formula 1 - Gran Premio della Cina",
+      "canale": "TV8",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzviG49djjA5xo29byYY6OzYx0RSq_o71wUx-Za_-a4d4tKgG3u8KBRF9A99pVXakoVpXFmuNIs1wkdrq2G09tQBiDiUr3-Mewf4ueolRua-ioUfSsGFrxrmrV8lUKf7Zn8UsozFUcUeWhPQ1C_8hvU1dZrO6yK2ScjPsrFKgNqwi1pOMtlQKy7-l22P4-6nELkOzmBxhY",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Inter - Atalanta",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "evento": "Calcio: Inter – Atalanta",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhgDmubp-IwYUyrL88DClzhshmT9_8iFWWshkoas7amw0LcZNmDwIjV1__QgbeRdXFrOl8lZ4CTkNV47mT-eyte78jmLCC5Es-NzBwHS9oZPqgZYXSS9zPt9Bj0QvrVWWIC10GwqCkdrZM3h5VTy87NbNQcXsnCS7mrykBZGWl0vU9Dq_xWawcA8hu3Eq7X5HJ_JU74RjafFRuWavglS5O8TVlH3ES",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Bari – Reggiana",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhgDmubp-IwYUyrL88DClzhshmT9_8iFWWshkoas7amw0LcZNmDwIjV1__QgbeRdXFrOl8lZ4CTkNV47mT-eyte78jmLCC5Es-NzBwHS9oZPqgZYXSS9zPt9Bj0QvrVWWIC10GwqCkdrZM3h5VTy87NbNQcXsnCS7mrykBZGWl0vU9Dq_xWawcA8hu3Eq7X5HJ_JU74RjafFRuWavglS5O8TVlH3ES",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Cesena – Frosinone",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFM6P40UjLvHcrdAvO4V38CPwxawUaB89PHrH9p-KdE5lyxA0uI0u3TeZlbvKdsQFHPsXNLVWhaeiIi0adf4VYqhEyhOm2aEvugky0QeJpM9RwtzF-EFPWxy7XL8_AkztLzWJMrXwOnVvt7oPWET-fvBmRHxbnlCgJkZFAqIf_wXFey23wT2kjqICQ6PibNZxKS_3utQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Empoli – Mantova",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFM6P40UjLvHcrdAvO4V38CPwxawUaB89PHrH9p-KdE5lyxA0uI0u3TeZlbvKdsQFHPsXNLVWhaeiIi0adf4VYqhEyhOm2aEvugky0QeJpM9RwtzF-EFPWxy7XL8_AkztLzWJMrXwOnVvt7oPWET-fvBmRHxbnlCgJkZFAqIf_wXFey23wT2kjqICQ6PibNZxKS_3utQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Juve Stabia – Carrarese",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFM6P40UjLvHcrdAvO4V38CPwxawUaB89PHrH9p-KdE5lyxA0uI0u3TeZlbvKdsQFHPsXNLVWhaeiIi0adf4VYqhEyhOm2aEvugky0QeJpM9RwtzF-EFPWxy7XL8_AkztLzWJMrXwOnVvt7oPWET-fvBmRHxbnlCgJkZFAqIf_wXFey23wT2kjqICQ6PibNZxKS_3utQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Padova – Catanzaro",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFM6P40UjLvHcrdAvO4V38CPwxawUaB89PHrH9p-KdE5lyxA0uI0u3TeZlbvKdsQFHPsXNLVWhaeiIi0adf4VYqhEyhOm2aEvugky0QeJpM9RwtzF-EFPWxy7XL8_AkztLzWJMrXwOnVvt7oPWET-fvBmRHxbnlCgJkZFAqIf_wXFey23wT2kjqICQ6PibNZxKS_3utQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Formula 1: Replica Qualifiche GP Cina",
+      "competizione": "Formula 1 - Gran Premio della Cina",
+      "canale": "TV8",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzviG49djjA5xo29byYY6OzYx0RSq_o71wUx-Za_-a4d4tKgG3u8KBRF9A99pVXakoVpXFmuNIs1wkdrq2G09tQBiDiUr3-Mewf4ueolRua-ioUfSsGFrxrmrV8lUKf7Zn8UsozFUcUeWhPQ1C_8hvU1dZrO6yK2ScjPsrFKgNqwi1pOMtlQKy7-l22P4-6nELkOzmBxhY",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:15",
+      "evento": "Calcio: Monza – Palermo",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhgDmubp-IwYUyrL88DClzhshmT9_8iFWWshkoas7amw0LcZNmDwIjV1__QgbeRdXFrOl8lZ4CTkNV47mT-eyte78jmLCC5Es-NzBwHS9oZPqgZYXSS9zPt9Bj0QvrVWWIC10GwqCkdrZM3h5VTy87NbNQcXsnCS7mrykBZGWl0vU9Dq_xWawcA8hu3Eq7X5HJ_JU74RjafFRuWavglS5O8TVlH3ES",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Napoli - Lecce",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Uno, DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "evento": "Calcio: Napoli – Lecce",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhgDmubp-IwYUyrL88DClzhshmT9_8iFWWshkoas7amw0LcZNmDwIjV1__QgbeRdXFrOl8lZ4CTkNV47mT-eyte78jmLCC5Es-NzBwHS9oZPqgZYXSS9zPt9Bj0QvrVWWIC10GwqCkdrZM3h5VTy87NbNQcXsnCS7mrykBZGWl0vU9Dq_xawcA8hu3Eq7X5HJ_JU74RjafFRuWavglS5O8TVlH3ES",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00",
-      "evento": "Semifinale Singolare Uomini: Jannik Sinner - Alexander Zverev",
-      "competizione": "Tennis - ATP Masters 1000 Indian Wells",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, SuperTennis, NOW, Sky Go, bet365",
-      "note": "Orario di inizio match.",
-      "fonte": "Olympics.com, bet365",
+      "orario": "19:30",
+      "evento": "Calcio: Sampdoria – Venezia",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhgDmubp-IwYUyrL88DClzhshmT9_8iFWWshkoas7amw0LcZNmDwIjV1__QgbeRdXFrOl8lZ4CTkNV47mT-eyte78jmLCC5Es-NzBwHS9oZPqgZYXSS9zPt9Bj0QvrVWWIC10GwqCkdrZM3h5VTy87NbNQcXsnCS7mrykBZGWl0vU9Dq_xawcA8hu3Eq7X5HJ_JU74RjafFRuWavglS5O8TVlH3ES",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Udinese - Juventus",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Uno, DAZN",
-      "note": "SportItalia trasmette uno studio in diretta per seguire la partita.",
-      "fonte": "Calciomagazine, Stasera in TV",
+      "evento": "Calcio: Udinese – Juventus",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Uno",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhgDmubp-IwYUyrL88DClzhshmT9_8iFWWshkoas7amw0LcZNmDwIjV1__QgbeRdXFrOl8lZ4CTkNV47mT-eyte78jmLCC5Es-NzBwHS9oZPqgZYXSS9zPt9Bj0QvrVWWIC10GwqCkdrZM3h5VTy87NbNQcXsnCS7mrykBZGWl0vU9Dq_xawcA8hu3Eq7X5HJ_JU74RjafFRuWavglS5O8TVlH3ES",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30*",
+      "evento": "Tennis: Jannik Sinner vs Alexander Zverev",
+      "competizione": "ATP Indian Wells (Semifinale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, SuperTennis, NOW, Sky Go, bet365",
+      "note": "Orario stimato (non prima delle 21:30 CET), match con giocatore italiano.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9DpUKtNXNX9hnvJNpnh325K1z-5Ti2zrPmtYAOJNZEPTlZ1MvaBvEa2WkQ9xrevkztQ40qmnBHR6aRcIbVfsR52wQHW8Yn_kXyzTDcxneoPlVl9sEnQiPyfTrI5UnryqnA5q2fLCfdg_HazMfgHEQu3wo4H7T0THx4ucFDDcVMp-J56_qc8Ck-9Nvs7IyJl_ycKChKjgFCrxF0PHCWmDdoEh93UULAHsjNaEL4goEqpJMAAUuxumof4bq_ONAikdRx3evCw",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:00",
+      "evento": "MotoGP: Gara GP Thailandia",
+      "competizione": "MotoGP (Replay)",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replay, valido fino alle 06:00 CET del giorno successivo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjoK2iVSjNZgw83Ofb1lqm3VbAqNtY3qb6nlV-GTxM1ZSWx9eYrLAQeDEUI7-dc_WQasnDmmXpMZ2SE7eEcAZBYrB_VTYNePvM8V6n-PX1i3g5cu16uGSyszLHnMsGPSh5sxpkMw==",
       "accuratezza_orario": "esatto"
     }
   ]
