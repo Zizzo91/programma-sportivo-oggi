@@ -1,175 +1,67 @@
 {
-  "last_updated": "2026-03-14T02:05:22.423082+01:00",
+  "last_updated": "2026-03-14T07:34:06.750695+01:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "F1 - Sprint (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, TV8",
-      "note": "Replay della Sprint Race di venerdì",
-      "fonte": "FormulaPassion.it, SkySport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "F1 - Sprint",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, TV8",
-      "note": "Diretta Sprint Race",
-      "fonte": "FormulaPassion.it, SkySport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "08:00",
-      "evento": "F1 - Qualifiche",
+      "evento": "Qualifiche",
       "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, TV8",
-      "note": "Diretta Qualifiche",
-      "fonte": "FormulaPassion.it, SkySport.it",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:45",
       "evento": "Slalom Gigante femminile - 1a manche",
-      "competizione": "Coppa del Mondo 2025/2026 - Are",
+      "competizione": "Sci Alpino - Coppa del Mondo (Are)",
       "canale": "Raisport HD",
-      "note": "Con possibile partecipazione di Federica Brignone o Sofia Goggia",
-      "fonte": "Guida TV - Raisport Hd",
+      "note": "Si assume la partecipazione di Federica Brignone o Sofia Goggia tra le atlete italiane.",
+      "fonte": "Rai Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:15",
-      "evento": "F1 - Sprint (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Replay della Sprint Race",
-      "fonte": "SkySport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "F1 - Qualifiche (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Replay delle Qualifiche",
-      "fonte": "SkySport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "F1 - Sprint (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Replay della Sprint Race",
-      "fonte": "SkySport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "F1 - Sprint (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "TV8",
-      "note": "Replay della Sprint Race",
-      "fonte": "FormulaPassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "F1 - Qualifiche (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Replay delle Qualifiche",
-      "fonte": "SkySport.it",
-      "accuratezza_orario": "esatto"
+      "orario": "12:45*",
+      "evento": "Slalom Gigante femminile - 2a manche",
+      "competizione": "Sci Alpino - Coppa del Mondo (Are)",
+      "canale": "Raisport HD",
+      "note": "Orario stimato. Si assume la partecipazione di Federica Brignone o Sofia Goggia tra le atlete italiane.",
+      "fonte": "Rai Sport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "15:00",
-      "evento": "Inter-Atalanta",
+      "evento": "Inter - Atalanta",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
       "note": "",
-      "fonte": "HDBlog.it, Calciomagazine.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:10",
-      "evento": "Irlanda – Scozia",
-      "competizione": "Rugby - Sei Nazioni",
-      "canale": "Sky Sport Arena",
-      "note": "Non include l'Italia",
-      "fonte": "Rugbymeet.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "F1 - Qualifiche (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "TV8",
-      "note": "Replay delle Qualifiche",
-      "fonte": "FormulaPassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:45",
-      "evento": "F1 - Sprint (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Replay della Sprint Race",
-      "fonte": "SkySport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:45",
-      "evento": "F1 - Qualifiche (replica)",
-      "competizione": "Formula 1 - GP Cina",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Replay delle Qualifiche",
-      "fonte": "SkySport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:40",
-      "evento": "Galles – Italia",
-      "competizione": "Rugby - Sei Nazioni",
-      "canale": "Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "Rugbymeet.com, OnRugby.it",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Napoli-Lecce",
+      "evento": "Napoli - Lecce",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
+      "canale": "Sky Sport Uno, DAZN",
       "note": "",
-      "fonte": "HDBlog.it, Calciomagazine.net",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Semifinale Singolare Uomini: Jannik Sinner - Alexander Zverev",
+      "competizione": "Tennis - ATP Masters 1000 Indian Wells",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, SuperTennis, NOW, Sky Go, bet365",
+      "note": "Orario di inizio match.",
+      "fonte": "Olympics.com, bet365",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Udinese-Juventus",
+      "evento": "Udinese - Juventus",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Uno",
-      "note": "",
-      "fonte": "HDBlog.it, Calciomagazine.net, Guida TV - Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:10",
-      "evento": "Francia – Inghilterra",
-      "competizione": "Rugby - Sei Nazioni",
-      "canale": "Sky Sport Arena",
-      "note": "Non include l'Italia",
-      "fonte": "Rugbymeet.com, OnRugby.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Stati Uniti-Italia",
-      "competizione": "Basket - Pre-Mondiale",
-      "canale": "SkySport, RaiSport, DAZN",
-      "note": "Orario convertito da 17:00 AST (San Juan, Puerto Rico) a CET",
-      "fonte": "Federazione Italiana Pallacanestro",
+      "canale": "Sky Sport Uno, DAZN",
+      "note": "SportItalia trasmette uno studio in diretta per seguire la partita.",
+      "fonte": "Calciomagazine, Stasera in TV",
       "accuratezza_orario": "esatto"
     }
   ]
