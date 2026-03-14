@@ -1,49 +1,175 @@
 {
-  "last_updated": "2026-03-13T19:27:43.262662+01:00",
+  "last_updated": "2026-03-14T02:05:22.423082+01:00",
   "events": [
     {
-      "orario": "04:30",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - GP Cina 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv9BTZhxe5QxWql3aSvoz6k1I5s9yYDHfw787lxZ0lF_rDKl__Z5YA6ndjx-tGIk0gtLBVa-q-Ok2GNM8sOq3fvwX5D2Y1fm2y7QCEhekZE3M1iOaDx6rZQqD0qFFXusIisYwJBgOToQVyNDk4E_XFE9OTZnzKxUEzQWr3EbrhFU_LAQwl_guvKqPz3QUJo8HSwXNf2_PhU3SMEztznSVPY6ajmJ_hHPSnWNYS-8YXQmyku48okRc9be9x4g==",
+      "orario": "02:00",
+      "evento": "F1 - Sprint (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, TV8",
+      "note": "Replay della Sprint Race di venerdì",
+      "fonte": "FormulaPassion.it, SkySport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "08:30",
-      "evento": "Qualifica Sprint",
-      "competizione": "Formula 1 - GP Cina 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6vNckZcd6fqUVRtPF5gcMF15h6g1-HFsuaGOKvfNnO-WTTony5erJeFZGlrAHtDwG1--lh2QiBdFkmnZ9uRyAQaZoEb0eVKaRYjhh9ovRHMH6anynpEI5LGppaMqe2ddTpw1_I5UlWNWMnUz2nTYJKcupFrIozGfeSstPRQkrAPoMvpK3IzsAe7SQTWQtk6pSED7vbF2AX1eOeO5ZZMuOdSbuK2ldRrACaerA6-NHRC0NqRksnAbj9mv_VdubgqE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9MazyS1cNJMyx_Y3tWHlKscCamwqVOsZjUpcXgkitXUxF3TRsJYsz2qbOGJZokhIYxqxZrnN7UHLIyy9cIujakjCNQw_LYACAhjXFF5yWGIT4IN9AePl4WgV00J-GVliCzBn_EuzgwX3189NdekuZb5fkl-P1iFIwnnSevi_JZYSW93JYX_Qo4pVd9OK07CXVu3sNTDO_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2pAQtyZR82BjXK2Zf6tOrGjkPbcW2xJMUyBFHNICBrP7qt20n4sGfbJZWXEn2WoIusqsHIu_StBblFK8sc4bsNm2SW0_r36lsaCpTztkKoNWUFi8qD8dTzEI0el31Ih5w1RJeUT_45x8Jy5SSN87RPoO5iCr7friZJtaJPnFPugoJ5jHCrmHSndxH1J5waHWNBKWBw6BYA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv9BTZhxe5QxWql3aSvoz6k1I5s9yYDHfw787lxZ0lF_rDKl__Z5YA6ndjx-tGIk0gtLBVa-q-Ok2GNM8sOq3fvwX5D2Y1fm2y7QCEhekZE3M1iOaDx6rZQqD0qFFXusIisYwJBgOToQVyNDk4E_XFE9OTZnzKxUEzQWr3EbrhFU_LAQwl_guvKqPz3QUJo8HSwXNf2_PhU3SMEztznSVPY6ajmJ_hHPSnWNYS-8YXQmyku48okRc9be9x4g==",
+      "orario": "04:00",
+      "evento": "F1 - Sprint",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, TV8",
+      "note": "Diretta Sprint Race",
+      "fonte": "FormulaPassion.it, SkySport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "F1 - Qualifiche",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, TV8",
+      "note": "Diretta Qualifiche",
+      "fonte": "FormulaPassion.it, SkySport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:45",
+      "evento": "Slalom Gigante femminile - 1a manche",
+      "competizione": "Coppa del Mondo 2025/2026 - Are",
+      "canale": "Raisport HD",
+      "note": "Con possibile partecipazione di Federica Brignone o Sofia Goggia",
+      "fonte": "Guida TV - Raisport Hd",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:15",
+      "evento": "F1 - Sprint (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "Replay della Sprint Race",
+      "fonte": "SkySport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:15",
+      "evento": "F1 - Qualifiche (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "Replay delle Qualifiche",
+      "fonte": "SkySport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "F1 - Sprint (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "Replay della Sprint Race",
+      "fonte": "SkySport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "F1 - Sprint (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "TV8",
+      "note": "Replay della Sprint Race",
+      "fonte": "FormulaPassion.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "F1 - Qualifiche (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "Replay delle Qualifiche",
+      "fonte": "SkySport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Inter-Atalanta",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "HDBlog.it, Calciomagazine.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:10",
+      "evento": "Irlanda – Scozia",
+      "competizione": "Rugby - Sei Nazioni",
+      "canale": "Sky Sport Arena",
+      "note": "Non include l'Italia",
+      "fonte": "Rugbymeet.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "F1 - Qualifiche (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "TV8",
+      "note": "Replay delle Qualifiche",
+      "fonte": "FormulaPassion.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:45",
+      "evento": "F1 - Sprint (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "Replay della Sprint Race",
+      "fonte": "SkySport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:45",
+      "evento": "F1 - Qualifiche (replica)",
+      "competizione": "Formula 1 - GP Cina",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "Replay delle Qualifiche",
+      "fonte": "SkySport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:40",
+      "evento": "Galles – Italia",
+      "competizione": "Rugby - Sei Nazioni",
+      "canale": "Sky Sport Uno, TV8",
+      "note": "",
+      "fonte": "Rugbymeet.com, OnRugby.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Napoli-Lecce",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "HDBlog.it, Calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Torino-Parma",
+      "evento": "Udinese-Juventus",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 251",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHC-OhgBPcI0Ta7LeA0XYkIEoMuqEH6MAbGRDHdi3jfplCc1B2GwOCXOBmP5lvC-68PA4_HGt4AFjitdhaE803A2QjkJFPnaff3Ec3SCa1wVd3oNmYzhUCm-NHoNbMTKw2T5vqxmbAr2Xp81vNOW.google.com/grounding-api-redirect/AUZIYQGxLsH1eAiJ5w3fIcu1aLgxJXHGZp5M88lR6v1xC_QpHBN8nJHo4BDnbgB0LxVuDOeQKiqZnQyTiw4LDB65n9WGcfV_yAhjGUtfke4sPP79ewiteZWsPgvxXD89uJZwpNSkM9M0n0zfJPpyNOfXCT64nnbLcj4ET75-bFAP6wjw_NJZQlHkfvh8lFRQFMcc2dfC13im6MwUPdLlLBuEg8Ky4A==",
+      "canale": "DAZN, Sky Sport Uno",
+      "note": "",
+      "fonte": "HDBlog.it, Calciomagazine.net, Guida TV - Sky Sport Uno",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Errani/Vavassori-Bencic/Cobolli",
-      "competizione": "Tennis - ATP/WTA Indian Wells 2026",
-      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis",
-      "note": "Presenza di giocatori italiani (Sara Errani, Simone Vavassori, Flavio Cobolli)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEECUXnU3M_XPwX7gc8VlH_HP2XOu4TzneLFQMRilsk1_Drb0tYUIx_wcifmb-9Y7KRTb-Lo0xJsr_fOzdo7cNpIY90c9zZ417hI7XGGDwzGDaPGB5PSSX2pkm0kft9xZ2ASLIFdjhNAiYoldLRb7vA2YtZIH_ryXiGtJxGPTFPHbRVcycOiqyTLufUKngpwCcuLOIqMdGBJmZZ7-x0mSM6-IVY9kMmTJGlLoFE5sP0_mish3YldVQ9fCQp6pfQ==",
-      "accuratezza_orario": "tba"
+      "orario": "21:10",
+      "evento": "Francia – Inghilterra",
+      "competizione": "Rugby - Sei Nazioni",
+      "canale": "Sky Sport Arena",
+      "note": "Non include l'Italia",
+      "fonte": "Rugbymeet.com, OnRugby.it",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "Sprint Race",
-      "competizione": "Formula 1 - GP Cina 2026",
-      "canale": "Sky Sport F1, TV8",
-      "note": "Diretta (Data: Sabato 14 marzo)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6vNckZcd6fqUVRtPF5gcMF15h6g1-HFsuaGOKvfNnO-WTTony5erJeFZGlrAHtDwG1--lh2QiBdFkmnZ9uRyAQaZoEb0eVKaRYjhh9ovRHMH6anynpEI5LGppaMqe2ddTpw1_I5UlWNWMnUz2nTYJKcupFrIozGfeSstPRQkrAPoMvpK3IzsAe7SQTWQtk6pSED7vbF2AX1eOeO5ZZMuOdSbuK2ldRrACaerA6-NHRC0NqRksnAbj9mv_VdubgqE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2pAQtyZR82BjXK2Zf6tOrGjkPbcW2xJMUyBFHNICBrP7qt20n4sGfbJZWXEn2WoIusqsHIu_StBblFK8sc4bsNm2SW0_r36lsaCpTztkKoNWUFi8qD8dTzEI0el31Ih5w1RJeUT_45x8Jy5SSN87RPoO5iCr7friZJtaJPnFPugoJ5jHCrmHSndxH1J5waHWNBKWBw6BYA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0VUkTjwu7VFUN0AmoX0J4_fwGGnTkLV6KR6VHbsZH1m9HqOZ5JcSqqhp8_ZtJdMWGY6Uzmn0ZKMWTE-X0I341Yz4apzJgJ0xRgqhtwwLdKJGFqYWBT4bRDStHpB3BAuyJCmkf6jNKmzy3IH0sTmNAzYSc6-91N5AbwCt67DMdduz1qSYThMfe8uFBaTvyuhJmY2LlnPTGT2onyKoyyiDMkBosQ6UiqYkSMNo4uSfv_FIAc9wjBHzc8XeVNziQ-YcAS4QjsWgk0s6B8_Oc8jZJYGJdk-lQ647974WyQHMCIFCyhYlDAcufjJj==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Fp1r0H_9qZVPxx_g8_2Cy9la4hDReUBS8UQZw502h4ywBdkgDqAousXROjRHIWAZ2ZtTmTHwH9C_uwoibgRiV5Q-DFt18sq5kOabDbuv2hek0lnaqk2uoDGpOR__XZDPvttZ5cxcTbVpEqlql-xsVumZmTeQqDduDy4hTrS8awJKGVpUzJA54h7jg8cc2tf3wgglibsOABiUfBM3qKRQYaBr8mA_JRKa-3vwc5emRz0gig==",
+      "orario": "22:00",
+      "evento": "Stati Uniti-Italia",
+      "competizione": "Basket - Pre-Mondiale",
+      "canale": "SkySport, RaiSport, DAZN",
+      "note": "Orario convertito da 17:00 AST (San Juan, Puerto Rico) a CET",
+      "fonte": "Federazione Italiana Pallacanestro",
       "accuratezza_orario": "esatto"
     }
   ]
