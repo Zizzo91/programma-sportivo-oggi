@@ -1,40 +1,22 @@
 {
-  "last_updated": "2026-03-16T02:16:22.899458+01:00",
+  "last_updated": "2026-03-16T08:04:48.094759+01:00",
   "events": [
     {
       "orario": "12:00",
       "evento": "Sassuolo - Inter",
-      "competizione": "Serie A Femminile",
+      "competizione": "Calcio - Serie A Femminile",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcCe7vfDZUhjc3MBUJJHMhQBWGk3t9EoKK83mb1eewZ6EbYQ24XsK1ZgT_O5gi4eKN3zrk_T6o9cH0qPIloG1xuGeDbTTcnqleQToi18qFitRR_Kf7ZEo4g0DeO0vs3GIol803lNTguaOAZagxWeotBKlN4J541GAW3inADDqqFg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Martina Trevisan (ITA) vs Renata Zarazua (MEX)",
-      "competizione": "Qualificazioni Miami Open WTA",
-      "canale": "Sky Sport Tennis / NOW",
-      "note": "Non prima delle 16:00 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-IzZ3_QzOAdvlrJbWzpiiQtX65oV-BorOwGG0X5U0YVTAaQiBzN_U0WAiNLA4VY57_hJZODxRKGN-M-78MLyiD_sFcK-KtvDVxJCwc_YWIfBzTBRyLTVsPv2obZzSt02YTx9X5HIE2xABwWjd6A5D21HiKFcYQESqyDDTTRFvzd5WHaxLelUtvV2YTlMLHvUj_2Ocu4_9Vg0HyabgcyEMviIkNj6Vx6E=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Sorteggio Tabelloni Principali",
-      "competizione": "Miami Open ATP/WTA",
-      "canale": "N/D (evento online/notizie)",
-      "note": "Il sorteggio determina gli accoppiamenti del main draw.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB9t42MagEkiz_2KBnqTzU-OrSOPRbB9Js4GNOano73nA1VkCFK1ftFenKA67oMrD5uXx310k0BXgvBWdM6xc_Jhc0A8fvdOXsKsexvVuF46-Vhk8qIeV-3K4thwb6C7KeGBUY8nvxKAXM77IhNUiCwyXusvdtWhOUGuZtcn3FP2FrPXn8hWu1ohz9pZUfRJsb5hiBNkR0uYA=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFua0fyUIj3384T4Y5vjo_s-auWgzZ-kzFDzZlaDQQQe3uYylNgjCCu2YdoMY7uyTvD25lo14LYQcHfggqGN8ltWfWhrcEFJrhzVfZfOpp4C2ZNTQoZIamoIBGT9lXiGgjemmQujtIg50X2w5QFTn2zVNbgsHdUpDlJuohNdy3f",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Cremonese - Fiorentina",
-      "competizione": "Serie A",
-      "canale": "DAZN, Zona DAZN",
-      "note": "Monday Night della 29ª giornata.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcCe7vfDZUhjc3MBUJJHMhQBWGk3t9EoKK83mb1eewZ6EbYQ24XsK1ZgT_O5gi4eKN3zrk_T6o9cH0qPIloG1xuGeDbTTcnqleQToi18qFitRR_Kf7ZEo4g0DeO0vs3GIol803lNTguaOAZagxWeotBKlN4J541GAW3inADDqqFg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV_I-E_88wIgLkWulPR35kaEAZEd3dvQ4uqj0eS-p-nNeNS305oIvQSxNVFvpktbG2a6Lugt45bvmts-jLFwVcQOAYuoOq7-WcE0atzRysR76dO7X7vqugbh9wOcbYFaTCGBSbuQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELv0KRoOOrlA9fgZ0nTuaYZyieqMXqfhPJtxRc-AUWdkHs1OaIFHSfabAxFXXcuHSbA2fWzHNQtyh2VZVBhuyXtfviAWUtnk2hNpWGfUMNnrp6L-ALm_bOjucl9s8dZCwdy-hTDNSOulXuK6OlTzNQOszYD9BgDc6snr7-KPbn8Lw-yQ-2IgpYIx43WP9yIT1GD1F40kYewZSnU_cyQzkzhRe2YUcnF2zwgwM2OYO_LziptPTPpALC5uM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnnk6ElrlLzh0jBXycGYNDOxL5mGC7dxqDgJs90FlKAVlyQwN_iw7WloIH0yMKfe-O8U4EYE7Au2NJwf_fajP6S27Rs9CC2xZyUbJmKYNbh0w1V12BVN1_zswwInE3R2F1VS52we_MBczNaSMnV3tGuX2tIm2jFZF3",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, DAZN 1",
+      "note": "Monday Night della 29ª giornata",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFua0fyUIj3384T4Y5vjo_s-auWgzZ-kzFDzZlaDQQQe3uYylNgjCCu2YdoMY7uyTvD25lo14LYQcHfggqGN8ltWfWhrcEFJrhzVfZfOpp4C2ZNTQoZIamoIBGT9lXiGgjemmQujtIg50X2w5QFTn2zVNbgsHdUpDlJuohNdy3f",
       "accuratezza_orario": "esatto"
     }
   ]
