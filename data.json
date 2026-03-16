@@ -1,31 +1,13 @@
 {
-  "last_updated": "2026-03-16T13:44:26.090533+01:00",
+  "last_updated": "2026-03-16T19:46:28.763800+01:00",
   "events": [
     {
-      "orario": "18:00",
-      "evento": "Sorteggio Tabellone Principale con Jannik Sinner",
-      "competizione": "ATP Masters 1000 Miami Open",
-      "canale": "Sky Sport, Sky Go, NOW",
-      "note": "Il tennista azzurro Jannik Sinner scoprirà tabellone e avversari del torneo in Florida.",
-      "fonte": "canaledieci.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "20:45",
-      "evento": "Cremonese-Fiorentina",
+      "evento": "Cremonese - Fiorentina",
       "competizione": "Serie A",
-      "canale": "Dazn",
-      "note": "Posticipo della 29ª giornata di Serie A.",
-      "fonte": "gazzetta.it, virgilio.it, tvblog.it, canaledieci.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "GP Cina: Gara (Replica)",
-      "competizione": "Formula 1 - Mondiale 2026",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara del Gran Premio di Cina, svoltosi precedentemente.",
-      "fonte": "superguidatv.it",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "calciomagazine.net, 90min.com, oasport.it",
       "accuratezza_orario": "esatto"
     }
   ]
