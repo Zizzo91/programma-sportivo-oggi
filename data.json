@@ -1,22 +1,31 @@
 {
-  "last_updated": "2026-03-16T08:04:48.094759+01:00",
+  "last_updated": "2026-03-16T13:44:26.090533+01:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "Sassuolo - Inter",
-      "competizione": "Calcio - Serie A Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFua0fyUIj3384T4Y5vjo_s-auWgzZ-kzFDzZlaDQQQe3uYylNgjCCu2YdoMY7uyTvD25lo14LYQcHfggqGN8ltWfWhrcEFJrhzVfZfOpp4C2ZNTQoZIamoIBGT9lXiGgjemmQujtIg50X2w5QFTn2zVNbgsHdUpDlJuohNdy3f",
+      "orario": "18:00",
+      "evento": "Sorteggio Tabellone Principale con Jannik Sinner",
+      "competizione": "ATP Masters 1000 Miami Open",
+      "canale": "Sky Sport, Sky Go, NOW",
+      "note": "Il tennista azzurro Jannik Sinner scoprirà tabellone e avversari del torneo in Florida.",
+      "fonte": "canaledieci.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Cremonese - Fiorentina",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "Monday Night della 29ª giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFua0fyUIj3384T4Y5vjo_s-auWgzZ-kzFDzZlaDQQQe3uYylNgjCCu2YdoMY7uyTvD25lo14LYQcHfggqGN8ltWfWhrcEFJrhzVfZfOpp4C2ZNTQoZIamoIBGT9lXiGgjemmQujtIg50X2w5QFTn2zVNbgsHdUpDlJuohNdy3f",
+      "evento": "Cremonese-Fiorentina",
+      "competizione": "Serie A",
+      "canale": "Dazn",
+      "note": "Posticipo della 29ª giornata di Serie A.",
+      "fonte": "gazzetta.it, virgilio.it, tvblog.it, canaledieci.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "GP Cina: Gara (Replica)",
+      "competizione": "Formula 1 - Mondiale 2026",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara del Gran Premio di Cina, svoltosi precedentemente.",
+      "fonte": "superguidatv.it",
       "accuratezza_orario": "esatto"
     }
   ]
