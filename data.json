@@ -1,13 +1,166 @@
 {
-  "last_updated": "2026-03-16T19:46:28.763800+01:00",
+  "last_updated": "2026-03-17T02:08:23.157888+01:00",
   "events": [
     {
+      "orario": "06:00",
+      "evento": "Replay F1 Gran Premio della Cina 2026: Gara 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della seconda gara del weekend del Gran Premio di Cina. Telecronaca di Andrea Sillitti e Vicky Piria.",
+      "fonte": "Programmi Sky Sport F1 17 marzo Mattino - Guida Tv - TvBlog",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:30",
+      "evento": "Replay F1 Gran Premio d'Australia 2026: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del Gran Premio d'Australia. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.",
+      "fonte": "Programmi Sky Sport F1 17 marzo Mattino - Guida Tv - TvBlog",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Replay F1 Gran Premio della Cina 2026: Sprint",
+      "competizione": "Formula 1",
+      "canale": "Sky Sports F1",
+      "note": "Replica della gara Sprint del Gran Premio di Cina.",
+      "fonte": "10:00 AM: Chinese F1 GP: Sprint | Sky Sports F1 | 3/17 2026 - TV Guide - ZapTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Replay F1 Gran Premio della Cina 2026: Sprint",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Replica della gara Sprint del Gran Premio di Cina.",
+      "fonte": "Orari Formula 1, dove vedere in tv e streaming il Gp Cina - Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Replay F1 Gran Premio della Cina 2026: Gara",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Replica della gara principale del Gran Premio di Cina.",
+      "fonte": "Orari Formula 1, dove vedere in tv e streaming il Gp Cina - Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "WTA 1000 Miami 2026 - 1° turno (diretta)",
+      "competizione": "Tennis",
+      "canale": "SkySportTennis, SuperTennis",
+      "note": "Inizio della copertura del primo turno del torneo WTA 1000 di Miami, con probabile presenza di giocatrici italiane come Jasmine Paolini ed Elisabetta Cocciaretto.",
+      "fonte": "Tennis in TV - Atp e Wta 1000 Miami in diretta TV e streaming (17-29 marzo 2026)",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Serie B: FC Südtirol – Pescara",
+      "competizione": "Calcio",
+      "canale": "Rete8",
+      "note": "Partita di Serie B in differita.",
+      "fonte": "Martedì 17 Marzo 2026 - Rete8 - Guida Tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "UEFA Champions League: Sporting CP - Bodø/Glimt (Ottavi di finale)",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno, Sky Sport 255, NOW",
+      "note": "Match valido per gli ottavi di finale di Champions League. Replica su Cielo alle 21:30.",
+      "fonte": "Calcio in tv oggi, 17 marzo 2026: Champions League e Serie B in primo piano, Partite di Champions League: dove vedere il ritorno degli ottavi di finale - Selectra",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Serie B: Palermo - Juve Stabia",
+      "competizione": "Calcio",
+      "canale": "DAZN, LaB Channel",
+      "note": "Partita valida per la 31^ giornata di Serie B.",
+      "fonte": "Pronostici Palermo-Juve Stabia: Statistiche, Formazioni, Dove in TV 17.03.2026 Serie B, Palermo Juve Stabia: probabili formazioni e pronostico 17/03/2026 - Sportnews BetFlag",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "20:45",
-      "evento": "Cremonese - Fiorentina",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "calciomagazine.net, 90min.com, oasport.it",
+      "evento": "Champions League Show",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento e analisi sulle partite di Champions League.",
+      "fonte": "Programmi TV della sera del 17 Marzo 2026 - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Diretta Gol Champions League",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "note": "Collegamenti in diretta dai vari campi della Champions League.",
+      "fonte": "Programmi TV della sera del 17 Marzo 2026 - Guida TV, Calcio in tv oggi, 17 marzo 2026: Champions League e Serie B in primo piano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Manchester City - Real Madrid (Ottavi di finale)",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Calcio, Sky Sport 252, NOW",
+      "note": "Match valido per gli ottavi di finale di Champions League.",
+      "fonte": "Calcio in tv oggi, 17 marzo 2026: Champions League e Serie B in primo piano, Partite di Champions League: dove vedere il ritorno degli ottavi di finale - Selectra, Champions League 2025/2026: guarda le partite | Programmi Sky",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Chelsea - PSG (Ottavi di finale)",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Arena, Sky Sport 253, NOW",
+      "note": "Match valido per gli ottavi di finale di Champions League.",
+      "fonte": "Calcio in tv oggi, 17 marzo 2026: Champions League e Serie B in primo piano, Partite di Champions League: dove vedere il ritorno degli ottavi di finale - Selectra, Champions League 2025/2026: guarda le partite | Programmi Sky",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Arsenal - Bayer Leverkusen (Ottavi di finale)",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Max, Sky Sport 254, NOW",
+      "note": "Match valido per gli ottavi di finale di Champions League.",
+      "fonte": "Calcio in tv oggi, 17 marzo 2026: Champions League e Serie B in primo piano, Partite di Champions League: dove vedere il ritorno degli ottavi di finale - Selectra",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "UEFA Champions League 2025/2026: Sporting Cp - Bodo-Glimt (Ottavi di finale. Ritorno)",
+      "competizione": "Calcio",
+      "canale": "Cielo",
+      "note": "Partita in differita.",
+      "fonte": "Sport - Guida TV - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Champions League Show",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento e analisi post-partita sulle gare di Champions League.",
+      "fonte": "Programmi TV della sera del 17 Marzo 2026 - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Champions League Show: After Party",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Approfondimento post-partita delle gare di Champions League.",
+      "fonte": "Sport - Guida TV - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Serie A 2025/2026: Como - Roma (29a g.)",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Partita del campionato di Serie A.",
+      "fonte": "Sport - Guida TV - Programmi TV",
       "accuratezza_orario": "esatto"
     }
   ]
