@@ -1,40 +1,121 @@
 {
-  "last_updated": "2026-03-17T07:51:12.316745+01:00",
+  "last_updated": "2026-03-17T13:43:44.547945+01:00",
   "events": [
     {
+      "orario": "14:00",
+      "evento": "Atletico Madrid-Bruges",
+      "competizione": "UEFA Youth League",
+      "canale": "UEFA.TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Villarreal-PSG",
+      "competizione": "UEFA Youth League",
+      "canale": "UEFA.TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "18:45",
-      "evento": "Sporting CP – Bodø/Glimt",
+      "evento": "Sporting-Bodø/Glimt",
       "competizione": "UEFA Champions League",
       "canale": "Sky Sport Uno, Sky Sport 255, NOW",
-      "note": "Ottavi di finale",
-      "fonte": "Calciomagazine, Sky Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Palermo-Juve Stabia",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Catanzaro-Modena",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Mantova-Cesena",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Reggiana-Monza",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Spezia-Empoli",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Venezia-Padova",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Zona Serie B",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "Commento e collegamenti da tutti i campi della Serie B.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMM7ad02khTuhEvF6VUmyozf8C8ziRc0ahRAZvix25npCX-sfAkhz-nTjiXpb4Ek0rGCCb35zHxf_D6XK7XnW7m3HASCAZYKOdu_ebPsw3Z6Ha-Vs2lVzCkHNHNBcgz34PsUCGdfXcfXNb4Qws2DzAD_Jg55ypTikPtNjFztTAwBvEy5YUqiSyVgm-A5SfjIEANXn0E8lSz81NUqdoxleN5XVa696bvrDQYdOfXktPwKP06w",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Manchester City – Real Madrid",
+      "evento": "Manchester City-Real Madrid",
       "competizione": "UEFA Champions League",
       "canale": "Sky Sport Calcio, Sky Sport 252, NOW",
-      "note": "Ottavi di finale",
-      "fonte": "Calciomagazine, Sky Sport, TUDN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Chelsea – PSG",
+      "evento": "Chelsea-PSG",
       "competizione": "UEFA Champions League",
       "canale": "Sky Sport Arena, Sky Sport 253, NOW",
-      "note": "Ottavi di finale",
-      "fonte": "Calciomagazine, OneFootball, TUDN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Arsenal – Bayer Leverkusen",
+      "evento": "Arsenal-Bayer Leverkusen",
       "competizione": "UEFA Champions League",
       "canale": "Sky Sport Max, Sky Sport 254, NOW",
-      "note": "Ottavi di finale",
-      "fonte": "Calciomagazine, TUDN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzTG9KWD5TFzuD4hG8pYH_Zj5y_6b7Buj1Jv8PFm6x2rJSK2K727qww64mIeEKlw9hszc2nzE3i-Yflen_BIkEf4fRpAtMbBj_W3nhwuXFd0gebrnnz_9DltlhyIJX9yia6qr2NMqO-7JPeSkP_QhSkqyvXBShUqZzhXIXKKg9XOSuTwGjZn1xrixStufClhztpOtwH5A",
       "accuratezza_orario": "esatto"
     },
     {
@@ -42,8 +123,17 @@
       "evento": "Diretta Gol Champions League",
       "competizione": "UEFA Champions League",
       "canale": "Sky Sport Uno, Sky Sport 251, NOW",
-      "note": "Ottavi di finale",
-      "fonte": "Calciomagazine",
+      "note": "Per seguire in contemporanea tutti i match della Champions League.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMM7ad02khTuhEvF6VUmyozf8C8ziRc0ahRAZvix25npCX-sfAkhz-nTjiXpb4Ek0rGCCb35zHxf_D6XK7XnW7m3HASCAZYKOdu_ebPsw3Z6Ha-Vs2lVzCkHNHNBcgz34PsUCGdfXcfXNb4Qws2DzAD_Jg55ypTikPtNjFztTAwBvEy5YUqiSyVgm-A5SfjIEANXn0E8lSz81NUqdoxleN5XVa696bvrDQYdOfXktPwKP06w",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Sporting-Bodø/Glimt",
+      "competizione": "UEFA Champions League",
+      "canale": "Cielo",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMM7ad02khTuhEvF6VUmyozf8C8ziRc0ahRAZvix25npCX-sfAkhz-nTjiXpb4Ek0rGCCb35zHxf_D6XK7XnW7m3HASCAZYKOdu_ebPsw3Z6Ha-Vs2lVzCkHNHNBcgz34PsUCGdfXcfXNb4Qws2DzAD_Jg55ypTikPtNjFztTAwBvEy5YUqiSyVgm-A5SfjIEANXn0E8lSz81NUqdoxleN5XVa696bvrDQYdOfXktPwKP06w",
       "accuratezza_orario": "esatto"
     }
   ]
