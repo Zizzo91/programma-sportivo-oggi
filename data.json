@@ -1,41 +1,158 @@
 {
-  "last_updated": "2026-03-18T02:12:19.312161+01:00",
+  "last_updated": "2026-03-18T07:50:16.956714+01:00",
   "events": [
     {
-      "orario": "18:45",
-      "evento": "Ritorno Ottavi di Finale",
+      "orario": "15:45",
+      "evento": "Studio Tennis",
+      "competizione": "ATP/WTA 1000 Miami Open",
+      "canale": "Sky Sport Tennis",
+      "note": "Approfondimento sul torneo di Miami con notizie, commenti e statistiche.",
+      "fonte": "Programmi Sky Sport Tennis pomeriggio - Guida Tv - TvBlog",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Primo turno Singolare Uomini",
+      "competizione": "ATP Masters 1000 Miami Open",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix (fino alle 21:00), Sky Go, NOW, Tennis TV",
+      "note": "Con presenza di giocatori italiani. Programmazione del tabellone principale.",
+      "fonte": "Calendario ATP Miami 2026: orari dal 1° turno alla finale, programma, tv, streaming; Miami Open 2026: programma, orari delle partite, calendario e dove vedere il torneo; Miami Open 2026 su Sky e NOW: programmazione completa, Sinner guida gli azzurri dal 17 al 29 marzo",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Primo turno Singolare Donne",
+      "competizione": "WTA 1000 Miami Open",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix (fino alle 21:00), Sky Go, NOW, Tennis TV, SuperTennis, supertennis.tv, SuperTenniX",
+      "note": "Con presenza di giocatrici italiane. Programmazione del tabellone principale.",
+      "fonte": "Calendario ATP Miami 2026: orari dal 1° turno alla finale, programma, tv, streaming; Miami Open 2026: programma, orari delle partite, calendario e dove vedere il torneo; Miami Open 2026 su Sky e NOW: programmazione completa, Sinner guida gli azzurri dal 17 al 29 marzo",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Cocciaretto-Semenistaja",
+      "competizione": "WTA 1000 Miami Open (Primo Turno)",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix (fino alle 21:00), Sky Go, NOW, Tennis TV, SuperTennis, supertennis.tv, SuperTenniX",
+      "note": "Secondo match di giornata, orario stimato.",
+      "fonte": "Sport in tv oggi (mercoledì 18 marzo): orari e programma. Dove vedere gli eventi in streaming",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Frosinone-Bari",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Partita valida per la Serie B.",
+      "fonte": "Calcio in tv oggi, 18 marzo 2026: Champions League e Serie B",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Zona Serie B",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "Programma di approfondimento e collegamenti dai campi della Serie B.",
+      "fonte": "Calcio in tv oggi, 18 marzo 2026: Champions League e Serie B",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Avellino-Sudtirol",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Partita valida per la Serie B.",
+      "fonte": "Calcio in tv oggi, 18 marzo 2026: Champions League e Serie B",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Carrarese-Sampdoria",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Partita valida per la Serie B.",
+      "fonte": "Calcio in tv oggi, 18 marzo 2026: Champions League e Serie B",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Pescara-Virtus Entella",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Partita valida per la Serie B.",
+      "fonte": "Calcio in tv oggi, 18 marzo 2026: Champions League e Serie B",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:20",
+      "evento": "Tv8 Champions Night Prepartita",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport (da definire), Mediaset Infinity",
-      "note": "Barcellona-Newcastle",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QNt_ikicboWheYnoY2rESHMSf2H9CAZCDN3oxQrY3raRtEZKQtWrLabnvFiYs6p77u-WhI1ydLZAVYird6zO_7OihxFUK7l8L3i028AsOo6P0RFNC941mdSRFTLxcxe6Z2atT166ifl24KNYxxAQH82Zy4B1UAPUX8jtvFqQL7EyOY5wijBLK1Anqv4giggK",
+      "canale": "TV8",
+      "note": "Studio di approfondimento pre-partita sui match di Champions League.",
+      "fonte": "Oggi in TV - Programmi TV8 mercoledi 18 marzo 2026 - Stasera in TV; TV8: video, programmi, repliche del canale HD; Champions 2025/26 Diretta Esclusiva Sky NOW Ottavi Ritorno, Palinsesto Telecronisti",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Sir Susa Scai Perugia-Vero Volley Monza",
+      "competizione": "SuperLega Maschile (Playoff Quarti di Finale Gara 3)",
+      "canale": "VBTV",
+      "note": "Partita di Gara 3 dei Quarti di Finale dei Playoff Scudetto.",
+      "fonte": "Dove vedere la Superlega di volley 2026 oggi in tv: orari gara-3, programma, streaming; Calendario Superlega Volley maschile: programma e date della stagione 2025 - 2026, dove vedere le partite in diretta tv e streaming; SuperLega 2025-26, play-off: subito in campo per gara 3 dei quarti di finale; Playoff di pallavolo maschile di Superlega 2025/26: calendario, programma, orari e dove vedere gara 3 dei quarti di finale; Vóleibol - Vero Volley Monza (Italia) : palmarés, resultados e identidad; Calendario Play Off Scudetto - Lega Pallavolo Serie A; Vero Volley Monza live score, schedule & matches",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Ritorno Ottavi di Finale",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport (da definire), Mediaset Infinity",
-      "note": "Bayern Monaco-Atalanta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QNt_ikicboWheYnoY2rESHMSf2H9CAZCDN3oxQrY3raRtEZKQtWrLabnvFiYs6p77u-WhI1ydLZAVYird6zO_7OihxFUK7l8L3i028AsOo6P0RFNC941mdSRFTLxcxe6Z2atT166ifl24KNYxxAQH82Zy4B1UAPUX8jtvFqQL7EyOY5wijBLK1Anqv4giggK",
+      "evento": "Bayern Monaco-Atalanta",
+      "competizione": "UEFA Champions League (Ottavi di Finale Ritorno)",
+      "canale": "Prime Video",
+      "note": "Atalanta è una squadra italiana.",
+      "fonte": "Calcio in tv oggi, 18 marzo 2026: Champions League e Serie B; Champions 2025/26 Diretta Esclusiva Sky NOW Ottavi Ritorno, Palinsesto Telecronisti",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Ritorno Ottavi di Finale",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport (da definire), Mediaset Infinity",
-      "note": "Liverpool-Galatasaray",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QNt_ikicboWheYnoY2rESHMSf2H9CAZCDN3oxQrY3raRtEZKQtWrLabnvFiYs6p77u-WhI1ydLZAVYird6zO_7OihxFUK7l8L3i028AsOo6P0RFNC941mdSRFTLxcxe6Z2atT166ifl24KNYxxAQH82Zy4B1UAPUX8jtvFqQL7EyOY5wijBLK1Anqv4giggK",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League (Ottavi di Finale Ritorno)",
+      "canale": "Sky Sport Uno, Sky Sport (canale 251), NOW",
+      "note": "Copertura simultanea di tutti i match di Champions League.",
+      "fonte": "Champions 2025/26 Diretta Esclusiva Sky NOW Ottavi Ritorno, Palinsesto Telecronisti",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Ritorno Ottavi di Finale",
+      "orario": "23:00",
+      "evento": "Tv8 Champions Night Postpartita",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport (da definire), Mediaset Infinity",
-      "note": "Tottenham-Atletico Madrid",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QNt_ikicboWheYnoY2rESHMSf2H9CAZCDN3oxQrY3raRtEZKQtWrLabnvFiYs6p77u-WhI1ydLZAVYird6zO_7OihxFUK7l8L3i028AsOo6P0RFNC941mdSRFTLxcxe6Z2atT166ifl24KNYxxAQH82Zy4B1UAPUX8jtvFqQL7EyOY5wijBLK1Anqv4giggK",
+      "canale": "TV8, Cielo",
+      "note": "Studio di approfondimento post-partita sui match di Champions League.",
+      "fonte": "Oggi in TV - Programmi TV8 mercoledi 18 marzo 2026 - Stasera in TV; TV8: video, programmi, repliche del canale HD; Champions 2025/26 Diretta Esclusiva Sky NOW Ottavi Ritorno, Palinsesto Telecronisti",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Primo turno Singolare Uomini",
+      "competizione": "ATP Masters 1000 Miami Open",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis TV",
+      "note": "Sessione notturna (ora italiana), con presenza di giocatori italiani. Programmazione del tabellone principale.",
+      "fonte": "Calendario ATP Miami 2026: orari dal 1° turno alla finale, programma, tv, streaming; Miami Open 2026: calendario, orari, TV e dove vedere il Masters 1000; Miami Open 2026: programma, orari delle partite, calendario e dove vedere il torneo",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Primo turno Singolare Donne",
+      "competizione": "WTA 1000 Miami Open",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis TV, SuperTennis, supertennis.tv, SuperTenniX",
+      "note": "Sessione notturna (ora italiana), con presenza di giocatrici italiane. Programmazione del tabellone principale.",
+      "fonte": "Calendario ATP Miami 2026: orari dal 1° turno alla finale, programma, tv, streaming; Miami Open 2026: calendario, orari, TV e dove vedere il Masters 1000; Miami Open 2026: programma, orari delle partite, calendario e dove vedere il torneo",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:30*",
+      "evento": "Berrettini-Muller",
+      "competizione": "ATP Masters 1000 Miami Open (Primo Turno)",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis TV",
+      "note": "Quinto match della sessione diurna, orario stimato (non prima delle 01:30 CET).",
+      "fonte": "Sport in tv oggi (mercoledì 18 marzo): orari e programma. Dove vedere gli eventi in streaming",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
