@@ -1,58 +1,40 @@
 {
-  "last_updated": "2026-03-17T19:45:55.200247+01:00",
+  "last_updated": "2026-03-18T02:12:19.312161+01:00",
   "events": [
     {
-      "orario": "19:00",
-      "evento": "Palermo vs Juve Stabia",
-      "competizione": "Calcio Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90min.com, Calciomagazine, Sportface.it",
+      "orario": "18:45",
+      "evento": "Ritorno Ottavi di Finale",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport (da definire), Mediaset Infinity",
+      "note": "Barcellona-Newcastle",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QNt_ikicboWheYnoY2rESHMSf2H9CAZCDN3oxQrY3raRtEZKQtWrLabnvFiYs6p77u-WhI1ydLZAVYird6zO_7OihxFUK7l8L3i028AsOo6P0RFNC941mdSRFTLxcxe6Z2atT166ifl24KNYxxAQH82Zy4B1UAPUX8jtvFqQL7EyOY5wijBLK1Anqv4giggK",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Catanzaro vs Modena",
-      "competizione": "Calcio Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90min.com",
+      "orario": "21:00",
+      "evento": "Ritorno Ottavi di Finale",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport (da definire), Mediaset Infinity",
+      "note": "Bayern Monaco-Atalanta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QNt_ikicboWheYnoY2rESHMSf2H9CAZCDN3oxQrY3raRtEZKQtWrLabnvFiYs6p77u-WhI1ydLZAVYird6zO_7OihxFUK7l8L3i028AsOo6P0RFNC941mdSRFTLxcxe6Z2atT166ifl24KNYxxAQH82Zy4B1UAPUX8jtvFqQL7EyOY5wijBLK1Anqv4giggK",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Mantova vs Cesena",
-      "competizione": "Calcio Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90min.com",
+      "orario": "21:00",
+      "evento": "Ritorno Ottavi di Finale",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport (da definire), Mediaset Infinity",
+      "note": "Liverpool-Galatasaray",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QNt_ikicboWheYnoY2rESHMSf2H9CAZCDN3oxQrY3raRtEZKQtWrLabnvFiYs6p77u-WhI1ydLZAVYird6zO_7OihxFUK7l8L3i028AsOo6P0RFNC941mdSRFTLxcxe6Z2atT166ifl24KNYxxAQH82Zy4B1UAPUX8jtvFqQL7EyOY5wijBLK1Anqv4giggK",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Reggiana vs Monza",
-      "competizione": "Calcio Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90min.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Spezia vs Empoli",
-      "competizione": "Calcio Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90min.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Venezia vs Padova",
-      "competizione": "Calcio Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90min.com",
+      "orario": "21:00",
+      "evento": "Ritorno Ottavi di Finale",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport (da definire), Mediaset Infinity",
+      "note": "Tottenham-Atletico Madrid",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QNt_ikicboWheYnoY2rESHMSf2H9CAZCDN3oxQrY3raRtEZKQtWrLabnvFiYs6p77u-WhI1ydLZAVYird6zO_7OihxFUK7l8L3i028AsOo6P0RFNC941mdSRFTLxcxe6Z2atT166ifl24KNYxxAQH82Zy4B1UAPUX8jtvFqQL7EyOY5wijBLK1Anqv4giggK",
       "accuratezza_orario": "esatto"
     }
   ]
