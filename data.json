@@ -1,76 +1,40 @@
 {
-  "last_updated": "2026-03-18T13:43:58.631564+01:00",
+  "last_updated": "2026-03-18T19:43:11.797945+01:00",
   "events": [
     {
-      "orario": "16:00",
-      "evento": "Inter - Benfica",
-      "competizione": "UEFA Youth League (Ottavi di finale)",
-      "canale": "Sky Sport Uno, NOW, UEFA.TV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeBg5LC8PxAN91rsTMkOF4JCWC0bnKjXag2y2PKElucWjYL2DqqdJr3Zjd657zfqmxo5c_iqT-n7shbFmqk6OBjLo8n_2WSt4lbwjuy0dynYx0fw-ZNqWexMyzowv2Myzc8edEABCY4R_LjrVxTfos2Ymq, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0T8TbzCG0GvUc07iuAtzuxJ5BlBkWtFFeS9JNOpLQVm3xtFBGAg2E3FaWGTSrceA11yKrQFV-YxMvN3_9R0dT8LKeWrBkA0dR2Ai78Flo3dkyzhloFsQCJcdS0PmE4j3cGia4XRtdxl_DDddwE-ho_GxcfBvWqNs6odb80grYLih5RwnULFQ5VKC0vkBZYi7njiN-DA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp2d9xHvBwBocfRn42wX5a-fLPzoClTXfosL_aUXmK6V8fiJrAJPwx_nI6yDduKk-FXkRRgdCyk7nH36wxXOrlexWgAcIazzviwK1l35q_Qd6-P38XYEVd4kE_BqDu8KtBp5fQl8mUiL6fa9iO3X9AgJRYSooy058iYBbvQ6I6Xg",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00*",
-      "evento": "Elisabetta Cocciaretto (ITA) - TBA",
-      "competizione": "WTA 1000 Miami 2026 (Primo turno)",
-      "canale": "SuperTennis",
-      "note": "Esordio di Elisabetta Cocciaretto. Inizio della programmazione live del torneo con partite in successione. Orario specifico del match di Cocciaretto stimato all'interno della fascia di copertura.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN92ZiCdDUxTr3saJu5QxM6k3565XooM0EtUABVs2LkWCd8i74eLqkRk4pOj4ZtN0amQJY82yOedpL2gpyu_hYfocN8JhhGZLGnmrnn17iKIdxPW_PFZORNzgYJtwimh8SfV1YEbo-QdFMFVlYnvlqQvKH4fnaoz-Tj783z8m21LxNdMzejjeEWlWvmO63E0rAww, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXpXb0Ddyx7A2JV3I80IVMUwSjrouhL8vXE15x6yrDCSLZb5MSclNm2vXUBZE83PJJmf_PlBCqTwf47WIpKFScILKve-STB3XyV9-TMJPPMX2iPHRqEqRnFAIiTKOaatMQ_HEKFsKVVBnEqmLDveKQPrC33feFyyo__yGMnQF-tuV3i_ovgMx7BA",
+      "orario": "16:00*",
+      "evento": "Cocciaretto vs Semenistaja",
+      "competizione": "WTA 1000 Miami - Primo turno",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, SuperTennis",
+      "note": "Match di singolare femminile con giocatrice italiana. Inizio della copertura del torneo dalle 16:00 CET, l'orario specifico del match di Cocciaretto è stimato in quanto è il secondo match sul campo indicato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisX7CR6baQAIzhO45x2C0pDEIk_g6bKXaqMNPO3JgIWqjM2hkDI3aVmfWlF1D4vuhWnUDKTC4sK9kLkf-uM6lt5mAUPa416FkfZbBVLKd-SUtZfLMD3-BOmjNi2OY5SMZOUvZAh5EeelGp0TA4iaI_lZGVzcyRTB0v38a0mHNplU0-ReFdFh-owuGwX09nauZ41QyKRV3qYqDfbT8ZsVV0H4clfPSXYUcnItAJw4eXrvW7IDRL20Chd__CZJE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1voZKCAiok5av_jbgoehJvXhhkQDXI-dMgRkx8dK7gQww4u0QWbTp0q1piotORNCAsIPkVVg5d4xUKVk3y5Qs_6w6pbEWGvCBMmZ8DgCek74k1cQzB-YDSQkv04PO6uUQCJ-NfJY3PvE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxuE_vjZVugUzBehWCq9-VoFmI2qea_z55tFt72U2hGh-6EY0OBQmu-Gk3RG206lp91fbnVhKICY-kykNs22Du3jNrVyQW85bq3RuESxVRDuYSPvQ6dce6yHnD7zXukO0b4eE_MneiBcdws40suJrfm2EesEPnn4Tg1RCF9gzljq6-GQixCUMuHA==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:45",
-      "evento": "Barcellona - Newcastle",
-      "competizione": "UEFA Champions League (Ottavi di finale - Ritorno)",
-      "canale": "Sky Sport Uno, Sky Sport 254, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0T8TbzCG0GvUc07iuAtzuxJ5BlBkWtFFeS9JNOpLQVm3xtFBGAg2E3FaWGTSrceA11yKrQFV-YxMvN3_9R0dT8LKeWrBkA0dR2Ai78Flo3dkyzhloFsQCJcdS0PmE4j3cGia4XRtdxl_DDddwE-ho_GxcfBvWqNs6odb80grYLih5RwnULFQ5VKC0vkBZYi7njiN-DA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeWL3aJCMUOHWSiZmrlho1n_I_64vO6sZ7NsoRGk2DcCCi8joy9zSrAoXhNjIBNjviBzLlJmsOlSFyHyt2AkQck3ofkRn76SNOyJLGKE29CA30fG1Qb3kt52B2fQFimB6EDTVjiTF8ca0B007F6cyaLhANZxkI4nzygeiSuT4rzx4jl1ZuCCjPr4f0QMt7377ofhdnx9TtF2Wc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp2d9xHvBwBocfRn42wX5a-fLPzoClTXfosL_aUXmK6V8fiJrAJPwx_nI6yDduKk-FXkRRgdCyk7nH36wxXOrlexWgAcIazzviwK1l35q_Qd6-P38XYEVd4kE_BqDu8KtBp5fQl8mUiL6fa9iO3X9AgJRYSooy058iYBbvQ6I6Xg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgGi913PO_EWZUNfm5CXEosj_NjL6rULQSCNYH44UZPIrlo5wXzqxK5QszX_lyCqwwUceSy_p_YiOsSjcapHOMqgz8NXYC5CGrHFeTZ68yl6Im7qiQ_SdgArHkFfJJK1dCZvLh8H1_cbzeXrASNw",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "20:30",
-      "evento": "Sir Susa Scai Perugia - Vero Volley Monza",
-      "competizione": "Superlega Maschile (Playoff Quarti di finale Gara 3)",
-      "canale": "DAZN, VBTV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED7snFTucB4IzmhxBiOwnVl28BvFI-XAQewPX2zZeHJB0kRyACz7bQ7IIhybMi0-nGJaIdRG1OO2Pc_3No97g7O2XfU8_IrHd_BB9D9rliaF2aLh4ed79ukXFB8DXLZ_FJI3j31XbeZBR7ud7xUNKRVF82ng4g3LaVdMCepzgezv_GQW69k9Hz5EHjMrUPe-Yrdwvl3JDxlfNycKqXv6W0T94nKLFCXZywUkx6EXqP21cofQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_WyfrxaYli5FNcoh_WkImEUInlFzD7AddtsWsYJSKVPUx7LApGW6N7J473_xYxDMxIMkCHWEfuZSHQuDjmttsvOooN9MhT1Srr8VB7GFXk-gpXzCrmPBwJX6V7L2M6vy0MjAybE_yuIiodIBE8_QOI_wa2UaJpbpwY2mI69ng0noX-7b9IRIsKC4izC6uTIRePLj0I3Bq4iZJ91sdH565vdApB04hSmFxuUwewwc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHolga-qG5IESlsz-cIUxbuR94PK7PX3devuYhWDdqvdsEkO04P1Z-DX3GduLaxHLkg_E_DJUL7YmWcGqbbUmKoClIKKEretMm2F8nVizCGcp9Ok-B4NNnOaKRZEaYXetyBzm0q8L6RbOS4jYEu4H9H1rDvVi3VE6zTeAaLUjqtzP5o9tF3AMEeM9P5E6hdXONyO4O-ZGFcW7Aq, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzXj7j6uGwAHl2UD9JZIz_4UdcQcF259LiIotqP5WvqXfgtf6KAv0mpoyT8J-xrfjUgoeJwzOU1vCHC5U7SG79HbEjDyCMeM2jg-SJHhwUm_yRCtJpBiZcadWD0zwYPw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaIcKN6JNmSaJbN30QCk-A78cBSUZYnEgpnaAeguQW4tOYCewdFOIaSS2XnsYXuOzHJiDQqVJw5PJivwcASalxnvXpdmT2BNRZqmKs9uzeCmciewcCxPHVELVXAWM5fvwNJmLdQkBh0XamRvjRVALnu8bNcnC6206z-wfhss9LUrvhEk6PkFKJLaX9ZDGUl96DpdDBY10fwBEVLtTYhzJo8YeNa-jkq-kRukgrWt6WNSQXlwC69WBjvsMateCW-9njLDCeOcm4oQYRA0XFUCB6byK8aUJs",
+      "evento": "Sir Susa Scai Perugia vs Vero Volley Monza - Gara 3 Quarti di finale",
+      "competizione": "Superlega Maschile Playoff",
+      "canale": "VBTV",
+      "note": "Partita di playoff di pallavolo maschile.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWoSIR_4UN7p3hSBYabmlhuVD8u1T_U4PasvOTNjANP0WuTGPbUFkWYxOiSeUX-P6mn_BzmLryXR0f5SZAX2EnjZc6aHvspDQQBffxIDpvHcWGtIEV1OSwXtUG0zeiSbBkJSI_4jBvA1ysu9wlxI4pWxOdUHBdnbVdPijwcg_FAipO4jWz1KauggeYLxBz2wmNxKv4DoRhkvwy3lcMveEB60bR14t9vJSxlEjXFYQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESMdv2CmIHx7mqaab6fDegZHO5V9a4u5n-LJAejsSeFzP93oRHdNiSMqvhXYUIeMME_G7TaK2AYYZBCjsM18_G41toucFKQKNizEOMSvrsM1qYGzNKYX16ueQ2m2RFzy3F1DdnkI6hboDT8V9khMawKQFvBiuDO0BVDarZaCrewzUHo0QMLxbOyUB7rqlM2b68dWW1knZ-2d9YySqohysGvPTkPTgpVswptDlHORUxdvI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHydfPd3GqgPawsE5TDcxkl-nKQHe9FY1W21q7o1dnTCV_8u-VIit_VksCEDR2oBWW0V-sJC-LGr1wM_0Qz40utETig_AQ3ZUf_7vdkukVMOoqxGQ3eD4kYWgKg6HELLwyt8esWp4RByVLRomwHTVqZ-VVwMfxGnZk3nJhTJvqTPQuk1fcxwjcrbvfuBDFMTnG_0d2eZF6oKoSZEo_et9zEK5nIJQ048RG87Ojt",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Bayern Monaco - Atalanta",
-      "competizione": "UEFA Champions League (Ottavi di finale - Ritorno)",
-      "canale": "Amazon Prime Video",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0T8TbzCG0GvUc07iuAtzuxJ5BlBkWtFFeS9JNOpLQVm3xtFBGAg2E3FaWGTSrceA11yKrQFV-YxMvN3_9R0dT8LKeWrBkA0dR2Ai78Flo3dkyzhloFsQCJcdS0PmE4j3cGia4XRtdxl_DDddwE-ho_GxcfBvWqNs6odb80grYLih5RwnULFQ5VKC0vkBZYi7njiN-DA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeWL3aJCMUOHWSiZmrlho1n_I_64vO6sZ7NsoRGk2DcCCi8joy9zSrAoXhNjIBNjviBzLlJmsOlSFyHyt2AkQck3ofkRn76SNOyJLGKE29CA30fG1Qb3kt52B2fQFimB6EDTVjiTF8ca0B007F6cyaLhANZxkI4nzygeiSuT4rzx4jl1ZuCCjPr4f0QMt7377ofhdnx9TtF2Wc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4qWxPwnpo43oPGh2b51vR_pfNtZlFqKrtdoyV99i7lmSk46va8y5P2TVlStvow2hDh83GHfm4ebOGNm2TCsfnRC4FJ-D7SrBbHE4kbuNkoORNQm4Ptvajp3hOgnChW8TegCipfp_S7gK3Js_Vx_ApXf55H-yhXqKBZL67XS8gUh3qWaDOk88DQi_HKk76zfzV3eUgM1SbZ7bk4TNaTxUgJ1hn9HbvJFL-gk6AF5MdKZ_PTYNS5avbqrAtMEzB7_dPPwRs4g",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Liverpool - Galatasaray",
-      "competizione": "UEFA Champions League (Ottavi di finale - Ritorno)",
-      "canale": "TV8, Sky Sport Calcio, Sky Sport 252, NOW",
-      "note": "Disponibile anche in chiaro su TV8.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0T8TbzCG0GvUc07iuAtzuxJ5BlBkWtFFeS9JNOpLQVm3xtFBGAg2E3FaWGTSrceA11yKrQFV-YxMvN3_9R0dT8LKeWrBkA0dR2Ai78Flo3dkyzhloFsQCJcdS0PmE4j3cGia4XRtdxl_DDddwE-ho_GxcfBvWqNs6odb80grYLih5RwnULFQ5VKC0vkBZYi7njiN-DA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeWL3aJCMUOHWSiZmrlho1n_I_64vO6sZ7NsoRGk2DcCCi8joy9zSrAoXhNjIBNjviBzLlJmsOlSFyHyt2AkQck3ofkRn76SNOyJLGKE29CA30fG1Qb3kt52B2fQFimB6EDTVjiTF8ca0B007F6cyaLhANZxkI4nzygeiSuT4rzx4jl1ZuCCjPr4f0QMt7377ofhdnx9TtF2Wc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY7vDnkYFylXJpRgNKsBAqqfbLaRTZTc140BpirTaB2XXMSMPTIsGoNdqlk4wS3lnIWgK1YrwOjtmvBLNz8TKZmnSWETNs4J9xaZoGp3LOACcqLXQSw8MIPkYafQm0xCYhAiEaKXQpN7bp9aMN7B_HfhT1SDD-hTpBIiZTJsU2li9uJEJ8wXR3pisxK7NnnT-AOBMHR1Dvrnmr0AvtQNIv7O0nyEpyWo5uJSEdtAUTlgC4ENiaciuozq57v8IqRQoD97fzZHopw96aoycJEhKpJwUx_TAmEjmmgnCp-V0kO5Lh",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Tottenham - Atletico Madrid",
-      "competizione": "UEFA Champions League (Ottavi di finale - Ritorno)",
-      "canale": "Sky Sport Mix, Sky Sport 253, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0T8TbzCG0GvUc07iuAtzuxJ5BlBkWtFFeS9JNOpLQVm3xtFBGAg2E3FaWGTSrceA11yKrQFV-YxMvN3_9R0dT8LKeWrBkA0dR2Ai78Flo3dkyzhloFsQCJcdS0PmE4j3cGia4XRtdxl_DDddwE-ho_GxcfBvWqNs6odb80grYLih5RwnULFQ5VKC0vkBZYi7njiN-DA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeWL3aJCMUOHWSiZmrlho1n_I_64vO6sZ7NsoRGk2DcCCi8joy9zSrAoXhNjIBNjviBzLlJmsOlSFyHyt2AkQck3ofkRn76SNOyJLGKE29CA30fG1Qb3kt52B2fQFimB6EDTVjiTF8ca0B007F6cyaLhANZxkI4nzygeiSuT4rzx4jl1ZuCCjPr4f0QMt7377ofhdnx9TtF2Wc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgGi913PO_EWZUNfm5CXEosj_NjL6rULQSCNYH44UZPIrlo5wXzqxK5QszX_lyCqwwUceSy_p_YiOsSjcapHOMqgz8NXYC5CGrHFeTZ68yl6Im7qiQ_SdgArHkFfJJK1dCZvLh8H1_cbzeXrASNw",
+      "evento": "Bayern Monaco vs Atalanta",
+      "competizione": "UEFA Champions League - Ritorno ottavi di finale",
+      "canale": "Prime Video",
+      "note": "Partita di calcio di Champions League con squadra italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkm4hwlE3Scdp-KKNgff9CooWeSWJMHzN9dSAMy5pU-Yq2Prlx0x6kXHljXWf9ghey540slbOF13ue8UTTHsbm49E-wo5IhkAV_9YZ8zU8hiOHV-CYMYxDfJhUgqO5VDGihc_mR5Dk6bd9d7wFk8H8-iAa0nyz484QBR3KO6_OIQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "01:30*",
-      "evento": "Matteo Berrettini (ITA) vs Alexandre Muller (FRA)",
-      "competizione": "ATP Masters 1000 Miami 2026 (Primo turno)",
-      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Orario non prima di, in base al completamento dei match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnvFixOYM6ITnAzWDNzZxGyeCeXKTA4VQysiXWrZowbzJ8ryVJ3C6cDlvL6LbyuB4aYwKKB5KFqvhpbdq7v-Uyx5-jINNrYYLoFJJoBDPNNvzcYdzw7lGKiGpu7yrBELcLuGoqmr-Al2JKb3QhZ64H3FhuMjSI2ZcqVWJNExYoxcC1EFbeLxP281V2zJdpG92Flv4XNQREGdhUxvOQRQw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaC6W_18cDHqITB46LYOAeH-68z0dKTBL-9XL_P3_P8rxaQGl3m2P6FbEPclTpLgC9WgpR3IRpx93hEJJ2wG-pqaGr2-Ob8usj9UX-3SWVJ2AIophOXzLPMxe2XbPvyGwXX8cXS4y-IpVtYnw42k5i9MINXyulmI7c-QajLMG0E9xMOeMrPCF7a7z-kVC8hOl9JKY0Gg",
+      "evento": "Berrettini vs Muller",
+      "competizione": "ATP Masters 1000 Miami - Primo turno",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Tennis TV, Sky Go, NOW",
+      "note": "Match di singolare maschile con giocatore italiano. Orario 'non prima delle 01:30' CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisX7CR6baQAIzhO45x2C0pDEIk_g6bKXaqMNPO3JgIWqjM2hkDI3aVmfWlF1D4vuhWnUDKTC4sK9kLkf-uM6lt5mAUPa416FkfZbBVLKd-SUtZfLMD3-BOmjNi2OY5SMZOUvZAh5EeelGp0TA4iaI_lZGVzcyRTB0v38a0mHNplU0-ReFdFh-owuGwX09nauZ41QyKRV3qYqDfbT8ZsVV0H4clfPSXYUcnItAJw4eXrvW7IDRL20Chd__CZJE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE16A0LbESTTFHVNW3eCjuwONbNW4roh296moRw-ITV_yWJVBkZC6zDrMjSbdk5l15xEEaY5QhAECqVrMi7_6O6imqmRYpwjTv2lnbhT2Js1uXHPfHQqnRbkyC2rwcjAWZpZy8njf3TaARP0ih-0DnDn23-hXi4-HLoTCEbJZy2IW-3DmOmVTb6SbhPfgJL97fbynIdNBMR52LuvirvYo=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVEANmaVBM_QxpZxzqG6z7m-zDq80Nv5x9SS1N5bQ6vGGgD4wU7lpeAi3GloUMbIk7lLMwIoN_rLu3xjt3S4Cx3diWjfBL1krs-N3yBa1bLtuxE80sYoZ1ZSNpMg==",
       "accuratezza_orario": "stimato"
     }
   ]
