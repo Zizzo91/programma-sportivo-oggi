@@ -1,41 +1,104 @@
 {
-  "last_updated": "2026-03-18T19:43:11.797945+01:00",
+  "last_updated": "2026-03-19T07:44:30.925238+01:00",
   "events": [
     {
       "orario": "16:00*",
-      "evento": "Cocciaretto vs Semenistaja",
-      "competizione": "WTA 1000 Miami - Primo turno",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, SuperTennis",
-      "note": "Match di singolare femminile con giocatrice italiana. Inizio della copertura del torneo dalle 16:00 CET, l'orario specifico del match di Cocciaretto è stimato in quanto è il secondo match sul campo indicato.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisX7CR6baQAIzhO45x2C0pDEIk_g6bKXaqMNPO3JgIWqjM2hkDI3aVmfWlF1D4vuhWnUDKTC4sK9kLkf-uM6lt5mAUPa416FkfZbBVLKd-SUtZfLMD3-BOmjNi2OY5SMZOUvZAh5EeelGp0TA4iaI_lZGVzcyRTB0v38a0mHNplU0-ReFdFh-owuGwX09nauZ41QyKRV3qYqDfbT8ZsVV0H4clfPSXYUcnItAJw4eXrvW7IDRL20Chd__CZJE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1voZKCAiok5av_jbgoehJvXhhkQDXI-dMgRkx8dK7gQww4u0QWbTp0q1piotORNCAsIPkVVg5d4xUKVk3y5Qs_6w6pbEWGvCBMmZ8DgCek74k1cQzB-YDSQkv04PO6uUQCJ-NfJY3PvE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxuE_vjZVugUzBehWCq9-VoFmI2qea_z55tFt72U2hGh-6EY0OBQmu-Gk3RG206lp91fbnVhKICY-kykNs22Du3jNrVyQW85bq3RuESxVRDuYSPvQ6dce6yHnD7zXukO0b4eE_MneiBcdws40suJrfm2EesEPnn4Tg1RCF9gzljq6-GQixCUMuHA==",
+      "evento": "Elisabetta Cocciaretto vs Darja Semenistaja",
+      "competizione": "WTA 1000 Miami - Primo Turno",
+      "canale": "SuperTennis",
+      "note": "Orario stimato, non prima delle 16:00 CET. Il match è il secondo programmato dalle 15:00 CET.",
+      "fonte": "https://www.oasport.it/2026/03/masters-wta-1000-miami-2026-programma-orari-e-ordine-di-gioco-giovedi-19-marzo-con-berrettini-e-bellucci/",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:30",
-      "evento": "Sir Susa Scai Perugia vs Vero Volley Monza - Gara 3 Quarti di finale",
-      "competizione": "Superlega Maschile Playoff",
-      "canale": "VBTV",
-      "note": "Partita di playoff di pallavolo maschile.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWoSIR_4UN7p3hSBYabmlhuVD8u1T_U4PasvOTNjANP0WuTGPbUFkWYxOiSeUX-P6mn_BzmLryXR0f5SZAX2EnjZc6aHvspDQQBffxIDpvHcWGtIEV1OSwXtUG0zeiSbBkJSI_4jBvA1ysu9wlxI4pWxOdUHBdnbVdPijwcg_FAipO4jWz1KauggeYLxBz2wmNxKv4DoRhkvwy3lcMveEB60bR14t9vJSxlEjXFYQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESMdv2CmIHx7mqaab6fDegZHO5V9a4u5n-LJAejsSeFzP93oRHdNiSMqvhXYUIeMME_G7TaK2AYYZBCjsM18_G41toucFKQKNizEOMSvrsM1qYGzNKYX16ueQ2m2RFzy3F1DdnkI6hboDT8V9khMawKQFvBiuDO0BVDarZaCrewzUHo0QMLxbOyUB7rqlM2b68dWW1knZ-2d9YySqohysGvPTkPTgpVswptDlHORUxdvI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHydfPd3GqgPawsE5TDcxkl-nKQHe9FY1W21q7o1dnTCV_8u-VIit_VksCEDR2oBWW0V-sJC-LGr1wM_0Qz40utETig_AQ3ZUf_7vdkukVMOoqxGQ3eD4kYWgKg6HELLwyt8esWp4RByVLRomwHTVqZ-VVwMfxGnZk3nJhTJvqTPQuk1fcxwjcrbvfuBDFMTnG_0d2eZF6oKoSZEo_et9zEK5nIJQ048RG87Ojt",
+      "orario": "17:00*",
+      "evento": "Matteo Berrettini vs Alexandre Muller",
+      "competizione": "ATP Masters 1000 Miami - Primo Turno",
+      "canale": "Sky Sport Tennis / SuperTennis",
+      "note": "Orario stimato, nel terzo match dalle 17:00 CET sullo Stadio principale.",
+      "fonte": "https://www.oasport.it/2026/03/masters-wta-1000-miami-2026-programma-orari-e-ordine-di-gioco-giovedi-19-marzo-con-berrettini-e-bellucci/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Vakifbank vs Vero Volley Milano",
+      "competizione": "CEV Champions League Femminile - Ritorno quarti di finale",
+      "canale": "DAZN",
+      "note": null,
+      "fonte": "https://www.digital-news.it/news/guida-tv-dazn/64879/guida-tv-dazn-1-canale-214-sky-palinsesto-13-19-marzo-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Rakow vs Fiorentina",
+      "competizione": "UEFA Conference League - Ottavi di finale (ritorno)",
+      "canale": "Sky Sport",
+      "note": null,
+      "fonte": "https://www.tuttomercatoweb.com/altre-notizie/le-partite-di-oggi-il-programma-di-giovedi-19-marzo-1930776",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "LIVE WTA 1000 Miami",
+      "competizione": "WTA 1000 Miami",
+      "canale": "SuperTennis",
+      "note": "Copertura in diretta del torneo, include match di singolare o doppio.",
+      "fonte": "https://www.staseraentv.it/programmi-supertennis-oggi-19-marzo-2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Bayern Monaco vs Atalanta",
-      "competizione": "UEFA Champions League - Ritorno ottavi di finale",
-      "canale": "Prime Video",
-      "note": "Partita di calcio di Champions League con squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkm4hwlE3Scdp-KKNgff9CooWeSWJMHzN9dSAMy5pU-Yq2Prlx0x6kXHljXWf9ghey540slbOF13ue8UTTHsbm49E-wo5IhkAV_9YZ8zU8hiOHV-CYMYxDfJhUgqO5VDGihc_mR5Dk6bd9d7wFk8H8-iAa0nyz484QBR3KO6_OIQ==",
+      "evento": "Roma vs Bologna",
+      "competizione": "UEFA Europa League - Ottavi di finale (ritorno)",
+      "canale": "Sky Sport",
+      "note": null,
+      "fonte": "https://www.tuttomercatoweb.com/altre-notizie/le-partite-di-oggi-il-programma-di-giovedi-19-marzo-1930776",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:30*",
-      "evento": "Berrettini vs Muller",
-      "competizione": "ATP Masters 1000 Miami - Primo turno",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Tennis TV, Sky Go, NOW",
-      "note": "Match di singolare maschile con giocatore italiano. Orario 'non prima delle 01:30' CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisX7CR6baQAIzhO45x2C0pDEIk_g6bKXaqMNPO3JgIWqjM2hkDI3aVmfWlF1D4vuhWnUDKTC4sK9kLkf-uM6lt5mAUPa416FkfZbBVLKd-SUtZfLMD3-BOmjNi2OY5SMZOUvZAh5EeelGp0TA4iaI_lZGVzcyRTB0v38a0mHNplU0-ReFdFh-owuGwX09nauZ41QyKRV3qYqDfbT8ZsVV0H4clfPSXYUcnItAJw4eXrvW7IDRL20Chd__CZJE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE16A0LbESTTFHVNW3eCjuwONbNW4roh296moRw-ITV_yWJVBkZC6zDrMjSbdk5l15xEEaY5QhAECqVrMi7_6O6imqmRYpwjTv2lnbhT2Js1uXHPfHQqnRbkyC2rwcjAWZpZy8njf3TaARP0ih-0DnDn23-hXi4-HLoTCEbJZy2IW-3DmOmVTb6SbhPfgJL97fbynIdNBMR52LuvirvYo=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVEANmaVBM_QxpZxzqG6z7m-zDq80Nv5x9SS1N5bQ6vGGgD4wU7lpeAi3GloUMbIk7lLMwIoN_rLu3xjt3S4Cx3diWjfBL1krs-N3yBa1bLtuxE80sYoZ1ZSNpMg==",
-      "accuratezza_orario": "stimato"
+      "orario": "22:00",
+      "evento": "LIVE WTA 1000 Miami",
+      "competizione": "WTA 1000 Miami",
+      "canale": "SuperTennis",
+      "note": "Copertura in diretta del torneo, include match di singolare o doppio.",
+      "fonte": "https://www.staseraentv.it/programmi-supertennis-oggi-19-marzo-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Senegal - Italia",
+      "competizione": "Calcio - Qualificazioni Mondiali F 2026",
+      "canale": "Rai Sport HD",
+      "note": null,
+      "fonte": "https://www.guidatv.info/oggi/sera/rai-sport-hd/2026-03-19",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "LIVE WTA 1000 Miami",
+      "competizione": "WTA 1000 Miami",
+      "canale": "SuperTennis",
+      "note": "Copertura in diretta del torneo, include match di singolare o doppio. Mattia Bellucci potrebbe giocare in questa fascia oraria (già 20 marzo CET).",
+      "fonte": "https://www.staseraentv.it/programmi-supertennis-oggi-19-marzo-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:30",
+      "evento": "LIVE WTA 1000 Miami",
+      "competizione": "WTA 1000 Miami",
+      "canale": "SuperTennis",
+      "note": "Copertura in diretta del torneo, include match di singolare o doppio.",
+      "fonte": "https://www.staseraentv.it/programmi-supertennis-oggi-19-marzo-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "WTA Miami (Repliche/Match Salienti)",
+      "competizione": "WTA 1000 Miami",
+      "canale": "SuperTennis",
+      "note": null,
+      "fonte": "https://www.staseraentv.it/programmi-supertennis-oggi-19-marzo-2026",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
