@@ -1,41 +1,59 @@
 {
-  "last_updated": "2026-03-19T13:37:18.811011+01:00",
+  "last_updated": "2026-03-19T19:41:16.938724+01:00",
   "events": [
     {
-      "orario": "16:00*",
-      "evento": "Tennis - Miami Open (ATP) - 1° Turno",
-      "competizione": "ATP Masters 1000 Miami",
-      "canale": "Sky Sport, NOW TV, SuperTennis",
-      "note": "Matteo Berrettini (ITA) vs Alexandre Muller (FRA). Orario stimato come terzo incontro sul Butch Buchholz.",
-      "fonte": "Ubitennis, TieBreakTennis, SuperTennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Tennis - Miami Open (WTA) - 1° Turno",
-      "competizione": "WTA 1000 Miami",
-      "canale": "Sky Sport, NOW TV, SuperTennis",
-      "note": "Elisabetta Cocciaretto (ITA) vs Darja Semenistaja (LAT). Orario stimato, non prima delle 17:00 CET sul Campo 6.",
-      "fonte": "Ubitennis, TieBreakTennis, SuperTennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "18:45",
-      "evento": "Calcio - Rakow Czestochowa vs Fiorentina",
-      "competizione": "UEFA Conference League - Ritorno ottavi di finale",
-      "canale": "Sky Sport Uno, Sky Sport (253)",
+      "evento": "Rakow - Fiorentina",
+      "competizione": "Conference League",
+      "canale": "Sky Sport Uno, Sky Sport 253",
       "note": "",
-      "fonte": "Libero, Calcio e Finanza",
+      "fonte": "Calcio Magazine, Dituttounpop.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Vakifbank Istanbul - Vero Volley Milano",
+      "competizione": "Champions League Femminile (Volley)",
+      "canale": "Sky Sport Max, DAZN, NOW, Sky Go, Euro Volley Tv",
+      "note": "Ritorno quarti di finale",
+      "fonte": "OA Sport, Digital-News",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio - Roma vs Bologna",
-      "competizione": "UEFA Europa League - Ritorno ottavi di finale",
-      "canale": "Sky Sport 1",
-      "note": "",
-      "fonte": "Libero, Calcio e Finanza",
+      "evento": "Roma - Bologna",
+      "competizione": "Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 252, Sky Go, NOW",
+      "note": "Ritorno ottavi di finale",
+      "fonte": "Adnkronos, Calcio Magazine, Dituttounpop.it",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Senegal - Italia",
+      "competizione": "Qualificazioni Mondiali F 2026",
+      "canale": "Raisport HD",
+      "note": "Calcio femminile",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Matteo Berrettini (ITA) - Alexandre Muller (FRA)",
+      "competizione": "ATP Masters 1000 Miami (1° Turno)",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis TV",
+      "note": "Terzo match dalle 16:00 CET",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Elisabetta Cocciaretto (ITA) - Darja Semenistaja (LAT)",
+      "competizione": "WTA 1000 Miami (1° Turno)",
+      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Arena, SuperTenniX, Sky Go, NOW",
+      "note": "Secondo match dalle 15:00 CET, non prima delle 16:00 CET",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
