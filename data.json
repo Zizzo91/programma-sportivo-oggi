@@ -1,58 +1,94 @@
 {
-  "last_updated": "2026-03-19T19:41:16.938724+01:00",
+  "last_updated": "2026-03-20T02:07:49.549357+01:00",
   "events": [
     {
-      "orario": "18:45",
-      "evento": "Rakow - Fiorentina",
-      "competizione": "Conference League",
-      "canale": "Sky Sport Uno, Sky Sport 253",
+      "orario": "13:00",
+      "evento": "Prove Libere 1 Moto3",
+      "competizione": "MotoGP GP Brasile",
+      "canale": "Sky Sport MotoGP, NOW",
       "note": "",
-      "fonte": "Calcio Magazine, Dituttounpop.it",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-ecco-gli-orari-tv-di-sky-now-e-tv8-del-gran-premio-del-brasile/10587289/, https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-brasile-2026-diretta-su-sky-differita-su-tv8-goiania-sky-sport-motogp",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Vakifbank Istanbul - Vero Volley Milano",
-      "competizione": "Champions League Femminile (Volley)",
-      "canale": "Sky Sport Max, DAZN, NOW, Sky Go, Euro Volley Tv",
-      "note": "Ritorno quarti di finale",
-      "fonte": "OA Sport, Digital-News",
+      "orario": "14:00",
+      "evento": "Prove Libere 1 Moto2",
+      "competizione": "MotoGP GP Brasile",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-ecco-gli-orari-tv-di-sky-now-e-tv8-del-gran-premio-del-brasile/10587289/, https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-brasile-2026-diretta-su-sky-differita-su-tv8-goiania-sky-sport-motogp",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Roma - Bologna",
-      "competizione": "Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 252, Sky Go, NOW",
-      "note": "Ritorno ottavi di finale",
-      "fonte": "Adnkronos, Calcio Magazine, Dituttounpop.it",
+      "orario": "15:05",
+      "evento": "Prove Libere 1 MotoGP",
+      "competizione": "MotoGP GP Brasile",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
+      "note": "",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-ecco-gli-orari-tv-di-sky-now-e-tv8-del-gran-premio-del-brasile/10587289/, https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-brasile-2026-diretta-su-sky-differita-su-tv8-goiania-sky-sport-motogp, https://www.nowtv.it/sport/motogp/motogp-2026",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Senegal - Italia",
-      "competizione": "Qualificazioni Mondiali F 2026",
-      "canale": "Raisport HD",
-      "note": "Calcio femminile",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Matteo Berrettini (ITA) - Alexandre Muller (FRA)",
-      "competizione": "ATP Masters 1000 Miami (1° Turno)",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis TV",
-      "note": "Terzo match dalle 16:00 CET",
-      "fonte": "OA Sport",
+      "orario": "12:00",
+      "evento": "Seconda prova cronometrata Discesa Libera Femminile",
+      "competizione": "Coppa del Mondo Sci Alpino (Lillehammer)",
+      "canale": "Rai Sport HD, Rai Play, Eurosport 1 HD, Discovery Plus, DAZN, HBO Max",
+      "note": "Sofia Goggia in gara, partenza stimata alle 12:47:30.",
+      "fonte": "https://www.oasport.it/2026/03/quando-parte-sofia-goggia-nella-seconda-prova-di-discesa-a-lillehammer-2026-orario-n-di-pettorale-tv/, https://www.oasport.it/2026/03/a-che-ora-parte-sofia-goggia-oggi-nel-gigante-di-are-2026-n-di-pettorale-tv-streaming/",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:00*",
-      "evento": "Elisabetta Cocciaretto (ITA) - Darja Semenistaja (LAT)",
-      "competizione": "WTA 1000 Miami (1° Turno)",
-      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Arena, SuperTenniX, Sky Go, NOW",
-      "note": "Secondo match dalle 15:00 CET, non prima delle 16:00 CET",
-      "fonte": "OA Sport",
+      "orario": "17:15",
+      "evento": "Prove Moto3",
+      "competizione": "MotoGP GP Brasile",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-ecco-gli-orari-tv-di-sky-now-e-tv8-del-gran-premio-del-brasile/10587289/, https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-brasile-2026-diretta-su-sky-differita-su-tv8-goiania-sky-sport-motogp",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:15",
+      "evento": "Prove Moto2",
+      "competizione": "MotoGP GP Brasile",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-ecco-gli-orari-tv-di-sky-now-e-tv8-del-gran-premio-del-brasile/10587289/, https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-brasile-2026-diretta-su-sky-differita-su-tv8-goiania-sky-sport-motogp",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Cagliari-Napoli",
+      "competizione": "Serie A",
+      "canale": "DAZN, Zona DAZN (Sky)",
+      "note": "",
+      "fonte": "https://www.gazzettadiparma.it/calcio/2026/03/19/news/calcio-in-tv-oggi-20-marzo-2026-cagliari-napoli-e-genoa-udinese-in-primo-piano-694600/, https://sport.sky.it/calcio/serie-a/2026/03/06/calendario-serie-a-2025-2026-anticipi-posticipi-31-giornata",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:20",
+      "evento": "Prove MotoGP",
+      "competizione": "MotoGP GP Brasile",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
+      "note": "",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-ecco-gli-orari-tv-di-sky-now-e-tv8-del-gran-premio-del-brasile/10587289/, https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-brasile-2026-diretta-su-sky-differita-su-tv8-goiania-sky-sport-motogp, https://www.nowtv.it/sport/motogp/motogp-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Genoa-Udinese",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport (canale 251)",
+      "note": "",
+      "fonte": "https://www.gazzettadiparma.it/calcio/2026/03/19/news/calcio-in-tv-oggi-20-marzo-2026-cagliari-napoli-e-genoa-udinese-in-primo-piano-694600/, https://sport.sky.it/calcio/serie-a/2025/03/06/calendario-serie-a-2025-2026-anticipi-posticipi-31-giornata",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Primo Turno Singolare Donne",
+      "competizione": "WTA 1000 Miami",
+      "canale": "Supertennis, Sky Sport, NOW, Sky Go",
+      "note": "Sessione notturna italiana, include eventuali italiane in campo. Orario italiano (CET) del 21 marzo 2026.",
+      "fonte": "https://www.olympics.com/it/news/miami-open-2026-programma-orari-partite-calendario-tv-streaming",
       "accuratezza_orario": "stimato"
     }
   ]
