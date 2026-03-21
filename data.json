@@ -1,139 +1,166 @@
 {
-  "last_updated": "2026-03-20T13:33:41.084808+01:00",
+  "last_updated": "2026-03-21T02:03:37.307585+01:00",
   "events": [
     {
-      "orario": "13:00-13:45",
-      "evento": "Prove libere 1",
+      "orario": "02:00*",
+      "evento": "Secondo turno singolare uomini (sessione notturna/mattutina)",
+      "competizione": "ATP Masters 1000 Miami Open 2026",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Potenziali italiani in campo (es. Sinner se giocasse nella sessione precedente, ma l'orario specifico del suo match è stimato più tardi).",
+      "fonte": "Olympics.com",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Milano - Sanremo 2026",
+      "competizione": "Ciclismo",
+      "canale": "Raisport HD",
+      "note": "",
+      "fonte": "Guida TV Raisport HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "Discesa libera maschile",
+      "competizione": "Coppa del Mondo Sci Alpino 2025/2026 Finals (Kvitfjell)",
+      "canale": "Rai 2, Rai Sport, Eurosport 1 HD",
+      "note": "Con atleti italiani tra cui Dominik Paris, Giovanni Franzoni.",
+      "fonte": "Super Guida TV, Olympics.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Discesa libera femminile",
+      "competizione": "Coppa del Mondo Sci Alpino 2025/2026 Finals (Kvitfjell)",
+      "canale": "Rai 2, Rai Sport, Eurosport 1 HD",
+      "note": "Con atlete italiane Sofia Goggia e Laura Pirovano.",
+      "fonte": "Super Guida TV, Olympics.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:35",
+      "evento": "Prove libere 2",
       "competizione": "Moto3 - GP Brasile 2026",
-      "canale": "Sky Sport MotoGP (208)",
+      "canale": "Sky Sport MotoGP HD, NOW",
       "note": "",
-      "fonte": "OA Sport, inSella, Motorsport.com, Il Fatto Quotidiano, Virgilio, NOW, sport2u.tv, MotoGP su TV8 (OA Sport)",
+      "fonte": "LaPresse",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00-14:50",
-      "evento": "Prove libere 1",
+      "orario": "13:20",
+      "evento": "Prove libere 2",
       "competizione": "Moto2 - GP Brasile 2026",
-      "canale": "Sky Sport MotoGP (208)",
+      "canale": "Sky Sport MotoGP HD, NOW",
       "note": "",
-      "fonte": "OA Sport, inSella, Motorsport.com, Il Fatto Quotidiano, Virgilio, NOW, sport2u.tv, MotoGP su TV8 (OA Sport)",
+      "fonte": "LaPresse",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:05-16:05",
-      "evento": "Prove libere 1",
+      "orario": "14:05",
+      "evento": "Prove libere 2",
       "competizione": "MotoGP - GP Brasile 2026",
-      "canale": "Sky Sport MotoGP (208)",
+      "canale": "Sky Sport MotoGP HD, NOW",
       "note": "",
-      "fonte": "OA Sport, inSella, Motorsport.com, Il Fatto Quotidiano, Virgilio, NOW, sport2u.tv, MotoGP su TV8 (OA Sport)",
+      "fonte": "LaPresse, Adnkronos",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "Secondo turno",
-      "competizione": "Tennis WTA Miami Open 2026",
-      "canale": "SuperTennis HD, Sky Sport Tennis (203), Sky Sport Mix (211)",
-      "note": "Programmazione generale che include match con italiane. Sessione inizia alle 16:00, i singoli match seguiranno.",
-      "fonte": "Sport in tv oggi (OA Sport), Il Fatto Quotidiano, Ubitennis",
+      "orario": "14:30",
+      "evento": "Reggina - Acireale",
+      "competizione": "Serie D Girone I",
+      "canale": "www.playreggina1914.it (streaming a pagamento)",
+      "note": "",
+      "fonte": "SerieD24.com, Tuttoreggina, Ntacalabria.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00*",
-      "evento": "Elisabetta Cocciaretto (ITA) vs Coco Gauff (USA)",
-      "competizione": "Tennis WTA Miami Open 2026",
-      "canale": "SuperTennis HD, Sky Sport Tennis (203), Sky Sport Mix (211)",
-      "note": "Match a seguire dopo Ruud-Quinn, che inizia alle 17:00 CET. Orario stimato.",
-      "fonte": "OA Sport, Ubitennis, Il Fatto Quotidiano",
+      "orario": "14:45",
+      "evento": "Qualifiche",
+      "competizione": "MotoGP - GP Brasile 2026",
+      "canale": "Sky Sport MotoGP HD, NOW, TV8",
+      "note": "Diretta TV8.",
+      "fonte": "LaPresse, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Secondo turno singolare uomini (sessione diurna)",
+      "competizione": "ATP Masters 1000 Miami Open 2026",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Include match di Jannik Sinner e/o altri italiani, orario esatto del singolo match TBA.",
+      "fonte": "Dolomiti Review, Olympics.com, Olympics.com",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "17:15-18:00",
-      "evento": "Prove",
+      "orario": "16:05",
+      "evento": "Inter - Napoli",
+      "competizione": "Serie A Women 2025/2026",
+      "canale": "Raisport HD, DAZN",
+      "note": "",
+      "fonte": "Guida TV Raisport HD, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:45",
+      "evento": "Qualifiche",
       "competizione": "Moto3 - GP Brasile 2026",
-      "canale": "Sky Sport MotoGP (208)",
+      "canale": "Sky Sport MotoGP HD, NOW",
       "note": "",
-      "fonte": "OA Sport, Motorsport.com, Il Fatto Quotidiano, Virgilio, sport2u.tv, MotoGP su TV8 (OA Sport)",
+      "fonte": "LaPresse",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:15-19:05",
-      "evento": "Prove",
+      "orario": "17:35",
+      "evento": "Qualifiche",
       "competizione": "Moto2 - GP Brasile 2026",
-      "canale": "Sky Sport MotoGP (208)",
+      "canale": "Sky Sport MotoGP HD, NOW",
       "note": "",
-      "fonte": "OA Sport, Motorsport.com, Il Fatto Quotidiano, Virgilio, sport2u.tv, MotoGP su TV8 (OA Sport)",
+      "fonte": "LaPresse",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Cagliari vs Napoli",
-      "competizione": "Calcio Serie A",
-      "canale": "DAZN, DAZN 1 (Sky)",
-      "note": "",
-      "fonte": "Sport in tv oggi (OA Sport), 90Min.com, Calciomagazine, HDBlog, Libero",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:20-20:35",
-      "evento": "Prove",
+      "orario": "18:55",
+      "evento": "Sprint Race",
       "competizione": "MotoGP - GP Brasile 2026",
-      "canale": "Sky Sport MotoGP (208)",
-      "note": "",
-      "fonte": "OA Sport, Motorsport.com, Il Fatto Quotidiano, Virgilio, sport2u.tv, MotoGP su TV8 (OA Sport)",
+      "canale": "Sky Sport MotoGP HD, NOW, TV8",
+      "note": "Diretta TV8.",
+      "fonte": "LaPresse, OA Sport",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Matteo Berrettini (ITA) vs Alexander Bublik (KAZ)",
-      "competizione": "Tennis ATP Miami Open 2026",
-      "canale": "Sky Sport Tennis, SkyGo, NOW",
-      "note": "Orario stimato, il match si svolgerà nel pomeriggio/sera italiana.",
-      "fonte": "OA Sport, Ubitennis, Il Fatto Quotidiano",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Jasmine Paolini (ITA) vs Taylor Townsend (USA)",
-      "competizione": "Tennis WTA Miami Open 2026",
-      "canale": "SuperTennis HD, Sky Sport Tennis, SkyGo, NOW",
-      "note": "Orario stimato, il match si svolgerà nel pomeriggio/sera italiana.",
-      "fonte": "Ubitennis, Il Fatto Quotidiano",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Matteo Arnaldi (ITA) vs Alexander Shevchenko (KAZ)",
-      "competizione": "Tennis ATP Miami Open 2026",
-      "canale": "Sky Sport Tennis, SkyGo, NOW",
-      "note": "Orario stimato, il match si svolgerà nel pomeriggio/sera italiana.",
-      "fonte": "Ubitennis, Il Fatto Quotidiano",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Luciano Darderi (ITA) vs (Qualificato) Landaluce (ESP)",
-      "competizione": "Tennis ATP Miami Open 2026",
-      "canale": "Sky Sport Tennis, SkyGo, NOW",
-      "note": "Orario stimato, il match si svolgerà nel pomeriggio/sera italiana.",
-      "fonte": "Ubitennis, Il Fatto Quotidiano",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Flavio Cobolli (ITA) vs Zizou Bergs (BEL)",
-      "competizione": "Tennis ATP Miami Open 2026",
-      "canale": "Sky Sport Tennis, SkyGo, NOW",
-      "note": "Orario stimato, il match si svolgerà nel pomeriggio/sera italiana.",
-      "fonte": "Ubitennis, Il Fatto Quotidiano",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Genoa vs Udinese",
-      "competizione": "Calcio Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport (251), NOW",
+      "evento": "Juventus - Sassuolo",
+      "competizione": "Serie A 2025/2026",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
       "note": "",
-      "fonte": "90Min.com, Sky Sport, Calciomagazine, HDBlog, Libero",
+      "fonte": "Guida TV, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Replica Gara",
+      "competizione": "Moto3 - GP Brasile 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Gara della domenica (22 marzo) in replica notturna/mattutina.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:30",
+      "evento": "Replica Gara",
+      "competizione": "Moto2 - GP Brasile 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Gara della domenica (22 marzo) in replica notturna/mattutina.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Replica Gara",
+      "competizione": "MotoGP - GP Brasile 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Gara della domenica (22 marzo) in replica notturna/mattutina.",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
