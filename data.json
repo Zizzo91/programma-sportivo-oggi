@@ -1,212 +1,113 @@
 {
-  "last_updated": "2026-03-22T13:26:38.158494+01:00",
+  "last_updated": "2026-03-22T19:22:30.729304+01:00",
   "events": [
     {
-      "orario": "01:00*",
-      "evento": "Matteo Berrettini vs Valentin Vacherot",
-      "competizione": "ATP Masters 1000 Miami (Sedicesimi di finale)",
-      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Orario stimato, il match si giocherà nella notte italiana tra domenica 22 e lunedì 23 marzo.",
-      "fonte": "OA Sport, Sky Sport, NOW, Tennis TV",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "10:45",
-      "evento": "SuperG femminile",
-      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer",
-      "canale": "Rai 2, DAZN, Eurosport 1, Rai Play, Discovery Plus, HBO Max",
-      "note": "Sofia Goggia in gara per la Coppa di specialità.",
-      "fonte": "OA Sport, Fanpage, Super Guida TV, QuellaSeraTv.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "SuperG maschile",
-      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer",
-      "canale": "Rai 2, DAZN, Eurosport 1, Rai Play, Discovery Plus, HBO Max",
-      "note": "Con Dominik Paris e Giovanni Franzoni.",
-      "fonte": "OA Sport, Fanpage, Super Guida TV, QuellaSeraTv.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Como - Pisa",
-      "competizione": "Serie A",
-      "canale": "DAZN",
+      "orario": "19:55",
+      "evento": "Gara Moto2 (Differita)",
+      "competizione": "MotoGP - Gran Premio del Brasile 2026",
+      "canale": "TV8",
       "note": "",
-      "fonte": "Goal.com Italia, 90Min.com, Digital-News, Calcio in TV, Sportface.it, YouTube",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:40",
-      "evento": "Moto2 GP Brasile Q1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport, NOW",
-      "note": "",
-      "fonte": "Sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:05",
-      "evento": "Moto2 GP Brasile Q2",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport, NOW",
-      "note": "",
-      "fonte": "Sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:40",
-      "evento": "MotoGP Brasile Warm Up",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, Sportface.it, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Atalanta - Verona",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Goal.com Italia, 90Min.com, Digital-News, Calcio in TV, Sportface.it, YouTube",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Bologna - Lazio",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Goal.com Italia, 90Min.com, Digital-News, Calcio in TV, Sportface.it, YouTube",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Jasmine Paolini vs Jelena Ostapenko",
-      "competizione": "WTA 1000 Miami (Terzo turno)",
-      "canale": "SuperTennis, SuperTennis Plus, SuperTenniX",
-      "note": "",
-      "fonte": "SuperTennis.tv, Sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Gara Moto3 GP Brasile",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:15",
-      "evento": "Gara Moto2 GP Brasile",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Roma - Lecce",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "CalcioMagazine, Goal.com Italia, 90Min.com, Libero, Digital-News, Calcio in TV, Sportface.it, YouTube",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Gara Moto3 GP Brasile (Differita)",
-      "competizione": "MotoGP",
-      "canale": "TV8, tv8.it",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Gara MotoGP GP Brasile",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport, NOW",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, Fanpage, Quotidiano Motori, Sky Sport MotoGP, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:50",
-      "evento": "Gara Moto2 GP Brasile (Differita)",
-      "competizione": "MotoGP",
-      "canale": "TV8, tv8.it",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
       "evento": "MotoGP Zona Rossa",
-      "competizione": "MotoGP (Approfondimento)",
+      "competizione": "MotoGP - Gran Premio del Brasile 2026",
       "canale": "Sky Sport Uno",
-      "note": "",
+      "note": "Programma di approfondimento post-gara.",
       "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:35",
       "evento": "Podio Gara Moto2",
-      "competizione": "MotoGP (Highlights)",
+      "competizione": "MotoGP - Gran Premio del Brasile 2026",
       "canale": "TV8",
       "note": "",
       "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Fiorentina-Inter",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, DAZN 1 (Sky)",
+      "note": "",
+      "fonte": "90min.com, Libero, kisskiss.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "MotoGP Paddock Live Gara",
-      "competizione": "MotoGP (Approfondimento)",
+      "competizione": "MotoGP - Gran Premio del Brasile 2026",
       "canale": "TV8",
-      "note": "",
+      "note": "Programma post-gara.",
       "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Fiorentina - Inter",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "CalcioMagazine, Goal.com Italia, 90Min.com, Libero, Digital-News, Calcio in TV, Sportface.it, YouTube",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "MotoGP Grid",
-      "competizione": "MotoGP (Approfondimento)",
+      "competizione": "MotoGP - Gran Premio del Brasile 2026",
       "canale": "TV8",
-      "note": "",
+      "note": "Programma pre-gara MotoGP, in differita prima della gara.",
       "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Race Anatomy MotoGP",
-      "competizione": "MotoGP (Approfondimento)",
+      "competizione": "MotoGP - Gran Premio del Brasile 2026",
       "canale": "Sky Sport Uno",
-      "note": "",
+      "note": "Analisi post-gara.",
       "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:30",
-      "evento": "Gara MotoGP GP Brasile (Differita)",
-      "competizione": "MotoGP",
-      "canale": "TV8, tv8.it",
+      "orario": "21:40",
+      "evento": "Gara MotoGP (Differita)",
+      "competizione": "MotoGP - Gran Premio del Brasile 2026",
+      "canale": "TV8",
       "note": "",
-      "fonte": "Il Fatto Quotidiano, Quotidiano Motori",
+      "fonte": "OA Sport, Fanpage",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Jannik Sinner vs Corentin Moutet",
+      "competizione": "Tennis - ATP Masters 1000 Miami 2026 (Terzo Turno)",
+      "canale": "Sky Sport (canali da definire), NOW",
+      "note": "Orario di inizio sessione, il match specifico potrebbe iniziare più tardi. Fuso orario USA, convertito in CET.",
+      "fonte": "Olympics.com, Sportface.it, Sky Sport Arena",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Jasmine Paolini vs Jelena Ostapenko",
+      "competizione": "Tennis - WTA 1000 Miami 2026",
+      "canale": "Sky Sport (canali da definire), NOW",
+      "note": "Orario di inizio sessione, il match specifico potrebbe iniziare più tardi. Fuso orario USA, convertito in CET.",
+      "fonte": "OA Sport, Sportface.it, Sky Sport Arena",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Bolelli/Vavassori vs Arneodo/Ram",
+      "competizione": "Tennis - ATP Masters 1000 Miami 2026 (Doppio)",
+      "canale": "Sky Sport (canali da definire), NOW",
+      "note": "Orario di inizio sessione, il match specifico potrebbe iniziare più tardi. Fuso orario USA, convertito in CET.",
+      "fonte": "OA Sport, Sky Sport Arena",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "00:00* (23-03)",
+      "evento": "Matteo Berrettini vs Valentin Vacherot",
+      "competizione": "Tennis - ATP Masters 1000 Miami 2026 (Sedicesimi di finale)",
+      "canale": "Sky Sport (canali da definire), NOW",
+      "note": "Il match è previsto nella notte italiana tra il 22 e il 23 marzo. Orario stimato di inizio sessione notturna. Fuso orario USA, convertito in CET.",
+      "fonte": "OA Sport, Sky Sport Arena",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
