@@ -1,149 +1,140 @@
 {
-  "last_updated": "2026-03-22T02:11:11.522916+01:00",
+  "last_updated": "2026-03-22T07:37:41.553309+01:00",
   "events": [
+    {
+      "orario": "10:45",
+      "evento": "Super G Maschile",
+      "competizione": "Coppa del Mondo Sci Alpino",
+      "canale": "Rai 2, Eurosport, Discovery+, HBO Max, DAZN",
+      "note": "Gara a Kvitfjell (Norvegia)",
+      "fonte": "Olympics.com, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Super G Femminile",
+      "competizione": "Coppa del Mondo Sci Alpino",
+      "canale": "Rai 2, Eurosport, Discovery+, HBO Max, DAZN",
+      "note": "Con Sofia Goggia. Gara a Kvitfjell (Norvegia)",
+      "fonte": "Olympics.com, Quotidiano Sportivo, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Como-Pisa",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "kisskiss.it, Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
     {
       "orario": "14:40",
       "evento": "Warm-Up MotoGP",
-      "competizione": "MotoGP - GP del Brasile",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, Now",
+      "competizione": "MotoGP - GP Brasile",
+      "canale": "Sky Sport MotoGP, Now",
       "note": "",
-      "fonte": "Moto.it, Il Fatto Quotidiano, OA Sport, MotoGP.com, Guida TV Sky Sport Uno",
+      "fonte": "FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Atalanta-Verona",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "kisskiss.it, Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Bologna-Lazio",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "kisskiss.it, Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
       "evento": "Gara Moto3",
-      "competizione": "MotoGP - GP del Brasile",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, Now",
-      "note": "",
-      "fonte": "Moto.it, Il Fatto Quotidiano, OA Sport, MotoGP.com, Fanpage, Guida TV Sky Sport Uno",
+      "competizione": "MotoGP - GP Brasile",
+      "canale": "Sky Sport MotoGP, Now",
+      "note": "Diretta",
+      "fonte": "FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "ATP & WTA 1000 Miami (3° turno)",
-      "competizione": "Tennis - Miami Open",
-      "canale": "Sky Sport Tennis, SuperTennis",
-      "note": "Con italiani in campo",
-      "fonte": "Tennis in TV, Stasera in TV SuperTennis, Guida TV Sky Sport Uno, Il Fatto Quotidiano",
+      "evento": "ATP Miami (Berrettini)",
+      "competizione": "ATP Masters 1000 Miami",
+      "canale": "Sky Sport, Tennis TV",
+      "note": "Presenza di Matteo Berrettini. Orario stimato per l'inizio del match.",
+      "fonte": "Sportface.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "WTA Miami (Paolini)",
+      "competizione": "WTA 1000 Miami",
+      "canale": "SuperTennis, Sky Sport",
+      "note": "Presenza di Jasmine Paolini. Orario stimato per l'inizio del match.",
+      "fonte": "Sportface.it",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "17:15",
       "evento": "Gara Moto2",
-      "competizione": "MotoGP - GP del Brasile",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, Now",
-      "note": "",
-      "fonte": "Moto.it, Il Fatto Quotidiano, OA Sport, MotoGP.com, Fanpage, Guida TV Sky Sport Uno",
+      "competizione": "MotoGP - GP Brasile",
+      "canale": "Sky Sport MotoGP, Now",
+      "note": "Diretta",
+      "fonte": "Sky Sport, Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Roma-Lecce",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K",
       "note": "",
-      "fonte": "Sky Sport, Idealista, Calcio in tv oggi",
+      "fonte": "Sportface.it, kisskiss.it, Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
+      "orario": "18:35",
       "evento": "Gara Moto3 (Differita)",
-      "competizione": "MotoGP - GP del Brasile",
+      "competizione": "MotoGP - GP Brasile",
       "canale": "TV8",
       "note": "",
-      "fonte": "Moto.it",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
       "evento": "Gara MotoGP",
-      "competizione": "MotoGP - GP del Brasile",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, Now",
-      "note": "",
-      "fonte": "Moto.it, Il Fatto Quotidiano, OA Sport, MotoGP.com, Fanpage, Guida TV Sky Sport Uno",
+      "competizione": "MotoGP - GP Brasile",
+      "canale": "Sky Sport MotoGP, Now, TV8",
+      "note": "Diretta su Sky Sport e Now, differita su TV8.",
+      "fonte": "Sky Sport, Fanpage, inSella, Sportface.it",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:50",
-      "evento": "Gara Moto2 (Differita)",
-      "competizione": "MotoGP - GP del Brasile",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Moto.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "MotoGP Zona Rossa",
-      "competizione": "MotoGP - GP del Brasile",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV, Guida TV Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "WTA 1000 Miami",
-      "competizione": "Tennis - Miami Open",
-      "canale": "SuperTennis",
-      "note": "Con italiane in campo. Inizio blocco partite.",
-      "fonte": "Stasera in TV SuperTennis, Questa sera in tv",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
       "evento": "Fiorentina-Inter",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Idealista, Calcio in tv oggi, Prefetture",
+      "fonte": "Settecalcio.it, Sportface.it, Inter.it, Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "MotoGP - GP del Brasile",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV, Guida TV Sky Sport Uno",
+      "orario": "02:30",
+      "evento": "Mondiali Indoor: Atletica - 3a giornata - sessione serale",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport HD, Sky Sport Arena",
+      "note": "Eventi con atleti italiani (Mattia Furlani, Leonardo Fabbri, Larissa Iapichino, Federico Riva, Ludovica Cavalli, Giada Carmassi, Elisa Di Lazzaro, Sveva Gerevini). Gara a Torun (Polonia).",
+      "fonte": "Rai Sport +HD, OA Sport",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "ATP & WTA 1000 Miami (3° turno)",
-      "competizione": "Tennis - Miami Open",
-      "canale": "Sky Sport Arena",
-      "note": "Con italiani in campo. Inizio blocco partite.",
-      "fonte": "Tennis in TV",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:40",
-      "evento": "Gara MotoGP (Differita)",
-      "competizione": "MotoGP - GP del Brasile",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Questa sera in tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "WTA 1000 Miami",
-      "competizione": "Tennis - Miami Open",
-      "canale": "SuperTennis",
-      "note": "Con italiane in campo. Inizio blocco partite.",
-      "fonte": "Stasera in TV SuperTennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "00:00",
-      "evento": "WTA 1000 Miami",
-      "competizione": "Tennis - Miami Open",
-      "canale": "SuperTennis",
-      "note": "Del giorno successivo (23 marzo). Con italiane in campo. Inizio blocco partite.",
-      "fonte": "Stasera in TV SuperTennis",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
