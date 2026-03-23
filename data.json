@@ -1,49 +1,22 @@
 {
-  "last_updated": "2026-03-23T13:40:01.469648+01:00",
+  "last_updated": "2026-03-23T19:38:33.526770+01:00",
   "events": [
     {
-      "orario": "15:45",
-      "evento": "Studio Tennis",
-      "competizione": "ATP & WTA 1000 Miami 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Programma di approfondimento e pre-partita",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Boca Juniors - Instituto",
-      "competizione": "Liga Profesional Argentina",
-      "canale": "Sportitalia",
-      "note": "Partita del campionato argentino (già 24 marzo CET)",
-      "fonte": "Calcio in tv oggi, 23 marzo 2026: Serie C in primo piano, Fiorentina-Inter, dove vederla in diretta TV: orario, canale, streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "San Diego - Real Salt Lake",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "Partita della Major League Soccer (già 24 marzo CET)",
-      "fonte": "Calcio in tv oggi, 23 marzo 2026: Serie C in primo piano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30*",
-      "evento": "Jannik Sinner vs Corentin Moutet",
-      "competizione": "ATP 1000 Miami - 3° Turno",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis Tv",
-      "note": "Orario stimato (non prima delle 01:30 CET del 24 marzo)",
-      "fonte": "Sinner-Moutet oggi, ATP Miami 2026: orario, tv, programma, streaming",
+      "orario": "22:00*",
+      "evento": "Bolelli/Vavassori vs Etcheverry/Tabilo",
+      "competizione": "ATP Masters 1000 Miami - Doppio",
+      "canale": "Sky Sport Tennis, Sky Sport Arena",
+      "note": "Secondo incontro sul campo",
+      "fonte": "LiveTennis.it, Lottomatica.Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "06:00",
-      "evento": "MotoGP 2026 - GP Brasile: Gara",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara (già 24 marzo CET)",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "orario": "00:00",
+      "evento": "Jannik Sinner vs Corentin Moutet",
+      "competizione": "ATP Masters 1000 Miami - Singolare maschile",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena",
+      "note": "Inizio nella notte tra lunedì 23 e martedì 24 marzo",
+      "fonte": "Lottomatica.Sport, OA Sport",
       "accuratezza_orario": "esatto"
     }
   ]
