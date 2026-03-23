@@ -1,130 +1,31 @@
 {
-  "last_updated": "2026-03-23T02:12:34.092251+01:00",
+  "last_updated": "2026-03-23T07:57:39.644162+01:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Boca Juniors - Instituto",
-      "competizione": "Campionato Argentino",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Libero Magazine",
-      "accuratezza_orario": "esatto"
+      "orario": "01:00*",
+      "evento": "Tennis - ATP Miami Open 2026 (Terzo Turno): Matteo Berrettini vs Valentin Vacherot",
+      "competizione": "ATP Masters 1000 Miami",
+      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Match concluso nelle prime ore del 23 marzo. Orario stimato di inizio.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "00:00",
-      "evento": "San Diego - Real Salt Lake",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 23 marzo 2026: Serie C in primo piano",
-      "accuratezza_orario": "esatto"
+      "orario": "05:00*",
+      "evento": "Tennis - ATP Miami Open 2026 (Terzo Turno): Jannik Sinner vs Corentin Moutet",
+      "competizione": "ATP Masters 1000 Miami",
+      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Prima fascia oraria di inizio match del terzo turno (corrispondente alle 00:00 locali a Miami). L'orario esatto dipenderà dal programma del torneo.",
+      "fonte": "Olympic Channel",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "06:00",
-      "evento": "MotoGP 2026 - GP Brasile: Gara",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:15",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "Approfondimento Motomondiale",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "F2 GP Australia Feature Race '26",
-      "competizione": "Formula 2",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "Programmi Sky Sport F1 23 marzo - Guida Tv - TvBlog",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:15",
-      "evento": "Serie A 2025/2026 - Roma - Lecce (30a g.)",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:45",
-      "evento": "Moto3 2026 - GP Brasile: Gara",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "Moto2 2026 - GP Brasile: Gara",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:45",
-      "evento": "MotoGP 2026 - GP Brasile: Gara",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "Approfondimento Motomondiale",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 23 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "F1 - Giappone 2015",
-      "competizione": "Formula 1 (gara storica)",
-      "canale": "Sky Sport F1",
-      "note": "Replica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.",
-      "fonte": "Programmi Sky Sport F1 23 marzo Sera - Guida Tv - TvBlog",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "F1 - GP Giappone",
-      "competizione": "Formula 1 (gara storica)",
-      "canale": "Sky Sport F1",
-      "note": "Replica (Edizione n.73, 22 gran premi, 20 piloti).",
-      "fonte": "Programmi Sky Sport F1 23 marzo Sera - Guida Tv - TvBlog",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "F1 - Giappone 2019",
-      "competizione": "Formula 1 (gara storica)",
-      "canale": "Sky Sport F1",
-      "note": "Replica (Edizione numero 70 per il mondiale di Formula 1).",
-      "fonte": "Programmi Sky Sport F1 23 marzo Sera - Guida Tv - TvBlog",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Jannik Sinner - 3° turno",
-      "competizione": "Miami Open ATP 1000",
-      "canale": "Sky Sport (es. Sky Sport Uno)",
-      "note": "Primo match della sessione serale sul Campo Centrale. L'orario esatto del match può variare leggermente in base allo svolgimento dei match precedenti.",
-      "fonte": "Calendario del lunedì 23 marzo all'Miami Open 2026: Sinner apre la sessione serale, Sinner al Miami Open 2026: quando gioca, il tabellone e dove vederlo in Tv e streaming",
+      "orario": "21:00*",
+      "evento": "Tennis - ATP Miami Open 2026 (Terzo Turno): Jannik Sinner vs Corentin Moutet",
+      "competizione": "ATP Masters 1000 Miami",
+      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Seconda fascia oraria di inizio match del terzo turno (corrispondente alle 16:00 locali a Miami). L'orario esatto dipenderà dal programma del torneo.",
+      "fonte": "Olympic Channel",
       "accuratezza_orario": "stimato"
     }
   ]
