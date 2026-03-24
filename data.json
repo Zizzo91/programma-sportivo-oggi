@@ -1,58 +1,58 @@
 {
-  "last_updated": "2026-03-24T02:05:45.422937+01:00",
+  "last_updated": "2026-03-24T13:43:55.022603+01:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Serie A 2025/2026 - Roma - Lecce (30a g.)",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:50",
-      "evento": "UEFA Champions League Magazine",
-      "competizione": "Calcio",
+      "orario": "09:00",
+      "evento": "GP Brasile: Gara (Replica)",
+      "competizione": "MotoGP 2026",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "fonte": "Guida TV - Sky Sport Uno",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:00",
-      "evento": "MotoGP 2026 - GP Brasile: gara",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "orario": "09:30",
+      "evento": "Slalom Gigante maschile - 1a manche",
+      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer 2026",
+      "canale": "Rai Sport HD",
+      "note": "Anche su Eurosport, Discovery Plus, HBO Max, DAZN. Partecipazione di italiani (es. Alex Vinatzer, Giovanni Franzoni).",
+      "fonte": "OA Sport, Torino Cronaca, Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Slalom femminile - 1a manche",
+      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer 2026",
+      "canale": "Rai Sport HD",
+      "note": "Anche su Eurosport, Discovery Plus, HBO Max, DAZN. Partecipazione di italiane (es. Anna Trocker, Lara Della Mea).",
+      "fonte": "OA Sport, Torino Cronaca, Super Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "UEFA Champions League Magazine",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "evento": "Slalom Gigante maschile - 2a manche",
+      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer 2026",
+      "canale": "Rai Sport HD",
+      "note": "Anche su Eurosport, Discovery Plus, HBO Max, DAZN. Partecipazione di italiani (es. Alex Vinatzer, Giovanni Franzoni).",
+      "fonte": "OA Sport, Torino Cronaca, Super Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "ATP & WTA 1000 Miami 2026 - 8a giornata",
-      "competizione": "Tennis - Miami Open",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Copertura generale della giornata con presenza di Sinner più tardi. Include match con italiani.",
-      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "orario": "13:30",
+      "evento": "Slalom femminile - 2a manche",
+      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer 2026",
+      "canale": "Rai Sport HD",
+      "note": "Anche su Eurosport, Discovery Plus, HBO Max, DAZN. Partecipazione di italiane (es. Anna Trocker, Lara Della Mea).",
+      "fonte": "OA Sport, Torino Cronaca, Super Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00*",
-      "evento": "ATP & WTA 1000 Miami 2026 - Jannik Sinner vs Alex Michelsen (Ottavi di finale maschili)",
-      "competizione": "Tennis - Miami Open",
+      "evento": "ATP & WTA 1000 Miami - Ottavi di finale (Jannik Sinner vs Alex Michelsen)",
+      "competizione": "Tennis - Miami Open 2026",
       "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Non prima delle 21:00 italiane",
-      "fonte": "ATP/WTA Miami, il programma di martedì 24 marzo: Sinner non prima delle 21 - Ubitennis",
+      "note": "Match di Jannik Sinner, non prima delle 21:00 CET.",
+      "fonte": "Il Fatto Quotidiano, OA Sport",
       "accuratezza_orario": "stimato"
     }
   ]
