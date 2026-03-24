@@ -1,23 +1,59 @@
 {
-  "last_updated": "2026-03-23T19:38:33.526770+01:00",
+  "last_updated": "2026-03-24T02:05:45.422937+01:00",
   "events": [
     {
-      "orario": "22:00*",
-      "evento": "Bolelli/Vavassori vs Etcheverry/Tabilo",
-      "competizione": "ATP Masters 1000 Miami - Doppio",
-      "canale": "Sky Sport Tennis, Sky Sport Arena",
-      "note": "Secondo incontro sul campo",
-      "fonte": "LiveTennis.it, Lottomatica.Sport",
-      "accuratezza_orario": "stimato"
+      "orario": "06:00",
+      "evento": "Serie A 2025/2026 - Roma - Lecce (30a g.)",
+      "competizione": "Calcio - Serie A",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Jannik Sinner vs Corentin Moutet",
-      "competizione": "ATP Masters 1000 Miami - Singolare maschile",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena",
-      "note": "Inizio nella notte tra lunedì 23 e martedì 24 marzo",
-      "fonte": "Lottomatica.Sport, OA Sport",
+      "orario": "07:50",
+      "evento": "UEFA Champions League Magazine",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "MotoGP 2026 - GP Brasile: gara",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "UEFA Champions League Magazine",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "ATP & WTA 1000 Miami 2026 - 8a giornata",
+      "competizione": "Tennis - Miami Open",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Copertura generale della giornata con presenza di Sinner più tardi. Include match con italiani.",
+      "fonte": "Programmi TV del 24 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00*",
+      "evento": "ATP & WTA 1000 Miami 2026 - Jannik Sinner vs Alex Michelsen (Ottavi di finale maschili)",
+      "competizione": "Tennis - Miami Open",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Non prima delle 21:00 italiane",
+      "fonte": "ATP/WTA Miami, il programma di martedì 24 marzo: Sinner non prima delle 21 - Ubitennis",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
