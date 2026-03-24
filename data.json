@@ -1,59 +1,68 @@
 {
-  "last_updated": "2026-03-24T13:43:55.022603+01:00",
+  "last_updated": "2026-03-24T19:46:57.195411+01:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "GP Brasile: Gara (Replica)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV - Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "09:30",
-      "evento": "Slalom Gigante maschile - 1a manche",
-      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer 2026",
-      "canale": "Rai Sport HD",
-      "note": "Anche su Eurosport, Discovery Plus, HBO Max, DAZN. Partecipazione di italiani (es. Alex Vinatzer, Giovanni Franzoni).",
-      "fonte": "OA Sport, Torino Cronaca, Super Guida TV",
+      "evento": "Slalom Gigante Maschile - 1a manche",
+      "competizione": "Sci Alpino: Coppa del Mondo, Finali Lillehammer 2026",
+      "canale": "Eurosport, Rai Sport",
+      "note": "Con atleti italiani tra cui Alex Vinatzer e Giovanni Franzoni.",
+      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:30",
-      "evento": "Slalom femminile - 1a manche",
-      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer 2026",
-      "canale": "Rai Sport HD",
-      "note": "Anche su Eurosport, Discovery Plus, HBO Max, DAZN. Partecipazione di italiane (es. Anna Trocker, Lara Della Mea).",
-      "fonte": "OA Sport, Torino Cronaca, Super Guida TV",
+      "evento": "Slalom Femminile - 1a manche",
+      "competizione": "Sci Alpino: Coppa del Mondo, Finali Lillehammer 2026",
+      "canale": "Eurosport, Rai Sport",
+      "note": "Con atlete italiane tra cui Lara Della Mea e Anna Trocker.",
+      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Slalom Gigante maschile - 2a manche",
-      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer 2026",
-      "canale": "Rai Sport HD",
-      "note": "Anche su Eurosport, Discovery Plus, HBO Max, DAZN. Partecipazione di italiani (es. Alex Vinatzer, Giovanni Franzoni).",
-      "fonte": "OA Sport, Torino Cronaca, Super Guida TV",
+      "evento": "Slalom Gigante Maschile - 2a manche",
+      "competizione": "Sci Alpino: Coppa del Mondo, Finali Lillehammer 2026",
+      "canale": "Eurosport, Rai Sport",
+      "note": "Con atleti italiani tra cui Alex Vinatzer e Giovanni Franzoni.",
+      "fonte": "Sport in tv oggi (martedì 24 marzo): orari e programma",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:30",
-      "evento": "Slalom femminile - 2a manche",
-      "competizione": "Coppa del Mondo Sci Alpino, Finali Lillehammer 2026",
-      "canale": "Rai Sport HD",
-      "note": "Anche su Eurosport, Discovery Plus, HBO Max, DAZN. Partecipazione di italiane (es. Anna Trocker, Lara Della Mea).",
-      "fonte": "OA Sport, Torino Cronaca, Super Guida TV",
+      "evento": "Slalom Femminile - 2a manche",
+      "competizione": "Sci Alpino: Coppa del Mondo, Finali Lillehammer 2026",
+      "canale": "Eurosport, Rai Sport",
+      "note": "Con atlete italiane tra cui Lara Della Mea e Anna Trocker.",
+      "fonte": "Sport in tv oggi (martedì 24 marzo): orari e programma",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00*",
-      "evento": "ATP & WTA 1000 Miami - Ottavi di finale (Jannik Sinner vs Alex Michelsen)",
-      "competizione": "Tennis - Miami Open 2026",
+      "orario": "21:00",
+      "evento": "ATP & WTA 1000 Miami 2026 - 8a giornata",
+      "competizione": "Tennis",
       "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Match di Jannik Sinner, non prima delle 21:00 CET.",
-      "fonte": "Il Fatto Quotidiano, OA Sport",
+      "note": "Con italiani in campo (es. Sinner menzionato). Orario inizio copertura.",
+      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Cleveland-Orlando",
+      "competizione": "NBA",
+      "canale": "Sky Sport Basket",
+      "note": "Parte del palinsesto notturno del 24/03 che si estende al 25/03.",
+      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Phoenix-Denver",
+      "competizione": "NBA",
+      "canale": "Sky Sport Basket",
+      "note": "Parte del palinsesto notturno del 24/03 che si estende al 25/03.",
+      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
