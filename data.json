@@ -1,68 +1,50 @@
 {
-  "last_updated": "2026-03-24T19:46:57.195411+01:00",
+  "last_updated": "2026-03-25T02:10:35.668585+01:00",
   "events": [
     {
       "orario": "09:30",
-      "evento": "Slalom Gigante Maschile - 1a manche",
-      "competizione": "Sci Alpino: Coppa del Mondo, Finali Lillehammer 2026",
-      "canale": "Eurosport, Rai Sport",
-      "note": "Con atleti italiani tra cui Alex Vinatzer e Giovanni Franzoni.",
-      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Slalom Femminile - 1a manche",
-      "competizione": "Sci Alpino: Coppa del Mondo, Finali Lillehammer 2026",
-      "canale": "Eurosport, Rai Sport",
-      "note": "Con atlete italiane tra cui Lara Della Mea e Anna Trocker.",
-      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
+      "evento": "Slalom Gigante Femminile - 1a manche",
+      "competizione": "Coppa del Mondo Sci Alpino",
+      "canale": "Rai Sport HD",
+      "note": "Con Sofia Goggia e altre italiane in gara (Lara Della Mea, Anna Trocker).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRvzJN1ccXH7Krsbc6aOH4zM6nCv1uRRItDBe0RvwBQdX7FcQ5UIugZwW1tlE136Fq_Bu30CvMOAUhcxSx4wtJadQWSL_PGSWMgASOkdiTtXuGiQyZfkRSRJoqRPw_fx6ENVR0VpN_Acyq0MlDFCeE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQhQsyHBtB7iJ-8ZX5Jc5env8ZsF6RQiN0UpWFh_FCJ4YuBeRY-RfSeBf_xhWl0fyVgvq5FZcEhVzMdlY195DchWJRpLejh-ZG37gb8oosfpxsR5ZGp0Ui6g4g_G4HVUsara9ZA057mpaZ7xWpc_UM8X3EycA2iGGQ9lSKiFEe5za7xIfavw2qaUldin1ZOpl526NuRD4q98yzBkETfxjrmQAD3IUCtdq12sDEJCbhwqtFHgXbH-X",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Slalom Gigante Maschile - 2a manche",
-      "competizione": "Sci Alpino: Coppa del Mondo, Finali Lillehammer 2026",
-      "canale": "Eurosport, Rai Sport",
-      "note": "Con atleti italiani tra cui Alex Vinatzer e Giovanni Franzoni.",
-      "fonte": "Sport in tv oggi (martedì 24 marzo): orari e programma",
+      "evento": "Slalom Gigante Femminile - 2a manche",
+      "competizione": "Coppa del Mondo Sci Alpino",
+      "canale": "Rai Sport HD",
+      "note": "Con Sofia Goggia e altre italiane in gara (Lara Della Mea, Anna Trocker).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRvzJN1ccXH7Krsbc6aOH4zM6nCv1uRRItDBe0RvwBQdX7FcQ5UIugZwW1tlE136Fq_Bu30CvMOAUhcxSx4wtJadQWSL_PGSWMgASOkdiTtXuGiQyZfkRSRJoqRPw_fx6ENVR0VpN_Acyq0MlDFCeE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQhQsyHBtB7iJ-8ZX5Jc5env8ZsF6RQiN0UpWFh_FCJ4YuBeRY-RfSeBf_xhWl0fyVgvq5FZcEhVzMdlY195DchWJRpLejh-ZG37gb8oosfpxsR5ZGp0Ui6g4g_G4HVUsara9ZA057mpaZ7xWpc_UM8X3EycA2iGGQ9lSKiFEe5za7xIfavw2qaUldin1ZOpl526NuRD4q98yzBkETfxjrmQAD3IUCtdq12sDEJCbhwqtFHgXbH-X",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Slalom Femminile - 2a manche",
-      "competizione": "Sci Alpino: Coppa del Mondo, Finali Lillehammer 2026",
-      "canale": "Eurosport, Rai Sport",
-      "note": "Con atlete italiane tra cui Lara Della Mea e Anna Trocker.",
-      "fonte": "Sport in tv oggi (martedì 24 marzo): orari e programma",
+      "orario": "14:30",
+      "evento": "Nuova Igea Virtus - Reggina",
+      "competizione": "Serie D",
+      "canale": "TBA (Probabile streaming LND)",
+      "note": "Partita di recupero della 27ª giornata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYrFO9isOe6xc-wj3_GiYgV-cWMLhJfHuqLw3XI94bjXt9TeNB6UyK9kMqAa5WVdfizgJZ5Uhc3z6PFu80nWOBJSWdXGm3QbjmCaMQAgKa5Doko4Qgr3HIHv6hzV-kAPXI1_g3weT3rM-akF7rpQ0TnnGbNPJF97RJ65joh3aPFLUxPcuByBrcItav_ZAHlLl4kSrjoEJyzVifRSUoE1fK31eNpybx2U1Q7xGxrSkxizgkVQL-GRE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdCDB3jexLFJZaNuFWMNL3MjlvhqvAQCBTuuN9B3bri9ucdrvNqw0zlrQV2-EUt8iPlRuSLElmHhAeplWe9LKCJgSk6L54yP6aYKGVfjUh0viezhs8lS7xlMiUn6NPCp59Kn4-xY-ZgT6bD8u1QWN4zwnyXzZA8qdvCBsdkRrUc9Ci027sOentKc5nSlZnYMzRjp7HrzdhJ32KkDpg-w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYrFO9isOe6xc-wj3_GiYgV-cWMLhJfHuqLw3XI94bjXt9TeNB6UyK9kMqAa5WVdfizgJZ5Uhc3z6PFu80nWOBJSWdXGm3QbjmCaMQAgKa5Doko4Qgr3HIHv6hzV-kAPXI1_g3weT3rM-akF7rpQ0TnnGbNPJF97RJ65joh3aPFLUxPcuByBrcItav_ZAHlLl4kSrjoEJyzVifRSUoE1fK31eNpybx2U1Q7xGxrSkxizgkVQL-GRE",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "ATP & WTA 1000 Miami 2026 - 8a giornata",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Con italiani in campo (es. Sinner menzionato). Orario inizio copertura.",
-      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
+      "orario": "17:00*",
+      "evento": "Sara Errani / Jasmine Paolini vs Asia Muhammad / Erin Routliffe",
+      "competizione": "WTA Miami Open 2026 - Doppio (Quarti di finale)",
+      "canale": "Sky Sport Tennis / NOW",
+      "note": "Orario stimato. La sessione sul Grandstand inizia prima sul campo principale (18:00 CET).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvtg8TgbiU6lwb-PQ13Z1L5MgiM7T1gfJszEDC28634XIj4SaVe4k9F25JaUUdRP5-bdAzzrBZPdngnma13nj0tBNIGthvu-DSnaA9yWBe1x3-W5ETCOqx0Awm99TRYzBnvxMR9XimS16MVgrJbwwrpqnOtapXTPXinHbMvhJ1cauEBkBtx5SD8Lp0uqb0AuTGaN0a02Q82BNJKHhXa30yY1BeOXtjZSAz1BY9q2u4M4m21m3Jw97YOQTdgPGUnY20cVlzl6_akSJoCt0X",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "01:00",
-      "evento": "Cleveland-Orlando",
-      "competizione": "NBA",
-      "canale": "Sky Sport Basket",
-      "note": "Parte del palinsesto notturno del 24/03 che si estende al 25/03.",
-      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Phoenix-Denver",
-      "competizione": "NBA",
-      "canale": "Sky Sport Basket",
-      "note": "Parte del palinsesto notturno del 24/03 che si estende al 25/03.",
-      "fonte": "Sport oggi in tv, la programmazione di martedì 24 marzo 2026",
-      "accuratezza_orario": "esatto"
+      "orario": "02:00*",
+      "evento": "Simone Bolelli / Andrea Vavassori vs Christian Harrison / Neal Skupski",
+      "competizione": "ATP Miami Open 2026 - Doppio (Quarti di finale)",
+      "canale": "Sky Sport Tennis / NOW",
+      "note": "Orario stimato. Ultimo match sul Grandstand.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvtg8TgbiU6lwb-PQ13Z1L5MgiM7T1gfJszEDC28634XIj4SaVe4k9F25JaUUdRP5-bdAzzrBZPdngnma13nj0tBNIGthvu-DSnaA9yWBe1x3-W5ETCOqx0Awm99TRYzBnvxMR9XimS16MVgrJbwwrpqnOtapXTPXinHbMvhJ1cauEBkBtx5SD8Lp0uqb0AuTGaN0a02Q82BNJKHhXa30yY1BeOXtjZSAz1BY9q2u4M4m21m3Jw97YOQTdgPGUnY20cVlzl6_akSJoCt0X",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
