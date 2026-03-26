@@ -1,67 +1,94 @@
 {
-  "last_updated": "2026-03-26T13:47:35.712980+01:00",
+  "last_updated": "2026-03-26T19:51:09.715448+01:00",
   "events": [
     {
-      "orario": "16:00",
-      "evento": "Moldavia vs Lituania",
-      "competizione": "Amichevole Internazionale",
-      "canale": "Sky Sport Calcio, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcBh3CN3gDluVnK9TFxQMctHPEsii2YeLR2Hz-gOs_-lp-Ui0gwq5Yr5vtsJGxQ8KoJSg_stMR7T2zObbvll5yaNJoBRLMX76RPnHEvDj9qko0lkGUIxPOj8OVNZeG0-A1MjyG4u8ubbkhLJ3hzggmcpWJd5g--K3Z9wefT6ntb0VoHg4y5_cKIQx5RiWfrKhhhfZMM7Ft0gzOR4rl2G21JVh2vbTuxEiQjVo1mODpfVOEGkjPVrvRs1srGCLCm209Dv5dOD1P",
+      "orario": "13:00",
+      "evento": "F1 GP Giappone: Conferenza Stampa Piloti",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Conferenza stampa piloti in vista del Gran Premio del Giappone.",
+      "fonte": "Sky Sport Motori Weekend (26- 29 Marzo) F1 Giappone, MotoGP USA, SBK Portogallo in streaming NOW - Digital-News",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Turchia vs Romania",
-      "competizione": "Qualificazioni Mondiali 2026 - Playoff",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeRREzfpiDYSYWmndVsQhQfi83NoAeLF7ZfOFjJcBkI9fzGYAXz3qWuMQ-DqOatB78aLgUqQbDroXv2d5rV_bPhvw-NSeFPrGitoiRrybpM075982872VHiV34jHvdwvx0uYTSuMBkYP2NviwDM1IxMcngw4gecjq7p6nUBbEzURnY4uohfO4vC-8Pv8bPrYJRuS03-b6K-Xgl3MzGojCf0bbys92ugnI-xirUi7KeDrxHA3uvpsqgnNeOd9w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "ATP Masters 1000 Miami: Jannik Sinner (ITA) vs Frances Tiafoe (USA) - Quarti di Finale",
-      "competizione": "Tennis - ATP Masters 1000 Miami",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Match di Jannik Sinner. L'orario di inizio può variare leggermente in base ai match precedenti sul campo principale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiqIYteYVkvGlg-wJyPUGt4O7jTWiDesgUmbQ5VWbnexPVeS6-yfrhR7KQPZThMefSwmka8GHF8l-xieeHBHovCTK3LTy1WJJAyqU-Q_i2f0P40gLORAptw49yId6G-3suU1aiwcrIAHvHlhL7NePzkMlQ31ohoX6Zk1e1bDMJ1PoUUbGVFArC-8Pv8bPrYJRuS03-b6K-Xgl3MzGojCf0bbys92ugnI-xirUi7KeDrxHA3uvpsqgnNeOd9w==",
+      "orario": "18:00*",
+      "evento": "Tennis ATP Miami: Jannik Sinner vs Frances Tiafoe",
+      "competizione": "ATP Masters 1000 Miami (Quarti di finale)",
+      "canale": "Sky Sport Tennis, Sky Sport 1",
+      "note": "Quarto di finale di singolare maschile con l'italiano Jannik Sinner. Orario stimato per il primo match della sessione.",
+      "fonte": "Sport in TV oggi, giovedì 26 marzo: da Sinner alla Nazionale gli orari e il programma degli appuntamenti da non perdere - kisskiss.it",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:15",
-      "evento": "Italia U21 vs Macedonia del Nord U21",
+      "evento": "Calcio: Italia U21 vs Macedonia del Nord U21",
       "competizione": "Qualificazioni Europei U21 2027",
       "canale": "Rai 2",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcBh3CN3gDluVnK9TFxQMctHPEsii2YeLR2Hz-gOs_-lp-Ui0gwq5Yr5vtsJGxQ8KoJSg_stMR7T2zObbvll5yaNJoBRLMX76RPnHEvDj9qko0lkGUIxPOj8OVNZeG0-A1MjyG4u8ubbkhLJ3hzggmcpWJd5g--K3Z9wefT6ntb0VoHg4y5_cKIQx5RiWfrKhhhfZMM7Ft0gzOR4rl2G21JVh2vbTuxEiQjVo1mODpfVOEGkjPVrvRs1srGCLCm209Dv5dOD1P",
+      "note": "Partita valida per le qualificazioni agli Europei Under 21 2027.",
+      "fonte": "Sport in TV oggi, giovedì 26 marzo: da Sinner alla Nazionale gli orari e il programma degli appuntamenti da non perdere - kisskiss.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "MotoGP GP Americhe: Conferenza Stampa Piloti",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport MotoGP",
+      "note": "Conferenza stampa piloti in vista del Gran Premio delle Americhe.",
+      "fonte": "Sky Sport Motori Weekend (26- 29 Marzo) F1 Giappone, MotoGP USA, SBK Portogallo in streaming NOW - Digital-News",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Ciclismo: Settimana Internazionale Coppi e Bartali - 2a tappa",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport HD, Rai Play",
+      "note": "Differita della seconda tappa.",
+      "fonte": "Sport in tv oggi (giovedì 26 marzo): orari e programma. Dove vedere gli eventi in streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Basket Eurolega: Olimpia Milano vs Virtus Bologna",
+      "competizione": "Eurolega",
+      "canale": "Sky Sport Basket, Sky Sport 1",
+      "note": "Derby italiano di Eurolega.",
+      "fonte": "Sport in TV oggi, giovedì 26 marzo: da Sinner alla Nazionale gli orari e il programma degli appuntamenti da non perdere - kisskiss.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Italia vs Irlanda del Nord",
-      "competizione": "Qualificazioni Mondiali 2026 - Playoff",
+      "evento": "Calcio: Italia vs Irlanda del Nord",
+      "competizione": "Qualificazioni Mondiali 2026 (Play-off)",
       "canale": "Rai 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeRREzfpiDYSYWmndVsQhQfi83NoAeLF7ZfOFjJcBkI9fzGYAXz3qWuMQ-DqOatB78aLgUqQbDroXv2d5rV_bPhvw-NSeFPrGitoiRrybpM075982872VHiV34jHvdwvx0uYTSuMBkYP2NviwDM1IxMcngw4gecjq7p6nUBbEzURnY4uohfO4vC-8Pv8bPrYJRuS03-b6K-Xgl3MzGojCf0bbys92ugnI-xirUi7KeDrxHA3uvpsqgnNeOd9w==",
+      "note": "Semifinale dei play-off di qualificazione per i Mondiali 2026.",
+      "fonte": "Italia-Irlanda del Nord oggi in tv, Qualificazioni Mondiali calcio 2026: orario, probabili formazioni, streaming - OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Galles vs Bosnia",
-      "competizione": "Qualificazioni Mondiali 2026 - Playoff",
-      "canale": "Sky Sport Max, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcBh3CN3gDluVnK9TFxQMctHPEsii2YeLR2Hz-gOs_-lp-Ui0gwq5Yr5vtsJGxQ8KoJSg_stMR7T2zObbvll5yaNJoBRLMX76RPnHEvDj9qko0lkGUIxPOj8OVNZeG0-A1MjyG4u8ubbkhLJ3hzggmcpWJd5g--K3Z9wefT6ntb0VoHg4y5_cKIQx5RiWfrKhhhfZMM7Ft0gzOR4rl2G21JVh2vbTuxEiQjVo1mODpfVOEGkjPVrvRs1srGCLCm209Dv5dOD1P",
+      "orario": "TBA",
+      "evento": "Tennis ATP Miami: Simone Bolelli / Andrea Vavassori",
+      "competizione": "ATP Masters 1000 Miami (Doppio, Semifinale)",
+      "canale": "Sky Sport",
+      "note": "Semifinale di doppio maschile con la coppia italiana Bolelli/Vavassori. Orario da definire in base ai match precedenti.",
+      "fonte": "ATP Miami 2026, Simone Bolelli ed Andrea Vavassori approdano in semifinale! - OA Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "03:30",
+      "evento": "F1 GP Giappone: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Prima sessione di prove libere del Gran Premio del Giappone. (venerdì 27 marzo)",
+      "fonte": "F1, GP Giappone 2026 a Suzuka: dove vederlo in TV e streaming. Leclerc sfida Mercedes, Antonelli vuole confermarsi - Sportface.it, F1 | Gli orari della diretta dei Gran Premi 2026 - formularace.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Bolivia vs Suriname",
-      "competizione": "Qualificazioni Mondiali 2026 - Playoff",
-      "canale": "DAZN, FIFA+",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcBh3CN3gDluVnK9TFxQMctHPEsii2YeLR2Hz-gOs_-lp-Ui0gwq5Yr5vtsJGxQ8KoJSg_stMR7T2zObbvll5yaNJoBRLMX76RPnHEvDj9qko0lkGUIxPOj8OVNZeG0-A1MjyG4u8ubbkhLJ3hzggmcpWJd5g--K3Z9wefT6ntb0VoHg4y5_cKIQx5RiWfrKhhhfZMM7Ft0gzOR4rl2G21JVh2vbTuxEiQjVo1mODpfVOEGkjPVrvRs1srGCLCm209Dv5dOD1P",
+      "orario": "06:00",
+      "evento": "Ciclismo: Settimana Internazionale Coppi e Bartali - 2a tappa",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport HD",
+      "note": "Replica della seconda tappa. (venerdì 27 marzo)",
+      "fonte": "Programmi TV della notte del 26 Marzo 2026 - Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
