@@ -1,31 +1,67 @@
 {
-  "last_updated": "2026-03-26T02:16:09.968506+01:00",
+  "last_updated": "2026-03-26T07:56:59.375501+01:00",
   "events": [
     {
-      "orario": "20:45",
-      "evento": "Italia - Irlanda del Nord",
-      "competizione": "Qualificazioni Mondiali FIFA 2026 - Playoff Semifinale",
-      "canale": "Rai 1, RaiPlay",
-      "note": "Partita di andata dei playoff per la qualificazione ai Mondiali 2026.",
-      "fonte": "https://www.skysport.it/calcio/mondiali/2026/03/23/italia-playoff-mondiali-2026-calendario-avversarie-date-orari-partite, https://www.olympics.com/it/notizie/italia-irlanda-del-nord-qualificazioni-mondiali-2026-orario-dove-vedere-partita, https://www.rai.it/dl/RaiTV/programmi/media/ContentItem-a1c2d3e4-5f6g-7h8i-9j0k-1l2m3n4o5p6q.html",
+      "orario": "05:05",
+      "evento": "F1 Gran Premio del Giappone: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica di una gara passata del GP del Giappone.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkBgirbpXAPawd9P8CDyCB_wG0YWjP8Y8lVdf2iw1vGYjX_15Kx9t6z5mwPxTha1nhCsa_B5MNkdHTqq3psLVCpAS3eZjdvocGru215ufWv78JLcaXorKqepXOBubK_8HbVJL0KLwDpGJfGg-bbi-SBiJg37pOGtmyM3k-kWjM0pvsqkkiw_VD9FNHDUvOguDOHDb1l5lgGNAwkXS5VUz0XSM=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Settimana Internazionale Coppi e Bartali 2026 - 2a tappa",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport + HD",
-      "note": "Repliche o sintesi della seconda tappa.",
-      "fonte": "https://www.guida.tv/programmi-tv/raisport-hd/2026-03-26",
+      "orario": "07:00",
+      "evento": "F1 Gran Premio del Giappone 2015",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara del Gran Premio del Giappone 2015.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkBgirbpXAPawd9P8CDyCB_wG0YWjP8Y8lVdf2iw1vGYjX_15Kx9t6z5mwPxTha1nhCsa_B5MNkdHTqq3psLVCpAS3eZjdvocGru215ufWv78JLcaXorKqepXOBubK_8HbVJL0KLwDpGJfGg-bbi-SBiJg37pOGtmyM3k-kWjM0pvsqkkiw_VD9FNHDUvOguDOHDb1l5lgGNAwkXS5VUz0XSM=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Settimana Internazionale Coppi e Bartali 2026 - 3a tappa",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport + HD",
-      "note": "Repliche o sintesi della terza tappa.",
-      "fonte": "https://www.guida.tv/programmi-tv/raisport-hd/2026-03-26",
+      "orario": "10:00",
+      "evento": "F1 Gran Premio del Giappone 1989",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara del Gran Premio del Giappone 1989.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW9c4-KlC8vSnpKgq-9wzLoOqjY0XKN0SlHAvCc8iIKB_ztDvzcWWszAuqZU6cE8c3A1OnpUdhl-XPEMsvOz9VTtq7hAjnpOEvjr9xA-Nm8X3kY26PIeQuDqm6kF6MPFFTqlO6jfd6FqooJ3PgeHwEQq4=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "F1 Gran Premio del Giappone: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica di una gara passata del GP del Giappone.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW9c4-KlC8vSnpKgq-9wzLoOqjY0XKN0SlHAvCc8iIKB_ztDvzcWWszAuqZU6cE8c3A1OnpUdhl-XPEMsvOz9VTtq7hAjnpOEvjr9xA-Nm8X3kY26PIeQuDqm6kF6MPFFTqlO6jfd6FqooJ3PgeHwEQq4=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Tennis: Miami Open (Quarti di finale - Sinner vs Tiafoe)",
+      "competizione": "ATP Masters 1000",
+      "canale": "Sky Sport Tennis / NOW",
+      "note": "Jannik Sinner (ITA) contro Frances Tiafoe (USA). Orario stimato basato sull'inizio della sessione diurna locale (13:00 EST, +6 ore per CET).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtM6Azz7A_BJXAsx0HJsRt47eUa2MCaip1ZAcxDM5hp6MYDpvVIu1SZWJUBG2GMpMrZB3lVYSEJTkQKJAxgI84zS1pqibF2uLQQUdVpazBq65wiOi0wQRGe7qa9VlQcpzJTnQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9WsFasVaOwqXtFkG3IMCHx2hEYmb4Z09zEmtCGaCTrdYkR1ttHYUhOpyBNUq0X1Mqg8028An3JQdqgYjf11idjvz9ZVs3hAz91CkArCtgl_zIyUbJjC_uiFI2f3dFR9h-1_RTUI9jmpPhFjcrwhNa7OITSar9_OrOSE99f7qQ6xQgxNk442O6gyFUCVeU9qTWcoqRd_Abxq9tqyaffsTTZvEtyN-3aRLimRn-x5yBDndIdSR8Op3CEVjdVw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00*",
+      "evento": "F1 Gran Premio del Giappone: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica di una gara passata del GP del Giappone. Orario stimato basato sul palinsesto notturno.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCFtR6URfg1CqgJxOLuB-87gAR4mWNhqRig8WQhXlecO5GWVwr_jKHrHdyRaVhttpbnVRqOeiYreORPW_GZ14hj0Jpuka_OBfV1iRiPiaryj3VvgUI5u_t2QwQOoq4P1ltIySolQ==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "03:30",
+      "evento": "F1 Gran Premio del Giappone: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Sessione in diretta.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_sU1cUWKY0ADgHi0HxPcEReHmqPJ2YJ6jvdUWXvhk39DC7Ea1Gt-PiiL7CVo1Wv9NG5msmG3201TUYvqvVJDJj1st7h771xwNTXytkDdUqvslvepqwbCHmCacvkt8bwFl5z0nNSnkeAD4gBuyEXlnGy7cwnhf9WXxmb0RzE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_ODb2zYKljtEAjOtgwZw0NQ9g-D2qTNwDUdfPO84HGzMyvKnbPBt4K-BuFdXXjHWV2Y8rbpC2P177ltNYtkBmOA-A7k7N__0EpIJwvvZKpeOcb42En0uSsKQmpv3xiFhAo1hEQA8XzhMhT_gDUsYLugISrDw2ShUY9uJhbACLPlzYUZ8Q, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRLvJmdp4bCW2ATXMHzacRL9yflqjrB10K97xnvSaWeQi_16j_eQiJhshi1lI2ghPwbTiUlfGZ8EfeVu-2TnnZnd2HMLlsxuxJYZkr39sQJlj8mAt0e-PvjLP9wgRZXvzbG7EXK6LdZmuwipcKyZtDmcR9_ypuDlEM275WSuq-AiwzYqKOlk1UufGKT7fDqKm7olXPAyky9yMYf8g=",
       "accuratezza_orario": "esatto"
     }
   ]
