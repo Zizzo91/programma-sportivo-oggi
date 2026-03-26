@@ -1,67 +1,31 @@
 {
-  "last_updated": "2026-03-25T13:41:31.009247+01:00",
+  "last_updated": "2026-03-26T02:16:09.968506+01:00",
   "events": [
     {
-      "orario": "09:30",
-      "evento": "Gigante femminile, 1a manche",
-      "competizione": "Sci Alpino - Coppa del Mondo (Lillehammer)",
-      "canale": "RaiSportHD, Eurosport 1, Discovery Plus, HBO Max, DAZN",
-      "note": "Sofia Goggia partecipante.",
-      "fonte": "https://www.fanpage.it/sport/sci-alpino-oggi-in-tv-dove-vedere-il-gigante-e-lo-slalom-nelle-finali-di-coppa-del-mondo-a-lillehammer-orari-e-programma/; https://www.olympics.com/it/news/finali-coppa-del-mondo-sci-alpino-2026-programma-classifiche-italia-tv-streaming; https://www.olympisc.com/it/news/sofia-goggia-finali-coppa-del-mondo-sci-alpino-2026-programma-gare; https://www.oasport.it/2026/03/sport-in-tv-oggi-mercoledi-25-marzo-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "orario": "20:45",
+      "evento": "Italia - Irlanda del Nord",
+      "competizione": "Qualificazioni Mondiali FIFA 2026 - Playoff Semifinale",
+      "canale": "Rai 1, RaiPlay",
+      "note": "Partita di andata dei playoff per la qualificazione ai Mondiali 2026.",
+      "fonte": "https://www.skysport.it/calcio/mondiali/2026/03/23/italia-playoff-mondiali-2026-calendario-avversarie-date-orari-partite, https://www.olympics.com/it/notizie/italia-irlanda-del-nord-qualificazioni-mondiali-2026-orario-dove-vedere-partita, https://www.rai.it/dl/RaiTV/programmi/media/ContentItem-a1c2d3e4-5f6g-7h8i-9j0k-1l2m3n4o5p6q.html",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:30",
-      "evento": "Gigante femminile, 2a manche",
-      "competizione": "Sci Alpino - Coppa del Mondo (Lillehammer)",
-      "canale": "RaiSportHD, Eurosport 1, Discovery Plus, HBO Max, DAZN",
-      "note": "Sofia Goggia partecipante.",
-      "fonte": "https://www.fanpage.it/sport/sci-alpino-oggi-in-tv-dove-vedere-il-gigante-e-lo-slalom-nelle-finali-di-coppa-del-mondo-a-lillehammer-orari-e-programma/; https://www.olympics.com/it/news/finali-coppa-del-mondo-sci-alpino-2026-programma-classifiche-italia-tv-streaming; https://www.olympisc.com/it/news/sofia-goggia-finali-coppa-del-mondo-sci-alpino-2026-programma-gare; https://www.oasport.it/2026/03/sport-in-tv-oggi-mercoledi-25-marzo-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Italia-Portogallo Under 17",
-      "competizione": "Qualificazioni Europei U17",
-      "canale": "VIVO AZZURRO TV",
-      "note": "Nazionale giovanile italiana.",
-      "fonte": "https://www.90min.com/it/posts/guida-calcio-tv-dove-vedere-partite-oggi-25-marzo-2026; https://www.calciomagazine.net/calcio-tv-oggi-25-marzo-2026-womens-champions-league-primo-piano-630985; https://www.goal.com/it/liste/guida-tv-calcio-diretta-streaming-dazn-sky-now-rai-mediaset-prime-video-sportitalia-mola/bltc8fe8100e4787a71",
+      "orario": "06:00",
+      "evento": "Settimana Internazionale Coppi e Bartali 2026 - 2a tappa",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport + HD",
+      "note": "Repliche o sintesi della seconda tappa.",
+      "fonte": "https://www.guida.tv/programmi-tv/raisport-hd/2026-03-26",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Quarti di finale doppio femminile (Errani/Paolini vs Muhammad/Routliffe)",
-      "competizione": "WTA 1000 Miami",
-      "canale": "Sky Sport, SuperTennis",
-      "note": "Coppia italiana Errani/Paolini. Inizio programma doppi sul Grandstand.",
-      "fonte": "https://www.oasport.it/2026/03/dove-vedere-in-tv-bolelli-vavassori-harrison-skupski-atp-miami-2026-orario-programma-streaming/; https://www.lapresse.it/sport/tennis/atp-miami-2026-gli-italiani-in-campo-oggi-orario-e-dove-vederli/; https://www.oasport.it/2026/03/atp-e-wta-miami-2026-il-programma-completo-di-mercoledi-25-marzo-giorno-di-riposo-per-sinner-in-campo-bolelli-vavassori-ed-errani-paolini/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00*",
-      "evento": "Quarti di finale doppio maschile (Bolelli/Vavassori vs Harrison/Skupski)",
-      "competizione": "ATP 1000 Miami",
-      "canale": "Sky Sport, Tennis Tv",
-      "note": "Coppia italiana Bolelli/Vavassori. Quarto match a partire dalle 18:00 sul Butch Buchholz, orario stimato dopo altri incontri di doppio.",
-      "fonte": "https://www.oasport.it/2026/03/dove-vedere-in-tv-bolelli-vavassori-harrison-skupski-atp-miami-2026-orario-programma-streaming/; https://www.lapresse.it/sport/tennis/atp-miami-2026-gli-italiani-in-campo-oggi-orario-e-dove-vederli/; https://www.oasport.it/2026/03/atp-e-wta-miami-2026-il-programma-completo-di-mercoledi-25-marzo-giorno-di-riposo-per-sinner-in-campo-bolelli-vavassori-ed-errani-paolini/",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Lindemans Aalst-Allianz Milano (Finale d'andata)",
-      "competizione": "CEV Challenge Cup",
-      "canale": "DAZN",
-      "note": "Allianz Milano è la squadra maschile di Monza (Mint Monza).",
-      "fonte": "https://www.ilgiornaledelsud.it/calcio-tv-oggi-e-non-solo-tutti-gli-eventi-e-gli-orari/; https://www.digital-news.it/news/dazn/59938/guida-tv-dazn-1-canale-214-sky-palinsesto-20-26-marzo-2026",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Scandicci-Numia Vero Volley Milano (Semifinale Scudetto, Gara-3)",
-      "competizione": "Serie A1 Femminile",
-      "canale": "RaiSportHD, Rai Play, VBTV, DAZN",
-      "note": "Numia Vero Volley Milano è la squadra femminile di Monza (Vero Volley Monza).",
-      "fonte": "https://www.oasport.it/2026/03/sport-in-tv-oggi-mercoledi-25-marzo-orari-e-programma-dove-vedere-gli-eventi-in-streaming/; https://www.ilgiornaledelsud.it/calcio-tv-oggi-e-non-solo-tutti-gli-eventi-e-gli-orari/; https://www.staseraintv.com/programmi-rai-sport-hd-oggi.html; https://www.oasport.it/2026/03/dove-vedere-in-tv-scandicci-milano-a1-volley-femminile-2026-orario-gara-3-programma-streaming/",
+      "evento": "Settimana Internazionale Coppi e Bartali 2026 - 3a tappa",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport + HD",
+      "note": "Repliche o sintesi della terza tappa.",
+      "fonte": "https://www.guida.tv/programmi-tv/raisport-hd/2026-03-26",
       "accuratezza_orario": "esatto"
     }
   ]
