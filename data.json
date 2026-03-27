@@ -1,76 +1,94 @@
 {
-  "last_updated": "2026-03-27T07:55:38.683950+01:00",
+  "last_updated": "2026-03-27T13:38:15.624516+01:00",
   "events": [
     {
       "orario": "03:30",
       "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - GP Giappone 2026",
-      "canale": "Sky Sport F1 (207), Sky Sport Uno (201), Sky Sport 4K (213)",
+      "competizione": "Formula 1 GP Giappone",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213), SkyGo, NOW",
       "note": "",
-      "fonte": "F1ingenerale.it, OA Sport",
+      "fonte": "OA Sport, AlVolante, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "07:00",
       "evento": "Prove Libere 2",
-      "competizione": "Formula 1 - GP Giappone 2026",
-      "canale": "Sky Sport F1 (207), Sky Sport Uno (201), Sky Sport 4K (213)",
+      "competizione": "Formula 1 GP Giappone",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213), SkyGo, NOW",
       "note": "",
-      "fonte": "Sky Sport, F1ingenerale.it, OA Sport",
+      "fonte": "OA Sport, AlVolante, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:30",
+      "evento": "Replica Prove Libere 2",
+      "competizione": "Formula 1 GP Giappone",
+      "canale": "Sky Sport F1 HD (207)",
+      "note": "",
+      "fonte": "Guida TV Zam",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Moto3 Prove Libere 1",
+      "competizione": "MotoGP GP USA",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
+      "note": "",
+      "fonte": "OA Sport, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Italia U20-Inghilterra U20",
+      "competizione": "Calcio - Amichevole",
+      "canale": "VIVO AZZURRO TV",
+      "note": "",
+      "fonte": "90Min.com, Calciomagazine.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:50",
+      "evento": "Moto2 Prove Libere 1",
+      "competizione": "MotoGP GP USA",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
+      "note": "",
+      "fonte": "OA Sport, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:45",
-      "evento": "Prove Libere 1",
-      "competizione": "MotoGP - GP USA 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "evento": "MotoGP Prove Libere 1",
+      "competizione": "MotoGP GP USA",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), SkyGo, NOW",
       "note": "",
-      "fonte": "OA Sport, FormulaPassion, Sky Sport, Guida TV",
+      "fonte": "OA Sport, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00*",
-      "evento": "Semifinale doppio: Bolelli/Vavassori (ITA) vs Arends/Smith",
-      "competizione": "Tennis - ATP Miami 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
-      "note": "Secondo match sul Grandstand, orario stimato.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:15",
-      "evento": "Pre-Qualifiche",
-      "competizione": "Moto3 - GP USA 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "orario": "17:30",
+      "evento": "Replica Prove Libere 2",
+      "competizione": "Formula 1 GP Giappone",
+      "canale": "Sky Sport F1 HD (207)",
       "note": "",
-      "fonte": "OA Sport",
+      "fonte": "Guida TV Zam",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Prove",
-      "competizione": "MotoGP - GP USA 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "orario": "18:00",
+      "evento": "Italia U16-Germania U16",
+      "competizione": "Calcio - Amichevole",
+      "canale": "VIVO AZZURRO TV",
       "note": "",
-      "fonte": "FormulaPassion",
+      "fonte": "90Min.com, Calciomagazine.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00*",
-      "evento": "Semifinale singolare: Jannik Sinner (ITA) vs Alexander Zverev",
-      "competizione": "Tennis - ATP Miami 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
-      "note": "Non prima di mezzanotte CET (già 28 marzo).",
-      "fonte": "Ubitennis, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "01:00*",
-      "evento": "Semifinale doppio: Errani/Paolini (ITA) vs Mertens/Zhang",
-      "competizione": "Tennis - WTA Miami 2026",
-      "canale": "Sky Sport Tennis (203)",
-      "note": "Non prima dell'una di notte CET (già 28 marzo, dopo Sinner).",
-      "fonte": "Ubitennis",
+      "evento": "Jannik Sinner vs Alexander Zverev",
+      "competizione": "Tennis - ATP Masters 1000 Miami (Semifinale)",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Go, NOW, Tennis TV",
+      "note": "Non prima delle 20:00 locali a Miami (mezzanotte CET tra ven 27 e sab 28 marzo).",
+      "fonte": "Dolomiti Review, OA Sport, Fanpage, Sky TG24",
       "accuratezza_orario": "stimato"
     }
   ]
