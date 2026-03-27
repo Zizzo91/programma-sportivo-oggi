@@ -1,149 +1,77 @@
 {
-  "last_updated": "2026-03-27T02:15:41.578826+01:00",
+  "last_updated": "2026-03-27T07:55:38.683950+01:00",
   "events": [
     {
-      "orario": "03:00",
-      "evento": "ATP 500 Halle 2025: Alexander Zverev (GER) vs Flavio Cobolli (ITA) - Replica",
-      "competizione": "Tennis ATP 500",
-      "canale": "SuperTennis",
-      "note": "Partita del 2025 in replica",
-      "fonte": "Stasera in TV - Programmi SuperTennis venerdi 27 marzo 2026",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "03:30",
-      "evento": "GP Giappone: Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, NOW",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1 - GP Giappone 2026",
+      "canale": "Sky Sport F1 (207), Sky Sport Uno (201), Sky Sport 4K (213)",
       "note": "",
-      "fonte": "Formula 1 2026, GP del Giappone: orari tv e diretta streaming - L'Automobile - ACI, GP Giappone 2026: orari Sky, NOW e TV8 - FormulaPassion, F1 | GP Giappone 2026: gli orari e come vederlo in TV (Sky e Tv8) e streaming, Formula 1, Gp del Giappone 2026: orari gara in diretta tv e streaming - AlVolante, Oggi le Prove Libere F1 in Giappone – Orari TV Sky e differita TV8 a Suzuka - F1ingenerale",
+      "fonte": "F1ingenerale.it, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "07:00",
-      "evento": "GP Giappone: Prove Libere 2",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, NOW, Sky Sport Uno",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1 - GP Giappone 2026",
+      "canale": "Sky Sport F1 (207), Sky Sport Uno (201), Sky Sport 4K (213)",
       "note": "",
-      "fonte": "Formula 1 2026, GP del Giappone: orari tv e diretta streaming - L'Automobile - ACI, GP Giappone 2026: orari Sky, NOW e TV8 - FormulaPassion, F1 | GP Giappone 2026: gli orari e come vederlo in TV (Sky e Tv8) e streaming, Formula 1, Gp del Giappone 2026: orari gara in diretta tv e streaming - AlVolante, Oggi le Prove Libere F1 in Giappone – Orari TV Sky e differita TV8 a Suzuka - F1ingenerale, Programmi TV del 27 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:55",
-      "evento": "GP Stati Uniti: Moto3 Prove Libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Programmi TV del 27 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "GP Stati Uniti: Moto3 Prove Libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Orari TV GP Americhe 2026: diretta su Sky, differita su TV8 - FormulaPassion, MotoGP GP Usa 2026: pronostici e orari Sprint Race e gara, dove vederle in TV - Virgilio, MotoGP | Ecco gli orari TV di Sky, Now e TV8 del Gran Premio delle Americhe",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "Italia Under 20 - Inghilterra",
-      "competizione": "Calcio - Amichevole Under 20",
-      "canale": "Vivo Azzurro TV",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 27 marzo 2026: Playoff Mondiali in primo piano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:45",
-      "evento": "GP Stati Uniti: Moto2 Prove Libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Programmi TV del 27 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:50",
-      "evento": "GP Stati Uniti: Moto2 Prove Libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Orari TV GP Americhe 2026: diretta su Sky, differita su TV8 - FormulaPassion, MotoGP GP Usa 2026: pronostici e orari Sprint Race e gara, dove vederle in TV - Virgilio, MotoGP | Ecco gli orari TV di Sky, Now e TV8 del Gran Premio delle Americhe",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:40",
-      "evento": "GP Stati Uniti: MotoGP Prove Libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Programmi TV del 27 Marzo 2026 su Sky Sport Uno - Guida TV",
+      "fonte": "Sky Sport, F1ingenerale.it, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:45",
-      "evento": "GP Stati Uniti: MotoGP Prove Libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
+      "evento": "Prove Libere 1",
+      "competizione": "MotoGP - GP USA 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "MotoGP GP Usa 2026: pronostici e orari Sprint Race e gara, dove vederle in TV - Virgilio, MotoGP | Ecco gli orari TV di Sky, Now e TV8 del Gran Premio delle Americhe",
+      "fonte": "OA Sport, FormulaPassion, Sky Sport, Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Italia Under 16 - Germania",
-      "competizione": "Calcio - Amichevole Under 16",
-      "canale": "Vivo Azzurro TV",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 27 marzo 2026: Playoff Mondiali in primo piano",
-      "accuratezza_orario": "esatto"
+      "orario": "18:00*",
+      "evento": "Semifinale doppio: Bolelli/Vavassori (ITA) vs Arends/Smith",
+      "competizione": "Tennis - ATP Miami 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
+      "note": "Secondo match sul Grandstand, orario stimato.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "19:15",
-      "evento": "GP Stati Uniti: Moto3 Pre Qualifiche / Prove",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "evento": "Pre-Qualifiche",
+      "competizione": "Moto3 - GP USA 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "Orari TV GP Americhe 2026: diretta su Sky, differita su TV8 - FormulaPassion, Programmi TV della sera del 27 Marzo 2026 - Guida TV, MotoGP GP Usa 2026: pronostici e orari Sprint Race e gara, dove vederle in TV - Virgilio, MotoGP | Ecco gli orari TV di Sky, Now e TV8 del Gran Premio delle Americhe, MotoGP su TV8, GP USA 2026: orari in chiaro da venerdì a domenica - OA Sport, Programmi TV del 27 Marzo 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:05",
-      "evento": "GP Stati Uniti: Moto2 Pre Qualifiche / Prove",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Orari TV GP Americhe 2026: diretta su Sky, differita su TV8 - FormulaPassion, Programmi TV della sera del 27 Marzo 2026 - Guida TV, MotoGP GP Usa 2026: pronostici e orari Sprint Race e gara, dove vederle in TV - Virgilio, MotoGP | Ecco gli orari TV di Sky, Now e TV8 del Gran Premio delle Americhe, MotoGP su TV8, GP USA 2026: orari in chiaro da venerdì a domenica - OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Inghilterra - Uruguay",
-      "competizione": "Calcio - Amichevole Internazionale",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 27 marzo 2026: Playoff Mondiali in primo piano",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "GP Stati Uniti: MotoGP Pre Qualifiche / Prove",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "evento": "Prove",
+      "competizione": "MotoGP - GP USA 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "Orari TV GP Americhe 2026: diretta su Sky, differita su TV8 - FormulaPassion, Programmi TV della sera del 27 Marzo 2026 - Guida TV, MotoGP GP Usa 2026: pronostici e orari Sprint Race e gara, dove vederle in TV - Virgilio, MotoGP | Ecco gli orari TV di Sky, Now e TV8 del Gran Premio delle Americhe, MotoGP su TV8, GP USA 2026: orari in chiaro da venerdì a domenica - OA Sport",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "ATP Miami: Semifinale singolare maschile (Jannik Sinner vs Zverev/Cerundolo)",
-      "competizione": "Tennis ATP Masters 1000",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Orario italiano di sabato 28 marzo. Avversario da definire.",
-      "fonte": "ATP Miami 2026, quando si giocano semifinali e finale: orari, tv, programma, streaming, Quando si giocano le semifinali a Miami: sera o notte per l'Italia, la guida tv e streaming, Sinner in semifinale a Miami: quando gioca e dove vederlo in tv, Quando gioca Sinner la semifinale a Miami? Avversario e orario definito - OA Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "00:00*",
+      "evento": "Semifinale singolare: Jannik Sinner (ITA) vs Alexander Zverev",
+      "competizione": "Tennis - ATP Miami 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
+      "note": "Non prima di mezzanotte CET (già 28 marzo).",
+      "fonte": "Ubitennis, OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:00*",
+      "evento": "Semifinale doppio: Errani/Paolini (ITA) vs Mertens/Zhang",
+      "competizione": "Tennis - WTA Miami 2026",
+      "canale": "Sky Sport Tennis (203)",
+      "note": "Non prima dell'una di notte CET (già 28 marzo, dopo Sinner).",
+      "fonte": "Ubitennis",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
