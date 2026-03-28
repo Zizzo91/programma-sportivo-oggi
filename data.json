@@ -1,104 +1,149 @@
 {
-  "last_updated": "2026-03-28T02:09:14.942421+01:00",
+  "last_updated": "2026-03-28T07:44:50.992338+01:00",
   "events": [
     {
       "orario": "03:30",
-      "evento": "Formula 1 - GP Giappone: Prove Libere 3",
-      "competizione": "Formula 1",
+      "evento": "Formula 1: Prove Libere 3",
+      "competizione": "F1 GP Giappone 2026",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Settimana Internazionale Coppi e Bartali 2026 - 4a tappa",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "Guida TV - Stasera in TV",
+      "fonte": "OA Sport, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "07:00",
-      "evento": "Formula 1 - GP Giappone: Qualifiche",
-      "competizione": "Formula 1",
+      "evento": "Formula 1: Qualifiche",
+      "competizione": "F1 GP Giappone 2026",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "Sky Sport",
+      "fonte": "OA Sport, FormulaPassion, Guida TV Sky Sport F1 HD",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "07:00",
-      "evento": "TG Sport Mattina",
-      "competizione": "Notiziario Sportivo",
-      "canale": "Rai Sport HD",
+      "orario": "11:40",
+      "evento": "Formula 1: Qualifiche (Replica)",
+      "competizione": "F1 GP Giappone 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Guida TV - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:30",
-      "evento": "ISU World Figure Skating Championships 2026 - Rhythm Dance (da Praga)",
-      "competizione": "Pattinaggio di Figura",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "Guida TV - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:30",
-      "evento": "Sci di fondo",
-      "competizione": "Sci di Fondo",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "Guida TV - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "Coppa del Mondo 2025/2026 - Gallivare: Skicross - gara 1",
-      "competizione": "Skicross",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "Guida TV - Stasera in TV",
+      "fonte": "Guida TV Sky Sport F1 HD",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00",
-      "evento": "Formula 1 - GP Giappone: Qualifiche (Replica)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
+      "evento": "Formula 1: Qualifiche (Differita)",
+      "competizione": "F1 GP Giappone 2026",
+      "canale": "TV8, tv8.it",
       "note": "",
-      "fonte": "Stasera in TV - TV8",
+      "fonte": "Formula 1 in TV, F1inGenerale",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:45",
-      "evento": "MotoGP - GP Stati Uniti: Qualifiche",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "Diretta. Orario di inizio effettivo della trasmissione su TV8, le qualifiche su Sky Sport MotoGP iniziano alle 16:50",
-      "fonte": "Stasera in TV - TV8",
+      "orario": "14:30",
+      "evento": "Formula 1: Qualifiche (Replica)",
+      "competizione": "F1 GP Giappone 2026",
+      "canale": "Sky Sport 4K",
+      "note": "",
+      "fonte": "Guida TvBlog Sky Sport 4k",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:40",
+      "evento": "Moto3: Prove 2",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:25",
+      "evento": "Moto2: Prove 2",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:10",
+      "evento": "MotoGP: Prove Libere 2",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "OA Sport, Adnkronos, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:50",
+      "evento": "MotoGP: Qualifiche Q1",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:15",
+      "evento": "MotoGP: Qualifiche Q2",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:50",
+      "evento": "Moto3: Qualifiche Q1",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:15",
+      "evento": "Moto3: Qualifiche Q2",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Moto2: Qualifiche Q1",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:10",
+      "evento": "Moto2: Qualifiche Q2",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "MotoGP - GP Stati Uniti: Sprint Race",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "Diretta",
-      "fonte": "Stasera in TV - TV8",
+      "evento": "MotoGP: Sprint Race (10 giri)",
+      "competizione": "MotoGP GP USA 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "OA Sport, Adnkronos, FormulaPassion, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Calcio Weekend Live",
-      "competizione": "Approfondimento Calcistico",
-      "canale": "Sportitalia",
-      "note": "Programma di approfondimento sul fine settimana calcistico",
-      "fonte": "Stasera in TV - SportItalia",
-      "accuratezza_orario": "esatto"
+      "orario": "21:00*",
+      "evento": "Tennis: Finale Doppio Maschile (Bolelli/Vavassori)",
+      "competizione": "ATP Masters 1000 Miami Open 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Orario stimato, potrebbe variare in base alla programmazione del torneo e all'esito dei match precedenti.",
+      "fonte": "OA Sport, Sport in tv oggi",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
