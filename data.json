@@ -1,184 +1,121 @@
 {
-  "last_updated": "2026-03-29T14:31:43.907272+02:00",
+  "last_updated": "2026-03-29T20:26:54.738521+02:00",
   "events": [
     {
-      "orario": "05:30",
-      "evento": "F1 Paddock Live Pre Gara",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGAdy10Z0tSGCGXN6sV9vnC7TNifR_v__icc08tJl49sleb2ZXuNj31_0zg0Eecbg-Niqzx8dbbWU8-HUTutwZDC6OlkL66cmtMKTxMlGelQIzzRdq5SpdWN-j9uFYUcXll_2CWti6jCyWI-YQeWp44S7IYpnYcHW1KVomp2WSb-6fnx1ZrYLZv1hOLnS5tdPa8wnRTIBKCuy2_auIgjAqA4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "F1 Gara: GP Giappone",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-QlgMaUPWLNrkRrm8EwaAbdHehsyq1q50HYUjHRtVxZvmfftica69rRnyT98ZeWrVhrwBB9o2V3SquSXWbcrTjhoBXgQO5U0g3otaYbx9kj2rzlajcObCyUFTXWZUZWX-DFiBggkhMGNRNpICwrPJIL5Agy4ESLyNzzLBdrapYX0Uzkj3PJVUmmbAxL33yvrG6Oxn8hngqJCe6a4n-LXF04B5ZVdhQMDE4Sw6pB9J1lbc5uVxCUCNpy_dPew=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOSTBrPl_47TBkn_5-e67bnJ5HGMQjLT768ETf_mFf8CX-pTShoZvvzQ45brzQKr8v00C1UGZbBbNtW63WYI_jgSFM7ra9MTt4bEFX61nOTnvO7Jt80qapwvDkGtY2hiwUwGFaGaZ6QVVJZ7L5bv6w9M6pdssc2SNScuFAE4e8UkvR7kg1Nzz9U8jJp4XhHDs1Xr-fz7wIte-m2EohWRPwCa5QplEqZn_O9AWnFjTTzGzlY004aFKfXGToO-Tc2KRCteKR8caA7qKCI_J0-JtojsdKnBmbZqXR800XioiYfSmpc0aTJtYkq7yJ46ugOlP82ec=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:05",
-      "evento": "F1 Paddock Live Post Gara",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGAdy10Z0tSGCGXN6sV1vnC7TNifR_v__icc08tJl49sleb2ZXuNj31_0zg0Eecbg-Niqzx8dbbWU8-HUTutwZDC6OlkL66cmtMKTxMlGelQIzzRdq5SpdWN-j9uFYUcXll_2CWti6jCyWI-YQeWp44S7IYpnYcHW1KVomp2WSb-6fnx1ZrYLZv1hOLnS5tdPa8wnRTIBKCuy2_auIgjAqA4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:30",
-      "evento": "F1 Debriefing",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGAdy10Z0tSGCGXN6sV1vnC7TNifR_v__icc08tJl49sleb2ZXuNj31_0zg0Eecbg-Niqzx8dbbWU8-HUTutwZDC6OlkL66cmtMKTxMlGelQIzzRdq5SpdWN-j9uFYUcXll_2CWti6jCyWI-YQeWp44S7IYpnYcHW1KVomp2WSb-6fnx1ZrYLZv1hOLnS5tdPa8wnRTIBKCuy2_auIgjAqA4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "F1 Notebook",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGAdy10Z0tSGCGXN6sV1vnC7TNifR_v__icc08tJl49sleb2ZXuNj31_0zg0Eecbg-Niqzx8dbbWU8-HUTutwZDC6OlkL66cmtMKTxMlGelQIzzRdq5SpdWN-j9uFYUcXll_2CWti6jCyWI-YQeWp44S7IYpnYcHW1KVomp2WSb-6fnx1ZrYLZv1hOLnS5tdPa8wnRTIBKCuy2_auIgjAqA4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:15",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGAdy10Z0tSGCGXN6sV1vnC7TNifR_v__icc08tJl49sleb2ZXuNj31_0zg0Eecbg-Niqzx8dbbWU8-HUTutwZDC6OlkL66cmtMKTxMlGelQIzzRdq5SpdWN-j9uFYUcXll_2CWti6jCyWI-YQeWp44S7IYpnYcHW1KVomp2WSb-6fnx1ZrYLZv1hOLnS5tdPa8wnRTIBKCuy2_auIgjAqA4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "F1 Gara: GP Giappone",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGAdy10Z0tSGCGXN6sV1vnC7TNifR_v__icc08tJl49sleb2ZXuNj31_0zg0Eecbg-Niqzx8dbbWU8-HUTutwZDC6OlkL66cmtMKTxMlGelQIzzRdq5SpdWN-j9uFYUcXll_2CWti6jCyWI-YQeWp44S7IYpnYcHW1KVomp2WSb-6fnx1ZrYLZv1hOLnS5tdPa8wnRTIBKCuy2_auIgjAqA4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGAdy10Z0tSGCGXN6sV1vnC7TNifR_v__icc08tJl49sleb2ZXuNj31_0zg0Eecbg-Niqzx8dbbWU8-HUTutwZDC6OlkL66cmtMKTxMlGelQIzzRdq5SpdWN-j9uFYUcXll_2CWti6jCyWI-YQeWp44S7IYpnYcHW1KVomp2WSb-6fnx1ZrYLZv1hOLnS5tdPa8wnRTIBKCuy2_auIgjAqA4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "14:15",
-      "evento": "F1 Gara: GP Giappone",
-      "competizione": "Formula 1 - GP Giappone",
+      "evento": "Gran Premio del Giappone: Gara (Differita)",
+      "competizione": "Formula 1",
       "canale": "TV8",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOSTBrPl_47TBkn_5-e67bnJ5HGMQjLT768ETf_mFf8CX-pTShoZvvzQ45brzQKr8v00C1UGZbBbNtW63WYI_jgSFM7ra9MTt4bEFX61nOTnvO7Jt80qapwvDkGtY2hiwUwGFaGaZ6QVVJZ7L5bv6w9M6pdssc2SNScuFAE4e8UkvR7kg1Nzz9U8jJp4XhHDs1Xr-fz7wIte-m2EohWRPwCa5QplEqZn_O9AWnFjTTzGzlY004aFKfXGToO-Tc2KRCteKR8caA7qKCI_J0-JtojsdKnBmbZqXR800XioiYfSmpc0aTJtYkq7yJ46ugOlP82ec=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Athletic Palermo – Reggina",
-      "competizione": "Calcio - Serie D",
-      "canale": "",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTctqTPG_hF8tkkZFDGX-9f10ZocvD-oMtP8Z-88h124sYD2XfOJFUKrncwfYr4NpOTPlchChcEOeYcUMYwX2tUHTEHCWxPzDnpB2kmfPzY1HBRiBRnxvFRy4981Sw, https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQHDzYfT7OrWieSGUNdkxfG4XmyKzO_fEWLeoHk7N5Z1OxpI4HdeAa9baAju___eP7E1zz4lgPVQq9eNhSsqb5lYf8rK-vYQIHM54RvUjcJHG5il0u83Hs7b2u-NF0Gv8Gys0HumdPdyBqY7zARavA3IJMxdcwwJu4cxPD4iQg=",
+      "fonte": "OA Sport, L'Automobile, AlVolante, Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Inter-Roma",
-      "competizione": "Calcio - Coppa Italia Femminile",
+      "evento": "Inter - Roma",
+      "competizione": "Coppa Italia Femminile",
       "canale": "Sky Sport Calcio, NOW",
-      "note": "Semifinale",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrtqY15SOL8ABnJOlaDKcc_xpty5KpOb6W0bFTtFx1Hug-J77l6FoQaX6n9dzfPQVCBuLouHD52m7bvOLcgdy8qddD8bY2GilIMp7rKZz2KM-hfd3pJVCE30Eop_rPKcRg89nhE0bgw0S-frWYJaW6_4uAAuqLIgq9kVtBm-SLiAiaetdlyxcUq5vZyRlAPg5VEQYQOt0=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Lituania-Georgia",
-      "competizione": "Calcio - Amichevoli Nazionali",
-      "canale": "Sky Sport Mix, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrtqY15SOL8ABnJOlaDKcc_xpty5KpOb6W0bFTtFx1Hug-J77l6FoQaX6n9dzfPQVCBuLouHD52m7bvOLcgdy8qddD8bY2GilIMp7rKZz2KM-hfd3pJVCE30Eop_rPKcWa6_4uAAuqLIgq9kVtBm-SLiAiaetdlyxcUq5vZyRlAPg5VEQYQOt0=",
+      "fonte": "90Min.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "F1 Gara: GP Giappone",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGAdy10Z0tSGCGXN6sV1vnC7TNifR_v__icc08tJl49sleb2ZXuNj31_0zg0Eecbg-Niqzx8dbbWU8-HUTutwZDC6OlkL66cmtMKTxMlGelQIzzRdq5SpdWN-j9uFYUcXll_2CWti6jCyWI-YQeWp44S7IYpnYcHW1KVomp2WSb-6fnx1ZrYLZv1hOLnS5tdPa8wnRTIBKCuy2_auIgjAqA4=",
+      "evento": "F1 Podio",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Approfondimento post gara",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:40",
+      "evento": "Warm-Up MotoGP",
+      "competizione": "MotoGP GP USA",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "Virgilio, Il Fatto Quotidiano, Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Juventus-Fiorentina",
-      "competizione": "Calcio - Coppa Italia Femminile",
+      "evento": "Juventus - Fiorentina",
+      "competizione": "Coppa Italia Femminile",
       "canale": "Sky Sport Calcio, NOW",
-      "note": "Semifinale",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrtqY15SOL8ABnJOlaDKcc_xpty5KpOb6W0bFTtFx1Hug-J77l6FoQaX6n9dzfPQVCBuLouHD52m7bvOLcgdy8qddD8bY2GilIMp7rKZz2KM-hfd3pJVCE30Eop_rPKcRg89nhE0bgw0S-frWYJaW6_4uAAuqLIgq9kVtBm-SLiAiaetdlyxcUq5vZyRlAPg5VEQYQOt0=",
+      "note": "",
+      "fonte": "90Min.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Sara Errani/Jasmine Paolini vs Katerina Siniakova/Taylor Townsend",
-      "competizione": "Tennis - WTA Miami - Finale Doppio",
-      "canale": "Sky Sport Tennis (203), SuperTennis HD",
-      "note": "Con giocatrici italiane",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVNG23fCzD6fMV386vSwfDSOIavebzS25qnxkzi1ujDUUwp3UqpXzlP2HkAcHXILcM2HQiuOqakk31a85i6cJP8k5uWnnRdPBQLiA834g3_TJhvMGcWFksW5QPixbxNZYjB2sHyMk6EF5WUSAVD5hOZIzjjfN-Jlrzl7MJOfc0ef_7ElMqbWSAqXzgleCezSqyz_UWXPOU2mrGZy70veZY58ULlzE22DD2hTNYt0w8Aw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEn09XIp9S_6D39HuLN-aMlJoVU7DIOp5wAFhy9z9nCQHUuHEcyc0vRlVc63e24RUhGmWYYfHEsQcar-1hELqJ6622rbg-7VHLjyxK2m1G5nfddBdO3pE6jtwr3tKeoWQMm6BPqa9Cju2oQwXD4HZAR7Af",
+      "evento": "Errani/Paolini - Siniakova/Townsend (Finale Doppio Femminile)",
+      "competizione": "WTA Miami",
+      "canale": "Sky Sport Tennis, SuperTennis HD",
+      "note": "Match con giocatrici italiane",
+      "fonte": "OA Sport, Ubitennis, Lottomatica.Sport, LiveTennis.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:25",
-      "evento": "Vero Volley Milano vs Scandicci",
-      "competizione": "Volley - Serie A1 Femminile (Playoff Semifinale Gara 4)",
-      "canale": "Raisport HD",
-      "note": "Squadra del Consorzio Vero Volley",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEl3wNuvrSML8DMO24nMbRtUdPabtbyEJU6waf91mDNmrMENUmZsv3GKXE3Qa0UyqQfxy_UVd9Rq3MuoHKhjL8w2fV59u7T-JJzlcZD-BLsIckZ3XgbK0VpwFP1zquRMoblBdIWcFOTutDmCz-OUkzzEv0n3G688xUXI8UEq4BectLxuMbWaxygVHyFQi63v3-RlOQ_KJOlWU9kDJ9H97y6dVH2yLD5F8EFpOt968=",
+      "orario": "19:00",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP GP USA",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "Virgilio, Il Fatto Quotidiano, Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Jannik Sinner vs Jiri Lehecka",
-      "competizione": "Tennis - ATP Miami - Finale",
-      "canale": "Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
-      "note": "Con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVNG23fCzD6fMV386vSwfDSOIavebzS25qnxkzi1ujDUUwp3UqpXzlP2HkAcHXILcM2HQiuOqakk31a85i6cJP8k5uWnnRdPBQLiA834g3_TJhvMGcWFksW5QPixbxNZYjB2sHyMk6EF5WUSAVD5hOZIzjjfN-Jlrzl7MJOfc0ef_7ElMqbWSAqXzgleCezSqyz_UWXPOU2mrGZy70veZY58ULlzE22DD2hTNYt0w8Aw=",
+      "orario": "20:15",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP GP USA",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "Virgilio, Il Fatto Quotidiano, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:15",
+      "evento": "Gara Moto3 (Differita)",
+      "competizione": "MotoGP GP USA",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "Virgilio, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00*",
+      "evento": "Jannik Sinner - Jiri Lehecka (Finale Singolare Maschile)",
+      "competizione": "ATP Miami",
+      "canale": "Sky Sport Tennis, SuperTennis HD",
+      "note": "Match con giocatore italiano. Orario stimato, non prima delle 21:00 CET.",
+      "fonte": "Ubitennis, Lottomatica.Sport, LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Gara Moto2 (Differita)",
+      "competizione": "MotoGP GP USA",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "Virgilio, Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "MotoGP Gara: GP USA",
-      "competizione": "MotoGP - GP USA",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-QlgMaUPWLNrkRrm8EwaAbdHehsyq1q50HYUjHRtVxZvmfftica69rRnyT98ZeWrVhrwBB9o2V3SquSXWbcrTjhoBXgQO5U0g3otaYbx9kj2rzlajcObCyUFTXWZUZWX-DFiBggkhMGNRNpICwrPJIL5Agy4ESLyNzzLBdrapYX0Uzkj3PJVUmmbAxL33yvrG6Oxn8hngqJCe6a4n-LXF04B5ZVdhQMDE4Sw6pB9J1lbc5uVxCUCNpy_dPew=",
+      "evento": "Gara MotoGP",
+      "competizione": "MotoGP GP USA",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "OA Sport, Virgilio, Sport in tv oggi, Il Fatto Quotidiano, Moto.it, HDBlog",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "MotoGP - GP USA",
-      "canale": "Sky Sport Uno",
-      "note": "Giorno successivo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpv7dTw8Ui0KiKxUDj_gJ1qtZqKGCuBHMdOdXN-NQsheEb5PhS9AklIN8ITQfk98DoKlaq5sAaOORcFDSeLxuP5KdubjX4jyQy85qqLnwruKwGNZi5iIv1sG0I93K1rtgmqz09QgE_lecNQyWjUuwzwN65CIMVT34",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Mondiale Formula 1 2026-GP Giappone: Gara",
-      "competizione": "Formula 1 - GP Giappone",
-      "canale": "Sky Sport Uno",
-      "note": "Replica, Giorno successivo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpv7dTw8Ui0KiKxUDj_gJ1qtZqKGCuBHMdOdXN-NQsheEb5PhS9AklIN8ITQfk98DoKlaq5sAaOORcFDSeLxuP5KdubjX4jyQy85qqLnwruKwGNZi5iIv1sG0I93K1rtgmqz09QgE_lecNQyWjUuwzwN65CIMVT34",
+      "orario": "23:00",
+      "evento": "Gara MotoGP (Differita)",
+      "competizione": "MotoGP GP USA",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "Virgilio, OA Sport, Il Fatto Quotidiano, Moto.it",
       "accuratezza_orario": "esatto"
     }
   ]
