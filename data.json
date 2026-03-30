@@ -1,139 +1,58 @@
 {
-  "last_updated": "2026-03-30T09:16:11.822217+02:00",
+  "last_updated": "2026-03-30T20:45:09.937778+02:00",
   "events": [
     {
-      "orario": "00:35",
-      "evento": "Formula 1 - GP Giappone: Gara (Replica)",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAEFADiAKZpW6BL44wM_fibAwYzqro0w6CIrmUFf0SRuPQbpQvtUycxpP6ARAKNpD6XmVagFGXA5hvYIf7pj8o0SFy_YkCYt82_R_tfY7Npykj5iGmDhs-6flUe-5LtbsBgRRaSj25psDaJMNRa0JxX7PecVFAlMRIL5yfq0N7hCwJnpP71GFlNwhmG2YAQ-wwZwhKE7XdGKOr-oE8dt66zag=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Formula 1 - GP Giappone: Gara (Replica)",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAEFADiAKZpW6BL44wM_fibAwYzqro0w6CIrmUFf0SRuPQbpQvtUycxpP6ARAKNpD6XmVagFGXA5hvYIf7pj8o0SFy_YkCYt82_R_tfY7Npykj5iGmDhs-6flUe-5LtbsBgRRaSj25psDaJMNRa0JxX7PecVFAlMRIL5yfq0N7hCwJnpP71GFlNwhmG2YAQ-wwZwhKE7XdGKOr-oE8dt66zag=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Tennis - WTA 250 Bogota: Primo Turno (Differita)",
-      "competizione": "WTA Tour 2026",
-      "canale": "SuperTennis",
-      "note": "Lucia Bronzetti in gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ0hU9qhR0H-G7OHgL3acU9bKwVpYbYQJLDYRpq1Sp0uQVIDFfDAYcntstNnFWqmlDeXI7630aMLikgTPZrCRTHBbI07_QymPKUM9JzKEBPkWub1T7BZeBgJtsHBtgiYIKadoZ54Hp1-SpvIUkEtsXykTylKAT4txfB4dbbS8BhSPDufyGhg=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Tennis - ATP 1000 Miami: Finale (Replica)",
-      "competizione": "ATP Tour 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Jannik Sinner in gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrek8iPBNf5idGY1HcblI2x5dbDH9U8Pxs25IU98dpDYg6V9pj70Yhuehx42b9SwkIyWT-5GLkC8QcxarRM3WtDVjbHgEBgIMxCQMiRG-BKCT-KjHLTi8ARLxtIYkVorY8mftTAaMBv1oAuoToPWlbH9BP5MMAATPn3g=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Tennis - ATP 1000 Miami: Finale (Replica)",
-      "competizione": "ATP Tour 2026",
-      "canale": "Sky Sports Tennis HD",
-      "note": "Jannik Sinner in gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMfkAG6gDYWjYrH-NJOruyrJvxDltfOGcTJqyF93P9K067vWANgC5_qp9bEb7NDiEOa5nBplSTwMwnz-KwynGtjdhbw0oOrEoKa37YN0lYGdLGUUPVj6U64UJqaXPYpU7C_dHBNWbm1WnT-MMa-Ma5A2rRyrc=",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "08:00",
-      "evento": "Formula 1 - GP Giappone: Gara (Replica)",
-      "competizione": "Campionato del Mondo Formula 1 2026",
+      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrek8iPBNf5idGY1HcblI2x5dbDH9U8Pxs25IU98dpDYg6V9pj70Yhuehx42b9SwkIyWT-5GLkC8QcxarRM3WtDVjbHgEBgIMxCQMiRG-BKCT-KjHLTi8ARLxtIYkVorY8mftTAaMBv1oAuoToPWlbH9BP5MMAATPn3g=",
+      "note": "Replica della gara disputata il 29/03/2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ42ENnTr-xUnO8r9Ts0QoBTJobKva7NnXewbvughbmhORYk68noMGlen-YE1gOuYuE-jQtmV2OpEbNgjku15HhuUe9M9Trf2YwDAoT2V5E5kT4UDiCd5FMCOEJT-ckLAb956FmVIkSJILWU12WY3ZPdQc7qIN6Edn",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:30",
-      "evento": "Tennis - WTA 1000 Miami: Finale (Replica)",
-      "competizione": "WTA Tour 2026",
-      "canale": "Sky Sports Tennis HD",
-      "note": "Finale doppio con Errani/Paolini",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMfkAG6gDYWjYrH-NJOruyrJvxDltfOGcTJqyF93P9K067vWANgC5_qp9bEb7NDiEOa5nBplSTwMwnz-KwynGtjdhbw0oOrEoKa37YN0lYGdLGUUPVj6U64UJqaXPYpU7C_dHBNWbm1WnT-MMa-Ma5A2rRyrc=",
+      "orario": "10:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento e analisi post-gara del GP Giappone.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ42ENnTr-xUnO8r9Ts0QoBTJobKva7NnXewbvughbmhORYk68noMGlen-YE1gOuYuE-jQtmV2OpEbNgjku15HhuUe9M9Trf2YwDAoT2V5E5kT4UDiCd5FMCOEJT-ckLAb956FmVIkSJILWU12WY3ZPdQc7qIN6Edn",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Tennis - ATP 250 Marrakech: Primo Turno",
-      "competizione": "ATP Tour 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Luciano Darderi, Lorenzo Sonego, Matteo Berrettini, Federico Cinà, Mattia Bellucci, Francesco Passaro, Luca Nardi, Andrea Pellegrino in gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCnh67-DeZ0skekiAYWAmb-3WCHi5qHEplfbyUxQAjPIPE89hyuOULxIBqV6lNksJSe41ekQONXvY5B5kkW8-a1d-gZ3MWh3GtKbW-VyxksrmZMOGsneDDlpXnR0XPhUxEmFR6VaZXOuFsdc1e0vhY0V8ix-FTB2B2FutEAjX6etMG-iyKnGw8JyLnzufHqw2RTqaJ9lp6rVuFSMDS9sYq9r1LdG4XENnqm2IGhstwHzgsO7czi055wg=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Tennis - WTA 500 Charleston: Primo Turno",
-      "competizione": "WTA Tour 2026",
-      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Elisabetta Cocciaretto in gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCnh67-DeZ0skekiAYWAmb-3WCHi5qHEplfbyUxQAjPIPE89hyuOULxIBqV6lNksJSe41ekQONXvY5B5kkW8-a1d-gZ3MWh3GtKbW-VyxksrmZMOGsneDDlpXnR0XPhUxEmFR6VaZXOuFsdc1e0vhY0V8ix-FTB2B2FutEAjX6etMG-iyKnGw8JyLnzufHqw2RTqaJ9lp6rVuFSMDS9sYq9r1LdG4XENnqm2IGhstwHzgsO7czi055wg=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Tennis - WTA 250 Bogota: Primo Turno",
-      "competizione": "WTA Tour 2026",
-      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Lucia Bronzetti in gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCnh67-DeZ0skekiAYWAmb-3WCHi5qHEplfbyUxQAjPIPE89hyuOULxIBqV6lNksJSe41ekQONXvY5B5kkW8-a1d-gZ3MWh3GtKbW-VyxksrmZMOGsneDDlpXnR0XPhUxEmFR6VaZXOuFsdc1e0vhY0V8ix-FTB2B2FutEAjX6etMG-iyKnGw8JyLnzufHqw2RTqaJ9lp6rVuFSMDS9sYq9r1LdG4XENnqm2IGhstwHzgsO7czi055wg=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "23:00",
-      "evento": "MotoGP - GP USA: Gara (Differita)",
-      "competizione": "Campionato del Mondo MotoGP 2026",
+      "orario": "14:00",
+      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
       "canale": "TV8",
-      "note": "Gara della classe regina",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuRnJ_0WDQf_kcokNSb-ODXpLT7l8d8QlnLQ0wg7McQbdDivpdaNSVjbHtOKZhxtPIUz9pfw8WQXt2cBwjUSUlgV0Qff7XzzSR_IdwnInzXZcwIAjM6uobLiBgvWpTGwtifGaEdSgHC_JVaIssdSDdQ1XDxUxK3w5k9sF7is7Ms8lSYwlQedMS-Xkl52pvLzE3jCERmZe1kcm_pi7mP3N4KQ=",
+      "note": "Replica in chiaro della gara disputata il 29/03/2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmpK5v3yS88VzNpy2Ox69H58ziKVRn6xXvKRRkcGQRQKWZOzZO-IQTuRC8NpElMRz_lKNWufLpt7YjNyVtSMpC2OoNgF0OWWZ6lFIJ20D4eURjwgeOQJILHrx0L8IXsWgL5-IV7srt1PlPGjpQuRs=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "MotoGP - GP USA: Gara (Replica)",
-      "competizione": "Campionato del Mondo MotoGP 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Gara della classe regina",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAYLpi-QJb3qKLLtxTqOS2D6vBXdZjLayzJkgMYXiOyQGlKYMGReDowRFKOVyDUgQWkz7Ee-W-KOjuFfn54M0FidHRs8-an0PDCfHHA-eE04zOcFxRHp_ZHSfm63pc4q3NrocaOS93VzLpibMqOZfsrjroY_OqyJC8YWXluUzVm7rvxJN-W5QNjV8Q8FSFloz-dqwMRaqVdT_7hI0=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Tennis - ATP 1000 Miami: Finale (Replica)",
-      "competizione": "ATP Tour 2026",
-      "canale": "Sky Sports Tennis HD",
-      "note": "Jannik Sinner in gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMfkAG6gDYWjYrH-NJOruyrJvxDltfOGcTJqyF93P9K067vWANgC5_qp9bEb7NDiEOa5nBplSTwMwnz-KwynGtjdhbw0oOrEoKa37YN0lYGdLGUUPVj6U64UJqaXPYpU7C_dHBNWbm1WnT-MMa-Ma5A2rRyrc=",
+      "orario": "14:15",
+      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Ulteriore trasmissione o parte della replica in chiaro della gara del 29/03/2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmpK5v3yS88VzNpy2Ox69H58ziKVRn6xXvKRRkcGQRQKWZOzZO-IQTuRC8NpElMRz_lKNWufLpt7YjNyVtSMpC2OoNgF0OWWZ6lFIJ20D4eURjwgeOQJILHrx0L8IXsWgL5-IV7srt1PlPGjpQuRs=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00",
-      "evento": "Tennis - ATP 1000 Miami: Finale (Replica)",
-      "competizione": "ATP Tour 2026",
-      "canale": "Sky Sports Tennis HD",
-      "note": "Jannik Sinner in gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMfkAG6gDYWjYrH-NJOruyrJvxDltfOGcTJqyF93P9K067vWANgC5_qp9bEb7NDiEOa5nBplSTwMwnz-KwynGtjdhbw0oOrEoKa37YN0lYGdLGUUPVj6U64UJqaXPYpU7C_dHBNWbm1WnT-MMa-Ma5A2rRyrc=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Formula 1 - GP Giappone: Gara (Replica)",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport Uno",
+      "orario": "18:00",
+      "evento": "Cipro-Moldova",
+      "competizione": "Amichevole Internazionale",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrek8iPBNf5idGY1HcblI2x5dbDH9U8Pxs25IU98dpDYg6V9pj70Yhuehx42b9SwkIyWT-5GLkC8QcxarRM3WtDVjbHgEBgIMxCQMiRG-BKCT-KjHLTi8ARLxtIYkVorY8mftTAaMBv1oAuoToPWlbH9BP5MMAATPn3g=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC5_P5X5O_rIJ45Gs1BzGjoanKmEmXJmr1Kuo0FxN2QRZmcwx1KcIxQJfsW8e51cCOi-1AKLd1Hfl_ukJuAybiOdOhMo-IK6AW8GVYBS7XzXl1qQ1vUuVRkBl892m, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpHiQsLnDS8G0RCApudGHEeRLhgFjrS4ROpZR5-QrT-iZ8xb752RtX4NoGsk-iz0jpC0wOg0sNSEVUbPGKu2Ysz1qKp29UgVgpd1Ftx3g7gVB9nZL38i-Ot5TnPSPGKprBPlEitxA7Pfqo2I0JVKmC_3QjyBbQ5KBaIkR53aEb7MwqpcPOyrDVfjsAKLNbTM1U10qAW_Q=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Germania-Ghana",
+      "competizione": "Amichevole Internazionale",
+      "canale": "Cielo, Sky Sport Calcio",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC5_P5X5O_rIJ45Gs1BzGjoanKmEmXJmr1Kuo0FxN2QRZmcwx1KcIxQJfsW8e51cCOi-1AKLd1Hfl_ukJuAybiOdOhMo-IK6AW8GVYBS7XzXl1qQ1vUuVRkBl892m, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpHiQsLnDS8G0RCApudGHEeRLhgFjrS4ROpZR5-QrT-iZ8xb752RtX4NoGsk-iz0jpC0wOg0sNSEVUbPGKu2Ysz1qKp29UgVgpd1Ftx3g7gVB9nZL38i-Ot5TnPSPGKprBPlEitxA7Pfqo2I0JVKmC_3QjyBbQ5KBaIkR53aEb7MwqpcPOyrDVfjsAKLNbTM1U10qAW_Q=",
       "accuratezza_orario": "esatto"
     }
   ]
