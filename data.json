@@ -1,121 +1,139 @@
 {
-  "last_updated": "2026-03-29T20:26:54.738521+02:00",
+  "last_updated": "2026-03-30T09:16:11.822217+02:00",
   "events": [
     {
-      "orario": "14:15",
-      "evento": "Gran Premio del Giappone: Gara (Differita)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
+      "orario": "00:35",
+      "evento": "Formula 1 - GP Giappone: Gara (Replica)",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "OA Sport, L'Automobile, AlVolante, Guida TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAEFADiAKZpW6BL44wM_fibAwYzqro0w6CIrmUFf0SRuPQbpQvtUycxpP6ARAKNpD6XmVagFGXA5hvYIf7pj8o0SFy_YkCYt82_R_tfY7Npykj5iGmDhs-6flUe-5LtbsBgRRaSj25psDaJMNRa0JxX7PecVFAlMRIL5yfq0N7hCwJnpP71GFlNwhmG2YAQ-wwZwhKE7XdGKOr-oE8dt66zag=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Inter - Roma",
-      "competizione": "Coppa Italia Femminile",
-      "canale": "Sky Sport Calcio, NOW",
+      "orario": "02:30",
+      "evento": "Formula 1 - GP Giappone: Gara (Replica)",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "90Min.com",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAEFADiAKZpW6BL44wM_fibAwYzqro0w6CIrmUFf0SRuPQbpQvtUycxpP6ARAKNpD6XmVagFGXA5hvYIf7pj8o0SFy_YkCYt82_R_tfY7Npykj5iGmDhs-6flUe-5LtbsBgRRaSj25psDaJMNRa0JxX7PecVFAlMRIL5yfq0N7hCwJnpP71GFlNwhmG2YAQ-wwZwhKE7XdGKOr-oE8dt66zag=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "F1 Podio",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Approfondimento post gara",
-      "fonte": "Guida TV",
+      "orario": "05:00",
+      "evento": "Tennis - WTA 250 Bogota: Primo Turno (Differita)",
+      "competizione": "WTA Tour 2026",
+      "canale": "SuperTennis",
+      "note": "Lucia Bronzetti in gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ0hU9qhR0H-G7OHgL3acU9bKwVpYbYQJLDYRpq1Sp0uQVIDFfDAYcntstNnFWqmlDeXI7630aMLikgTPZrCRTHBbI07_QymPKUM9JzKEBPkWub1T7BZeBgJtsHBtgiYIKadoZ54Hp1-SpvIUkEtsXykTylKAT4txfB4dbbS8BhSPDufyGhg=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:40",
-      "evento": "Warm-Up MotoGP",
-      "competizione": "MotoGP GP USA",
-      "canale": "Sky Sport MotoGP, NOW",
+      "orario": "06:00",
+      "evento": "Tennis - ATP 1000 Miami: Finale (Replica)",
+      "competizione": "ATP Tour 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Jannik Sinner in gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrek8iPBNf5idGY1HcblI2x5dbDH9U8Pxs25IU98dpDYg6V9pj70Yhuehx42b9SwkIyWT-5GLkC8QcxarRM3WtDVjbHgEBgIMxCQMiRG-BKCT-KjHLTi8ARLxtIYkVorY8mftTAaMBv1oAuoToPWlbH9BP5MMAATPn3g=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Tennis - ATP 1000 Miami: Finale (Replica)",
+      "competizione": "ATP Tour 2026",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Jannik Sinner in gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMfkAG6gDYWjYrH-NJOruyrJvxDltfOGcTJqyF93P9K067vWANgC5_qp9bEb7NDiEOa5nBplSTwMwnz-KwynGtjdhbw0oOrEoKa37YN0lYGdLGUUPVj6U64UJqaXPYpU7C_dHBNWbm1WnT-MMa-Ma5A2rRyrc=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Formula 1 - GP Giappone: Gara (Replica)",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Virgilio, Il Fatto Quotidiano, Moto.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrek8iPBNf5idGY1HcblI2x5dbDH9U8Pxs25IU98dpDYg6V9pj70Yhuehx42b9SwkIyWT-5GLkC8QcxarRM3WtDVjbHgEBgIMxCQMiRG-BKCT-KjHLTi8ARLxtIYkVorY8mftTAaMBv1oAuoToPWlbH9BP5MMAATPn3g=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Juventus - Fiorentina",
-      "competizione": "Coppa Italia Femminile",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "90Min.com",
+      "orario": "09:30",
+      "evento": "Tennis - WTA 1000 Miami: Finale (Replica)",
+      "competizione": "WTA Tour 2026",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Finale doppio con Errani/Paolini",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMfkAG6gDYWjYrH-NJOruyrJvxDltfOGcTJqyF93P9K067vWANgC5_qp9bEb7NDiEOa5nBplSTwMwnz-KwynGtjdhbw0oOrEoKa37YN0lYGdLGUUPVj6U64UJqaXPYpU7C_dHBNWbm1WnT-MMa-Ma5A2rRyrc=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Errani/Paolini - Siniakova/Townsend (Finale Doppio Femminile)",
-      "competizione": "WTA Miami",
-      "canale": "Sky Sport Tennis, SuperTennis HD",
-      "note": "Match con giocatrici italiane",
-      "fonte": "OA Sport, Ubitennis, Lottomatica.Sport, LiveTennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP GP USA",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "",
-      "fonte": "Virgilio, Il Fatto Quotidiano, Moto.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP GP USA",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "",
-      "fonte": "Virgilio, Il Fatto Quotidiano, Moto.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:15",
-      "evento": "Gara Moto3 (Differita)",
-      "competizione": "MotoGP GP USA",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Virgilio, Moto.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00*",
-      "evento": "Jannik Sinner - Jiri Lehecka (Finale Singolare Maschile)",
-      "competizione": "ATP Miami",
-      "canale": "Sky Sport Tennis, SuperTennis HD",
-      "note": "Match con giocatore italiano. Orario stimato, non prima delle 21:00 CET.",
-      "fonte": "Ubitennis, Lottomatica.Sport, LiveTennis.it",
+      "orario": "14:30",
+      "evento": "Tennis - ATP 250 Marrakech: Primo Turno",
+      "competizione": "ATP Tour 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Luciano Darderi, Lorenzo Sonego, Matteo Berrettini, Federico Cinà, Mattia Bellucci, Francesco Passaro, Luca Nardi, Andrea Pellegrino in gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCnh67-DeZ0skekiAYWAmb-3WCHi5qHEplfbyUxQAjPIPE89hyuOULxIBqV6lNksJSe41ekQONXvY5B5kkW8-a1d-gZ3MWh3GtKbW-VyxksrmZMOGsneDDlpXnR0XPhUxEmFR6VaZXOuFsdc1e0vhY0V8ix-FTB2B2FutEAjX6etMG-iyKnGw8JyLnzufHqw2RTqaJ9lp6rVuFSMDS9sYq9r1LdG4XENnqm2IGhstwHzgsO7czi055wg=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:30",
-      "evento": "Gara Moto2 (Differita)",
-      "competizione": "MotoGP GP USA",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Virgilio, Moto.it",
-      "accuratezza_orario": "esatto"
+      "orario": "17:00",
+      "evento": "Tennis - WTA 500 Charleston: Primo Turno",
+      "competizione": "WTA Tour 2026",
+      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Elisabetta Cocciaretto in gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCnh67-DeZ0skekiAYWAmb-3WCHi5qHEplfbyUxQAjPIPE89hyuOULxIBqV6lNksJSe41ekQONXvY5B5kkW8-a1d-gZ3MWh3GtKbW-VyxksrmZMOGsneDDlpXnR0XPhUxEmFR6VaZXOuFsdc1e0vhY0V8ix-FTB2B2FutEAjX6etMG-iyKnGw8JyLnzufHqw2RTqaJ9lp6rVuFSMDS9sYq9r1LdG4XENnqm2IGhstwHzgsO7czi055wg=",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "22:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP GP USA",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
-      "note": "",
-      "fonte": "OA Sport, Virgilio, Sport in tv oggi, Il Fatto Quotidiano, Moto.it, HDBlog",
-      "accuratezza_orario": "esatto"
+      "orario": "19:00",
+      "evento": "Tennis - WTA 250 Bogota: Primo Turno",
+      "competizione": "WTA Tour 2026",
+      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Lucia Bronzetti in gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCnh67-DeZ0skekiAYWAmb-3WCHi5qHEplfbyUxQAjPIPE89hyuOULxIBqV6lNksJSe41ekQONXvY5B5kkW8-a1d-gZ3MWh3GtKbW-VyxksrmZMOGsneDDlpXnR0XPhUxEmFR6VaZXOuFsdc1e0vhY0V8ix-FTB2B2FutEAjX6etMG-iyKnGw8JyLnzufHqw2RTqaJ9lp6rVuFSMDS9sYq9r1LdG4XENnqm2IGhstwHzgsO7czi055wg=",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "23:00",
-      "evento": "Gara MotoGP (Differita)",
-      "competizione": "MotoGP GP USA",
+      "evento": "MotoGP - GP USA: Gara (Differita)",
+      "competizione": "Campionato del Mondo MotoGP 2026",
       "canale": "TV8",
+      "note": "Gara della classe regina",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuRnJ_0WDQf_kcokNSb-ODXpLT7l8d8QlnLQ0wg7McQbdDivpdaNSVjbHtOKZhxtPIUz9pfw8WQXt2cBwjUSUlgV0Qff7XzzSR_IdwnInzXZcwIAjM6uobLiBgvWpTGwtifGaEdSgHC_JVaIssdSDdQ1XDxUxK3w5k9sF7is7Ms8lSYwlQedMS-Xkl52pvLzE3jCERmZe1kcm_pi7mP3N4KQ=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "MotoGP - GP USA: Gara (Replica)",
+      "competizione": "Campionato del Mondo MotoGP 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Gara della classe regina",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAYLpi-QJb3qKLLtxTqOS2D6vBXdZjLayzJkgMYXiOyQGlKYMGReDowRFKOVyDUgQWkz7Ee-W-KOjuFfn54M0FidHRs8-an0PDCfHHA-eE04zOcFxRHp_ZHSfm63pc4q3NrocaOS93VzLpibMqOZfsrjroY_OqyJC8YWXluUzVm7rvxJN-W5QNjV8Q8FSFloz-dqwMRaqVdT_7hI0=",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Tennis - ATP 1000 Miami: Finale (Replica)",
+      "competizione": "ATP Tour 2026",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Jannik Sinner in gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMfkAG6gDYWjYrH-NJOruyrJvxDltfOGcTJqyF93P9K067vWANgC5_qp9bEb7NDiEOa5nBplSTwMwnz-KwynGtjdhbw0oOrEoKa37YN0lYGdLGUUPVj6U64UJqaXPYpU7C_dHBNWbm1WnT-MMa-Ma5A2rRyrc=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Tennis - ATP 1000 Miami: Finale (Replica)",
+      "competizione": "ATP Tour 2026",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Jannik Sinner in gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMfkAG6gDYWjYrH-NJOruyrJvxDltfOGcTJqyF93P9K067vWANgC5_qp9bEb7NDiEOa5nBplSTwMwnz-KwynGtjdhbw0oOrEoKa37YN0lYGdLGUUPVj6U64UJqaXPYpU7C_dHBNWbm1WnT-MMa-Ma5A2rRyrc=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Formula 1 - GP Giappone: Gara (Replica)",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Virgilio, OA Sport, Il Fatto Quotidiano, Moto.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrek8iPBNf5idGY1HcblI2x5dbDH9U8Pxs25IU98dpDYg6V9pj70Yhuehx42b9SwkIyWT-5GLkC8QcxarRM3WtDVjbHgEBgIMxCQMiRG-BKCT-KjHLTi8ARLxtIYkVorY8mftTAaMBv1oAuoToPWlbH9BP5MMAATPn3g=",
       "accuratezza_orario": "esatto"
     }
   ]
