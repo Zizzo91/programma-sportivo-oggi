@@ -1,49 +1,85 @@
 {
-  "last_updated": "2026-03-31T14:51:13.155846+02:00",
+  "last_updated": "2026-03-31T20:45:04.222273+02:00",
   "events": [
+    {
+      "orario": "08:00",
+      "evento": "Camerun-Cina",
+      "competizione": "FIFA Series",
+      "canale": "DAZN, FIFA+",
+      "note": "",
+      "fonte": "Calciomagazine, 90min.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:10",
+      "evento": "Australia-Curaçao",
+      "competizione": "FIFA Series",
+      "canale": "DAZN, FIFA+",
+      "note": "",
+      "fonte": "Calciomagazine, 90min.com",
+      "accuratezza_orario": "esatto"
+    },
     {
       "orario": "15:00",
       "evento": "Turchia-Italia Under 19",
       "competizione": "Qualificazioni Europei U19",
-      "canale": "VIVO AZZURRO TV",
+      "canale": "Vivo Azzurro TV",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLkMlHeuf9XO6TqBh8tNs8f3FS-upq3MfUcJJXA7TPDnC8j-oE7DoULESegDZx2X2AjPAa2w8rpihj5MIClzJ3-qfuDbLxPeR8gLB8twSJhqBMhcD96vh7Hmc59iw9RqIzE4vg6mHdLSSX4Ye5YqBgripaL6J6GdSWr4PisN7pkP9pslsiHfavV8ddMqWUCE3otxf0QDI",
+      "fonte": "Calciomagazine, 90min.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00*",
-      "evento": "Matteo Berrettini vs Ignacio Buse (Primo Turno)",
-      "competizione": "ATP 250 Marrakech",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Terzo match sul campo centrale",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXU9wQuF_9sb0NPlkXrRYNeGtiMuwlZvjymy82lUur9DQS4T0s1UKeVi_n_dRya_8JyUYhf7NKiEQZb4DmjpXD8DKJ6TE4JelCrF-b3FgNuIZSOh8ZnfEFaaijdMwUYO1HCQq1mwz_FVoSXkW0ZNEVow_CkNBAUeK903LiVqDE8nHKzq4D7xxs4z_5rdFK, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbnPuq47sh9Nd9QendPvKiZJRdUqodwj6cdq1vBjgmuWB4GPJjkFQ8vH-RHn7obI2Hy6RmLTD0-RFK_licQ50Qw1f_Y4JpiusSDS7mFuMXq_gIVYuzfa74Hx_D5Ey-CV5mvySXJPRau6Iwg9Y2WJXrVR4sjKkdg_Mr_6BYOkWNM6t92b2x4ila7MR9Vz0BaFHxCYyBvbxxIMYSWGnTdkJG3NaKaS_pW_hnhOJLOeM-B0RRubIkUmEva8pBPWTC5NzahNgzZOU",
+      "evento": "ATP Marrakech 2026: Matteo Berrettini (ITA) vs Ignacio Buse (PER)",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Sport Mix (211), Sky Go, NOW, Tennis Tv",
+      "note": "Terzo match sul Campo Centrale, a seguire Bellucci-Bennani",
+      "fonte": "Sky Sport, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "17:00*",
-      "evento": "Arnaldi vs Qualificato (Primo Turno)",
-      "competizione": "ATP 250 Bucarest",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Quarto match in programma dopo le 10:00 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL6Kinude3Suby1yW9a5uClH_-d1dAj5WopwG1FhhWFVe8anI4BMr6OJYU-waGu4eY-43znSuaPEAGZ3ASQ38B1Ln-zIap3XkQ7D_leBztRykkG20t8yJ-eoiSrBvzw0xTRk9ZGz4uQJjk9k4CB6xUIkZrL7dLp3n7NKCrKAlwj5vTU3uotcJPPoqtEjVe6x_VoWYd8rUd4AlN9QrjT3GF3yqxMChhCF_rOyPC7dbRV66sN2Q9TOoXUVcmBg==",
-      "accuratezza_orario": "stimato"
+      "orario": "18:00",
+      "evento": "Norvegia-Svizzera",
+      "competizione": "Amichevole Internazionale Calcio",
+      "canale": "Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "Calciomagazine, 90min.com",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Svezia vs Italia Under 21",
-      "competizione": "Qualificazioni Europei U21 2027",
-      "canale": "Rai 2 HD",
+      "evento": "Svezia-Italia Under 21",
+      "competizione": "Qualificazioni Europei U21",
+      "canale": "Rai 2",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL6Kinude3Suby1yW9a5uClH_-d1dAj5WopwG1FhhWFVe8anI4BMr6OJYU-waGu4eY-43znSuaPEAGZ3ASQ38B1Ln-zIap3XkQ7D_leBztRykkG20t8yJ-eoiSrBvzw0xTRk9ZGz4uQJjk9k4CB6xUIkZrL7dLp3n7NKCrKAlwj5vTU3uotcJPPoqtEjVe6x_VoWYd8rUd4AlN9QrjT3GF3yqxMChhCF_rOyPC7dbRV66sN2Q9TOoXUVcmBg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLkMlHeuf9XO6TqBh8tNs8f3FS-upq3MfUcJJXA7TPDnC8j-oE7DoULESegDZx2X2AjPAa2w8rpihj5MIClzJ3-qfuDbLxPeR8gLB8twSJhqBMhcD96vh7Hmc59iw9RqIzE4vg6mHdLSSX4Ye5YqBgripaL6J6GdSWr4PisN7pkP9pslsiHfavV8ddMqWUCE3otxf0QDI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGakTHIRjdPgaxem7f8I4aHlckctWfAZQgSsgCDflJN-cwqHX4NexxGpExn0q4zW5qe8vu0XJLiVu1PAQ1CoOq5V4ak453c25TxCi6Ou8KnsypP7Ct6GJTkACD6ykS6JagNOVI_btXewOgl583ao21YmAv3iyY0BteU8mOaRGi9lSn1MzQopwUZesrFznbG_FYxLx2tV1EohD5UdoWrS0iqAzp7jTqnXjs6ICE8F7jwA2eBDLYUzy0Z",
+      "fonte": "OA Sport, 90min.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Bosnia-Italia",
-      "competizione": "Playoff Qualificazioni Mondiali 2026",
-      "canale": "Rai 1",
-      "note": "Partita decisiva per la qualificazione ai Mondiali",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLkMlHeuf9XO6TqBh8tNs8f3FS-upq3MfUcJJXA7TPDnC8j-oE7DoULESegDZx2X2AjPAa2w8rpihj5MIClzJ3-qfuDbLxPeR8gLB8twSJhqBMhcD96vh7Hmc59iw9RqIzE4vg6mHdLSSX4Ye5YqBgripaL6J6GdSWr4PisN7pkP9pslsiHfavV8ddMqWUCE3otxf0QDI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGewiN8uBg7lFaA145USboGu5v056rpW1Ns4pYwvwEHv8z3yNwSAqC3PeCxR2M4CpHC9pEMYOOgh8IC0jXlTQRBQDPENbs5hy0fU9D4wqEWSMoTDrEH0QVbal2fVrUU_xrEb-UPhZ5tEp2OvbrKkkG8kdAoMdD63TkOqy3QTw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4oXikRmVJyhRN475oBPp4yNMA7Xv2Fg38Q7dxza8DammR-Jy9WYO_YkWxsNU5acd_5poRIx9l0_0l0B0I6LpT9t_kkRe5UC1YrvtT__9fTVHbFrrHlE8HGA1ONopEj1TSMrriVyLlvd2E1voHVZ8-h1ixSxglYKRW_PzZVcAaCJswmL7ZZ96vArQPV1tbbk38uu4UqX4cnOcPY2VxDgZqVeWbrGHr9EGNtSg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf7baMAdSMgYb_3jwJKtCb-o5IDfndbD8ZCrNV-C_Tz-PU4WgpCFGb61E_A7C4FP-AbCV7z4OCayGtcor6BUL0kn-0MCy_VJz9ruBVN4Az0vpp-jVJu-daR1M5vUDH0vtnd3zYRaFbhfIdZlz7KaNAuSAUJ7ecnrUbkqRKNPgd4Q==",
+      "competizione": "Playoff Mondiali 2026",
+      "canale": "Rai 1 HD, Rai Play",
+      "note": "Finale Playoff Qualificazioni Mondiali",
+      "fonte": "Calciomagazine, OA Sport, 90min.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Svezia-Polonia",
+      "competizione": "Playoff Mondiali 2026",
+      "canale": "Sky Sport Max, NOW",
+      "note": "Playoff Qualificazioni Mondiali",
+      "fonte": "Calciomagazine, 90min.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "RD Congo-Giamaica",
+      "competizione": "Playoff Mondiali 2026",
+      "canale": "DAZN, FIFA+",
+      "note": "Playoff Qualificazioni Mondiali",
+      "fonte": "Calciomagazine, 90min.com",
       "accuratezza_orario": "esatto"
     }
   ]
