@@ -1,58 +1,76 @@
 {
-  "last_updated": "2026-03-30T20:45:09.937778+02:00",
+  "last_updated": "2026-03-31T09:01:30.252944+02:00",
   "events": [
     {
-      "orario": "08:00",
-      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara disputata il 29/03/2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ42ENnTr-xUnO8r9Ts0QoBTJobKva7NnXewbvughbmhORYk68noMGlen-YE1gOuYuE-jQtmV2OpEbNgjku15HhuUe9M9Trf2YwDAoT2V5E5kT4UDiCd5FMCOEJT-ckLAb956FmVIkSJILWU12WY3ZPdQc7qIN6Edn",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "10:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Programma di approfondimento e analisi post-gara del GP Giappone.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ42ENnTr-xUnO8r9Ts0QoBTJobKva7NnXewbvughbmhORYk68noMGlen-YE1gOuYuE-jQtmV2OpEbNgjku15HhuUe9M9Trf2YwDAoT2V5E5kT4UDiCd5FMCOEJT-ckLAb956FmVIkSJILWU12WY3ZPdQc7qIN6Edn",
-      "accuratezza_orario": "esatto"
+      "evento": "ATP Bucarest 2026 - Primo Turno (Arnaldi vs Qualificato, 4° match)",
+      "competizione": "Tennis ATP",
+      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Mix (211)",
+      "note": "Programma di giornata inizia alle 10:00 CET. Il match di Arnaldi è il quarto in programma, orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QSIrTTOya6d-eNSuGl7Bzyaue5FMhrzkqeOnXTbW2Izr-vVTMmgsFq0A6Uywv6Wa8-uZkVUDyuk0_URdbGJR0UlSHk5S57EUcJ50VmCUFGueUY3RpNu4RoQ_xN2V2fEVDoXCsEokFmFvbj77zlLLqH4EPRyCG_UwQPSzkvGdTBVCqJ1SWcNrnv5zzPpb5lvVurqJKI7-uYTh82lHhBNbGdaa7Sv5E-FNZn1c7orETRWWErAYS0dQlmu1",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "14:00",
-      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Replica in chiaro della gara disputata il 29/03/2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmpK5v3yS88VzNpy2Ox69H58ziKVRn6xXvKRRkcGQRQKWZOzZO-IQTuRC8NpElMRz_lKNWufLpt7YjNyVtSMpC2OoNgF0OWWZ6lFIJ20D4eURjwgeOQJILHrx0L8IXsWgL5-IV7srt1PlPGjpQuRs=",
-      "accuratezza_orario": "esatto"
+      "orario": "15:00*",
+      "evento": "ATP Marrakech 2026 - Primo Turno (Berrettini vs Buse, 3° match Campo Centrale)",
+      "competizione": "Tennis ATP",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Sport Mix (211)",
+      "note": "Il match di Berrettini è il terzo in programma sul Campo Centrale dopo Cinà-Muller e Bellucci-Bennani. Orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWpHPiFyNahLvFSFjyiQ0pKcJzx44mNhTk9n9bXL1V9hou4Ccs4DIJK1fACNEhPyor8mE3EPGk8DPtlo3bkTmhOwOi4MIE1GUYR_MXrs5mq4x6PtbfTxR1dHPUEBM0HYYs-jWyqRauhmspPDN2EZaqff-amUi3ctqXtVrN3nWVN85MRny-l1Y8usIDZBxlQs1qtyT5S3Kr0wfma7Qjs9DwJA==",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "14:15",
-      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Ulteriore trasmissione o parte della replica in chiaro della gara del 29/03/2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmpK5v3yS88VzNpy2Ox69H58ziKVRn6xXvKRRkcGQRQKWZOzZO-IQTuRC8NpElMRz_lKNWufLpt7YjNyVtSMpC2OoNgF0OWWZ6lFIJ20D4eURjwgeOQJILHrx0L8IXsWgL5-IV7srt1PlPGjpQuRs=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Cipro-Moldova",
-      "competizione": "Amichevole Internazionale",
-      "canale": "Sky Sport Calcio",
+      "orario": "18:30",
+      "evento": "Qualificazioni Europei U21 2027: Svezia vs Italia",
+      "competizione": "Calcio - Nazionale U21",
+      "canale": "Rai 2 HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC5_P5X5O_rIJ45Gs1BzGjoanKmEmXJmr1Kuo0FxN2QRZmcwx1KcIxQJfsW8e51cCOi-1AKLd1Hfl_ukJuAybiOdOhMo-IK6AW8GVYBS7XzXl1qQ1vUuVRkBl892m, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpHiQsLnDS8G0RCApudGHEeRLhgFjrS4ROpZR5-QrT-iZ8xb752RtX4NoGsk-iz0jpC0wOg0sNSEVUbPGKu2Ysz1qKp29UgVgpd1Ftx3g7gVB9nZL38i-Ot5TnPSPGKprBPlEitxA7Pfqo2I0JVKmC_3QjyBbQ5KBaIkR53aEb7MwqpcPOyrDVfjsAKLNbTM1U10qAW_Q=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QSIrTTOya6d-eNSuGl7Bzyaue5FMhrzkqeOnXTbW2Izr-vVTMmgsFq0A6Uywv6Wa8-uZkVUDyuk0_URdbGJR0UlSHk5S57EUcJ50VmCUFGueUY3RpNu4RoQ_xN2V2fEVDoXCsEokFmFvbj77zlLLqH4EPRyCG_UwQPSzkvGdTBVCqJ1SWcNrnv5zzPpb5lvVurqJKI7-uYTh82lHhBNbGdaa7Sv5E-FNZn1c7orETRWWErAYS0dQlmu1",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Germania-Ghana",
-      "competizione": "Amichevole Internazionale",
-      "canale": "Cielo, Sky Sport Calcio",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiC5_P5X5O_rIJ45Gs1BzGjoanKmEmXJmr1Kuo0FxN2QRZmcwx1KcIxQJfsW8e51cCOi-1AKLd1Hfl_ukJuAybiOdOhMo-IK6AW8GVYBS7XzXl1qQ1vUuVRkBl892m, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpHiQsLnDS8G0RCApudGHEeRLhgFjrS4ROpZR5-QrT-iZ8xb752RtX4NoGsk-iz0jpC0wOg0sNSEVUbPGKu2Ysz1qKp29UgVgpd1Ftx3g7gVB9nZL38i-Ot5TnPSPGKprBPlEitxA7Pfqo2I0JVKmC_3QjyBbQ5KBaIkR53aEb7MwqpcPOyrDVfjsAKLNbTM1U10qAW_Q=",
+      "evento": "Qualificazioni Mondiali 2026: Bosnia Erzegovina vs Italia",
+      "competizione": "Calcio - Nazionale Maggiore",
+      "canale": "Rai 1 HD",
+      "note": "Finale playoff per l'accesso ai Mondiali 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsDCaz3y7KLkLHAoUDt-pE3C1ExOMvrLTxkb3WBubL6P41WAp6qAC8nu3TZ3cHvS4_6AHxeSVxru7IOqdh3e8U7f6Rzdk-WQCWU_UtltIXOVjrAqazMa2JbuLnw9n1NgxIoJ4TOObq93oQxBvTnob2EJ5CIXjSDgTmQnWwxSnE2_h43tGgrbpWVYxQzNocxKRuvYZBSkBsSOzor6xu3wsDjxeS8i1il_-JpZ5h0BnEYmGxM2ssN29_XS8tPSgKbDnW",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Qualificazioni Mondiali 2026: Playoffs Diretta Gol",
+      "competizione": "Calcio - Qualificazioni Mondiali",
+      "canale": "Sky Sport Calcio",
+      "note": "Copertura multiplex delle partite di playoff.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGGSqaG6Z7TVxk10NmaNhOGCONHFq_b-4wgh04Vtq-6GmX2JXQtc-PMeOqR1Dz1acMMZm7XBFpsGWHZarz-QXSU4eM5PGeRFzk0Q5uMt3lxzHEt9R6Zq_OHOEAsGUQ9M7D-kKum37oPhJBmPZVDnxam8sHLLfcroX9ww-zAcxoqw-VvJ79lnc9CyNes-7El-0e4x8L8maTwdFW0mHg9FZTHQC3T2RDnv_idvvVKxTQ",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del 29 marzo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPV4_vLUgGxu7_hCV8MjgrrMDQ8As85ETGtuqb1XrirsLD5KU_mNNkGXd3ItBcxBReSBlvciWy2bf7rZ5xFISUFnnh3JcSQqFW2oJBwObs0-8tC6sckQ9qZqoVxPwvPUIjtg65eF1483rUUfY2KA2zABI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1 - Approfondimento",
+      "canale": "Sky Sport Uno",
+      "note": "Analisi post-gara del GP Giappone.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPV4_vLUgGxu7_hCV8MjgrrMDQ8As85ETGtuqb1XrirsLD5KU_mNNkGXd3ItBcxBReSBlvciWy2bf7rZ5xFISUFnnh3JcSQqFW2oJBwObs0-8tC6sckQ9qZqoVxPwvPUIjtg65eF1483rUUfY2KA2zABI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del 29 marzo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPV4_vLUgGxu7_hCV8MjgrrMDQ8As85ETGtuqb1XrirsLD5KU_mNNkGXd3ItBcxBReSBlvciWy2bf7rZ5xFISUFnnh3JcSQqFW2oJBwObs0-8tC6sckQ9qZqoVxPwvPUIjtg65eF1483rUUfY2KA2zABI=",
       "accuratezza_orario": "esatto"
     }
   ]
