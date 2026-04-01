@@ -1,67 +1,22 @@
 {
-  "last_updated": "2026-04-01T14:53:17.748918+02:00",
+  "last_updated": "2026-04-01T20:44:50.540562+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "Stati Uniti - Portogallo",
-      "competizione": "Amichevole Internazionale (Calcio)",
-      "canale": "OneFootball",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZZZu37SyFs8UBZXTsF-3Zg0Z7dE1rQg8V4eR-FSGTG-3agsdYslRCNPaxg1nB66h1LOtg_v7gHJV5QQcrggtpoZkw_bE2MlJSahsrQ_au3HcP5Rqzzy0LY48Q7Gz-Jy5MBxrIAYfdLbBKKrtHXkMZtS_I74ucQstkVfasfTXnoA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:15",
-      "evento": "Argentina - Zambia",
-      "competizione": "Amichevole Internazionale (Calcio)",
-      "canale": "OneFootball",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZZZu37SyFs8UBZXTsF-3Zg0Z7dE1rQg8V4eR-FSGTG-3agsdYslRCNPaxg1nB66h1LOtg_v7gHJV5QQcrggtpoZkw_bE2MlJSahsrQ_au3HcP5Rqzzy0LY48Q7Gz-Jy5MBxrIAYfdLbBKKrtHXkMZtS_I74ucQstkVfasfTXnoA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Iraq - Bolivia",
-      "competizione": "Qualificazioni Mondiali 2026 (Calcio)",
-      "canale": "DAZN, FIFA+",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETokmmOuR3kLpWLX3woKvVdS4Uu4ssUU8g0v2Ycg52EF3-l6kdPaYchZKRcWR5IA2FestFbZdA7u3xoqV-V9ECGiCbFG91IB8f7JICcjrfPwJWkf2bU3Uxy8VoilSVRlMLgm2rsFKIXvpBfCa5nxfugyqx1akg6PZj-vw7kOOpWqzc-U7mOuHm4hspqpegVaQSxLvjxarEcLt5kFNiwz4WEfCCFHgBoUEnT98tr8xFcXPyNXLP4QVZcUmEtukk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl026mWfZEmg90hiHryiagWo7n373rtq9U1-uW4dorvxiS9ZD7UFid_Jh-J5-yE93v3IzfvAu23KlEQuXheNtHu9SA2McPQ59HLy1vq-MRdWnt2sXIjy5jVmsvoN-0dXaAfYeiqCzqStydkRhtgkI7AZk5mLQ5HzDKDxhhJadL6jvQBuHHYr-oTs_z0OC-raR1KFn08aQahd0w, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZZZu37SyFs8UBZXTsF-3Zg0Z7dE1rQg8V4eR-FSGTG-3agsdYslRCNPaxg1nB66h1LOtg_v7gHJV5QQcrggtpoZkw_bE2MlJSahsrQ_au3HcP5Rqzzy0LY48Q7Gz-Jy5MBxrIAYfdLbBKKrtHXkMZtS_I74ucQstkVfasfTXnoA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "12:00*",
-      "evento": "Luciano Darderi vs Mattia Bellucci",
-      "competizione": "ATP 250 Marrakech (Tennis)",
-      "canale": "Sky Sport Uno, Sky Sport Mix, Sky Sport Tennis, Sky Sport Plus, Sky Go, NOW, Tennis Tv",
-      "note": "Terzo match dalle 12:00 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo7DkdJwlXR_QyZQQIfFwprAUNY8809r3cguD6XCLovbn6YXxijD5-waOwkLxQDCl-5lxSV-h_AucrWoSZX4mtCWjCVIu6uRAZXGUMLCzwjV28IiTBsFyutFHsy1T0toQE6Pc1BGenXLwVCrDtP60pfoLGBaTz6ZcFVNKpybbV3MHOxaizVNlZERAD4e9f, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl026mWfZEmg90hiHryiagWo7n373rtq9U1-uW4dorvxiS9ZD7UFid_Jh-J5-yE93v3IzfvAu23KlEQuXheNtHu9SA2McPQ59HLy1vq-MRdWnt2sXIjy5jVmsvoN-0dXaAfYeiqCzqStydkRhtgkI7AZk5mLQ5HzDKDxhhJadL6jvQBuHHYr-oTs_z0OC-raR1KFn08aQahd0w",
+      "evento": "ATP 250 Marrakech - Secondo Turno: Darderi vs Bellucci",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno, Sky Sport Mix, Sky Sport Tennis, Sky Sport Plus",
+      "note": "Terzo match in programma a partire dalle 12:00 CET.",
+      "fonte": "Sport in tv oggi (mercoledì 1° aprile): orari e programma. Dove vedere gli eventi in streaming",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Elisabetta Cocciaretto vs Y. Yuan",
-      "competizione": "WTA 500 Charleston (Tennis)",
-      "canale": "Sky Sport, Sky Go, NOW",
-      "note": "Secondo turno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo7DkdJwlXR_QyZQQIfFwprAUNY8809r3cguD6XCLovbn6YXxijD5-waOwkLxQDCl-5lxSV-h_AucrWoSZX4mtCWjCVIu6uRAZXGUMLCzwjV28IiTBsFyutFHsy1T0toQE6Pc1BGenXLwVCrDtP60pfoLGBaTz6ZcFVNKpybbV3MHOxaizVNlZERAD4e9f",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Bayern Monaco - Manchester United",
-      "competizione": "UEFA Women's Champions League (Calcio) - Quarti di Finale",
-      "canale": "Disney+",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAJV37OAKjKCqmckoeQRlHDIVnTXsBPGi2DWH2zlTP059fstBD7tIHjtrVPvc78hH4Rzxpb3FsWO4eIGqfiMGUW_hbEn5VaHvBLIlOtOlDdjKSPEQiI8zorHJAaDajosSKuKO9T6vGKThOC2xJFkLgixzizXFu-XWBLdmOsgt4p4JovkVn2iMenBBcB6eOylRPDCjqp8U=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZZZu37SyFs8UBZXTsF-3Zg0Z7dE1rQg8V4eR-FSGTG-3agsdYslRCNPaxg1nB66h1LOtg_v7gHJV5QQcrggtpoZkw_bE2MlJSahsrQ_au3HcP5Rqzzy0LY48Q7Gz-Jy5MBxrIAYfdLbBKKrtHXkMZtS_I74ucQstkVfasfTXnoA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Chelsea - Arsenal",
-      "competizione": "UEFA Women's Champions League (Calcio) - Quarti di Finale",
-      "canale": "Disney+",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAJV37OAKjKCqmckoeQRlHDIVnTXsBPGi2DWH2zlTP059fstBD7tIHjtrVPvc78hH4Rzxpb3FsWO4eIGqfiMGUW_hbEn5VaHvBLIlOtOlDdjKSPEQiI8zorHJAaDajosSKuKO9T6vGKThOC2xJFkLgixzizXFu-XWBLdmOsgt4p4JovkVn2iMenBBcB6eOylRPDCjqp8U=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZZZu37SyFs8UBZXTsF-3Zg0Z7dE1rQg8V4eR-FSGTG-3agsdYslRCNPaxg1nB66h1LOtg_v7gHJV5QQcrggtpoZkw_bE2MlJSahsrQ_au3HcP5Rqzzy0LY48Q7Gz-Jy5MBxrIAYfdLbBKKrtHXkMZtS_I74ucQstkVfasfTXnoA==",
+      "orario": "15:00",
+      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara del Gran Premio del Giappone 2026.",
+      "fonte": "Programmi TV del 01 Aprile 2026 su Sky Sport Arena - Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
