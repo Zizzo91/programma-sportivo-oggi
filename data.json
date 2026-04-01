@@ -1,4 +1,32 @@
 {
-  "last_updated": "2026-04-01T03:23:55.658470+02:00",
-  "events": []
+  "last_updated": "2026-04-01T09:07:43.710996+02:00",
+  "events": [
+    {
+      "orario": "04:00",
+      "evento": "Mondiale Formula 1 2026: GP Giappone - Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Italia 1",
+      "note": "Replica della gara disputata il 29 marzo 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-q3qM9cmPyWFwLBRlon9bMPAQnWiFc6L1znHH2wUSa6Fm3EbyzKzN-BmUs2YNGLAtoPY-KJB3DsgePojZ7Iu-ut7KkGpfRoc0J486JzvnNJ5TQDckkeVNxRZF_WTqQlXhQ1IZHSZvmRLh7gUMBeVrfj_PKWKONfZ0Oj4FTDWMtoMA1b1qLb4S6a0gZucmbPZr7Q",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Tennis: Luciano Darderi vs Mattia Bellucci",
+      "competizione": "ATP Marrakech 2026 - Secondo Turno",
+      "canale": "Sky Sport Tennis, Sky Sport Mix, Sky Sport 1",
+      "note": "Match tra due giocatori italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXhJTEjct4AS8SKosQLi3LRQXOJ5U1dtrFRn0JWe-2rbec5NdrY4wnIr8SSlbAOeSxzN5-96BFFMgDksCtbtM1TSWRseAqYHC81dC0kcKIHS6aC8zJ1QpgNifA7P0LauvYFhXsCy1yxNcvinLMJyJ7l_0I88611ird5Zqg8pz_Hjiwt-d3EUd557uU07LU-G1qOYY2Z4pWt9a-laZf5SPGueDSDlYAurk",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Mondiale Formula 1 2026: GP Giappone - Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara disputata il 29 marzo 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQrrSHjVz0gCyhoAMzFV-hCKkiNssAvY8W6UCzH5KS6yB4THlreXPArm0BF9cD9HjIXe06Yijia50aWVid4WB3zcTRd3vFpEEF0Wp90CwX1maoKDnHZ7cO37StBaEVsA7FlOvRQjrMAFqrdxskrqfobt05DVw",
+      "accuratezza_orario": "esatto"
+    }
+  ]
 }
