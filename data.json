@@ -1,50 +1,95 @@
 {
-  "last_updated": "2026-04-02T03:14:24.316529+02:00",
+  "last_updated": "2026-04-02T08:59:53.270105+02:00",
   "events": [
     {
-      "orario": "14:00",
-      "evento": "GP Australia - Gara (Replica)",
+      "orario": "05:00",
+      "evento": "GP Giappone: Gara F1 (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport F1 HD",
-      "note": "Replica della gara del Gran Premio d'Australia, disputato a marzo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtMo4Jn1n0vuABJlfV496K28fJn9Ble9E_8TfpogjDZBMO4pCKysFdKNE_RJefLuG1AXLPUZ-6CmreEpk_LQZ83r8VZDt-LB-i6IFMo4EPbfb7F-wkmrPWiXJhEbHlY71aR5JhPe652BVNRzKdz3HuUvJN9M1dHxXMREXt9-d-GXOPQw==",
+      "note": "Replica della gara.",
+      "fonte": "Guida TV Sky Sport F1 - guida.tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:05",
-      "evento": "GP Stati Uniti - Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara del Gran Premio delle Americhe (USA), disputato a marzo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2S_tVP7YrBaQp0M0QV_JlO8aJ8CNq8Z6gqxNSCUrakzULJh8hpPSWqnxzchb66a6hSRQB16qsPpySPSRyK2BFv7xV1pRQ5GV2U425RZMrWC_Koi6W3oQncmFswtap351FFUdnOec==",
+      "orario": "11:00",
+      "evento": "GP Giappone: Gara F1 (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara.",
+      "fonte": "Guida TV Sky Sport F1 - guida.tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:15",
-      "evento": "GP Brasile - Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara del Gran Premio del Brasile, disputato a marzo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2S_tVP7YrBaQp0M0QV_JlO8aJ8CNq8Z6gqxNSCUrakzULJh8hpPSWqnxzchb66a6hSRQB16qsPpySPSRyK2BFv7xV1pRQ5GV2U425RZMrWC_Koi6W3oQncmFswtap351FFUdnOec==",
+      "orario": "17:00",
+      "evento": "GP Giappone: Gara F1 (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara.",
+      "fonte": "Guida TV Sky Sport F1 - guida.tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:25",
-      "evento": "GP Stati Uniti - Sprint Race (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della Sprint Race del Gran Premio delle Americhe (USA), disputato a marzo. L'orario si riferisce al 3 aprile (entro le 06:00 CET).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2S_tVP7YrBaQp0M0QV_JlO8aJ8CNq8Z6gqxNSCUrakzULJh8hpPSWqnxzchb66a6hSRQB16qsPpySPSRyK2BFv7xV1pRQ5GV2U425RZMrWC_Koi6W3oQncmFswtap351FFUdnOec==",
+      "orario": "19:00*",
+      "evento": "WTA 500 Charleston - Ottavi di finale (Elisabetta Cocciaretto vs Jessica Pegula)",
+      "competizione": "WTA Tour",
+      "canale": "SuperTennis, SuperTennis Plus, SuperTenniX",
+      "note": "Match di singolare di Elisabetta Cocciaretto. Orario stimato in quanto indicato come secondo match dalle 17:00 CET o alle 19:00 CET.",
+      "fonte": "OA Sport, SuperTennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "TV Sport Formula Uno: Gran Premio d'Australia",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Programma speciale/replica del Gran Premio d'Australia.",
+      "fonte": "Guida TV Sky Sport F1 - guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Eurolega 2025/2026 - Paris vs Olimpia Milano",
+      "competizione": "Eurolega",
+      "canale": "Sky Sport Uno, Sky Sport Basket",
+      "note": "",
+      "fonte": "Guida TV Sky Sport Uno, Il calcio in TV oggi",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "TBA",
-      "evento": "Siena vs Grosseto",
-      "competizione": "Serie D - Girone E",
-      "canale": "Vivo Azzurro TV",
-      "note": "Partita della 30ª giornata.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkE3XRfcozcksrQ8oQQw0p_ZUTw7dWCTxoTzfOz3mz0a1kkwikVAEETYeRmUBDa3NBED5vcU1BiWhb-ES3td69OAgLMiUcLrXeq8b-brOTLsjl0rFVlqmYpocdbdvsq6_fhj5ayneVXZvKsmQWDKduc2MozC3vX-HcdyBqkDjV519m6g3U0SCA5i4jmhMNh5mo-i80gA7qPoiZLGl7dLFL_vaN9As1KPnqql-d4sGr",
+      "evento": "WTA 500 Charleston - Quarti di finale (Doppio, Cocciaretto/Putintseva vs Gorgodze/Zarazua)",
+      "competizione": "WTA Tour",
+      "canale": "SuperTennis, SuperTennis Plus, SuperTenniX",
+      "note": "Match di doppio di Elisabetta Cocciaretto, quarto match della giornata dalle 17:00 CET, dopo il singolare. Orario da definire in base alla durata dei match precedenti.",
+      "fonte": "OA Sport",
       "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "22:15",
+      "evento": "GP Stati Uniti: MotoGP Sprint (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della Sprint Race.",
+      "fonte": "Il calcio in TV oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "GP Stati Uniti: MotoGP Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara.",
+      "fonte": "Il calcio in TV oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "TV Sport Formula Uno: Gran Premio d'Australia",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Programma speciale/replica del Gran Premio d'Australia. (Venerdì 3 aprile, prima delle 06:00 CET).",
+      "fonte": "Guida TV Sky Sport F1 - guida.tv",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
