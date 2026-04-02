@@ -1,95 +1,23 @@
 {
-  "last_updated": "2026-04-02T08:59:53.270105+02:00",
+  "last_updated": "2026-04-02T20:40:53.950981+02:00",
   "events": [
     {
-      "orario": "05:00",
-      "evento": "GP Giappone: Gara F1 (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Replica della gara.",
-      "fonte": "Guida TV Sky Sport F1 - guida.tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "GP Giappone: Gara F1 (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Replica della gara.",
-      "fonte": "Guida TV Sky Sport F1 - guida.tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "GP Giappone: Gara F1 (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Replica della gara.",
-      "fonte": "Guida TV Sky Sport F1 - guida.tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "WTA 500 Charleston - Ottavi di finale (Elisabetta Cocciaretto vs Jessica Pegula)",
-      "competizione": "WTA Tour",
-      "canale": "SuperTennis, SuperTennis Plus, SuperTenniX",
-      "note": "Match di singolare di Elisabetta Cocciaretto. Orario stimato in quanto indicato come secondo match dalle 17:00 CET o alle 19:00 CET.",
-      "fonte": "OA Sport, SuperTennis",
+      "orario": "18:30*",
+      "evento": "Tennis: Ottavi di Finale - Elisabetta Cocciaretto (ITA) vs Jessica Pegula",
+      "competizione": "WTA 500 Charleston",
+      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Secondo match dalle 17:00, non prima delle 18:30 CEST. Orario stimato.",
+      "fonte": "https://sportface.it/2026/04/02/sport-in-tv-oggi-2-aprile-eurolega-champions-volley-curling-e-tanto-tennis/1959883",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "19:00",
-      "evento": "TV Sport Formula Uno: Gran Premio d'Australia",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Programma speciale/replica del Gran Premio d'Australia.",
-      "fonte": "Guida TV Sky Sport F1 - guida.tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Eurolega 2025/2026 - Paris vs Olimpia Milano",
-      "competizione": "Eurolega",
-      "canale": "Sky Sport Uno, Sky Sport Basket",
-      "note": "",
-      "fonte": "Guida TV Sky Sport Uno, Il calcio in TV oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "WTA 500 Charleston - Quarti di finale (Doppio, Cocciaretto/Putintseva vs Gorgodze/Zarazua)",
-      "competizione": "WTA Tour",
-      "canale": "SuperTennis, SuperTennis Plus, SuperTenniX",
-      "note": "Match di doppio di Elisabetta Cocciaretto, quarto match della giornata dalle 17:00 CET, dopo il singolare. Orario da definire in base alla durata dei match precedenti.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "22:15",
-      "evento": "GP Stati Uniti: MotoGP Sprint (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della Sprint Race.",
-      "fonte": "Il calcio in TV oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "GP Stati Uniti: MotoGP Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara.",
-      "fonte": "Il calcio in TV oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "TV Sport Formula Uno: Gran Premio d'Australia",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Programma speciale/replica del Gran Premio d'Australia. (Venerdì 3 aprile, prima delle 06:00 CET).",
-      "fonte": "Guida TV Sky Sport F1 - guida.tv",
-      "accuratezza_orario": "esatto"
+      "orario": "22:00*",
+      "evento": "Tennis: Quarti di Finale Doppio - Cocciaretto/Putintseva vs Gorgodze/Zarazua",
+      "competizione": "WTA 500 Charleston",
+      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Quarto match dalle 17:00, dopo riposo. Orario stimato.",
+      "fonte": "https://sportface.it/2026/04/02/sport-in-tv-oggi-2-aprile-eurolega-champions-volley-curling-e-tanto-tennis/1959883",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
