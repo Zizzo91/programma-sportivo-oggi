@@ -1,23 +1,50 @@
 {
-  "last_updated": "2026-04-01T20:44:50.540562+02:00",
+  "last_updated": "2026-04-02T03:14:24.316529+02:00",
   "events": [
     {
-      "orario": "12:00*",
-      "evento": "ATP 250 Marrakech - Secondo Turno: Darderi vs Bellucci",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno, Sky Sport Mix, Sky Sport Tennis, Sky Sport Plus",
-      "note": "Terzo match in programma a partire dalle 12:00 CET.",
-      "fonte": "Sport in tv oggi (mercoledì 1° aprile): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "stimato"
+      "orario": "14:00",
+      "evento": "GP Australia - Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara del Gran Premio d'Australia, disputato a marzo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtMo4Jn1n0vuABJlfV496K28fJn9Ble9E_8TfpogjDZBMO4pCKysFdKNE_RJefLuG1AXLPUZ-6CmreEpk_LQZ83r8VZDt-LB-i6IFMo4EPbfb7F-wkmrPWiXJhEbHlY71aR5JhPe652BVNRzKdz3HuUvJN9M1dHxXMREXt9-d-GXOPQw==",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Mondiale Formula 1 2026 - GP Giappone: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara del Gran Premio del Giappone 2026.",
-      "fonte": "Programmi TV del 01 Aprile 2026 su Sky Sport Arena - Guida TV",
+      "orario": "20:05",
+      "evento": "GP Stati Uniti - Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara del Gran Premio delle Americhe (USA), disputato a marzo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2S_tVP7YrBaQp0M0QV_JlO8aJ8CNq8Z6gqxNSCUrakzULJh8hpPSWqnxzchb66a6hSRQB16qsPpySPSRyK2BFv7xV1pRQ5GV2U425RZMrWC_Koi6W3oQncmFswtap351FFUdnOec==",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "GP Brasile - Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara del Gran Premio del Brasile, disputato a marzo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2S_tVP7YrBaQp0M0QV_JlO8aJ8CNq8Z6gqxNSCUrakzULJh8hpPSWqnxzchb66a6hSRQB16qsPpySPSRyK2BFv7xV1pRQ5GV2U425RZMrWC_Koi6W3oQncmFswtap351FFUdnOec==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:25",
+      "evento": "GP Stati Uniti - Sprint Race (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della Sprint Race del Gran Premio delle Americhe (USA), disputato a marzo. L'orario si riferisce al 3 aprile (entro le 06:00 CET).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2S_tVP7YrBaQp0M0QV_JlO8aJ8CNq8Z6gqxNSCUrakzULJh8hpPSWqnxzchb66a6hSRQB16qsPpySPSRyK2BFv7xV1pRQ5GV2U425RZMrWC_Koi6W3oQncmFswtap351FFUdnOec==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Siena vs Grosseto",
+      "competizione": "Serie D - Girone E",
+      "canale": "Vivo Azzurro TV",
+      "note": "Partita della 30ª giornata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkE3XRfcozcksrQ8oQQw0p_ZUTw7dWCTxoTzfOz3mz0a1kkwikVAEETYeRmUBDa3NBED5vcU1BiWhb-ES3td69OAgLMiUcLrXeq8b-brOTLsjl0rFVlqmYpocdbdvsq6_fhj5ayneVXZvKsmQWDKduc2MozC3vX-HcdyBqkDjV519m6g3U0SCA5i4jmhMNh5mo-i80gA7qPoiZLGl7dLFL_vaN9As1KPnqql-d4sGr",
+      "accuratezza_orario": "tba"
     }
   ]
 }
