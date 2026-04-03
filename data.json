@@ -1,23 +1,14 @@
 {
-  "last_updated": "2026-04-02T20:40:53.950981+02:00",
+  "last_updated": "2026-04-03T03:16:49.702062+02:00",
   "events": [
     {
-      "orario": "18:30*",
-      "evento": "Tennis: Ottavi di Finale - Elisabetta Cocciaretto (ITA) vs Jessica Pegula",
-      "competizione": "WTA 500 Charleston",
-      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Secondo match dalle 17:00, non prima delle 18:30 CEST. Orario stimato.",
-      "fonte": "https://sportface.it/2026/04/02/sport-in-tv-oggi-2-aprile-eurolega-champions-volley-curling-e-tanto-tennis/1959883",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "22:00*",
-      "evento": "Tennis: Quarti di Finale Doppio - Cocciaretto/Putintseva vs Gorgodze/Zarazua",
-      "competizione": "WTA 500 Charleston",
-      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Quarto match dalle 17:00, dopo riposo. Orario stimato.",
-      "fonte": "https://sportface.it/2026/04/02/sport-in-tv-oggi-2-aprile-eurolega-champions-volley-curling-e-tanto-tennis/1959883",
-      "accuratezza_orario": "stimato"
+      "orario": "18:00",
+      "evento": "Roma Femminile vs Como Women",
+      "competizione": "Serie A Women",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "90Min.com",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
