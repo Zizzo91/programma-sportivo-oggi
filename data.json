@@ -1,103 +1,85 @@
 {
-  "last_updated": "2026-04-04T08:46:13.106590+02:00",
+  "last_updated": "2026-04-04T20:26:16.073055+02:00",
   "events": [
     {
       "orario": "12:30",
       "evento": "Fiorentina-Juventus",
-      "competizione": "Serie A Women Athora",
+      "competizione": "Serie A Femminile",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Qy7cOCM4im7mgf6GAjHCaEH9RkCemUtdwOtop-sixu9lysi9eH568n32wFDgrDYKhH1fOt1CvYshc2hjC_oM-3S6eVDALyi5I4CRauzzdiOfwQNGnm3syx7eZXKCdzBrxlOvzBDA_FGFJxuXAqEhhpi5My5o1SgdbpiO85YJdCEtGPFzqGIcCKQRevZEjvMjIuHjCyB_eJPhcLtfUE0YFDr_PiFTuVRRKfh9neanfdo",
+      "fonte": "90Min.com, Sportface.it, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
       "evento": "Napoli-Genoa",
-      "competizione": "Serie A Women Athora",
+      "competizione": "Serie A Femminile",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Qy7cOCM4im7mgf6GAjHCaEH9RkCemUtdwOtop-sixu9lysi9eH568n32wFDgrDYKhH1fOt1CvYshc2hjC_oM-3S6eVDALyi5I4CRauzzdiOfwQNGnm3syx7eZXKCdzBrxlOvzBDA_FGFJxuXAqEhhpi5My5o1SgdbpiO85YJdCEtGPFzqGIcCKQRevZEjvMjIuHjCyB_eJPhcLtfUE0YFDr_PiFTuVRRKfh9neanfdo",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Semifinale: Luciano Darderi vs Marco Trungelliti",
-      "competizione": "ATP 250 Marrakech",
-      "canale": "Sky Sport Max, Sky Go, NOW, Tennis TV",
-      "note": "Match con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEURYFzoAnbKPdLcE9RUjp_k4NeN5Rt_iZo9M9a0QwDR_Y-qCX0xKfvwDwd_8eSRrAWdvCqdrPuMg15N3AfrYFRx8Ki_5sntd8aUBvwjMyikF0-pJcFRUJXwLuIP-Q8H2ff_MskfOUIRnfip2iTO258a6vo0GM6rAaJ3BK_Esz3XfsYn0E9kgY04NxF3BxDEjKhZb7xLe_-3w3viZJ5X7d-l9KVUQcidsEX3mCAXZx_ZAMXfmT0P-5vzw",
+      "fonte": "90Min.com, Sportface.it, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Sassuolo-Cagliari",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 2",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu97U7VNiPzDN0pRFYyCXcqRAjEVfMm16Rs4WXoyz7zf5XhEPRg_HCNZOgQklQmyzEWCC1MuCNfQgz1cbwKry9FL_SYIR7t_W56BO6m_9eV0ZyrQqYyTZsUQKX1e1LwJTR7HNurwbdlwUNZNqpOsmE8balCt1VcFT5_d-Dsztxtg",
+      "fonte": "90Min.com, Fanpage, Movieplayer, Libero, Sport Oggi, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Lecce-Atalanta",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Sport Oggi, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Inter-Lazio",
-      "competizione": "Serie A Women Athora",
+      "competizione": "Serie A Femminile",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu97U7VNiPzDN0pRFYyCXcqRAjEVfMm16Rs4WXoyz7zf5XhEPRg_HCNZOgQklQmyzEWCC1MuCNfQgz1cbwKry9FL_SYIR7t_W56BO6m_9eV0ZyrQqYyTZsUQKX1e1LwJTR7HNurwbdlwUNZNqpOsmE8balCt1VcFT5_d-Dsztxtg",
+      "fonte": "90Min.com, Calciomagazine",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Semifinale: Luciano Darderi (ITA) vs Marco Trungelliti",
+      "competizione": "ATP 250 Marrakech",
+      "canale": "Sky Sport Max",
+      "note": "Orario stimato. Luciano Darderi ha perso la semifinale.",
+      "fonte": "OA Sport, SuperSport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "16:00",
       "evento": "Parma-Ternana",
-      "competizione": "Serie A Women Athora",
-      "canale": "DAZN",
+      "competizione": "Serie A Femminile",
+      "canale": "DAZN, Rai Sport",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEK9JCRnlKE748t21Y7Hsu9J6CcmvX_JkpfYmwYz2vwit5XfTMglFTauAvi1oZg9K2RGl70jYK1OixlID4B9A25pc1ECxah02iyAoKQnGWLntP5ZxX_dA_Cu_PHrGGgQ4DOTP_LQGvmwkzKatm-980gqQK2Sj_ibZf2wsdiuvmRfQL2MKGq1hLE0DRwAxSLLftjeSSdpVuxmUQUAs9CZSEqr9LWFoMryFahwfh1hsOQhDMjXPYHCRz5pwCVjX5xuTE2vYvXwc9w9Qbyma_abInWJd-m07RdmSq0Wuky76f9DNwktrZJtPqye8NYgfuH20",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Vero Volley Monza – Sonepar Padova",
-      "competizione": "SuperLega Credem Banca (Play Off 5° Posto, Quarti di Finale Gara 1)",
-      "canale": "VBTV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElKKgHdAJc4xe1Wz2i-UCxsyJpHuaMBOxCLW-asBjGcvE1hS2aZ8xychBHys5sIXgzYVgXIY3xXEb0-5H0YvA3-SLPgXLpOSzi_DbMQfG3ct95Dp81bNKA_tQ5yrKTr99rqCrohTj-3aMVHOFS66qkDiyI7MEa7ScJthTqUkH24ZEb_3ZFK-LqTz8dVZDWWYfVZnKpADX2V5Hdnx3iArvsS8o",
+      "fonte": "90Min.com, Sport Oggi",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Verona-Fiorentina",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu97U7VNiPzDN0pRFYyCXcqRAjEVfMm16Rs4WXoyz7zf5XhEPRg_HCNZOgQklQmyzEWCC1MuCNfQgz1cbwKry9FL_SYIR7t_W56BO6m_9eV0ZyrQqYyTZsUQKX1e1LwJTR7HNurwbdlwUNZNqpOsmE8balCt1VcFT5_d-Dsztxtg",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "GP Stati Uniti Moto Qualifiche Moto 3",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "Differita/Replica del GP Americhe (USA)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHglSJe2fJ2HHd2e46GzYobWc9KaaP9n_uXKpZiSnqNxNcoAZNmh5xmAUOz--ayNpuMcmsb2p62ArqQE5t7cq9dK4PdopbaYLQwcU-ldfYrJ7JedCyR9PTWttVBYw8b-uk9sqs2HJwwpW4CzcSiWV0pGkJmVH1esxTA-fTcNxCHnhOqWyv3mgxj8AGSM_EczbcwYma8_jtVjw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "GP Stati Uniti Moto Qualifiche MotoGP Sprint Race",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "Differita/Replica del GP Americhe (USA)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHglSJe2fJ2HHd2e46GzYobWc9KaaP9n_uXKpZiSnqNxNcoAZNmh5xmAUOz--ayNpuMcmsb2p62ArqQE5t7cq9dK4PdopbaYLQwcU-ldfYrJ7JedCyR9PTWttVBYw8b-uk9sqs2HJwwpW4CzcSiWV0pGkJmVH1esxTA-fTcNxCHnhOqWyv3mgxj8AGSM_EczbcwYma8_jtVjw",
+      "fonte": "90Min.com, Fanpage, Movieplayer, Libero, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Lazio-Parma",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETXkm_6P1EQKz8tZWpP3P9xmyOwelhr-rvkafdHcFSQDMQcr5gvQelLzzb3w6VdnTOWF1RCUcuo2IFrmn0kxwWyrQtE1N5dWqBKbvapqqf51PBBvUFo0FbI7DcjHdG5c_E12-cVt-PseDu6emoofRmuvgnaEdPfs6TxnM3NWzmWlbybVLXL8LIz3TLiOb9CNPzXOgcin6pncVVR4HXT2JLCbqXEgYIVAU5z7JJso3GW8rBeA8w",
+      "fonte": "90Min.com, Fanpage, Movieplayer, Libero, Sportface.it, Calciomagazine",
       "accuratezza_orario": "esatto"
     }
   ]
