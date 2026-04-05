@@ -1,85 +1,76 @@
 {
-  "last_updated": "2026-04-04T20:26:16.073055+02:00",
+  "last_updated": "2026-04-05T03:19:33.574091+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Fiorentina-Juventus",
-      "competizione": "Serie A Femminile",
-      "canale": "DAZN",
+      "orario": "03:00",
+      "evento": "GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "90Min.com, Sportface.it, Calciomagazine",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgxMGlJFbObYnv9bz6A4oVXmZZk17DpZHJLyw1fn7B8i7Q83JEtE4iFkNHG9K5IkvZVecy5Drk2l7UUeMEyj8ynYDFYutVvvddGtbDF_8HNCze6tFsTcFLXMzWV84Yoy-ulP2HQhd1LPDoMiWc0RYsX0",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgxMGlJFbObYnv9bz6A4oVXmZZk17DpZHJLyw1fn7B8i7Q83JEtE4iFkNHG9K5IkvZVecy5Drk2l7UUeMEyj8ynYDFYutVvvddGtbDF_8HNCze6tFsTcFLXMzWV84Yoy-ulP2HQhd1LPDoMiWc0RYsX0",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Bergs/Sinner – Machac/Ruud",
+      "competizione": "ATP Masters 1000 Monte-Carlo - Doppio 1° turno",
+      "canale": "Sky Sport",
+      "note": "Match con giocatore italiano (Jannik Sinner). Sky Sport Arena trasmette la 1a giornata del torneo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkUWW1mVmB6iktKMRmAmFm3YjDQgMeRSzw7-y5EPHeupCr_YHycSOusn1WjiQkPU3NIDDTpPrQOTL1DdE4cZJyiqgVkRhm2hji1vQg-CgtI5ENf5RrVkJ4jFir7EumpAVrbAbrqanDQVzBUe2U0yom987KcaUSkH1Af261s6yj0MTOiDpXVvYeWVhScCSHJU3u2QlUeoLj-bJx2EqX8CsoM8TZFtDx4Bia5d4MiFJlJVvXUuV6WlyJaeiT8CfuIwc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZq0Mk0m_3FDtCFCyHeJTWk-Z0dfnTLNEGWdOWhNFEQcY7uv6fr6CnxzV9kpA5G06_c817MZreLFfq9pCF-XgAO7VMboTjROVM303eN54wXmJPg-H6OipltvO5ugupqYv9ocDoR5ASl_HlyavVNsd3lO-vbpRI",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Napoli-Genoa",
-      "competizione": "Serie A Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "90Min.com, Sportface.it, Calciomagazine",
+      "evento": "Arnaldi – Muller",
+      "competizione": "ATP Masters 1000 Monte-Carlo - Qualificazioni 2° turno",
+      "canale": "Sky Sport",
+      "note": "Match con giocatore italiano (Matteo Arnaldi). Sky Sport Arena trasmette la 1a giornata del torneo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkUWW1mVmB6iktKMRmAmFm3YjDQgMeRSzw7-y5EPHeupCr_YHycSOusn1WjiQkPU3NIDDTpPrOOTL1DdE4cZJyiqgVkRhm2hji1vQg-CgtI5ENf5RrVkJ4jFir7EumpAVrbAbrqanDQVzBUe2U0yom987KcaUSkH1Af261s6yj0MTOiDpXVvYeWVhScCSHJU3u2QlUeoLj-bJx2EqX8CsoM8TZFtDx4Bia5d4MiFJlJVvXUuV6WlyJaeiT8CfuIwc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZq0Mk0m_3FDtCFCyHeJTWk-Z0dfnTLNEGWdOWhNFEQcY7uv6fr6CnxzV9kpA5G06_c817MZreLFfq9pCF-XgAO7VMboTjROVM303eN54wXmJPg-H6OipltvO5ugupqYv9ocDoR5ASl_HlyavVNsd3lO-vbpRI",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Sassuolo-Cagliari",
+      "evento": "Cremonese – Bologna",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
       "note": "",
-      "fonte": "90Min.com, Fanpage, Movieplayer, Libero, Sport Oggi, Calciomagazine",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkPlRIjmTnBZfxl7tX8yhCUhZsM5sUFBzcvOGO2Zy5pfgxzAnhrAKZFfMqCKIiRipuA7HlZRoStkMLkTIiXM8YXAVvIcb7-YpCG8gQeFuu3Zplh1lSihxl1eCl53TcPATHjRpVdKFEfxqWNB4-EMzkgzRRb80ViZXeV2-kFvtbIQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Lecce-Atalanta",
-      "competizione": "Serie A",
-      "canale": "DAZN",
+      "evento": "GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Sport Oggi, Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Inter-Lazio",
-      "competizione": "Serie A Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "90Min.com, Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "Semifinale: Luciano Darderi (ITA) vs Marco Trungelliti",
-      "competizione": "ATP 250 Marrakech",
-      "canale": "Sky Sport Max",
-      "note": "Orario stimato. Luciano Darderi ha perso la semifinale.",
-      "fonte": "OA Sport, SuperSport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Parma-Ternana",
-      "competizione": "Serie A Femminile",
-      "canale": "DAZN, Rai Sport",
-      "note": "",
-      "fonte": "90Min.com, Sport Oggi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgxMGlJFbObYnv9bz6A4oVXmZZk17DpZHJLyw1fn7B8i7Q83JEtE4iFkNHG9K5IkvZVecy5Drk2l7UUeMEyj8ynYDFYutVvvddGtbDF_8HNCze6tFsTcFLXMzWV84Yoy-ulP2HQhd1LPDoMiWc0RYsX0",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Verona-Fiorentina",
+      "evento": "Pisa – Torino",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "Sky Sport Calcio, DAZN",
       "note": "",
-      "fonte": "90Min.com, Fanpage, Movieplayer, Libero, Calciomagazine",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbmZPGv7Q9itjspJtVVzXVqLt0ljANrWIgyzmgTTdSk36VFKGRAAwCFdtEEAmfLWb5A5j8HzOOOlHcj-_nvWo6CWcEtFSNEZUcMiEbk0bseaFCfLAqTiTx0caoGxuZSH2o0yQwySA1zA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkPlRIjmTnBZfxl7tX8yhCUhZsM5sUFBzcvOGO2Zy5pfgxzAnhrAKZFfMqCKIiRipuA7HlZRoStkMLkTIiXM8YXAVvIcb7-YpCG8gQeFuu3Zplh1lSihxl1eCl53TcPATHjRpVdKFEfxqWNB4-EMzkgzRRb80ViZXeV2-kFvtbIQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Lazio-Parma",
+      "evento": "Inter – Roma",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
       "note": "",
-      "fonte": "90Min.com, Fanpage, Movieplayer, Libero, Sportface.it, Calciomagazine",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkPlRIjmTnBZfxl7tX8yhCUhZsM5sUFBzcvOGO2Zy5pfgxzAnhrAKZFfMqCKIiRipuA7HlZRoStkMLkTIiXM8YXAVvIcb7-YpCG8gQeFuu3Zplh1lSihxl1eCl53TcPATHjRpVdKFEfxqWNB4-EMzkgzRRb80ViZXeV2-kFvtbIQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbmZPGv7Q9itjspJtVVzXVqLt0ljANrWIgyzmgTTdSk36VFKGRAAwCFdtEEAmfLWb5A5j8HzOOOlHcj-_nvWo6CWcEtFSNEZUcMiEbk0bseaFCfLAqTiTx0caoGxuZSH2o0yQwySA1zA==",
       "accuratezza_orario": "esatto"
     }
   ]
