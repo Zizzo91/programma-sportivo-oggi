@@ -1,76 +1,40 @@
 {
-  "last_updated": "2026-04-05T03:19:33.574091+02:00",
+  "last_updated": "2026-04-05T08:54:07.367128+02:00",
   "events": [
     {
-      "orario": "03:00",
-      "evento": "GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgxMGlJFbObYnv9bz6A4oVXmZZk17DpZHJLyw1fn7B8i7Q83JEtE4iFkNHG9K5IkvZVecy5Drk2l7UUeMEyj8ynYDFYutVvvddGtbDF_8HNCze6tFsTcFLXMzWV84Yoy-ulP2HQhd1LPDoMiWc0RYsX0",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgxMGlJFbObYnv9bz6A4oVXmZZk17DpZHJLyw1fn7B8i7Q83JEtE4iFkNHG9K5IkvZVecy5Drk2l7UUeMEyj8ynYDFYutVvvddGtbDF_8HNCze6tFsTcFLXMzWV84Yoy-ulP2HQhd1LPDoMiWc0RYsX0",
+      "orario": "08:00",
+      "evento": "Serie A 2025/2026 - 31a giornata",
+      "competizione": "Calcio Serie A",
+      "canale": "Sky Sport Uno",
+      "note": "Partita di campionato.",
+      "fonte": "https://guida.tv/palinsesto/sky-sport-uno/05-04-2026/mattina/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:00",
-      "evento": "Bergs/Sinner – Machac/Ruud",
-      "competizione": "ATP Masters 1000 Monte-Carlo - Doppio 1° turno",
-      "canale": "Sky Sport",
-      "note": "Match con giocatore italiano (Jannik Sinner). Sky Sport Arena trasmette la 1a giornata del torneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkUWW1mVmB6iktKMRmAmFm3YjDQgMeRSzw7-y5EPHeupCr_YHycSOusn1WjiQkPU3NIDDTpPrQOTL1DdE4cZJyiqgVkRhm2hji1vQg-CgtI5ENf5RrVkJ4jFir7EumpAVrbAbrqanDQVzBUe2U0yom987KcaUSkH1Af261s6yj0MTOiDpXVvYeWVhScCSHJU3u2QlUeoLj-bJx2EqX8CsoM8TZFtDx4Bia5d4MiFJlJVvXUuV6WlyJaeiT8CfuIwc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZq0Mk0m_3FDtCFCyHeJTWk-Z0dfnTLNEGWdOWhNFEQcY7uv6fr6CnxzV9kpA5G06_c817MZreLFfq9pCF-XgAO7VMboTjROVM303eN54wXmJPg-H6OipltvO5ugupqYv9ocDoR5ASl_HlyavVNsd3lO-vbpRI",
+      "evento": "Torino - Cesena",
+      "competizione": "Campionato Primavera 1",
+      "canale": "Sportitalia",
+      "note": "Partita del campionato giovanile Primavera 1.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HQMayFmDgbHxRYPDFwb8Tr79qrXd0irxSKskxgrrBWdOgAlcgWgHVkEaZwH5O-oBhmDMUnFK_xWPyxiBgdQh-SYUyiCcmPJqlKIgRz-nWRGrWaunbqn0DbPodqik4EgmpZmGu9HP8NhPkiVLoZxoPoB00OCceqiQtMIePt8xvPErLvYSt4aWPR_8Te9e3e7w_qTOOyaS2r1kLFpsP6vakW4Iakbk8xwv-0Ve7nUX-rRggz8wf5eILkZNKJNMWqChxujuc-V8Aw==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:30",
-      "evento": "Arnaldi – Muller",
-      "competizione": "ATP Masters 1000 Monte-Carlo - Qualificazioni 2° turno",
-      "canale": "Sky Sport",
-      "note": "Match con giocatore italiano (Matteo Arnaldi). Sky Sport Arena trasmette la 1a giornata del torneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkUWW1mVmB6iktKMRmAmFm3YjDQgMeRSzw7-y5EPHeupCr_YHycSOusn1WjiQkPU3NIDDTpPrOOTL1DdE4cZJyiqgVkRhm2hji1vQg-CgtI5ENf5RrVkJ4jFir7EumpAVrbAbrqanDQVzBUe2U0yom987KcaUSkH1Af261s6yj0MTOiDpXVvYeWVhScCSHJU3u2QlUeoLj-bJx2EqX8CsoM8TZFtDx4Bia5d4MiFJlJVvXUuV6WlyJaeiT8CfuIwc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZq0Mk0m_3FDtCFCyHeJTWk-Z0dfnTLNEGWdOWhNFEQcY7uv6fr6CnxzV9kpA5G06_c817MZreLFfq9pCF-XgAO7VMboTjROVM303eN54wXmJPg-H6OipltvO5ugupqYv9ocDoR5ASl_HlyavVNsd3lO-vbpRI",
+      "orario": "13:00",
+      "evento": "Genoa - Monza",
+      "competizione": "Campionato Primavera 1",
+      "canale": "Sportitalia",
+      "note": "Partita del campionato giovanile Primavera 1.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HQMayFmDgbHxRYPDFwb8Tr79qrXd0irxSKskxgrrBWdOgAlcgWgHVkEaZwH5O-oBhmDMUnFK_xWPyxiBgdQh-SYUyiCcmPJqlKIgRz-nWRGrWaunbqn0DbPodqik4EgmpZmGu9HP8NhPkiVLoZxoPoB00OCceqiQtMIePt8xvPErLvYSt4aWPR_8Te9e3e7w_qTOOyaS2r1kLFpsP6vakW4Iakbk8xwv-0Ve7nUX-rRggz8wf5eILkZNKJNMWqChxujuc-V8Aw==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Cremonese – Bologna",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkPlRIjmTnBZfxl7tX8yhCUhZsM5sUFBzcvOGO2Zy5pfgxzAnhrAKZFfMqCKIiRipuA7HlZRoStkMLkTIiXM8YXAVvIcb7-YpCG8gQeFuu3Zplh1lSihxl1eCl53TcPATHjRpVdKFEfxqWNB4-EMzkgzRRb80ViZXeV2-kFvtbIQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "GP Australia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgxMGlJFbObYnv9bz6A4oVXmZZk17DpZHJLyw1fn7B8i7Q83JEtE4iFkNHG9K5IkvZVecy5Drk2l7UUeMEyj8ynYDFYutVvvddGtbDF_8HNCze6tFsTcFLXMzWV84Yoy-ulP2HQhd1LPDoMiWc0RYsX0",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Pisa – Torino",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbmZPGv7Q9itjspJtVVzXVqLt0ljANrWIgyzmgTTdSk36VFKGRAAwCFdtEEAmfLWb5A5j8HzOOOlHcj-_nvWo6CWcEtFSNEZUcMiEbk0bseaFCfLAqTiTx0caoGxuZSH2o0yQwySA1zA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkPlRIjmTnBZfxl7tX8yhCUhZsM5sUFBzcvOGO2Zy5pfgxzAnhrAKZFfMqCKIiRipuA7HlZRoStkMLkTIiXM8YXAVvIcb7-YpCG8gQeFuu3Zplh1lSihxl1eCl53TcPATHjRpVdKFEfxqWNB4-EMzkgzRRb80ViZXeV2-kFvtbIQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Inter – Roma",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkPlRIjmTnBZfxl7tX8yhCUhZsM5sUFBzcvOGO2Zy5pfgxzAnhrAKZFfMqCKIiRipuA7HlZRoStkMLkTIiXM8YXAVvIcb7-YpCG8gQeFuu3Zplh1lSihxl1eCl53TcPATHjRpVdKFEfxqWNB4-EMzkgzRRb80ViZXeV2-kFvtbIQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbmZPGv7Q9itjspJtVVzXVqLt0ljANrWIgyzmgTTdSk36VFKGRAAwCFdtEEAmfLWb5A5j8HzOOOlHcj-_nvWo6CWcEtFSNEZUcMiEbk0bseaFCfLAqTiTx0caoGxuZSH2o0yQwySA1zA==",
+      "orario": "13:30",
+      "evento": "1a giornata",
+      "competizione": "ATP Masters 1000 Monte-Carlo",
+      "canale": "Sky Sport Arena",
+      "note": "Inizio del torneo, con probabile partecipazione di tennisti italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HQMayFmDgbHxRYPDFwb8Tr79qrXd0irxSKskxgrrBWdOgAlcgWgHVkEaZwH5O-oBhmDMUnFK_xWPyxiBgdQh-SYUyiCcmPJqlKIgRz-nWRGrWaunbqn0DbPodqik4EgmpZmGu9HP8NhPkiVLoZxoPoB00OCceqiQtMIePt8xvPErLvYSt4aWPR_8Te9e3e7w_qTOOyaS2r1kLFpsP6vakW4Iakbk8xwv-0Ve7nUX-rRggz8wf5eILkZNKJNMWqChxujuc-V8Aw==",
       "accuratezza_orario": "esatto"
     }
   ]
