@@ -1,40 +1,67 @@
 {
-  "last_updated": "2026-04-05T08:54:07.367128+02:00",
+  "last_updated": "2026-04-05T14:33:01.634837+02:00",
   "events": [
     {
-      "orario": "08:00",
-      "evento": "Serie A 2025/2026 - 31a giornata",
-      "competizione": "Calcio Serie A",
-      "canale": "Sky Sport Uno",
-      "note": "Partita di campionato.",
-      "fonte": "https://guida.tv/palinsesto/sky-sport-uno/05-04-2026/mattina/",
+      "orario": "15:00",
+      "evento": "Cremonese - Bologna",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
+      "note": "",
+      "fonte": "90Min.com, Movieplayer, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00",
-      "evento": "Torino - Cesena",
-      "competizione": "Campionato Primavera 1",
-      "canale": "Sportitalia",
-      "note": "Partita del campionato giovanile Primavera 1.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HQMayFmDgbHxRYPDFwb8Tr79qrXd0irxSKskxgrrBWdOgAlcgWgHVkEaZwH5O-oBhmDMUnFK_xWPyxiBgdQh-SYUyiCcmPJqlKIgRz-nWRGrWaunbqn0DbPodqik4EgmpZmGu9HP8NhPkiVLoZxoPoB00OCceqiQtMIePt8xvPErLvYSt4aWPR_8Te9e3e7w_qTOOyaS2r1kLFpsP6vakW4Iakbk8xwv-0Ve7nUX-rRggz8wf5eILkZNKJNMWqChxujuc-V8Aw==",
+      "orario": "15:30",
+      "evento": "ATP Masters 1000 Montecarlo - Primo Turno",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Arena, Sky Sport Mix, Sky Sport Uno, Sky Sport Tennis",
+      "note": "Partecipano tennisti italiani come Jannik Sinner, Lorenzo Musetti, Flavio Cobolli, Luciano Darderi, Matteo Berrettini. Copertura continua del torneo.",
+      "fonte": "OA Sport, Sky Sport, Olympics.com",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:15",
+      "evento": "Frosinone - Padova",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "",
+      "fonte": "90Min.com, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:00",
-      "evento": "Genoa - Monza",
-      "competizione": "Campionato Primavera 1",
-      "canale": "Sportitalia",
-      "note": "Partita del campionato giovanile Primavera 1.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HQMayFmDgbHxRYPDFwb8Tr79qrXd0irxSKskxgrrBWdOgAlcgWgHVkEaZwH5O-oBhmDMUnFK_xWPyxiBgdQh-SYUyiCcmPJqlKIgRz-nWRGrWaunbqn0DbPodqik4EgmpZmGu9HP8NhPkiVLoZxoPoB00OCceqiQtMIePt8xvPErLvYSt4aWPR_8Te9e3e7w_qTOOyaS2r1kLFpsP6vakW4Iakbk8xwv-0Ve7nUX-rRggz8wf5eILkZNKJNMWqChxujuc-V8Aw==",
+      "orario": "18:00",
+      "evento": "Pisa - Torino",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 251, Sky Go, NOW",
+      "note": "",
+      "fonte": "90Min.com, Movieplayer, Calciomagazine, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "1a giornata",
-      "competizione": "ATP Masters 1000 Monte-Carlo",
-      "canale": "Sky Sport Arena",
-      "note": "Inizio del torneo, con probabile partecipazione di tennisti italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HQMayFmDgbHxRYPDFwb8Tr79qrXd0irxSKskxgrrBWdOgAlcgWgHVkEaZwH5O-oBhmDMUnFK_xWPyxiBgdQh-SYUyiCcmPJqlKIgRz-nWRGrWaunbqn0DbPodqik4EgmpZmGu9HP8NhPkiVLoZxoPoB00OCceqiQtMIePt8xvPErLvYSt4aWPR_8Te9e3e7w_qTOOyaS2r1kLFpsP6vakW4Iakbk8xwv-0Ve7nUX-rRggz8wf5eILkZNKJNMWqChxujuc-V8Aw==",
+      "orario": "19:30",
+      "evento": "Palermo - Avellino",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "",
+      "fonte": "90Min.com, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Inter - Roma",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
+      "note": "Big match della 31^ giornata.",
+      "fonte": "90Min.com, Movieplayer, SPORTFACE.IT, Calciomagazine, Fanpage, HDblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "Huracan vs San Lorenzo",
+      "competizione": "Campionato Argentino",
+      "canale": "SportItalia",
+      "note": "",
+      "fonte": "Stasera in TV",
       "accuratezza_orario": "esatto"
     }
   ]
