@@ -1,14 +1,41 @@
 {
-  "last_updated": "2026-04-06T03:19:50.409538+02:00",
+  "last_updated": "2026-04-06T09:16:51.838265+02:00",
   "events": [
+    {
+      "orario": "11:00",
+      "evento": "Lazio-Napoli Primavera",
+      "competizione": "Campionato Primavera",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNupISEfqwdK8y-S3bcTtYRQ5NvDHffCNOIRRZoLlaigmt8naIHfEO2wxj2KfwYk5vyPLA_Y7WXfCBMnaGK3406VeFa9SSpGX4rPd6FzljsAcdw_GjJ7O2Zrspr5vfr9g4ag1ASl0D72zKgaG6XV9lW1hLf3WYbL9W-zlF2FcCcQ",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "ATP Monte-Carlo: Berrettini/Vavassori vs De Minaur/Norrie",
+      "competizione": "ATP Masters 1000 Monte-Carlo (Doppio)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Primo match sul Court EA de Massy.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEUkrE4e6wx6FWwtxzs6kAI9jqprfogwE4MdwAeEj_rKckzE_DSXdXHoDy3S5OMq2wXfx7ITrjSKCV-EbN0iAtjUHIPwRcjXKg0O0bZ65ON-ja2v-hXoOUqiLesS3rWKI9Op0LKBtKdTpXrvbapFq7cjUIIypP7W75QUUoMW_95ZVE49UOHL28Qh3UpNAnmcZlCunb3kBYNIogu7-sF6-VaICSdKYcnJ4N-uY7KTaaI9MrB7PSai8j2I-DwhkDsNymFaiayePkhGc",
+      "accuratezza_orario": "esatto"
+    },
     {
       "orario": "12:30",
       "evento": "Udinese-Como",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvjpgqdsGyZzOrgVLE64DBh7rojJLvjSjDcle7nF7-meQNL8urOhinm2bDWT7I2_BDeGJ2HAtnlgkPp5MYhM7VAfdcSdVio3t-gBk-d2pCBgYpR5M2KiWbOMNKo8sEPd-zyeE4_syGGjM1j0qCfZ9QAx0cD8wUsxXbobZutW0",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNupISEfqwdK8y-S3bcTtYRQ5NvDHffCNOIRRZoLlaigmt8naIHfEO2wxj2KfwYk5vyPLA_Y7WXfCBMnaGK3406VeFa9SSpGX4rPd6FzljsAcdw_GjJ7O2Zrspr5vfr9g4ag1ASl0D72zKgaG6XV9lW1hLf3WYbL9W-zlF2FcCcQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_6B-Tb-CBRvqMqtNO9EK4Lx7TWBTzL6579kzjTLi3YyWo6YWChC9qYf4Hd9hisMULRqXj5Sg0oZ6HtwX-XDYv8LLoUiIDeQyamth6Jrs4RKOVc6a3VqwQ-lGQjaYptikZfqW1afzJloi1QXQvgM6LrxO1ZrBEEKtsqC1yC-Naaqr9EljoqAm4a-y4HCnTrTiLOzduPwbERItvLAJSptR5Sx44AnBcwTFzro",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00*",
+      "evento": "ATP Monte-Carlo: Flavio Cobolli vs Francisco Comesaña",
+      "competizione": "ATP Masters 1000 Monte-Carlo (Singolo)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Quarto match sul Court des Princes. Orario stimato basato sull'inizio dei match alle 11:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEUkrE4e6wx6FWwtxzs6kAI9jqprfogwE4MdwAeEj_rKckzE_DSXdXHoDy3S5OMq2wXfx7ITrjSKCV-EbN0iAtjUHIPwRcjXKg0O0bZ65ON-ja2v-hXoOUqiLesS3rWKI9Op0LKBtKdTpXrvbapFq7cjUIIypP7W75QUUoMW_95ZVE49UOHL28Qh3UpNAnmcZlCunb3kBYNIogu7-sF6-VaICSdKYcnJ4N-uY7KTaaI9MrB7PSai8j2I-DwhkDsNymFaiayePkhGc",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "15:00",
@@ -16,16 +43,34 @@
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvjpgqdsGyZzOrgVLE64DBh7rojJLvjSjDcle7nF7-meQNL8urOhinm2bDWT7I2_BDeGJ2HAtnlgkPp5MYhM7VAfdcSdVio3t-gBk-d2pCBgYpR5M2KiWbOMNKo8sEPd-zyeE4_syGGjM1j0qCfZ9QAx0cD8wUsxXbobZutW0",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNupISEfqwdK8y-S3bcTtYRQ5NvDHffCNOIRRZoLlaigmt8naIHfEO2wxj2KfwYk5vyPLA_Y7WXfCBMnaGK3406VeFa9SSpGX4rPd6FzljsAcdw_GjJ7O2Zrspr5vfr9g4ag1ASl0D72zKgaG6XV9lW1hLf3WYbL9W-zlF2FcCcQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_6B-Tb-CBRvqMqtNO9EK4Lx7TWBTzL6579kzjTLi3YyWo6YWChC9qYf4Hd9hisMULRqXj5Sg0oZ6HtwX-XDYv8LLoUiIDeQyamth6Jrs4RKOVc6a3VqwQ-lGQjaYptikZfqW1afzJloi1QXQvgM6LrxO1ZrBEEKtsqC1yC-Naaqr9EljoqAm4a-y4HCnTrTiLOzduPwbERItvLAJSptR5Sx44AnBcwTFzro",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "ATP Monte-Carlo: Matteo Arnaldi vs Cristian Garin",
+      "competizione": "ATP Masters 1000 Monte-Carlo (Singolo)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Terzo match sul Court EA de Massy. Orario stimato basato sull'inizio dei match alle 11:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEUkrE4e6wx6FWwtxzs6kAI9jqprfogwE4MdwAeEj_rKckzE_DSXdXHoDy3S5OMq2wXfx7ITrjSKCV-EbN0iAtjUHIPwRcjXKg0O0bZ65ON-ja2v-hXoOUqiLesS3rWKI9Op0LKBtKdTpXrvbapFq7cjUIIypP7W75QUUoMW_95ZVE49UOHL28Qh3UpNAnmcZlCunb3kBYNIogu7-sF6-VaICSdKYcnJ4N-uY7KTaaI9MrB7PSai8j2I-DwhkDsNymFaiayePkhGc",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
       "evento": "Juventus-Genoa",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvjpgqdsGyZzOrgVLE64DBh7rojJLvjSjDcle7nF7-meQNL8urOhinm2bDWT7I2_BDeGJ2HAtnlgkPp5MYhM7VAfdcSdVio3t-gBk-d2pCBgYpR5M2KiWbOMNKo8sEPd-zyeE4_syGGjM1j0qCfZ9QAx0cD8wUsxXbobZutW0",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4hGb4BkMEgk0yQN6tGggZYMss91ao_F8mETcDnLPwT0I5he-fkCNC5cLTO-gxAGXcOBBGLO3vbkR0cA2QOwbqJmAHHSGwjXvlxjemFJpUciLQhuJOdvSlOypCv_8RyBUhg1jY6JO_R1Z5oxiQBYMy2QZIPYiCUnl0VP5rlXcXq2oXMfDOqs_oJerWEmCpgwhBcUmZ-cg8uypPALpVeF24PZZgS2h4tcqBF955ModD-yfm4iX8hgq9hsWjNQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNupISEfqwdK8y-S3bcTtYRQ5NvDHffCNOIRRZoLlaigmt8naIHfEO2wxj2KfwYk5vyPLA_Y7WXfCBMnaGK3406VeFa9SSpGX4rPd6FzljsAcdw_GjJ7O2Zrspr5vfr9g4ag1ASl0D72zKgaG6XV9lW1hLf3WYbL9W-zlF2FcCcQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENrSZ2UJB34pcq-lwR82u6f-Hw7zBxDybSTZrklvrE3JNC5km0q_JAywxiDf-CuMPyv0dWhNTADHUqZrGoqpYP8CDzFeV-_FAiz47O10lgKy4mVinWVVca9Rz38ZESCspQdCYBxHE3_izPNBeteysRZfSIktUAIYOssumIwPkRhQtncSnfNM5NBYMUQatSn8hxZ8IemFY",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Carrarese-Spezia",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNupISEfqwdK8y-S3bcTtYRQ5NvDHffCNOIRRZoLlaigmt8naIHfEO2wxj2KfwYk5vyPLA_Y7WXfCBMnaGK3406VeFa9SSpGX4rPd6FzljsAcdw_GjJ7O2Zrspr5vfr9g4ag1ASl0D72zKgaG6XV9lW1hLf3WYbL9W-zlF2FcCcQ",
       "accuratezza_orario": "esatto"
     },
     {
@@ -34,7 +79,7 @@
       "competizione": "Serie A",
       "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvjpgqdsGyZzOrgVLE64DBh7rojJLvjSjDcle7nF7-meQNL8urOhinm2bDWT7I2_BDeGJ2HAtnlgkPp5MYhM7VAfdcSdVio3t-gBk-d2pCBgYpR5M2KiWbOMNKo8sEPd-zyeE4_syGGjM1j0qCfZ9QAx0cD8wUsxXbobZutW0",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNupISEfqwdK8y-S3bcTtYRQ5NvDHffCNOIRRZoLlaigmt8naIHfEO2wxj2KfwYk5vyPLA_Y7WXfCBMnaGK3406VeFa9SSpGX4rPd6FzljsAcdw_GjJ7O2Zrspr5vfr9g4ag1ASl0D72zKgaG6XV9lW1hLf3WYbL9W-zlF2FcCcQ",
       "accuratezza_orario": "esatto"
     }
   ]
