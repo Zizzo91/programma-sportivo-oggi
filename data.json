@@ -1,41 +1,68 @@
 {
-  "last_updated": "2026-04-07T09:03:55.078692+02:00",
+  "last_updated": "2026-04-07T14:54:52.074477+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "Matteo Berrettini vs Roberto Bautista Agut",
-      "competizione": "ATP Montecarlo 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
-      "note": "Primo match del programma sul Court Rainier III, secondo turno singolare. Orario stimato per l'inizio del match.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs-uIC-o8txrZIo2fS75qU9v-jBcOTFeYg4FAmreLkbpe5dPaZjf1s7ibaYtUWraaGEZJm1fo_DoCXZBQwVfjfki0KV-QNay-8jtN2MtmGfzKQaykronBqJrOK6A5eUWLvdvzAr752I0qKZq6XATfnVJUKAm1Rvpa_GWz-zOQx1Q21LFjaBcNI9uxseBqc0i31gKpOaXYi1igrCQz11ayN",
-      "accuratezza_orario": "stimato"
+      "orario": "11:00",
+      "evento": "ATP Masters 1000 Monte-Carlo - Secondo turno: Bautista Agut (ESP) vs Berrettini (ITA)",
+      "competizione": "Tennis ATP Masters 1000 Monte-Carlo",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "",
+      "fonte": "oasport.it, livetennis.it, eurosport.it",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "TBA",
-      "evento": "Jannik Sinner vs Hugo Humbert",
-      "competizione": "ATP Montecarlo 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
-      "note": "Secondo match del programma sul Court Rainier III, a seguire Berrettini-Bautista Agut; secondo turno singolare.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs-uIC-o8txrZIo2fS75qU9v-jBcOTFeYg4FAmreLkbpe5dPaZjf1s7ibaYtUWraaGEZJm1fo_DoCXZBQwVfjfki0KV-QNay-8jtN2MtmGfzKQaykronBqJrOK6A5eUWLvdvzAr752I0qKZq6XATfnVJUKAm1Rvpa_GWz-zOQx1Q21LFjaBcNI9uxseBqc0i31gKpOaXYi1igrCQz11ayN",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "11:00*",
-      "evento": "Hubert Hurkacz vs Luciano Darderi",
-      "competizione": "ATP Montecarlo 2026",
+      "evento": "ATP Masters 1000 Monte-Carlo - Secondo turno: Humbert (FRA) vs Sinner (ITA)",
+      "competizione": "Tennis ATP Masters 1000 Monte-Carlo",
       "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Primo match del programma sul Court EA de Massy, secondo turno singolare. Orario stimato per l'inizio del match.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqyw829BnBHpV-wDKWvaYk83SzxHrIrweTMcNy9WR-iaO1fDf9ByPTMSPEXLdYloAoNp1lNxBZq8UFh7Tj2YSazv6BvVYONSP8-eFL21b6snWcKwrnl1WkaUkC6EliZPAU_a36SK05ASf1z-8Cx3IQML6x16azsWW6nmaqaFgws4tlmBDCD4ksBmaW-qa39ux5fwNp5ogtY2SubBSZAT3co62iiU923a7o4dBe-G57iauTM4o=",
+      "note": "Secondo match dalle 11:00 sul Campo Ranieri III",
+      "fonte": "oasport.it, livetennis.it, eurosport.it",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Flavio Cobolli/Luciano Darderi vs A. Goransson/E. King",
-      "competizione": "ATP Montecarlo 2026",
+      "orario": "11:00",
+      "evento": "ATP Masters 1000 Monte-Carlo - Secondo turno: Hurkacz (POL) vs Darderi (ITA)",
+      "competizione": "Tennis ATP Masters 1000 Monte-Carlo",
       "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Match di doppio sul Court 9, a seguire M. Cilic-A. Shevchenko (previsto dalle 12:30); secondo turno.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqyw829BnBHpV-wDKWvaYk83SzxHrIrweTMcNy9WR-iaO1fDf9ByPTMSPEXLdYloAoNp1lNxBZq8UFh7Tj2YSazv6BvVYONSP8-eFL21b6snWcKwrnl1WkaUkC6EliZPAU_a36SK05ASf1z-8Cx3IQML6x16azsWW6nmaqaFgws4tlmBDCD4ksBmaW-qa39ux5fwNp5ogtY2SubBSZAT3co62iiU923a7o4dBe-G57iauTM4o=",
-      "accuratezza_orario": "tba"
+      "note": "Sul Campo Dei Principi",
+      "fonte": "oasport.it, livetennis.it, eurosport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Real Madrid vs Bayern Monaco",
+      "competizione": "UEFA Champions League - Quarti di finale (andata)",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 252, NOW",
+      "note": "",
+      "fonte": "90min.com, libero.it, fanpage.it, lapresse.it, calciomagazine.net, sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Sporting CP vs Arsenal",
+      "competizione": "UEFA Champions League - Quarti di finale (andata)",
+      "canale": "Sky Sport Arena, Sky Sport 253, NOW",
+      "note": "",
+      "fonte": "90min.com, libero.it, fanpage.it, lapresse.it, calciomagazine.net, sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "note": "",
+      "fonte": "libero.it, calciomagazine.net, sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Sonepar Padova vs Vero Volley Monza",
+      "competizione": "SuperLega Credem Banca - Play Off 5° Posto (Gara 2 Quarti di Finale)",
+      "canale": "VBTV",
+      "note": "Partita che si disputa l'8 aprile, inclusa per il palinsesto notturno",
+      "fonte": "legavolley.it, sofascore.com, calciomagazine.net",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
