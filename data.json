@@ -1,50 +1,41 @@
 {
-  "last_updated": "2026-04-07T03:17:58.575239+02:00",
+  "last_updated": "2026-04-07T09:03:55.078692+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Serie A 2025/2026 - Juventus - Genoa (31a g.)",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBdEvGUu4urSAQikiGdBHw4MadZIwF0GLzqhdriBtSjFUVUfRR7BekPtVKpbUX6aGgZZsMafFKE478ZzQAgicm_Q0xWidF85O61ZirSeUMISNAyGc7AwMbd_WBEU1k4Qz08w9PZ7-Znd7QxEYjrKum3lVh",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Bautista Agut – Berrettini",
-      "competizione": "Tennis - ATP Masters 1000 Monte-Carlo",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
-      "note": "Singolare maschile, con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTipDaHQN50Y0qIhvRRxEsTA_0TvqUEzlMrPA4Got9mPwZbp6flWDbTOm29sn2tjh1gG3jFMpRFZdPtFJNwNfhOYfaV44yGfm5mGXcLOp9k1QaDe9HhILU1rOD-RGE3Uh_5-CD9db9V5Lkz5eUK6vlFgPxa6Cxc1htPeVGOMKZHzJWu_EGokejoOWuc3ef, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4D3VfO-oVADFNAjLFYwm7FYRv8grXNp293DbXeDA8fAZ-3LWLGPUMYdhKjvPOEmJNtxCT0ZCT4_i4Ng9V4dK-a0C5nKZgMX5Ft88bkJIBIXotXAZYAj64IR5eZEEuMoQHCt3akmkpgwLKFPoTwWWp9eYpJKQ3spuSxvI1tm7wrYGQRgGMpHdlMqs9KxKMckDDgjOStRtg_UqNab_rMxqgCmkx_6WHOMRAyE0l-vpVNLPETCcFdp8nPy7e_iEGEZwCWO5RgLkX-W1NiJsiDIzY1mYftjOLnU=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Hurkacz – Darderi",
-      "competizione": "Tennis - ATP Masters 1000 Monte-Carlo",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
-      "note": "Singolare maschile, con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTipDaHQN50Y0qIhvRRxEsTA_0TvqUEzlMrPA4Got9mPwZbp6flWDbTOm29sn2tjh1gG3jFMpRFZdPtFJNwNfhOYfaV44yGfm5mGXcLOp9k1QaDe9HhILU1rOD-RGE3Uh_5-CD9db9V5Lkz5eUK6vlFgPxa6Cxc1htPeVGOMKZHzJWu_EGokejoOWuc3ef, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4D3VfO-oVADFNAjLFYwm7FYRv8grXNp293DbXeDA8fAZ-3LWLGPUMYdhKjvPOEmJNtxCT0ZCT4_i4Ng9V4dK-a0C5nKZgMX5Ft88bkJIBIXotXAZYAj64IR5eZEEuMoQHCt3akmkpgwLKFPoTwWWp9eYpJKQ3spuSxvI1tm7wrYGQRgGMpHdlMqs9KxKMckDDgjOStRtg_UqNab_rMxqgCmkx_6WHOMRAyE0l-vpVNLPETCcFdp8nPy7e_iEGEZwCWO5RgLkX-W1NiJsiDIzY1mYftjOLnU=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30*",
-      "evento": "Humbert – Sinner",
-      "competizione": "Tennis - ATP Masters 1000 Monte-Carlo",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
-      "note": "Singolare maschile, con giocatore italiano. Orario stimato in base all'ordine dei match.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTipDaHQN50Y0qIhvRRxEsTA_0TvqUEzlMrPA4Got9mPwZbp6flWDbTOm29sn2tjh1gG3jFMpRFZdPtFJNwNfhOYfaV44yGfm5mGXcLOp9k1QaDe9HhILU1rOD-RGE3Uh_5-CD9db9V5Lkz5eUK6vlFgPxa6Cxc1htPeVGOMKZHzJWu_EGokejoOWuc3ef, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4D3VfO-oVADFNAjLFYwm7FYRv8grXNp293DbXeDA8fAZ-3LWLGPUMYdhKjvPOEmJNtxCT0ZCT4_i4Ng9V4dK-a0C5nKZgMX5Ft88bkJIBIXotXAZYAj64IR5eZEEuMoQHCt3akmkpgwLKFPoTwWWp9eYpJKQ3spuSxvI1tm7wrYGQRgGMpHdlMqs9KxKMckDDgjOStRtg_UqNab_rMxqgCmkx_6WHOMRAyE0l-vpVNLPETCcFdp8nPy7e_iEGEZwCWO5RgLkX-W1NiJsiDIzY1mYftjOLnU=",
+      "orario": "11:00*",
+      "evento": "Matteo Berrettini vs Roberto Bautista Agut",
+      "competizione": "ATP Montecarlo 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Primo match del programma sul Court Rainier III, secondo turno singolare. Orario stimato per l'inizio del match.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs-uIC-o8txrZIo2fS75qU9v-jBcOTFeYg4FAmreLkbpe5dPaZjf1s7ibaYtUWraaGEZJm1fo_DoCXZBQwVfjfki0KV-QNay-8jtN2MtmGfzKQaykronBqJrOK6A5eUWLvdvzAr752I0qKZq6XATfnVJUKAm1Rvpa_GWz-zOQx1Q21LFjaBcNI9uxseBqc0i31gKpOaXYi1igrCQz11ayN",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "12:30*",
-      "evento": "Cobolli/Darderi – Goransson/King",
-      "competizione": "Tennis - ATP Masters 1000 Monte-Carlo",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
-      "note": "Doppio maschile, con giocatori italiani. Orario stimato in base all'ordine dei match.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTipDaHQN50Y0qIhvRRxEsTA_0TvqUEzlMrPA4Got9mPwZbp6flWDbTOm29sn2tjh1gG3jFMpRFZdPtFJNwNfhOYfaV44yGfm5mGXcLOp9k1QaDe9HhILU1rOD-RGE3Uh_5-CD9db9V5Lkz5eUK6vlFgPxa6Cxc1htPeVGOMKZHzJWu_EGokejoOWuc3ef, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4D3VfO-oVADFNAjLFYwm7FYRv8grXNp293DbXeDA8fAZ-3LWLGPUMYdhKjvPOEmJNtxCT0ZCT4_i4Ng9V4dK-a0C5nKZgMX5Ft88bkJIBIXotXAZYAj64IR5eZEEuMoQHCt3akmkpgwLKFPoTwWWp9eYpJKQ3spuSxvI1tm7wrYGQRgGMpHdlMqs9KxKMckDDgjOStRtg_UqNab_rMxqgCmkx_6WHOMRAyE0l-vpVNLPETCcFdp8nPy7e_iEGEZwCWO5RgLkX-W1NiJsiDIzY1mYftjOLnU=",
+      "orario": "TBA",
+      "evento": "Jannik Sinner vs Hugo Humbert",
+      "competizione": "ATP Montecarlo 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Secondo match del programma sul Court Rainier III, a seguire Berrettini-Bautista Agut; secondo turno singolare.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs-uIC-o8txrZIo2fS75qU9v-jBcOTFeYg4FAmreLkbpe5dPaZjf1s7ibaYtUWraaGEZJm1fo_DoCXZBQwVfjfki0KV-QNay-8jtN2MtmGfzKQaykronBqJrOK6A5eUWLvdvzAr752I0qKZq6XATfnVJUKAm1Rvpa_GWz-zOQx1Q21LFjaBcNI9uxseBqc0i31gKpOaXYi1igrCQz11ayN",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "11:00*",
+      "evento": "Hubert Hurkacz vs Luciano Darderi",
+      "competizione": "ATP Montecarlo 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Primo match del programma sul Court EA de Massy, secondo turno singolare. Orario stimato per l'inizio del match.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqyw829BnBHpV-wDKWvaYk83SzxHrIrweTMcNy9WR-iaO1fDf9ByPTMSPEXLdYloAoNp1lNxBZq8UFh7Tj2YSazv6BvVYONSP8-eFL21b6snWcKwrnl1WkaUkC6EliZPAU_a36SK05ASf1z-8Cx3IQML6x16azsWW6nmaqaFgws4tlmBDCD4ksBmaW-qa39ux5fwNp5ogtY2SubBSZAT3co62iiU923a7o4dBe-G57iauTM4o=",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Flavio Cobolli/Luciano Darderi vs A. Goransson/E. King",
+      "competizione": "ATP Montecarlo 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Match di doppio sul Court 9, a seguire M. Cilic-A. Shevchenko (previsto dalle 12:30); secondo turno.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqyw829BnBHpV-wDKWvaYk83SzxHrIrweTMcNy9WR-iaO1fDf9ByPTMSPEXLdYloAoNp1lNxBZq8UFh7Tj2YSazv6BvVYONSP8-eFL21b6snWcKwrnl1WkaUkC6EliZPAU_a36SK05ASf1z-8Cx3IQML6x16azsWW6nmaqaFgws4tlmBDCD4ksBmaW-qa39ux5fwNp5ogtY2SubBSZAT3co62iiU923a7o4dBe-G57iauTM4o=",
+      "accuratezza_orario": "tba"
     }
   ]
 }
