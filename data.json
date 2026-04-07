@@ -1,68 +1,50 @@
 {
-  "last_updated": "2026-04-06T20:41:27.193188+02:00",
+  "last_updated": "2026-04-07T03:17:58.575239+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Udinese - Como",
+      "orario": "09:00",
+      "evento": "Serie A 2025/2026 - Juventus - Genoa (31a g.)",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "90min.com, calciomagazine.net, libero.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Lecce - Atalanta",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "90min.com, calciomagazine.net, libero.it",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBdEvGUu4urSAQikiGdBHw4MadZIwF0GLzqhdriBtSjFUVUfRR7BekPtVKpbUX6aGgZZsMafFKE478ZzQAgicm_Q0xWidF85O61ZirSeUMISNAyGc7AwMbd_WBEU1k4Qz08w9PZ7-Znd7QxEYjrKum3lVh",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:00",
-      "evento": "Tennis - Doppio: Berrettini/Vavassori vs De Minaur/Norrie",
-      "competizione": "ATP Masters 1000 Monte-Carlo (1° turno)",
-      "canale": "Sky Sport",
-      "note": "1° match sul Court EA de Massy",
-      "fonte": "oasport.it",
+      "evento": "Bautista Agut – Berrettini",
+      "competizione": "Tennis - ATP Masters 1000 Monte-Carlo",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
+      "note": "Singolare maschile, con giocatore italiano",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTipDaHQN50Y0qIhvRRxEsTA_0TvqUEzlMrPA4Got9mPwZbp6flWDbTOm29sn2tjh1gG3jFMpRFZdPtFJNwNfhOYfaV44yGfm5mGXcLOp9k1QaDe9HhILU1rOD-RGE3Uh_5-CD9db9V5Lkz5eUK6vlFgPxa6Cxc1htPeVGOMKZHzJWu_EGokejoOWuc3ef, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4D3VfO-oVADFNAjLFYwm7FYRv8grXNp293DbXeDA8fAZ-3LWLGPUMYdhKjvPOEmJNtxCT0ZCT4_i4Ng9V4dK-a0C5nKZgMX5Ft88bkJIBIXotXAZYAj64IR5eZEEuMoQHCt3akmkpgwLKFPoTwWWp9eYpJKQ3spuSxvI1tm7wrYGQRgGMpHdlMqs9KxKMckDDgjOStRtg_UqNab_rMxqgCmkx_6WHOMRAyE0l-vpVNLPETCcFdp8nPy7e_iEGEZwCWO5RgLkX-W1NiJsiDIzY1mYftjOLnU=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00*",
-      "evento": "Tennis - Singolare: Matteo Arnaldi vs Cristian Garin",
-      "competizione": "ATP Masters 1000 Monte-Carlo (1° turno)",
-      "canale": "Sky Sport",
-      "note": "3° match sul Court EA de Massy, orario stimato",
-      "fonte": "oasport.it",
+      "orario": "11:00",
+      "evento": "Hurkacz – Darderi",
+      "competizione": "Tennis - ATP Masters 1000 Monte-Carlo",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
+      "note": "Singolare maschile, con giocatore italiano",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTipDaHQN50Y0qIhvRRxEsTA_0TvqUEzlMrPA4Got9mPwZbp6flWDbTOm29sn2tjh1gG3jFMpRFZdPtFJNwNfhOYfaV44yGfm5mGXcLOp9k1QaDe9HhILU1rOD-RGE3Uh_5-CD9db9V5Lkz5eUK6vlFgPxa6Cxc1htPeVGOMKZHzJWu_EGokejoOWuc3ef, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4D3VfO-oVADFNAjLFYwm7FYRv8grXNp293DbXeDA8fAZ-3LWLGPUMYdhKjvPOEmJNtxCT0ZCT4_i4Ng9V4dK-a0C5nKZgMX5Ft88bkJIBIXotXAZYAj64IR5eZEEuMoQHCt3akmkpgwLKFPoTwWWp9eYpJKQ3spuSxvI1tm7wrYGQRgGMpHdlMqs9KxKMckDDgjOStRtg_UqNab_rMxqgCmkx_6WHOMRAyE0l-vpVNLPETCcFdp8nPy7e_iEGEZwCWO5RgLkX-W1NiJsiDIzY1mYftjOLnU=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30*",
+      "evento": "Humbert – Sinner",
+      "competizione": "Tennis - ATP Masters 1000 Monte-Carlo",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
+      "note": "Singolare maschile, con giocatore italiano. Orario stimato in base all'ordine dei match.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTipDaHQN50Y0qIhvRRxEsTA_0TvqUEzlMrPA4Got9mPwZbp6flWDbTOm29sn2tjh1gG3jFMpRFZdPtFJNwNfhOYfaV44yGfm5mGXcLOp9k1QaDe9HhILU1rOD-RGE3Uh_5-CD9db9V5Lkz5eUK6vlFgPxa6Cxc1htPeVGOMKZHzJWu_EGokejoOWuc3ef, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4D3VfO-oVADFNAjLFYwm7FYRv8grXNp293DbXeDA8fAZ-3LWLGPUMYdhKjvPOEmJNtxCT0ZCT4_i4Ng9V4dK-a0C5nKZgMX5Ft88bkJIBIXotXAZYAj64IR5eZEEuMoQHCt3akmkpgwLKFPoTwWWp9eYpJKQ3spuSxvI1tm7wrYGQRgGMpHdlMqs9KxKMckDDgjOStRtg_UqNab_rMxqgCmkx_6WHOMRAyE0l-vpVNLPETCcFdp8nPy7e_iEGEZwCWO5RgLkX-W1NiJsiDIzY1mYftjOLnU=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "17:00*",
-      "evento": "Tennis - Singolare: Flavio Cobolli vs Francisco Comesana",
-      "competizione": "ATP Masters 1000 Monte-Carlo (1° turno)",
-      "canale": "Sky Sport",
-      "note": "4° match sul Court des Princes, orario stimato",
-      "fonte": "oasport.it",
+      "orario": "12:30*",
+      "evento": "Cobolli/Darderi – Goransson/King",
+      "competizione": "Tennis - ATP Masters 1000 Monte-Carlo",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
+      "note": "Doppio maschile, con giocatori italiani. Orario stimato in base all'ordine dei match.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTipDaHQN50Y0qIhvRRxEsTA_0TvqUEzlMrPA4Got9mPwZbp6flWDbTOm29sn2tjh1gG3jFMpRFZdPtFJNwNfhOYfaV44yGfm5mGXcLOp9k1QaDe9HhILU1rOD-RGE3Uh_5-CD9db9V5Lkz5eUK6vlFgPxa6Cxc1htPeVGOMKZHzJWu_EGokejoOWuc3ef, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4D3VfO-oVADFNAjLFYwm7FYRv8grXNp293DbXeDA8fAZ-3LWLGPUMYdhKjvPOEmJNtxCT0ZCT4_i4Ng9V4dK-a0C5nKZgMX5Ft88bkJIBIXotXAZYAj64IR5eZEEuMoQHCt3akmkpgwLKFPoTwWWp9eYpJKQ3spuSxvI1tm7wrYGQRgGMpHdlMqs9KxKMckDDgjOStRtg_UqNab_rMxqgCmkx_6WHOMRAyE0l-vpVNLPETCcFdp8nPy7e_iEGEZwCWO5RgLkX-W1NiJsiDIzY1mYftjOLnU=",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Juventus - Genoa",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K",
-      "note": "",
-      "fonte": "90min.com, calciomagazine.net, libero.it, skysport.it, guidatv.sky.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Napoli - Milan",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "90min.com, calciomagazine.net, libero.it",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
