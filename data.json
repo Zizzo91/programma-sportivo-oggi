@@ -1,67 +1,13 @@
 {
-  "last_updated": "2026-04-07T14:54:52.074477+02:00",
+  "last_updated": "2026-04-08T03:18:37.134936+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "ATP Masters 1000 Monte-Carlo - Secondo turno: Bautista Agut (ESP) vs Berrettini (ITA)",
-      "competizione": "Tennis ATP Masters 1000 Monte-Carlo",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "",
-      "fonte": "oasport.it, livetennis.it, eurosport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "ATP Masters 1000 Monte-Carlo - Secondo turno: Humbert (FRA) vs Sinner (ITA)",
-      "competizione": "Tennis ATP Masters 1000 Monte-Carlo",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Secondo match dalle 11:00 sul Campo Ranieri III",
-      "fonte": "oasport.it, livetennis.it, eurosport.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "11:00",
-      "evento": "ATP Masters 1000 Monte-Carlo - Secondo turno: Hurkacz (POL) vs Darderi (ITA)",
-      "competizione": "Tennis ATP Masters 1000 Monte-Carlo",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Sul Campo Dei Principi",
-      "fonte": "oasport.it, livetennis.it, eurosport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Real Madrid vs Bayern Monaco",
-      "competizione": "UEFA Champions League - Quarti di finale (andata)",
-      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 252, NOW",
-      "note": "",
-      "fonte": "90min.com, libero.it, fanpage.it, lapresse.it, calciomagazine.net, sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Sporting CP vs Arsenal",
-      "competizione": "UEFA Champions League - Quarti di finale (andata)",
-      "canale": "Sky Sport Arena, Sky Sport 253, NOW",
-      "note": "",
-      "fonte": "90min.com, libero.it, fanpage.it, lapresse.it, calciomagazine.net, sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "libero.it, calciomagazine.net, sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "20:30",
-      "evento": "Sonepar Padova vs Vero Volley Monza",
-      "competizione": "SuperLega Credem Banca - Play Off 5° Posto (Gara 2 Quarti di Finale)",
+      "evento": "Sonepar Padova – Vero Volley Monza",
+      "competizione": "Play Off 5° Posto SuperLega Credem Banca (Gara 2 Quarti)",
       "canale": "VBTV",
-      "note": "Partita che si disputa l'8 aprile, inclusa per il palinsesto notturno",
-      "fonte": "legavolley.it, sofascore.com, calciomagazine.net",
+      "note": "",
+      "fonte": "Lega Pallavolo Serie A, Tuttosport",
       "accuratezza_orario": "esatto"
     }
   ]
