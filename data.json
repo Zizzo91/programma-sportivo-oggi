@@ -1,121 +1,76 @@
 {
-  "last_updated": "2026-04-09T09:10:11.370541+02:00",
+  "last_updated": "2026-04-09T14:57:31.682270+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "ATP 1000 Montecarlo: ottavi di finale (5a giornata)",
-      "competizione": "Tennis - ATP Masters 1000",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
-      "note": "Include match con italiani in campo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpJimRWQkPM2Ru9Gg871yIXzLfa1dCgmsX_8597L8cI2h5MvD6gsN6c5YxObUInrcREhnVeKf_-tMlpuS1_lUITzXSZk7FZYybCwCoXYQ3ZUIWswR-1pi2Dr47QYxrEWeNY5NnklQSZC8s50uZZrmJMn-o343MAKCjmQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Tennis: Matteo Berrettini - Joao Fonseca",
+      "orario": "11:00*",
+      "evento": "Berrettini (ITA) vs. Fonseca (BRA)",
       "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
-      "note": "Primo match sul campo centrale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2NvrYjsboQk1Z5Vj1wpQU7XEp5jWQqsJo1zW5mbO-7COLEm8c4zM21pgo3_8z6k9IQ0uT7Dn3-sVOiyWHeqQWnIcl0E-Hb19wPvLcmUDjJodOWhza9xu2bja5ul1ssz0Rgn5T7Rx5D23yTTaiABTZofB-n9Tnk966pixiA-5tajkLioUdKu2oF8o_pTuUbHF5DC7k8NF2OWh17rFTApuqdLYn_WBYrkbBwjMkjgaCM8afGD6OQV2EUaekAPaEeCWVa7RhrH7A4Y1rjim",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30*",
-      "evento": "Tennis: Jannik Sinner - Tomas Machac",
-      "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
-      "note": "Secondo match sul campo centrale, a seguire Bergs-Zverev.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2NvrYjsboQk1Z5Vj1wpQU7XEp5jWQqsJo1zW5mbO-7COLEm8c4zM21pgo3_8z6k9IQ0uT7Dn3-sVOiyWHeqQWnIcl0E-Hb19wPvLcmUDjJodOWhza9xu2bja5ul1ssz0Rgn5T7Rx5D23yTTaiABTZofB-n9Tnk966pixiA-5tajkLioUdKu2oF8o_pTuUbHF5DC7k8NF2OWh17rFTApuqdLYn_WBYrkbBwjMkjgaCM8afGD6OQV2EUaekAPaEeCWVa7RhrH7A4Y1rjim",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Sport Mix",
+      "note": "Match del singolare. Orario stimato, primo match sul Campo dei Principi.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTjR__PGPx55wWxWub_fiPmT8JJsgx0Gbby6m3JqCTnB6cpsXBJ2OwI8e_JsPOfFxibC5gCknScDBNxGqkHxM6145XpUj_4wAp3txNNNYC3TJEWaC6uynGCw8zLCNcr1bExsNviLz2Zu1qrMc6TrEtDvP6bJriAFu_XvC7B2pD17-WUB9hNGePsusMUs_-BxYM50nkX5FbajLzdo4es9XppfYQCMnyr6cntSGUz8Q8cF0pEQ==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Tennis: Berrettini/Vavassori (doppio)",
+      "orario": "13:00*",
+      "evento": "Sinner (ITA) vs. Machac (CZE)",
       "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
-      "note": "Match di doppio, orario da definire in base ai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2NvrYjsboQk1Z5Vj1wpQU7XEp5jWQqsJo1zW5mbO-7COLEm8c4zM21pgo3_8z6k9IQ0uT7Dn3-sVOiyWHeqQWnIcl0E-Hb19wPvLcmUDjJodOWhza9xu2bja5ul1ssz0Rgn5T7Rx5D23yTTaiABTZofB-n9Tnk966pixiA-5tajkLioUdKu2oF8o_pTuUbHF5DC7k8NF2OWh17rFTApuqdLYn_WBYrkbBwjMkjgaCM8afGD6OQV2EUaekAPaEeCWVa7RhrH7A4Y1rjim",
-      "accuratezza_orario": "tba"
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Sport Mix",
+      "note": "Match del singolare. Orario stimato, secondo match sul Campo Ranieri III (dopo Bergs-Zverev).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVU3egwsnvB_6G_IkaL3WOvN_7d2ZQdaMRMHgLwZRWfCDw5nxX74QfN2JVP3Hktub6ujWjE0SNJlZoyRA4JMJl3vEVyCCd5UiKiDdhooc5r1m4GUQ2bs5LYFih3rriM00fV0xQLtqZuuRDhkjej7c451-7FFkLzkzZx7T2inhBUdtBgJfN0SdfuAo_fBl5VIMy24smTFYymryVsTk58Vsy-lG8mhvrVIN7yMgXqTJQKnSL7LZOeClC8iN0",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "19:00",
-      "evento": "ATP 1000 Montecarlo: 5a giornata",
-      "competizione": "Tennis - ATP Masters 1000",
-      "canale": "Sky Sport Uno",
-      "note": "Proseguimento dei match.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2BDDGVCGDn6sOG8LjGu1s6XwrMuBIlvEXH6IY36mT5yzBZWd59rbyJ2BpQtrhqZlDbejBawMWTHbOt-0xxsUSYX5nCVYF_tCfD3Wl0R7442R56sbRzRhAMUL5XVjNLqkxxuQaTdt9KuIq8-fzo-NIhE=",
-      "accuratezza_orario": "esatto"
+      "orario": "17:00*",
+      "evento": "Berrettini/Vavassori (ITA) vs. Heliovaara/Patten",
+      "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale (doppio)",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Sport Mix",
+      "note": "Match del doppio. Orario stimato, terzo match sul Campo dei Principi (dopo Auger-Aliassime-Ruud e Lehecka-Bublik).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTjR__PGPx55wWxWub_fiPmT8JJsgx0Gbby6m3JqCTnB6cpsXBJ2OwI8e_JsPOfFxibC5gCknScDBNxGqkHxM6145XpUj_4wAp3txNNNYC3TJEWaC6uynGCw8zLCNcr1bExsNviLz2Zu1qrMc6TrEtDvP6bJriAFu_XvC7B2pD17-WUB9hNGePsusMUs_-BxYM50nkX5FbajLzdo4es9XppfYQCMnyr6cntSGUz8Q8cF0pEQ==",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00",
-      "evento": "Europa e Conference League Prepartita",
-      "competizione": "Calcio - Coppe Europee",
-      "canale": "Sky Sport Uno",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMs_lx-vzAl9kJghkCO-bYaGQa0j5MeAPm10nneEtzqfj08c3Ufy4SHz8s4PkBg0ByCOyNSOMBZ5qqQNjlWhW2MgisfOVrnxio-UEMyXqWvGMTrlF9dh5EoaollG-3k6ONSHsmudOGH84_Eo0BvI71AKWTCO80wg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Europa League 2025/2026: Bologna - Aston Villa (Quarti di finale. Andata)",
-      "competizione": "Calcio - Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K, NOW",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMs_lx-vzAl9kJghkCO-bYaGQa0j5MeAPm10nneEtzqfj08c3Ufy4SHz8s4PkBg0ByCOyNSOMBZ5qqQNjlWhW2MgisfOVrnxio-UEMyXqWvGMTrlF9dh5EoaollG-3k6ONSHsmudOGH84_Eo0BvI71AKWTCO80wg==",
+      "orario": "18:45",
+      "evento": "Rayo Vallecano-AEK Atene",
+      "competizione": "UEFA Conference League",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjAMniPjrGCKMBfs_Ypr0H8vKU0BU5astCUYY4k4XwKN8c93BSgr0N5Or7txCAh9jTCoGikdXU2N8I9CNwurEvz7XJ4OJAoVpg1Vf5BcGrdBxKC3EVIN_uq4lQQoPxXmlkqOOyhdHyrqRtihLlwFOAflcG1RVUAAi_If7KkoaaAKWjdAZWJaqHjwQ4zVpaZCickc1EqVyIzAaFAQpL7feegu9jVv155DDICtTsd4UQE9NtP",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "UEFA Conference League 2025/2026: Crystal Palace - Fiorentina (Quarti di finale. Andata)",
-      "competizione": "Calcio - Conference League",
-      "canale": "Sky Sport Arena, Sky Sport 253, NOW",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2BDDGVCGDn6sOG8LjGu1s6XwrMuBIlvEXH6IY36mT5yzBZWd59rbyJ2BpQtrhqZlDbejBawMWTHbOt-0xxsUSYX5nCVYF_tCfD3Wl0R7442R56sbRzRhAMUL5XVjNLqkxxuQaTdt9KuIq8-fzo-NIhE=",
+      "evento": "Bologna-Aston Villa",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyL9ZdugfI9ZvOHfmvkAnyxK5OSMhOrpU0QerjG8bMBvPLBA_-aLkiiusZ17LM1gZ4Ol9QJQDM8sBu1VKQfxMk8ta3OxVtqgu4-b2R06hXO4puyDM22SqeAoErBK16WFLOMghz7kmsxEFofVeSkZSsd8FpHSoDIdo_4HBdHgwIyzHeEb0XZE0NPk_JWwz-YmJxyqrb2yu6s9rK24U_o3xIoJ1aisw2wCEE7cn_Yf2XoAB7_BOdWyHPGHz9BQGGvAxRJj1h9wekOF8K",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Diretta Gol Europa e Conference League",
-      "competizione": "Calcio - Coppe Europee",
-      "canale": "Sky Sport Max, Sky Sport 251, NOW",
-      "note": "Copertura in contemporanea di tutte le partite.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoVjbIWtE07dKN3vCluSrDs8FDQuoJzuodcBkqK5_haDFTnK6ivreBlW_EnzZ6ebkhrQeQCglDJiG7NRjJa_Psz_cKi5oR4YyBAG0XPx5oHLPmuImfknPX7I4g-LhsOR9gAEiJuqKfoFjxPj_NgbabPXClGuvBCPOXHUN11yQu4iD1P3s8KBrqGvGx3ZFufntmdBfoZPluMgX7Y3FjSHJxDwSdASck",
+      "evento": "Crystal Palace-Fiorentina",
+      "competizione": "UEFA Conference League",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjAMniPjrGCKMBfs_Ypr0H8vKU0BU5astCUYY4k4XwKN8c93BSgr0N5Or7txCAh9jTCoGikdXU2N8I9CNwurEvz7XJ4OJAoVpg1Vf5BcGrdBxKC3EVIN_uq4lQQoPxXmlkqOOyhdHyrqRtihLlwFOAflcG1RVUAAi_If7KkoaaAKWjdAZWJaqHjwQ4zVpaZCickc1EqVyIzAaFAQpL7feegu9jVv155DDICtTsd4UQE9NtP",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Europa e Conference League Postpartita",
-      "competizione": "Calcio - Coppe Europee",
-      "canale": "Sky Sport Uno",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMs_lx-vzAl9kJghkCO-bYaGQa0j5MeAPm10nneEtzqfj08c3Ufy4SHz8s4PkBg0ByCOyNSOMBZ5qqQNjlWhW2MgisfOVrnxio-UEMyXqWvGMTrlF9dh5EoaollG-3k6ONSHsmudOGH84_Eo0BvI71AKWTCO80wg==",
+      "orario": "21:00",
+      "evento": "Porto-Nottingham Forest",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport, TV8, Sky Sport Calcio",
+      "note": "Disponibile anche in chiaro su TV8.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjAMniPjrGCKMBfs_Ypr0H8vKU0BU5astCUYY4k4XwKN8c93BSgr0N5Or7txCAh9jTCoGikdXU2N8I9CNwurEvz7XJ4OJAoVpg1Vf5BcGrdBxKC3EVIN_uq4lQQoPxXmlkqOOyhdHyrqRtihLlwFOAflcG1RVUAAi_If7KkoaaAKWjdAZWJaqHjwQ4zVpaZCickc1EqVyIzAaFAQpL7feegu9jVv155DDICtTsd4UQE9NtP",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:45",
-      "evento": "After Party Best of Europe",
-      "competizione": "Calcio - Approfondimento",
-      "canale": "Sky Sport Uno",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMs_lx-vzAl9kJghkCO-bYaGQa0j5MeAPm10nneEtzqfj08c3Ufy4SHz8s4PkBg0ByCOyNSOMBZ5qqQNjlWhW2MgisfOVrnxio-UEMyXqWvGMTrlF9dh5EoaollG-3k6ONSHsmudOGH84_Eo0BvI71AKWTCO80wg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:30",
-      "evento": "REPLICA: UEFA Conference League 2025/2026: Crystal Palace - Fiorentina (Quarti di finale. Andata)",
-      "competizione": "Calcio - Conference League",
-      "canale": "Sky Sport Uno",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2BDDGVCGDn6sOG8LjGu1s6XwrMuBIlvEXH6IY36mT5yzBZWd59rbyJ2BpQtrhqZlDbejBawMWTHbOt-0xxsUSYX5nCVYF_tCfD3Wl0R7442R56sbRzRhAMUL5XVjNLqkxxuQaTdt9KuIq8-fzo-NIhE=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "REPLICA: After Party Best of Europe",
-      "competizione": "Calcio - Approfondimento",
-      "canale": "Sky Sport Uno",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2BDDGVCGDn6sOG8LjGu1s6XwrMuBIlvEXH6IY36mT5yzBZWd59rbyJ2BpQtrhqZlDbejBawMWTHbOt-0xxsUSYX5nCVYF_tCfD3Wl0R7442R56sbRzRhAMUL5XVjNLqkxxuQaTdt9KuIq8-fzo-NIhE=",
+      "orario": "21:00",
+      "evento": "Friburgo-Celta Vigo",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX6pYxRMyGXIeyac6265HPoriGeJoqgm_0vPXiyGE7D5QsLCclk3uh0gFeISv5_xvHtwJhZ4HsDwX8siqh6Xjwt5KZgWVe4Agcq7Uemm1goc9GpUUiHBj0_t2U6RoiXSjJbVTS-7DlhJJbc6pByDhfUic3pEDVZX3F9g7QeXhwjUqL7y7WAMt9IuEoAem_Mx3OiyK3Prpe0YHUB55lw4pHVDGEw8xO9iq6h5o9BLKSQR5shoiqLu0EXc8l7A_YhyF4",
       "accuratezza_orario": "esatto"
     }
   ]
