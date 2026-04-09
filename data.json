@@ -1,4 +1,95 @@
 {
-  "last_updated": "2026-04-08T14:54:45.776501+02:00",
-  "events": []
+  "last_updated": "2026-04-09T03:08:46.759976+02:00",
+  "events": [
+    {
+      "orario": "00:30",
+      "evento": "UEFA Conference League 2025/2026 - Crystal Palace - Fiorentina (Quarti di finale. Andata) - Replica",
+      "competizione": "UEFA Conference League",
+      "canale": "Sky Sport Uno",
+      "note": "Replay della partita giocata in serata.",
+      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:15",
+      "evento": "Uefa Champions League 2025/2026 - Paris Saint-Germain - Liverpool (Quarti di finale. Andata) - Replica",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replay di una partita precedente.",
+      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Uefa Champions League 2025/2026 - Real Madrid - FC Bayern Monaco (Quarti di finale. Andata) - Replica",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replay di una partita precedente.",
+      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "Uefa Champions League 2025/2026 - Barcellona - Atletico Madrid (Quarti di Finale. Andata) - Replica",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replay di una partita precedente.",
+      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "ATP 1000 Montecarlo: 5a giornata",
+      "competizione": "ATP 1000 Montecarlo",
+      "canale": "Sky Sport Uno",
+      "note": "Orario di inizio della programmazione dedicata alla giornata. Si attendono conferme sui match con giocatori italiani.",
+      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "ATP 1000 Montecarlo: 5a giornata",
+      "competizione": "ATP 1000 Montecarlo",
+      "canale": "Sky Sport Uno",
+      "note": "Orario di inizio della programmazione dedicata alla giornata. Si attendono conferme sui match con giocatori italiani.",
+      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Bologna - Aston Villa (Quarti di finale. Andata)",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 252, NOW",
+      "note": "Andata dei quarti di finale. Squadra italiana in campo.",
+      "fonte": "Programmi TV della sera del 09 Aprile 2026 - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Crystal Palace - Fiorentina (Quarti di finale. Andata)",
+      "competizione": "UEFA Conference League",
+      "canale": "Sky Sport Arena, Sky Sport Calcio, Sky Go, NOW",
+      "note": "Andata dei quarti di finale. Squadra italiana in campo.",
+      "fonte": "Calcio in tv oggi, 9 aprile 2026 con Bologna-Aston Villa e Crystal Palace-Fiorentina",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Porto - Nottingham Forest (Quarti di finale. Andata)",
+      "competizione": "UEFA Europa League",
+      "canale": "TV8, Sky Sport Calcio, Sky Sport 254, NOW",
+      "note": "Andata dei quarti di finale. Disponibile in chiaro su TV8.",
+      "fonte": "Calcio in tv oggi, 9 aprile 2026 con Bologna-Aston Villa e Crystal Palace-Fiorentina",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Friburgo - Celta Vigo (Quarti di finale. Andata)",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport 255, NOW",
+      "note": "Andata dei quarti di finale.",
+      "fonte": "Calcio in tv oggi, 9 aprile 2026 con Bologna-Aston Villa e Crystal Palace-Fiorentina",
+      "accuratezza_orario": "esatto"
+    }
+  ]
 }
