@@ -1,94 +1,121 @@
 {
-  "last_updated": "2026-04-09T03:08:46.759976+02:00",
+  "last_updated": "2026-04-09T09:10:11.370541+02:00",
   "events": [
     {
-      "orario": "00:30",
-      "evento": "UEFA Conference League 2025/2026 - Crystal Palace - Fiorentina (Quarti di finale. Andata) - Replica",
-      "competizione": "UEFA Conference League",
-      "canale": "Sky Sport Uno",
-      "note": "Replay della partita giocata in serata.",
-      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:15",
-      "evento": "Uefa Champions League 2025/2026 - Paris Saint-Germain - Liverpool (Quarti di finale. Andata) - Replica",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Replay di una partita precedente.",
-      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Uefa Champions League 2025/2026 - Real Madrid - FC Bayern Monaco (Quarti di finale. Andata) - Replica",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Replay di una partita precedente.",
-      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Uefa Champions League 2025/2026 - Barcellona - Atletico Madrid (Quarti di Finale. Andata) - Replica",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Replay di una partita precedente.",
-      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "orario": "11:00",
+      "evento": "ATP 1000 Montecarlo: ottavi di finale (5a giornata)",
+      "competizione": "Tennis - ATP Masters 1000",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
+      "note": "Include match con italiani in campo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpJimRWQkPM2Ru9Gg871yIXzLfa1dCgmsX_8597L8cI2h5MvD6gsN6c5YxObUInrcREhnVeKf_-tMlpuS1_lUITzXSZk7FZYybCwCoXYQ3ZUIWswR-1pi2Dr47QYxrEWeNY5NnklQSZC8s50uZZrmJMn-o343MAKCjmQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:00",
-      "evento": "ATP 1000 Montecarlo: 5a giornata",
-      "competizione": "ATP 1000 Montecarlo",
-      "canale": "Sky Sport Uno",
-      "note": "Orario di inizio della programmazione dedicata alla giornata. Si attendono conferme sui match con giocatori italiani.",
-      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "evento": "Tennis: Matteo Berrettini - Joao Fonseca",
+      "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
+      "note": "Primo match sul campo centrale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2NvrYjsboQk1Z5Vj1wpQU7XEp5jWQqsJo1zW5mbO-7COLEm8c4zM21pgo3_8z6k9IQ0uT7Dn3-sVOiyWHeqQWnIcl0E-Hb19wPvLcmUDjJodOWhza9xu2bja5ul1ssz0Rgn5T7Rx5D23yTTaiABTZofB-n9Tnk966pixiA-5tajkLioUdKu2oF8o_pTuUbHF5DC7k8NF2OWh17rFTApuqdLYn_WBYrkbBwjMkjgaCM8afGD6OQV2EUaekAPaEeCWVa7RhrH7A4Y1rjim",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30*",
+      "evento": "Tennis: Jannik Sinner - Tomas Machac",
+      "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
+      "note": "Secondo match sul campo centrale, a seguire Bergs-Zverev.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2NvrYjsboQk1Z5Vj1wpQU7XEp5jWQqsJo1zW5mbO-7COLEm8c4zM21pgo3_8z6k9IQ0uT7Dn3-sVOiyWHeqQWnIcl0E-Hb19wPvLcmUDjJodOWhza9xu2bja5ul1ssz0Rgn5T7Rx5D23yTTaiABTZofB-n9Tnk966pixiA-5tajkLioUdKu2oF8o_pTuUbHF5DC7k8NF2OWh17rFTApuqdLYn_WBYrkbBwjMkjgaCM8afGD6OQV2EUaekAPaEeCWVa7RhrH7A4Y1rjim",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis: Berrettini/Vavassori (doppio)",
+      "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
+      "note": "Match di doppio, orario da definire in base ai match precedenti.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2NvrYjsboQk1Z5Vj1wpQU7XEp5jWQqsJo1zW5mbO-7COLEm8c4zM21pgo3_8z6k9IQ0uT7Dn3-sVOiyWHeqQWnIcl0E-Hb19wPvLcmUDjJodOWhza9xu2bja5ul1ssz0Rgn5T7Rx5D23yTTaiABTZofB-n9Tnk966pixiA-5tajkLioUdKu2oF8o_pTuUbHF5DC7k8NF2OWh17rFTApuqdLYn_WBYrkbBwjMkjgaCM8afGD6OQV2EUaekAPaEeCWVa7RhrH7A4Y1rjim",
+      "accuratezza_orario": "tba"
     },
     {
       "orario": "19:00",
       "evento": "ATP 1000 Montecarlo: 5a giornata",
-      "competizione": "ATP 1000 Montecarlo",
+      "competizione": "Tennis - ATP Masters 1000",
       "canale": "Sky Sport Uno",
-      "note": "Orario di inizio della programmazione dedicata alla giornata. Si attendono conferme sui match con giocatori italiani.",
-      "fonte": "Programmi TV del 09 Aprile 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "stimato"
+      "note": "Proseguimento dei match.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2BDDGVCGDn6sOG8LjGu1s6XwrMuBIlvEXH6IY36mT5yzBZWd59rbyJ2BpQtrhqZlDbejBawMWTHbOt-0xxsUSYX5nCVYF_tCfD3Wl0R7442R56sbRzRhAMUL5XVjNLqkxxuQaTdt9KuIq8-fzo-NIhE=",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Bologna - Aston Villa (Quarti di finale. Andata)",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 252, NOW",
-      "note": "Andata dei quarti di finale. Squadra italiana in campo.",
-      "fonte": "Programmi TV della sera del 09 Aprile 2026 - Guida TV",
+      "orario": "20:00",
+      "evento": "Europa e Conference League Prepartita",
+      "competizione": "Calcio - Coppe Europee",
+      "canale": "Sky Sport Uno",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMs_lx-vzAl9kJghkCO-bYaGQa0j5MeAPm10nneEtzqfj08c3Ufy4SHz8s4PkBg0ByCOyNSOMBZ5qqQNjlWhW2MgisfOVrnxio-UEMyXqWvGMTrlF9dh5EoaollG-3k6ONSHsmudOGH84_Eo0BvI71AKWTCO80wg==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Crystal Palace - Fiorentina (Quarti di finale. Andata)",
-      "competizione": "UEFA Conference League",
-      "canale": "Sky Sport Arena, Sky Sport Calcio, Sky Go, NOW",
-      "note": "Andata dei quarti di finale. Squadra italiana in campo.",
-      "fonte": "Calcio in tv oggi, 9 aprile 2026 con Bologna-Aston Villa e Crystal Palace-Fiorentina",
+      "evento": "UEFA Europa League 2025/2026: Bologna - Aston Villa (Quarti di finale. Andata)",
+      "competizione": "Calcio - Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K, NOW",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMs_lx-vzAl9kJghkCO-bYaGQa0j5MeAPm10nneEtzqfj08c3Ufy4SHz8s4PkBg0ByCOyNSOMBZ5qqQNjlWhW2MgisfOVrnxio-UEMyXqWvGMTrlF9dh5EoaollG-3k6ONSHsmudOGH84_Eo0BvI71AKWTCO80wg==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Porto - Nottingham Forest (Quarti di finale. Andata)",
-      "competizione": "UEFA Europa League",
-      "canale": "TV8, Sky Sport Calcio, Sky Sport 254, NOW",
-      "note": "Andata dei quarti di finale. Disponibile in chiaro su TV8.",
-      "fonte": "Calcio in tv oggi, 9 aprile 2026 con Bologna-Aston Villa e Crystal Palace-Fiorentina",
+      "evento": "UEFA Conference League 2025/2026: Crystal Palace - Fiorentina (Quarti di finale. Andata)",
+      "competizione": "Calcio - Conference League",
+      "canale": "Sky Sport Arena, Sky Sport 253, NOW",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2BDDGVCGDn6sOG8LjGu1s6XwrMuBIlvEXH6IY36mT5yzBZWd59rbyJ2BpQtrhqZlDbejBawMWTHbOt-0xxsUSYX5nCVYF_tCfD3Wl0R7442R56sbRzRhAMUL5XVjNLqkxxuQaTdt9KuIq8-fzo-NIhE=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Friburgo - Celta Vigo (Quarti di finale. Andata)",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport 255, NOW",
-      "note": "Andata dei quarti di finale.",
-      "fonte": "Calcio in tv oggi, 9 aprile 2026 con Bologna-Aston Villa e Crystal Palace-Fiorentina",
+      "evento": "Diretta Gol Europa e Conference League",
+      "competizione": "Calcio - Coppe Europee",
+      "canale": "Sky Sport Max, Sky Sport 251, NOW",
+      "note": "Copertura in contemporanea di tutte le partite.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoVjbIWtE07dKN3vCluSrDs8FDQuoJzuodcBkqK5_haDFTnK6ivreBlW_EnzZ6ebkhrQeQCglDJiG7NRjJa_Psz_cKi5oR4YyBAG0XPx5oHLPmuImfknPX7I4g-LhsOR9gAEiJuqKfoFjxPj_NgbabPXClGuvBCPOXHUN11yQu4iD1P3s8KBrqGvGx3ZFufntmdBfoZPluMgX7Y3FjSHJxDwSdASck",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Europa e Conference League Postpartita",
+      "competizione": "Calcio - Coppe Europee",
+      "canale": "Sky Sport Uno",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMs_lx-vzAl9kJghkCO-bYaGQa0j5MeAPm10nneEtzqfj08c3Ufy4SHz8s4PkBg0ByCOyNSOMBZ5qqQNjlWhW2MgisfOVrnxio-UEMyXqWvGMTrlF9dh5EoaollG-3k6ONSHsmudOGH84_Eo0BvI71AKWTCO80wg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:45",
+      "evento": "After Party Best of Europe",
+      "competizione": "Calcio - Approfondimento",
+      "canale": "Sky Sport Uno",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMs_lx-vzAl9kJghkCO-bYaGQa0j5MeAPm10nneEtzqfj08c3Ufy4SHz8s4PkBg0ByCOyNSOMBZ5qqQNjlWhW2MgisfOVrnxio-UEMyXqWvGMTrlF9dh5EoaollG-3k6ONSHsmudOGH84_Eo0BvI71AKWTCO80wg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30",
+      "evento": "REPLICA: UEFA Conference League 2025/2026: Crystal Palace - Fiorentina (Quarti di finale. Andata)",
+      "competizione": "Calcio - Conference League",
+      "canale": "Sky Sport Uno",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2BDDGVCGDn6sOG8LjGu1s6XwrMuBIlvEXH6IY36mT5yzBZWd59rbyJ2BpQtrhqZlDbejBawMWTHbOt-0xxsUSYX5nCVYF_tCfD3Wl0R7442R56sbRzRhAMUL5XVjNLqkxxuQaTdt9KuIq8-fzo-NIhE=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "REPLICA: After Party Best of Europe",
+      "competizione": "Calcio - Approfondimento",
+      "canale": "Sky Sport Uno",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2BDDGVCGDn6sOG8LjGu1s6XwrMuBIlvEXH6IY36mT5yzBZWd59rbyJ2BpQtrhqZlDbejBawMWTHbOt-0xxsUSYX5nCVYF_tCfD3Wl0R7442R56sbRzRhAMUL5XVjNLqkxxuQaTdt9KuIq8-fzo-NIhE=",
       "accuratezza_orario": "esatto"
     }
   ]
