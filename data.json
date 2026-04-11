@@ -1,76 +1,112 @@
 {
-  "last_updated": "2026-04-09T14:57:31.682270+02:00",
+  "last_updated": "2026-04-11T03:14:30.653402+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "Berrettini (ITA) vs. Fonseca (BRA)",
-      "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Sport Mix",
-      "note": "Match del singolare. Orario stimato, primo match sul Campo dei Principi.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTjR__PGPx55wWxWub_fiPmT8JJsgx0Gbby6m3JqCTnB6cpsXBJ2OwI8e_JsPOfFxibC5gCknScDBNxGqkHxM6145XpUj_4wAp3txNNNYC3TJEWaC6uynGCw8zLCNcr1bExsNviLz2Zu1qrMc6TrEtDvP6bJriAFu_XvC7B2pD17-WUB9hNGePsusMUs_-BxYM50nkX5FbajLzdo4es9XppfYQCMnyr6cntSGUz8Q8cF0pEQ==",
+      "orario": "14:30",
+      "evento": "Formula 1 - GP Bahrain 2026: Prove Libere 3",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Formula1.it, FormulaPassion, CircusF1",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:45",
+      "evento": "MotoGP - GP Qatar 2026: Prove Libere 1",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio - Cagliari-Cremonese",
+      "competizione": "Serie A 2025/2026",
+      "canale": "DAZN 1",
+      "note": "",
+      "fonte": "Movieplayer",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio - Torino-Verona",
+      "competizione": "Serie A 2025/2026",
+      "canale": "DAZN 2",
+      "note": "",
+      "fonte": "Movieplayer",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30*",
+      "evento": "Tennis - Semifinale Singolare: Jannik Sinner vs Alexander Zverev",
+      "competizione": "ATP Masters 1000 Monte Carlo 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Inizio non prima delle 13:30 CET. Partita con giocatore italiano.",
+      "fonte": "Dolomiti Review, OA Sport, bet365",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "13:00*",
-      "evento": "Sinner (ITA) vs. Machac (CZE)",
-      "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Sport Mix",
-      "note": "Match del singolare. Orario stimato, secondo match sul Campo Ranieri III (dopo Bergs-Zverev).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVU3egwsnvB_6G_IkaL3WOvN_7d2ZQdaMRMHgLwZRWfCDw5nxX74QfN2JVP3Hktub6ujWjE0SNJlZoyRA4JMJl3vEVyCCd5UiKiDdhooc5r1m4GUQ2bs5LYFih3rriM00fV0xQLtqZuuRDhkjej7c451-7FFkLzkzZx7T2inhBUdtBgJfN0SdfuAo_fBl5VIMy24smTFYymryVsTk58Vsy-lG8mhvrVIN7yMgXqTJQKnSL7LZOeClC8iN0",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Berrettini/Vavassori (ITA) vs. Heliovaara/Patten",
-      "competizione": "ATP Masters 1000 Montecarlo - Ottavi di Finale (doppio)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Sport Mix",
-      "note": "Match del doppio. Orario stimato, terzo match sul Campo dei Principi (dopo Auger-Aliassime-Ruud e Lehecka-Bublik).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTjR__PGPx55wWxWub_fiPmT8JJsgx0Gbby6m3JqCTnB6cpsXBJ2OwI8e_JsPOfFxibC5gCknScDBNxGqkHxM6145XpUj_4wAp3txNNNYC3TJEWaC6uynGCw8zLCNcr1bExsNviLz2Zu1qrMc6TrEtDvP6bJriAFu_XvC7B2pD17-WUB9hNGePsusMUs_-BxYM50nkX5FbajLzdo4es9XppfYQCMnyr6cntSGUz8Q8cF0pEQ==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Rayo Vallecano-AEK Atene",
-      "competizione": "UEFA Conference League",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjAMniPjrGCKMBfs_Ypr0H8vKU0BU5astCUYY4k4XwKN8c93BSgr0N5Or7txCAh9jTCoGikdXU2N8I9CNwurEvz7XJ4OJAoVpg1Vf5BcGrdBxKC3EVIN_uq4lQQoPxXmlkqOOyhdHyrqRtihLlwFOAflcG1RVUAAi_If7KkoaaAKWjdAZWJaqHjwQ4zVpaZCickc1EqVyIzAaFAQpL7feegu9jVv155DDICtTsd4UQE9NtP",
+      "orario": "14:30",
+      "evento": "Tennis - Semifinale Singolare: Jannik Sinner vs Alexander Zverev (Differita)",
+      "competizione": "ATP Masters 1000 Monte Carlo 2026",
+      "canale": "TV8 HD",
+      "note": "Differita della semifinale con giocatore italiano.",
+      "fonte": "OA Sport, Oggi in TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Bologna-Aston Villa",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "orario": "18:00",
+      "evento": "Calcio - Milan-Udinese",
+      "competizione": "Serie A 2025/2026",
+      "canale": "DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyL9ZdugfI9ZvOHfmvkAnyxK5OSMhOrpU0QerjG8bMBvPLBA_-aLkiiusZ17LM1gZ4Ol9QJQDM8sBu1VKQfxMk8ta3OxVtqgu4-b2R06hXO4puyDM22SqeAoErBK16WFLOMghz7kmsxEFofVeSkZSsd8FpHSoDIdo_4HBdHgwIyzHeEb0XZE0NPk_JWwz-YmJxyqrb2yu6s9rK24U_o3xIoJ1aisw2wCEE7cn_Yf2XoAB7_BOdWyHPGHz9BQGGvAxRJj1h9wekOF8K",
+      "fonte": "Movieplayer, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Crystal Palace-Fiorentina",
-      "competizione": "UEFA Conference League",
-      "canale": "Sky Sport Arena",
+      "orario": "18:00",
+      "evento": "Formula 1 - GP Bahrain 2026: Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjAMniPjrGCKMBfs_Ypr0H8vKU0BU5astCUYY4k4XwKN8c93BSgr0N5Or7txCAh9jTCoGikdXU2N8I9CNwurEvz7XJ4OJAoVpg1Vf5BcGrdBxKC3EVIN_uq4lQQoPxXmlkqOOyhdHyrqRtihLlwFOAflcG1RVUAAi_If7KkoaaAKWjdAZWJaqHjwQ4zVpaZCickc1EqVyIzAaFAQpL7feegu9jVv155DDICtTsd4UQE9NtP",
+      "fonte": "Formula1.it, FormulaPassion, CircusF1",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Porto-Nottingham Forest",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport, TV8, Sky Sport Calcio",
-      "note": "Disponibile anche in chiaro su TV8.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjAMniPjrGCKMBfs_Ypr0H8vKU0BU5astCUYY4k4XwKN8c93BSgr0N5Or7txCAh9jTCoGikdXU2N8I9CNwurEvz7XJ4OJAoVpg1Vf5BcGrdBxKC3EVIN_uq4lQQoPxXmlkqOOyhdHyrqRtihLlwFOAflcG1RVUAAi_If7KkoaaAKWjdAZWJaqHjwQ4zVpaZCickc1EqVyIzAaFAQpL7feegu9jVv155DDICtTsd4UQE9NtP",
+      "orario": "19:00",
+      "evento": "MotoGP - GP Qatar 2026: Prove (Pre-Qualifiche)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Friburgo-Celta Vigo",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport",
+      "orario": "19:30",
+      "evento": "Calcio - Monza-Bari",
+      "competizione": "Serie BKT 2025/2026",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX6pYxRMyGXIeyac6265HPoriGeJoqgm_0vPXiyGE7D5QsLCclk3uh0gFeISv5_xvHtwJhZ4HsDwX8siqh6Xjwt5KZgWVe4Agcq7Uemm1goc9GpUUiHBj0_t2U6RoiXSjJbVTS-7DlhJJbc6pByDhfUic3pEDVZX3F9g7QeXhwjUqL7y7WAMt9IuEoAem_Mx3OiyK3Prpe0YHUB55lw4pHVDGEw8xO9iq6h5o9BLKSQR5shoiqLu0EXc8l7A_YhyF4",
+      "fonte": "DAZN News IT",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Volley - Finale Gara 1: Prosecco Doc A. Carraro Imoco Conegliano vs Numia Vero Volley Milano",
+      "competizione": "Serie A1 Tigotà (Femminile) 2025/2026",
+      "canale": "Rai SportHD, VBTV",
+      "note": "Partita con squadra di Monza (Numia Vero Volley Milano).",
+      "fonte": "OA Sport, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Atalanta-Juventus",
+      "competizione": "Serie A 2025/2026",
+      "canale": "Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
+      "note": "",
+      "fonte": "Movieplayer, Guida TV, Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
