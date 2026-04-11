@@ -1,85 +1,148 @@
 {
-  "last_updated": "2026-04-11T14:32:59.981380+02:00",
+  "last_updated": "2026-04-11T20:28:27.604858+02:00",
   "events": [
     {
-      "orario": "14:00",
-      "evento": "Torino - Verona",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "Orario convertito da 15:00 CEST a CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa8Sd6oSPiUWzHuQCPnWa88PUxgVgs2-ldtBH0KvbUl8sJZamiYJuvPPsKl1v5IC_yfpwECkuoiisfpJcUayX0vnl9rQRjTeUDWlnTx2922hdhFXV9LINitt5yxLA608GlFrem9uvy4T54FS4vJ_ivIVaNDjpC4j1KnVcEF-PQmmqrkUrJ_6fGrTZFDjCN3Nwe2k2Q_AY=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Cagliari - Cremonese",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 2",
-      "note": "Orario convertito da 15:00 CEST a CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa8Sd6oSPiUWzHuQCPnWa88PUxgVgs2-ldtBH0KvbUl8sJZamiYJuvPPsKl1v5IC_yfpwECkuoiisfpJcUayX0vnl9rQRjTeUDWlnTx2922hdhFXV9LINitt5yxLA608GlFrem9uvy4T54FS4vJ_ivIVaNDjpC4j1KnVcEF-PQmmqrkUrJ_6fGrTZFDjCN3Nwe2k2Q_AY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHLt6LpBPBju6HBGs2oa36Y3nKuSefPt5TATTfOFYVYXzgcOFErap7WRkOf-OHMj2u9s71WFX_lF-WBjhgXYGib0CW6Qn8osBzUAs2JFJ_qTPdYKl1H4p_o0LawBt2MX-QvsMfFww9q_DQ16zp1HmqCkFT3ZdsvtQqgCw95_WA9gI7YhtdVAKlzIuvdLRMrsrwanN_z4U6d8kaeJEer66G9WMWL2Zpt-5ygLEj1j2_hyfbJ666d79iJLi7",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00*",
-      "evento": "Monza Open 2026: 1a Semifinale (con giocatori italiani)",
-      "competizione": "Tennis - ATP Challenger 125",
-      "canale": "Sky Sport Football",
-      "note": "Orario stimato convertito da 15:00 CEST a CET. Presenza di giocatori italiani confermata nel torneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22c-GPm9y3ioxOXp1hcvyc0b4QrjPgBxHzb13GkCcPcvfHD6HqwbNkXluzojPN6nQK6bSLATA1Z3somDCIZI4egXifDKnkxGC3fJ_H8Oa9AlQGpz3nkHqYss9IF7B2AQBTi9BoxJF2raE-KbqXIdrAJF5xTpn, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu2GBfHbih__HrWcYWa7PJtUnZUnu-3pulY8kYsa5wrgmPGIqR7CVKb8JFgqfIJBfMlNV-CXVIVaBqlB3KKVqHe6jz4v3g7hISA1vW8NfUsitLCMHnFG0y7xNgu2_WYejJJ3lAeRnt64vw4SCVwO6iJ6JKnD8AZhQyP7VbvwjH_ijKtryWOn47UPbzNUzTk2W9j2fg5DhcNJnNx3dqZu6PySC7jAlyaZT4dWMU8us2SMg8FA=",
+      "orario": "13:30*",
+      "evento": "Tennis - Semifinale ATP Masters 1000 Montecarlo: Sinner vs Zverev",
+      "competizione": "ATP Masters 1000 Montecarlo",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Orario stimato, non prima delle 13:30. Jannik Sinner in campo.",
+      "fonte": "IlSipontino.net, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:00*",
-      "evento": "Monza Open 2026: 2a Semifinale (con giocatori italiani)",
-      "competizione": "Tennis - ATP Challenger 125",
-      "canale": "Sky Sport Football",
-      "note": "Orario stimato convertito da 17:00 CEST a CET. Presenza di giocatori italiani confermata nel torneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22c-GPm9y3ioxOXp1hcvyc0b4QrjPgBxHzb13GkCcPcvfHD6HqwbNkXluzojPN6nQK6bSLATA1Z3somDCIZI4egXifDKnkxGC3fJ_H8Oa9AlQGpz3nkHqYss9IF7B2AQBTi9BoxJF2raE-KbqXIdrAJF5xTpn, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu2GBfHbih__HrWcYWa7PJtUnZUnu-3pulY8kYsa5wrgmPGIqR7CVKb8JFgqfIJBfMlNV-CXVIVaBqlB3KKVqHe6jz4v3g7hISA1vW8NfUsitLCMHnFG0y7xNgu2_WYejJJ3lAeRnt64vw4SCVwO6iJ6JKnD8AZhQyP7VbvwjH_ijKtryWOn47UPbzNUzTk2W9j2fg5DhcNJnNx3dqZu6PySC7jAlyaZT4dWMU8us2SMg8FA=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Milan - Udinese",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "Orario convertito da 18:00 CEST a CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa8Sd6oSPiUWzHuQCPnWa88PUxgVgs2-ldtBH0KvbUl8sJZamiYJuvPPsKl1v5IC_yfpwECkuoiisfpJcUayX0vnl9rQRjTeUDWlnTx2922hdhFXV9LINitt5yxLA608GlFrem9uvy4T54FS4vJ_ivIVaNDjpC4j1KnVcEF-PQmmqrkUrJ_6fGrTZFDjCN3Nwe2k2Q_AY=",
+      "orario": "14:30",
+      "evento": "Formula 1 - Prove Libere 3",
+      "competizione": "Gran Premio del Bahrain",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:45",
-      "evento": "Atalanta - Juventus",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport (251), NOW",
-      "note": "Orario convertito da 20:45 CEST a CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa8Sd6oSPiUWzHuQCPnWa88PUxgVgs2-ldtBH0KvbUl8sJZamiYJuvPPsKl1v5IC_yfpwECkuoiisfpJcUayX0vnl9rQRjTeUDWlnTx2922hdhFXV9LINitt5yxLA608GlFrem9uvy4T54FS4vJ_ivIVaNDjpC4j1KnVcEF-PQmmqrkUrJ_6fGrTZFDjCN3Nwe2k2Q_AY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa6wd_NvFXHAyF6aPd2qJoYzWj6fLRsURBNF1xbcDmDbe63sXNfcySkWRKRZyi9rBpf3OnzSmObU2pwXJWJ4ujCECgFT4xBtJYdS1OB19jwL7kFwtgfNS2KFkN23ROoCx_hKN-7W8tbdAbHjgpiB5ixc4qX-zikQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeIQvTzD8vwQKCG6VFThUSvCT7QgKaloHDBJRDXIArpl934WzjKAxBtOqwm847BRInMAKwU72RXsVXr8s-5ioWy83j5MO2NK6VJlTPgDFs4RJI4zUMZgR1wBvQH4DWkg37aowM-feX-399oQ6nfhiiduu4Snhr1Pd3pFbtnU5tGd4_s0LUseO0B2zsIRczCydxS5zO9oSMPYDB6rHieiTK0GqX5ukarn-HFEXJdZAA=",
+      "orario": "15:00",
+      "evento": "Calcio - Cagliari vs Cremonese",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Libero, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:15",
-      "evento": "ATP 1000 Montecarlo: 1a Semifinale (Sinner vs. Zverev)",
-      "competizione": "Tennis - Masters 1000",
+      "orario": "15:00",
+      "evento": "Calcio - Torino vs Verona",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Libero, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio - Juve Stabia vs Cesena",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio - Pescara vs Sampdoria",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio - Sudtirol vs Modena",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio - Virtus Entella vs Venezia",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:15",
+      "evento": "Calcio - Avellino vs Catanzaro",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Libero, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio - Milan vs Udinese",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Libero, Sky Sport, Calciomagazine, FOX One",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Formula 1 - Qualifiche",
+      "competizione": "Gran Premio del Bahrain",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "MotoGP - Sprint Race",
+      "competizione": "Gran Premio del Qatar",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Pallavolo - Mint Vero Volley Monza B vs Canottieri Ongina",
+      "competizione": "Serie B Maschile",
+      "canale": "Non specificato (locale/streaming)",
+      "note": "Orario UTC convertito in CET.",
+      "fonte": "Sofascore",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Calcio - Monza vs Bari",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Libero, Calciomagazine, Aeroitalia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Atalanta vs Juventus",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport",
+      "note": "",
+      "fonte": "Libero, Sky Sport, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Tennis - Replica Semifinale ATP Masters 1000 Montecarlo: Sinner vs Zverev",
+      "competizione": "ATP Masters 1000 Montecarlo",
       "canale": "Sky Sport Uno",
-      "note": "Orario convertito da 23:15 CEST a CET. Confermata la presenza di Sinner.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa6wd_NvFXHAyF6aPd2qJoYzWj6fLRsURBNF1xbcDmDbe63sXNfcySkWRKRZyi9rBpf3OnzSmObU2pwXJWJ4ujCECgFT4xBtJYdS1OB19jwL7kFwtgfNS2KFkN23ROoCx_hKN-7W8tbdAbHjgpiB5ixc4qX-zikQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpAXWpaXmrBYWZ3PtydJboHLyklG5aCPe-0O7xx3qXykObUu4DACIMEXsMUbUmKm6Ix8g_XgfUQXSAI5dgiT7tH1Kfz4aiIahTk8x8YY-XDtnrZFFC4Ndg7-2G7JYgmWhCQ7bbhb0mW-KvRjw9WvYbjHYaYk_zMTQldaWm7A_JHxZcWC8En3Nq_6wuAkYFyOL9naEkcrx4ly2yIN34StZaS058PZ1IaHAvlXF86FdLpg4FcLLdN6oZsgcq, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu2GBfHbih__HrWcYWa7PJtUnZUnu-3pulY8kYsa5wrgmPGIqR7CVKb8JFgqfIJBfMlNV-CXVIVaBqlB3KKVqHe6jz4v3g7hISA1vW8NfUsitLCMHnFG0y7xNgu2_WYejJJ3lAeRnt64vw4SCVwO6iJ6JKnD8AZhQyP7VbvwjH_ijKtryWOn47UPbzNUzTk2W9j2fg5DhcNJnNx3dqZu6PySC7jAlyaZT4dWMU8us2SMg8FA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "La Serie B al 90°",
-      "competizione": "Calcio - Rubrica",
-      "canale": "Rai Sport + HD",
-      "note": "Orario convertito da 00:00 (12/04) CEST a CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGokKLHoeyoK1oO6CxNbAkSRtwkPF_aWQ43TDrobfnAfZz_GFsQLPYJ0aEMWs2c88EXn0iW5P7lp55w3FpJgPm2i-HCnwszmbY16CO888FYMRPmjhcWbufVoKJBaQF98EVfkeqaHVK7vDnnayn1Uitgu7QTdpdP0ujpiz1u3_NyysS8z1Ians=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDPqyMuZcFcrDA4ryQYfIouUkibo21_10R8wufMCqoSmf2rp5WQP04Nvg8QLUxa-6td5EX5lFudDKS2Eup4sn0BUpsVj8iMabH4C4HvZGP7HviY6cO4zinCSAkPfcsItxa9ebYFvLgaVGW89kGTUTt",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Rugby: Serie A Elite maschile: Viadana - Rovigo",
-      "competizione": "Rugby",
-      "canale": "Rai Sport + HD",
-      "note": "Replica. Orario convertito da 01:00 (12/04) CEST a CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGokKLHoeyoK1oO6CxNbAkSRtwkPF_aWQ43TDrobfnAfZz_GFsQLPYJ0aEMWs2c88EXn0iW5P7lp55w3FpJgPm2i-HCnwszmbY16CO888FYMRPmjhcWbufVoKJBaQF98EVfkeqaHVK7vDnnayn1Uitgu7QTdpdP0ujpiz1u3_NyysS8z1Ians=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDPqyMuZcFcrDA4ryQYfIouUkibo21_10R8wufMCqoSmf2rp5WQP04Nvg8QLUxa-6td5EX5lFudDKS2Eup4sn0BUpsVj8iMabH4C4HvZGP7HviY6cO4zinCSAkPfcsItxa9ebYFvLgaVGW89kGTUTt",
+      "note": "Replay della seconda semifinale del giorno precedente. Jannik Sinner in campo.",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
