@@ -1,112 +1,211 @@
 {
-  "last_updated": "2026-04-11T03:14:30.653402+02:00",
+  "last_updated": "2026-04-11T08:47:55.199901+02:00",
   "events": [
     {
-      "orario": "14:30",
-      "evento": "Formula 1 - GP Bahrain 2026: Prove Libere 3",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
+      "orario": "11:00",
+      "evento": "Campionato Primavera: Cesena – Inter",
+      "competizione": "Campionato Primavera",
+      "canale": "Sportitalia",
       "note": "",
-      "fonte": "Formula1.it, FormulaPassion, CircusF1",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:45",
-      "evento": "MotoGP - GP Qatar 2026: Prove Libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
+      "orario": "11:00",
+      "evento": "Campionato Primavera: Lecce – Genoa",
+      "competizione": "Campionato Primavera",
+      "canale": "Primavera TV",
       "note": "",
-      "fonte": "FormulaPassion, Sky Sport",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Calcio - Cagliari-Cremonese",
-      "competizione": "Serie A 2025/2026",
-      "canale": "DAZN 1",
+      "orario": "13:00",
+      "evento": "Campionato Primavera: Roma – Napoli Primavera",
+      "competizione": "Campionato Primavera",
+      "canale": "Sportitalia",
       "note": "",
-      "fonte": "Movieplayer",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Torino-Verona",
-      "competizione": "Serie A 2025/2026",
-      "canale": "DAZN 2",
-      "note": "",
-      "fonte": "Movieplayer",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:30*",
-      "evento": "Tennis - Semifinale Singolare: Jannik Sinner vs Alexander Zverev",
-      "competizione": "ATP Masters 1000 Monte Carlo 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Inizio non prima delle 13:30 CET. Partita con giocatore italiano.",
-      "fonte": "Dolomiti Review, OA Sport, bet365",
+      "evento": "Tennis: Semifinale ATP Masters 1000 Montecarlo (Jannik Sinner vs Alexander Zverev)",
+      "competizione": "ATP Masters 1000 Montecarlo",
+      "canale": "Sky Sport (vari canali), SkyGo, NOW",
+      "note": "Orario 'non prima delle 13:30'.",
+      "fonte": "oasport.it; adnkronos.com; livetennis.it; olympics.com",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "14:30",
-      "evento": "Tennis - Semifinale Singolare: Jannik Sinner vs Alexander Zverev (Differita)",
-      "competizione": "ATP Masters 1000 Monte Carlo 2026",
-      "canale": "TV8 HD",
-      "note": "Differita della semifinale con giocatore italiano.",
-      "fonte": "OA Sport, Oggi in TV",
+      "orario": "14:00*",
+      "evento": "Tennis: ATP 500 Munich, Qualificazioni 1 (Giustino ITA – Pellegrino)",
+      "competizione": "ATP 500 Munich",
+      "canale": null,
+      "note": "Orario 'non prima delle 14:00'.",
+      "fonte": "livetennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:45",
+      "evento": "MotoGP: Prove Libere 1",
+      "competizione": "GP Qatar",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "skysport.it; fanpage.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Cagliari – Cremonese",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "ildomaniditalia.eu; skysports.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Torino – Verona",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "ildomaniditalia.eu; skysports.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Calcio - Milan-Udinese",
-      "competizione": "Serie A 2025/2026",
-      "canale": "DAZN 1",
+      "evento": "Calcio: Milan – Udinese",
+      "competizione": "Serie A",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Movieplayer, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Formula 1 - GP Bahrain 2026: Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Formula1.it, FormulaPassion, CircusF1",
+      "fonte": "acmilan.com; ildomaniditalia.eu; skysports.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "MotoGP - GP Qatar 2026: Prove (Pre-Qualifiche)",
-      "competizione": "MotoGP",
+      "evento": "MotoGP: Pre-Qualifiche",
+      "competizione": "GP Qatar",
       "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Calcio - Monza-Bari",
-      "competizione": "Serie BKT 2025/2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "DAZN News IT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Volley - Finale Gara 1: Prosecco Doc A. Carraro Imoco Conegliano vs Numia Vero Volley Milano",
-      "competizione": "Serie A1 Tigotà (Femminile) 2025/2026",
-      "canale": "Rai SportHD, VBTV",
-      "note": "Partita con squadra di Monza (Numia Vero Volley Milano).",
-      "fonte": "OA Sport, Calciomagazine",
+      "fonte": "skysport.it; fanpage.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Atalanta-Juventus",
-      "competizione": "Serie A 2025/2026",
-      "canale": "Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
+      "evento": "Calcio: Atalanta – Juventus",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport (vari canali)",
       "note": "",
-      "fonte": "Movieplayer, Guida TV, Sky Sport",
+      "fonte": "calciomagazine.net; ildomaniditalia.eu; skysports.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis: Semifinale Monza Open 2026 (1a)",
+      "competizione": "ATP Challenger 125 Monza",
+      "canale": "Sky Sport Football",
+      "note": "",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis: Semifinale Monza Open 2026 (2a)",
+      "competizione": "ATP Challenger 125 Monza",
+      "canale": "Sky Sport Football",
+      "note": "",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:45",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Cina",
+      "canale": "Sky Sport 4K",
+      "note": "Replay della gara.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Cina",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Cina",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Cina",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Cina",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Cina",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Formula 1: Replay Gara",
+      "competizione": "GP Cina",
+      "canale": "Sky Sport F1",
+      "note": "Replay della gara.",
+      "fonte": "guida.tv",
       "accuratezza_orario": "esatto"
     }
   ]
