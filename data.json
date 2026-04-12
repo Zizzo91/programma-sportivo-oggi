@@ -1,148 +1,76 @@
 {
-  "last_updated": "2026-04-11T20:28:27.604858+02:00",
+  "last_updated": "2026-04-12T03:24:00.046621+02:00",
   "events": [
     {
-      "orario": "13:30*",
-      "evento": "Tennis - Semifinale ATP Masters 1000 Montecarlo: Sinner vs Zverev",
-      "competizione": "ATP Masters 1000 Montecarlo",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Orario stimato, non prima delle 13:30. Jannik Sinner in campo.",
-      "fonte": "IlSipontino.net, OA Sport",
+      "orario": "12:30",
+      "evento": "Genoa - Sassuolo",
+      "competizione": "Calcio Serie A",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv7A6vr1DCqbRYGJo27cGhC_3i9Wk72m0a7my2g2ECoF4cn4k9OYYm5SvjoREvVCQIzbrz82_UdNJMpsSlI4zMHZN2qstAjCZlIhP8mqIVUSJCNPBb5kddBWy89UBxC_ovtJOzNogRdVfnjSWs2R0uk7B_mOqPlapLjtEM",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:40",
+      "evento": "Qualifiche Sprint",
+      "competizione": "MotoGP Qatar",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUwQAv3VJo0RqsjgbHIP3A1Xnbaa2w41iG6mHeAb_yq489wq4g7EPr_85-K4LX0zMomfbH5B6jTlHN2Evgn6G5K5rRuW8jJdVjKiKfUlF4evLagvY8J2UaftV6AljbC6iiVl8k5eTFROyQZrL0NKpMdg_JpcjzCinoB_cSGzW9-TFMzlb-JAQXP-sA66P14ScBlrI",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Parma - Napoli",
+      "competizione": "Calcio Serie A",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv7A6vr1DCqbRYGJo27cGhC_3i9Wk72m0a7my2g2ECoF4cn4k9OYYm5SvjoREvVCQIzbrz82_UdNJMpsSlI4zMHZN2qstAjCZlIhP8mqIVUSJCNPBb5kddBWy89UBxC_ovtJOzNogRdVfnjSWs2R0uk7B_mOqPlapLjtEM",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Sinner - Alcaraz (Finale)",
+      "competizione": "Tennis ATP Monte-Carlo Masters",
+      "canale": "TV8, Sky Sport",
+      "note": "Orario stimato, non prima delle 15:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa0Kslh0b0ZOSKpJ53PGU2-PmPNz-hJo7xsQUKR0hktJealYPwnazdyMTxpju3L74MnddHWRu-5IgMnh1WuwaPDvsw_zHcsODBdr-EJrTDdyg52MG-P76uPGNAoLulrJqY8swHe5LeIH3UCWtMQkG6docKNq5psMC_z1uX73C0mPt-i4PIdUfoWY_wVtP-ny33HacAy-tQ-wZ8299RUyjTSUsbX33E9fWnWAvwUBcNVV0wyA",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "14:30",
-      "evento": "Formula 1 - Prove Libere 3",
-      "competizione": "Gran Premio del Bahrain",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Cagliari vs Cremonese",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Libero, Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Torino vs Verona",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Libero, Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Juve Stabia vs Cesena",
-      "competizione": "Serie B",
-      "canale": "DAZN, Lab Channel",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Pescara vs Sampdoria",
-      "competizione": "Serie B",
-      "canale": "DAZN, Lab Channel",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Sudtirol vs Modena",
-      "competizione": "Serie B",
-      "canale": "DAZN, Lab Channel",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Virtus Entella vs Venezia",
-      "competizione": "Serie B",
-      "canale": "DAZN, Lab Channel",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:15",
-      "evento": "Calcio - Avellino vs Catanzaro",
-      "competizione": "Serie B",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Libero, Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "18:00",
-      "evento": "Calcio - Milan vs Udinese",
-      "competizione": "Serie A",
-      "canale": "DAZN",
+      "evento": "Bologna - Lecce",
+      "competizione": "Calcio Serie A",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "Libero, Sky Sport, Calciomagazine, FOX One",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nDWABtoeEx-XmPPCHXkN4wNEkthpDS22I6BGSK1aMyKMEGcrdPMn9iUgloQfZWROXxAnFVaP8S_1Y3wryZg9jctoMRU42y61mdIJW6tIy_284ZLOdwJI7nB1-MUCH5zDEFCnNJ6oGQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Formula 1 - Qualifiche",
-      "competizione": "Gran Premio del Bahrain",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "MotoGP - Sprint Race",
-      "competizione": "Gran Premio del Qatar",
+      "orario": "19:00",
+      "evento": "Gara",
+      "competizione": "MotoGP Qatar",
       "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Pallavolo - Mint Vero Volley Monza B vs Canottieri Ongina",
-      "competizione": "Serie B Maschile",
-      "canale": "Non specificato (locale/streaming)",
-      "note": "Orario UTC convertito in CET.",
-      "fonte": "Sofascore",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Calcio - Monza vs Bari",
-      "competizione": "Serie B",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Libero, Calciomagazine, Aeroitalia",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUwQAv3VJo0RqsjgbHIP3A1Xnbaa2w41iG6mHeAb_yq489wq4g7EPr_85-K4LX0zMomfbH5B6jTlHN2Evgn6G5K5rRuW8jJdVjKiKfUlF4evLagvY8J2UaftV6AljbC6iiVl8k5eTFROyQZrL0NKpMdg_JpcjzCinoB_cSGzW9-TFMzlb-JAQXP-sA66P14ScBlrI",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Atalanta vs Juventus",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport",
+      "evento": "Como - Inter",
+      "competizione": "Calcio Serie A",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "Libero, Sky Sport, Calciomagazine",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaac6aWGDhW-I-iPg1Ww6CanXQMzopXJLe41fw_BVPDHnXfGt4BYK-0cBqgYh3HAjaCKaV3R5gIZPhpEENx5kpNgkqW6LeHvSrxtQTzE1rmxE7mXeCxp0PE9NN8vUGRVoF6s8KkmcrWAPoBtZ2GpksmPkoXQYIefAv1diyCX_8FZQgdw3xh6I2IacCgGTpts6Y1dnrrNOKcxL5pqNxuvTJqexAYD0yb-h4Zz-zoSQWg_WOfZvhV-_AlWDHZI4Bahq5JKkJA-huNr3JMOENAnlIdF0KGhm-E5E1F5G3BweAa2R7NPu19jWNdl57O98=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Tennis - Replica Semifinale ATP Masters 1000 Montecarlo: Sinner vs Zverev",
-      "competizione": "ATP Masters 1000 Montecarlo",
-      "canale": "Sky Sport Uno",
-      "note": "Replay della seconda semifinale del giorno precedente. Jannik Sinner in campo.",
-      "fonte": "Guida TV",
+      "orario": "21:00",
+      "evento": "GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 (207)",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuvHfPUgAWAhRUIpCVdSFSiu_VxZF-T9pHgeCK3Lm2JCfuMp6ZuM8WrG0NVGTdE75-YCdktRjVD2hVjuEiLVS-BkXcdqDXw0JC7torvT1W5uCNKltHYOro-jnhRKpOlEE69frtSZRHWwbtDSKg1w_7xWRilckDNlx6",
       "accuratezza_orario": "esatto"
     }
   ]
