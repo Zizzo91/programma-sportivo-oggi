@@ -1,193 +1,76 @@
 {
-  "last_updated": "2026-04-13T03:25:49.629425+02:00",
+  "last_updated": "2026-04-14T03:24:03.500012+02:00",
   "events": [
     {
-      "orario": "00:30",
-      "evento": "Parigi - Roubaix 2026",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": "Probabile replica, palinsesto indicato per il 13 aprile.",
-      "fonte": "Programmi TV della notte del 13 Aprile 2026 - Guida TV",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "04:00",
-      "evento": "WTA 250 Rouen (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Con giocatrici italiane come Elisabetta Cocciaretto. Replica.",
-      "fonte": "Oggi in TV - Programmi SuperTennis lunedi 13 aprile 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:30",
-      "evento": "Giro del Belvedere 2026",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": "Probabile replica, palinsesto indicato per il 13 aprile.",
-      "fonte": "Programmi TV della notte del 13 Aprile 2026 - Guida TV",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Atalanta - Juventus (32a g.)",
-      "competizione": "Serie A 2025/2026",
-      "canale": "Sky Sport Uno",
-      "note": "Replica.",
-      "fonte": "Sport - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Mondiale Motocross 2026 - GP Sardegna: MX2 - gara 2",
-      "competizione": "Motocross",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Oggi in TV - Programmi Rai Sport +HD lunedi 13 aprile 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Gara MotoGP Gran Premio del Qatar",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara disputata il 12 aprile. Orario stimato basato su programmazione replay tipica.",
-      "fonte": "MotoGP 2026, diretta esclusiva Gran Premio Thailandia Sky Sport, NOW. Sprint LIVE anche su TV8 | Digital-News.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Parigi - Roubaix maschile",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": "Replica.",
-      "fonte": "Guida TV Rai Sport HD - Programmi di oggi & stasera",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP Gran Premio del Qatar",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara disputata il 12 aprile. Orario stimato basato su programmazione replay tipica.",
-      "fonte": "MotoGP 2026, diretta esclusiva Gran Premio Thailandia Sky Sport, NOW. Sprint LIVE anche su TV8 | Digital-News.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Campionato Mondiale Motocross Sardegna",
-      "competizione": "Motocross",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "Guida TV Rai Sport HD - Programmi di oggi & stasera",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Campionato Mondiale Motocross Sardegna",
-      "competizione": "Motocross",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "Guida TV Rai Sport HD - Programmi di oggi & stasera",
+      "orario": "05:00",
+      "evento": "GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara.",
+      "fonte": "Programmi Sky Sport F1 14 aprile a quest'ora - Guida Tv - TvBlog (April 13 2026)",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "Shanghai: Gara 2",
-      "competizione": "Formula 1 (Replica GP Cina)",
-      "canale": "Sky Sport F1",
-      "note": "Replica della Gara 2 del GP Cina (svoltosi a marzo 2026).",
-      "fonte": "Programmi Sky Sport F1 13 aprile a quest'ora - Guida Tv - TvBlog",
+      "evento": "Champions League Show",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Parigi - Roubaix maschile",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": "Replica.",
-      "fonte": "Guida TV Rai Sport HD - Programmi di oggi & stasera",
+      "orario": "21:00",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Fiorentina - Lazio (32a g.)",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "Partita del lunedì sera della Serie A 2025/2026.",
-      "fonte": "Le partite di oggi, lunedì 13 aprile 2026: Fiorentina-Lazio in primo piano | Calciomagazine; Calendario - ACF Fiorentina",
+      "orario": "23:00",
+      "evento": "Champions League Show",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Match con Lorenzo Musetti",
-      "competizione": "ATP 500 Barcellona",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, streaming Sky Sport Plus/NOW",
-      "note": "Inizio torneo, orario esatto del match non definito.",
-      "fonte": "Tennis, tutti gli italiani nei tornei ATP e WTA della settimana 13-19 aprile - OA Sport; Dove vedere il Tennis in TV e Streaming nel 2026",
-      "accuratezza_orario": "tba"
+      "orario": "00:00",
+      "evento": "Champions League Show",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Notte tra il 14 e il 15 aprile.",
+      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Match con Lorenzo Sonego",
-      "competizione": "ATP 500 Barcellona",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, streaming Sky Sport Plus/NOW",
-      "note": "Inizio torneo, orario esatto del match non definito.",
-      "fonte": "Tennis, tutti gli italiani nei tornei ATP e WTA della settimana 13-19 aprile - OA Sport; Dove vedere il Tennis in TV e Streaming nel 2026",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Match con Flavio Cobolli",
-      "competizione": "ATP 500 Monaco di Baviera",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, streaming Sky Sport Plus/NOW",
-      "note": "Inizio torneo, orario esatto del match non definito.",
-      "fonte": "Tennis, tutti gli italiani nei tornei ATP e WTA della settimana 13-19 aprile - OA Sport; Dove vedere il Tennis in TV e Streaming nel 2026",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Match con Luciano Darderi",
-      "competizione": "ATP 500 Monaco di Baviera",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, streaming Sky Sport Plus/NOW",
-      "note": "Inizio torneo, orario esatto del match non definito.",
-      "fonte": "Tennis, tutti gli italiani nei tornei ATP e WTA della settimana 13-19 aprile - OA Sport; Dove vedere il Tennis in TV e Streaming nel 2026",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Match con Jasmine Paolini",
-      "competizione": "WTA 500 Stoccarda",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, SuperTennis, streaming Sky Sport Plus/NOW/SuperTenniX",
-      "note": "Inizio torneo, orario esatto del match non definito.",
-      "fonte": "Tennis, tutti gli italiani nei tornei ATP e WTA della settimana 13-19 aprile - OA Sport; Dove vedere il Tennis in TV e Streaming nel 2026",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Match con Elisabetta Cocciaretto",
-      "competizione": "WTA 250 Rouen",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, SuperTennis, streaming Sky Sport Plus/NOW/SuperTenniX",
-      "note": "Inizio torneo, orario esatto del match non definito.",
-      "fonte": "Tennis, tutti gli italiani nei tornei ATP e WTA della settimana 13-19 aprile - OA Sport; Dove vedere il Tennis in TV e Streaming nel 2026",
-      "accuratezza_orario": "tba"
+      "orario": "00:18",
+      "evento": "Sport Mediaset",
+      "competizione": "Rubrica sportiva",
+      "canale": "Italia 1",
+      "note": "Notte tra il 14 e il 15 aprile.",
+      "fonte": "Sport Mediaset stasera su Italia 1 - Questa sera in tv",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:30",
-      "evento": "Campionato Mondiale Motocross Sardegna",
-      "competizione": "Motocross",
-      "canale": "Rai Sport HD",
-      "note": "Evento trasmesso nella notte tra il 13 e il 14 aprile.",
-      "fonte": "Guida TV Rai Sport HD - Programmi di oggi & stasera",
+      "evento": "Champions League Show: After Party",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Notte tra il 14 e il 15 aprile.",
+      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:30",
-      "evento": "Campionato Mondiale Motocross Sardegna",
-      "competizione": "Motocross",
-      "canale": "Rai Sport HD",
-      "note": "Evento trasmesso nella notte tra il 13 e il 14 aprile.",
-      "fonte": "Guida TV Rai Sport HD - Programmi di oggi & stasera",
+      "orario": "06:00",
+      "evento": "UEFA Champions League 2025/2026 - Atletico Madrid - FC Barcellona (Quarti di Finale. Ritorno)",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica. Mattina del 15 aprile.",
+      "fonte": "Programmi TV della mattina del 14 Aprile 2026 - Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
