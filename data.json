@@ -1,76 +1,85 @@
 {
-  "last_updated": "2026-04-14T03:24:03.500012+02:00",
+  "last_updated": "2026-04-14T20:57:51.100300+02:00",
   "events": [
     {
-      "orario": "05:00",
-      "evento": "GP Giappone: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara.",
-      "fonte": "Programmi Sky Sport F1 14 aprile a quest'ora - Guida Tv - TvBlog (April 13 2026)",
+      "orario": "11:00",
+      "evento": "Tennis ATP Barcellona: Sonego vs Martinez",
+      "competizione": "ATP 500 Barcellona",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Champions League Show",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
+      "orario": "11:00",
+      "evento": "Tennis ATP Monaco di Baviera: Darderi vs Zhang",
+      "competizione": "ATP 500 Monaco di Baviera",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
       "note": "",
-      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00*",
+      "evento": "Tennis ATP Barcellona: Musetti vs Landaluce",
+      "competizione": "ATP 500 Barcellona",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
+      "note": "Secondo match sul campo Rafa Nadal, dopo De Minaur vs Ofner",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "11:00*",
+      "evento": "Tennis ATP Monaco di Baviera: Cobolli vs Dedura",
+      "competizione": "ATP 500 Monaco di Baviera",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
+      "note": "Secondo match, dopo Darderi vs Zhang",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Tennis WTA Rouen: Cocciaretto vs Charaeva",
+      "competizione": "WTA 250 Rouen",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, supertennis.tv, SuperTenniX, Sky Go, NOW",
+      "note": "Terzo match sul campo principale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:15",
+      "evento": "Calcio Femminile: Serbia vs Italia",
+      "competizione": "Qualificazioni Mondiali 2027",
+      "canale": "Rai 2 HD, RaiPlay",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
+      "evento": "Calcio UEFA Champions League: Diretta Gol",
+      "competizione": "UEFA Champions League Quarti di Finale (Ritorno)",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
       "note": "",
-      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Champions League Show",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
+      "orario": "21:00",
+      "evento": "Calcio UEFA Champions League: Liverpool vs Paris Saint-Germain",
+      "competizione": "UEFA Champions League Quarti di Finale (Ritorno)",
+      "canale": "Sky Sport Arena, Sky Sport 4K, Sky Sport 252, NOW",
       "note": "",
-      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Champions League Show",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Notte tra il 14 e il 15 aprile.",
-      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:18",
-      "evento": "Sport Mediaset",
-      "competizione": "Rubrica sportiva",
-      "canale": "Italia 1",
-      "note": "Notte tra il 14 e il 15 aprile.",
-      "fonte": "Sport Mediaset stasera su Italia 1 - Questa sera in tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:30",
-      "evento": "Champions League Show: After Party",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Notte tra il 14 e il 15 aprile.",
-      "fonte": "Programmi TV del 14 Aprile 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "UEFA Champions League 2025/2026 - Atletico Madrid - FC Barcellona (Quarti di Finale. Ritorno)",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Replica. Mattina del 15 aprile.",
-      "fonte": "Programmi TV della mattina del 14 Aprile 2026 - Guida TV",
+      "orario": "21:00",
+      "evento": "Calcio UEFA Champions League: Atlético Madrid vs Barcellona",
+      "competizione": "UEFA Champions League Quarti di Finale (Ritorno)",
+      "canale": "Sky Sport Calcio, Sky Sport 253, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT6abJDiIrb5QmX3VU9QZbpGNFO4-5Rlurr9HhVifM6EwfPBbremtu36vtCgwUL4qKSOe03kKjCkQ2VpjSTp6HiUnAEjCYXiDSK5adbBR6JEvHpjNaEMxiJ3oXOkyjzk16HpObEilaCpTQ4R2UGPmbESg-3usanXGmUaBUoynTNmeZE3su9s-SzJVfm8PLN8U3PNkumPGX",
       "accuratezza_orario": "esatto"
     }
   ]
