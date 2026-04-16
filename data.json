@@ -1,40 +1,58 @@
 {
-  "last_updated": "2026-04-16T03:25:52.981914+02:00",
+  "last_updated": "2026-04-16T20:57:07.475139+02:00",
   "events": [
     {
       "orario": "13:30*",
-      "evento": "Lorenzo Sonego - Andrey Rublev",
-      "competizione": "ATP 500 Barcellona (Ottavi di Finale)",
-      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Sport Mix",
-      "note": "Lorenzo Sonego è giocatore italiano. Secondo match sulla Pista Rafa Nadal, non prima delle 13:30. Il canale esatto verrà definito in mattinata.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBkIC0eAUuiyy9QGKqTJwKDmnDVIyGQLBIXTRrBflODj2Wh3zKXkEg2fYBFbMta5Ll1tqfNe80gmA-MvVUjV4lQOms59L-3gD4ugBiz1wflhiJvKg7pPAXl3_UHIrjJmYXd0ZXL4jvtOMWqvw0blADqoU-XlhUZ-YECf9YW7HEuJS9tMWuztM684Den4PW_R_DrHrwzB7EhK14",
+      "evento": "Lorenzo Sonego vs Andrey Rublev",
+      "competizione": "ATP Barcellona",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "",
+      "fonte": "OA Sport, Ubitennis",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "16:00*",
-      "evento": "Lorenzo Musetti - Corentin Moutet",
-      "competizione": "ATP 500 Barcellona (Ottavi di Finale)",
-      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Sport Mix",
-      "note": "Lorenzo Musetti è giocatore italiano. Terzo match sulla Pista Rafa Nadal, non prima delle 16:00. Il canale esatto verrà definito in mattinata.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE96JfbGYMxvp9kzBddC8CIDXk2yC4HP8hAY4rhrOkHufG7UQ36b1PgHyR2auPcp1_tPSG1m9_uC8gCiWkj_AAu7Rps0Ae7PUeNTt0E-n4MfzQw0bL32Q5V8W2eowkSGGXA0nIGncAEMKYU1n1Epr3MnwRv2Oo3-u7yBzw0YBe-O6109MkSpiEuy5O1fVqKycJpUywjYT0RdNS7Q==",
+      "evento": "Lorenzo Musetti vs Corentin Moutet",
+      "competizione": "ATP Barcellona",
+      "canale": "Sky Sport, Super Tennis",
+      "note": "Musetti ha vinto il match e si è qualificato per i quarti di finale di domani 17 aprile.",
+      "fonte": "Lo Slalom, Sport in TV giovedì 16 aprile, Ubitennis, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:00",
-      "evento": "Aston Villa - Bologna",
-      "competizione": "UEFA Europa League (Quarti di finale. Ritorno)",
-      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport Calcio",
-      "note": "Bologna è squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcdKq1zVhwpdd78KjjI-TCFfsouDh-_PphzZNUKfGusNTCvFAVoXP5wNvrRaN6P6e7ylrfhdCuusmLmANKgo_g1h8f2c8CPR_wkLuwTNLcetJ_ZdTqteJ5ds8atBc7xC3-5KHy7f9wXZqKTtBeJxDg9e3dfn2_-8D6lgCfSlqhGu0PhQuSSnPInOiHgSFC_FqigwbcMUXxM88seKhw8Gy8KsdU_niy9hsq8RXAuoqQF0MhbfhHe6yJdCwyeWal",
+      "orario": "11:30*",
+      "evento": "Elisabetta Cocciaretto vs Veronika Podrez",
+      "competizione": "WTA Rouen",
+      "canale": "Sky Sport, Super Tennis",
+      "note": "",
+      "fonte": "Lo Slalom, Sport in TV giovedì 16 aprile, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "WTA 250 Rouen (replica)",
+      "competizione": "Tennis",
+      "canale": "Supertennis",
+      "note": "",
+      "fonte": "Questa Sera TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Fiorentina - Crystal Palace",
-      "competizione": "UEFA Conference League (Quarti di Finale. Ritorno)",
-      "canale": "Sky Sport Arena",
-      "note": "Fiorentina è squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHacN2JjGmOGSztjjCJxlxM2QkBcCOPMDwCBFt6AQFAOy6ld0xdSJLq8aghtfMa-46TtATskcAUydynIfgMubifzkMp1KtWih4l5iUb1dunrxDX5s8xlyocA5agxjHiCwr5QRO-hdQuMr6jUCMqmh4ePUJad_MDbzuRYw==",
+      "evento": "Aston Villa – Bologna",
+      "competizione": "Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky 252, NOW",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 90Min.com, Sportface.it, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Fiorentina – Crystal Palace",
+      "competizione": "Conference League",
+      "canale": "Sky Sport Arena, Sky 253, NOW",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 90Min.com, Sportface.it, Corriere dello Sport, Libero",
       "accuratezza_orario": "esatto"
     }
   ]
