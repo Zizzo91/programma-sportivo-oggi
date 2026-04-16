@@ -1,175 +1,40 @@
 {
-  "last_updated": "2026-04-15T20:59:30.070341+02:00",
+  "last_updated": "2026-04-16T03:25:52.981914+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Cerro Porteño – Junior",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Estudiantes – Cusco",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Nacional – Tolima",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "San Paolo – O'Higgins",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Grêmio – Deportivo Riestra",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Boca Juniors – Barcelona",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Bolívar – Deportivo La Guaira",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Vasco da Gama – Audax Italiano",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Palestino – Montevideo City Torque",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Santos – Recoleta",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "LDU Quito – Mirassol",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Universitario – Coquimbo",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "Nonostante la competizione non sia italiana, l'evento è incluso per la disponibilità in TV.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00*",
-      "evento": "Cobolli – Bergs (4° match)",
-      "competizione": "Tennis ATP 500 Monaco",
-      "canale": "Sky Sport Uno, Sky Sport Mix, Sky Go, NOW, Tennis Tv",
-      "note": "Ottavi di finale. Orario stimato in quanto dipende dai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnwTQ3r5oBoU06oFfJCYO3ydVCfSH9EDg43NsetjSZ54kvZEyMy4YwSj56vI1B4qphhhcpbtECXytE0h7hczJaFvRd7OfDHWG6Iq_xMgNp9VmpAeqwDYpr8EJoyeO6gicp4JwDoN2KSuvPq9FI_ewjicbB6VSIpyyD9ygxfLgTJs4HUVeME62DB9Vnvyqh3G-4Un3N7WEmMiKkEWEoiM02c50uX6lS3fCrSKXlf1oIMmGsw0MKaNuqaaqXMIzRqQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeVKiqW-wd5KW38Ntw60f1gpOqiZkZ5kWRbGutIirtfrjk6_kjv6gNCx0G2MfBBqrjrmCp5PMUp7q6OOmCtVV9WL1DLlsH0gsPuIiyjsjqt-0oy649JB98193uo36Xhf4_MTwSd9UgJ8j5J7j63kiFsyp98TtAIWiZ-a2MRcDC3mLwxngGpLocuTGILJG5MIh_6s1dFKMRwvmCb0ag_16rDLL67ofd_XcacSL-xpg8rTzQZay8lv-60-SQzZC5snQ",
+      "orario": "13:30*",
+      "evento": "Lorenzo Sonego - Andrey Rublev",
+      "competizione": "ATP 500 Barcellona (Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Sport Mix",
+      "note": "Lorenzo Sonego è giocatore italiano. Secondo match sulla Pista Rafa Nadal, non prima delle 13:30. Il canale esatto verrà definito in mattinata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBkIC0eAUuiyy9QGKqTJwKDmnDVIyGQLBIXTRrBflODj2Wh3zKXkEg2fYBFbMta5Ll1tqfNe80gmA-MvVUjV4lQOms59L-3gD4ugBiz1wflhiJvKg7pPAXl3_UHIrjJmYXd0ZXL4jvtOMWqvw0blADqoU-XlhUZ-YECf9YW7HEuJS9tMWuztM684Den4PW_R_DrHrwzB7EhK14",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "11:00*",
-      "evento": "Darderi – Kopriva (5° match)",
-      "competizione": "Tennis ATP 500 Monaco",
-      "canale": "Sky Sport Uno, Sky Sport Mix, Sky Go, NOW, Tennis Tv",
-      "note": "Ottavi di finale. Orario stimato in quanto dipende dai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnwTQ3r5oBoU06oFfJCYO3ydVCfSH9EDg43NsetjSZ54kvZEyMy4YwSj56vI1B4qphhhcpbtECXytE0h7hczJaFvRd7OfDHWG6Iq_xMgNp9VmpAeqwDYpr8EJoyeO6gicp4JwDoN2KSuvPq9FI_ewjicbB6VSIpyyD9ygxfLgTJs4HUVeME62DB9Vnvyqh3G-4Un3N7WEmMiKkEWEoiM02c50uX6lS3fCrSKXlf1oIMmGsw0MKaNuqaaqXMIzRqQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeVKiqW-wd5KW38Ntw60f1gpOqiZkZ5kWRbGutIirtfrjk6_kjv6gNCx0G2MfBBqrjrmCp5PMUp7q6OOmCtVV9WL1DLlsH0gsPuIiyjsjqt-0oy649JB98193uo36Xhf4_MTwSd9UgJ8j5J7j63kiFsyp98TtAIWiZ-a2MRcDC3mLwxngGpLocuTGILJG5MIh_6s1dFKMRwvmCb0ag_16rDLL67ofd_XcacSL-xpg8rTzQZay8lv-60-SQzZC5snQ",
+      "orario": "16:00*",
+      "evento": "Lorenzo Musetti - Corentin Moutet",
+      "competizione": "ATP 500 Barcellona (Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Sport Mix",
+      "note": "Lorenzo Musetti è giocatore italiano. Terzo match sulla Pista Rafa Nadal, non prima delle 16:00. Il canale esatto verrà definito in mattinata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE96JfbGYMxvp9kzBddC8CIDXk2yC4HP8hAY4rhrOkHufG7UQ36b1PgHyR2auPcp1_tPSG1m9_uC8gCiWkj_AAu7Rps0Ae7PUeNTt0E-n4MfzQw0bL32Q5V8W2eowkSGGXA0nIGncAEMKYU1n1Epr3MnwRv2Oo3-u7yBzw0YBe-O6109MkSpiEuy5O1fVqKycJpUywjYT0RdNS7Q==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "12:30",
-      "evento": "Paolini – Sonmez",
-      "competizione": "Tennis WTA 500 Stoccarda",
-      "canale": "SuperTennis, SuperTennis Plus, SuperTenniX",
-      "note": "Primo turno. Jasmine Paolini è una giocatrice italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQHnwTQ3r5oBoU06oFfJCYO3ydVCfSH9EDg43NsetjSZ54kvZEyMy4YwSj56vI1B4qphhhcpbtECXytE0h7hczJaFvRd7OfDHWG6Iq_xMgNp9VmpAeqwDYpr8EJoyeO6gicp4JwDoN2KSuvPq9FI_ewjicbB6VSIpyyD9ygxfLgTJs4HUVeME62DB9Vnvyqh3G-4Un3N7WEmMiKkEWEoiM02c50uX6lS3fCrSKXlf1oIMmGsw0MKaNuqaaqXMIzRqQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeVKiqW-wd5KW38Ntw60f1gpOqiZkZ5kWRbGutIirtfrjk6_kjv6gNCx0G2MfBBqrjrmCp5PMUp7q6OOmCtVV9WL1DLlsH0gsPuIiyjsjqt-0oy649JB98193uo36Xhf4_MTwSd9UgJ8j5J7j63kiFsyp98TtAIWiZ-a2MRcDC3mLwxngGpLocuTGILJG5MIh_6s1dFKMRwvmCb0ag_16rDLL67ofd_XcacSL-xpg8rTzQZay8lv-60-SQzZC5snQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoIDjavAZAtQlDk8QA84ikaRJ_9wSkJxezAH31Bv87KShS4AJg2mAMHSI70cfNdBwy1ufqRRHkxWnBAsBNtuld_VoKjfzIxWBb1qL9ran4yBgyJFwUqeic8HNnNmS34we7vuBgcl3UmxIDY3P4NEW0eEF6-tbyU5qRBHGDhkYed3SZpQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Reggina – Enna",
-      "competizione": "Serie D, Girone I",
-      "canale": "playreggina1914.it (streaming a pagamento)",
-      "note": "Recupero 30ª giornata. Trasmissione disponibile in streaming a pagamento sulla piattaforma ufficiale del club.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfdCO0GYCKnKxgIRc6VhxZOFroP5C7aViPDgRMBEoB73Erj1eF_0e5iskbcGU_40uB0Wf_Wi7h3tiPfQmNWHHVOTu8rjEC3uNJbwItPv-JmdSKUEUr6BQsx76LXqJJRngH62YJms_WkMIkKE5iTUp6WbrD4lJ6kG0r95fX5AEQ3TwC7K1YVvGZwMFSoXemEX5Qcz8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOG2O-l1gdicbB4mUSjCzvlFhnpLIgx7gGfxCS3mE8IS3zBoof35mRaGxBpnsSOPRuC8KUimD0wxd7wXeUDtSUSAYMHhSjzWqVIZlgtsPw_uJvlUSmBfKDlk0s_AA3wY5ETSY2acD1dIArpXKo8zsrF3P9VcQpDrGf1tJ-EWrOG5SK0iNGUhwBAeTXGePdtE4iWdbAtt1aPoknUiawT3plvtgrUbI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWm_9lvO9b18BqchPYyMGrYJTjk0kZf2YsNFj1KXy3LbfviJHgZRa_GSDHQPqE4Z2PuGMwcJ3UmhNLiC06t4Jm6uwgvx1byL830N2lRlNhkk-A8v9dXKBHpXjkyVVyTZtFXEYylVQ_Rc2NS7Rk82QJ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1YX93DTuBLa3iu6aupp3nxkpE3kbz3uAxM6JGvFO3kRs8RXe-kCF22ha_NfDwwZmrcwgGzf_XE1Z5dOeYkhVbcVXFEHe2DT-mfVDkpa389JStWqqbi8DXJ_DWPF3PEVHF9KeMFWW3KItYS6XGzRPEw-xynrarrdvZpST4k6V9g76-asCVqaPZLdx_gSoqd5h7rfLBDzBSXA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Italia – Francia",
-      "competizione": "Mondiali hockey ghiaccio femminile 2026",
-      "canale": "FISG.tv (streaming a pagamento)",
-      "note": "Mondiale di Prima Divisione Gruppo A in corso di svolgimento a Budapest. Diretta streaming, non è prevista diretta tv.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3brTJtTfQYnsorMkbwIoXto4TcRzwc8ccv-jnmaxapVAIe5Ts2Q1IZazJHVSfVPynqTo27ZRSZBRZ51LYTaZHPmWH62PcjbSlFLUHPA-sXQtt0r1otXLlzUvkYCsqqmgJfICHbnD8DwstWvN1sgSFBqVfyr1q6zUg5AXJuHN0fZiEKwAz7IjhwOlwm2DYL7iSYmZUFK6-kXxB7tvPRpZh-cWFivGA1tyDjidQxgdc6vWpF4k",
+      "orario": "21:00",
+      "evento": "Aston Villa - Bologna",
+      "competizione": "UEFA Europa League (Quarti di finale. Ritorno)",
+      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport Calcio",
+      "note": "Bologna è squadra italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcdKq1zVhwpdd78KjjI-TCFfsouDh-_PphzZNUKfGusNTCvFAVoXP5wNvrRaN6P6e7ylrfhdCuusmLmANKgo_g1h8f2c8CPR_wkLuwTNLcetJ_ZdTqteJ5ds8atBc7xC3-5KHy7f9wXZqKTtBeJxDg9e3dfn2_-8D6lgCfSlqhGu0PhQuSSnPInOiHgSFC_FqigwbcMUXxM88seKhw8Gy8KsdU_niy9hsq8RXAuoqQF0MhbfhHe6yJdCwyeWal",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Bayern Monaco – Real Madrid",
-      "competizione": "UEFA Champions League",
-      "canale": "Amazon Prime Video",
-      "note": "Ritorno quarti di finale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBUCcjYHlSjbzrl5jbk87kQvAzRTEuB9-Viq52wYKXuwXqW5BbDY-Eyu82Z4zIbrjUJssqRI4L4tMP5nK-K4-e9Y4CjBKAScZ7rfhYPtw-ggoEGYiKvEZju5nPYQdgnjWzuIdVVMb_5PiTa5i12BEu4h9s-_N1-bY-qVebzOOh6_QYgCK9SaFSD1X7-cvRvm0k4U7IpxTN, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFugxKvDNPgBBFyjjaZaLvwBrIOwmvN_7w56_jAnatDb_I4Is4P_He0qGjnyVX4r8HZbQIyvW_6QCkm7yqQwz1Pnwz8BoL40nWXkV14Qr2Lt8TbiEeLGfAf003iSGG34k2_Nvqo0emT7VOoVCqGJZalGIqSqHqhY5JpzQzvAgNg7X0",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Arsenal – Sporting CP",
-      "competizione": "UEFA Champions League",
-      "canale": "TV8, Sky Sport Uno",
-      "note": "Ritorno quarti di finale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK4yMjWgOKok9_eizylQKdEMNNuOBvE_2uj0HXV4TwqttRJpysmSfLZoqzeTSp6DN1ZUYPc6gK3aXBe_zQlciRV_U2KR-ZqubqvCwDu_8TyKyx9VexEQZbM-0m9_cRKxbFyDP8aL5yPyXPS5teQXBIhmD-cyTQ9VayC9ht107rQw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA1XnGpNaW-zuzTGerLz6mtkse-t7iW3gRzFqjPe7ARHawo2Kai18ccVH51wBlaQXbRppYpNiXcWtso5Pbfh5lcQpqOedMTHn5rl7n6aq_CMIIzue2AWFLtYspNnb26hAvh0onIkZCkxSn0MXxZZFLr2GfwptyuIfI8h_PJjk9DJo_0jKnKPZgtVbpsCOAsGi1gy_GosUfckgBy01lvijX-IvErZJPKOJRwmIlc1zzdijrVL_qDqHYCYvCMmzTvyPvPNx7SO_H8zdbqIg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBUCcjYHlSjbzrl5jbk87kQvAzRTEuB9-Viq52wYKXuwXqW5BbDY-Eyu82Z4zIbrjUJssqRI4L4tMP5nK-K4-e9Y4CjBKAScZ7rfhYPtw-ggoEGYiKvEZju5nPYQdgnjWzuIdVVMb_5PiTa5i12BEu4h9s-_N1-bY-qVebzOOh6_QYgCK9SaFSD1X7-cvRvm0k4U7IpxTN, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_vQ2ISwbkfeOj4QvKUUNs5meU-6iBoo7-mMT1NI774wRx17qrFJnvHLprBAuMI78nlJ5AIYIjlPn9oAXnRdzTyN7Tizwgq8D16zR2OqQIGRIHMxgihIm16y3VHoCfxUA6PJgkrioxDlTOfRs7J__Z3j0EEBe8lZZu7D2YudpqUiEG, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyRkhjXB0JldK_Vb8ekaRTpWvaWzlF4oUFEeGbiJsmVdvLtZPkr7huehMkPvGndBtGEsJa3J4-eK3QdB3DugHe2miOmj51HZGx2wcCTMN2cLu8lZGPql6KO-FwOAKiUDlvWXXD2DuScjIVBkEIttts8mXULwojYnxTgfZiDe-RUA",
+      "evento": "Fiorentina - Crystal Palace",
+      "competizione": "UEFA Conference League (Quarti di Finale. Ritorno)",
+      "canale": "Sky Sport Arena",
+      "note": "Fiorentina è squadra italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHacN2JjGmOGSztjjCJxlxM2QkBcCOPMDwCBFt6AQFAOy6ld0xdSJLq8aghtfMa-46TtATskcAUydynIfgMubifzkMp1KtWih4l5iUb1dunrxDX5s8xlyocA5agxjHiCwr5QRO-hdQuMr6jUCMqmh4ePUJad_MDbzuRYw==",
       "accuratezza_orario": "esatto"
     }
   ]
