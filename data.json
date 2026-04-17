@@ -1,58 +1,148 @@
 {
-  "last_updated": "2026-04-16T20:57:07.475139+02:00",
+  "last_updated": "2026-04-17T03:23:34.048452+02:00",
   "events": [
     {
-      "orario": "13:30*",
-      "evento": "Lorenzo Sonego vs Andrey Rublev",
-      "competizione": "ATP Barcellona",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "orario": "10:45",
+      "evento": "Coppa del Mondo Tarvisio: Discesa Libera Femminile",
+      "competizione": "Sci Alpino, Coppa del Mondo",
+      "canale": "Rai 2, Rai Sport + HD, RaiPlay, Eurosport 1, Discovery+, Sky Go, Now Tv, DAZN",
       "note": "",
-      "fonte": "OA Sport, Ubitennis",
-      "accuratezza_orario": "stimato"
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "ATP Monaco 500: Flavio Cobolli vs Vit Kopriva (Quarti di finale)",
+      "competizione": "Tennis ATP 500",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, NOW, Sky Go, Tennis TV",
+      "note": "Match di un giocatore italiano",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Youth League: Benfica-Bruges",
+      "competizione": "Calcio Giovanile",
+      "canale": "Sky Sport Calcio, NOW, UEFA.tv",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Gran Premio dell'Arabia Saudita: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "CircusF1, Calendario F1 gare 2026",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00*",
-      "evento": "Lorenzo Musetti vs Corentin Moutet",
-      "competizione": "ATP Barcellona",
-      "canale": "Sky Sport, Super Tennis",
-      "note": "Musetti ha vinto il match e si è qualificato per i quarti di finale di domani 17 aprile.",
-      "fonte": "Lo Slalom, Sport in TV giovedì 16 aprile, Ubitennis, OA Sport",
+      "evento": "ATP Barcellona 500: Lorenzo Musetti vs Arthur Fils (Quarti di finale)",
+      "competizione": "Tennis ATP 500",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, NOW, Sky Go, Tennis TV",
+      "note": "Match di un giocatore italiano, orario stimato (non prima delle 16:00)",
+      "fonte": "OA Sport, TvBlog",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "11:30*",
-      "evento": "Elisabetta Cocciaretto vs Veronika Podrez",
-      "competizione": "WTA Rouen",
-      "canale": "Sky Sport, Super Tennis",
+      "orario": "18:30",
+      "evento": "Serie A: Sassuolo-Como",
+      "competizione": "Calcio Serie A",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "Lo Slalom, Sport in TV giovedì 16 aprile, Ubitennis",
-      "accuratezza_orario": "stimato"
+      "fonte": "Calciomagazine, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Youth League: Real Madrid-PSG",
+      "competizione": "Calcio Giovanile",
+      "canale": "Sky, NOW",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Gran Premio dell'Arabia Saudita: Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "CircusF1, Calendario F1 gare 2026",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "WTA 250 Rouen (replica)",
-      "competizione": "Tennis",
-      "canale": "Supertennis",
+      "evento": "Serie B: Sampdoria-Monza",
+      "competizione": "Calcio Serie B",
+      "canale": "DAZN, Lab Channel",
       "note": "",
-      "fonte": "Questa Sera TV",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Aston Villa – Bologna",
-      "competizione": "Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky 252, NOW",
+      "orario": "20:45",
+      "evento": "Serie A: Inter-Cagliari",
+      "competizione": "Calcio Serie A",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, NOW",
       "note": "",
-      "fonte": "Calcio in tv oggi, 90Min.com, Sportface.it, Libero",
+      "fonte": "Calciomagazine, Sky Sport, Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Fiorentina – Crystal Palace",
-      "competizione": "Conference League",
-      "canale": "Sky Sport Arena, Sky 253, NOW",
+      "orario": "20:45",
+      "evento": "United Rugby Championship: Edinburgh - Zebre Parma",
+      "competizione": "Rugby",
+      "canale": "Sky Sport Arena, NOW, Sky Go",
+      "note": "Partita di una squadra italiana",
+      "fonte": "Guida TV, Rugby in diretta",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Blab Magazine",
+      "competizione": "Rubrica Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento calcistico",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:15",
+      "evento": "UEFA Champions League 2025/2026: FC Bayern Monaco - Real Madrid (Quarti di Finale. Ritorno)",
+      "competizione": "Calcio Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica. Include squadra italiana (anche se giocata in precedenza, il replay di una squadra di rilievo è accettato per il palinsesto notturno)",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "UEFA Champions League Remix",
+      "competizione": "Rubrica Calcio",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Calcio in tv oggi, 90Min.com, Sportface.it, Corriere dello Sport, Libero",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "UEFA Europa e Conference League Remix",
+      "competizione": "Rubrica Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "UEFA Champions League 2025/2026: FC Bayern Monaco - Real Madrid (Quarti di Finale. Ritorno)",
+      "competizione": "Calcio Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica. Include squadra italiana (anche se giocata in precedenza, il replay di una squadra di rilievo è accettato per il palinsesto notturno)",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
