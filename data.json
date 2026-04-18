@@ -1,67 +1,166 @@
 {
-  "last_updated": "2026-04-17T20:42:01.641064+02:00",
+  "last_updated": "2026-04-18T03:17:15.428987+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Flavio Cobolli vs Vit Kopriva",
-      "competizione": "Tennis - ATP Monaco di Baviera (Quarti di finale)",
-      "canale": "Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
-      "note": "Match con giocatore italiano",
-      "fonte": "OA Sport, Ubitennis, Datasport.it",
+      "orario": "10:30",
+      "evento": "Prove Libere 3",
+      "competizione": "WEC - 6 Ore Imola 2026",
+      "canale": "Discovery+, FIAWEC+, HBO canali Eurosport",
+      "note": "",
+      "fonte": "https://formulapassion.it/motorsport/wec/6-ore-imola-2026-programma-e-orari-tv-tutte-le-dirette-665137.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:15",
+      "evento": "Superpole",
+      "competizione": "Superbike - GP Paesi Bassi (Assen)",
+      "canale": "SKY Sport MotoGP HD",
+      "note": "",
+      "fonte": "https://www.moto.it/superbike/sbk-gran-premio-dei-paesi-bassi-terzo-round-ad-assen-gli-orari-tv.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "WorldWCR femminile",
+      "competizione": "Superbike - GP Paesi Bassi (Assen)",
+      "canale": "SKY Sport MotoGP HD",
+      "note": "",
+      "fonte": "https://www.moto.it/superbike/sbk-gran-premio-dei-paesi-bassi-terzo-round-ad-assen-gli-orari-tv.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Gara 1",
+      "competizione": "Superbike - GP Paesi Bassi (Assen)",
+      "canale": "SKY Sport MotoGP HD",
+      "note": "",
+      "fonte": "https://www.moto.it/superbike/sbk-gran-premio-dei-paesi-bassi-terzo-round-ad-assen-gli-orari-tv.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30*",
+      "evento": "Flavio Cobolli vs Alexander Zverev",
+      "competizione": "Tennis - Semifinale ATP 500 Monaco 2026",
+      "canale": "Sky Sport Uno, Sky Sport Arena",
+      "note": "Non prima delle 13:30 CET",
+      "fonte": "https://www.oasport.it/2026/04/cobolli-zverev-atp-monaco-2026-orario-semifinale-tv-programma-streaming/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Gara 1",
+      "competizione": "Supersport - GP Paesi Bassi (Assen)",
+      "canale": "SKY Sport MotoGP HD",
+      "note": "",
+      "fonte": "https://www.moto.it/superbike/sbk-gran-premio-dei-paesi-bassi-terzo-round-ad-assen-gli-orari-tv.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30",
+      "evento": "Qualifiche LMGT3",
+      "competizione": "WEC - 6 Ore Imola 2026",
+      "canale": "Discovery+, FIAWEC+, HBO canali Eurosport",
+      "note": "",
+      "fonte": "https://formulapassion.it/motorsport/wec/6-ore-imola-2026-programma-e-orari-tv-tutte-le-dirette-665137.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:50",
+      "evento": "Hyperpole LMGT3",
+      "competizione": "WEC - 6 Ore Imola 2026",
+      "canale": "Discovery+, FIAWEC+, HBO canali Eurosport",
+      "note": "",
+      "fonte": "https://formulapassion.it/motorsport/wec/6-ore-imola-2026-programma-e-orari-tv-tutte-le-dirette-665137.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Udinese - Parma",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-18-aprile-2026-roma-atalanta-e-le-altre-sfide-del-giorno-137583.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Danimarca - Italia",
+      "competizione": "Calcio - Qualificazioni Mondiali Femminili",
+      "canale": "Rai 2",
+      "note": "",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-18-aprile-2026-roma-atalanta-e-le-altre-sfide-del-giorno-137583.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:10",
+      "evento": "Qualifiche Hypercar",
+      "competizione": "WEC - 6 Ore Imola 2026",
+      "canale": "Discovery+, FIAWEC+, HBO canali Eurosport",
+      "note": "",
+      "fonte": "https://formulapassion.it/motorsport/wec/6-ore-imola-2026-programma-e-orari-tv-tutte-le-dirette-665137.html",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:30",
-      "evento": "GP Arabia Saudita - Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, SkyGo, NOW",
+      "evento": "Hyperpole Hypercar",
+      "competizione": "WEC - 6 Ore Imola 2026",
+      "canale": "Discovery+, FIAWEC+, HBO canali Eurosport",
       "note": "",
-      "fonte": "FormulaPassion",
+      "fonte": "https://formulapassion.it/motorsport/wec/6-ore-imola-2026-programma-e-orari-tv-tutte-le-dirette-665137.html",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00*",
-      "evento": "Lorenzo Musetti vs Arthur Fils",
-      "competizione": "Tennis - ATP Barcellona (Quarti di finale)",
-      "canale": "Sky Sport Uno (201), SkyGo, NOW, Tennis Tv",
-      "note": "Match con giocatore italiano; Orario non prima delle 16:00 CET",
-      "fonte": "OA Sport, Ubitennis",
-      "accuratezza_orario": "stimato"
+      "orario": "15:30",
+      "evento": "WorldSBK Olanda: Gara 1",
+      "competizione": "Superbike",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://www.staseraentv.com/oggi-in-tv-programmi-tv8-sabato-18-aprile-2026/",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Sassuolo-Como",
+      "orario": "18:00",
+      "evento": "Napoli - Lazio",
       "competizione": "Calcio - Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "90Min.com, Sport in TV e streaming – Datasport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "GP Arabia Saudita - Prove Libere 2",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, SkyGo, NOW",
-      "note": "",
-      "fonte": "FormulaPassion",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-18-aprile-2026-roma-atalanta-e-le-altre-sfide-del-giorno-137583.html",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Inter-Cagliari",
+      "evento": "Roma - Atalanta",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Uno (201), Sky Sport Calcio (202), Sky Sport 4K (213), Sky Sport 251, NOW",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport canale 251, NOW",
       "note": "",
-      "fonte": "90Min.com, Sport in TV e streaming – Datasport.it, Calciomagazine",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-18-aprile-2026-roma-atalanta-e-le-altre-sfide-del-giorno-137583.html",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "GP Giappone: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 (207)",
+      "orario": "21:00",
+      "evento": "Chelsea - Manchester United",
+      "competizione": "Calcio - Premier League",
+      "canale": "Sky Sport Uno, NOW",
       "note": "",
-      "fonte": "Guida.tv",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-18-aprile-2026-roma-atalanta-e-le-altre-sfide-del-giorno-137583.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Atletico Madrid - Real Sociedad",
+      "competizione": "Calcio - Finale Coppa del Re",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-18-aprile-2026-roma-atalanta-e-le-altre-sfide-del-giorno-137583.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Jannik Sinner vs Alex De Minaur",
+      "competizione": "Tennis - ATP 500 Pechino 2025 (Replica)",
+      "canale": "SuperTennis",
+      "note": "",
+      "fonte": "https://www.staseraentv.com/oggi-in-tv-programmi-supertennis-sabato-18-aprile-2026/",
       "accuratezza_orario": "esatto"
     }
   ]
