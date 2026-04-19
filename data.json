@@ -1,67 +1,13 @@
 {
-  "last_updated": "2026-04-19T14:35:23.504351+02:00",
+  "last_updated": "2026-04-19T20:32:45.516007+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Calcio - Cremonese vs Torino",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "90Min.com, Sky Sport, legaseriea.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30*",
-      "evento": "Tennis - Flavio Cobolli vs Shelton",
-      "competizione": "ATP 500 Munich",
-      "canale": "",
-      "note": "Orario 'Non prima delle' (Non prima 13:30).",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Verona vs Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "90Min.com, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio - Reggina vs Paternò",
-      "competizione": "Serie D - 32ª giornata",
-      "canale": "",
-      "note": "",
-      "fonte": "reggina1914.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Calcio - Pisa vs Genoa",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport (canale 251), NOW",
-      "note": "",
-      "fonte": "90Min.com, CalcioMagazine, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Formula 1 - Gara",
-      "competizione": "GP Arabia Saudita (Jeddah)",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "FormulaPassion, CircusF1",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "20:45",
-      "evento": "Calcio - Juventus vs Bologna",
+      "evento": "Juventus - Bologna",
       "competizione": "Serie A",
       "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "90Min.com, CalcioMagazine, Sky Sport",
+      "fonte": "Sky Sport, Calciomagazine, 90Min.com, Libero.it",
       "accuratezza_orario": "esatto"
     }
   ]
