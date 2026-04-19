@@ -1,67 +1,58 @@
 {
-  "last_updated": "2026-04-19T03:26:35.787602+02:00",
+  "last_updated": "2026-04-19T09:06:14.490213+02:00",
   "events": [
     {
       "orario": "12:30",
-      "evento": "Cremonese - Torino",
+      "evento": "Cremonese-Torino",
       "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "33ª giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybO-SXlqQPjN2EkfVyLylg2enbaz2JqO7Ou0tn_a3AJ-dTscbcMv70_1TwQnpvoBkW6w3ECS1glJofkcuS7IJjGLCoBOpcG_isChL-fd6Q8aeiWdSOy-bkL2m_AC_NXQS0WWBDYi8Emy4--pgdxxNHHUZyXKT1ZmarcgM-xYpSzyt_blgWxfDJL_dgso=",
+      "note": "",
+      "fonte": "Virgilio Sport / Sport Fanpage / Sky Sport / legaseriea.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30*",
-      "evento": "Flavio Cobolli vs Ben Shelton",
-      "competizione": "ATP 500 Monaco - Finale",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis Tv",
-      "note": "Finale tabellone singolare maschile. Orario 'non prima delle' 13:30.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmofS19su8k58GLyPE_h7PRIAb1pJB9awpDqXlu6sat0pj5OJeTHjU7jVSFe0G4wTbMXLrSl2sTMST-L5eLpnIH3gYihZdCm9Hzo-Uck7PskxI49j9IQMvdHhSZSPFC-qVbJc8lOHdqIq7-8XSNNV3vCURetcuzokHCi_Xoj_9cz-TjATNXh8f793BVmv3Dy6x5r8HeM0zK0is-B78dXftPkD-YskQW9u5zc76tDxZwPQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIqywtkob0nWLJrrZzgbNO62ua8hUw1EOZRY7vVyR9xh4pMDggFMlBteSSycPStxtujMYPWcF-Bq98ghRjTYv42efLQZccJLKJyaTAqallO-5r12gMgKiuk3zgz-dI-aTurDYXR9NrOXIpocSGkTCUP1W1IOVdJWXZpCtKgYQjZRawYtDn9tHDJdzRyasHOceLzrkZogsVtexGp5jO3sATUedPl2rduva0gbg=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Verona - Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "33ª giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybO-SXlqQPjN2EkfVyLylg2enbaz2JqO7Ou0tn_a3AJ-dTscbcMv70_1TwQnpvoBkW6w3ECS1glJofkcuS7IJjGLCoBOpcG_isChL-fd6Q8aeiWdSOy-bkL2m_AC_NXQS0WWBDYi8Emy4--pgdxxNHHUZyXKT1ZmarcgM-xYpSzyt_blgWxfDJL_dgso=",
+      "orario": "13:30",
+      "evento": "Finale ATP 500 Monaco di Baviera",
+      "competizione": "Tennis ATP",
+      "canale": "Sky Sport Tennis",
+      "note": "Con Cobolli",
+      "fonte": "Virgilio Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Reggina - Paternò",
-      "competizione": "Serie D Girone I",
-      "canale": "playreggina1914.it (streaming a pagamento)",
-      "note": "32ª giornata del campionato di Serie D.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF795BpH7spGCxGQ36h1-fVmiZiS8y6TWXGoZv-lfKFkQCBYAhiQaVsWiCbHd_TtjkZhu4oMI10caWrhHLVd-kUYGvf6YtpV81lhDNHbeUusk1YVhN3s7x_jBApxsjt1EpjBTh-enqtb2L2_IYgmuu9RQXGKB5GLNATBQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Pisa - Genoa",
+      "evento": "Verona-Milan",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 251",
-      "note": "33ª giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybO-SXlqQPjN2EkfVyLylg2enbaz2JqO7Ou0tn_a3AJ-dTscbcMv70_1TwQnpvoBkW6w3ECS1glJofkcuS7IJjGLCoBOpcG_isChL-fd6Q8aeiWdSOy-bkL2m_AC_NXQS0WWBDYi8Emy4--pgdxxNHHUZyXKT1ZmarcgM-xYpSzyt_blgWxfDJL_dgso=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3QIbDKwAQNIZCxIn4hurtIU4TjmCx5G_u6I1OaW_bLs6WPRooZdYEOKPHhH43yGB5lgl_9b--AAA_X758PJGsuPl8kIGiUYW4OppekWPoZJXAp8UfDvGwAlxGwTAqCnTDulLaMKytAN7zCmz2c1a8jp6E0R2dQaHEnl_JGPSLluu7PZpFgvuNwoI=",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Virgilio Sport / Sport Fanpage / Sky Sport / legaseriea.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Itas Trentino - Vero Volley Monza",
-      "competizione": "SuperLega Play Off 5° Posto - Semifinale Gara 1",
-      "canale": "VBTV (streaming)",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPNgyUR6xXFX0eqEVjrpHtHp53pVv5_v_1wG2dHcSaZmoOkUveVHPyC986uuc0QpV6Hm-Ckt4iIB0jTNzhkLB75xoStmXfR27XvkotG3HajO8r0Rap84dVJ3vBkTJa8K-P9mSDrYIP7VAlvFsUef7bwq3Gzp2nR51U12ZMoG3wp4HjBCJYkYCYzf9GXsjA3Zj9fnPyosy4yMYNwJnctFRDrITMjyR-Qo3Cde-z8n_brIPBn3jcPJeKHQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBJKj9dJp6Xe2fiwCRRRDAgD8isEsupwVYE6itETpQnDHiIuVdsAvXFnECQICLuLdjM_LT_7DBWL_LM7TktTU2OHtCeg75amsXmB7cFPTh1mIhtj8GEXzFKjSPB6KtOcTI6Wd7AbtHlrXR929rrp3aP6I8ryq7zw1QcOsvQZxF1WleOUclhhXWvgs4A6Dvkxci5Ys6gfaSEzw=",
+      "evento": "Pisa-Genoa",
+      "competizione": "Serie A",
+      "canale": "Sky",
+      "note": "",
+      "fonte": "Sport Fanpage / Sky Sport / legaseriea.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "GP Arabia Saudita - Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Autosprint / FormulaPassion / Formula 1, il calendario completo del Mondiale 2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Juventus - Bologna",
+      "evento": "Juventus-Bologna",
       "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "33ª giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybO-SXlqQPjN2EkfVyLylg2enbaz2JqO7Ou0tn_a3AJ-dTscbcMv70_1TwQnpvoBkW6w3ECS1glJofkcuS7IJjGLCoBOpcG_isChL-fd6Q8aeiWdSOy-bkL2m_AC_NXQS0WWBDYi8Emy4--pgdxxNHHUZyXKT1ZmarcgM-xYpSzyt_blgWxfDJL_dgso=",
+      "canale": "DAZN / Sky Sport Uno",
+      "note": "",
+      "fonte": "Sport Fanpage / Sky Sport / Guida TV / Calciomagazine",
       "accuratezza_orario": "esatto"
     }
   ]
