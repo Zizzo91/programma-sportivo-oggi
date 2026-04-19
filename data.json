@@ -1,58 +1,67 @@
 {
-  "last_updated": "2026-04-19T09:06:14.490213+02:00",
+  "last_updated": "2026-04-19T14:35:23.504351+02:00",
   "events": [
     {
       "orario": "12:30",
-      "evento": "Cremonese-Torino",
+      "evento": "Calcio - Cremonese vs Torino",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "Virgilio Sport / Sport Fanpage / Sky Sport / legaseriea.it",
+      "fonte": "90Min.com, Sky Sport, legaseriea.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Finale ATP 500 Monaco di Baviera",
-      "competizione": "Tennis ATP",
-      "canale": "Sky Sport Tennis",
-      "note": "Con Cobolli",
-      "fonte": "Virgilio Sport",
+      "orario": "13:30*",
+      "evento": "Tennis - Flavio Cobolli vs Shelton",
+      "competizione": "ATP 500 Munich",
+      "canale": "",
+      "note": "Orario 'Non prima delle' (Non prima 13:30).",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio - Verona vs Milan",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "90Min.com, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Verona-Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN",
+      "evento": "Calcio - Reggina vs Paternò",
+      "competizione": "Serie D - 32ª giornata",
+      "canale": "",
       "note": "",
-      "fonte": "Virgilio Sport / Sport Fanpage / Sky Sport / legaseriea.it",
+      "fonte": "reggina1914.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Pisa-Genoa",
+      "evento": "Calcio - Pisa vs Genoa",
       "competizione": "Serie A",
-      "canale": "Sky",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport (canale 251), NOW",
       "note": "",
-      "fonte": "Sport Fanpage / Sky Sport / legaseriea.it",
+      "fonte": "90Min.com, CalcioMagazine, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "GP Arabia Saudita - Gara",
-      "competizione": "Formula 1",
+      "evento": "Formula 1 - Gara",
+      "competizione": "GP Arabia Saudita (Jeddah)",
       "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Autosprint / FormulaPassion / Formula 1, il calendario completo del Mondiale 2026",
+      "fonte": "FormulaPassion, CircusF1",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Juventus-Bologna",
+      "evento": "Calcio - Juventus vs Bologna",
       "competizione": "Serie A",
-      "canale": "DAZN / Sky Sport Uno",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "Sport Fanpage / Sky Sport / Guida TV / Calciomagazine",
+      "fonte": "90Min.com, CalcioMagazine, Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
