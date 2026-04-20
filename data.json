@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-19T20:32:45.516007+02:00",
+  "last_updated": "2026-04-20T03:26:42.259044+02:00",
   "events": [
     {
       "orario": "20:45",
-      "evento": "Juventus - Bologna",
+      "evento": "Lecce - Fiorentina",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Sky Sport, Calciomagazine, 90Min.com, Libero.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOE5wFVucK_UThn9oCNvoaM0BsWVrTx_CLIeAsfFm5LVw9DzPk4PoCKwKVr5Ch_MYBaLK52JWs96wxX9iPY-qtt2PVrpq2ZT0RzYaiImZ-NDcLR_iH7IYvObkle20Y0H5hx6FrCXGXDE_D7RIH-RKkXcv8xbHzF2iR4N7ERIb5BA==",
       "accuratezza_orario": "esatto"
     }
   ]
