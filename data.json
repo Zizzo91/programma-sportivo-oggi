@@ -1,22 +1,49 @@
 {
-  "last_updated": "2026-04-21T03:23:42.380274+02:00",
+  "last_updated": "2026-04-21T09:21:06.591228+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "Madrid Open 2026 - 1a giornata (tabellone principale)",
-      "competizione": "ATP/WTA 1000 Madrid",
-      "canale": "Sky Sport (vari canali), SuperTennis",
-      "note": "In campo Jannik Sinner e altri tennisti italiani nel tabellone principale o nelle qualificazioni.",
-      "fonte": "Olympics.com, OA Sport, Guida TV Sky Sport Uno",
+      "orario": "15:00",
+      "evento": "Udinese-Parma",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "vertexaisearch.cloud.google.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Napoli-Lazio",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "vertexaisearch.cloud.google.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "dalle 13:30",
+      "evento": "ATP 500 Monaco - Semifinale (con Cobolli)",
+      "competizione": "Tennis ATP 500",
+      "canale": "Sky Sport Arena",
+      "note": "Semifinali in cui Cobolli è indicato come partecipante",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "stimato"
     },
     {
+      "orario": "20:45",
+      "evento": "Roma-Atalanta",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio",
+      "note": "",
+      "fonte": "vertexaisearch.cloud.google.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "21:00",
-      "evento": "Inter vs Como (Semifinale di ritorno)",
-      "competizione": "Coppa Italia 2026",
+      "evento": "Inter-Como",
+      "competizione": "Coppa Italia",
       "canale": "Canale 5",
       "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "esatto"
     }
   ]
