@@ -1,13 +1,22 @@
 {
-  "last_updated": "2026-04-20T03:26:42.259044+02:00",
+  "last_updated": "2026-04-21T03:23:42.380274+02:00",
   "events": [
     {
-      "orario": "20:45",
-      "evento": "Lecce - Fiorentina",
-      "competizione": "Serie A",
-      "canale": "DAZN",
+      "orario": "11:00*",
+      "evento": "Madrid Open 2026 - 1a giornata (tabellone principale)",
+      "competizione": "ATP/WTA 1000 Madrid",
+      "canale": "Sky Sport (vari canali), SuperTennis",
+      "note": "In campo Jannik Sinner e altri tennisti italiani nel tabellone principale o nelle qualificazioni.",
+      "fonte": "Olympics.com, OA Sport, Guida TV Sky Sport Uno",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Inter vs Como (Semifinale di ritorno)",
+      "competizione": "Coppa Italia 2026",
+      "canale": "Canale 5",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOE5wFVucK_UThn9oCNvoaM0BsWVrTx_CLIeAsfFm5LVw9DzPk4PoCKwKVr5Ch_MYBaLK52JWs96wxX9iPY-qtt2PVrpq2ZT0RzYaiImZ-NDcLR_iH7IYvObkle20Y0H5hx6FrCXGXDE_D7RIH-RKkXcv8xbHzF2iR4N7ERIb5BA==",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     }
   ]
