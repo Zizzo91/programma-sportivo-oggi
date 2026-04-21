@@ -1,94 +1,31 @@
 {
-  "last_updated": "2026-04-21T14:59:03.076370+02:00",
+  "last_updated": "2026-04-21T20:55:46.870584+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "Tennis, WTA Madrid 2026",
-      "competizione": "WTA 1000 Madrid Open",
-      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Match di qualificazione con l'italiana Tyra Grant. Orario stimato per il secondo match in programma. Trasmesso in diretta su SuperTennis HD, Sky Sport Uno (canale 201), Sky Sport Tennis (canale 203) e Sky Sport Mix (canale 211). Streaming disponibile su supertennis.tv, SuperTennix, SkyGo e NOW.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmqnG4SB6kLpAHxx0GXrs5RSrkDAIvPRSAMJ6-V4QoyVHOsEV6cuSylSwU8xuS200L2MJBzoXTDxu5yjs7LS8mZdWOJSz1tNdN8qda_4ds5EC0ylO1dJVtvGfqIzxcgywzPt_5Fo2i8VnqFiurG_TpFF4FW3DYKnuhwyJFyX17jIk7Z5gRtgQoZLe6qPxOVjAgSS2hbqHqKeY02Nc4NzKWny-9xR-i5JNC1uTLUcS6dJlrrSc=[1], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbSE_03Knb1Kj2Y-mM9_m3xwgHZS3OnC8FKf6enFzwu2MM6STrDtiZKMQl_HE02kqvnbb7L6xqgs5Prtr9Uwyzm5Gmo-ZczJd5LhdxCgD3b2koHkod7EHOaJCz5D_kmFavQD57H49LQZGx8rJVwEgs6Fq8wax_wb4zgJoYTUw8297uU0nCNdewdwmOIJzeKaR3_tEVQ_riRxaQO0G_9Naqw5sMcubLX2kc9p6dXZ9wTZMjpbI=[5], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiqYyMe5OrDHbDFvYczr0FDppzZY1JMzIQzp69caD05z2el4xc9ZaGSaK5fzuniqIDK0YQHwKjpsZN5_A7zqeR_iLn9aiE-nWJPMmBhdTx1WNGKe7WyW_F_dLchxwg-pxyJSORYDglNovtmzIqylCS3NoIWMLXcolQdJhz5moRazsa1Hh03ZVdY7kMf_QPx8nhI8iCUo50P5-BhoUP_rVz5e0Gfrf5pixzL2Brm0dMcvC1HNM8U3550npyBHS3s8qYZQPjRI4QeBMpdy7XqxNA=[11]",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Calcio, Liga Spagnola: Athletic - Osasuna",
-      "competizione": "LaLiga EA Sports",
-      "canale": "DAZN",
+      "orario": "13:35",
+      "evento": "Ciclismo: Tour of the Alps - Seconda Tappa",
+      "competizione": "Ciclismo su strada",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7haiuQoyFtFuBkWkUzdK-RNrNoxwb3yaKkzsF9H4Z-RNoOfb2tczqtWosty7F3yUx56nwVX7MyUhQR7su6aruIgs3AWuAb8KMe4aZihSq2Tl/lvlZsQ0ZPex6HJIZ1vNp28CaiKMAefaiYwBTDukjUdBXL7OXsLeEpzQ5ehdB5fTRhubnrbxODE1h0tVxIPkfJeYQmVVG=[9], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENd2PDdyVcuxv5u-Ga17Yzak4P56dAS-rMDh8VQXLORs3V-xdYK8VUNqaAHNPo5oHKzLfCJarDsQZf5HJFQokbUPDefYZyjfzDEl2MWo1IK8wD26ib489nmFdLjDL4y8rQsmRPQu-ePOv6BSgCPTMXiihpcBWDy4HFuGRCF4vGvVzmpwegCRMzgzktgv9cG16BCC3sYK6ZvcvLzoKP2TDo=[16], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdqIdKEV6OGBZorWQ_FXtYw3SaH4d9ePAerIQ145Dkl3Ytunbja8H_XhK7guTPYwFffGPzo0Tdzzl3uZQ6bnJlQwkRbSR6O4THJY0EH4wmwy02Lwv5RsGl_UWL2rcixu_r6pdmybHDKLd1qeTaPLq7ugsv2hVDowUhC5XDAs_fiA=[17]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Calcio, Liga Spagnola: Maiorca - Valencia",
-      "competizione": "LaLiga EA Sports",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7haiuQoyFtFuBkWkUzdK-RNrNoxwb3yaKkzsF9H4Z-RNoOfb2tczqtWosty7F3yUx56nwVX7MyUhQR7su6aruIgs3AWuAb8KMe4aZihSq2Tl/lvlZsQ0ZPex6HJIZ1vNp28CaiKMAefaiYwBTDukjUdBXL7OXsLeEpzQ5ehdB5fTRhubnrbxODE1h0tVxIPkfJeYQmVVG=[9], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENd2PDdyVcuxv5u-Ga17Yzak4P56dAS-rMDh8VQXLORs3V-xdYK8VUNqaAHNPo5oHKzLfCJarDsQZf5HJFQokbUPDefYZyjfzDEl2MWo1IK8wD26ib489nmFdLjDL4y8rQsmRPQu-ePOv6BSgCPTMXiihpcBWDy4HFuGRCF4vGvVzmpwegCRMzgzktgv9cG16BCC3sYK6ZvcvLzoKP2TDo=[16], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdqIdKEV6OGBZorWQ_FXtYw3SaH4d9ePAerIQ145Dkl3Ytunbja8H_XhK7guTPYwFffGPzo0Tdzzl3uZQ6bnJlQwkRbSR6O4THJY0EH4wmwy02Lwv5RsGl_UWL2rcixu_r6pdmybHDKLd1qeTaPLq7ugsv2hVDowUhC5XDAs_fiA=[17]",
+      "fonte": "Super Guida TV, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "Pallanuoto, Champions League: Pro Recco vs Ferencvaros",
+      "evento": "Pallanuoto: Pro Recco vs Ferencvaros",
       "competizione": "LEN Champions League",
-      "canale": "Sky Sport Arena (canale 204)",
-      "note": "Streaming disponibile su SkyGo e NOW.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmqnG4SB6kLpAHxx0GXrs5RSrkDAIvPRSAMJ6-V4QoyVHOsEV6cuSylSwU8xuS200L2MJBzoXTDxu5yjs7LS8mZdWOJSz1tNdN8qda_4ds5EC0ylO1dJVtvGfqIzxcgywzPt_5Fo2i8VnqFiurG_TpFF4FW3DYKnuhwyJFyX17jIk7Z5gRtgQoZLe6qPxOVjAgSS2hbqHqKeY02Nc4NzKWny-9xR-i5JNC1uTLUcS6dJlrrSc=[1]",
+      "canale": "Sky Sport Arena (204)",
+      "note": "Partita con squadra italiana.",
+      "fonte": "OA Sport, Guida TV Sky Sport Arena",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio, Coppa Italia: Inter vs Como",
-      "competizione": "Coppa Italia",
+      "evento": "Calcio: Inter vs Como",
+      "competizione": "Coppa Italia - Semifinale",
       "canale": "Canale 5",
-      "note": "Semifinale di ritorno.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7haiuQoyFtFuBkWkUzdK-RNrNoxwb3yaKkzsF9H4Z-RNoOfb2tczqtWosty7F3yUx56nwVX7MyUhQR7su6aruIgs3AWuAb8KMe4aZihSq2Tl/lvlZsQ0ZPex6HJIZ1vNp28CaiKMAefaiYwBTDukjUdBXL7OXsLeEpzQ5ehdB5fTRhubnrbxODE1h0tVxIPkfJeYQmVVG=[9], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENd2PDdyVcuxv5u-Ga17Yzak4P56dAS-rMDh8VQXLORs3V-xdYK8VUNqaAHNPo5oHKzLfCJarDsQZf5HJFQokbUPDefYZyjfzDEl2MWo1IK8wD26ib489nmFdLjDL4y8rQsmRPQu-ePOv6BSgCPTMXiihpcBWDy4HFuGRCF4vGvVzmpwegCRMzgzktgv9cG16BCC3sYK6ZvcvLzoKP2TDo=[16], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdqIdKEV6OGBZorWQ_FXtYw3SaH4d9ePAerIQ145Dkl3Ytunbja8H_XhK7guTPYwFffGPzo0Tdzzl3uZQ6bnJlQwkRbSR6O4THJY0EH4wmwy02Lwv5RsGl_UWL2rcixu_r6pdmybHDKLd1qeTaPLq7ugsv2hVDowUhC5XDAs_fiA=[17], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYXyKTCB0rkPjMPSSd9YdzEhlCa75kGef1bJ60uOkFwXkn-OgbFqldXkSJgSm-5nYaeRNfHEys2koTxHJTSbsYx3n6DILIZHyar7aRp4iMkmNP305O3qdDTfUiPWaYhyZ8raJ-fjwH1nwdrdMGgoqTTSvG5E6SBaezsSLJNC3U-pVbTezTsH6g23Q8_iyqpI9LJB81iCl1PNsLU7BZjXBihYR-wXXftL2jqwr8J5IwHuc=[29]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Calcio, Premier League: Brighton - Chelsea",
-      "competizione": "Premier League",
-      "canale": "Sky Sport Uno, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7haiuQoyFtFuBkWkUzdK-RNrNoxwb3yaKkzsF9H4Z-RNoOfb2tczqtWosty7F3yUx56nwVX7MyUhQR7su6aruIgs3AWuAb8KMe4aZihSq2Tl/lvlZsQ0ZPex6HJIZ1vNp28CaiKMAefaiYwBTDukjUdBXL7OXsLeEpzQ5ehdB5fTRhubnrbxODE1h0tVxIPkfJeYQmVVG=[9], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdqIdKEV6OGBZorWQ_FXtYw3SaH4d9ePAerIQ145Dkl3Ytunbja8H_XhK7guTPYwFffGPzo0Tdzzl3uZQ6bnJlQwkRbSR6O4THJY0EH4wmwy02Lwv5RsGl_UWL2rcixu_r6pdmybHDKLd1qeTaPLq7ugsv2hVDowUhC5XDAs_fiA=[17], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYXyKTCB0rkPjMPSSd9YdzEhlCa75kGef1bJ60uOkFwXkn-OgbFqldXkSJgSm-5nYaeRNfHEys2koTxHJTSbsYx3n6DILIZHyar7aRp4iMkmNP305O3qdDTfUiPWaYhyZ8raJ-fjwH1nwdrdMGgoqTTSvG5E6SBaezsSLJNC3U-pVbTezTsH6g23Q8_iyqpI9LJB81iCl1PNsLU7BZjXBihYR-wXXftL2jqwr8J5IwHuc=[29]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Calcio, Liga Spagnola: Real Madrid - Alavés",
-      "competizione": "LaLiga EA Sports",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7haiuQoyFtFuBkWkUzdK-RNrNoxwb3yaKkzsF9H4Z-RNoOfb2tczqtWosty7F3yUx56nwVX7MyUhQR7su6aruIgs3AWuAb8KMe4aZihSq2Tl/lvlZsQ0ZPex6HJIZ1vNp28CaiKMAefaiYwBTDukjUdBXL7OXsLeEpzQ5ehdB5fTRhubnrbxODE1h0tVxIPkfJeYQmVVG=[9], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdqIdKEV6OGBZorWQ_FXtYw3SaH4d9ePAerIQ145Dkl3Ytunbja8H_XhK7guTPYwFffGPzo0Tdzzl3uZQ6bnJlQwkRbSR6O4THJY0EH4wmwy02Lwv5RsGl_UWL2rcixu_r6pdmybHDKLd1qeTaPLq7ugsv2hVDowUhC5XDAs_fiA=[17]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Calcio, Liga Spagnola: Girona - Betis",
-      "competizione": "LaLiga EA Sports",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmqnG4SB6kLpAHxx0GXrs5RSrkDAIvPRSAMJ6-V4QoyVHOsEV6cuSylSwU8xuS200L2MJBzoXTDxu5yjs7LS8mZdWOJSz1tNdN8qda_4ds5EC0ylO1dJVtvGfqIzxcgywzPt_5Fo2i8VnqFiurG_TpFF4FW3DYKnuhwyJFyX17jIk7Z5gRtgQoZLe6qPxOVjAgSS2hbqHqKeY02Nc4NzKWny-9xR-i5JNC1uTLUcS6dJlrrSc=[1], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7haiuQoyFtFuBkWkUzdK-RNrNoxwb3yaKkzsF9H4Z-RNoOfb2tczqtWosty7F3yUx56nwVX7MyUhQR7su6aruIgs3AWuAb8KMe4aZihSq2Tl/lvlZsQ0ZPex6HJIZ1vNp28CaiKMAefaiYwBTDukjUdBXL7OXsLeEpzQ5ehdB5fTRhubnrbxODE1h0tVxIPkfJeYQmVVG=[9], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdqIdKEV6OGBZorWQ_FXtYw3SaH4d9ePAerIQ145Dkl3Ytunbja8H_XhK7guTPYwFffGPzo0Tdzzl3uZQ6bnJlQwkRbSR6O4THJY0EH4wmwy02Lwv5RsGl_UWL2rcixu_r6pdmybHDKLd1qeTaPLq7ugsv2hVDowUhC5XDAs_fiA=[17]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Tennis, ATP & WTA 1000 Madrid 2026",
-      "competizione": "Mutua Madrid Open",
-      "canale": "Sky Sport Uno",
-      "note": "Programmazione dedicata alla seconda giornata del torneo, con possibili italiani in campo (uomini o donne).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUHptYg8e5MP-TsHQEABylxRg5gy0n8RrOhjXJaJwKm5Ecigj0xkEu79fJonbyqbqGU8wBrn6aqvpESB04773pQ45Ji5opE6-tpWrE1QE468h6E4NU1rPWz21plHpQSYUADJbj7mItezqRdpwAsvn89uw0QY77Pibu=[21]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:15",
-      "evento": "Tennis, ATP & WTA 1000 Madrid 2026",
-      "competizione": "Mutua Madrid Open",
-      "canale": "Sky Sport Uno",
-      "note": "Programmazione dedicata alla seconda giornata del torneo, con possibili italiani in campo (uomini o donne).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUHptYg8e5MP-TsHQEABylxRg5gy0n8RrOhjXJaJwKm5Ecigj0xkEu79fJonbyqbqGU8wBrn6aqvpESB04773pQ45Ji5opE6-tpWrE1QE468h6E4NU1rPWz21plHpQSYUADJbj7mItezqRdpwAsvn89uw0QY77Pibu=[21]",
+      "note": "Partita con squadre italiane.",
+      "fonte": "90Min.com, Lo Slalom, Calciomagazine",
       "accuratezza_orario": "esatto"
     }
   ]
