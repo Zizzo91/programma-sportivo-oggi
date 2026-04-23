@@ -1,76 +1,40 @@
 {
-  "last_updated": "2026-04-22T09:19:00.223171+02:00",
+  "last_updated": "2026-04-23T03:27:05.373226+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "ATP & WTA 1000 Madrid 2026 - 2a giornata",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Copertura/Highlights della seconda giornata del torneo di Madrid.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzYhS3A8ybpHsgNJ0OJnz8ZQ0PBoWwVVeuZ1VakANvbBhR-I_QYvqAqodU08ykfhzft1vd_q9sFp3RmqBMt1yJ7_mYzskc1tlgabDO-Z-iudAAf6GUynB4WDtvA6KfPjbZ1Rpb2v8Vav5pJk-bMy9AYdqvkIy55MZ0OLqTaI-BnDeKsb8UHCw5BiPR1ARre6cb4_-B1t4b1Q==",
+      "orario": "11:30",
+      "evento": "Vicenza - Slask Wroclaw",
+      "competizione": "Europa League Calcio Amputati",
+      "canale": "",
+      "note": "Nessuna copertura TV indicata dalla fonte",
+      "fonte": "figc.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "03:15",
-      "evento": "ATP & WTA 1000 Madrid 2026 - 2a giornata",
-      "competizione": "Tennis",
+      "orario": "11:00*",
+      "evento": "Jasmine Paolini vs Laura Siegemund",
+      "competizione": "ATP & WTA 1000 Madrid - 3a giornata",
       "canale": "Sky Sport Uno",
-      "note": "Copertura/Highlights della seconda giornata del torneo di Madrid.",
-      "fonte": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQHzYhS3A8ybpHsgNJ0OJnz8ZQ0PBoWwVVeuZ1VakANvbBhR-I_QYvqAqodU08ykfhzft1vd_q9sFp3RmqBMt1yJ7_mYzskc1tlgabDO-Z-iudAAf6GUynB4WDtvA6KfPjbZ1Rpb2v8Vav5pJk-bMy9AYdqvkIy55MZ0OLqTaI-BnDeKsb8UHCw5BiPR1ARre6cb4_-B1t4b1Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30*",
-      "evento": "Matteo Berrettini vs Dino Prizmic (ATP Madrid - Primo turno)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Match sul campo Manolo Santana. Orario 'non prima delle 13:30'.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLsD_0h5OWaUW45IChF3QVdKXWrbDMXJwnkHtIRKc6oWoAyqHAxcVEA7gP-4aIBlm4wuaP31kD_sJ9Y6XubZgemjyHj9L3WiEM9QMhFbF6LQNtNZJZCehCsV6dcObjZSpiL9S76wa2DG5lH52HmVToeCqyk4tDZn-czspOWs7qJJBYTrGrjPmkHQT6EdhrqtJm5ISnHk549pnOJAFbl4MAyQZF2QHRhiq_n-PXxuersA=",
+      "note": "Orario stimato (terzo match sul Campo 4 a partire dalle 11:00)",
+      "fonte": "livetennis.it, ubitennis.com",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Lorenzo Sonego vs Dusan Lajovic (ATP Madrid - Primo turno)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Mix, Sky Sport Tennis",
-      "note": "Match sul Campo 6, dopo Bellucci-Dzumhur.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLsD_0h5OWaUW45IChF3QVdKXWrbDMXJwnkHtIRKc6oWoAyqHAxcVEA7gP-4aIBlm4wuaP31kD_sJ9Y6XubZgemjyHj9L3WiEM9QMhFbF6LQNtNZJZCehCsV6dcObjZSpiL9S76wa2DG5lH52HmVToeCqyk4tDZn-czspOWs7qJJBYTrGrjPmkHQT6EdhrqtJm5ISnHk549pnOJAFbl4MAyQZF2QHRhiq_n-PXxuersA=",
-      "accuratezza_orario": "tba"
+      "orario": "16:00",
+      "evento": "Vicenza - Club Brugge",
+      "competizione": "Europa League Calcio Amputati",
+      "canale": "",
+      "note": "Nessuna copertura TV indicata dalla fonte",
+      "fonte": "figc.it",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Federico Cinà vs Elmer Moller (ATP Madrid - Primo turno)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Mix, Sky Sport Tennis",
-      "note": "Match sul Campo 6, dopo Sonego-Lajovic.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLsD_0h5OWaUW45IChF3QVdKXWrbDMXJwnkHtIRKc6oWoAyqHAxcVEA7gP-4aIBlm4wuaP31kD_sJ9Y6XubZgemjyHj9L3WiEM9QMhFbF6LQNtNZJZCehCsV6dcObjZSpiL9S76wa2DG5lH52HmVToeCqyk4tDZn-czspOWs7qJJBYTrGrjPmkHQT6EdhrqtJm5ISnHk549pnOJAFbl4MAyQZF2QHRhiq_n-PXxuersA=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Elisabetta Cocciaretto vs Alycia Parks (WTA Madrid - Primo turno)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis HD",
-      "note": "Match sul Campo 8.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLsD_0h5OWaUW45IChF3QVdKXWrbDMXJwnkHtIRKc6oWoAyqHAxcVEA7gP-4aIBlm4wuaP31kD_sJ9Y6XubZgemjyHj9L3WiEM9QMhFbF6LQNtNZJZCehCsV6dcObjZSpiL9S76wa2DG5lH52HmVToeCqyk4tDZn-czspOWs7qJJBYTrGrjPmkHQT6EdhrqtJm5ISnHk549pnOJAFbl4MAyQZF2QHRhiq_n-PXxuersA=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Tyra Grant vs Elsa Jacquemot (WTA Madrid - Primo turno)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis HD",
-      "note": "Match sul Campo 8, dopo Cocciaretto-Parks.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLsD_0h5OWaUW45IChF3QVdKXWrbDMXJwnkHtIRKc6oWoAyqHAxcVEA7gP-4aIBlm4wuaP31kD_sJ9Y6XubZgemjyHj9L3WiEM9QMhFbF6LQNtNZJZCehCsV6dcObjZSpiL9S76wa2DG5lH52HmVToeCqyk4tDZn-czspOWs7qJJBYTrGrjPmkHQT6EdhrqtJm5ISnHk549pnOJAFbl4MAyQZF2QHRhiq_n-PXxuersA=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Atalanta - Lazio (Semifinale ritorno)",
-      "competizione": "Coppa Italia",
-      "canale": "Italia 1",
-      "note": "Partita di ritorno della semifinale di Coppa Italia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW89KkxFGp8FB2WFWOs3a_UESZ3vGTBA0oQvTl-wu3YRroGh2xI9T6_Esr797An1OFg_kEqlQD3N0uBPgO3PtOx0KxZz7Og-DazuQd3w0exhco5PtUxb-9O40ZYhBBvrG-5HMaLr6CrBaODKhhw_t-AB32_U4rJthXIKCe4vVsMpw=",
+      "orario": "20:45",
+      "evento": "Stoccarda - Friburgo",
+      "competizione": "Coppa di Germania",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "calciomagazine.net, goal.com",
       "accuratezza_orario": "esatto"
     }
   ]
