@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-04-23T03:27:05.373226+02:00",
+  "last_updated": "2026-04-23T09:21:05.562951+02:00",
   "events": [
     {
-      "orario": "11:30",
-      "evento": "Vicenza - Slask Wroclaw",
-      "competizione": "Europa League Calcio Amputati",
-      "canale": "",
-      "note": "Nessuna copertura TV indicata dalla fonte",
-      "fonte": "figc.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00*",
+      "orario": "14:00*",
       "evento": "Jasmine Paolini vs Laura Siegemund",
-      "competizione": "ATP & WTA 1000 Madrid - 3a giornata",
-      "canale": "Sky Sport Uno",
-      "note": "Orario stimato (terzo match sul Campo 4 a partire dalle 11:00)",
-      "fonte": "livetennis.it, ubitennis.com",
+      "competizione": "WTA 1000 Madrid",
+      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Mix (211), SuperTennis HD",
+      "note": "Terzo match dalle 11:00, non prima delle 14:00 CET. Orario stimato a causa della programmazione a seguire.",
+      "fonte": "https://lottomatica.sport/tennis/atp-e-wta-madrid-2026-il-programma-completo-di-giovedi-23-aprile-esordio-per-paolini-con-siegemund, https://www.oasport.it/2026/04/atp-madrid-2026-oggi-in-tv-orari-23-aprile-ordine-di-gioco-streaming-azzurri-in-campo/, https://www.tennisopen.it/madrid-open-il-programma-di-oggi-partite-e-orari/, https://www.oasport.it/2026/04/sport-in-tv-oggi-giovedi-23-aprile-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Vicenza - Club Brugge",
-      "competizione": "Europa League Calcio Amputati",
-      "canale": "",
-      "note": "Nessuna copertura TV indicata dalla fonte",
-      "fonte": "figc.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Stoccarda - Friburgo",
-      "competizione": "Coppa di Germania",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "calciomagazine.net, goal.com",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
