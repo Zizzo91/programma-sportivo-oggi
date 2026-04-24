@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-04-23T09:21:05.562951+02:00",
+  "last_updated": "2026-04-24T09:47:19.972633+02:00",
   "events": [
     {
-      "orario": "14:00*",
-      "evento": "Jasmine Paolini vs Laura Siegemund",
-      "competizione": "WTA 1000 Madrid",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Mix (211), SuperTennis HD",
-      "note": "Terzo match dalle 11:00, non prima delle 14:00 CET. Orario stimato a causa della programmazione a seguire.",
-      "fonte": "https://lottomatica.sport/tennis/atp-e-wta-madrid-2026-il-programma-completo-di-giovedi-23-aprile-esordio-per-paolini-con-siegemund, https://www.oasport.it/2026/04/atp-madrid-2026-oggi-in-tv-orari-23-aprile-ordine-di-gioco-streaming-azzurri-in-campo/, https://www.tennisopen.it/madrid-open-il-programma-di-oggi-partite-e-orari/, https://www.oasport.it/2026/04/sport-in-tv-oggi-giovedi-23-aprile-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "orario": "09:00",
+      "evento": "Moto3 Prove Libere 1",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, F1ingenerale, Icon Magazine, Datasport, Sky",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:50",
+      "evento": "Moto2 Prove Libere 1",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, F1ingenerale, Icon Magazine, Datasport, Sky",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "MotoGP Prove Libere 1",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, F1ingenerale, MotoGP.com, Icon Magazine, Datasport, Sky",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Tennis - Secondo turno: Hubert Hurkacz vs Lorenzo Musetti",
+      "competizione": "ATP Masters 1000 Mutua Madrid Open 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Sul campo Arantxa Sanchez Stadium.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Tennis - Primo turno doppio femminile: Errani/Paolini",
+      "competizione": "WTA 1000 Mutua Madrid Open 2026",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Opponenti e orario specifico TBA.",
+      "fonte": "OA Sport, Olympics.com",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Moto3 Pre-qualifiche",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, F1ingenerale, Icon Magazine, Datasport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Moto2 Pre-qualifiche",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, F1ingenerale, Icon Magazine, Datasport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "MotoGP Pre-qualifiche",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, F1ingenerale, MotoGP.com, Icon Magazine, Datasport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Tennis - Secondo turno: Jannik Sinner vs Benjamin Bonzi",
+      "competizione": "ATP Masters 1000 Mutua Madrid Open 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Non prima delle 16:00. Sul campo Manolo Santana Stadium.",
+      "fonte": "OA Sport",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Calcio Serie B: Monza vs Modena",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB Channel",
+      "note": "",
+      "fonte": "OA Sport, 90min.com, Datasport, Calciomagazine, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio Serie A: Napoli vs Cremonese",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
+      "note": "",
+      "fonte": "90min.com, TUTTOmercatoWEB, Virgilio Sport, Movieplayer, Datasport, Tutto Hellas Verona, Calciomagazine, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Calcio Serie B: Avellino vs Bari",
+      "competizione": "Serie B",
+      "canale": "DAZN, LAB Channel",
+      "note": "",
+      "fonte": "90min.com, Calciomagazine, Libero",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
