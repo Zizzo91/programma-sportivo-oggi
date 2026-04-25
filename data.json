@@ -1,85 +1,130 @@
 {
-  "last_updated": "2026-04-24T20:35:57.525617+02:00",
+  "last_updated": "2026-04-25T03:19:52.269772+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Moto3 - GP Spagna, Prove Libere 1",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
+      "orario": "10:10",
+      "evento": "Prove Libere 2",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "OA Sport, Sky Sport",
+      "fonte": "Programmi TV del 25 Aprile 2026 su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:50",
-      "evento": "Moto2 - GP Spagna, Prove Libere 1",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
+      "orario": "10:50",
+      "evento": "Qualifiche Q1",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta TV8",
+      "fonte": "MotoGP su TV8, orario qualifiche e Sprint GP Spagna 2026: programma in chiaro 25 aprile, Programmi TV del 25 Aprile 2026 su Sky Sport Uno - Guida TV, MotoGP Spagna 2026, dove vederla: gli orari di TV 8 in chiaro - SNAI sportnews",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:15",
+      "evento": "Qualifiche Q2",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta TV8",
+      "fonte": "MotoGP su TV8, orario qualifiche e Sprint GP Spagna 2026: programma in chiaro 25 aprile, Programmi TV del 25 Aprile 2026 su Sky Sport Uno - Guida TV, MotoGP Spagna 2026, dove vederla: gli orari di TV 8 in chiaro - SNAI sportnews",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Luciano Darderi vs Juan Manuel Cerundolo",
+      "competizione": "ATP 1000 Madrid 2026",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Match del secondo turno. Ora esatta indicata da fonte web.",
+      "fonte": "ATP e WTA Madrid 2026, il programma completo di sabato 25 aprile: ecco quando giocano Cobolli, Darderi e Paolini - Lottomatica.sport, Mutua Madrid Open, il programma di sabato: apre Darderi, poi Paolini e Cobolli, Masters e WTA 1000 Madrid: Il programma completo di Sabato 25 Aprile 2026. In campo tre azzurri. Esordio per Cobolli e Darderi | LiveTennis.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Parma-Pisa",
+      "competizione": "Serie A 2025/2026",
+      "canale": "DAZN 1",
       "note": "",
-      "fonte": "OA Sport, Sky Sport",
+      "fonte": "Le partite di oggi, sabato 25 aprile 2026: Bologna-Roma, Parma-Pisa e Verona-Lecce - Calciomagazine, Inter, primo match point: dove vedere tutte le partite della 34a giornata di Serie A - Libero",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:40",
-      "evento": "MotoGP - GP Spagna, Prove Libere 1",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
+      "orario": "15:00",
+      "evento": "Sprint Race",
+      "competizione": "MotoGP GP Spagna 2026",
+      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta TV8",
+      "fonte": "MotoGP su TV8: orari GP Spagna 2026, il programma in chiaro dal 24 al 26 aprile, MotoGP | Ecco gli orari TV di Sky, Now e TV8 del Gran Premio di Spagna, MotoGP su TV8, orario qualifiche e Sprint GP Spagna 2026: programma in chiaro 25 aprile, MotoGP Spagna 2026, dove vederla: gli orari di TV 8 in chiaro - SNAI sportnews",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Jasmine Paolini vs Hailey Baptiste",
+      "competizione": "WTA 1000 Madrid 2026",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Match del terzo turno. Ora esatta indicata da fonte web.",
+      "fonte": "Paolini-Baptiste, WTA Madrid 2026: orario, tv, programma, streaming - OA Sport, ATP e WTA Madrid 2026, il programma completo di sabato 25 aprile: ecco quando giocano Cobolli, Darderi e Paolini - Lottomatica.sport, Mutua Madrid Open, il programma di sabato: apre Darderi, poi Paolini e Cobolli",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Flavio Cobolli vs Camillo Carabelli",
+      "competizione": "ATP 1000 Madrid 2026",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Match del secondo turno. Ora esatta indicata da fonte web.",
+      "fonte": "ATP e WTA Madrid 2026, il programma completo di sabato 25 aprile: ecco quando giocano Cobolli, Darderi e Paolini - Lottomatica.sport, Mutua Madrid Open, il programma di sabato: apre Darderi, poi Paolini e Cobolli",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Vero Volley Monza – Itas Trentino (Gara 2)",
+      "competizione": "SuperLega Credem Banca Play Off 5° Posto Semifinale",
+      "canale": "DAZN, VBTV",
       "note": "",
-      "fonte": "Lo Slalom, OA Sport, Sky Sport",
+      "fonte": "Semifinali Playoff Challenge: Monza ospita Trento, Modena va alla volta di Milano, Weekend all'insegna di Gara 2 delle Semifinali Play Off 5° Posto | Lega Pallavolo Serie A, Play Off 5° posto, sabato a Monza gara 2 di semifinale - Lega Pallavolo Serie A, Pallavolo: SuperLega Credem Banca, le semifinali dei playoff in streaming su VBTV - Napoli Magazine, La Vero Volley Monza verso le Semifinali Play Off 5° Posto: date e orari delle sfide con l'Itas Trentino",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00",
-      "evento": "Tennis - Lorenzo Musetti vs Hubert Hurkacz",
-      "competizione": "ATP Masters 1000 Madrid (Secondo Turno)",
-      "canale": "Sky Sport (vari), SuperTennis HD",
-      "note": "Sul Arantxa Sanchez Stadium, primo match di giornata.",
-      "fonte": "Lo Slalom, OA Sport, Sky Sport, SuperTennis",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:15",
-      "evento": "Moto3 - GP Spagna, Prove Pre-Qualifiche",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
+      "orario": "18:00",
+      "evento": "Bologna-Roma",
+      "competizione": "Serie A 2025/2026",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Lo Slalom, Sky Sport",
+      "fonte": "Le partite di oggi, sabato 25 aprile 2026: Bologna-Roma, Parma-Pisa e Verona-Lecce - Calciomagazine, Inter, primo match point: dove vedere tutte le partite della 34a giornata di Serie A - Libero",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Moto2 - GP Spagna, Prove Pre-Qualifiche",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
-      "note": "",
-      "fonte": "Lo Slalom, Sky Sport",
+      "orario": "18:00",
+      "evento": "F1 Miami GP Sprint Race",
+      "competizione": "Formula 1 2026",
+      "canale": "TV8, Sky Sport F1",
+      "note": "Diretta TV8",
+      "fonte": "Orari TV GP Miami 2026: diretta su Sky, differita su TV8 - FormulaPassion",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:55",
-      "evento": "MotoGP - GP Spagna, Prove Pre-Qualifiche",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
-      "note": "",
-      "fonte": "Lo Slalom, OA Sport, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Tennis - Jannik Sinner vs Benjamin Bonzi",
-      "competizione": "ATP Masters 1000 Madrid (Secondo Turno)",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Sport Mix (211)",
-      "note": "Non prima delle 16:00 sul Manolo Santana Stadium, terzo match a partire dalle 11:00.",
-      "fonte": "Lo Slalom, OA Sport, Sky Sport",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Napoli vs Cremonese",
+      "evento": "Verona-Lecce",
       "competizione": "Serie A 2025/2026",
-      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 251",
       "note": "",
-      "fonte": "Movieplayer, Libero, Goal.com",
+      "fonte": "Le partite di oggi, sabato 25 aprile 2026: Bologna-Roma, Parma-Pisa e Verona-Lecce - Calciomagazine, Inter, primo match point: dove vedere tutte le partite della 34a giornata di Serie A - Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "GP Australia: Gara (Replica)",
+      "competizione": "Formula 1 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Programmi Sky Sport F1 25 aprile Sera - Guida Tv - TvBlog",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "F1 Miami GP Qualifiche",
+      "competizione": "Formula 1 2026",
+      "canale": "TV8, Sky Sport F1",
+      "note": "Diretta TV8",
+      "fonte": "Orari TV GP Miami 2026: diretta su Sky, differita su TV8 - FormulaPassion",
       "accuratezza_orario": "esatto"
     }
   ]
