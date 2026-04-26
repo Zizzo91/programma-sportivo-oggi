@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-26T14:39:49.306100+02:00",
+  "last_updated": "2026-04-26T20:35:53.063727+02:00",
   "events": [
     {
       "orario": "09:40",
-      "evento": "Warm-up",
+      "evento": "Warm-up MotoGP",
       "competizione": "MotoGP - GP Spagna",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDtXMFrxbt__LJERSfhee9pa49uTZod7FTr0Qg4LorKuPvo7agc2LgDERbnJkL8b7-LdSjXMY_zXCjrHWpt3kB79rRjHAS8CEplJtY_11J93mVzyL6BjM3jhwW2wleleQe3fltcPzKwG2SApUNKUgARKRng_x4swUxXcwM0HRrBYPWt-JddrpKJZ_JQmmkqm4qgX_W3tld7s9zsQeDQt1D9oRs5ovhCfbju3LXE9CWWnfbuqYFp7XyMiqwVxNmVXnk7EPzks9fQ== [2, 12]",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
@@ -15,26 +15,8 @@
       "evento": "Gara Moto3",
       "competizione": "MotoGP - GP Spagna",
       "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8 HD",
-      "note": "Diretta su Sky, Diretta su TV8 HD",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDtXMFrxbt__LJERSfhee9pa49uTZod7FTr0Qg4LorKuPvo7agc2LgDERbnJkL8b7-LdSjXMY_zXCjrHWpt3kB79rRjHAS8CEplJtY_11J93mVzyL6BjM3jhwW2wleleQe3fltcPzKwG2SApUNKUgARKRng_x4swUxXcwM0HRrBYPWt-JddrpKJZ_JQmmkqm4qgX_W3tld7s9zsQeDQt1D9oRs5ovhCfbju3LXE9CWWnfbuqYFp7XyMiqwVxNmVXnk7EPzks9fQ== [2, 12]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "6a giornata",
-      "competizione": "ATP & WTA 1000 Madrid",
-      "canale": "Sky Sport Arena, Sky Sport Tennis",
-      "note": "In campo giocatori italiani come Sinner, Errani, Paolini",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDtXMFrxbt__LJERSfhee9pa49uTZod7FTr0Qg4LorKuPvo7agc2LgDERbnJkL8b7-LdSjXMY_zXCjrHWpt3kB79rRjHAS8CEplJtY_11J93mVzyL6BjM3jhwW2wleleQe3fltcPzKwG2SApUNKUgARKRng_x4swUxXcwM0HRrBYPWt-JddrpKJZ_JQmmkqm4qgX_W3tld7s9zsQeDQt1D9oRs5ovhCfbju3LXE9CWWnfbuqYFp7XyMiqwVxNmVXnk7EPzks9fQ== [6]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP - GP Spagna",
-      "canale": "TV8 HD",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKxmQyiCIgaRxLMmocsZp4dcvk9dm-o5_bkd-c0ZZh0mN753Zs0k8EK6JTP3NIVCcd1Zw-lvPumKluySWZ1OgWLtDm98tihsbEcz_qwcNHiaTxLCEMPNMkDRCc4ItHRyvdFXn4UUEyF8Rk_jBKweF-fWKjDdLZA0_buXtsi38m7SiC7aRDkzbO4180WZeBuhrNCakC5S6L_pb5wgEQw77pRcZo5piMdWSCt_cltTA6glCoj4dpyA== [12]",
+      "note": "",
+      "fonte": "OA Sport, inSella",
       "accuratezza_orario": "esatto"
     },
     {
@@ -42,63 +24,63 @@
       "evento": "Gara Moto2",
       "competizione": "MotoGP - GP Spagna",
       "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8 HD",
-      "note": "Diretta su Sky, Diretta su TV8 HD",
-      "fonte": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQGDtXMFrxbt__LJERSfhee9pa49uTZod7FTr0Qg4LorKuPvo7agc2LgDERbnJkL8b7-LdSjXMY_zXCjrHWpt3kB79rRjHAS8CEplJtY_11J93mVzyL6BjM3jhwW2wleleQe3fltcPzKwG2SApUNKUgARKRng_x4swUxXcwM0HRrBYPWt-JddrpKJZ_JQmmkqm4qgX_W3tld7s9zsQeDQt1D9oRs5ovhCfbju3LXE9CWWnfbuqYFp7XyMiqwVxNmVXnk7EPzks9fQ== [2, 12]",
+      "note": "",
+      "fonte": "OA Sport, inSella",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
       "evento": "Fiorentina-Sassuolo",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "DAZN, DAZN 1 (Sky)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMFiL_Ki-mCj3xHhseIbI4AEpUb5f3dSBmZlqjbgIpqY5GtBlCdzkSew3C835cMJLLKqE0TzxOiLgJeVcrsumAm7REQxhp0_59eqDlTqMGKoGSED841aDH7TMFN6ftwn3iSlZwQdb5HwtmddUcLb94HuL3yEljRDlzRs51SwW1i2c= [5, 14]",
+      "fonte": "90min.com, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:30",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP - GP Spagna",
-      "canale": "TV8 HD",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKxmQyiCIgaRxLMmocsZp4dcvk9dm-o5_bkd-c0ZZh0mN753Zs0k8EK6JTP3NIVCcd1Zw-lvPumKluySWZ1OgWLtDm98tihsbEcz_qwcNHiaTxLCEMPNMkDRCc4ItHRyvdFXn4UUEyF8Rk_jBKweF-fWKjDdLZA0_buXtsi38m7SiC7aRDkzbO4180WZeBuhrNCakC5S6L_pb5wgEQw77pRcZo5piMdWSCt_cltTA6glCoj4dpyA== [12]",
-      "accuratezza_orario": "esatto"
+      "orario": "12:30*",
+      "evento": "Musetti vs Griekspoor",
+      "competizione": "ATP Masters 1000 Madrid",
+      "canale": "Sky Sport, NOW, Tennis TV",
+      "note": "Secondo match sul campo Manolo Santana",
+      "fonte": "Ubitennis, OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "14:00",
       "evento": "Gara MotoGP",
       "competizione": "MotoGP - GP Spagna",
       "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8 HD",
-      "note": "Diretta su Sky, Diretta su TV8 HD",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDtXMFrxbt__LJERSfhee9pa49uTZod7FTr0Qg4LorKuPvo7agc2LgDERbnJkL8b7-LdSjXMY_zXCjrHWpt3kB79rRjHAS8CEplJtY_11J93mVzyL6BjM3jhwW2wleleQe3fltcPzKwG2SApUNKUgARKRng_x4swUxXcwM0HRrBYPWt-JddrpKJZ_JQmmkqm4qgX_W3tld7s9zsQeDQt1D9oRs5ovhCfbju3LXE9CWWnfbuqYFp7XyMiqwVxNmVXnk7EPzks9fQ== [2, 8, 11, 12]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:15",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP - GP Spagna",
-      "canale": "TV8 HD",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKxmQyiCIgaRxLMmocsZp4dcvk9dm-o5_bkd-c0ZZh0mN753Zs0k8EK6JTP3NIVCcd1Zw-lvPumKluySWZ1OgWLtDm98tihsbEcz_qwcNHiaTxLCEMPNMkDRCc4ItHRyvdFXn4UUEyF8Rk_jBKweF-fWKjDdLZA0_buXtsi38m7SiC7aRDkzbO4180WZeBuhrNCakC5S6L_pb5wgEQw77pRcZo5piMdWSCt_cltTA6glCoj4dpyA== [12]",
+      "note": "",
+      "fonte": "OA Sport, inSella, Motorsport.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Genoa-Como",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "DAZN, DAZN 1 (Sky)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMFiL_Ki-mCj3xHhseIbI4AEpUb5f3dSBmZlqjbgIpqY5GtBlCdzkSew3C835cMJLLKqE0TzxOiLgJeVcrsumAm7REQxhp0_59eqDlTqMGKoGSED841aDH7TMFN6ftwn3iSlZwQdb5HwtmddUcLb94HuL3yEljRDlzRs51SwW1i2c= [5, 14]",
+      "fonte": "90min.com, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Milazzo-Reggina",
-      "competizione": "Serie D Girone I",
-      "canale": "",
-      "note": "Match valevole per la 33ª giornata di campionato",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK_lGnbup6vysvmRyDHcS4b_PcB_B58Hsa1UdLzGHKhml3klhY8STe7dJ8C1gpvFcpaCXmPt_a82w8bRclekkun2gYrElEHMvuHKam34Wkf1knroUZLBJDvMCJbn2NtXDVf820Cl7uA-90L4bA6svSgK1XFff8Ay0YWxfc5RuZBlHRm8q-voNcx5-K_OvDSUZnKh-o87Ebl1tVZKXrYOqab9jiUpHT7G2km_tJmwcakJL3S-5mGcHIioRCBsTXwOCNgWOj8hcNjhkaEgeTIxBs-7UJ3Bm8XufE_eeudK6RnxPrmosz [5, 8, 13, 14]",
+      "competizione": "Serie D - Girone I",
+      "canale": "ReggioTV (Canale 77 DTT Calabria), ReggioTV Facebook/sito",
+      "note": "",
+      "fonte": "SerieD24.com, Calciomagazine, ReggioTV",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Sinner vs Moller",
+      "competizione": "ATP Masters 1000 Madrid",
+      "canale": "Sky Sport, NOW, Tennis TV",
+      "note": "Terzo match sul campo Manolo Santana",
+      "fonte": "Adnkronos, Ubitennis, OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
@@ -106,25 +88,16 @@
       "competizione": "Serie A",
       "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport (canale 251), NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMFiL_Ki-mCj3xHhseIbI4AEpUb5f3dSBmZlqjbgIpqY5GtBlCdzkSew3C835cMJLLKqE0TzxOiLgJeVcrsumAm7REQxhp0_59eqDlTqMGKoGSED841aDH7TMFN6ftwn3iSlZwQdb5HwtmddUcLb94HuL3yEljRDlzRs51SwW1i2c= [5, 7, 14, 23]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "6a giornata",
-      "competizione": "ATP & WTA 1000 Madrid",
-      "canale": "Sky Sport 1",
-      "note": "In campo giocatori italiani come Sinner, Errani, Paolini",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDtXMFrxbt__LJERSfhee9pa49uTZod7FTr0Qg4LorKuPvo7agc2LgDERbnJkL8b7-LdSjXMY_zXCjrHWpt3kB79rRjHAS8CEplJtY_11J93mVzyL6BjM3jhwW2wleleQe3fltcPzKwG2SApUNKUgARKRng_x4swUxXcwM0HRrBYPWt-JddrpKJZ_JQmmkqm4qgX_W3tld7s9zsQeDQt1D9oRs5ovhCfbju3LXE9CWWnfbuqYFp7XyMiqwVxNmVXnk7EPzks9fQ== [6]",
+      "fonte": "90min.com, Sky, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Milan-Juventus",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "DAZN, DAZN 1 (Sky)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMFiL_Ki-mCj3xHhseIbI4AEpUb5f3dSBmZlqjbgIpqY5GtBlCdzkSew3C835cMJLLKqE0TzxOiLgJeVcrsumAm7REQxhp0_59eqDlTqMGKoGSED841aDH7TMFN6ftwn3iSlZwQdb5HwtmddUcLb94HuL3yEljRDlzRs51SwW1i2c= [2, 4, 5, 14, 23]",
+      "fonte": "90min.com, Calciomagazine, Libero",
       "accuratezza_orario": "esatto"
     }
   ]
