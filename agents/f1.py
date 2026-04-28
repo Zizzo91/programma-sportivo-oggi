@@ -66,7 +66,16 @@ try:
     if result_text.endswith("```"): result_text = result_text[:-3]
     result_text = result_text.strip() or "[]"
 
-    data = json.loads(result_text)
+    try:
+        data = json.loads(result_text)
+    except json.JSONDecodeError:
+        print("Risposta non JSON, tento di pulire...")
+        import re
+        match = re.search(r'\[.*\]', result_text, re.DOTALL)
+        if match:
+            data = json.loads(match.group(0))
+        else:
+            data = []
 
     events = []
     if isinstance(data, list):
