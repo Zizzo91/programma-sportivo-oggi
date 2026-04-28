@@ -19,6 +19,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install google-genai pytz
+      - run: mkdir -p data
       - name: Run all agents
         if: github.event.inputs.run_all == 'true'
         run: |
@@ -35,7 +36,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - name: Run single agent by hour
         if: github.event.inputs.run_all != 'true'
-        run: python agents/scheduler.py
+        run: mkdir -p data && python agents/scheduler.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - uses: actions/upload-artifact@v4
