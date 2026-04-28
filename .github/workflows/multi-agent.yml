@@ -1,0 +1,47 @@
+name: Multi-Agent Schedule
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      run_all:
+        type: boolean
+        default: false
+        description: 'Run all agents in sequence'
+
+jobs:
+  scheduler:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install google-genai pytz
+      - name: Run all agents
+        if: github.event.inputs.run_all == 'true'
+        run: |
+          python agents/f1.py
+          python agents/motogp.py
+          python agents/serie_a.py
+          python agents/champions_league.py
+          python agents/europa_league.py
+          python agents/conference_league.py
+          python agents/tennis_italiani.py
+          python agents/sci.py
+          python agents/merge.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Run single agent by hour
+        if: github.event.inputs.run_all != 'true'
+        run: python agents/scheduler.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: data-artifacts
+          path: |
+            data/*.json
+            data.json
+          overwrite: true
