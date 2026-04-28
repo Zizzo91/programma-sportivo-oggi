@@ -1,49 +1,40 @@
 {
-  "last_updated": "2026-04-28T15:25:45.285978+02:00",
+  "last_updated": "2026-04-28T21:17:47.291775+02:00",
   "events": [
     {
       "orario": "11:00*",
-      "evento": "Tennis - Ottavi di finale (Jannik Sinner vs Cameron Norrie)",
-      "competizione": "ATP Masters 1000 Madrid 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
-      "note": "1° match del programma sul campo principale. L'orario è stimato, la programmazione inizia alle 11:00 CET.",
-      "fonte": "OA Sport, Lo Slalom, Dolomiti Review",
+      "evento": "ATP Masters 1000 Madrid - Ottavi di finale: Jannik Sinner vs Norrie",
+      "competizione": "Tennis - ATP Masters 1000 Madrid",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix/Arena",
+      "note": "Orario stimato, il match è il primo del programma che inizia alle 11:00.",
+      "fonte": "OA Sport, Lo Slalom",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Tennis - Ottavi di finale (Lorenzo Musetti vs Jiri Lehecka)",
-      "competizione": "ATP Masters 1000 Madrid 2026",
-      "canale": "Sky Sport Tennis (203), Sky Sport Mix (211) fino alle 19.30, Sky Sport Arena (204) dalle 19:30, SkyGo, NOW, Tennis Tv",
-      "note": "2° match del programma. L'orario esatto dipende dalla durata dei match precedenti.",
+      "orario": "11:00*",
+      "evento": "ATP Masters 1000 Madrid - Ottavi di finale: Lorenzo Musetti vs Lehecka",
+      "competizione": "Tennis - ATP Masters 1000 Madrid",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix/Arena",
+      "note": "Orario stimato, il match è il secondo del programma che inizia alle 11:00 sul campo principale per il tennis.",
       "fonte": "OA Sport, Lo Slalom",
-      "accuratezza_orario": "tba"
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Tennis - Ottavi di finale (Flavio Cobolli vs Daniil Medvedev)",
-      "competizione": "ATP Masters 1000 Madrid 2026",
-      "canale": "Sky Sport Tennis (203), Sky Sport Mix (211) fino alle 19.30, Sky Sport Arena (204) dalle 19:30, SkyGo, NOW, Tennis Tv",
-      "note": "5° match del programma. L'orario esatto dipende dalla durata dei match precedenti.",
+      "orario": "11:00*",
+      "evento": "ATP Masters 1000 Madrid - Ottavi di finale: Flavio Cobolli vs Medvedev",
+      "competizione": "Tennis - ATP Masters 1000 Madrid",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix/Arena",
+      "note": "Orario stimato, il match è il quinto del programma che inizia alle 11:00 sul campo principale per il tennis.",
       "fonte": "OA Sport, Lo Slalom",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Calcio - Al Hilal vs Damac",
-      "competizione": "Saudi League",
-      "canale": "Sportitalia, Como TV",
-      "note": "",
-      "fonte": "Lo Slalom, Calciomagazine",
-      "accuratezza_orario": "esatto"
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio - PSG vs Bayern Monaco",
-      "competizione": "UEFA Champions League (Semifinale, Andata)",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (canale 251), NOW",
+      "evento": "Semifinale di andata: PSG-Bayern Monaco",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251, Sky Sport 4K",
       "note": "",
-      "fonte": "Lo Slalom, 90min.com, Calciomagazine, Libero",
+      "fonte": "Sky Sport, 90min.com, Calciomagazine",
       "accuratezza_orario": "esatto"
     }
   ]
