@@ -1,121 +1,76 @@
 {
-  "last_updated": "2026-04-29T09:58:33.217282+02:00",
+  "last_updated": "2026-04-29T21:06:54.512080+02:00",
   "events": [
     {
       "orario": "17:00",
-      "evento": "Finale Coppa Italia Primavera: Atalanta-Juventus",
-      "competizione": "Calcio - Coppa Italia Primavera",
+      "evento": "Atalanta - Juventus",
+      "competizione": "Coppa Italia Primavera",
       "canale": "Sportitalia",
+      "note": "Finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYyr-wynbQc2z6g3J0E1HYhs7EjC7qBeiXPYdNVBodoLwgfr3ElLU0Qn8K2bMtg1FJo-owysrxBLt5XKdHdydal8_cTJAvp2bGgpy4jVZRZ_iUnKF5wt_9DD0XnrX1AXCLjZqTXWldbC_JKo0mTZZl_UOs_96W9zqh2UFVoN-Oy3VDWcXS_NYR9JBZogCKDEExkJizXkptkm7pytmqS86-ZcTnKLtleuBUfbdI4lerF1C0XFIomnTSM0tw1hvh, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5UExdx2j6iGThE1nUN8i98KTg_oOsH24InAT5MpiblFOZXyjkCswJq19P3c_TXn53RZySpoUWUG8W6nhRWtbF-sKJu7oUEbHPr6H8YrbUvpSHpimklixpx1WBJnvlC_xtUZxdnNYnizAMYY5v6IXUszVbrV0qtMhDCcwOj8YmmA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9g4UxXSqxznHEY6tmnb0CJzyrYSjuiQ-Pa8IVTJpPZ9DukvZRdL9iI5zTVQzrs_80ssKC4itFwqbW7j__-6WXJLKcBJZlTj5nw5_4MQ9ZlnIKo3CTFFNbWlQJFM2YhXnmDSWC_NRfEAUvU_f36XaL5qETzXB2uxUxr0eHOw8kQU0-bX0FLGejyrWiUz2nwFxyOzMQ5N0",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:15",
+      "evento": "Torino - Inter",
+      "competizione": "Calcio Campionato Italiano Serie A",
+      "canale": "Sky Sport 4K",
+      "note": "34a giornata (replay della partita del 26/04/2026)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Roma - Atalanta",
+      "competizione": "Calcio Campionato Italiano Serie A",
+      "canale": "Sky Sport 4K",
       "note": "",
-      "fonte": "90min.com, calciomagazine.net, tuttonapoli.net",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "ATP Masters 1000 Madrid: Quarti di finale - Jannik Sinner vs Rafael Jodar",
-      "competizione": "Tennis - ATP Masters 1000 Madrid",
-      "canale": "Sky Sport Tennis / NOW",
-      "note": "",
-      "fonte": "lottomatica.sport, livetennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Champions League: Semifinale di andata - Atletico Madrid vs Arsenal",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Amazon Prime Video",
-      "note": "",
-      "fonte": "90min.com, uefa.com, calciomagazine.net, skysport.it, beinsports.com, digital-news.it, tuttonapoli.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Aspettando Il Gp - Ep. 6 - Aspettando Il Gp Di Miami '26 27/04/2026",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Programma di approfondimento/anteprima sul GP di Miami.",
-      "fonte": "tvblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "GP Miami",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replay o programma di approfondimento sul GP di Miami.",
-      "fonte": "tvblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:05",
-      "evento": "GP Miami",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replay o programma di approfondimento sul GP di Miami.",
-      "fonte": "tvblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:30",
-      "evento": "Stati Uniti 1984 - F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica Gran Premio storico.",
-      "fonte": "tvblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "GP Miami. Edizione n.73.",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica Gran Premio.",
-      "fonte": "tvblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Aspettando Il Gp - Ep. 6 - Aspettando Il Gp Di Miami '26 27/04/2026",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Programma di approfondimento/anteprima sul GP di Miami.",
-      "fonte": "tvblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:45",
-      "evento": "Reparto Corse F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Programma di analisi sui weekend di gara di Formula 1.",
-      "fonte": "tvblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "GP Miami. Edizione n.74.",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica Gran Premio.",
-      "fonte": "tvblog.it",
-      "accuratezza_orario": "esatto"
+      "orario": "16:00*",
+      "evento": "Jannik Sinner vs Rafael Jodar",
+      "competizione": "ATP Masters 1000 Madrid",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Quarto di finale (non prima delle 16:00)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYyr-wynbQc2z6g3J0E1HYhs7EjC7qBeiXPYdNVBodoLwgfr3ElLU0Qn8K2bMtg1FJo-owysrxBLt5XKdHdydal8_cTJAvp2bGgpy4jVZRZ_iUnKF5wt_9DD0XnrX1AXCLjZqTXWldbC_JKo0mTZZl_UOs_96W9zqh2UFVoN-Oy3VDWcXS_NYR9JBZogCKDEExkJizXkptkm7pytmqS86-ZcTnKLtleuBUfbdI4lerF1C0XFIomnTSM0tw1hvh, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE71uz-B5kO_grJgvG9FQa2o26zwckh_mB8gi10N4D-bjbgNvuozTpGg9KIZLgJXRWq0WgAwLl1DvRiqUml6Y2K5Jqgf2upY-b70DJE9TfYUcPt8CzITUXoW2VyzYYesokIxpWcBXq0oM3Kr0omiIA2FMMSvbl6A5WGk5PmN9nSmQ2Tlhs8OJ2ptwXoXQBbhPtXMsgbsjA_4Nxujzp7Mg==",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "04:00",
-      "evento": "Ep.1 - Alle origini del nuovo talento italiano della F1",
+      "evento": "GP Australia: Gara",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Documentario sul percorso giovanile di Andrea Kimi Antonelli.",
-      "fonte": "tvblog.it",
+      "canale": "Sky Sport 4K",
+      "note": "Replica Gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:30",
-      "evento": "Aspettando Il Gp - Ep. 6 - Aspettando Il Gp Di Miami '26 27/04/2026",
+      "orario": "06:00",
+      "evento": "GP Giappone: Gara",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Programma di approfondimento/anteprima sul GP di Miami.",
-      "fonte": "tvblog.it",
+      "canale": "Sky Sport 4K",
+      "note": "Replica Gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "GP Cina: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport 4K",
+      "note": "Replica Gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:45",
+      "evento": "GP Australia: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport 4K",
+      "note": "Replica Gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
       "accuratezza_orario": "esatto"
     }
   ]
