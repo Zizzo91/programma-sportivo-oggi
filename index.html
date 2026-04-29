@@ -848,10 +848,7 @@
           <tr ${rowClassAttr} data-search="${escapeHtml(searchableText)}" data-sport-type="${sport}" data-is-replay="${isReplay ? 'true' : 'false'}" title="${tooltipStr}">
             <td class="time">${orarioHtml}</td>
             <td class="evento-testo">${highlightItalians(ev.evento)}</td>
-            <td>
-                <span class="sport-icon" title="${sport}">${icon}</span>
-                <span class="competizione-testo">${highlightItalians(ev.competizione)}</span>
-            </td>
+            <td class="competizione-testo">${sport === 'altro' ? '' : icon + ' '}${highlightItalians(ev.competizione)}</td>
             <td class="channel">${formatChannel(ev.canale)}</td>
             <td class="note-testo">${highlightItalians(ev.note || "")}</td>
           </tr>

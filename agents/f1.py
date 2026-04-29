@@ -48,7 +48,22 @@ Format output:
 
 def should_exclude(item: dict) -> bool:
     blob = f"{item.get('competizione','')} {item.get('evento','')} {item.get('note','')}".lower()
+    
+    exclude_markers = ["rubrica", "classifica", "studio", "magazine", "highlights", "speciale", "vela", "versus", "replay"]
+    if any(m in blob for m in exclude_markers):
+        return True
+    
+    valid_markers = ["gran premio", "gara", "race", "sprint", "qualifiche", "qualifying", "prove libere", "free practice", "fp1", "fp2", "fp3"]
+    if not any(m in blob for m in valid_markers) and "replica" not in blob and "differita" not in blob:
+        return True
+    
     return False
+
+def get_tipo(item: dict) -> str:
+    blob = f"{item.get('competizione','')} {item.get('evento','')} {item.get('note','')}".lower()
+    if "replica" in blob or "differita" in blob or "re-live" in blob:
+        return "replica"
+    return "live"
 
 try:
     grounding_tool = types.Tool(google_search=types.GoogleSearch())
@@ -79,7 +94,10 @@ try:
 
     events = []
     if isinstance(data, list):
-        events = [x for x in data if isinstance(x, dict)]
+        for x in data:
+            if isinstance(x, dict) and not should_exclude(x):
+                x["tipo"] = get_tipo(x)
+                events.append(x)
 
     final_data = {
         "last_updated": datetime.datetime.now(rome_tz).isoformat(),

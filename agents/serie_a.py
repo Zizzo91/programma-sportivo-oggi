@@ -57,6 +57,8 @@ def should_exclude(item: dict) -> bool:
         return True
     if "volley" in blob or "pallavolo" in blob:
         return True
+    if "primavera" in blob:
+        return True
     return False
 
 try:
@@ -79,7 +81,10 @@ try:
 
     events = []
     if isinstance(data, list):
-        events = [x for x in data if isinstance(x, dict) and not should_exclude(x)]
+        for x in data:
+            if isinstance(x, dict) and not should_exclude(x):
+                x["tipo"] = "live"
+                events.append(x)
 
     final_data = {
         "last_updated": datetime.datetime.now(rome_tz).isoformat(),
