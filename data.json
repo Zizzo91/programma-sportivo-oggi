@@ -1,40 +1,67 @@
 {
-  "last_updated": "2026-04-28T21:17:47.291775+02:00",
+  "last_updated": "2026-04-29T03:53:33.915611+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "ATP Masters 1000 Madrid - Ottavi di finale: Jannik Sinner vs Norrie",
-      "competizione": "Tennis - ATP Masters 1000 Madrid",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix/Arena",
-      "note": "Orario stimato, il match è il primo del programma che inizia alle 11:00.",
-      "fonte": "OA Sport, Lo Slalom",
+      "orario": "TBA",
+      "evento": "Tennis Maschile: Federico Arnaboldi vs Matteo Arnaldi",
+      "competizione": "ATP Challenger 175 Cagliari 2026",
+      "canale": "Streaming online",
+      "note": "Campo Centrale. A seguire del match Pellegrino vs Sakellaridis. Derby italiano.",
+      "fonte": "lottomatica.sport, spaziotennis.com",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "11:00*",
-      "evento": "ATP Masters 1000 Madrid - Ottavi di finale: Lorenzo Musetti vs Lehecka",
-      "competizione": "Tennis - ATP Masters 1000 Madrid",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix/Arena",
-      "note": "Orario stimato, il match è il secondo del programma che inizia alle 11:00 sul campo principale per il tennis.",
-      "fonte": "OA Sport, Lo Slalom",
+      "orario": "13:45",
+      "evento": "Formula 1: Replica Gara GP Australia",
+      "competizione": "Formula 1 2026",
+      "canale": "Sky Sport 4k",
+      "note": "Replica di gara già disputata.",
+      "fonte": "TvBlog",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis Maschile: Lorenzo Sonego vs Mattia Bellucci",
+      "competizione": "ATP Challenger 175 Cagliari 2026",
+      "canale": "Streaming online",
+      "note": "Campo Centrale. A seguire del match Arnaboldi vs Arnaldi. Derby italiano.",
+      "fonte": "lottomatica.sport, spaziotennis.com",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "11:00*",
-      "evento": "ATP Masters 1000 Madrid - Ottavi di finale: Flavio Cobolli vs Medvedev",
-      "competizione": "Tennis - ATP Masters 1000 Madrid",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix/Arena",
-      "note": "Orario stimato, il match è il quinto del programma che inizia alle 11:00 sul campo principale per il tennis.",
-      "fonte": "OA Sport, Lo Slalom",
+      "orario": "16:00*",
+      "evento": "Tennis Maschile: Jannik Sinner vs Rafael Jodar",
+      "competizione": "ATP Masters 1000 Madrid 2026 - Quarti di finale",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Non prima delle ore 16:00 CET.",
+      "fonte": "Lottomatica.Sport, Tennis ATP, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:00",
-      "evento": "Semifinale di andata: PSG-Bayern Monaco",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251, Sky Sport 4K",
+      "orario": "17:00",
+      "evento": "Calcio Giovanile: Finale Coppa Italia Primavera, Atalanta - Juventus",
+      "competizione": "Coppa Italia Primavera",
+      "canale": "Sportitalia",
       "note": "",
-      "fonte": "Sky Sport, 90min.com, Calciomagazine",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis Maschile: Andrea Nava vs Dzumhur",
+      "competizione": "ATP Challenger 175 Cagliari 2026",
+      "canale": "Streaming online",
+      "note": "Campo Centrale. A seguire del match Sonego vs Bellucci.",
+      "fonte": "lottomatica.sport, spaziotennis.com",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Volley Maschile: Itas Trentino – Vero Volley Monza",
+      "competizione": "Play Off 5° Posto SuperLega Credem Banca - Semifinale Gara 3",
+      "canale": "DAZN, VBTV",
+      "note": "Partita eventuale. Si gioca solo se la serie è 1-1. Il risultato della Gara 2 del 25/04/2026 determinerebbe l'effettiva disputa.",
+      "fonte": "Lega Pallavolo Serie A",
       "accuratezza_orario": "esatto"
     }
   ]
