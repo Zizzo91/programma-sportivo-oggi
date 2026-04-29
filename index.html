@@ -796,8 +796,13 @@
         return;
       }
 
-      // ORDINAMENTO CRONOLOGICO (dalle 00:00 alle 23:59)
-      events.sort((a, b) => timeToMinutes(a.orario) - timeToMinutes(b.orario));
+      // Separa repliche dal programma principale
+      const mainEvents = events.filter(e => e.tipo !== 'replica');
+      const replayEvents = events.filter(e => e.tipo === 'replica');
+
+      // ORDINAMENTO CRONOLOGICO
+      mainEvents.sort((a, b) => timeToMinutes(a.orario) - timeToMinutes(b.orario));
+      replayEvents.sort((a, b) => timeToMinutes(a.orario) - timeToMinutes(b.orario));
 
       let html = `
         <div class="table-responsive">
@@ -814,18 +819,18 @@
             <tbody>
       `;
 
-      events.forEach(ev => {
+      mainEvents.forEach(ev => {
         const sport = detectSport(ev);
         const icon = SPORT_ICON[sport] || SPORT_ICON.altro;
         
         const searchableText = `${ev.orario} ${ev.evento} ${ev.competizione} ${ev.canale} ${ev.note || ''} ${sport}`.toLowerCase();
         
-        // Determina se è una replica basandosi sui testi
-        const isReplay = searchableText.includes('replica') || searchableText.includes('differita') || searchableText.includes('re-live');
+        // Usa il campo tipo dal JSON, fallback al testo se non presente
+        const isReplay = ev.tipo === 'replica' || searchableText.includes('replica') || searchableText.includes('differita') || searchableText.includes('re-live');
         
         const isEstim = ev.accuratezza_orario === 'stimato' || ev.accuratezza_orario === 'tba' || String(ev.orario).includes('*');
         const badgeClass = isEstim ? 'time-badge stimato' : 'time-badge';
-        const isLive = isLiveNow(ev.orario) && !isReplay; // Se è una replica, non la mostriamo mai "LIVE rosso"
+        const isLive = isLiveNow(ev.orario) && !isReplay;
         
         // Costruzione HTML Orario
         let orarioHtml = `<span class="${badgeClass}">${escapeHtml(ev.orario)}${isEstim ? ' <span title="Orario indicativo" style="cursor:help">⏱️</span>' : ''}</span>`;
@@ -852,14 +857,52 @@
             <td class="channel">${formatChannel(ev.canale)}</td>
             <td class="note-testo">${highlightItalians(ev.note || "")}</td>
           </tr>
-        `;
+`;
       });
 
-      html += `
-            </tbody>
-          </table>
-        </div>
-      `;
+      // Sezione repliche
+      if (replayEvents.length > 0) {
+        html += `
+          <div style="margin-top: 30px; padding-top: 20px; border-top: 2px dashed var(--border-color);">
+            <h3 style="color: var(--text-secondary); margin: 0 0 15px 0; font-size: 1.1rem;">🔄 Repliche</h3>
+            <table id="replay-table">
+              <thead>
+                <tr>
+                  <th style="width: 12%;">Orario</th>
+                  <th style="width: 30%;">Evento</th>
+                  <th style="width: 25%;">Competizione</th>
+                  <th style="width: 20%;">Canale TV</th>
+                  <th style="width: 13%;">Note</th>
+                </tr>
+              </thead>
+              <tbody>
+        `;
+        replayEvents.forEach(ev => {
+          const sport = detectSport(ev);
+          const icon = SPORT_ICON[sport] || SPORT_ICON.altro;
+          const searchableText = `${ev.orario} ${ev.evento} ${ev.competizione} ${ev.canale} ${ev.note || ''} ${sport}`.toLowerCase();
+          const isReplay = true;
+          const isEstim = ev.accuratezza_orario === 'stimato' || ev.accuratezza_orario === 'tba' || String(ev.orario).includes('*');
+          const badgeClass = isEstim ? 'time-badge stimato' : 'time-badge';
+          
+          let orarioHtml = `<span class="${badgeClass}">${escapeHtml(ev.orario)}${isEstim ? ' <span title="Orario indicativo" style="cursor:help">⏱️</span>' : ''}</span><span style="font-size: 0.75rem; color: var(--text-secondary); margin-top: 2px;">(Replica)</span>`;
+          
+          html += `
+            <tr class="is-replay" data-search="${escapeHtml(searchableText)}" data-sport-type="${sport}" data-is-replay="true">
+              <td class="time">${orarioHtml}</td>
+              <td class="evento-testo">${highlightItalians(ev.evento)}</td>
+              <td class="competizione-testo">${highlightItalians(ev.competizione)}</td>
+              <td class="channel">${formatChannel(ev.canale)}</td>
+              <td class="note-testo">${highlightItalians(ev.note || "")}</td>
+            </tr>
+          `;
+        });
+        html += `
+              </tbody>
+            </table>
+          </div>
+        `;
+      }
 
       container.innerHTML = html;
 
