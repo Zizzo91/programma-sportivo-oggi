@@ -1,67 +1,121 @@
 {
-  "last_updated": "2026-04-29T03:53:33.915611+02:00",
+  "last_updated": "2026-04-29T09:58:33.217282+02:00",
   "events": [
     {
-      "orario": "TBA",
-      "evento": "Tennis Maschile: Federico Arnaboldi vs Matteo Arnaldi",
-      "competizione": "ATP Challenger 175 Cagliari 2026",
-      "canale": "Streaming online",
-      "note": "Campo Centrale. A seguire del match Pellegrino vs Sakellaridis. Derby italiano.",
-      "fonte": "lottomatica.sport, spaziotennis.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "13:45",
-      "evento": "Formula 1: Replica Gara GP Australia",
-      "competizione": "Formula 1 2026",
-      "canale": "Sky Sport 4k",
-      "note": "Replica di gara già disputata.",
-      "fonte": "TvBlog",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Tennis Maschile: Lorenzo Sonego vs Mattia Bellucci",
-      "competizione": "ATP Challenger 175 Cagliari 2026",
-      "canale": "Streaming online",
-      "note": "Campo Centrale. A seguire del match Arnaboldi vs Arnaldi. Derby italiano.",
-      "fonte": "lottomatica.sport, spaziotennis.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Tennis Maschile: Jannik Sinner vs Rafael Jodar",
-      "competizione": "ATP Masters 1000 Madrid 2026 - Quarti di finale",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Non prima delle ore 16:00 CET.",
-      "fonte": "Lottomatica.Sport, Tennis ATP, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "17:00",
-      "evento": "Calcio Giovanile: Finale Coppa Italia Primavera, Atalanta - Juventus",
-      "competizione": "Coppa Italia Primavera",
+      "evento": "Finale Coppa Italia Primavera: Atalanta-Juventus",
+      "competizione": "Calcio - Coppa Italia Primavera",
       "canale": "Sportitalia",
       "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "90min.com, calciomagazine.net, tuttonapoli.net",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Tennis Maschile: Andrea Nava vs Dzumhur",
-      "competizione": "ATP Challenger 175 Cagliari 2026",
-      "canale": "Streaming online",
-      "note": "Campo Centrale. A seguire del match Sonego vs Bellucci.",
-      "fonte": "lottomatica.sport, spaziotennis.com",
-      "accuratezza_orario": "stimato"
+      "orario": "16:00",
+      "evento": "ATP Masters 1000 Madrid: Quarti di finale - Jannik Sinner vs Rafael Jodar",
+      "competizione": "Tennis - ATP Masters 1000 Madrid",
+      "canale": "Sky Sport Tennis / NOW",
+      "note": "",
+      "fonte": "lottomatica.sport, livetennis.it",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Volley Maschile: Itas Trentino – Vero Volley Monza",
-      "competizione": "Play Off 5° Posto SuperLega Credem Banca - Semifinale Gara 3",
-      "canale": "DAZN, VBTV",
-      "note": "Partita eventuale. Si gioca solo se la serie è 1-1. Il risultato della Gara 2 del 25/04/2026 determinerebbe l'effettiva disputa.",
-      "fonte": "Lega Pallavolo Serie A",
+      "orario": "21:00",
+      "evento": "Champions League: Semifinale di andata - Atletico Madrid vs Arsenal",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Amazon Prime Video",
+      "note": "",
+      "fonte": "90min.com, uefa.com, calciomagazine.net, skysport.it, beinsports.com, digital-news.it, tuttonapoli.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Aspettando Il Gp - Ep. 6 - Aspettando Il Gp Di Miami '26 27/04/2026",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Programma di approfondimento/anteprima sul GP di Miami.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "GP Miami",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replay o programma di approfondimento sul GP di Miami.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:05",
+      "evento": "GP Miami",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replay o programma di approfondimento sul GP di Miami.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30",
+      "evento": "Stati Uniti 1984 - F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica Gran Premio storico.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:30",
+      "evento": "GP Miami. Edizione n.73.",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica Gran Premio.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Aspettando Il Gp - Ep. 6 - Aspettando Il Gp Di Miami '26 27/04/2026",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Programma di approfondimento/anteprima sul GP di Miami.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:45",
+      "evento": "Reparto Corse F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Programma di analisi sui weekend di gara di Formula 1.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "GP Miami. Edizione n.74.",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica Gran Premio.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Ep.1 - Alle origini del nuovo talento italiano della F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Documentario sul percorso giovanile di Andrea Kimi Antonelli.",
+      "fonte": "tvblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:30",
+      "evento": "Aspettando Il Gp - Ep. 6 - Aspettando Il Gp Di Miami '26 27/04/2026",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Programma di approfondimento/anteprima sul GP di Miami.",
+      "fonte": "tvblog.it",
       "accuratezza_orario": "esatto"
     }
   ]
