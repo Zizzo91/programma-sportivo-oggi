@@ -1,77 +1,14 @@
 {
-  "last_updated": "2026-04-29T21:06:54.512080+02:00",
+  "last_updated": "2026-04-30T03:52:05.994814+02:00",
   "events": [
     {
-      "orario": "17:00",
-      "evento": "Atalanta - Juventus",
-      "competizione": "Coppa Italia Primavera",
-      "canale": "Sportitalia",
-      "note": "Finale",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYyr-wynbQc2z6g3J0E1HYhs7EjC7qBeiXPYdNVBodoLwgfr3ElLU0Qn8K2bMtg1FJo-owysrxBLt5XKdHdydal8_cTJAvp2bGgpy4jVZRZ_iUnKF5wt_9DD0XnrX1AXCLjZqTXWldbC_JKo0mTZZl_UOs_96W9zqh2UFVoN-Oy3VDWcXS_NYR9JBZogCKDEExkJizXkptkm7pytmqS86-ZcTnKLtleuBUfbdI4lerF1C0XFIomnTSM0tw1hvh, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5UExdx2j6iGThE1nUN8i98KTg_oOsH24InAT5MpiblFOZXyjkCswJq19P3c_TXn53RZySpoUWUG8W6nhRWtbF-sKJu7oUEbHPr6H8YrbUvpSHpimklixpx1WBJnvlC_xtUZxdnNYnizAMYY5v6IXUszVbrV0qtMhDCcwOj8YmmA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9g4UxXSqxznHEY6tmnb0CJzyrYSjuiQ-Pa8IVTJpPZ9DukvZRdL9iI5zTVQzrs_80ssKC4itFwqbW7j__-6WXJLKcBJZlTj5nw5_4MQ9ZlnIKo3CTFFNbWlQJFM2YhXnmDSWC_NRfEAUvU_f36XaL5qETzXB2uxUxr0eHOw8kQU0-bX0FLGejyrWiUz2nwFxyOzMQ5N0",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:15",
-      "evento": "Torino - Inter",
-      "competizione": "Calcio Campionato Italiano Serie A",
-      "canale": "Sky Sport 4K",
-      "note": "34a giornata (replay della partita del 26/04/2026)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Roma - Atalanta",
-      "competizione": "Calcio Campionato Italiano Serie A",
-      "canale": "Sky Sport 4K",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Jannik Sinner vs Rafael Jodar",
-      "competizione": "ATP Masters 1000 Madrid",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Quarto di finale (non prima delle 16:00)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYyr-wynbQc2z6g3J0E1HYhs7EjC7qBeiXPYdNVBodoLwgfr3ElLU0Qn8K2bMtg1FJo-owysrxBLt5XKdHdydal8_cTJAvp2bGgpy4jVZRZ_iUnKF5wt_9DD0XnrX1AXCLjZqTXWldbC_JKo0mTZZl_UOs_96W9zqh2UFVoN-Oy3VDWcXS_NYR9JBZogCKDEExkJizXkptkm7pytmqS86-ZcTnKLtleuBUfbdI4lerF1C0XFIomnTSM0tw1hvh, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE71uz-B5kO_grJgvG9FQa2o26zwckh_mB8gi10N4D-bjbgNvuozTpGg9KIZLgJXRWq0WgAwLl1DvRiqUml6Y2K5Jqgf2upY-b70DJE9TfYUcPt8CzITUXoW2VyzYYesokIxpWcBXq0oM3Kr0omiIA2FMMSvbl6A5WGk5PmN9nSmQ2Tlhs8OJ2ptwXoXQBbhPtXMsgbsjA_4Nxujzp7Mg==",
+      "orario": "13:00",
+      "evento": "ATP Masters 1000 Madrid - Quarti di finale singolare maschile (con Flavio Cobolli)",
+      "competizione": "Tennis - ATP Masters 1000 Madrid Open 2026",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
+      "note": "Sessione con match di quarti di finale maschili. Flavio Cobolli affronta Alexander Zverev.",
+      "fonte": "Olympics.com, OA Sport, Sky Sport, NOW, TvBlog",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "04:00",
-      "evento": "GP Australia: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica Gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "GP Giappone: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica Gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "GP Cina: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica Gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:45",
-      "evento": "GP Australia: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica Gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZwqHAjbcQhMgJmO3yqsufFCRauETQGo0uLoGVAiNilGvYm1ejgc60h22AK4EqR0Q0qLj-7W5lwDaPKBJK686IB7mS3LYC-Lq35kbDiafWcNs2QQvv2Z3a7ofT5h5WByp8WQz7mZMyn14C4nZM5n3YWTQ",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
