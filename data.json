@@ -1,77 +1,59 @@
 {
-  "last_updated": "2026-05-01T14:52:58.631809+02:00",
+  "last_updated": "2026-05-01T20:55:46.585551+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "Matteo Arnaldi vs Nuno Borges",
-      "competizione": "ATP Challenger 175 Cagliari - Quarti di Finale",
-      "canale": "",
-      "note": "",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "16:00",
-      "evento": "Formula 2 - Prove Libere",
-      "competizione": "F1 Gran Premio di Miami",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "FormulaPassion",
+      "evento": "ATP 1000 Madrid - 1a Semifinale Singolare (con Jannik Sinner)",
+      "competizione": "Tennis - ATP 1000 Madrid",
+      "canale": "Sky Sport Tennis, Sky Sport 1",
+      "note": "Jannik Sinner vs Arthur Fils.",
+      "fonte": "OA Sport, Guida TV",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Jannik Sinner vs Arthur Fils",
-      "competizione": "ATP Masters 1000 Madrid - Semifinale",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Inizio non prima delle 16:00 CET",
-      "fonte": "OA Sport, LiveTennis.it",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
-      "evento": "Formula 1 - Prove Libere 1",
-      "competizione": "F1 Gran Premio di Miami",
-      "canale": "Sky Sport F1, NOW",
+      "evento": "F1 - Prove Libere 1",
+      "competizione": "Formula 1 - GP Miami 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "FormulaPassion, Adnkronos, AlVolante, Fanpage, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Formula 2 - Qualifiche",
-      "competizione": "F1 Gran Premio di Miami",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "FormulaPassion",
+      "fonte": "Sky Sport, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Pisa-Lecce",
-      "competizione": "Serie A",
+      "competizione": "Calcio - Serie A",
       "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "",
-      "fonte": "90Min.com, tuttolostadio.it, calciomagazine.net, Libero.it",
+      "note": "Anticipo 35ª giornata.",
+      "fonte": "90Min.com, Gianluca Di Marzio",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:30",
-      "evento": "Formula 1 - Qualifiche Sprint",
-      "competizione": "F1 Gran Premio di Miami",
-      "canale": "Sky Sport F1, NOW",
+      "evento": "F1 - Qualifiche Sprint",
+      "competizione": "Formula 1 - GP Miami 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "FormulaPassion, Adnkronos, AlVolante, Fanpage, OA Sport",
+      "fonte": "Sky Sport, FormulaPassion, Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Matteo Berrettini vs Hubert Hurkacz",
-      "competizione": "ATP Challenger 175 Cagliari - Quarti di Finale",
-      "canale": "",
-      "note": "3° incontro sul campo principale, dopo le 12:00 CET",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "tba"
+      "orario": "01:30",
+      "evento": "F1 - Replica Qualifiche Sprint",
+      "competizione": "Formula 1 - GP Miami 2026",
+      "canale": "Sky Sport F1",
+      "note": "Repliche della sessione di qualifiche Sprint del GP di Miami.",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "F1 - Replica Qualifiche Sprint",
+      "competizione": "Formula 1 - GP Miami 2026",
+      "canale": "Sky Sport F1",
+      "note": "Repliche della sessione di qualifiche Sprint del GP di Miami.",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
