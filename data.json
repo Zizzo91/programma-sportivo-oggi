@@ -1,140 +1,77 @@
 {
-  "last_updated": "2026-05-01T09:59:41.141411+02:00",
+  "last_updated": "2026-05-01T14:52:58.631809+02:00",
   "events": [
     {
       "orario": "12:00",
-      "evento": "Quarti di finale",
-      "competizione": "Tennis - Challenger Cagliari 2026",
-      "canale": "SuperTennis HD",
-      "note": "Arnaldi vs Borges",
-      "fonte": "OA Sport, LiveTennis.it",
+      "evento": "Matteo Arnaldi vs Nuno Borges",
+      "competizione": "ATP Challenger 175 Cagliari - Quarti di Finale",
+      "canale": "",
+      "note": "",
+      "fonte": "LiveTennis.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Bari - Virtus Entella",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
+      "orario": "16:00",
+      "evento": "Formula 2 - Prove Libere",
+      "competizione": "F1 Gran Premio di Miami",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Carrarese - Cesena",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Empoli - Avellino",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Juve Stabia - Frosinone",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Mantova - Monza",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Modena - Reggiana",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Padova - Pescara",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Palermo - Catanzaro",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Sampdoria - Sudtirol",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Spezia - Venezia",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "90Min.com, OA Sport, CalcioMagazine",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00*",
-      "evento": "Semifinale",
-      "competizione": "Tennis - ATP Madrid 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
-      "note": "Jannik Sinner vs Arthur Fils (orario stimato, non prima delle 16:00)",
+      "evento": "Jannik Sinner vs Arthur Fils",
+      "competizione": "ATP Masters 1000 Madrid - Semifinale",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Inizio non prima delle 16:00 CET",
       "fonte": "OA Sport, LiveTennis.it",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - GP Miami 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "evento": "Formula 1 - Prove Libere 1",
+      "competizione": "F1 Gran Premio di Miami",
+      "canale": "Sky Sport F1, NOW",
       "note": "",
-      "fonte": "OA Sport, FormulaPassion, AlVolante.it, Sky Sport",
+      "fonte": "FormulaPassion, Adnkronos, AlVolante, Fanpage, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Formula 2 - Qualifiche",
+      "competizione": "F1 Gran Premio di Miami",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Pisa - Lecce",
-      "competizione": "Calcio - Serie A",
+      "evento": "Pisa-Lecce",
+      "competizione": "Serie A",
       "canale": "DAZN, DAZN 1 (Sky 214)",
       "note": "",
-      "fonte": "90Min.com, OA Sport, Lega Serie A, CalcioMagazine",
+      "fonte": "90Min.com, tuttolostadio.it, calciomagazine.net, Libero.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:30",
-      "evento": "Qualifiche Sprint",
-      "competizione": "Formula 1 - GP Miami 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "evento": "Formula 1 - Qualifiche Sprint",
+      "competizione": "F1 Gran Premio di Miami",
+      "canale": "Sky Sport F1, NOW",
       "note": "",
-      "fonte": "OA Sport, FormulaPassion, AlVolante.it, Sky Sport",
+      "fonte": "FormulaPassion, Adnkronos, AlVolante, Fanpage, OA Sport",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Matteo Berrettini vs Hubert Hurkacz",
+      "competizione": "ATP Challenger 175 Cagliari - Quarti di Finale",
+      "canale": "",
+      "note": "3° incontro sul campo principale, dopo le 12:00 CET",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "tba"
     }
   ]
 }
