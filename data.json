@@ -1,85 +1,58 @@
 {
-  "last_updated": "2026-05-02T14:42:59.082294+02:00",
+  "last_updated": "2026-05-02T20:41:29.448784+02:00",
   "events": [
     {
       "orario": "15:00",
-      "evento": "Serie A: Udinese-Torino",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 1 (Sky 214)",
+      "evento": "Udinese-Torino",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky canale 214)",
       "note": "",
-      "fonte": "90min.com, Digital-News.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:55",
-      "evento": "F2 – Sprint Race",
-      "competizione": "Automobilismo - Formula 2",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Sky Sport",
+      "fonte": "90min.com, Serie A oggi: giornata decisiva tra scudetto, champions e salvezza. Sfide e orari TV, Il calcio in TV oggi di sabato 2 maggio 2026: da Atalanta-Genoa a Como-Napoli",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:05",
-      "evento": "Replica Qualifiche Sprint",
-      "competizione": "Automobilismo - Formula 1 (GP Miami)",
-      "canale": "TV8, tv8.it",
-      "note": "Replica delle Qualifiche Sprint del venerdì",
-      "fonte": "Formula 1, Gp Miami: dalle libere alla gara, orari e dove vederlo - Adnkronos, Orari F1, Gp Miami: dove vederlo su Sky e Now in tv, streaming e repliche, Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming",
+      "evento": "Formula 1 - GP Miami: Replica Qualifiche Sprint",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "F1 – Sprint Race",
-      "competizione": "Automobilismo - Formula 1 (GP Miami)",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8, SkyGo, NOW, TV8.it",
+      "evento": "Como-Napoli",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky canale 214)",
       "note": "",
-      "fonte": "Formula 1, Gp Miami: dalle libere alla gara, orari e dove vederlo - Adnkronos, F1 oggi in tv, GP Miami 2026: orari Sprint e qualifiche, programma, streaming, guida TV8, Orari TV GP Miami 2026: diretta su Sky, differita su TV8 - FormulaPassion, Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming, F1 2026 | Ecco gli orari TV di Sky, Now e TV8 del GP di Miami - Motorsport.com, Quando la F1 su TV8 oggi, GP Miami 2026: programma in chiaro Sprint e qualifiche, Orari F1, Gp Miami: dove vederlo su Sky e Now in tv, streaming e repliche, Sky Sport, Oggi la Gara Sprint e Qualifiche a Miami - Orari TV Sky e TV8 - F1ingenerale, Sky Sport Formula 1",
+      "fonte": "90min.com, Serie A oggi: giornata decisiva tra scudetto, champions e salvezza. Sfide e orari TV, Il calcio in TV oggi di sabato 2 maggio 2026: da Atalanta-Genoa a Como-Napoli",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Serie A: Como-Napoli",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "",
-      "fonte": "90min.com, Calciomagazine, Digital-News.it",
+      "evento": "Formula 1 - GP Miami: Sprint Race",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, TV8",
+      "note": "Diretta anche in chiaro su TV8.",
+      "fonte": "Orari TV GP Miami 2026: diretta su Sky, differita su TV8, Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming, Formula 1 2026: Gp Miami, orari tv e diretta streaming, Sport oggi in tv, la programmazione di sabato 2 maggio 2026: serie A, F1, Atp Madrid e ciclismo, Oggi pomeriggio su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Serie A: Atalanta-Genoa",
-      "competizione": "Calcio - Serie A",
+      "evento": "Atalanta-Genoa",
+      "competizione": "Serie A",
       "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport (canale 251), NOW",
       "note": "",
-      "fonte": "90min.com, Calciomagazine",
+      "fonte": "90min.com, Serie A oggi: giornata decisiva tra scudetto, champions e salvezza. Sfide e orari TV, Serie A, oggi Atalanta-Genoa: orario, probabili formazioni e dove vederla, Serie A, oggi Atalanta-Genoa: orario, probabili formazioni e dove vederla, Il calcio in TV oggi di sabato 2 maggio 2026: da Atalanta-Genoa a Como-Napoli, Sport oggi in tv, la programmazione di sabato 2 maggio 2026: serie A, F1, Atp Madrid e ciclismo, Serie A, dove vedere in tv e streaming Atalanta-Genoa. Formazioni, canale e orario",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "F1 – Qualifiche",
-      "competizione": "Automobilismo - Formula 1 (GP Miami)",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8, SkyGo, NOW, TV8.it",
-      "note": "",
-      "fonte": "Formula 1, Gp Miami: dalle libere alla gara, orari e dove vederlo - Adnkronos, F1 oggi in tv, GP Miami 2026: orari Sprint e qualifiche, programma, streaming, guida TV8, Orari TV GP Miami 2026: diretta su Sky, differita su TV8 - FormulaPassion, Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming, F1 2026 | Ecco gli orari TV di Sky, Now e TV8 del GP di Miami - Motorsport.com, Quando la F1 su TV8 oggi, GP Miami 2026: programma in chiaro Sprint e qualifiche, Orari F1, Gp Miami: dove vederlo su Sky e Now in tv, streaming e repliche, Sky Sport, Oggi la Gara Sprint e Qualifiche a Miami - Orari TV Sky e TV8 - F1ingenerale, Sky Sport Formula 1",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Replica F1 – Sprint Race",
-      "competizione": "Automobilismo - Formula 1 (GP Miami)",
-      "canale": "Sky Sport F1",
-      "note": "Orario del 3 maggio 2026",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Replica F1 – Qualifiche",
-      "competizione": "Automobilismo - Formula 1 (GP Miami)",
-      "canale": "Sky Sport F1",
-      "note": "Orario del 3 maggio 2026",
-      "fonte": "Sky Sport",
+      "evento": "Formula 1 - GP Miami: Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, TV8",
+      "note": "Diretta anche in chiaro su TV8.",
+      "fonte": "Orari TV GP Miami 2026: diretta su Sky, differita su TV8, Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming, Formula 1 2026: Gp Miami, orari tv e diretta streaming",
       "accuratezza_orario": "esatto"
     }
   ]
