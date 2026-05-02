@@ -1,57 +1,75 @@
 {
-  "last_updated": "2026-05-01T20:55:46.585551+02:00",
+  "last_updated": "2026-05-02T03:31:11.260603+02:00",
   "events": [
     {
-      "orario": "16:00",
-      "evento": "ATP 1000 Madrid - 1a Semifinale Singolare (con Jannik Sinner)",
-      "competizione": "Tennis - ATP 1000 Madrid",
-      "canale": "Sky Sport Tennis, Sky Sport 1",
-      "note": "Jannik Sinner vs Arthur Fils.",
-      "fonte": "OA Sport, Guida TV",
+      "orario": "15:00",
+      "evento": "Udinese-Torino",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "calcionapoli24.it, gianlucadimarzio.com, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:05",
+      "evento": "Replica Qualifiche Sprint",
+      "competizione": "Formula 1 - GP Miami 2026",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "oaSport.it, F1Sport.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "F1 - Prove Libere 1",
-      "competizione": "Formula 1 - GP Miami 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "evento": "Como-Napoli",
+      "competizione": "Serie A",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Sky Sport, FormulaPassion",
+      "fonte": "calcionapoli24.it, gianlucadimarzio.com, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Sprint Race",
+      "competizione": "Formula 1 - GP Miami 2026",
+      "canale": "Sky Sport F1, NOW, TV8",
+      "note": "",
+      "fonte": "oaSport.it, F1Sport.it, alVolante.it, ACI.it, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Pisa-Lecce",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "Anticipo 35ª giornata.",
-      "fonte": "90Min.com, Gianluca Di Marzio",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:30",
-      "evento": "F1 - Qualifiche Sprint",
-      "competizione": "Formula 1 - GP Miami 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "evento": "Atalanta-Genoa",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky",
       "note": "",
-      "fonte": "Sky Sport, FormulaPassion, Guida TV",
+      "fonte": "calcionapoli24.it, gianlucadimarzio.com, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:30",
-      "evento": "F1 - Replica Qualifiche Sprint",
+      "orario": "22:00",
+      "evento": "Qualifiche",
       "competizione": "Formula 1 - GP Miami 2026",
-      "canale": "Sky Sport F1",
-      "note": "Repliche della sessione di qualifiche Sprint del GP di Miami.",
+      "canale": "Sky Sport F1, NOW, TV8",
+      "note": "",
+      "fonte": "oaSport.it, F1Sport.it, alVolante.it, ACI.it, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Replica Sprint Race",
+      "competizione": "Formula 1 - GP Miami 2026",
+      "canale": "Sky Sport F1, NOW",
+      "note": "Orario del 3 maggio",
       "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "F1 - Replica Qualifiche Sprint",
+      "evento": "Replica Qualifiche",
       "competizione": "Formula 1 - GP Miami 2026",
-      "canale": "Sky Sport F1",
-      "note": "Repliche della sessione di qualifiche Sprint del GP di Miami.",
+      "canale": "Sky Sport F1, NOW",
+      "note": "Orario del 3 maggio",
       "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     }
