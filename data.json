@@ -1,121 +1,85 @@
 {
-  "last_updated": "2026-05-02T09:18:18.235646+02:00",
+  "last_updated": "2026-05-02T14:42:59.082294+02:00",
   "events": [
     {
-      "orario": "10:00",
-      "evento": "Finale Singolare Maschile",
-      "competizione": "Tennis - ITF M25 Santa Margherita di Pula 5",
-      "canale": "N/A",
-      "note": "Giocatore italiano in campo: Niccolò Ciavarella",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uDjlIjeL1d-bqiaxYdILCvvhVTSSn3N379xJXhHKqnUxQSXJQIlaXcCqqV8jHKCl8Qv_PelNecCAFPhBKngSbCzW_a_GaP9frhGyQ4fzbGTM4pgQNfydoBANg7-JpUhJKm-A8JGPZWedPEiEjsHvlMK5JRlhPMfA7TgEGJXUgXNmlNqbXkl2K2hPNFIv-THwhWCklYiGeHOZz9ms2ByDza6I86otlus=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Semifinale Singolare Femminile",
-      "competizione": "Tennis - ITF W35 Santa Margherita di Pula 5",
-      "canale": "N/A",
-      "note": "Giocatrice italiana in campo: Diletta Chiesa",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uDjlIjeL1d-bqiaxYdILCvvhVTSSn3N379xJXhHKqnUxQSXJQIlaXcCqqV8jHKCl8Qv_PelNecCAFPhBKngSbCzW_a_GaP9frhGyQ4fzbGTM4pgQNfydoBANg7-JpUhJKm-A8JGPZWedPEiEjsHvlMK5JRlhPMfA7TgEGJXUgXNmlNqbXkl2K2hPNFIv-THwhWCklYiGeHOZz9ms2ByDza6I86otlus=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Semifinale Singolare Femminile",
-      "competizione": "Tennis - ITF W35 Santa Margherita di Pula 5",
-      "canale": "N/A",
-      "note": "Giocatrice italiana in campo: Giorgia Pedone",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uDjlIjeL1d-bqiaxYdILCvvhVTSSn3N379xJXhHKqnUxQSXJQIlaXcCqqV8jHKCl8Qv_PelNecCAFPhBKngSbCzW_a_GaP9frhGyQ4fzbGTM4pgQNfydoBANg7-JpUhJKm-A8JGPZWedPEiEjsHvlMK5JRlhPMfA7TgEGJXUgXNmlNqbXkl2K2hPNFIv-THwhWCklYiGeHOZz9ms2ByDza6I86otlus=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Semifinale Singolare Maschile",
-      "competizione": "Tennis - ITF M15 Monastir 16",
-      "canale": "N/A",
-      "note": "Giocatore italiano in campo: Gabriele Bosio",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uDjlIjeL1d-bqiaxYdILCvvhVTSSn3N379xJXhHKqnUxQSXJQIlaXcCqqV8jHKCl8Qv_PelNecCAFPhBKngSbCzW_a_GaP9frhGyQ4fzbGTM4pgQNfydoBANg7-JpUhJKm-A8JGPZWedPEiEjsHvlMK5JRlhPMfA7TgEGJXUgXNmlNqbXkl2K2hPNFIv-THwhWCklYiGeHOZz9ms2ByDza6I86otlus=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Semifinale Singolare Maschile",
-      "competizione": "Tennis - ITF M15 Hurghada 3",
-      "canale": "N/A",
-      "note": "Giocatore italiano in campo: Lorenzo Bocchi",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uDjlIjeL1d-bqiaxYdILCvvhVTSSn3N379xJXhHKqnUxQSXJQIlaXcCqqV8jHKCl8Qv_PelNecCAFPhBKngSbCzW_a_GaP9frhGyQ4fzbGTM4pgQNfydoBANg7-JpUhJKm-A8JGPZWedPEiEjsHvlMK5JRlhPMfA7TgEGJXUgXNmlNqbXkl2K2hPNFIv-THwhWCklYiGeHOZz9ms2ByDza6I86otlus=",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "15:00",
-      "evento": "Udinese-Torino",
+      "evento": "Serie A: Udinese-Torino",
       "competizione": "Calcio - Serie A",
       "canale": "DAZN, DAZN 1 (Sky 214)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpOve8ksOrw3Bft5yThivnThCtQCUhKtRCOxbJsNUhfDhSp4J9-KLHOJBIjjaZSo376UwehAObeeg-fdbvb20tF40OGIeuS_FQ-kcZqADSQjeJJfppgjiGiWzNr-uCSIWWf2OSuF6kBLNGOZwSseqC1Z_nhcmDed3rweiyjGUhVt6-vOhHbyIr2lNrINcWMSO-UJI83BdgrYUx4Mvu4G7Irre-",
+      "fonte": "90min.com, Digital-News.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:55",
+      "evento": "F2 – Sprint Race",
+      "competizione": "Automobilismo - Formula 2",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:05",
       "evento": "Replica Qualifiche Sprint",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYqmRtm8myutvAmbCygDhwDyGvfA0IBWCjnd0JzsJ6L-rBlRgGOPDfxCBw6-Y80yDSSpeJOGsER2dqlFSxe5JOKagVNnsxemaF5K-w9r16pEjIhOLwuzWUe-jFiSyqpfp3CMPK23k8s6UaBHahEfMgqxzzV2Fzh5I-MUdLZX6UVOX8gKFTOuX0-yyrpczTJeEE9lGouH1bW4aUzq8SzK8SpEC3BhKr-yjsnVx93Z7zoY8lJA==",
+      "competizione": "Automobilismo - Formula 1 (GP Miami)",
+      "canale": "TV8, tv8.it",
+      "note": "Replica delle Qualifiche Sprint del venerdì",
+      "fonte": "Formula 1, Gp Miami: dalle libere alla gara, orari e dove vederlo - Adnkronos, Orari F1, Gp Miami: dove vederlo su Sky e Now in tv, streaming e repliche, Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Como-Napoli",
+      "evento": "F1 – Sprint Race",
+      "competizione": "Automobilismo - Formula 1 (GP Miami)",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8, SkyGo, NOW, TV8.it",
+      "note": "",
+      "fonte": "Formula 1, Gp Miami: dalle libere alla gara, orari e dove vederlo - Adnkronos, F1 oggi in tv, GP Miami 2026: orari Sprint e qualifiche, programma, streaming, guida TV8, Orari TV GP Miami 2026: diretta su Sky, differita su TV8 - FormulaPassion, Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming, F1 2026 | Ecco gli orari TV di Sky, Now e TV8 del GP di Miami - Motorsport.com, Quando la F1 su TV8 oggi, GP Miami 2026: programma in chiaro Sprint e qualifiche, Orari F1, Gp Miami: dove vederlo su Sky e Now in tv, streaming e repliche, Sky Sport, Oggi la Gara Sprint e Qualifiche a Miami - Orari TV Sky e TV8 - F1ingenerale, Sky Sport Formula 1",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Serie A: Como-Napoli",
       "competizione": "Calcio - Serie A",
       "canale": "DAZN, DAZN 1 (Sky 214)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpOve8ksOrw3Bft5yThivnThCtQCUhKtRCOxbJsNUhfDhSp4J9-KLHOJBIjjaZSo376UwehAObeeg-fdbvb20tF40OGIeuS_FQ-kcZqADSQjeJJfppgjiGiWzNr-uCSIWWf2OSuF6kBLNGOZwSseqC1Z_nhcmDed3rweiyjGUhVt6-vOhHbyIr2lNrINcWMSO-UJI83BdgrYUx4Mvu4G7Irre-",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Sprint Race",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1, Sky Sport Uno, TV8",
-      "note": "Diretta TV e streaming su Sky Go e NOW",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaM9Wm0f2PoLTlhwCU1VkS0Pqj84zWTXqbgUoQkJEl8MJ9Q3-7c0OnsjDc8iFp6gPPVxbf2rQmyPtiXnGBTc9jzePo5lavnlkhJg8HfenKMCku0EbM4J__-UPR51pFxp3Cc6i1OPMhhYltQRfpnmX9gjKLxdMZ7KPgT2F-suYGMMArQ33B1rTHfk45zXENODgVLJiQLTX8xB9yZdABtEax8ynvF6CbY-bTHb8-V1y7wOuQeJLVY_guDshxPBODNyPLc1vxUW98G-I_lFl4I8V2G986B5X-OIkY2G3R3J1Q7ippjc2Z8D7HMoA79w=",
+      "fonte": "90min.com, Calciomagazine, Digital-News.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Atalanta-Genoa",
+      "evento": "Serie A: Atalanta-Genoa",
       "competizione": "Calcio - Serie A",
       "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport (canale 251), NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpOve8ksOrw3Bft5yThivnThCtQCUhKtRCOxbJsNUhfDhSp4J9-KLHOJBIjjaZSo376UwehAObeeg-fdbvb20tF40OGIeuS_FQ-kcZqADSQjeJJfppgjiGiWzNr-uCSIWWf2OSuF6kBLNGOZwSseqC1Z_nhcmDed3rweiyjGUhVt6-vOhHbyIr2lNrINcWMSO-UJI83BdgrYUx4Mvu4G7Irre-",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Serie A Live",
-      "competizione": "Calcio - Approfondimento",
-      "canale": "Sportitalia",
-      "note": "Studio in diretta per seguire la partita di Serie A delle ore 20:45 Atalanta-Genoa",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMc-ZoLe7a5pWK_6QpoqxRVlLz7G3IDocPQCoiFJJ_UBBEZLeWEpCJRI8RlEEl2HDbQHQ41R2KuaSQu1ijjzidSh6OzeSrHdQ06KtIXju47MWXBxTWTXh27Xr7I5bGNci7doiFRTCoXxu9-DCFCNc88-GLNAS57xV49yxbuJSoUABLCMOOxA==",
+      "fonte": "90min.com, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Qualifiche",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, TV8",
-      "note": "Diretta TV e streaming su Sky Go e NOW",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaM9Wm0f2PoLTlhwCU1VkS0Pqj84zWTXqbgUoQkJEl8MJ9Q3-7c0OnsjDc8iFp6gPPVxbf2rQmyPtiXnGBTc9jzePo5lavnlkhJg8HfenKMCku0EbM4J__-UPR51pFxp3Cc6i1OPMhhYltQRfpnmX9gjKLxdMZ7KPgT2F-suYGMMArQ33B1rTHfk45zXENODgVLJiQLTX8xB9yZdABtEax8ynvF6CbY-bTHb8-V1y7wOuQeJLVY_guDshxPBODNyPLc1vxUW98G-I_lFl4I8V2G986B5X-OIkY2G3R3J1Q7ippjc2Z8D7HMoA79w=",
+      "evento": "F1 – Qualifiche",
+      "competizione": "Automobilismo - Formula 1 (GP Miami)",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8, SkyGo, NOW, TV8.it",
+      "note": "",
+      "fonte": "Formula 1, Gp Miami: dalle libere alla gara, orari e dove vederlo - Adnkronos, F1 oggi in tv, GP Miami 2026: orari Sprint e qualifiche, programma, streaming, guida TV8, Orari TV GP Miami 2026: diretta su Sky, differita su TV8 - FormulaPassion, Formula 1, GP Miami 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming, F1 2026 | Ecco gli orari TV di Sky, Now e TV8 del GP di Miami - Motorsport.com, Quando la F1 su TV8 oggi, GP Miami 2026: programma in chiaro Sprint e qualifiche, Orari F1, Gp Miami: dove vederlo su Sky e Now in tv, streaming e repliche, Sky Sport, Oggi la Gara Sprint e Qualifiche a Miami - Orari TV Sky e TV8 - F1ingenerale, Sky Sport Formula 1",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Calcio - Weekend Live",
-      "competizione": "Calcio - Approfondimento",
-      "canale": "Sportitalia",
-      "note": "Programma di approfondimento sul fine settimana calcistico",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMc-ZoLe7a5pWK_6QpoqxRVlLz7G3IDocPQCoiFJJ_UBBEZLeWEpCJRI8RlEEl2HDbQHQ41R2KuaSQu1ijjzidSh6OzeSrHdQ06KtIXju47MWXBxTWTXh27Xr7I5bGNci7doiFRTCoXxu9-DCFCNc88-GLNAS57xV49yxbuJSoUABLCMOOxA==",
+      "orario": "02:00",
+      "evento": "Replica F1 – Sprint Race",
+      "competizione": "Automobilismo - Formula 1 (GP Miami)",
+      "canale": "Sky Sport F1",
+      "note": "Orario del 3 maggio 2026",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Replica F1 – Qualifiche",
+      "competizione": "Automobilismo - Formula 1 (GP Miami)",
+      "canale": "Sky Sport F1",
+      "note": "Orario del 3 maggio 2026",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
