@@ -1,67 +1,94 @@
 {
-  "last_updated": "2026-05-03T09:46:03.604273+02:00",
+  "last_updated": "2026-05-03T20:41:56.882779+02:00",
   "events": [
     {
       "orario": "12:30",
       "evento": "Bologna-Cagliari",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYDS3rZBd3ZBkBw28LNHEfdRTDugJTMzi2uPapgQ789oRdsNqkGQNsM0ViCZdc0sVk3WCZHp47xJXj42J9ELoKIMRW6-mb7E6iRXSj_8yPr5u5zEkBnvbUYdxAdPurm2Ku0lTGfem_T0hQfU8XJth9yacaxsya5Mf9MX5q_OdybgkkphtW_sKXtk_lsTf7eXmHTc_jcruujd_isDwasSxP73UX214XT4ABfDDlZXAX68",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Sassuolo-Milan",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYDS3rZBd3ZBkBw28LNHEfdRTDugJTMzi2uPapgQ789oRdsNqkGQNsM0ViCZdc0sVk3WCZHp47xJXj42J9ELoKIMRW6-mb7E6iRXSj_8yPr5u5zEkBnvbUYdxAdPurm2Ku0lTGfem_T0hQfU8XJth9yacaxsya5Mf9MX5q_OdybgkkphtW_sKXtk_lsTf7eXmHTc_jcruujd_isDwasSxP73UX214XT4ABfDDlZXAX68",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "ATP 1000 Madrid - Finale Singolare (Jannik Sinner)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis, Sky Sport 1",
-      "note": "Jannik Sinner in finale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF4P_d5gcmw_0CXxr4wof0L8E1A_o3xw-vL0Y-Tq0JeM71K38lWGreAN9QLw3iHOR4XC5lvGMT8cYmVBY6K9OzrYK8aEA9jGbCn5Yntjwjh-HgUT6ewCPGC81uVMd-VTVOIjoeiwPARsa2DFFjrfV3z9kACnpJcMhXN9ig6XPhuxvkwVlOrLHq0hx-9hCDkZJPMK6pPgSx9o6e8a6z1mWDc-Z59iMDmD3ftzNHAOvvk4QTVoRn1zkyXJdbZzSJXgg",
+      "orario": "15:00",
+      "evento": "Reggina-Sambiase",
+      "competizione": "Serie D",
+      "canale": null,
+      "note": "Partita di campionato",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9cVqXJCzpdQxrOpMyeGIF1AnTSMaBfjqbrHS69P4dQWwGA36Eb2Ln2-xmDEj33oop6gwkzGmZsYUyOVbBcOLgsgiOg-IY7RHCm12jft9yfOf8GyX2OuVLrWGBxTD_4RBPtwagZWefs_qe02B3htBAqXhD5kzrDz0kqDCHv17q",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Finale",
+      "competizione": "ATP Challenger Cagliari",
+      "canale": null,
+      "note": "Hurkacz vs Arnaldi. Orario stimato non prima delle 15:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt1xvh2UUX4QyT3KWHT6ULOitb8-Xo3meBT1QbgegqLbtxvjjxFM3ZPtXghYBd4VGwEIEPXOxdPs723ZKs7b0jDPAMi8q9WCn5LLpE0gc8Nw3GOsFqOHFIe1_OoUeVp66p-XE_04bVDCETJTVwFJ10tLnmDZpbnwXo5kBhMiPF7P1Shhsi23XMV-xbS8cCH9QpymJ1_KI1gnNepIGAjxx7Ah6NX-bOMXCr6K4yA-cN1KWGF6LsPnoKXLcPs3pcKf8",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Finale",
+      "competizione": "ATP Masters 1000 Madrid",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Jannik Sinner vs Alexander Zverev. Orario stimato non prima delle 17:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc0helq8IgOczwIuGeUXZVEDsQ7N_8U4-49a1E4_POQTSGANVS8TAGNTUrXMYhBjk12FOQzrtj1c-3Qtt3sgJAItiAx_PV_mBzVb3w7m4UrYLm4yMRCn9K8smCFlELI1a-GA44_z2bsHp7IBqo-JXETWajtJ2eMwcwgY8KvMue85RER3kx8OwDA8l2AjJYlW75_7fgNuMsNJSyff459QyFrBA",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
       "evento": "Juventus-Verona",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Calcio, DAZN",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6MEur5Vl_-762YTYduzaFuRdC-hJr-tWcrELlDOK26o2x7vLlbVIkDpj35G6GtYa7BqBXu7BiLqSbMiCxifl3uh7Ok5wXKUmFBzvU01JFs3y_RESV-ruD4IuTZh850rkkSHlZzIGRHKiHzPNBhC1oGWCdA3vgpS0iIYqf6j5k_Mfu-8g",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYDS3rZBd3ZBkBw28LNHEfdRTDugJTMzi2uPapgQ789oRdsNqkGQNsM0ViCZdc0sVk3WCZHp47xJXj42J9ELoKIMRW6-mb7E6iRXSj_8yPr5u5zEkBnvbUYdxAdPurm2Ku0lTGfem_T0hQfU8XJth9yacaxsya5Mf9MX5q_OdybgkkphtW_sKXtk_lsTf7eXmHTc_jcruujd_isDwasSxP73UX214XT4ABfDDlZXAX68",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Gran Premio di Miami - Gara",
-      "competizione": "Formula 1",
+      "evento": "Gara",
+      "competizione": "Formula 1 - GP Miami",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Orario anticipato a causa del maltempo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlVwFS10PjMlC9-JAZEJdeSaihLB8coMlNRmE0E6FeNt0v5Deo4OmwAc4-i7Mtff7ju2RMKEku5x7qiHgYFxDy82Mxf3RKq1ZlCsNwOQ0QdhtGbCnonGTShu6R5v68Ug0ZPidKYzD4pcrRAKmnungPUuLEFK_ITEOLtbUvpKMyzzr7-vzyVSK1rbU_6mjjYuWnBC9ECKTGNprrZ9jttuaDAQmvgeBwD8frRbF8oc9Nzk2QLwtEYn9M9USti7Tt, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFphrr3AhPqAk5ugg4u0qPTtNEPLppgfgQ0MVu63Wemf1LD1s4903MVUNdWxmLzOyc2_RxJsKE8ga4pwmzuh1RV7pyc948kAgpoVBDle_ueTLkOb_jy-ZNF_eDc1vrLizb3k0vf43UierdH8xyjj2mkPcFobs4Ve_n8xn6n9NHZuR5L8WLJC3WNFeGAOxB_tAuxP7IIuT2Y6pXsCDJTuBaUNPn2ze9y2WfM9qigFvjlBaD30kPoXBF0viJhIXOVsCEw0cUtosenQwFRl8XCcepM-beREJ0ik-CyYJK3_ZlAL-fS1YbTgNmDfCXSgNs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvBe6ui-AWqJC1HEgX7puPMAD5oN3cJknRF-8LPWEKZ7Ifl8AzX8PJ3ogL_ed_FdOAJjU64_b_QGw7M_LgmD6bEepm0bM1LZURiZyz2cDBRtSHXgnDcYRGTzHDZGZfzIGD_z3gwrKD7Fu5cJJNCz4X32dQHq-qZF6i_TGG_10rNMWyfM7PoaWmZAf_f-c3llPV1gMKWm2sIdOBjZXtmNFwLd5cRNnuqhr1JMzy899kvgLxKUOhUk9P02xEk_MNQ",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYzFGJLD1iv1s9WNNpGT8b9Ie6JxXZ2fIpGr5Lo9E4mdX3MRbAeRlSvw8rqIc8YkmzlIwWRH3teguhsfw2PDxD2SJWEen_9pv4mZUfFuOpKQHU4LsuM17UUmKq2GWGDY65BX3BvM1RcVIpM5Jun0Ll189bzHW8du-XK35oPX9AHbfjul5HyHyuX8hIyJ36W2_KwsETHuk",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Inter-Parma",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYDS3rZBd3ZBkBw28LNHEfdRTDugJTMzi2uPapgQ789oRdsNqkGQNsM0ViCZdc0sVk3WCZHp47xJXj42J9ELoKIMRW6-mb7E6iRXSj_8yPr5u5zEkBnvbUYdxAdPurm2Ku0lTGfem_T0hQfU8XJth9yacaxsya5Mf9MX5q_OdybgkkphtW_sKXtk_lsTf7eXmHTc_jcruujd_isDwasSxP73UX214XT4ABfDDlZXAX68",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:25",
-      "evento": "Gran Premio di Miami - Gara (Differita)",
-      "competizione": "Formula 1",
+      "orario": "22:10",
+      "evento": "Gara",
+      "competizione": "Formula 1 - GP Miami",
       "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlVwFS10PjMlC9-JAZEJdeSaihLB8coMlNRmE0E6FeNt0v5Deo4OmwAc4-i7Mtff7ju2RMKEku5x7qiHgYFxDy82Mxf3RKq1ZlCsNwOQ0QdhtGbCnonGTShu6R5v68Ug0ZPidKYzD4pcrRAKmnungPUuLEFK_ITEOLtbUvpKMyzzr7-vzyVSK1rbU_6mjjYuWnBC9ECKTGNprrZ9jttuaDAQmvgeBwD8frRbF8oc9Nzk2QLwtEYn9M9USti7Tt, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFphrr3AhPqAk5ugg4u0qPTtNEPLppgfgQ0MVu63Wemf1LD1s4903MVUNdWxmLzOyc2_RxJsKE8ga4pwmzuh1RV7pyc948kAgpoVBDle_ueTLkOb_jy-ZNF_eDc1vrLizb3k0vf43UierdH8xyjj2mkPcFobs4Ve_n8xn6n9NHZuR5L8WLJC3WNFeGAOxB_tAuxP7IIuT2Y6pXsCDJTuBaUNPn2ze9y2WfM9qigFvjlBaD30kPoXBF0viJhIXOVsCEw0cUtosenQwFRl8XCcepM-beREJ0ik-CyYJK3_ZlAL-fS1YbTgNmDfCXSgNs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvBe6ui-AWqJC1HEgX7puPMAD5oN3cJknRF-8LPWEKZ7Ifl8AzX8PJ3ogL_ed_FdOAJjU64_b_QGw7M_LgmD6bEepm0bM1LZURiZyz2cDBRtSHXgnDcYRGTzHDZGZfzIGD_z3gwrKD7Fu5cJJNCz4X32dQHq-qZF6i_TGG_10rNMWyfM7PoaWmZAf_f-c3llPV1gMKWm2sIdOBjZXtmNFwLd5cRNnuqhr1JMzy899kvgLxKUOhUk9P02xEk_MNQ",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiDCmyBOJeAtIS8AO4NA39eDKr8GNPsVu-OyuLCkF9gCJRw7xgKBFb8lP5ZKLXIBwK6dJYN4dLEXdwXaeheU0YhT2JxjufqryVPg5c6EILhSocp0n2PbYd2uhjb0sd4xXubStFMW5M1Wfgbd-gj3RmwhK4Ha56LcEVfmmoH-3YojbiXHs1AR9nmG5HrP_D5U59Gu8lwHyvyYYQVm-aJf8b2YFo0TlNUcqlVKV3yikEvy-RDYez",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Gara",
+      "competizione": "Formula 1 - GP Miami",
+      "canale": "Sky Sport Uno",
+      "note": "Replica (Valido fino alle 06:00 del giorno successivo)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFpoRgIarcv1EYt-uYhzoO75VchKYlDIeElAAh8efAO1F2LBs8z-ULPKe45tEwa02dIY1C12Sgw0kfz6FM-1eIKv9QB3x2GETeJyuLKzNLHJk_5OqNb1quRCMs_RwHPLLOuiK_N0fLsI-JDnt8yezUL4ksgXjkcbmkLLE=",
       "accuratezza_orario": "esatto"
     }
   ]
