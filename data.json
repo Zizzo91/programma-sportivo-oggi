@@ -1,148 +1,67 @@
 {
-  "last_updated": "2026-05-03T03:47:03.482950+02:00",
+  "last_updated": "2026-05-03T09:46:03.604273+02:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "Replica Sprint Race",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1 (Canale 207)",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Replica Qualifiche",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1 (Canale 207)",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Replica Qualifiche",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1 (Canale 207)",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:30",
-      "evento": "Replica Sprint Race",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1 (Canale 207)",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "12:30",
-      "evento": "Bologna - Cagliari",
+      "evento": "Bologna-Cagliari",
       "competizione": "Calcio - Serie A",
       "canale": "DAZN",
-      "note": "35ª giornata",
-      "fonte": "DAZN News IT",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Sassuolo - Milan",
+      "evento": "Sassuolo-Milan",
       "competizione": "Calcio - Serie A",
       "canale": "DAZN",
-      "note": "35ª giornata",
-      "fonte": "DAZN News IT",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00*",
-      "evento": "Jannik Sinner - Alexander Zverev",
-      "competizione": "Tennis - ATP Masters 1000 Madrid, Finale",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Orario stimato, non prima delle 17:00 CET. Sinner è italiano.",
-      "fonte": "Corriere dell'Umbria, TvBlog, OA Sport, Adnkronos",
-      "accuratezza_orario": "stimato"
+      "orario": "17:00",
+      "evento": "ATP 1000 Madrid - Finale Singolare (Jannik Sinner)",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis, Sky Sport 1",
+      "note": "Jannik Sinner in finale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF4P_d5gcmw_0CXxr4wof0L8E1A_o3xw-vL0Y-Tq0JeM71K38lWGreAN9QLw3iHOR4XC5lvGMT8cYmVBY6K9OzrYK8aEA9jGbCn5Yntjwjh-HgUT6ewCPGC81uVMd-VTVOIjoeiwPARsa2DFFjrfV3z9kACnpJcMhXN9ig6XPhuxvkwVlOrLHq0hx-9hCDkZJPMK6pPgSx9o6e8a6z1mWDc-Z59iMDmD3ftzNHAOvvk4QTVoRn1zkyXJdbZzSJXgg",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Juventus - Verona",
+      "evento": "Juventus-Verona",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Go",
-      "note": "35ª giornata",
-      "fonte": "Programmi Sky, DAZN News IT",
+      "canale": "Sky Sport Calcio, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6MEur5Vl_-762YTYduzaFuRdC-hJr-tWcrELlDOK26o2x7vLlbVIkDpj35G6GtYa7BqBXu7BiLqSbMiCxifl3uh7Ok5wXKUmFBzvU01JFs3y_RESV-ruD4IuTZh850rkkSHlZzIGRHKiHzPNBhC1oGWCdA3vgpS0iIYqf6j5k_Mfu-8g",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Gran Premio di Miami - Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Orario anticipato a causa del maltempo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlVwFS10PjMlC9-JAZEJdeSaihLB8coMlNRmE0E6FeNt0v5Deo4OmwAc4-i7Mtff7ju2RMKEku5x7qiHgYFxDy82Mxf3RKq1ZlCsNwOQ0QdhtGbCnonGTShu6R5v68Ug0ZPidKYzD4pcrRAKmnungPUuLEFK_ITEOLtbUvpKMyzzr7-vzyVSK1rbU_6mjjYuWnBC9ECKTGNprrZ9jttuaDAQmvgeBwD8frRbF8oc9Nzk2QLwtEYn9M9USti7Tt, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFphrr3AhPqAk5ugg4u0qPTtNEPLppgfgQ0MVu63Wemf1LD1s4903MVUNdWxmLzOyc2_RxJsKE8ga4pwmzuh1RV7pyc948kAgpoVBDle_ueTLkOb_jy-ZNF_eDc1vrLizb3k0vf43UierdH8xyjj2mkPcFobs4Ve_n8xn6n9NHZuR5L8WLJC3WNFeGAOxB_tAuxP7IIuT2Y6pXsCDJTuBaUNPn2ze9y2WfM9qigFvjlBaD30kPoXBF0viJhIXOVsCEw0cUtosenQwFRl8XCcepM-beREJ0ik-CyYJK3_ZlAL-fS1YbTgNmDfCXSgNs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvBe6ui-AWqJC1HEgX7puPMAD5oN3cJknRF-8LPWEKZ7Ifl8AzX8PJ3ogL_ed_FdOAJjU64_b_QGw7M_LgmD6bEepm0bM1LZURiZyz2cDBRtSHXgnDcYRGTzHDZGZfzIGD_z3gwrKD7Fu5cJJNCz4X32dQHq-qZF6i_TGG_10rNMWyfM7PoaWmZAf_f-c3llPV1gMKWm2sIdOBjZXtmNFwLd5cRNnuqhr1JMzy899kvgLxKUOhUk9P02xEk_MNQ",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Inter - Parma",
+      "evento": "Inter-Parma",
       "competizione": "Calcio - Serie A",
       "canale": "DAZN",
-      "note": "35ª giornata",
-      "fonte": "inter.it, DAZN News IT",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh97A37pu8cMXU1qr_CF8MK75eKe9VBMvshz5YOt_X4SCLDiiybMaTcI_yq_wMwI3oIx099nwHQL4Cbi3LMeQ1JZT1xFR1yEsxNLJwtg50O_w0EQKAfP6ncmFM8OxIdxighhUxguwO5fNOL2yWEA7hLUbHVtECOCIzSFLAUZZ5rmhGJ2-4JDFdlaR8KR86jvi9Pi_9e0cCRs5r8jgytrbLrRQ2QQ9Hcr3b7-Pim7nqjDA8acR_1kXUDfS_NXHw",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "F1 Paddock Live Pre Gara",
-      "competizione": "Formula 1 - GP Miami",
+      "orario": "23:25",
+      "evento": "Gran Premio di Miami - Gara (Differita)",
+      "competizione": "Formula 1",
       "canale": "TV8",
       "note": "",
-      "fonte": "Guida TV, Oggi in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Gara",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1, NOW",
-      "note": "Diretta",
-      "fonte": "L'Automobile - ACI, Motorsport.com, FormulaPassion, Il Fatto Quotidiano, NOW",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:30",
-      "evento": "Gara",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "L'Automobile - ACI, Formula 1, GP Miami 2026: gli orari TV8 e Sky, Guida TV, Oggi in TV, FormulaPassion, TV8: video, programmi, repliche del canale HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:15",
-      "evento": "F1 Podio",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "TV8",
-      "note": "Del 4 maggio",
-      "fonte": "Oggi in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "F1 Paddock Live Post Gara",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "TV8",
-      "note": "Del 4 maggio",
-      "fonte": "Oggi in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Replica Gara",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1 (Canale 207)",
-      "note": "Del 4 maggio",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Replica Gara",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport F1 (Canale 207)",
-      "note": "Del 4 maggio",
-      "fonte": "Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlVwFS10PjMlC9-JAZEJdeSaihLB8coMlNRmE0E6FeNt0v5Deo4OmwAc4-i7Mtff7ju2RMKEku5x7qiHgYFxDy82Mxf3RKq1ZlCsNwOQ0QdhtGbCnonGTShu6R5v68Ug0ZPidKYzD4pcrRAKmnungPUuLEFK_ITEOLtbUvpKMyzzr7-vzyVSK1rbU_6mjjYuWnBC9ECKTGNprrZ9jttuaDAQmvgeBwD8frRbF8oc9Nzk2QLwtEYn9M9USti7Tt, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFphrr3AhPqAk5ugg4u0qPTtNEPLppgfgQ0MVu63Wemf1LD1s4903MVUNdWxmLzOyc2_RxJsKE8ga4pwmzuh1RV7pyc948kAgpoVBDle_ueTLkOb_jy-ZNF_eDc1vrLizb3k0vf43UierdH8xyjj2mkPcFobs4Ve_n8xn6n9NHZuR5L8WLJC3WNFeGAOxB_tAuxP7IIuT2Y6pXsCDJTuBaUNPn2ze9y2WfM9qigFvjlBaD30kPoXBF0viJhIXOVsCEw0cUtosenQwFRl8XCcepM-beREJ0ik-CyYJK3_ZlAL-fS1YbTgNmDfCXSgNs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvBe6ui-AWqJC1HEgX7puPMAD5oN3cJknRF-8LPWEKZ7Ifl8AzX8PJ3ogL_ed_FdOAJjU64_b_QGw7M_LgmD6bEepm0bM1LZURiZyz2cDBRtSHXgnDcYRGTzHDZGZfzIGD_z3gwrKD7Fu5cJJNCz4X32dQHq-qZF6i_TGG_10rNMWyfM7PoaWmZAf_f-c3llPV1gMKWm2sIdOBjZXtmNFwLd5cRNnuqhr1JMzy899kvgLxKUOhUk9P02xEk_MNQ",
       "accuratezza_orario": "esatto"
     }
   ]
