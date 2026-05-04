@@ -1,67 +1,22 @@
 {
-  "last_updated": "2026-05-04T10:14:52.430328+02:00",
+  "last_updated": "2026-05-04T15:19:37.199043+02:00",
   "events": [
-    {
-      "orario": "10:30",
-      "evento": "Sorteggio Internazionali d'Italia 2026 (Tabelloni Principali)",
-      "competizione": "ATP & WTA Masters 1000 Roma",
-      "canale": "SuperTennis, supertennis.tv, SuperTenniX, YouTube Internazionali BNL d'Italia",
-      "note": "Cerimonia di sorteggio per i tabelloni maschile e femminile. Jannik Sinner atteso protagonista.",
-      "fonte": "adnkronos.com, oasport.it, sky.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Chelsea-Nottingham Forest",
-      "competizione": "Premier League",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "90min.com, tuttonapoli.net",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "18:30",
       "evento": "Cremonese-Lazio",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "DAZN News IT, 90min.com, tuttonapoli.net",
+      "fonte": "90min.com, DAZN News IT, Adnkronos, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Roma-Fiorentina",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport, NOW",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
       "note": "",
-      "fonte": "DAZN News IT, guidatv.sky.it, 90min.com, tuttonapoli.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Everton-Manchester City",
-      "competizione": "Premier League",
-      "canale": "Sky Sport Uno, NOW",
-      "note": "",
-      "fonte": "guidatv.sky.it, 90min.com, tuttonapoli.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Siviglia-Real Sociedad",
-      "competizione": "LaLiga",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "DAZN News IT, tvblog.it, tuttonapoli.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:15",
-      "evento": "Sporting-Vitoria Guimaraes",
-      "competizione": "Liga Portugal Betclic",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "DAZN News IT, tuttonapoli.net",
+      "fonte": "90min.com, DAZN News IT, Adnkronos, Sky Programmi TV, Calciomagazine",
       "accuratezza_orario": "esatto"
     }
   ]
