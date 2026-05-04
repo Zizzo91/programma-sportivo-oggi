@@ -1,94 +1,85 @@
 {
-  "last_updated": "2026-05-03T20:41:56.882779+02:00",
+  "last_updated": "2026-05-04T03:47:18.705505+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Bologna-Cagliari",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYDS3rZBd3ZBkBw28LNHEfdRTDugJTMzi2uPapgQ789oRdsNqkGQNsM0ViCZdc0sVk3WCZHp47xJXj42J9ELoKIMRW6-mb7E6iRXSj_8yPr5u5zEkBnvbUYdxAdPurm2Ku0lTGfem_T0hQfU8XJth9yacaxsya5Mf9MX5q_OdybgkkphtW_sKXtk_lsTf7eXmHTc_jcruujd_isDwasSxP73UX214XT4ABfDDlZXAX68",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Sassuolo-Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYDS3rZBd3ZBkBw28LNHEfdRTDugJTMzi2uPapgQ789oRdsNqkGQNsM0ViCZdc0sVk3WCZHp47xJXj42J9ELoKIMRW6-mb7E6iRXSj_8yPr5u5zEkBnvbUYdxAdPurm2Ku0lTGfem_T0hQfU8XJth9yacaxsya5Mf9MX5q_OdybgkkphtW_sKXtk_lsTf7eXmHTc_jcruujd_isDwasSxP73UX214XT4ABfDDlZXAX68",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Reggina-Sambiase",
-      "competizione": "Serie D",
-      "canale": null,
-      "note": "Partita di campionato",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9cVqXJCzpdQxrOpMyeGIF1AnTSMaBfjqbrHS69P4dQWwGA36Eb2Ln2-xmDEj33oop6gwkzGmZsYUyOVbBcOLgsgiOg-IY7RHCm12jft9yfOf8GyX2OuVLrWGBxTD_4RBPtwagZWefs_qe02B3htBAqXhD5kzrDz0kqDCHv17q",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Finale",
-      "competizione": "ATP Challenger Cagliari",
-      "canale": null,
-      "note": "Hurkacz vs Arnaldi. Orario stimato non prima delle 15:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt1xvh2UUX4QyT3KWHT6ULOitb8-Xo3meBT1QbgegqLbtxvjjxFM3ZPtXghYBd4VGwEIEPXOxdPs723ZKs7b0jDPAMi8q9WCn5LLpE0gc8Nw3GOsFqOHFIe1_OoUeVp66p-XE_04bVDCETJTVwFJ10tLnmDZpbnwXo5kBhMiPF7P1Shhsi23XMV-xbS8cCH9QpymJ1_KI1gnNepIGAjxx7Ah6NX-bOMXCr6K4yA-cN1KWGF6LsPnoKXLcPs3pcKf8",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Finale",
-      "competizione": "ATP Masters 1000 Madrid",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Jannik Sinner vs Alexander Zverev. Orario stimato non prima delle 17:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc0helq8IgOczwIuGeUXZVEDsQ7N_8U4-49a1E4_POQTSGANVS8TAGNTUrXMYhBjk12FOQzrtj1c-3Qtt3sgJAItiAx_PV_mBzVb3w7m4UrYLm4yMRCn9K8smCFlELI1a-GA44_z2bsHp7IBqo-JXETWajtJ2eMwcwgY8KvMue85RER3kx8OwDA8l2AjJYlW75_7fgNuMsNJSyff459QyFrBA",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Juventus-Verona",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYDS3rZBd3ZBkBw28LNHEfdRTDugJTMzi2uPapgQ789oRdsNqkGQNsM0ViCZdc0sVk3WCZHp47xJXj42J9ELoKIMRW6-mb7E6iRXSj_8yPr5u5zEkBnvbUYdxAdPurm2Ku0lTGfem_T0hQfU8XJth9yacaxsya5Mf9MX5q_OdybgkkphtW_sKXtk_lsTf7eXmHTc_jcruujd_isDwasSxP73UX214XT4ABfDDlZXAX68",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Gara",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYzFGJLD1iv1s9WNNpGT8b9Ie6JxXZ2fIpGr5Lo9E4mdX3MRbAeRlSvw8rqIc8YkmzlIwWRH3teguhsfw2PDxD2SJWEen_9pv4mZUfFuOpKQHU4LsuM17UUmKq2GWGDY65BX3BvM1RcVIpM5Jun0Ll189bzHW8du-XK35oPX9AHbfjul5HyHyuX8hIyJ36W2_KwsETHuk",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Inter-Parma",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYDS3rZBd3ZBkBw28LNHEfdRTDugJTMzi2uPapgQ789oRdsNqkGQNsM0ViCZdc0sVk3WCZHp47xJXj42J9ELoKIMRW6-mb7E6iRXSj_8yPr5u5zEkBnvbUYdxAdPurm2Ku0lTGfem_T0hQfU8XJth9yacaxsya5Mf9MX5q_OdybgkkphtW_sKXtk_lsTf7eXmHTc_jcruujd_isDwasSxP73UX214XT4ABfDDlZXAX68",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:10",
-      "evento": "Gara",
-      "competizione": "Formula 1 - GP Miami",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiDCmyBOJeAtIS8AO4NA39eDKr8GNPsVu-OyuLCkF9gCJRw7xgKBFb8lP5ZKLXIBwK6dJYN4dLEXdwXaeheU0YhT2JxjufqryVPg5c6EILhSocp0n2PbYd2uhjb0sd4xXubStFMW5M1Wfgbd-gj3RmwhK4Ha56LcEVfmmoH-3YojbiXHs1AR9nmG5HrP_D5U59Gu8lwHyvyYYQVm-aJf8b2YFo0TlNUcqlVKV3yikEvy-RDYez",
+      "orario": "03:00",
+      "evento": "WTA Madrid (Replica)",
+      "competizione": "WTA 1000",
+      "canale": "SuperTennis",
+      "note": "Replica di un match del WTA Madrid.",
+      "fonte": "staseraintv.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Gara",
-      "competizione": "Formula 1 - GP Miami",
+      "evento": "Mondiale Formula 1 2026 - GP Miami: Gara (Replica)",
+      "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica (Valido fino alle 06:00 del giorno successivo)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFpoRgIarcv1EYt-uYhzoO75VchKYlDIeElAAh8efAO1F2LBs8z-ULPKe45tEwa02dIY1C12Sgw0kfz6FM-1eIKv9QB3x2GETeJyuLKzNLHJk_5OqNb1quRCMs_RwHPLLOuiK_N0fLsI-JDnt8yezUL4ksgXjkcbmkLLE=",
+      "note": "Replica della gara disputata il 3 maggio.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "WTA Madrid (Replica)",
+      "competizione": "WTA 1000",
+      "canale": "SuperTennis",
+      "note": "Replica di un match del WTA Madrid.",
+      "fonte": "staseraintv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Race Anatomy F1 (analisi post-gara GP Miami)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Analisi post-gara del GP di Miami.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Sorteggio tabelloni principali Internazionali BNL d'Italia 2026",
+      "competizione": "ATP/WTA 1000 Internazionali d'Italia",
+      "canale": "SuperTennis HD, supertennis.tv, YouTube Internazionali BNL d'Italia",
+      "note": "Cerimonia di sorteggio del torneo che vedrà la partecipazione di giocatori italiani.",
+      "fonte": "Internazionali BNL d'Italia, Il Riformista, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Race Anatomy F1 (analisi post-gara GP Miami)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Analisi post-gara del GP di Miami.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Cremonese - Lazio",
+      "competizione": "Serie A 2025/2026 - 35a giornata",
+      "canale": "DAZN",
+      "note": "Partita di campionato italiano.",
+      "fonte": "Sky Sport, Goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Roma - Fiorentina",
+      "competizione": "Serie A 2025/2026 - 35a giornata",
+      "canale": "Sky Sport Uno, DAZN",
+      "note": "Partita di campionato italiano.",
+      "fonte": "Sky Sport, Goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:25",
+      "evento": "Mondiale Formula 1 2026 - GP Miami: Gara (Differita)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Differita della gara disputata il 3 maggio.",
+      "fonte": "Fanpage, L'Automobile - ACI, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     }
   ]
