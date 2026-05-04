@@ -1,85 +1,67 @@
 {
-  "last_updated": "2026-05-04T03:47:18.705505+02:00",
+  "last_updated": "2026-05-04T10:14:52.430328+02:00",
   "events": [
     {
-      "orario": "03:00",
-      "evento": "WTA Madrid (Replica)",
-      "competizione": "WTA 1000",
-      "canale": "SuperTennis",
-      "note": "Replica di un match del WTA Madrid.",
-      "fonte": "staseraintv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Mondiale Formula 1 2026 - GP Miami: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara disputata il 3 maggio.",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "WTA Madrid (Replica)",
-      "competizione": "WTA 1000",
-      "canale": "SuperTennis",
-      "note": "Replica di un match del WTA Madrid.",
-      "fonte": "staseraintv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Race Anatomy F1 (analisi post-gara GP Miami)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara del GP di Miami.",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "10:30",
-      "evento": "Sorteggio tabelloni principali Internazionali BNL d'Italia 2026",
-      "competizione": "ATP/WTA 1000 Internazionali d'Italia",
-      "canale": "SuperTennis HD, supertennis.tv, YouTube Internazionali BNL d'Italia",
-      "note": "Cerimonia di sorteggio del torneo che vedrà la partecipazione di giocatori italiani.",
-      "fonte": "Internazionali BNL d'Italia, Il Riformista, FormulaPassion",
+      "evento": "Sorteggio Internazionali d'Italia 2026 (Tabelloni Principali)",
+      "competizione": "ATP & WTA Masters 1000 Roma",
+      "canale": "SuperTennis, supertennis.tv, SuperTenniX, YouTube Internazionali BNL d'Italia",
+      "note": "Cerimonia di sorteggio per i tabelloni maschile e femminile. Jannik Sinner atteso protagonista.",
+      "fonte": "adnkronos.com, oasport.it, sky.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Race Anatomy F1 (analisi post-gara GP Miami)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara del GP di Miami.",
-      "fonte": "Guida TV",
+      "orario": "16:00",
+      "evento": "Chelsea-Nottingham Forest",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "90min.com, tuttonapoli.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Cremonese - Lazio",
-      "competizione": "Serie A 2025/2026 - 35a giornata",
-      "canale": "DAZN",
-      "note": "Partita di campionato italiano.",
-      "fonte": "Sky Sport, Goal.com",
+      "evento": "Cremonese-Lazio",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "DAZN News IT, 90min.com, tuttonapoli.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Roma - Fiorentina",
-      "competizione": "Serie A 2025/2026 - 35a giornata",
-      "canale": "Sky Sport Uno, DAZN",
-      "note": "Partita di campionato italiano.",
-      "fonte": "Sky Sport, Goal.com",
+      "evento": "Roma-Fiorentina",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport, NOW",
+      "note": "",
+      "fonte": "DAZN News IT, guidatv.sky.it, 90min.com, tuttonapoli.net",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:25",
-      "evento": "Mondiale Formula 1 2026 - GP Miami: Gara (Differita)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Differita della gara disputata il 3 maggio.",
-      "fonte": "Fanpage, L'Automobile - ACI, Il Fatto Quotidiano",
+      "orario": "21:00",
+      "evento": "Everton-Manchester City",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Uno, NOW",
+      "note": "",
+      "fonte": "guidatv.sky.it, 90min.com, tuttonapoli.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Siviglia-Real Sociedad",
+      "competizione": "LaLiga",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "DAZN News IT, tvblog.it, tuttonapoli.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:15",
+      "evento": "Sporting-Vitoria Guimaraes",
+      "competizione": "Liga Portugal Betclic",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "DAZN News IT, tuttonapoli.net",
       "accuratezza_orario": "esatto"
     }
   ]
