@@ -1,49 +1,49 @@
 {
-  "last_updated": "2026-05-05T03:48:01.166213+02:00",
+  "last_updated": "2026-05-05T09:52:29.224296+02:00",
   "events": [
     {
-      "orario": "04:00",
-      "evento": "GP Miami: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica della gara disputata il 3 maggio 2026.",
-      "fonte": "TvBlog - Programmi Sky Sport 4k 5 maggio",
+      "orario": "11:00",
+      "evento": "Internazionali d'Italia - WTA 1° Turno: Lucia Bronzetti vs McCartney Kessler",
+      "competizione": "WTA 1000 Roma",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), SuperTennis HD",
+      "note": "Terzo match sul campo BNP Paribas Arena. Orario stimato (dopo 2 match a partire dalle 10:00).",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Internazionali d'Italia - WTA 1° Turno: Martina Trevisan vs Talia Gibson",
+      "competizione": "WTA 1000 Roma",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), SuperTennis HD",
+      "note": "Quarto match sul campo BNP Paribas Arena. Orario stimato (dopo 3 match a partire dalle 10:00).",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Basket - Eurolega: Hapoel Tel Aviv vs Real Madrid",
+      "competizione": "Eurolega",
+      "canale": "Sky Sport Basket (205)",
+      "note": null,
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "GP Miami: Gara Sprint (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della Gara Sprint disputata il 2 maggio 2026.",
-      "fonte": "TvBlog - Programmi Sky Sport F1 5 maggio",
+      "orario": "21:00",
+      "evento": "Calcio - UEFA Champions League: Arsenal vs Atletico Madrid",
+      "competizione": "Champions League",
+      "canale": "Sky Sport Uno (201), Sky Sport 4K (213), Sky Sport 251, NOW",
+      "note": "Semifinale di ritorno.",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "GP Cina: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica di una gara precedente del campionato.",
-      "fonte": "TvBlog - Programmi Sky Sport 4k 5 maggio",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:15",
-      "evento": "GP Miami: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica della gara disputata il 3 maggio 2026.",
-      "fonte": "TvBlog - Programmi Sky Sport 4k 5 maggio",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:15",
-      "evento": "GP Miami: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica della gara disputata il 3 maggio 2026.",
-      "fonte": "TvBlog - Programmi Sky Sport 4k 5 maggio",
+      "orario": "23:05",
+      "evento": "Sky Sport 24 Night - Anteprima",
+      "competizione": "Rubrica Sportiva",
+      "canale": "Cielo",
+      "note": "L'anteprima della rubrica di approfondimenti sportivi.",
+      "fonte": "QuestaSeraTv.it",
       "accuratezza_orario": "esatto"
     },
     {
@@ -51,8 +51,35 @@
       "evento": "Sky Sport 24 Night",
       "competizione": "Rubrica Sportiva",
       "canale": "Cielo",
-      "note": "Notizie, highlights, commenti e approfondimenti sul mondo dello sport, inclusi calcio, Coppe europee, Formula 1, tennis e MotoGP.",
+      "note": "Notizie, highlights, commenti e approfondimenti su calcio, F1, tennis, MotoGP, basket.",
       "fonte": "QuestaSeraTv.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Calcio - After Party Champions League",
+      "competizione": "Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Post-partita della Champions League.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30",
+      "evento": "Discover Kimi",
+      "competizione": "Documentario F1",
+      "canale": "Sky Sport Uno",
+      "note": "Backstage del documentario Sky Original in tre episodi dedicato al talento italiano della F1 Kimi Antonelli.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Panatta & Bertolucci Tennis Heroes",
+      "competizione": "Rubrica Tennis",
+      "canale": "Sky Sport Uno",
+      "note": null,
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
