@@ -1,85 +1,31 @@
 {
-  "last_updated": "2026-05-05T09:52:29.224296+02:00",
+  "last_updated": "2026-05-05T15:08:31.151211+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Internazionali d'Italia - WTA 1° Turno: Lucia Bronzetti vs McCartney Kessler",
-      "competizione": "WTA 1000 Roma",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), SuperTennis HD",
-      "note": "Terzo match sul campo BNP Paribas Arena. Orario stimato (dopo 2 match a partire dalle 10:00).",
-      "fonte": "OA Sport",
+      "orario": "TBA",
+      "evento": "Tennis - WTA Roma 2026: 1° turno (Kessler vs Bronzetti)",
+      "competizione": "Internazionali d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, SuperTennis HD",
+      "note": "Match sulla BNP Paribas Arena, 3° incontro del programma che inizia alle 10:00 CEST. Giocatrice italiana: Lucia Bronzetti.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHFSfkNRvVFuwxFCKUXd4mgrbwVB_j2O4Mkk4kloKR2rHBn_cFfZA3t-59EpX2ofr43IThygVLWwg53UZsbKJJGgnlorQoUUAjJ4CsvpfRynHKaT6w3uUI62QsxkkS3OtEauTzCO5NBOGn22o-O2_b5tNRQsDIEtldEOlcC4lQhcCEQ20Mo8JWblqbRsuq1BBqL1J4wG36kLnZRTotaWm8kBItmkbIyIUsLbw=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "11:00",
-      "evento": "Internazionali d'Italia - WTA 1° Turno: Martina Trevisan vs Talia Gibson",
-      "competizione": "WTA 1000 Roma",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), SuperTennis HD",
-      "note": "Quarto match sul campo BNP Paribas Arena. Orario stimato (dopo 3 match a partire dalle 10:00).",
-      "fonte": "OA Sport",
+      "orario": "TBA",
+      "evento": "Tennis - WTA Roma 2026: 1° turno (Trevisan vs Gibson)",
+      "competizione": "Internazionali d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, SuperTennis HD",
+      "note": "Match sulla BNP Paribas Arena, 4° incontro del programma che inizia alle 10:00 CEST. Giocatrice italiana: Martina Trevisan.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHFSfkNRvVFuwxFCKUXd4mgrbwVB_j2O4Mkk4kloKR2rHBn_cFfZA3t-59EpX2ofr43IThygVLWwg53UZsbKJJGgnlorQoUUAjJ4CsvpfRynHKaT6w3uUI62QsxkkS3OtEauTzCO5NBOGn22o-O2_b5tNRQsDIEtldEOlcC4lQhcCEQ20Mo8JWblqbRsuq1BBqL1J4wG36kLnZRTotaWm8kBItmkbIyIUsLbw=",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Basket - Eurolega: Hapoel Tel Aviv vs Real Madrid",
-      "competizione": "Eurolega",
-      "canale": "Sky Sport Basket (205)",
-      "note": null,
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio - UEFA Champions League: Arsenal vs Atletico Madrid",
-      "competizione": "Champions League",
-      "canale": "Sky Sport Uno (201), Sky Sport 4K (213), Sky Sport 251, NOW",
-      "note": "Semifinale di ritorno.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:05",
-      "evento": "Sky Sport 24 Night - Anteprima",
-      "competizione": "Rubrica Sportiva",
-      "canale": "Cielo",
-      "note": "L'anteprima della rubrica di approfondimenti sportivi.",
-      "fonte": "QuestaSeraTv.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:10",
-      "evento": "Sky Sport 24 Night",
-      "competizione": "Rubrica Sportiva",
-      "canale": "Cielo",
-      "note": "Notizie, highlights, commenti e approfondimenti su calcio, F1, tennis, MotoGP, basket.",
-      "fonte": "QuestaSeraTv.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Calcio - After Party Champions League",
-      "competizione": "Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Post-partita della Champions League.",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:30",
-      "evento": "Discover Kimi",
-      "competizione": "Documentario F1",
-      "canale": "Sky Sport Uno",
-      "note": "Backstage del documentario Sky Original in tre episodi dedicato al talento italiano della F1 Kimi Antonelli.",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Panatta & Bertolucci Tennis Heroes",
-      "competizione": "Rubrica Tennis",
-      "canale": "Sky Sport Uno",
-      "note": null,
-      "fonte": "Guida TV",
+      "evento": "Calcio - Champions League: Arsenal vs Atletico Madrid",
+      "competizione": "UEFA Champions League - Semifinale di Ritorno",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (canale 251), NOW",
+      "note": "Semifinale di ritorno. Nessuna squadra italiana in campo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYT6VK2sai_2OoKd-LDlXIVbd0POIz5Du6QbpqmhgDhwws9z8CvNy68x8XJh3R2Fr-g5iNMdRegPsI6OToM-yvEhDaMeinIdt4NfCSEC1jO27jw3uqGCEEFUxu4TI7jP8AVw0u4TplScGTvbJXiLQutwkykUUAO8D6ifYT7coIQqOWIp41Bqh4eydSCMoeWNjmQSgmyM0",
       "accuratezza_orario": "esatto"
     }
   ]
