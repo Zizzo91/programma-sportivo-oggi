@@ -1,31 +1,112 @@
 {
-  "last_updated": "2026-05-05T15:08:31.151211+02:00",
+  "last_updated": "2026-05-06T03:47:22.684353+02:00",
   "events": [
     {
-      "orario": "TBA",
-      "evento": "Tennis - WTA Roma 2026: 1° turno (Kessler vs Bronzetti)",
-      "competizione": "Internazionali d'Italia",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, SuperTennis HD",
-      "note": "Match sulla BNP Paribas Arena, 3° incontro del programma che inizia alle 10:00 CEST. Giocatrice italiana: Lucia Bronzetti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHFSfkNRvVFuwxFCKUXd4mgrbwVB_j2O4Mkk4kloKR2rHBn_cFfZA3t-59EpX2ofr43IThygVLWwg53UZsbKJJGgnlorQoUUAjJ4CsvpfRynHKaT6w3uUI62QsxkkS3OtEauTzCO5NBOGn22o-O2_b5tNRQsDIEtldEOlcC4lQhcCEQ20Mo8JWblqbRsuq1BBqL1J4wG36kLnZRTotaWm8kBItmkbIyIUsLbw=",
+      "orario": "13:00*",
+      "evento": "Internazionali BNL d'Italia - 1° turno: Matteo Arnaldi vs Jaume Munar",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "Sky Sport, TV8 (un match in chiaro)",
+      "note": "Sul campo Centrale, dopo Hurkacz-Hanfmann.",
+      "fonte": "Corriere dell'Umbria, OA Sport, ELLE, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "TBA",
-      "evento": "Tennis - WTA Roma 2026: 1° turno (Trevisan vs Gibson)",
-      "competizione": "Internazionali d'Italia",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, SuperTennis HD",
-      "note": "Match sulla BNP Paribas Arena, 4° incontro del programma che inizia alle 10:00 CEST. Giocatrice italiana: Martina Trevisan.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHFSfkNRvVFuwxFCKUXd4mgrbwVB_j2O4Mkk4kloKR2rHBn_cFfZA3t-59EpX2ofr43IThygVLWwg53UZsbKJJGgnlorQoUUAjJ4CsvpfRynHKaT6w3uUI62QsxkkS3OtEauTzCO5NBOGn22o-O2_b5tNRQsDIEtldEOlcC4lQhcCEQ20Mo8JWblqbRsuq1BBqL1J4wG36kLnZRTotaWm8kBItmkbIyIUsLbw=",
+      "evento": "Internazionali BNL d'Italia - 1° turno: Lorenzo Sonego vs Benjamin Buse",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "Sky Sport",
+      "note": "Campo e orario da definire.",
+      "fonte": "Corriere dell'Umbria, OA Sport, ELLE, OA Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Internazionali BNL d'Italia - 1° turno: Matteo Berrettini vs Alexei Popyrin",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "Sky Sport",
+      "note": "Campo e orario da definire.",
+      "fonte": "Corriere dell'Umbria, OA Sport, ELLE, OA Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Internazionali BNL d'Italia - 1° turno: Luca Nardi vs Qualificato",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "Sky Sport",
+      "note": "Campo e orario da definire.",
+      "fonte": "Corriere dell'Umbria, OA Sport, ELLE, OA Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Internazionali BNL d'Italia - 1° turno: Elisabetta Cocciaretto vs Sinja Kraus",
+      "competizione": "WTA 1000 Roma",
+      "canale": "SuperTennis, Sky Sport",
+      "note": "Sessione serale sul Centrale, orario stimato (dopo 20:30).",
+      "fonte": "OA Sport, ELLE, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio - Champions League: Arsenal vs Atletico Madrid",
-      "competizione": "UEFA Champions League - Semifinale di Ritorno",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (canale 251), NOW",
-      "note": "Semifinale di ritorno. Nessuna squadra italiana in campo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYT6VK2sai_2OoKd-LDlXIVbd0POIz5Du6QbpqmhgDhwws9z8CvNy68x8XJh3R2Fr-g5iNMdRegPsI6OToM-yvEhDaMeinIdt4NfCSEC1jO27jw3uqGCEEFUxu4TI7jP8AVw0u4TplScGTvbJXiLQutwkykUUAO8D6ifYT7coIQqOWIp41Bqh4eydSCMoeWNjmQSgmyM0",
+      "evento": "Bayern Monaco - PSG",
+      "competizione": "UEFA Champions League - Semifinale di ritorno",
+      "canale": "Prime Video",
+      "note": "Partita di ritorno delle semifinali.",
+      "fonte": "Selectra.net, Sortiraparis, EuroCalcioNews.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00*",
+      "evento": "Champions Night",
+      "competizione": "UEFA Champions League",
+      "canale": "TV8",
+      "note": "Studio post-partita con interviste, commenti e highlights fino a tarda sera.",
+      "fonte": "Tv8 Champions Night",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "23:30",
+      "evento": "Campionato Italiano Serie A 2025/2026 - Roma/Fiorentina (35a giornata)",
+      "competizione": "Calcio Serie A",
+      "canale": "Sky Sport Football",
+      "note": "Replay della partita giocata il 4 maggio 2026.",
+      "fonte": "TvBlog",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "ATP & WTA 1000 Roma 2026 - 4a giornata",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno",
+      "note": "Replica/Highlights.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "ATP & WTA 1000 Roma 2026 - 4a giornata",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno",
+      "note": "Replica/Highlights.",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Motori Race Anatomy F1 2026 - Miami 03/05/2026",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Football",
+      "note": "Analisi del Gran Premio di Miami.",
+      "fonte": "TvBlog",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "ATP & WTA 1000 Roma 2026 - 3a giornata",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno",
+      "note": "Replica/Highlights.",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
