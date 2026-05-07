@@ -1,77 +1,68 @@
 {
-  "last_updated": "2026-05-07T15:25:54.447172+02:00",
+  "last_updated": "2026-05-07T21:24:26.884995+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "Tennis - Internazionali BNL d'Italia: Matteo Berrettini vs Alexei Popyrin",
-      "competizione": "ATP Masters 1000 Roma",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251, Sky Sport 252, Sky Sport 253",
-      "note": "Orario stimato, primo match sul Campo Centrale",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
+      "orario": "07:30",
+      "evento": "World Aquatics Coppa del Mondo 2026 - Acque Libere Golfo degli Aranci 3a tappa: 3km Knockout Sprint",
+      "competizione": "Nuoto - Coppa del Mondo",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Programmi TV della mattina del 07 Maggio 2026 - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "World Aquatics Coppa del Mondo 2026 - Nuoto Artistico: Xi'an - 3a tappa (1a parte)",
+      "competizione": "Nuoto - Coppa del Mondo",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Programmi TV della mattina del 07 Maggio 2026 - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Tennis: Matteo Berrettini (ITA) vs Alexei Popyrin (AUS)",
+      "competizione": "ATP Masters 1000 Internazionali BNL d'Italia - 1° Turno",
+      "canale": "Sky Sport Uno, Sky Sport Tennis (e altri canali Sky Sport)",
+      "note": "",
+      "fonte": "Internazionali d'Italia 2026 oggi in tv: orari partite 7 maggio, ordine di gioco, programma TV8; Tutti gli italiani in campo domani a Roma (ATP e WTA): orari, tv, programma 7 maggio, streaming; ATP e WTA Roma 2026, il programma di giovedì 7 maggio: esordio per Berrettini e Paolini",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "109° Giro d'Italia - Presentazione Squadre",
+      "competizione": "Ciclismo - Giro d'Italia",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Programmi TV della mattina del 07 Maggio 2026 - Guida TV",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00*",
-      "evento": "Tennis - Internazionali BNL d'Italia: Jasmine Paolini vs Leolia Jeanjean",
-      "competizione": "WTA 1000 Roma",
-      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251, Sky Sport 252, Sky Sport 253",
-      "note": "Orario stimato, non prima delle 13:00 sul Campo Centrale",
-      "fonte": "OA Sport, SuperTennis",
+      "evento": "Tennis: Jasmine Paolini (ITA) vs Leolia Jeanjean (FRA)",
+      "competizione": "WTA 1000 Internazionali BNL d'Italia - 2° Turno",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis (e altri canali Sky Sport)",
+      "note": "Non prima delle 13:00 sul Campo Centrale.",
+      "fonte": "Sport in tv oggi (giovedì 7 maggio): orari e programma. Dove vedere gli eventi in streaming; Internazionali d'Italia 2026 oggi in tv: orari partite 7 maggio, ordine di gioco, programma TV8; Tutti gli italiani in campo domani a Roma (ATP e WTA): orari, tv, programma 7 maggio, streaming; Tennis in TV - Internazionali BNL d'Italia in diretta TV sui canali Sky Sport e su SuperTennis (5 - 17 maggio); ATP e WTA Roma 2026, il programma di giovedì 7 maggio: esordio per Berrettini e Paolini",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "19:00*",
-      "evento": "Tennis - Internazionali BNL d'Italia: Lorenzo Sonego vs Ignacio Buse",
-      "competizione": "ATP Masters 1000 Roma",
-      "canale": "TV8, Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251, Sky Sport 252, Sky Sport 253",
-      "note": "Orario stimato, non prima delle 19:00 sul Campo Centrale",
-      "fonte": "OA Sport",
+      "evento": "Tennis: Lorenzo Sonego (ITA) vs Ignacio Buse (PER)",
+      "competizione": "ATP Masters 1000 Internazionali BNL d'Italia - 1° Turno",
+      "canale": "TV8, Sky Sport Uno, Sky Sport Tennis (e altri canali Sky Sport)",
+      "note": "Non prima delle 19:00 sul Campo Centrale. Partita trasmessa in chiaro su TV8.",
+      "fonte": "Internazionali di Tennis a Roma: il programma del 7 maggio, quali partite in chiaro su TV8; Internazionali d'Italia 2026 oggi in tv: orari partite 7 maggio, ordine di gioco, programma TV8; Tennis ATP/WTA 1000: Internazionali BNL d\\'Italia – Orario di oggi & stasera | Guida.tv; Tutti gli italiani in campo domani a Roma (ATP e WTA): orari, tv, programma 7 maggio, streaming; Tennis in TV - Internazionali BNL d'Italia in diretta TV sui canali Sky Sport e su SuperTennis (5 - 17 maggio); ATP e WTA Roma 2026, il programma di giovedì 7 maggio: esordio per Berrettini e Paolini",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "TBA",
-      "evento": "Tennis - Internazionali BNL d'Italia: Luca Nardi vs Andrea Pellegrino",
-      "competizione": "ATP Masters 1000 Roma",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251, Sky Sport 252, Sky Sport 253",
-      "note": "Ultimo match sulla BNP Paribas Arena",
-      "fonte": "OA Sport",
+      "evento": "Tennis: Luca Nardi (ITA) vs Andrea Pellegrino (ITA)",
+      "competizione": "ATP Masters 1000 Internazionali BNL d'Italia - 1° Turno",
+      "canale": "Sky Sport Uno, Sky Sport Tennis (e altri canali Sky Sport)",
+      "note": "5° e ultimo match sul BNP Paribas Arena (derby italiano).",
+      "fonte": "Internazionali d'Italia 2026 oggi in tv: orari partite 7 maggio, ordine di gioco, programma TV8; Tutti gli italiani in campo domani a Roma (ATP e WTA): orari, tv, programma 7 maggio, streaming; ATP e WTA Roma 2026, il programma di giovedì 7 maggio: esordio per Berrettini e Paolini",
       "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Calcio - Europa League: Friburgo vs Braga",
-      "competizione": "Europa League - Semifinale di ritorno",
-      "canale": "Sky Sport, Sky Sport Calcio, Sky Sport 253, Sky Go, NOW",
-      "note": "Diretta Gol su Sky Sport Uno e Sky Sport 251",
-      "fonte": "UEFA.com, Sky",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Calcio - Europa League: Aston Villa vs Nottingham Forest",
-      "competizione": "Europa League - Semifinale di ritorno",
-      "canale": "Sky Sport, Sky Sport Calcio, Sky Sport 252, Sky Sport 4K, Sky Go, NOW",
-      "note": "Diretta Gol su Sky Sport Uno e Sky Sport 251",
-      "fonte": "UEFA.com, Sky",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Calcio - Conference League: Crystal Palace vs Shakhtar Donetsk",
-      "competizione": "Conference League - Semifinale di ritorno",
-      "canale": "Sky Sport, Sky Go, NOW",
-      "note": "",
-      "fonte": "UEFA.com, Eurosport, Digital-News, Adnkronos",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Calcio - Conference League: Strasbourg vs Rayo Vallecano",
-      "competizione": "Conference League - Semifinale di ritorno",
-      "canale": "Sky Sport, Sky Sport 254, Sky Go, NOW",
-      "note": "",
-      "fonte": "UEFA.com, Eurosport, Digital-News, Adnkronos",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
