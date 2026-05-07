@@ -1,67 +1,157 @@
 {
-  "last_updated": "2026-05-06T21:19:53.049195+02:00",
+  "last_updated": "2026-05-07T03:51:48.837075+02:00",
   "events": [
     {
-      "orario": "15:00*",
-      "evento": "Internazionali d'Italia (ATP Roma 2026): Matteo Arnaldi (ITA) vs Jaume Munar (ESP)",
-      "competizione": "Tennis - ATP Masters 1000 Roma",
-      "canale": "TV8 HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251, Sky Sport 252, Sky Sport 253",
-      "note": "Orario stimato, terzo match sul Campo Centrale, soggetto alla durata degli incontri precedenti.",
-      "fonte": "oasport.it, tv8.it, guida.tv",
+      "orario": "01:00",
+      "evento": "WTA Internazionali BNL d'Italia (replica)",
+      "competizione": "Tennis",
+      "canale": "Supertennis",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGrB4ZahxiB7MqfdVqfp-YzZex0hEO0D9Xlz60UbVCtskufUgMITLbP8s3MHOijIE7OtXMwtJfLRW_oR_Z6oNwHHTjIL9Ko8z-rIriuMCy4K1JDhNusaAJ1FjK269Y3WoyUeePk9aA7pzRozKKBKq370EAbKnGEqRrrsrbkJOkyPsJOTLjAg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:03",
+      "evento": "Sport Mediaset - La giornata",
+      "competizione": "Rubrica sportiva",
+      "canale": "Italia 1",
+      "note": "Rubrica sportiva della redazione Mediaset sui fatti della giornata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8fdIOj_VMYPCL0Uzi8Pvn_VhTw5DAG7_IXiho1b_w4fvEo_6KaRasZXUqa8KZKqneitjJfHFXMjFQsaxOFkxKI2ROU5TxJnAF-F3iSM7jhfyj1einWbprt_jx0DCcliTBeyAMw_DrKgev1DT7CD_vPAVHVtDHTSO__2dReja3IjX",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Afq9aeLAxJJk2iK4AFWd7VwHvSgx5UtXUIyIAHmUaOixmGyIzQo5tXJZtYYqdKRFPo8kV11c4UzYHYigPLbAEQ999LyUknRK5jIXgaFKjEWZxgspxL7iWEh7ok2CbFmhOU8euW6ZGX_7eBmuTs4uXMIEwTYlRSuH1g==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Tennis: Berrettini (ITA) vs Popyrin (AUS)",
+      "competizione": "ATP Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251/252/253",
+      "note": "Primo turno ATP.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6BPAcs2o1FwSBAii5S5B8YZGcXBOHp6sskNOQfZiQU6ZUBwfxq_dHhBHdtQMtwHkC5N8_UkhxLcL3WWkdZl2l3mpwuVMhyO2snCE11m7GOwLDYtGT724r5qMRKL5QGLp33TXxBUEaBL4z467z7ZcLtcdGf5Hinh122Ux_K7djsSU2KY5Gs-kpWY7P2w2aArJGht9w1lzEqnvOz4ttTO2FaGTmIfIssG8bRTyyWbNR4ETghEg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00*",
+      "evento": "Tennis: Pellegrino (ITA) vs Nardi (ITA)",
+      "competizione": "ATP Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251/252/253",
+      "note": "Primo turno ATP. Quinto match dalle ore 11:00 sulla BNP Paribas Arena.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6BPAcs2o1FwSBAii5S5B8YZGcXBOHp6sskNOQfZiQU6ZUBwfxq_dHhBHdtQMtwHkC5N8_UkhxLcL3WWkdZl2l3mpwuVMhyO2snCE11m7GOwLDYtGT724r5qMRKL5QGLp33TXxBUEaBL4z467z7ZcLtcdGf5Hinh122Ux_K7djsSU2KY5Gs-kpWY7P2w2aArJGht9w1lzEqnvOz4ttTO2FaGTmIfIssG8bRTyyWbNR4ETghEg==",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "13:00*",
+      "evento": "Tennis: Paolini (ITA) vs Jeanjean (FRA)",
+      "competizione": "WTA Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251/252/253, SuperTennis",
+      "note": "Secondo turno WTA. Non prima delle 13:00 sul Campo Centrale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6BPAcs2o1FwSBAii5S5B8YZGcXBOHp6sskNOQfZiQU6ZUBwfxq_dHhBHdtQMtwHkC5N8_UkhxLcL3WWkdZl2l3mpwuVMhyO2snCE11m7GOwLDYtGT724r5qMRKL5QGLp33TXxBUEaBL4z467z7ZcLtcdGf5Hinh122Ux_K7djsSU2KY5Gs-kpWY7P2w2aArJGht9w1lzEqnvOz4ttTO2FaGTmIfIssG8bRTyyWbNR4ETghEg==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Tennis: Allenamento di Jannik Sinner",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport",
+      "note": "Primo allenamento di Sinner al Foro Italico.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfa3T45pyFjRL-SWQBDEUwUTXtQyHDJgC6W0VqIREge0Y6Q4WzhOKnGk8jrSDPsSnMHyEGVhBi9Bwmvld6q6ZFA6e1rrClGLOsQ9NrLAQ7kKvl0o-MFaaX3bIM1Il6fj8u4_t8fQ-10Cz_MO-rxiIOFKS2FrsMnqebAQh3PFXscGRkrL95udnsgu-vXfUAPRNHCId-q-n4uebBF7qEdo9hWELoisZW8KkFGX39zdqSZBFuX4ZA",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00*",
-      "evento": "Internazionali d'Italia (WTA Roma 2026): Elisabetta Cocciaretto (ITA) vs Sinja Kraus (AUT)",
-      "competizione": "Tennis - WTA 1000 Roma",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251, Sky Sport 252, Sky Sport 253, SuperTennis HD",
-      "note": "Orario stimato, non prima delle 19:00, apre la sessione serale sul Campo Centrale.",
-      "fonte": "oasport.it, supertennis.tv",
+      "evento": "Tennis: Sonego (ITA) vs Buse (PER)",
+      "competizione": "ATP Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251/252/253, TV8",
+      "note": "Primo turno ATP. Non prima delle 19:00 sul Campo Centrale. Partita trasmessa anche in chiaro su TV8.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6BPAcs2o1FwSBAii5S5B8YZGcXBOHp6sskNOQfZiQU6ZUBwfxq_dHhBHdtQMtwHkC5N8_UkhxLcL3WWkdZl2l3mpwuVMhyO2snCE11m7GOwLDYtGT724r5qMRKL5QGLp33TXxBUEaBL4z467z7ZcLtcdGf5Hinh122Ux_K7djsSU2KY5Gs-kpWY7P2w2aArJGht9w1lzEqnvOz4ttTO2FaGTmIfIssG8bRTyyWbNR4ETghEg==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "01:30",
-      "evento": "Internazionali d'Italia (ATP & WTA Roma 2026) - 3a giornata",
-      "competizione": "Tennis - ATP Masters 1000 & WTA 1000 Roma",
+      "orario": "20:00",
+      "evento": "Europa e Conference League Prepartita",
+      "competizione": "Calcio",
       "canale": "Sky Sport Uno",
-      "note": "Repliche / Highlights.",
-      "fonte": "guida.tv",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNwyz7FNYsFoWheKabRVxlXKX8ZZ1jRKvoXNzOcw7MkH-4F_qawq9Mdm1anpctIlUwkhQzeLXz9M8HlutYmKBMJol2gk_1uP36wIzUnkmh1OIvlGfgVf9VLLFCmbejCGMvJJc_YYZzIC6P_1eBesTU70r5xcgylKg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:55",
-      "evento": "LIVE INTERNAZIONALI BNL D'ITALIA",
-      "competizione": "Tennis - ATP Masters 1000 & WTA 1000 Roma",
-      "canale": "SuperTennis",
-      "note": "Copertura estesa / Repliche / Highlights della giornata.",
-      "fonte": "superguidatv.it",
+      "orario": "20:30",
+      "evento": "Calcio: Pescara-Spezia",
+      "competizione": "Serie BKT",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8KJrCgIpEc59gbtzln7JisLBQZaFOv4v02BGlcrskpw2rYG3KzDwNXdOLTk-3f00Cf8GwTJqQyk9zz253TTBwxW8kpqb1PRu6dySnFBAfBhUHaQv_4r3tz2tf2hRO6j9FGl1Lbjb8jS1yuQ05qmOJGI2gh5A7k6EcEQF6d4O5cr3gDTGp7htSHSe9xttOMZJmFrDhVHpAXVs-95_TvJhiIOpMFNoZQi7cgTN9o3vrKCI=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "LIVE INTERNAZIONALI BNL D'ITALIA",
-      "competizione": "Tennis - ATP Masters 1000 & WTA 1000 Roma",
-      "canale": "SuperTennis",
-      "note": "Copertura estesa / Repliche / Highlights della giornata.",
-      "fonte": "superguidatv.it",
+      "orario": "20:30",
+      "evento": "Calcio: Cesena-Padova",
+      "competizione": "Serie BKT",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8KJrCgIpEc59gbtzln7JisLBQZaFOv4v02BGlcrskpw2rYG3KzDwNXdOLTk-3f00Cf8GwTJQyk9zz253TTBwxW8kpqb1PRu6dySnFBAfBhUHaQv_4r3tz2tf2hRO6j9FGl1Lbjb8jS1yuQ05qmOJGI2gh5A7k6EcEQF6d4O5cr3gDTGp7htSHSe9xttOMZJmFrDhVHpAXVs-95_TvJhiIOpMFNoZQi7cgTN9o3vrKCI=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00",
-      "evento": "Internazionali d'Italia (ATP & WTA Roma 2026) - 3a giornata",
-      "competizione": "Tennis - ATP Masters 1000 & WTA 1000 Roma",
+      "orario": "20:30",
+      "evento": "Calcio: Frosinone-Mantova",
+      "competizione": "Serie BKT",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8KJrCgIpEc59gbtzln7JisLBQZaFOv4v02BGlcrskpw2rYG3KzDwNXtNOLTk-3f00Cf8GwTJQyk9zz253TTBwxW8kpqb1PRu6dySnFBAfBhUHaQv_4r3tz2tf2hRO6j9FGl1Lbjb8jS1yuQ05qmOJGI2gh5A7k6EcEQF6d4O5cr3gDTGp7htSHSe9xttOMZJmFrDhVHpAXVs-95_TvJhiIOpMFNoZQi7cgTN9o3vrKCI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Calcio: Venezia-Palermo",
+      "competizione": "Serie BKT",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8KJrCgIpEc59gbtzln7JisLBQZaFOv4v02BGlcrskpw2rYG3KzDwNXtNOLTk-3f00Cf8GwTJQyk9zz253TTBwxW8kpqb1PRu6dySnFBAfBhUHaQv_4r3tz2tf2hRO6j9FGl1Lbjb8jS1yuQ05qmOJGI2gh5A7k6EcEQF6d4O5cr3gDTGp7htSHSe9xttOMZJmFrDhVHpAXVs-95_TvJhiIOpMFNoZQi7cgTN9o3vrKCI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Diretta Gol Europa League e Conference League",
+      "competizione": "Calcio",
+      "canale": "Sky Sport, NOW",
+      "note": "Semifinali di ritorno.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSqPwdaiXwLmtzElP_zoaPcvz67waj2AHBwwHpjBpHf3KY4EPqjcpgcw0DOv0WPDhQvUA02NIQbWhQRDbWbS80J98f1B7d7rlxGBXQk1_bAkKv3qvDS74RXGJJS9PiHPScuv6uXOJI1OLSxBKZwMI3pBa9NPbAK1ySXk6h9Egr7A==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Europa e Conference League Postpartita",
+      "competizione": "Calcio",
       "canale": "Sky Sport Uno",
-      "note": "Repliche / Highlights.",
-      "fonte": "guida.tv",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNwyz7FNYsFoWheKabRVxlXKX8ZZ1jRKvoXNzOcw7MkH-4F_qawq9Mdm1anpctIlUwkhQzeLXz9M8HlutYmKBMJol2gk_1uP36wIzUnkmh1OIvlGfgVf9VLLFCmbejCGMvJJc_YYZzIC6P_1eBesTU70r5xcgylKg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "LIVE INTERNAZIONALI BNL D'ITALIA",
-      "competizione": "Tennis - ATP Masters 1000 & WTA 1000 Roma",
-      "canale": "SuperTennis",
-      "note": "Copertura estesa / Repliche / Highlights della giornata.",
-      "fonte": "superguidatv.it",
+      "orario": "23:20",
+      "evento": "Anteprima Sky Sport 24 Night",
+      "competizione": "Rubrica sportiva",
+      "canale": "Cielo",
+      "note": "Anteprima della rubrica di approfondimenti sportivi.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0EKN6h9y7PIZS9iFN3o2dP_mEdIcsVCb67552fYLmItjq9nvqmOAcSwDLgPS8CIL86NkYUFu31-c5RMJwnbZ1PEhCc0nTGxf7u44ZFDZbxZnjaclz-U0MaUJLOeGPDuvJFEhawpHbRtInTIk0ISUPy01YM-BCmQni8zQ-iVhFhw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:25",
+      "evento": "Sky Sport 24 Night",
+      "competizione": "Rubrica sportiva",
+      "canale": "Cielo",
+      "note": "Notizie, highlights, commenti e approfondimenti sul mondo dello sport.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjabg3THHBhncN9ol3_ukb8pRnzVbBL9qxq1wT76NIj7CgXxZt2h10pDW_VFdvT5xasxiFs6aG_ccIRL3quPUebo0tRLKGaL0y2S5HlhGsnNnAJoyod9tovpD4RDScw4oBBAKsLWic7toTH94ovYFjgNr0GRV0NYPhwz2H-DVpTA==",
       "accuratezza_orario": "esatto"
     }
   ]
