@@ -1,121 +1,148 @@
 {
-  "last_updated": "2026-05-09T14:51:07.957260+02:00",
+  "last_updated": "2026-05-09T20:42:46.860630+02:00",
   "events": [
+    {
+      "orario": "03:00",
+      "evento": "GP Miami: Gara Sprint (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replay della Gara Sprint del GP di Miami",
+      "fonte": "Sky Sport F1 - guida Tv Zam",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "GP Miami: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replay della Gara del GP di Miami",
+      "fonte": "Sky Sport F1 - guida Tv Zam",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:40",
+      "evento": "Prove 2",
+      "competizione": "Moto3 - GP Francia",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:25",
+      "evento": "Prove 2",
+      "competizione": "Moto2 - GP Francia",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:10",
+      "evento": "Prove Libere 2",
+      "competizione": "MotoGP - GP Francia",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:50",
+      "evento": "Qualifiche Q1",
+      "competizione": "MotoGP - GP Francia",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta su Sky Sport MotoGP e TV8",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:15",
+      "evento": "Qualifiche Q2",
+      "competizione": "MotoGP - GP Francia",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta su Sky Sport MotoGP e TV8",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:45",
+      "evento": "Qualifiche",
+      "competizione": "Moto3 - GP Francia",
+      "canale": "TV8",
+      "note": "Diretta su TV8",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Jasmine Paolini vs Elise Mertens",
+      "competizione": "Tennis - Internazionali BNL d'Italia (WTA)",
+      "canale": "Sky Sport, SuperTennis, TV8",
+      "note": "Diretta TV su Sky Sport, SuperTennis e TV8 in chiaro. Primo match degli italiani sul Centrale.",
+      "fonte": "Centro Meteo Italiano, Il Fatto Quotidiano, Adnkronos, SuperTennis",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:40",
+      "evento": "Qualifiche",
+      "competizione": "Moto2 - GP Francia",
+      "canale": "TV8",
+      "note": "Diretta su TV8",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
     {
       "orario": "15:00",
       "evento": "Cagliari-Udinese",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "90Min.com",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "36ª giornata di Serie A.",
+      "fonte": "Calciomagazine, Libero, legaseriea.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Sprint Race",
+      "competizione": "MotoGP - GP Francia",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8",
+      "note": "Diretta su Sky Sport MotoGP, Sky Sport Uno e TV8.",
+      "fonte": "OA Sport, FormulaPassion, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Lazio-Inter",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "90Min.com",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "36ª giornata di Serie A.",
+      "fonte": "Calciomagazine, Libero",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "Flavio Cobolli vs Terence Atmane",
+      "competizione": "Tennis - Internazionali BNL d'Italia (ATP)",
+      "canale": "Sky Sport",
+      "note": "Terzo match sulla BNP Paribas Arena.",
+      "fonte": "OA Sport, Centro Meteo Italiano",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "Jannik Sinner vs Sebastian Ofner",
+      "competizione": "Tennis - Internazionali BNL d'Italia (ATP)",
+      "canale": "Sky Sport, TV8",
+      "note": "Match serale sul Centrale. Diretta TV su Sky Sport e TV8 in chiaro.",
+      "fonte": "Il Fatto Quotidiano, Centro Meteo Italiano, Centro Meteo Italiano",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
       "evento": "Lecce-Juventus",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport (canale 251), NOW",
-      "note": "",
-      "fonte": "90Min.com, Libero",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "ATP & WTA 1000 Roma (Internazionali d'Italia)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Plus, Sky Sport 251-253, NOW, Tennis Tv",
-      "note": "Inizio programmazione. Include match di giocatori italiani.",
-      "fonte": "Sport in tv oggi (sabato 9 maggio): orari e programma. Dove vedere gli eventi in streaming, Programmi TV della mattina del 09 Maggio 2026 - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00*",
-      "evento": "Matteo Bellucci vs. Nicolas Etcheverry",
-      "competizione": "Internazionali d'Italia, Secondo Turno (Roma)",
-      "canale": "Sky Sport Uno",
-      "note": "Secondo match dalle ore 11:00",
-      "fonte": "Sport in tv oggi (sabato 9 maggio): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "11:00*",
-      "evento": "Flavio Cobolli vs. Terence Atmane",
-      "competizione": "Internazionali d'Italia, Secondo Turno (Roma)",
-      "canale": "Sky Sport",
-      "note": "Terzo match dalle ore 11:00",
-      "fonte": "Sport in tv oggi (sabato 9 maggio): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "non prima delle 19:00",
-      "evento": "Jannik Sinner vs. Sebastian Ofner",
-      "competizione": "Internazionali d'Italia, Secondo Turno (Roma)",
-      "canale": "TV8, Sky Sport Uno, Sky Sport Tennis",
-      "note": "Quarto match della giornata",
-      "fonte": "Sport in tv oggi (sabato 9 maggio): orari e programma. Dove vedere gli eventi in streaming, Internazionali Roma 2026, oggi gioca Sinner: il programma - Il Fatto Quotidiano",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "11:00*",
-      "evento": "Francesco Pellegrino vs. Arthur Fils",
-      "competizione": "Internazionali d'Italia, Secondo Turno (Roma)",
-      "canale": "Sky Sport",
-      "note": "Quinto match dalle ore 11:00",
-      "fonte": "Sport in tv oggi (sabato 9 maggio): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:30",
-      "evento": "WTA Internazionali BNL d'Italia (replica)",
-      "competizione": "Tennis",
-      "canale": "Supertennis",
-      "note": "",
-      "fonte": "Sport in TV sabato 09 maggio 2026 - Programmi TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "WTA Internazionali BNL d'Italia (replica)",
-      "competizione": "Tennis",
-      "canale": "Supertennis",
-      "note": "",
-      "fonte": "Sport in TV sabato 09 maggio 2026 - Programmi TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:50",
-      "evento": "MotoGP GP Francia, Qualifiche",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "",
-      "fonte": "Sport in tv oggi (sabato 9 maggio): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "MotoGP GP Francia, Sprint",
-      "competizione": "MotoGP",
-      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "MotoGP oggi in tv, GP Francia 2026: orari sabato 9 maggio, streaming, programma TV8",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:55",
-      "evento": "MotoGP Paddock Live Show",
-      "competizione": "Rubrica Motori",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Sport in TV sabato 09 maggio 2026 - Programmi TV",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
+      "note": "36ª giornata di Serie A.",
+      "fonte": "Libero, Calciomagazine, OA Sport",
       "accuratezza_orario": "esatto"
     }
   ]
