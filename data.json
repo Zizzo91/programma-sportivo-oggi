@@ -1,32 +1,185 @@
 {
-  "last_updated": "2026-05-08T21:02:28.589710+02:00",
+  "last_updated": "2026-05-09T03:50:51.047050+02:00",
   "events": [
     {
-      "orario": "20:45",
-      "evento": "Torino vs Sassuolo",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio (202), Sky Sport 251",
+      "orario": "06:00",
+      "evento": "Giro d'Italia",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport + HD",
       "note": "",
-      "fonte": "90Min.com [10], Guida TV - Calcio e Sport in Tv oggi [13], OA Sport [3]",
+      "fonte": "Guida programmi tv Rai Sport + HD - Il Palinsesto di domani",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "UEFA Champions League 2025/2026 - Arsenal - Atletico Madrid (Semifinale. Ritorno)",
+      "competizione": "Champions League",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della semifinale di ritorno, giocata il 5-6 maggio 2026.",
+      "fonte": "Programmi TV del 09 Maggio 2026 su Sky Sport Arena - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:05",
+      "evento": "Giro d'Italia",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport + HD",
+      "note": "",
+      "fonte": "Guida programmi tv Rai Sport + HD - Il Palinsesto di domani",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:50",
+      "evento": "109° Giro d'Italia - Burgas - Veliko Tarnovo (2a tappa)",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport + HD",
+      "note": "",
+      "fonte": "Guida programmi tv Rai Sport + HD - Il Palinsesto di domani, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "MotoGP - GP Francia: Qualifiche",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "Orario esatto da definire. Trasmesse in diretta su Sky Sport MotoGP.",
+      "fonte": "MotoGP, orari qualifiche e Sprint Race GP Francia 2026: programma di domani, tv, streaming, guida TV8 e Sky - OA Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "13:00*",
+      "evento": "Jasmine Paolini vs Elise Mertens",
+      "competizione": "ATP/WTA 1000 Internazionali d'Italia (Roma)",
+      "canale": "Sky Sport (canali da definire)",
+      "note": "Orario stimato, non prima delle 13:00. Partita con giocatrice italiana.",
+      "fonte": "Sinner-Ofner si vedrà su TV8 in chiaro? Orario e programma: ufficiale la decisione di Sky - OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Cagliari-Udinese",
+      "competizione": "Serie A ENILIVE",
+      "canale": "DAZN 1",
+      "note": "36ª Giornata.",
+      "fonte": "Serie A oggi: dove vedere le partite in TV e streaming. Guida completa alla 36ª giornata",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "MotoGP - GP Francia: Qualifiche",
+      "competizione": "MotoGP 2026",
+      "canale": "TV8",
+      "note": "Differita delle qualifiche di MotoGP. Diretta su Sky Sport MotoGP (orario da definire).",
+      "fonte": "MotoGP, orari qualifiche e Sprint Race GP Francia 2026: programma di domani, tv, streaming, guida TV8 e Sky - OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:20",
+      "evento": "Rugby: Serie A Elite maschile",
+      "competizione": "Rugby",
+      "canale": "Rai Sport + HD",
+      "note": "",
+      "fonte": "Guida programmi tv Rai Sport + HD - Il Palinsesto di domani",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Moto3 - GP Francia: Qualifiche",
+      "competizione": "Moto3 2026",
+      "canale": "TV8",
+      "note": "Differita delle qualifiche di Moto3.",
+      "fonte": "MotoGP, orari qualifiche e Sprint Race GP Francia 2026: programma di domani, tv, streaming, guida TV8 e Sky - OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:55",
+      "evento": "Moto2 - GP Francia: Qualifiche",
+      "competizione": "Moto2 2026",
+      "canale": "TV8",
+      "note": "Differita delle qualifiche di Moto2.",
+      "fonte": "MotoGP, orari qualifiche e Sprint Race GP Francia 2026: programma di domani, tv, streaming, guida TV8 e Sky - OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Lazio-Inter",
+      "competizione": "Serie A ENILIVE",
+      "canale": "DAZN 1",
+      "note": "36ª Giornata.",
+      "fonte": "Serie A oggi: dove vedere le partite in TV e streaming. Guida completa alla 36ª giornata",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00*",
-      "evento": "Elisabetta Cocciaretto vs Emma Navarro",
-      "competizione": "Internazionali BNL d'Italia (WTA 1000 Roma)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251, Sky Sport 252, Sky Sport 253, SuperTennis HD",
-      "note": "Match del secondo turno femminile. Orario di inizio 'Non prima delle 19:00' e dipende dai match precedenti.",
-      "fonte": "Il Fatto Quotidiano [9], Internazionali d'Italia 2026 oggi in tv [11], OA Sport [3], ATP e WTA Roma 2026, il programma di venerdì 8 maggio [19]",
+      "evento": "Jannik Sinner vs Sebastian Ofner",
+      "competizione": "ATP/WTA 1000 Internazionali d'Italia (Roma)",
+      "canale": "TV8, Sky Sport (canali da definire)",
+      "note": "Orario stimato, non prima delle 19:00. Partita con giocatore italiano. Diretta TV su TV8 (in chiaro).",
+      "fonte": "Sinner-Ofner si vedrà su TV8 in chiaro? Orario e programma: ufficiale la decisione di Sky - OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:30*",
-      "evento": "Lorenzo Musetti vs Giovanni Mpetshi Perricard",
-      "competizione": "Internazionali BNL d'Italia (ATP Masters 1000 Roma)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251, Sky Sport 252, Sky Sport 253, TV8 (in chiaro)",
-      "note": "Match del secondo turno maschile. Orario di inizio 'Non prima delle 20:30' e dipende dai match precedenti. Trasmesso in chiaro su TV8. [11]",
-      "fonte": "Il Fatto Quotidiano [9], Internazionali d'Italia 2026 oggi in tv [11], OA Sport [3], ATP e WTA Roma 2026, il programma di venerdì 8 maggio [19]",
-      "accuratezza_orario": "stimato"
+      "orario": "19:10",
+      "evento": "MotoGP - GP Francia: Sprint Race",
+      "competizione": "MotoGP 2026",
+      "canale": "TV8",
+      "note": "Differita della Sprint Race di MotoGP. Diretta su Sky Sport MotoGP e Sky Sport Uno (orario da definire).",
+      "fonte": "MotoGP, orari qualifiche e Sprint Race GP Francia 2026: programma di domani, tv, streaming, guida TV8 e Sky - OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:50",
+      "evento": "Giro d'Italia",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport + HD",
+      "note": "",
+      "fonte": "Guida programmi tv Rai Sport + HD - Il Palinsesto di domani",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Lecce-Juventus",
+      "competizione": "Serie A ENILIVE",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "note": "36ª Giornata.",
+      "fonte": "Dove vedere Lecce - Juventus in TV e quando si gioca - Programmi Sky, Serie A oggi: dove vedere le partite in TV e streaming. Guida completa alla 36ª giornata",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "MotoGP - GP Francia: Sprint Race",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "Orario esatto da definire. Trasmessa in diretta su Sky Sport MotoGP e Sky Sport Uno.",
+      "fonte": "MotoGP, orari qualifiche e Sprint Race GP Francia 2026: programma di domani, tv, streaming, guida TV8 e Sky - OA Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "23:30",
+      "evento": "ATP & WTA 1000 Roma 2026 - 5a giornata",
+      "competizione": "ATP/WTA 1000 Internazionali d'Italia (Roma)",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento o highlights del torneo di tennis.",
+      "fonte": "Programmi TV della sera del 09 Maggio 2026 - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00 (10/05)",
+      "evento": "Giro d'Italia",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport + HD",
+      "note": "Parte del palinsesto notturno del 10 maggio 2026.",
+      "fonte": "Guida programmi tv Rai Sport + HD - Il Palinsesto di domani",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00 (10/05)",
+      "evento": "Giro d'Italia",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport + HD",
+      "note": "Parte del palinsesto notturno del 10 maggio 2026.",
+      "fonte": "Guida programmi tv Rai Sport + HD - Il Palinsesto di domani",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
