@@ -1,148 +1,526 @@
 {
-  "last_updated": "2026-05-09T20:42:46.860630+02:00",
+  "last_updated": "2026-05-10T03:50:45.190586+02:00",
   "events": [
     {
-      "orario": "03:00",
-      "evento": "GP Miami: Gara Sprint (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replay della Gara Sprint del GP di Miami",
-      "fonte": "Sky Sport F1 - guida Tv Zam",
+      "orario": "00:00",
+      "evento": "Boca Juniors - Huracan",
+      "competizione": "Campionato Argentino",
+      "canale": "Sportitalia, Como TV",
+      "note": "",
+      "fonte": "goal.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "GP Miami: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replay della Gara del GP di Miami",
-      "fonte": "Sky Sport F1 - guida Tv Zam",
+      "orario": "01:30",
+      "evento": "Atlanta United - LA Galaxy",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "08:40",
-      "evento": "Prove 2",
-      "competizione": "Moto3 - GP Francia",
+      "orario": "01:30",
+      "evento": "Charlotte - Cincinnati",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:30",
+      "evento": "New England Revolution - Philadelphia Union",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Dallas - Real Salt Lake",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:15",
+      "evento": "Nashville - DC United",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:30",
+      "evento": "Colorado Rapids - St. Louis City",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:30",
+      "evento": "Portland Timbers - Sporting KC",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:30",
+      "evento": "SJ Earthquakes - Vancouver Whitecaps",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:30",
+      "evento": "Seattle Sounders - San Diego",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "WTA Internazionali BNL d'Italia (replica)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "WTA Internazionali BNL d'Italia (replica)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:40",
+      "evento": "Warm Up MotoGP",
+      "competizione": "MotoGP",
       "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion",
+      "fonte": "oasport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:25",
-      "evento": "Prove 2",
-      "competizione": "Moto2 - GP Francia",
+      "orario": "11:00",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP (GP Francia)",
       "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "FormulaPassion",
+      "note": "Diretta",
+      "fonte": "oasport.it, formulapassion.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:10",
-      "evento": "Prove Libere 2",
-      "competizione": "MotoGP - GP Francia",
+      "orario": "11:00",
+      "evento": "Napoli - Lecce",
+      "competizione": "Campionato Primavera",
+      "canale": "Sportitalia, Como TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Torino - Lazio",
+      "competizione": "Campionato Primavera",
+      "canale": "Primavera TV",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP (GP Francia)",
       "canale": "Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "oasport.it, formulapassion.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Verona - Como",
+      "competizione": "Serie A",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "FormulaPassion",
+      "fonte": "goal.com, skysport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:50",
-      "evento": "Qualifiche Q1",
-      "competizione": "MotoGP - GP Francia",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP e TV8",
-      "fonte": "FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "Qualifiche Q2",
-      "competizione": "MotoGP - GP Francia",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP e TV8",
-      "fonte": "FormulaPassion",
+      "orario": "12:30",
+      "evento": "Milan - Parma",
+      "competizione": "Calcio Femminile",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:45",
-      "evento": "Qualifiche",
-      "competizione": "Moto3 - GP Francia",
-      "canale": "TV8",
-      "note": "Diretta su TV8",
-      "fonte": "FormulaPassion",
+      "evento": "Celtic - Rangers",
+      "competizione": "Derby di Scozia",
+      "canale": "Como TV",
+      "note": "",
+      "fonte": "goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "Jasmine Paolini vs Elise Mertens",
-      "competizione": "Tennis - Internazionali BNL d'Italia (WTA)",
-      "canale": "Sky Sport, SuperTennis, TV8",
-      "note": "Diretta TV su Sky Sport, SuperTennis e TV8 in chiaro. Primo match degli italiani sul Centrale.",
-      "fonte": "Centro Meteo Italiano, Il Fatto Quotidiano, Adnkronos, SuperTennis",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:40",
-      "evento": "Qualifiche",
-      "competizione": "Moto2 - GP Francia",
-      "canale": "TV8",
-      "note": "Diretta su TV8",
-      "fonte": "FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Cagliari-Udinese",
-      "competizione": "Calcio - Serie A",
+      "evento": "Fiorentina - Cremonese",
+      "competizione": "Campionato Primavera",
       "canale": "DAZN",
-      "note": "36ª giornata di Serie A.",
-      "fonte": "Calciomagazine, Libero, legaseriea.it",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Gent - Anderlecht",
+      "competizione": "Campionato Belga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Fortuna Düsseldorf - Elversberg",
+      "competizione": "Zweite Bundesliga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Maiorca - Villarreal",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Gara MotoGP",
+      "competizione": "MotoGP (GP Francia)",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "Diretta",
+      "fonte": "vertexaisearch.cloud.google.com, formulapassion.it, motosprint.it, skysport.it, ilmiotempolibero.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP (GP Francia)",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "oasport.it, formulapassion.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Sprint Race",
-      "competizione": "MotoGP - GP Francia",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8",
-      "note": "Diretta su Sky Sport MotoGP, Sky Sport Uno e TV8.",
-      "fonte": "OA Sport, FormulaPassion, Fanpage",
+      "evento": "Cremonese - Pisa",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Fiorentina - Genoa",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Nottingham - Newcastle",
+      "competizione": "Premier League",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Burnley - Aston Villa",
+      "competizione": "Premier League",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Crystal Palace - Everton",
+      "competizione": "Premier League",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Juventus - Inter",
+      "competizione": "Calcio Femminile",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Sassuolo - Roma",
+      "competizione": "Calcio Femminile",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Bologna - Cagliari",
+      "competizione": "Campionato Primavera",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Lorenzo Musetti (Italia) - Francisco Cerundolo (Argentina)",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "TV8 HD, Sky Sport (canali da definire)",
+      "note": "Non prima delle 15:00",
+      "fonte": "oasport.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:20",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP (GP Francia)",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "oasport.it, formulapassion.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Amburgo - Friburgo",
+      "competizione": "Calcio",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:15",
+      "evento": "Athletic - Valencia",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:45",
+      "evento": "Partite Eredivisie",
+      "competizione": "Eredivisie",
+      "canale": "DAZN",
+      "note": "PSV, Ajax, Feyenoord in campo",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Gara MotoGP",
+      "competizione": "MotoGP (GP Francia)",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "vertexaisearch.cloud.google.com, formulapassion.it, motosprint.it, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "West Ham - Arsenal",
+      "competizione": "Premier League",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "Colonia - Heidenheim",
+      "competizione": "Bundesliga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Lazio-Inter",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "36ª giornata di Serie A.",
-      "fonte": "Calciomagazine, Libero",
+      "evento": "Parma - Roma",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, Now",
+      "note": "",
+      "fonte": "goal.com, skysport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00*",
-      "evento": "Flavio Cobolli vs Terence Atmane",
-      "competizione": "Tennis - Internazionali BNL d'Italia (ATP)",
-      "canale": "Sky Sport",
-      "note": "Terzo match sulla BNP Paribas Arena.",
-      "fonte": "OA Sport, Centro Meteo Italiano",
+      "orario": "18:00",
+      "evento": "Lazio - Ternana",
+      "competizione": "Calcio Femminile",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Oviedo - Getafe",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Union SG - Mechelen",
+      "competizione": "Campionato Belga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "AVS - Porto",
+      "competizione": "Campionato Portoghese",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Mainz - Union",
+      "competizione": "Bundesliga",
+      "canale": "Sky Sport 257, Now",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Al Hazem - Al Hilal",
+      "competizione": "Campionato Saudita",
+      "canale": "Sportitalia",
+      "note": "Diretta",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30*",
+      "evento": "Matteo Arnaldi (Italia) - Rafael Jodar (Spagna)",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "Sky Sport (canale da definire)",
+      "note": "Non prima delle 20:30",
+      "fonte": "oasport.it",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "19:00*",
-      "evento": "Jannik Sinner vs Sebastian Ofner",
-      "competizione": "Tennis - Internazionali BNL d'Italia (ATP)",
-      "canale": "Sky Sport, TV8",
-      "note": "Match serale sul Centrale. Diretta TV su Sky Sport e TV8 in chiaro.",
-      "fonte": "Il Fatto Quotidiano, Centro Meteo Italiano, Centro Meteo Italiano",
-      "accuratezza_orario": "stimato"
+      "orario": "20:42",
+      "evento": "Barcellona - Real Madrid",
+      "competizione": "Calcio",
+      "canale": "Rete 4",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Lecce-Juventus",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
-      "note": "36ª giornata di Serie A.",
-      "fonte": "Libero, Calciomagazine, OA Sport",
+      "evento": "Milan - Atalanta",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "PSG - Brest",
+      "competizione": "Ligue 1",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "goal.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "WTA Internazionali BNL d'Italia (replica)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Campionato Argentino",
+      "competizione": "Calcio",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:45",
+      "evento": "La nuova DS",
+      "competizione": "Rubrica Calcio",
+      "canale": "Rai 2",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "WTA Internazionali BNL d'Italia (replica)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "Huracan - San Lorenzo",
+      "competizione": "Campionato Argentino",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "programmitv.com",
       "accuratezza_orario": "esatto"
     }
   ]
