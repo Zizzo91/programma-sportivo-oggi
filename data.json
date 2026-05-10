@@ -1,526 +1,130 @@
 {
-  "last_updated": "2026-05-10T03:50:45.190586+02:00",
+  "last_updated": "2026-05-10T09:54:50.820722+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Boca Juniors - Huracan",
-      "competizione": "Campionato Argentino",
-      "canale": "Sportitalia, Como TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "Atlanta United - LA Galaxy",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "Charlotte - Cincinnati",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "New England Revolution - Philadelphia Union",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Dallas - Real Salt Lake",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:15",
-      "evento": "Nashville - DC United",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:30",
-      "evento": "Colorado Rapids - St. Louis City",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:30",
-      "evento": "Portland Timbers - Sporting KC",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:30",
-      "evento": "SJ Earthquakes - Vancouver Whitecaps",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:30",
-      "evento": "Seattle Sounders - San Diego",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "WTA Internazionali BNL d'Italia (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "WTA Internazionali BNL d'Italia (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:40",
-      "evento": "Warm Up MotoGP",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "oasport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "11:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP (GP Francia)",
-      "canale": "Sky Sport MotoGP",
-      "note": "Diretta",
-      "fonte": "oasport.it, formulapassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Napoli - Lecce",
-      "competizione": "Campionato Primavera",
-      "canale": "Sportitalia, Como TV",
+      "evento": "Gara",
+      "competizione": "Moto3 - GP Francia",
+      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
       "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Torino - Lazio",
-      "competizione": "Campionato Primavera",
-      "canale": "Primavera TV",
-      "note": "",
-      "fonte": "goal.com",
+      "fonte": "https://www.ilfattoquotidiano.it/2026/05/08/motogp-francia-2026-orari-dove-vedere-in-tv-e-streaming/6580970/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP (GP Francia)",
-      "canale": "Sky Sport MotoGP",
-      "note": "Diretta",
-      "fonte": "oasport.it, formulapassion.it",
+      "evento": "Gara",
+      "competizione": "Moto2 - GP Francia",
+      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
+      "note": "",
+      "fonte": "https://www.ilfattoquotidiano.it/2026/05/08/motogp-francia-2026-orari-dove-vedere-in-tv-e-streaming/6580970/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Verona - Como",
+      "evento": "Hellas Verona - Como",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, DAZN 1 (Canale Sky 214)",
       "note": "",
-      "fonte": "goal.com, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Milan - Parma",
-      "competizione": "Calcio Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Celtic - Rangers",
-      "competizione": "Derby di Scozia",
-      "canale": "Como TV",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Fiorentina - Cremonese",
-      "competizione": "Campionato Primavera",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Gent - Anderlecht",
-      "competizione": "Campionato Belga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Fortuna Düsseldorf - Elversberg",
-      "competizione": "Zweite Bundesliga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
+      "fonte": "https://www.90min.com/it/posts/guida-calcio-tv-partite-oggi-10-maggio-2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00",
-      "evento": "Maiorca - Villarreal",
-      "competizione": "La Liga",
-      "canale": "DAZN",
+      "evento": "Gara",
+      "competizione": "MotoGP - GP Francia",
+      "canale": "Sky Sport MotoGP (208), Sky Sport Uno (201)",
       "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP (GP Francia)",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "Diretta",
-      "fonte": "vertexaisearch.cloud.google.com, formulapassion.it, motosprint.it, skysport.it, ilmiotempolibero.it",
+      "fonte": "https://www.ilfattoquotidiano.it/2026/05/08/motogp-francia-2026-orari-dove-vedere-in-tv-e-streaming/6580970/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:05",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP (GP Francia)",
+      "evento": "Gara (Differita)",
+      "competizione": "Moto3 - GP Francia",
       "canale": "TV8",
-      "note": "Differita",
-      "fonte": "oasport.it, formulapassion.it",
+      "note": "",
+      "fonte": "https://www.oasport.it/2026/05/motogp-oggi-in-tv-gp-francia-2026-orari-warm-up-e-gara-streaming-programma-tv8-e-sky/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Cremonese - Pisa",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, DAZN 1 (Canale Sky 214)",
       "note": "",
-      "fonte": "goal.com, skysport.it",
+      "fonte": "https://www.90min.com/it/posts/guida-calcio-tv-partite-oggi-10-maggio-2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Fiorentina - Genoa",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, DAZN 2 (Canale Sky 215)",
       "note": "",
-      "fonte": "goal.com, skysport.it",
+      "fonte": "https://www.90min.com/it/posts/guida-calcio-tv-partite-oggi-10-maggio-2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Nottingham - Newcastle",
-      "competizione": "Premier League",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
+      "evento": "Reggina - Athletic Palermo",
+      "competizione": "Serie D - Playoff",
+      "canale": "N/A",
+      "note": "Partita non trasmessa in chiaro in TV.",
+      "fonte": "https://www.legadilettanti.it/serie-d-al-via-la-post-season-il-programma-gare-del-9-e-10-maggio-rinviati-al-17-maggio-i-playoff-del-girone-c-e-i-playout-del-girone-f/",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Burnley - Aston Villa",
-      "competizione": "Premier League",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Crystal Palace - Everton",
-      "competizione": "Premier League",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Juventus - Inter",
-      "competizione": "Calcio Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Sassuolo - Roma",
-      "competizione": "Calcio Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Bologna - Cagliari",
-      "competizione": "Campionato Primavera",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "Lorenzo Musetti (Italia) - Francisco Cerundolo (Argentina)",
-      "competizione": "ATP Masters 1000 Roma",
-      "canale": "TV8 HD, Sky Sport (canali da definire)",
-      "note": "Non prima delle 15:00",
-      "fonte": "oasport.it",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "15:20",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP (GP Francia)",
+      "evento": "Gara (Differita)",
+      "competizione": "Moto2 - GP Francia",
       "canale": "TV8",
-      "note": "Differita",
-      "fonte": "oasport.it, formulapassion.it",
+      "note": "",
+      "fonte": "https://www.oasport.it/2026/05/motogp-oggi-in-tv-gp-francia-2026-orari-warm-up-e-gara-streaming-programma-tv8-e-sky/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:30",
-      "evento": "Amburgo - Friburgo",
-      "competizione": "Calcio",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:15",
-      "evento": "Athletic - Valencia",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:45",
-      "evento": "Partite Eredivisie",
-      "competizione": "Eredivisie",
-      "canale": "DAZN",
-      "note": "PSV, Ajax, Feyenoord in campo",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
+      "evento": "6a giornata (sessione diurna)",
+      "competizione": "ATP & WTA 1000 Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Arena, SuperTennis",
+      "note": "Incontri con italiani: Elisabetta Cocciaretto vs Iga Swiatek (singolare WTA), Grant/Ruggeri vs Cirstea/Cristian (doppio WTA). Gli orari specifici dei match sono stimati all'interno della sessione.",
+      "fonte": "https://www.guida.tv/p/sky-sport-uno/pomeriggio/2026-05-10/; https://www.oasport.it/2026/05/tennis-in-tv-oggi-10-maggio-dove-vedere-gli-internazionali-ditalia-a-roma-orari-sky-supertennis-e-programma/",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "17:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP (GP Francia)",
+      "evento": "Gara (Differita)",
+      "competizione": "MotoGP - GP Francia",
       "canale": "TV8",
-      "note": "Differita",
-      "fonte": "vertexaisearch.cloud.google.com, formulapassion.it, motosprint.it, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:30",
-      "evento": "West Ham - Arsenal",
-      "competizione": "Premier League",
-      "canale": "DAZN",
       "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:30",
-      "evento": "Colonia - Heidenheim",
-      "competizione": "Bundesliga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
+      "fonte": "https://www.fanpage.it/sport/motogp/live-motogp-francia-bagnaia-in-pole-per-la-gara-del-gp-le-mans-orari-tv-su-tv8-e-sky-e-dove-vederla-in-diretta-e-streaming/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Parma - Roma",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, Now",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport (251), NOW",
       "note": "",
-      "fonte": "goal.com, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Lazio - Ternana",
-      "competizione": "Calcio Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Oviedo - Getafe",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Union SG - Mechelen",
-      "competizione": "Campionato Belga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
+      "fonte": "https://www.90min.com/it/posts/guida-calcio-tv-partite-oggi-10-maggio-2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "AVS - Porto",
-      "competizione": "Campionato Portoghese",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Mainz - Union",
-      "competizione": "Bundesliga",
-      "canale": "Sky Sport 257, Now",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Al Hazem - Al Hilal",
-      "competizione": "Campionato Saudita",
-      "canale": "Sportitalia",
-      "note": "Diretta",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30*",
-      "evento": "Matteo Arnaldi (Italia) - Rafael Jodar (Spagna)",
-      "competizione": "ATP Masters 1000 Roma",
-      "canale": "Sky Sport (canale da definire)",
-      "note": "Non prima delle 20:30",
-      "fonte": "oasport.it",
+      "evento": "6a giornata (sessione serale)",
+      "competizione": "ATP & WTA 1000 Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Arena, SuperTennis",
+      "note": "Incontri con italiani: Elisabetta Cocciaretto vs Iga Swiatek (singolare WTA), Grant/Ruggeri vs Cirstea/Cristian (doppio WTA). Gli orari specifici dei match sono stimati all'interno della sessione.",
+      "fonte": "https://www.guida.tv/p/sky-sport-uno/pomeriggio/2026-05-10/; https://www.oasport.it/2026/05/tennis-in-tv-oggi-10-maggio-dove-vedere-gli-internazionali-ditalia-a-roma-orari-sky-supertennis-e-programma/",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:42",
-      "evento": "Barcellona - Real Madrid",
-      "competizione": "Calcio",
-      "canale": "Rete 4",
-      "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Milan - Atalanta",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, DAZN 1 (Canale Sky 214)",
       "note": "",
-      "fonte": "goal.com, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "PSG - Brest",
-      "competizione": "Ligue 1",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "WTA Internazionali BNL d'Italia (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Campionato Argentino",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:45",
-      "evento": "La nuova DS",
-      "competizione": "Rubrica Calcio",
-      "canale": "Rai 2",
-      "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "WTA Internazionali BNL d'Italia (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:15",
-      "evento": "Huracan - San Lorenzo",
-      "competizione": "Campionato Argentino",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "programmitv.com",
+      "fonte": "https://www.90min.com/it/posts/guida-calcio-tv-partite-oggi-10-maggio-2026",
       "accuratezza_orario": "esatto"
     }
   ]
