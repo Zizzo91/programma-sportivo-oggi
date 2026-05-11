@@ -1,104 +1,41 @@
 {
-  "last_updated": "2026-05-11T10:56:40.607217+02:00",
+  "last_updated": "2026-05-11T16:22:53.581327+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "Rugby: Serie A Elite Maschile 2025/26 1a semifinale (replica)",
-      "competizione": "Rugby Serie A Elite Maschile",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuOq3eageK_d1aVg3BbSxzc2FkOtN_9dst2_rnOwxyeBh49pEXSGsfHKd1VEF-yVvXC4FNnaiwgqTqX2MOV7osjdDLWtG9zrengfgH5zImxNM7njLfEQWQGnX4BUn4AeIDOt5i-2HQPO6o-w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Rugby: Serie A Elite Maschile 2025/26 2a semifinale (replica)",
-      "competizione": "Rugby Serie A Elite Maschile",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuOq3eageK_d1aVg3BbSxzc2FkOtN_9dst2_rnOwxyeBh49pEXSGsfHKd1VEF-yVvXC4FNnaiwgqTqX2MOV7osjdDLWtG9zrengfgH5zImxNM7njLfEQWQGnX4BUn4AeIDOt5i-2HQPO6o-w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "MotoGP 2026 - GP Francia: Gara (replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDhn_IWw_xwYqGaKII-P2LpzzuEN1SI6Cf5HK_Gr4oMxqx6934AhTvzp_ULMMnQgLR_9zr5D0-i6UmlF8cIVrmigtrQt3GG-HoyNrN1jZgA9NC9Q0qtccFfebU8EIYCvKkTJLnOAycZakrbMkGmQr7Mo6ykN_WEuoyFFE==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Moto3 - Gara GP Francia (differita)",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhB72I2bljU839-qibjf8PZvmr1eAGuouR74YTlijnEy3j-ad3Br2TJvV9BVDwDV3P9UwP0trVj49Ye1KxIggCTrHZfDpvsJ8VCKf5I7oEsXtQ6AnMDeO2LV3EurnLbjYOjym0xz3j9el-9d1ilCrcN95LdvikzNxKHbmp4DEqCXZwZ45IN3SYYF5S6m0==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Tennis: Jannik Sinner vs Alexei Popyrin",
-      "competizione": "ATP 1000 Internazionali d'Italia, 3° turno",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, TV8",
-      "note": "Non prima delle 15:00. Disponibile in chiaro su TV8.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXh8VOlO-DI6M6OY3Dk2jvt4gsyVA_A-weso7fDdUOlsVcpxPq9avHWLes8ro2wNV-OddQjSRMurFbocUbDpf5KzeVGf9EJPeDD6yQYGfBbHNFvD6eTfxG2R0LwgvhdoY1yAkUHlOwAZ9fEd6syrawtdPA51o1qoiMxybkbgqxsVNd84M0kgqu792Q3_k6dVwnYpFkiV9LIjHMzxSvbU-Q6hzil8y7tJFVXg2QRyChi0qRog==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:15",
-      "evento": "Moto2 - Gara GP Francia (differita)",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhB72I2bljU839-qibjf8PZvmr1eAGuouR74YTlijnEy3j-ad3Br2TJvV9BVDwDV3P9UwP0trVj49Ye1KxIggCTrHZfDpvsJ8VCKf5I7oEsXtQ6AnMDeO2LV3EurnLbjYOjym0xz3j9el-9d1ilCrcN95LdvikzNxKHbmp4DEqCXZwZ45IN3SYYF5S6m0==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "Tennis: Flavio Cobolli vs Thiago Agustin Tirante",
-      "competizione": "ATP 1000 Internazionali d'Italia, 3° turno",
-      "canale": "Sky Sport Uno",
-      "note": "Non prima delle 19:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXh8VOlO-DI6M6OY3Dk2jvt4gsyVA_A-weso7fDdUOlsVcpxPq9avHWLes8ro2wNV-OddQjSRMurFbocUbDpf5KzeVGf9EJPeDD6yQYGfBbHNFvD6eTfxG2R0LwgvhdoY1yAkUHlOwAZ9fEd6syrawtdPA51o1qoiMxybkbgqxsVNd84M0kgqu792Q3_k6dVwnYpFkiV9LIjHMzxSvbU-Q6hzil8y7tJFVXg2QRyChi0qRog==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Tennis: Sara Errani/Jasmine Paolini vs Gaia Maduzzi/Vittoria Paganetti",
-      "competizione": "WTA 1000 Internazionali d'Italia, 1° turno doppio",
-      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena",
-      "note": "5° match non prima delle 11:00. Orario stimato in base all'ordine di gioco.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXh8VOlO-DI6M6OY3Dk2jvt4gsyVA_A-weso7fDdUOlsVcpxPq9avHWLes8ro2wNV-OddQjSRMurFbocUbDpf5KzeVGf9EJPeDD6yQYGfBbHNFvD6eTfxG2R0LwgvhdoY1yAkUHlOwAZ9fEd6syrawtdPA51o1qoiMxybkbgqxsVNd84M0kgqu792Q3_k6dVwnYpFkiV9LIjHMzxSvbU-Q6hzil8y7tJFVXg2QRyChi0qRog==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Tennis: Francisco Cerundolo/Luciano Darderi vs Austin Krajicek/Nikola Mektic",
-      "competizione": "ATP 1000 Internazionali d'Italia, 1° turno doppio",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Match successivo ad altri incontri sul Campo 13, a partire dalle 11:00. Orario stimato in base all'ordine di gioco.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6YO8JGqW0bHVqDIswpxQtUnMeEl6w1qFi_60pUzedSoRyOhtaDU2eYFnmcOOXmpM4qmt1xAvUz_vTDEpJfN3xbqC50GeD5nDbsVcqtfIrYfklnYSOESgt6z_Cj1q3s9yCK2g_bmz1WNJK3FyGJlUkGFoU==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:30",
-      "evento": "MotoGP - Gara GP Francia (differita)",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhB72I2bljU839-qibjf8PZvmr1eAGuouR74YTlijnEy3j-ad3Br2TJvV9BVDwDV3P9UwP0trVj49Ye1KxIggCTrHZfDpvsJ8VCKf5I7oEsXtQ6AnMDeO2LV3EurnLbjYOjym0xz3j9el-9d1ilCrcN95LdvikzNxKHbmp4DEqCXZwZ45IN3SYYF5S6m0==",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "20:45",
-      "evento": "Calcio: Napoli-Bologna",
+      "evento": "Napoli - Bologna",
       "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_wMi3xMvNSJE3x0U9uza3GIKg7yoQsA3K6_H9MZRDd4I5D1Gye1tBqaTdE8sBuzgyfID-hXYTKS0L4ajeyJq2gWPjFKq7pkJJIPE3ZPv_xOKezCtWPd0wUZtv6KZ2xzP0_u20UhjjbmjRnjqkWlZ3jVkLI26n9D3Y2ijJvoTrRqYvwfH71ajbb8bhub806o7HwuiY2hNwVoTjZIgAkRV0uFGG-8fggG2uSWPVBbGavA==",
+      "canale": "Sky Sport",
+      "note": "Partita della 36ª giornata di Serie A.",
+      "fonte": "Sky Sport, Eurosport",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Internazionali BNL d'Italia (partite con italiani)",
+      "competizione": "ATP Masters 1000",
+      "canale": "Sky Sport Tennis, SuperTennis",
+      "note": "Il torneo si svolge dal 6 al 17 maggio 2026. Orari specifici delle singole partite con giocatori italiani da definire in base al programma giornaliero del torneo.",
+      "fonte": "ATP Tour, SuperTennis, Sky Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Internazionali BNL d'Italia (partite con italiane)",
+      "competizione": "WTA 1000",
+      "canale": "Sky Sport Tennis, SuperTennis",
+      "note": "Il torneo si svolge dal 5 al 17 maggio 2026. Orari specifici delle singole partite con giocatrici italiane da definire in base al programma giornaliero del torneo.",
+      "fonte": "WTA Tour, SuperTennis, Sky Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Repliche/Highlights GP Francia (Le Mans)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "La gara principale del Gran Premio di Francia si è svolta il 10 maggio 2026. Repliche e highlights saranno trasmessi durante la giornata dell'11 maggio.",
+      "fonte": "Sky Sport, FormulaPassion",
+      "accuratezza_orario": "tba"
     }
   ]
 }
