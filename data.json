@@ -1,41 +1,59 @@
 {
-  "last_updated": "2026-05-11T16:22:53.581327+02:00",
+  "last_updated": "2026-05-11T21:26:32.047360+02:00",
   "events": [
     {
+      "orario": "15:00*",
+      "evento": "Jannik Sinner vs Alexei Popyrin",
+      "competizione": "ATP Roma, 3° turno",
+      "canale": "TV8, Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Campo Centrale, non prima delle",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX3fa833Z2f4WpJGUPo0VyJ_o-nq5REQEsOwNJK0wJMC_xMth1P_hfX-NTtJFcpLAMj9XIhYjwAxmejmQ93BqGRdGw41S8AoLwz5Nnnb-ObBVb5IPzrPj5Q2lJFJ-u586pX-_9K6b2ic_j9RLs2plfLXLf2LngR0oPi7gVWZ9mJBv4RGVWPkRHmlreFh-xxnHTwIyZCWeMtEJUwHlrJ4RjH6KcXZ_9Abi972qvS2szyp3An9nFsXASjyzn6w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAwHA6PFk__miI2XQb_qiSzSUDhL2l_rJJhMBSHi5EWWKcPvy9ZOgcXrmVgIgMU7AOjZYtARwefkCj9UBFXCwZOCSfPnoULSEmJ0MdWeucEc0agyAMM9N9FFOYiingdvg7wwYEBv4HH_ofW6F1wM7DGsd0wPjYP3c5FsY2-I7O7_my_cVrc_rrdbPFxS3DYc_KpINOBreYKZvffMrFFlCDM5YeoqKv7Vg7xdjYRs==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv-owHlKvTVDqTGGxNx3JOmA1t2b96ejKJxFXk_DrSVcdq65-MioFQdIqHPQu_vc2RvGaiLizeP9G6-jLeR0MDP-Z-0pbnQ-0JurN9S4USIkU_eKcj5TLW026eh6rpZ3IMC5kmB4A0XqhWDo3uFB9ll7FRR5f8g9w2RMU_UYfnGz9GoCWOBEdQIARiuhbg0aTZ9Nd621M76z90H7IFi8MOwkCF6fSX5svn8USeQiD9hfO3lmjWSRchHz3IoRLXhlNgfhcrVzPDzKp-VC9ohBwiCF0LzxJZ17VzXIKizWQg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4-_f6s943qN6kJlz9NgW31j2AzYnJn3AeukkL2jzSXxPUz6KXe0bz4Z2_xXZlUvVSch6ZRhTAh6J7muZzFqsssuNG3dgSs8yItIYyc9iyDzGcHfJHNe5x9LoetTGLtJRgMUfm3UCBT9v_Tdjp-HIWIkoPlMDOou3wp8tFONqVmXmDI3o0HOc6-BInA1kIzVJ1qhzQe_mhznuEMnlkiCLv6xYLTJ-UxL0O5rwR1L2I9QMbpg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGKSuvYlrycfW_RwUlXmkAOxbGOQUGW60QvcBa1ulJB-sx48A0trvQj-B2FZC3RwhQ_KBVwspiOHebvXN4SOh4qLtOuki0TrGcEb4kn8iUqvL0ahfv1MTGMtJh_-uxRS-5IYwXY5GDW6KEgtWX49IvlsxgE65eEClvZ7FQG_5HU2Q8_aN9YYOpXpYL7dDyredX7dhMAdnasAHBjKrhOCKr-tsBiDHmNmCAbt1jmMSYA4==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsCY0jQGxWUZdgynJKrQUberpMXd9XouZw-HvaPsltY37jPGCJoMGDtIk5vzM_SpBqRECevuz1G7XTHKXUV7syDGZNRrQAMpbRVOMdDiKBNQVWitmZJI2RYSa_SLMcrRbv6sc4h-Bz6vItgLvcnfxXzFrVfySZmBGMqQEa_u8Yw0gZH9-n0-YNXmaSzvo8UhJ5SCMg7FZSJeahZZ6XavRegguHhp-vYOdA08RupipT-8hTMV0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNaP-EZ9LjfYEmkk2X-JGAKgCPJnsorGrRgTpKk8tu-zwRJVAkPE5r1XtnCSl6tqSGY52cahTpYsirQXOcYELpPJjlvpHXQbbcEnWEljw5czLNPtpl_Uskxu2SG64uS8ijvnzawFm_T_ckSSeSgF_SaIikUJeJruKCg-5-uOiPyI1F7E9eGjwQ81NtKhC0NJHoCoeKxlMCnq7kuBPvcS8gj3xrlyq0yuZ6wuPVHUyKaDs4aolfvQgf2DB2kqDzu5De04e5dGLIeVdZOAH8OF_FgYPwRQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX9OJsNHbpzpAzHJMKc02jtdf8JiuX5OviJEb0g_-u8vneadkbHyeJpiTY2Eyi_oFWlgVo_Bf1mBS3YjkNRlJWr5QlOAMqWnFjjZ3x6ZwQN9kV_8OWFHhOB-EvJArHdobZmyTRyYjqA5DcnZOfGnb8VpIzrcsGr_xNLp8wpdN77UteDnVL3a8YpbtREWWooQi8CscmxKGSvU9IZsIGZxtWXDwmbaY2MjcwpBIp59acxkG5Ik9g6YGEhiwhmUfFkOE==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "Flavio Cobolli vs Thiago Agustin Tirante",
+      "competizione": "ATP Roma, 3° turno",
+      "canale": "Sky Sport, Sky Go, NOW, Tennis TV",
+      "note": "Campo Centrale, primo match sessione serale, non prima delle",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX3fa833Z2f4WpJGUPo0VyJ_o-nq5REQEsOwNJK0wJMC_xMth1P_hfX-NTtJFcpLAMj9XIhYjwAxmejmQ93BqGRdGw41S8AoLwz5Nnnb-ObBVb5IPzrPj5Q2lJFJ-u586pX-_9K6b2ic_j9RLs2plfLXLf2LngR0oPi7gVWZ9mJBv4RGVWPkRHmlreFh-xxnHTwIyZCWeMtEJUwHlrJ4RjH6KcXZ_9Abi972qvS2szyp3An9nFsXASjyzn6w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv-owHlKvTVDqTGGxNx3JOmA1t2b96ejKJxFXk_DrSVcdq65-MioFQdIqHPQu_vc2RvGaiLizeP9G6-jLeR0MDP-Z-0pbnQ-0JurN9S4USIkU_eKcj5TLW026eh6rpZ3IMC5kmB4A0XqhWDo3uFB9ll7FRR5f8g9w2RMU_UYfnGz9GoCWOBEdQIARiuhbg0aTZ9Nd621M76z90H7IFi8MOwkCF6fSX5svn8USeQiD9hfO3lmjWSRchHz3IoRLXhlNgfhcrVzPDzKp-VC9ohBwiCF0LzxJZ17VzXIKizWQg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPut-x3gXmHmTlOdA1DqQj0GBvWV7u3NQQlnHUZa2yAJVMGA7xKcpC-FMxKAkcikkm3-MzjEOf2-Bsx1EUXBvZIlohUHUORln5YDTaBQqyghWIU0TrQybssmEx3jujNLvQ3euxHbq_W698p5xjAbI58GSI9_AIm6Yws7UYGjiZSD1ULU8xknhBH3JgXNqVZOgw1KcTyOeFd-3MO4DiU7ZyTbn-yTMhqNi95YnlTZCwTIqtNOqfe83ndnZzA7P5ITqpkTRDNW6qscenhd1yg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNaP-EZ9LjfYEmkk2X-JGAKgCPJnsorGrRgTpKk8tu-zwRJVAkPE5r1XtnCSl6tqSGY52cahTpYsirQXOcYELpPJjlvpHXQbbcEnWEljw5czLNPtpl_Uskxu2SG64uS8ijvnzawFm_T_ckSSeSgF_SaIikUJeJruKCg-5-uOiPyI1F7E9eGjwQ81NtKhC0NJHoCoeKxlMCnq7kuBPvcS8gj3xrlyq0yuZ6wuPVHUyKaDs4aolfvQgf2DB2kqDzu5De04e5dGLIeVdZOAH8OF_FgYPwRQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX9OJsNHbpzpAzHJMKc02jtdf8JiuX5OviJEb0g_-u8vneadkbHyeJpiTY2Eyi_oFWlgVo_Bf1mBS3YjkNRlJWr5QlOAMqWnFjjZ3x6ZwQN9kV_8OWFHhOB-EvJArHdobZmyTRyYjqA5DcnZOfGnb8VpIzrcsGr_xNLp8wpdN77UteDnVL3a8YpbtREWWooQi8CscmxKGSvU9IZsIGZxtWXDwmbaY2MjcwpBIp59acxkG5Ik9g6YGEhiwhmUfFkOE==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Sara Errani/Jasmine Paolini vs Gaia Maduzzi/Vittoria Paganetti",
+      "competizione": "WTA Roma, 1° turno doppio",
+      "canale": "Sky Sport, Sky Go, NOW, SuperTenniX",
+      "note": "BNP Paribas Arena, 5° match dalle 11:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX3fa833Z2f4WpJGUPo0VyJ_o-nq5REQEsOwNJK0wJMC_xMth1P_hfX-NTtJFcpLAMj9XIhYjwAxmejmQ93BqGRdGw41S8AoLwz5Nnnb-ObBVb5IPzrPj5Q2lJFJ-u586pX-_9K6b2ic_j9RLs2plfLXLf2LngR0oPi7gVWZ9mJBv4RGVWPkRHmlreFh-xxnHTwIyZCWeMtEJUwHlrJ4RjH6KcXZ_9Abi972qvS2szyp3An9nFsXASjyzn6w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv-owHlKvTVDqTGGxNx3JOmA1t2b96ejKJxFXk_DrSVcdq65-MioFQdIqHPQu_vc2RvGaiLizeP9G6-jLeR0MDP-Z-0pbnQ-0JurN9S4USIkU_eKcj5TLW026eh6rpZ3IMC5kmB4A0XqhWDo3uFB9ll7FRR5f8g9w2RMU_UYfnGz9GoCWOBEdQIARiuhbg0aTZ9Nd621M76z90H7IFi8MOwkCF6fSX5svn8USeQiD9hfO3lmjWSRchHz3IoRLXhlNgfhcrVzPDzKp-VC9ohBwiCF0LzxJZ17VzXIKizWQg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4-_f6s943qN6kJlz9NgW31j2AzYnJn3AeukkL2jzSXxPUz6KXe0bz4Z2_xXZlUvVSch6ZRhTAh6J7muZzFqsssuNG3dgSs8yItIYyc9iyDzGcHfJHNe5x9LoetTGLtJRgMUfm3UCBT9v_Tdjp-HIWIhYjwAxmejmQ93BqGRdGw41S8AoLwz5Nnnb-ObBVb5IPzrPj5Q2lJFJ-u586pX-_9K6b2ic_j9RLs2plfLXLf2LngR0oPi7gVWZ9mJBv4RGVWPkRHmlreFh-xxnHTwIyZCWeMtEJUwHlrJ4RjH6KcXZ_9Abi972qvS2szyp3An9nFsXASjyzn6w==",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Simone Bolelli/Andrea Vavassori vs Yuki Bhambri/Michael Venus",
+      "competizione": "ATP Roma, 1° turno doppio",
+      "canale": "Sky Sport, Sky Go, NOW, Tennis TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4-_f6s943qN6kJlz9NgW31j2AzYnJn3AeukkL2jzSXxPUz6KXe0bz4Z2_xXZlUvVSch6ZRhTAh6J7muZzFqsssuNG3dgSs8yItIYyc9iyDzGcHfJHNe5x9LoetTGLtJRgMUfm3UCBT9v_Tdjp-HIWIkoPlMDOou3wp8tFONqVmXmDI3o0HOc6-BInA1kIzVJ1qhzQe_mhznuEMnlkiCLv6xYLTJ-UxL0O5rwR1L2I9QMbpg==",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Luciano Darderi/Francisco Cerundolo vs Austin Krajicek/Nikola Mektic",
+      "competizione": "ATP Roma, 1° turno doppio",
+      "canale": "Sky Sport, Sky Go, NOW, Tennis TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4-_f6s943qN6kJlz9NgW31j2AzYnJn3AeukkL2jzSXxPUz6KXe0bz4Z2_xXZlUvVSch6ZRhTAh6J7muZzFqsssuNG3dgSs8yItIYyc9iyDzGcHfJHNe5x9LoetTGLtJRgMUfm3UCBT9v_Tdjp-HIWIkoPlMDOou3wp8tFONqVmXmDI3o0HOc6-BInA1kIzVJ1qhzQe_mhznuEMnlkiCLv6xYLTJ-UxL0O5rwR1L2I9QMbpg==",
+      "accuratezza_orario": "tba"
+    },
+    {
       "orario": "20:45",
-      "evento": "Napoli - Bologna",
+      "evento": "Napoli vs Bologna",
       "competizione": "Serie A",
-      "canale": "Sky Sport",
-      "note": "Partita della 36ª giornata di Serie A.",
-      "fonte": "Sky Sport, Eurosport",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqV4tq_0y7tJVRg9UzTxjZ8qo2wL5F1Omem-9d0mD5wLJPwbAZ36_vSzzfpIsD7kT3vNi1DeAIBUsh829z-twOUmwUbDgG9Oml4OG0hlA7G_Dk-r7u7s5fmdJhG_NTK39WlJE3CWEdfNj6psbVQSzZa_cduY76DfLjyJVgj8vxpRCvn85oQ9dnL35346Lc5yuLW1DGH9M2, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGID6xy9RPzRWYFNir0Nq1Gqan8yH5U-PwwznR8czmnd4Gs_DTE0mkX3duFVAXPeIlX568tJDX_xMPYFQ_fsbWVBsEkUys53cc-ZqqjywpDclzCA8aigoK4boS0qJKR2w_RvbzTHXnVUx6MB4S7dQppz_er4HoZqaP7y5T-LYLiI1Q=",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Internazionali BNL d'Italia (partite con italiani)",
-      "competizione": "ATP Masters 1000",
-      "canale": "Sky Sport Tennis, SuperTennis",
-      "note": "Il torneo si svolge dal 6 al 17 maggio 2026. Orari specifici delle singole partite con giocatori italiani da definire in base al programma giornaliero del torneo.",
-      "fonte": "ATP Tour, SuperTennis, Sky Sport",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Internazionali BNL d'Italia (partite con italiane)",
-      "competizione": "WTA 1000",
-      "canale": "Sky Sport Tennis, SuperTennis",
-      "note": "Il torneo si svolge dal 5 al 17 maggio 2026. Orari specifici delle singole partite con giocatrici italiane da definire in base al programma giornaliero del torneo.",
-      "fonte": "WTA Tour, SuperTennis, Sky Sport",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Repliche/Highlights GP Francia (Le Mans)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "La gara principale del Gran Premio di Francia si è svolta il 10 maggio 2026. Repliche e highlights saranno trasmessi durante la giornata dell'11 maggio.",
-      "fonte": "Sky Sport, FormulaPassion",
-      "accuratezza_orario": "tba"
     }
   ]
 }
