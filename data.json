@@ -1,184 +1,139 @@
 {
-  "last_updated": "2026-05-10T20:44:16.534966+02:00",
+  "last_updated": "2026-05-11T03:59:02.198945+02:00",
   "events": [
     {
-      "orario": "09:40",
-      "evento": "Warm-Up",
-      "competizione": "MotoGP GP Francia",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Motosprint",
+      "orario": "06:00",
+      "evento": "Sky Tennis Show",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyTMG7riBN8aVskWe_QRH38Hfl5yoZ86Rg_Q4_FByKmYeu0odbPpgLFJDRAQnzdcLC4DLRWDAr5_AsdOjlJnk-hBqf_yXE-unEqUDn5aQd7iROm7d7XCi4ioeq2XfYw2IQ8qIKlYbiwTgcb6lDdnkNvJ4",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00",
-      "evento": "Gara",
-      "competizione": "Moto3 GP Francia",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Motosprint",
+      "orario": "06:30",
+      "evento": "The Insider - Internazionali d'Italia",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyTMG7riBN8aVskWe_QRH38Hfl5yoZ86Rg_Q4_FByKmYeu0odbPpgLFJDRAQnzdcLC4DLRWDAr5_AsdOjlJnk-hBqf_yXE-unEqUDn5aQd7iROm7d7XCi4ioeq2XfYw2IQ8qIKlYbiwTgcb6lDdnkNvJ4",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:15",
-      "evento": "Gara",
-      "competizione": "Moto2 GP Francia",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Motosprint",
+      "orario": "07:00",
+      "evento": "MotoGP 2026 - GP Francia: Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara di Le Mans",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyTMG7riBN8aVskWe_QRH38Hfl5yoZ86Rg_Q4_FByKmYeu0odbPpgLFJDRAQnzdcLC4DLRWDAr5_AsdOjlJnk-hBqf_yXE-unEqUDn5aQd7iROm7d7XCi4ioeq2XfYw2IQ8qIKlYbiwTgcb6lDdnkNvJ4",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:30",
-      "evento": "Verona - Como",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
-      "note": "",
-      "fonte": "90Min.com, Digital-News.it, Calcio in tv oggi, Goal.com",
+      "orario": "10:00",
+      "evento": "GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del GP del Giappone 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTgemK1VMFyWv3Viz0Kn_MYCimMYPvt9BJOvaPbpCzv8_OYgoiXhOl2nuKsHNHBDoMul5RNHAJBa0yPhPqrpsxwnQbzxurwST5D2i-JkUo2PeE-6tvoAI39nR8A6BErxYSykDhaWEU8lSL7SLDWoXV2SknAafBjikyLg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Gara",
-      "competizione": "MotoGP GP Francia",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Motosprint",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:05",
-      "evento": "Gara (Differita)",
-      "competizione": "Moto3 GP Francia",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "FormulaPassion, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "Non prima delle 14:30",
-      "evento": "Flavio Cobolli / Lorenzo Sonego vs Kevin Krawietz / Tim Pütz",
-      "competizione": "Doppio maschile Internazionali BNL d'Italia",
-      "canale": "Sky Sport, NOW",
-      "note": "",
-      "fonte": "LaPresse, OA Sport",
+      "orario": "15:00*",
+      "evento": "Tennis: Jannik Sinner vs Alexei Popyrin (3° turno)",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "TV8, Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix",
+      "note": "Match sul Campo Centrale. Orario 'non prima delle 15:00'.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5i4_OGMZJP7tM3Fx8PdkDRvssE7vcbd2eUaDG42nK82Lop3u6vcXzJx1WVTyO2_fC33rPrS6HrwKTVTvaw3xnqdkBibhtgNwdEdB9jV2COSrx8OPrxgY4zHLObxyXI9U0RLUPHp4VgrKY8tfctYLqpIOP4qsKC-uag2-UHQcWZG_nvadlt6KW816H6x8B0nJYJeLTvvIIU17JTGv6g2_d336NXhAC76NQ79_qd2sx",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "15:00",
-      "evento": "Cremonese - Pisa",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
-      "note": "",
-      "fonte": "90Min.com, Digital-News.it, Calcio in tv oggi, Goal.com",
+      "orario": "18:30",
+      "evento": "Sky Tennis Show",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Tennis",
+      "note": "Programma di approfondimento",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXdzkftVja26qvsNLnOzaL9OVcHwMc8w2DjPn3vFlBPg6OXNvh2PEhpRFQqs4PMu9PbUSq6moNX0DKKmvd4P0GD9cBXYBsnr-954befJMaGLIU4LpTnd6iTj3yE314prmoErTkyJ7dK8UxAASgeXg6_ibVzlDSfnKysNlF",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Fiorentina - Genoa",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 2 (canale 215 Sky)",
-      "note": "",
-      "fonte": "90Min.com, Digital-News.it, Calcio in tv oggi, Goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "Non prima delle 15:00",
-      "evento": "Lorenzo Musetti vs Francisco Cerundolo",
-      "competizione": "ATP Internazionali BNL d'Italia (Terzo Turno)",
-      "canale": "Sky Sport, SuperTennis, TV8, NOW",
-      "note": "",
-      "fonte": "Funweek, LaPresse, Adnkronos, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:20",
-      "evento": "Gara (Differita)",
-      "competizione": "Moto2 GP Francia",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "FormulaPassion, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "Non prima delle 15:30",
-      "evento": "Francesco Forti / Filippo Romano vs Alexander Erler / Lucas Miedler",
-      "competizione": "Doppio maschile Internazionali BNL d'Italia",
-      "canale": "Sky Sport, NOW",
-      "note": "",
-      "fonte": "LaPresse, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Reggina - Athletic Palermo",
-      "competizione": "Playoff Serie D",
-      "canale": "playreggina.it (streaming)",
-      "note": "Per accedere alla visione sarà necessario registrarsi alla piattaforma e acquistare il singolo evento.",
-      "fonte": "SerieD24.com, ReggioTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "Non prima delle 16:00",
-      "evento": "Luciano Darderi vs Tommy Paul",
-      "competizione": "ATP Internazionali BNL d'Italia",
-      "canale": "Sky Sport, SuperTennis, NOW",
-      "note": "",
-      "fonte": "Funweek, LaPresse, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Gara (Differita)",
-      "competizione": "MotoGP GP Francia",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "FormulaPassion, OA Sport, Motosprint",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Parma - Roma",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport (canale 251), NOW",
-      "note": "",
-      "fonte": "90Min.com, Digital-News.it, Calcio in tv oggi, Goal.com, FOX One, Goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "Non prima delle 19:00",
-      "evento": "Elisabetta Cocciaretto vs Iga Swiatek",
-      "competizione": "WTA Internazionali BNL d'Italia",
-      "canale": "Sky Sport, SuperTennis, NOW",
-      "note": "",
-      "fonte": "Funweek, LaPresse, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:35",
-      "evento": "Gara (Differita)",
-      "competizione": "MotoGP GP Francia",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "Non prima delle 20:30",
-      "evento": "Matteo Arnaldi vs Rafael Jodar",
-      "competizione": "ATP Internazionali BNL d'Italia",
-      "canale": "Sky Sport, SuperTennis, NOW",
-      "note": "",
-      "fonte": "Funweek, LaPresse, OA Sport",
+      "orario": "19:00*",
+      "evento": "Tennis: Flavio Cobolli vs Thiago Agustin Tirante (3° turno)",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "Sky Sport Tennis / Uno / Arena / Mix",
+      "note": "Match sul Campo Centrale. Quarto match del programma che inizia alle 11:00, primo della sessione serale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8q9Y2iNyyq9ZrLrH-HI63Qv-DWteQupozq4fYhMpnmicMSiGits1fcNZOeUUxKLOI138LOkFPkZZ02GaDmTg6A_GelUt4A2H9Vr4v7Yoi_owg7sX9EDoFiWoX1FAuh6jUhvFC0xvtPlGnoz-KvRNKyksuCmj3l3US9lneZw8FwPMbRihyJiOWQC2zjZUUMxSjibkkOHk=",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Milan - Atalanta",
+      "evento": "Calcio: Napoli vs Bologna",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
-      "note": "",
-      "fonte": "90Min.com, Digital-News.it, Libero, Calcio in tv oggi, Goal.com, Eventbrite, Le partite di oggi",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
+      "note": "36a giornata di Serie A.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0xqbXjDaAWeookM6sF7LSYZdw1_Shw8uSf1cVadzXagLPlXU5XPoBcDdwbLLugQAPtKyocO1VrBm5o-rNH5B1KXwaaR3wEAsJIvnwDmwCFUJyBV7I3SKT-Hh1jm6cS3ccjFQVqNpU7dk6GQ2hl1w2cJiBro7LsTgh2VHxpVHPIdq7D2KWKI-MfHZPfd3pz_5SA6CUjocIojW2J5OfZQ5uQA2jMjzuq6dd6VjsDmf-wopWq1htG9UuYif-qlDQeKU",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "GP Miami: Gara Sprint (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara Sprint del GP di Miami 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd0CnYkvGVgHemQscawP16XJbHASAZRTilaVTk7N_ZM5aRtcoEPqYRVT0dAk1IPQTzgUt1LvP6nsCUmRlACEwduunKEPeSBDFEeAP0EUX6frOxP1p_NWIw6YEhQYBh5mGtvMQWwHD9f4nPPTxsJnMgsv1TrAoYVQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "GP Miami: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del GP di Miami 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd0CnYkvGVgHemQscawP16XJbHASAZRTilaVTk7N_ZM5aRtcoEPqYRVT0dAk1IPQTzgUt1LvP6nsCUmRlACEwduunKEPeSBDFEeAP0EUX6frOxP1p_NWIw6YEhQYBh5mGtvMQWwHD9f4nPPTxsJnMgsv1TrAoYVQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:30",
+      "evento": "Sky Tennis Show",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Tennis",
+      "note": "Programma di approfondimento",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHioABh4z7JH78B_sJD447_8BMne4tJ_bMiR42Cg18526nZed58-aQA1k36K4E5UOQf_KAozGPn9738SSdz-tnIv60WbzpV24nw127_Q2xSEdVAGed_4n0CEU49rARikKEV9a5efK7VwY1hqMMWqs9r59-7K62I",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "GP Australia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del GP d'Australia 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd0CnYkvGVgHemQscawP16XJbHASAZRTilaVTk7N_ZM5aRtcoEPqYRVT0dAk1IPQTzgUt1LvP6nsCUmUmRlACEwduunKEPeSBDFEeAP0EUX6frOxP1p_NWIw6YEhQYBh5mGtvMQWwHD9f4nPPTxsJnMgsv1TrAoYVQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "The Insider - Internazionali d'Italia",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Tennis",
+      "note": "Programma di approfondimento",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHioABh4z7JH78B_sJD447_8BMne4tJ_bMiR42Cg18526nZed58-aQA1k36K4E5UOQf_KAozGPn9738SSdz-tnIv60WbzpV24nw127_Q2xSEdVAGed_4n0CEU49rARikKEV9a5efK7VwY1hqMMWqs9r59-7K62I",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30 (12/05)",
+      "evento": "Sky Tennis Show",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyTMG7riBN8aVskWe_QRH38Hfl5yoZ86Rg_Q4_FByKmYeu0odbPpgLFJDRAQnzdcLC4DLRWDAr5_AsdOjlJnk-hBqf_yXE-unEqUDn5aQd7iROm7d7XCi4ioeq2XfYw2IQ8qIKlYbiwTgcb6lDdnkNvJ4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00 (12/05)",
+      "evento": "The Insider - Internazionali d'Italia",
+      "competizione": "Internazionali BNL d'Italia",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyTMG7riBN8aVskWe_QRH38Hfl5yoZ86Rg_Q4_FByKmYeu0odbPpgLFJDRAQnzdcLC4DLRWDAr5_AsdOjlJnk-hBqf_yXE-unEqUDn5aQd7iROm7d7XCi4ioeq2XfYw2IQ8qIKlYbiwTgcb6lDdnkNvJ4",
       "accuratezza_orario": "esatto"
     }
   ]
