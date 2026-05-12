@@ -1,94 +1,58 @@
 {
-  "last_updated": "2026-05-12T15:50:17.073339+02:00",
+  "last_updated": "2026-05-12T21:26:10.699451+02:00",
   "events": [
     {
-      "orario": "01:45",
-      "evento": "GP Cina: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica della gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcJ5CPp8s2fjxS47a9efFGwERdt9orBUtRt88Pl5WcWiq5fmgoyArcU8hgIxnV3vuEMJa1BJfrtIAoooeeEiQDZR7bXbLhwQIbBw-_vFqAce33ZGFmJvswMlM2xdHzKDahevzQM3_m7VEVE1Hj67M_SeRL",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "GP Giappone: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport 4K",
-      "note": "Replica della gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcJ5CPp8s2fjxS47a9efFGwERdt9orBUtRt88Pl5WcWiq5fmgoyArcU8hgIxnV3vuEMJa1BJfrtIAoooeeEiQDZR7bXbLhwQIbBw-_vFqAce33ZGFmJvswMlM2xdHzKDahevzQM3_m7VEVE1Hj67M_SeRL",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "11:00",
-      "evento": "Musetti vs Ruud",
-      "competizione": "ATP Roma 2026 (Internazionali d'Italia)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Ottavi di finale. Primo match sul Campo Centrale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMyY3-s4cCYNLOtsK2Ga93cXI7WLXTlCLLAkxZOxVasGiLIaLwC5ZgbQSFWHTwagy_pVegfiuRYYdfzK1kh5oS8ndhQfIabhLOzi-4ELvzVY2aYx48rMhZ-8tc0prk8zER0MljHKF7JoilMzRKb0izEwjweZOce-4A7Nio1co4uTU3s9W1LHRgk687WFRPfFKorqYApRQgnzaZf73V4ZRcvmq2vzvfutC6NMu4h7oT3OYVBGPsDRTcDqauy01uA",
+      "evento": "ATP Roma 1000 - Ottavi di finale: Lorenzo Musetti vs Casper Ruud",
+      "competizione": "Tennis - Internazionali d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "",
+      "fonte": "OA Sport, LiveTennis.it, Lottomatica.Sport, Il Fatto Quotidiano.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00*",
-      "evento": "Darderi vs Zverev",
-      "competizione": "ATP Roma 2026 (Internazionali d'Italia)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Ottavi di finale. Non prima delle 14:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnTnLW8V_Ago7qW412eOe_5jEHe91VujUa8Rv72fsZIordjDRaKffNkxSVZiT44HOLjRaZi-fHnNI_XBo7AF7bKCut2OG4mS6U72VNPHEDOyFBVndEkJmK7ZmN8MP7R_fvzrTLgILiMllf-_OWKlxo_Pc4NnlFQeazDvFYpOc09XFphCfRUgiMVx3DlEqIF2iaRGl5-XATvX62LIlxvYw1uGTEwJDOZK1RQoANecGSrSWv",
+      "evento": "ATP Roma 1000 - Ottavi di finale: Luciano Darderi vs Alexander Zverev",
+      "competizione": "Tennis - Internazionali d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Orario stimato (non prima delle 14:00)",
+      "fonte": "OA Sport, LiveTennis.it, Il Fatto Quotidiano.it",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "15:00*",
-      "evento": "Sinner vs Pellegrino",
-      "competizione": "ATP Roma 2026 (Internazionali d'Italia)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, TV8",
-      "note": "Ottavi di finale. Non prima delle 15:00. Derby italiano, visibile in chiaro su TV8.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnTnLW8V_Ago7qW412eOe_5jEHe91VujUa8Rv72fsZIordjDRaKffNkxSVZiT44HOLjRaZi-fHnNI_XBo7AF7bKCut2OG4mS6U72VNPHEDOyFBVndEkJmK7ZmN8MP7R_fvzrTLgILiMllf-_OWKlxo_Pc4NnlFQeazDvFYpOc09XFphCfRUgiMVx3DlEqIF2iaRGl5-XATvX62LIlxvYw1uGTEwJDOZK1RQoANecGSrSWv",
+      "evento": "ATP Roma 1000 - Ottavi di finale: Jannik Sinner vs Andrea Pellegrino",
+      "competizione": "Tennis - Internazionali d'Italia",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, TV8 HD",
+      "note": "Orario stimato (non prima delle 15:00), disponibile in chiaro su TV8",
+      "fonte": "OA Sport, LiveTennis.it, Lottomatica.Sport, Internazionali BNL d'Italia, Il Fatto Quotidiano.it",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "17:00*",
-      "evento": "Errani/Paolini vs Noskova/Valentova",
-      "competizione": "WTA Roma 2026 (Internazionali d'Italia)",
-      "canale": "Sky Sport Tennis",
-      "note": "Doppio femminile. Ottavi di finale. Non prima delle 17:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnTnLW8V_Ago7qW412eOe_5jEHe91VujUa8Rv72fsZIordjDRaKffNkxSVZiT44HOLjRaZi-fHnNI_XBo7AF7bKCut2OG4mS6U72VNPHEDOyFBVndEkJmK7ZmN8MP7R_fvzrTLgILiMllf-_OWKlxo_Pc4NnlFQeazDvFYpOc09XFphCfRUgiMVx3DlEqIF2iaRGl5-XATvX62LIlxvYw1uGTEwJDOZK1RQoANecGSrSWv",
+      "evento": "WTA Roma 1000 - Quarti di finale: Errani/Paolini vs Noskova/Valentova",
+      "competizione": "Tennis - Internazionali d'Italia (Doppio)",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix",
+      "note": "Orario stimato (non prima delle 17:00)",
+      "fonte": "Internazionali BNL d'Italia, Il Fatto Quotidiano.it",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:45",
-      "evento": "Modena-Juve Stabia",
-      "competizione": "Playoff Serie B",
+      "evento": "Modena vs Juve Stabia",
+      "competizione": "Calcio - Playoff Serie B",
       "canale": "DAZN, LAB CHANNEL",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDjHZPm4N6bSxYyp7fFuP8g5DUKiv2e7VOOMozqcihSTz6j5VHyPLfqp6m478sCqLCWKdbodCWSQr3F5PPf1ED8-OyPkawQN_8pMDT6-xDGa503u-rtCGn42hxjzjeUPYKt7OXt2Cfc94YExpJgFXfWdshebNvZN_2IwTGTWJHtR_DtbvNCSNo0YtIYP5K2OlfcElW_Nc",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Havk Mladost-Pro Recco",
-      "competizione": "European Aquatics Champions League (Pallanuoto) Quarti di finale",
-      "canale": "Sky Sport Arena",
-      "note": "Quinti di finale con squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEptCZKAhath7QlLKXCfI1cnpU0BeUjwxKoec9gksi1pUA9GZwa7n6THTcuOKDQhig7BLFU9n9oYljIUyTwNQ8fM_SFWpLCqMNZEw5Bklc-HvC2J9S0s3QaLU-qwmNd1IbRsMVzG24h1RKqUcOmUHt6pQ311T-BbFdMA2X0yqAzNxMSgaI2YyNOY_bskuOMIEGwCiaa_Y19mINFkcVfpWCiV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Champions League 95/96 (Replica)",
-      "competizione": "Calcio (storico)",
-      "canale": "Juventus Play",
-      "note": "Replay della cavalcata della Juventus in Champions League 1995/96, a partire dal match contro il Borussia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC64yEtXs_NoxnsoL522vr574FsOO9Uyn7Luy_k5TtxAR4iJcxCgJTnXu2izmxZUxAnZ_MbAvjctGqs6gU4ciyLxHKAf9jbW7w4Y9J6m5pt5i0vXp9e2deOwxL1mDceazw4q7s_Q96cGIPknaYeKk2AqP7UmhQErl2dD_bMlSnQ7SLQv86sjZsapNkoxT5sWUC2Y3QaQ",
+      "fonte": "Calcio in tv oggi, 90min.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Catanzaro-Avellino",
-      "competizione": "Playoff Serie B",
+      "evento": "Catanzaro vs Avellino",
+      "competizione": "Calcio - Playoff Serie B",
       "canale": "DAZN, LAB CHANNEL",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDjHZPm4N6bSxYyp7fFuP8g5DUKiv2e7VOOMozqcihSTz6j5VHyPLfqp6m478sCqLCWKdbodCWSQr3F5PPf1ED8-OyPkawQN_8pMDT6-xDGa503u-rtCGn42hxjzjeUPYKt7OXt2Cfc94YExpJgFXfWdshebNvZN_2IwTGTWJHtR_DtbvNCSNo0YtIYP5K2OlfcElW_Nc",
+      "fonte": "Calcio in tv oggi, 90min.com",
       "accuratezza_orario": "esatto"
     }
   ]
