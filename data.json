@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-05-13T10:32:11.183109+02:00",
+  "last_updated": "2026-05-13T16:03:22.179430+02:00",
   "events": [
     {
+      "orario": "21:00",
+      "evento": "Lazio - Inter",
+      "competizione": "Coppa Italia - Finale",
+      "canale": "Canale 5",
+      "note": "",
+      "fonte": "90Min.com, Libero, Calcio in tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "13:00*",
-      "evento": "Doppio maschile - Ottavi di finale: S. Bolelli / A. Vavassori vs A. Goransson / E. King",
-      "competizione": "Internazionali d'Italia (ATP Masters 1000 Roma)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "3° match sul campo",
-      "fonte": "OA Sport, LaPresse",
+      "evento": "Simone Bolelli / Andrea Vavassori vs Andre Goransson / Evan King",
+      "competizione": "ATP 1000 Roma - Internazionali d'Italia (Doppio)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Terzo match sul Campo Centrale.",
+      "fonte": "OA Sport, Sport in tv oggi",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:30*",
-      "evento": "Singolare maschile - Quarti di finale: L. Darderi vs R. Jodar",
-      "competizione": "Internazionali d'Italia (ATP Masters 1000 Roma)",
-      "canale": "TV8 (in chiaro), Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Non prima delle 20:30, 4° match sul Centrale",
-      "fonte": "OA Sport, Adnkronos, LaPresse",
+      "evento": "Luciano Darderi vs Rafael Jodar",
+      "competizione": "ATP 1000 Roma - Internazionali d'Italia (Quarto di finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, TV8",
+      "note": "Non prima delle 20:30 sul Campo Centrale.",
+      "fonte": "Guida TV, OA Sport, OA Sport, Funweek, Adnkronos, Sport in tv oggi",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Finale Coppa Italia: Lazio - Inter",
-      "competizione": "Coppa Italia",
-      "canale": "Canale 5",
-      "note": "",
-      "fonte": "90Min.com, Libero, InfoBetting, Calciomagazine, Marina Denegri (via Calcio in tv)",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
