@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-05-13T16:03:22.179430+02:00",
+  "last_updated": "2026-05-13T21:29:22.298863+02:00",
   "events": [
     {
-      "orario": "21:00",
-      "evento": "Lazio - Inter",
-      "competizione": "Coppa Italia - Finale",
-      "canale": "Canale 5",
-      "note": "",
-      "fonte": "90Min.com, Libero, Calcio in tv oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00*",
-      "evento": "Simone Bolelli / Andrea Vavassori vs Andre Goransson / Evan King",
-      "competizione": "ATP 1000 Roma - Internazionali d'Italia (Doppio)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Terzo match sul Campo Centrale.",
-      "fonte": "OA Sport, Sport in tv oggi",
+      "orario": "15:30*",
+      "evento": "Bolelli/Vavassori - King/Göransson",
+      "competizione": "ATP 1000 Internazionali d'Italia, Ottavi di finale doppio maschile",
+      "canale": "Sky Sport",
+      "note": "Terzo match del programma iniziato alle 13:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMzE8gyBdOmtjcsINwmbUt3hfe-dWKWjACQpOGISayxBm6Erzue2NWDAdTx5eOft9ZlHf7ITLcY5cCr4DO0oGAGPlc_oi4bauriZRrQWnumMvZOc-OQO02oZIwIAtKZ4yIuZtBLQCvNNbZJri5CgW_eDHNchnrsphJzf9D7v1qTihwd5K5xhmrIE2wFPcEDXbMh3EWVk0umnkMgjXFO-F9l68_thBWo9P047WMy5-s2aiqDpndHo7pH4UJ-DBW2Q==",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:30*",
-      "evento": "Luciano Darderi vs Rafael Jodar",
-      "competizione": "ATP 1000 Roma - Internazionali d'Italia (Quarto di finale)",
+      "evento": "Luciano Darderi - Rafael Jodar",
+      "competizione": "ATP 1000 Internazionali d'Italia, Quarti di finale singolare maschile",
       "canale": "Sky Sport Uno, Sky Sport Tennis, TV8",
-      "note": "Non prima delle 20:30 sul Campo Centrale.",
-      "fonte": "Guida TV, OA Sport, OA Sport, Funweek, Adnkronos, Sport in tv oggi",
+      "note": "Non prima delle 20:30; il match effettivo dipende dalla durata dei match precedenti.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4UdhuJnbXAOKcexNkpJF6kFblUYKaYMfhCHyxgG--bfV1llE9N1z5vF7ghEJj_s673OKjDY8xvPxScBydbQXDS36oYzIG3byewqPnpDBUMfBxCl8toDkiut5JjsqY9OlsX9yiB0sFcFIp2ZoosTVo1l0HiGFfuWAIanpoPeMqWEblYI5qWoFEGuy8yvGvMOfusi3AqpZxpO02oZIwIAtKZ4yIuZtBLQCvNNbZJri5CgW_eDHNchnrsphJzf9D7v1qTihwd5K5xhmrIE2wFPcEDXbMh3EWVk0umnkMgjXFO-F9l68_thBWo9P047WMy5-s2aiqDpndHo7pH4UJ-DBW2Q==",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Lazio - Inter",
+      "competizione": "Coppa Italia, Finale",
+      "canale": "Canale 5",
+      "note": "Diretta dallo Stadio Olimpico di Roma",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXbZCavxqUIFOFHRJ43haWR34GbaB3sZUuC0WzqQ7-k7kTUQPcTcMl2720JTRM4NuXAjbaxoOkz7ns6G_shWSmHCqMB1kOtE8QRN8IbdivkUemBohD0CX5kzeky1ouR4_OhczbH9NrQ-HIMMtUXbD9EU7ditHEtV35CGNJgmFTU8Ct_-d_OQG94dzBd2mZ1oi7HNU7FNI=",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
