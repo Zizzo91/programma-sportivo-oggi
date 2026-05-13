@@ -1,59 +1,32 @@
 {
-  "last_updated": "2026-05-12T21:26:10.699451+02:00",
+  "last_updated": "2026-05-13T03:59:29.383615+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "ATP Roma 1000 - Ottavi di finale: Lorenzo Musetti vs Casper Ruud",
-      "competizione": "Tennis - Internazionali d'Italia",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "",
-      "fonte": "OA Sport, LiveTennis.it, Lottomatica.Sport, Il Fatto Quotidiano.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00*",
-      "evento": "ATP Roma 1000 - Ottavi di finale: Luciano Darderi vs Alexander Zverev",
-      "competizione": "Tennis - Internazionali d'Italia",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Orario stimato (non prima delle 14:00)",
-      "fonte": "OA Sport, LiveTennis.it, Il Fatto Quotidiano.it",
+      "orario": "20:30*",
+      "evento": "ATP 1000 Roma - Quarti di finale: Rafael Jodar vs Luciano Darderi",
+      "competizione": "Internazionali BNL d'Italia (ATP Masters 1000)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, SuperTennis HD",
+      "note": "Singolare maschile. Quarto incontro sul Campo Centrale. Luciano Darderi è l'unico italiano in singolare in gara oggi. Jannik Sinner in giornata di riposo.",
+      "fonte": "TieBreakTennis.it, Lottomatica.Sport, Guida TV, OA Sport",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "ATP Roma 1000 - Ottavi di finale: Jannik Sinner vs Andrea Pellegrino",
-      "competizione": "Tennis - Internazionali d'Italia",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, TV8 HD",
-      "note": "Orario stimato (non prima delle 15:00), disponibile in chiaro su TV8",
-      "fonte": "OA Sport, LiveTennis.it, Lottomatica.Sport, Internazionali BNL d'Italia, Il Fatto Quotidiano.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "WTA Roma 1000 - Quarti di finale: Errani/Paolini vs Noskova/Valentova",
-      "competizione": "Tennis - Internazionali d'Italia (Doppio)",
-      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix",
-      "note": "Orario stimato (non prima delle 17:00)",
-      "fonte": "Internazionali BNL d'Italia, Il Fatto Quotidiano.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Modena vs Juve Stabia",
-      "competizione": "Calcio - Playoff Serie B",
-      "canale": "DAZN, LAB CHANNEL",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 90min.com",
-      "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Catanzaro vs Avellino",
-      "competizione": "Calcio - Playoff Serie B",
-      "canale": "DAZN, LAB CHANNEL",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 90min.com",
+      "evento": "Lazio-Inter",
+      "competizione": "Coppa Italia Finale",
+      "canale": "Canale 5",
+      "note": "Pre-partita dalle 20:30, post-partita dalle 23:05.",
+      "fonte": "dituttounpop.it, calciomagazine.net",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "ATP 1000 Roma - Doppio maschile: Andre Goransson / Evan King vs Simone Bolelli / Andrea Vavassori",
+      "competizione": "Internazionali BNL d'Italia (ATP Masters 1000)",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, SuperTennis HD",
+      "note": "Doppio maschile. Terzo incontro sul Campo Pietrangeli, a seguire i match precedenti (primo incontro inizia alle 13:00, secondo non prima delle 14:00).",
+      "fonte": "TieBreakTennis.it",
+      "accuratezza_orario": "tba"
     }
   ]
 }
