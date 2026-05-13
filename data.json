@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-05-13T03:59:29.383615+02:00",
+  "last_updated": "2026-05-13T10:32:11.183109+02:00",
   "events": [
     {
+      "orario": "13:00*",
+      "evento": "Doppio maschile - Ottavi di finale: S. Bolelli / A. Vavassori vs A. Goransson / E. King",
+      "competizione": "Internazionali d'Italia (ATP Masters 1000 Roma)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "3° match sul campo",
+      "fonte": "OA Sport, LaPresse",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "20:30*",
-      "evento": "ATP 1000 Roma - Quarti di finale: Rafael Jodar vs Luciano Darderi",
-      "competizione": "Internazionali BNL d'Italia (ATP Masters 1000)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, SuperTennis HD",
-      "note": "Singolare maschile. Quarto incontro sul Campo Centrale. Luciano Darderi è l'unico italiano in singolare in gara oggi. Jannik Sinner in giornata di riposo.",
-      "fonte": "TieBreakTennis.it, Lottomatica.Sport, Guida TV, OA Sport",
+      "evento": "Singolare maschile - Quarti di finale: L. Darderi vs R. Jodar",
+      "competizione": "Internazionali d'Italia (ATP Masters 1000 Roma)",
+      "canale": "TV8 (in chiaro), Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Non prima delle 20:30, 4° match sul Centrale",
+      "fonte": "OA Sport, Adnkronos, LaPresse",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Lazio-Inter",
-      "competizione": "Coppa Italia Finale",
+      "evento": "Finale Coppa Italia: Lazio - Inter",
+      "competizione": "Coppa Italia",
       "canale": "Canale 5",
-      "note": "Pre-partita dalle 20:30, post-partita dalle 23:05.",
-      "fonte": "dituttounpop.it, calciomagazine.net",
+      "note": "",
+      "fonte": "90Min.com, Libero, InfoBetting, Calciomagazine, Marina Denegri (via Calcio in tv)",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "ATP 1000 Roma - Doppio maschile: Andre Goransson / Evan King vs Simone Bolelli / Andrea Vavassori",
-      "competizione": "Internazionali BNL d'Italia (ATP Masters 1000)",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, SuperTennis HD",
-      "note": "Doppio maschile. Terzo incontro sul Campo Pietrangeli, a seguire i match precedenti (primo incontro inizia alle 13:00, secondo non prima delle 14:00).",
-      "fonte": "TieBreakTennis.it",
-      "accuratezza_orario": "tba"
     }
   ]
 }
