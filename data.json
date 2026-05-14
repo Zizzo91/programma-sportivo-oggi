@@ -1,85 +1,22 @@
 {
-  "last_updated": "2026-05-14T10:26:26.912154+02:00",
+  "last_updated": "2026-05-14T15:26:42.485719+02:00",
   "events": [
     {
       "orario": "13:00",
-      "evento": "Jannik Sinner (ITA) vs Andrey Rublev (RUS) - Quarto di finale",
-      "competizione": "ATP Masters 1000 Roma (Internazionali BNL d'Italia)",
+      "evento": "Tennis, ATP Masters 1000 Roma: Quarti di finale singolare maschile",
+      "competizione": "Internazionali BNL d'Italia",
       "canale": "Sky Sport Uno, Sky Sport Tennis, TV8 HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjCe2imZsdyRoRZa0qIsw3mH1V1OYukgHfLrouWCw8rQDQLoA9Td3ADayr4hbBsIYFY1927xH9BVhRLsh9VyuOmkWVovIR9XVbzNgqr27d-LQJW86n0fAWMFSEpvpSON-laawVFt7qezwAs5RS3epANYx5PN7atIX8bbMYfBPZapdA71iqHktlVnixcIAughiL4lDZ6YfCcP2ejKLE0bQrG8Ur2pPWFho4I1APVCRUSpf-1ENp4drVEuk8AsI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTwWKtj2EGtuwljJlcXHGUTZYDU4rBujyYC6NXu_Q9PipDMQiOv_-1SqZnDsHE0BpazduBlBOQc46QCZtJpbddBLXeIzq5SJ6brLUg_QMBDvNalBh8aeSiJqe-Sgl4X4oDOKZi_GFEhiJaC9E_euyUsnIQLnNvFBCJxBOMNESY06dhBR2yZChb6S9lU8BqtK1yBq2Uh9lfohZivIO1wlC50d3sIOVMKwNQW7_kOgEEYJrebz8fDCshWMYnK_04x9Hrk3vl5Cc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxr12oZFzWrUhV_hmqINIE5OYh1H27qOn5XoOyx_IEy958-5EBu2Ve3T8BSOLsvp6ZyO8dWuLz-_UsvmVrgAXsYq7Z07QUOpJxrfc4D-LpcUFXl6anoURn-j5na8wRkftDhRICdeWPKMIvQCMF3Xfomr_9VOlggGkQbvzNcts7vfti_xNuIrB5FAq2gwGOYxpSz5ZHMNhQ1m9HBrSb0fr2aRYcHEfI-cqGhtQcBALxz0H-If1JyovZ_cu3V9XqGSTBPGGZLbw8Pw54VVFbEMj3a2Yjpw0u9Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhJ4tFL_cfGI5ln4hInVSMPBtn_9NPMEONwa7tJj06z07uGNniOVPUuOfGZ9-jImOFcqiJFePqYOoFJ4WAdADN556CDikCQjjTIb6QM2pFLNN0-rjYqSHSiYaHvBHBncECyoOkNNzs8WDrQpwaz2mtfdVWV5O6Xy6fwXPtLeQ7w_ejF96LUIQJ2lNd78dEX6IrWcUMcGWDKcBLXgK6ZywpKD5hmAIkOkxjjqEbYdPlcbjeHw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq53MGNRqtfnsFDyVe9JpKy0esd64fBrHCnwFAKNrScvtJXOfhKbxLbD9JaaVrRhuX0yRaIeiw6GkSFW1Rs1VKMiJC3IY4GQSxxAvI-TC8X78Qj0UIt7FsLJxO5hMmYvVXrozha-dtthtOsLJRzm108ZqT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Giro d'Italia 2026 - Tappa 6: Paestum - Napoli (inizio copertura Eurosport)",
-      "competizione": "Giro d'Italia",
-      "canale": "Eurosport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG9faz-IiHkapOj090LfCpa3SNfXmQzN6MOdhw9ad1F6lYFsIo8HH__jK7tpMMU1LxArz-CRFgqlUI5N-xIudnWEwvmDAs7VpmzP06lgj9WG0KbP2SVr9mQBJ4hk7-Z_ikMjEmbUM6P1Kf0pm-M1pOuGT-odDveJkxJqok-00Rl1e1c0HILKlTsB7NWADVonjOy9VuCT2ThOWzT5SbHtbS-nE185VpFifRdfJqWsZ2UMcKV79u_A==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_EoizdKzqfF5_dC5lDTyxS01u6K7hPvxHdqzn_f-ABs7TxFeu5W56YKwIl-PBaUxopbzXJu-35g2c4mK4WRbZIitRSgnkF5OqQITIHsf07Fh2MsmO45m377lV0jwcOgRAptLCNZazJiMQl9EOCT-k1sm9s4Jiwghy4q70IxDUB2E4BK3rJlD41Lr-12WwU9baGkUt43qEtZFi6UqeRWQi1vLi4pDg_S2gpJQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPmrFc7IvmDovPLkFbgbIBYejrs9EvVrARryvVLaITdCquwfb5WzkSb8_et1Aj8GVz9xrQNPSS6Fts-wlaPbfrQVocXbHpTolFoYJACUG3WtB2Io4miOVJuUHdipIrQKQSHB5Hby_qRHCd9DzbcGm7WtuK_WNk2Mut_7wh4wWCtOc-YXHRoLyqGmg1qOHZoeNjYzZJs_S-9St2u4xXKNur, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFonxNoUFnO9yPokP1IfNZxGcD53CM46JPd018bNHf-7EP2cJ0XigZo6PxKQw4brz8Ma4IJvtEpNhyKXu3ogLq4TghJBJE-Yxk60q2bV6SYOWaZR2cRotUK8v2cd9sLw3csJunNBMFkF_B-jVY78PMmR0Xs0NyJBq3tJcsoe4qbrdV2",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:50",
-      "evento": "Giro d'Italia 2026 - Tappa 6: Paestum - Napoli (inizio copertura Rai Sport)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai Sport",
-      "note": "Pre-gara / Highlights",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5zQqcpw6ehVK5CgRq47_pJyAxry1oFVkipc91mXXoV0GMLOwIfh23L6aFDY2Ru4dAElos_h5zEGWflu1gV4VnWP1u4uWyWxlNqGuDGwja5nu0Q82kDMOf3f9ju02XZtkgRMGPLBCd6FY1PfwCFllW2qc6h7aUi0Mi9pEw_G_s3pdYfUxRMIvmer2iIhE_NlW5kXkLkUg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX3Mosrletm21a1sqANPPntbk1lqCU1AWRtm_6Zetxlb7X6BY6JPoQ3m3NrFVXCvnuPcZaQEVSQlJeNN1uIN_dINdLn2LR7DESSUFf0C7b-rS80BymrYsOnckUmZfHkQkjlcs__oxJKxe3ciVECsb8I3T7K8UJ4tJr6sKCHS6vOfjvd_TU",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:50",
-      "evento": "Giro d'Italia 2026 - Tappa 6: Paestum - Napoli (partenza fittizia)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai 2, Rai Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjCe2imZsdyRoRZa0qIsw3mH1V1OYukgHfLrouWCw8rQDQLoA9Td3ADayr4hbBsIYFY1927xH9BVhRLsh9VyuOmkWVovIR9XVbzNgqr27d-LQJW86n0fAWMFSEpvpSON-laawVFt7qezwAs5RS3epANYx5PN7atIX8bbMYfBPZapdA71iqHktlVnixcIAughiL4lDZ6YfCcP2ejKLE0bQrG8Ur2pPWFho4I1APVCRUSpf-1ENp4drVEuk8AsI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX3Mosrletm21a1sqANPPntbk1lqCU1AWRtm_6Zetxlb7X6BY6JPoQ3m3NrFVXCvnuPcZaQEVSQlJeNN1uIN_dINdLn2LR7DESSUFf0C7b-rS80BymrYsOnckUmZfHkQkjlcs__oxJKxe3ciVECsb8I3T7K8UJ4tJr6sKCHS6vOfjvd_TU",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:05",
-      "evento": "Giro d'Italia 2026 - Tappa 6: Paestum - Napoli (partenza reale)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai 2, Rai Sport, Eurosport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjCe2imZsdyRoRZa0qIsw3mH1V1OYukgHfLrouWCw8rQDQLoA9Td3ADayr4hbBsIYFY1927xH9BVhRLsh9VyuOmkWVovIR9XVbzNgqr27d-LQJW86n0fAWMFSEpvpSON-laawVFt7qezwAs5RS3epANYx5PN7atIX8bbMYfBPZapdA71iqHktlVnixcIAughiL4lDZ6YfCcP2ejKLE0bQrG8Ur2pPWFho4I1APVCRUSpf-1ENp4drVEuk8AsI",
+      "note": "Jannik Sinner (ITA) vs Andrey Rublev (RUS). Primo match sul Centrale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg1n8jvTS4CZjl6JO1FN-GC6l1RTj-FAFxaZB3SCzAWKnip6TIK8_4DhxPaTZmPCJqIcBLefVYx4OcGOjWn1SMILEL11WAa_VzILPTzKCrPr6Dk-9lLzQpHFbspQcQHBxlzgLjqKGYqu5OEWhUGAPW7yC2HfE7FgyMAbniLZQqk1N0gCG2aTWIX-6ukacrGmajCKK8duMV6Z7xoWICi3ov95VGZd8xtpANk8o-QbJue0-4E2nbGXw2BtUNbr0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsUdHbJh1w9vS_-I1CdqgqX3FU87k9dK3vvsDpTH_dDU7YAnGoU4qZls-L9tKbxGfvnds0L7HVXIJBHXrQ107tefuYMaTJZZ-9Ast_OApKsoLl3-gb8D2qjEsC-W_3OGfkvaKzTjaYhZHJptH3YRsGYzZZikSYovYnjdoSVFmpAq2WEZuje_Jfzz-DhLSZSuRvygdB6BhYoUYsGJ68qC5UxLUIop0twvm-Y-xW75Ef8g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFgQnL3sIG36RJQBk-yqcUSq03Qf9HyRv403-frnrvH-vT3xkSu043aDPk46TrotnggE3MwJuPG3YwGVQC8yPaZC1oHKkGyhFHF2Mm_m0_GQ-DT6mZ-toUEXqG7M10TBLJfu5zlvhwxOGCCxyrqRRBuGV4VJYygEtYyV3hW4dSpewFP7cb1dh2rU0ZrRipAZ8",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "GP Catalunya - Conferenza stampa dei piloti",
-      "competizione": "MotoGP",
+      "evento": "MotoGP, GP Catalunya: Conferenza stampa piloti",
+      "competizione": "Motomondiale 2026",
       "canale": "Sky Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG9faz-IiHkapOj090LfCpa3SNfXmQzN6MOdhw9ad1F6lYFsIo8HH__jK7tpMMU1LxArz-CRFgqlUI5N-xIudnWEwvmDAs7VpmzP06lgj9WG0KbP2SVr9mQBJ4hk7-Z_ikMjEmbUM6P1Kf0pm-M1pOuGT-odDveJkxJqok-00Rl1e1c0HILKlTsB7NWADVonjOy9VuCT2ThOWzT5SbHtbS-nE185VpFifRdfJqWsZ2UMcKV79u_A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:45",
-      "evento": "Giro d'Italia 2026 - Tappa 6 (Replica/Highlights)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5zQqcpw6ehVK5CgRq47_pJyAxry1oFVkipc91mXXoV0GMLOwIfh23L6aFDY2Ru4dAElos_h5zEGWflu1gV4VnWP1u4uWyWxlNqGuDGwja5nu0Q82kDMOf3f9ju02XZtkgRMGPLBCd6FY1PfwCFllW2qc6h7aUi0Mi9pEw_G_s3pdYfUxRMIvmer2iIhE_NlW5kXkLkUg=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00 (15 Maggio)",
-      "evento": "Giro d'Italia 2026 - Tappa 6 (Replica/Highlights)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5zQqcpw6ehVK5CgRq47_pJyAxry1oFVkipc91mXXoV0GMLOwIfh23L6aFDY2Ru4dAElos_h5zEGWflu1gV4VnWP1u4uWyWxlNqGuDGwja5nu0Q82kDMOf3f9ju02XZtkgRMGPLBCd6FY1PfwCFllW2qc6h7aUi0Mi9pEw_G_s3pdYfUxRMIvmer2iIhE_NlW5kXkLkUg=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00 (15 Maggio)",
-      "evento": "Giro d'Italia 2026 - Tappa 6 (Replica/Highlights)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5zQqcpw6ehVK5CgRq47_pJyAxry1oFVkipc91mXXoV0GMLOwIfh23L6aFDY2Ru4dAElos_h5zEGWflu1gV4VnWP1u4uWyWxlNqGuDGwja5nu0Q82kDMOf3f9ju02XZtkgRMGPLBCd6FY1PfwCFllW2qc6h7aUi0Mi9pEw_G_s3pdYfUxRMIvmer2iIhE_NlW5kXkLkUg=",
+      "note": "Conferenza stampa pre-evento del Gran Premio di Catalogna.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsUdHbJh1w9vS_-I1CdqgqX3FU87k9dK3vvsDpTH_dDU7YAnGoU4qZls-L9tKbxGfvnds0L7HVXIJBHXrQ107tefuYMaTJZZ-9Ast_OApKsoLl3-gb8D2qjEsC-W_3OGfkvaKzTjaYhZHJptH3YRsGYzZZikSYovYnjdoSVFmpAq2WEZuje_Jfzz-DhLSZSuRvygdB6BhYoUYsGJ68qC5UxLUIop0twvm-Y-xW75Ef8g",
       "accuratezza_orario": "esatto"
     }
   ]
