@@ -1,0 +1,653 @@
+const REPO_OWNER = 'Zizzo91';
+const DATA_REPO = 'my-watchlist-data';
+let GITHUB_TOKEN = localStorage.getItem('gh_pat');
+
+let catalogData = { movies: [], tv: [] };
+let globalUserData = {};
+let userData = null;
+let currentProfile = localStorage.getItem('active_profile');
+let userdataSha = '';
+let currentTab = 'movies';
+let currentView = 'history';
+
+let searchQuery = '';
+let filterGenre = '';
+let filterPlatform = '';
+let filterRating = '';
+
+function b64DecodeUnicode(str) { return decodeURIComponent(atob(str).split('').map(c => '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2)).join('')); }
+function b64EncodeUnicode(str) { return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, (match, p1) => String.fromCharCode('0x' + p1))); }
+
+document.addEventListener('DOMContentLoaded', async () => {
+    if (!GITHUB_TOKEN || !currentProfile) return window.location.href = 'index.html';
+    document.getElementById('profile-name-header').innerText = `Lista di ${currentProfile}`;
+    document.getElementById('app-nav').style.display = 'flex';
+    document.getElementById('view-toggle').style.display = 'flex';
+    document.getElementById('search-container').style.display = 'flex';
+    document.getElementById('app-main').style.display = 'flex';
+    await loadData();
+});
+
+async function loadData() {
+    document.getElementById('loading').style.display = 'block';
+    document.getElementById('list-output').innerHTML = '';
+    try {
+        const catalogRes = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${DATA_REPO}/contents/catalog.json`, { headers: { 'Authorization': `Bearer ${GITHUB_TOKEN}`, 'Accept': 'application/vnd.github.v3+json' }, cache: 'no-store' });
+        catalogData = JSON.parse(b64DecodeUnicode((await catalogRes.json()).content));
+
+        const userRes = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${DATA_REPO}/contents/userdata.json`, { headers: { 'Authorization': `Bearer ${GITHUB_TOKEN}`, 'Accept': 'application/vnd.github.v3+json' }, cache: 'no-store' });
+        const rawContent = await userRes.json();
+        userdataSha = rawContent.sha;
+        globalUserData = JSON.parse(b64DecodeUnicode(rawContent.content));
+        
+        userData = globalUserData[currentProfile];
+        if(!userData.movies.watchlist) userData.movies.watchlist = [];
+        if(!userData.tv.watchlist) userData.tv.watchlist = [];
+        if(!userData.movies.manual_queue) userData.movies.manual_queue = [];
+        if(!userData.tv.manual_queue) userData.tv.manual_queue = [];
+        
+        updateFiltersUI();
+        populateGenreDropdown();
+        renderList();
+    } catch (err) {
+        console.error(err);
+        alert("Errore nel caricamento dei dati da GitHub.");
+    } finally {
+        document.getElementById('loading').style.display = 'none';
+    }
+}
+
+function updateFiltersUI() {
+    const ratingSelect = document.getElementById('filter-rating');
+    const currentVal = ratingSelect.value;
+    ratingSelect.innerHTML = `
+        <option value="">Tutti i Voti/Stati</option>
+        <option value="5">⭐⭐⭐⭐⭐</option>
+        <option value="4">⭐⭐⭐⭐</option>
+        <option value="3">⭐⭐⭐</option>
+        <option value="2">⭐⭐</option>
+        <option value="1">⭐</option>
+        <option value="partial">⏳ Abbandonati</option>
+        ${currentTab === 'tv' ? '<option value="ongoing">🔄 In Corso (Attesa)</option>' : ''}
+    `;
+    if (Array.from(ratingSelect.options).some(opt => opt.value === currentVal)) {
+        ratingSelect.value = currentVal;
+    } else {
+        ratingSelect.value = '';
+        filterRating = '';
+    }
+}
+
+function populateGenreDropdown() {
+    const ratings = userData[currentTab]?.ratings || {};
+    const items = catalogData[currentTab] || [];
+    const uniqueGenres = new Set();
+    Object.keys(ratings).forEach(id => {
+        if (ratings[id].seen) {
+            const catalogItem = items.find(i => i.id == id);
+            if (catalogItem && catalogItem.genres) catalogItem.genres.forEach(g => uniqueGenres.add(g));
+        }
+    });
+    const genreSelect = document.getElementById('filter-genre');
+    genreSelect.innerHTML = '<option value="">Tutti i Generi</option>';
+    Array.from(uniqueGenres).sort().forEach(g => {
+        const opt = document.createElement('option');
+        opt.value = g; opt.innerText = g; genreSelect.appendChild(opt);
+    });
+}
+
+function setTab(tab) {
+    currentTab = tab;
+    document.getElementById('btn-movies').classList.toggle('active', tab === 'movies');
+    document.getElementById('btn-tv').classList.toggle('active', tab === 'tv');
+    document.getElementById('search-input').value = '';
+    document.getElementById('filter-genre').value = '';
+    document.getElementById('filter-platform').value = '';
+    
+    updateFiltersUI();
+    filterList(); 
+    populateGenreDropdown();
+}
+
+function setView(view) {
+    currentView = view;
+    document.getElementById('btn-history').classList.toggle('active', view === 'history');
+    document.getElementById('btn-watchlist').classList.toggle('active', view === 'watchlist');
+    document.getElementById('filters-row').style.display = view === 'watchlist' ? 'none' : 'flex';
+    renderList();
+}
+
+function filterList() {
+    searchQuery = document.getElementById('search-input').value.toLowerCase();
+    filterGenre = document.getElementById('filter-genre').value;
+    filterPlatform = document.getElementById('filter-platform').value;
+    filterRating = document.getElementById('filter-rating').value;
+    renderList();
+}
+
+// ─── Dialog manuale con autocomplete ─────────────────────────────
+
+let _dialogData = { resolver: null, catalogItem: null, matches: [] };
+
+function showManualAddDialog(title) {
+    return new Promise(resolve => {
+        _dialogData.resolver = resolve;
+        _dialogData.catalogItem = null;
+        _dialogData.matches = [];
+        document.getElementById('dialog-title').textContent = title;
+        const input = document.getElementById('dialog-input');
+        input.value = '';
+        input.focus();
+        document.getElementById('dialog-suggestions').classList.remove('active');
+        document.getElementById('dialog-suggestions').innerHTML = '';
+        document.getElementById('manual-dialog').classList.add('active');
+        setTimeout(() => input.focus(), 100);
+    });
+}
+
+function onDialogInput() {
+    const input = document.getElementById('dialog-input');
+    const val = input.value.trim();
+    const list = document.getElementById('dialog-suggestions');
+
+    if (!val) {
+        list.classList.remove('active');
+        list.innerHTML = '';
+        _dialogData.catalogItem = null;
+        return;
+    }
+
+    const lower = val.toLowerCase();
+    _dialogData.matches = (catalogData[currentTab] || []).filter(item =>
+        item.title.toLowerCase().includes(lower) || lower.includes(item.title.toLowerCase())
+    ).slice(0, 8);
+
+    if (_dialogData.matches.length > 0) {
+        list.innerHTML = _dialogData.matches.map((m, i) =>
+            `<div class="suggestion-item" data-index="${i}">
+                <span class="s-title">${m.title} (${m.year})</span>
+                <span class="s-meta">${(m.platforms || []).join(', ')}</span>
+            </div>`
+        ).join('');
+        list.classList.add('active');
+    } else {
+        list.classList.remove('active');
+        list.innerHTML = '';
+        _dialogData.catalogItem = null;
+    }
+}
+
+document.getElementById('dialog-suggestions').addEventListener('click', e => {
+    const item = e.target.closest('.suggestion-item');
+    if (!item) return;
+    const idx = parseInt(item.dataset.index);
+    if (idx >= 0 && idx < _dialogData.matches.length) {
+        _dialogData.catalogItem = _dialogData.matches[idx];
+        document.getElementById('dialog-input').value = _dialogData.matches[idx].title;
+        document.getElementById('dialog-suggestions').classList.remove('active');
+    }
+});
+
+function confirmManualAdd() {
+    const input = document.getElementById('dialog-input');
+    const title = input.value.trim();
+    if (!title) return;
+
+    if (!_dialogData.catalogItem && _dialogData.matches.length > 0) {
+        const exact = _dialogData.matches.find(m => m.title.toLowerCase() === title.toLowerCase());
+        if (exact) _dialogData.catalogItem = exact;
+    }
+
+    const { resolver, catalogItem } = _dialogData;
+    _dialogData.resolver = null;
+    document.getElementById('manual-dialog').classList.remove('active');
+    document.getElementById('dialog-suggestions').classList.remove('active');
+    if (resolver) resolver({ title, catalogItem });
+}
+
+function cancelManualAdd() {
+    const { resolver } = _dialogData;
+    _dialogData.resolver = null;
+    document.getElementById('manual-dialog').classList.remove('active');
+    document.getElementById('dialog-suggestions').classList.remove('active');
+    if (resolver) resolver(null);
+}
+
+async function askManualAdd() {
+    const typeLabel = currentTab === 'movies' ? 'Film' : 'Serie TV';
+    const viewLabel = currentView === 'history' ? 'allo Storico' : 'alla Watchlist';
+
+    const result = await showManualAddDialog(`Aggiungi ${typeLabel} ${viewLabel}`);
+    if (!result) return;
+
+    const cleanTitle = result.title;
+    const catalogItem = result.catalogItem;
+
+    if (currentView === 'history') {
+        const ratingStr = prompt(`Che voto dai a "${catalogItem ? catalogItem.title : cleanTitle}"? (da 1 a 5)`);
+        if (!ratingStr) return;
+        const rating = parseInt(ratingStr);
+        if (isNaN(rating) || rating < 1 || rating > 5) return alert("Devi inserire un numero tra 1 e 5.");
+
+        let isPartial = false;
+        let isOngoing = false;
+
+        if (currentTab === 'tv') {
+            isPartial = confirm(`Hai ABBANDONATO "${catalogItem ? catalogItem.title : cleanTitle}" a metà?\n[OK] = Sì, l'ho abbandonata\n[Annulla] = No, l'ho finita/sono in pari`);
+            if (!isPartial) {
+                isOngoing = confirm(`La serie "${catalogItem ? catalogItem.title : cleanTitle}" è IN CORSO (sei in attesa di nuove stagioni)?\n[OK] = Sì, attendo altre stagioni\n[Annulla] = No, è conclusa definitivamente`);
+            }
+        }
+
+        const base = { rating, partial: isPartial, ongoing: isOngoing, addedAt: new Date().toISOString() };
+        if (catalogItem) {
+            base.title = catalogItem.title;
+            base.tmdb = { id: catalogItem.id, year: catalogItem.year, genres: catalogItem.genres, platforms: catalogItem.platforms, poster: catalogItem.poster, release_date: '', status: 'Released' };
+        } else {
+            base.title = cleanTitle;
+        }
+        userData[currentTab].manual_queue.push(base);
+
+        renderList(); await saveUserData();
+        alert(`"${base.title}" inserito nello storico!`);
+    } else {
+        const base = { reason: "Aggiunto manualmente.", addedAt: new Date().toISOString() };
+        if (catalogItem) {
+            base.id = catalogItem.id;
+            base.title = catalogItem.title;
+            base.tmdb = { id: catalogItem.id, year: catalogItem.year, genres: catalogItem.genres, platforms: catalogItem.platforms, poster: catalogItem.poster, release_date: '', status: 'Released' };
+        } else {
+            base.title = cleanTitle;
+        }
+        userData[currentTab].watchlist.push(base);
+
+        renderList(); await saveUserData();
+        alert(`"${base.title}" inserito nella Watchlist!`);
+    }
+}
+
+async function deleteFromHistory(itemId, title) {
+    if (!confirm(`Vuoi ELIMINARE "${title}" dallo Storico?`)) return;
+    delete userData[currentTab].ratings[itemId];
+    userData[currentTab].asked = userData[currentTab].asked.filter(id => id !== itemId);
+    renderList(); await saveUserData();
+}
+
+async function deleteFromWatchlist(title) {
+    if (!confirm(`Vuoi RIMUOVERE "${title}" dalla Watchlist?`)) return;
+    userData[currentTab].watchlist = userData[currentTab].watchlist.filter(item => item.title !== title);
+    renderList(); await saveUserData();
+}
+
+async function markWatchlistAsSeen(title, itemId) {
+    const ratingStr = prompt(`Hai visto "${title}".\nChe voto gli dai? (da 1 a 5)`);
+    if (!ratingStr) return;
+    const rating = parseInt(ratingStr);
+    if (isNaN(rating) || rating < 1 || rating > 5) return alert("Inserisci un numero valido da 1 a 5.");
+    
+    let isPartial = false;
+    let isOngoing = false;
+    if(currentTab === 'tv') {
+        isPartial = confirm(`Hai ABBANDONATO la visione a metà?\n[OK] = Sì, abbandonata\n[Annulla] = No, finita/in pari`);
+        if(!isPartial) {
+            isOngoing = confirm(`La serie è IN CORSO (attendi nuove stagioni)?\n[OK] = Sì\n[Annulla] = No, conclusa`);
+        }
+    }
+    
+    userData[currentTab].watchlist = userData[currentTab].watchlist.filter(item => item.title !== title);
+    if (itemId) {
+        if (!userData[currentTab].ratings) userData[currentTab].ratings = {};
+        userData[currentTab].ratings[itemId] = { rating: rating, seen: true, partial: isPartial, ongoing: isOngoing, timestamp: new Date().toISOString() };
+        if (!userData[currentTab].asked.includes(itemId)) userData[currentTab].asked.push(itemId);
+    } else {
+        const manualItem = { title: title, rating: rating, partial: isPartial, ongoing: isOngoing, addedAt: new Date().toISOString() };
+        const existingWatchlistItem = userData[currentTab].watchlist.find(i => i.title === title);
+        if (existingWatchlistItem?.tmdb) manualItem.tmdb = existingWatchlistItem.tmdb;
+        userData[currentTab].manual_queue.push(manualItem);
+    }
+    renderList(); await saveUserData();
+    alert(`"${title}" spostato nello Storico con voto ${rating}⭐!`);
+}
+
+async function changeRating(itemId) {
+    const currentEntry = userData[currentTab].ratings[itemId];
+    const isPartialStr = currentEntry.partial ? " (A METÀ)\n" : "\n";
+    const newRatingStr = prompt(`Nuovo voto per questo titolo (da 1 a 5):\nAttuale: ${currentEntry.rating}⭐${isPartialStr}`, currentEntry.rating);
+    if (newRatingStr === null) return; 
+    const newRating = parseInt(newRatingStr);
+    if (isNaN(newRating) || newRating < 1 || newRating > 5) return alert("Valore non valido.");
+    
+    userData[currentTab].ratings[itemId].rating = newRating;
+    userData[currentTab].ratings[itemId].timestamp = new Date().toISOString();
+    renderList(); await saveUserData();
+}
+
+async function togglePartialStatus(itemId) {
+    const item = userData[currentTab].ratings[itemId];
+    if(!item) return;
+    
+    if (item.partial) {
+        item.partial = false;
+        alert("Stato aggiornato: Serie segnata come COMPLETATA / IN PARI! ✅");
+    } else {
+        item.partial = true;
+        item.ongoing = false; 
+        alert("Stato aggiornato: Serie segnata come ABBANDONATA / A METÀ! ⏳");
+    }
+    item.timestamp = new Date().toISOString();
+    renderList(); await saveUserData();
+}
+
+async function toggleOngoingStatus(itemId) {
+    const item = userData[currentTab].ratings[itemId];
+    if(!item) return;
+    
+    item.ongoing = !item.ongoing;
+    if (item.ongoing) {
+        item.partial = false; 
+        alert("Stato aggiornato: Serie segnata come 'IN CORSO'. Sei in pari e attendi nuove stagioni! 🔄");
+    } else {
+        alert("Stato aggiornato: Serie segnata come CONCLUSIVA/FINITA! 🎬");
+    }
+    item.timestamp = new Date().toISOString();
+    renderList(); await saveUserData();
+}
+
+async function saveUserData() {
+    const content = b64EncodeUnicode(JSON.stringify(globalUserData, null, 2));
+    try {
+        const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${DATA_REPO}/contents/userdata.json`, {
+            method: 'PUT', headers: { 'Authorization': `Bearer ${GITHUB_TOKEN}`, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message: `Aggiornamento da List`, content: content, sha: userdataSha })
+        });
+        if (!res.ok) throw new Error('Errore GitHub');
+        userdataSha = (await res.json()).content.sha;
+    } catch (err) { console.error(err); alert("Errore nel salvataggio."); }
+}
+
+function copyTitle(title) {
+    navigator.clipboard.writeText(title).then(() => {
+        const toast = document.getElementById("toast");
+        toast.innerText = `"${title}" copiato!`;
+        toast.className = "show";
+        setTimeout(() => { toast.className = toast.className.replace("show", ""); }, 3000);
+    });
+}
+
+function renderList() {
+    const listOutput = document.getElementById('list-output');
+    const emptyState = document.getElementById('empty-state');
+    listOutput.innerHTML = '';
+    const items = catalogData[currentTab] || [];
+    
+    if (currentView === 'history') {
+        const ratings = userData[currentTab]?.ratings || {};
+        let ratedItems = Object.keys(ratings).filter(id => ratings[id].seen === true).map(id => {
+            const catItem = items.find(i => i.id == id);
+            return { ...catItem, id: id, rating: ratings[id].rating, partial: ratings[id].partial, ongoing: ratings[id].ongoing, timestamp: ratings[id].timestamp };
+        }).filter(i => i.title); 
+            
+        let manualItems = (userData[currentTab]?.manual_queue || []).map(item => ({
+            id: 'manual', title: item.title, year: item.tmdb ? item.tmdb.year : '⏳ Ricerca...', genres: item.tmdb ? item.tmdb.genres : (item.tmdb?.release_date ? ['In arrivo'] : ['In attesa']), platforms: item.tmdb ? item.tmdb.platforms : [], rating: item.rating, partial: item.partial || false, ongoing: item.ongoing || false, poster: item.tmdb?.poster || 'https://via.placeholder.com/60x90/333333/ffffff?text=%E2%8F%B3', isManual: true, timestamp: item.addedAt, tmdb: item.tmdb || null
+        }));
+
+        if (searchQuery) {
+            ratedItems = ratedItems.filter(item => item.title.toLowerCase().includes(searchQuery));
+            manualItems = manualItems.filter(item => item.title.toLowerCase().includes(searchQuery));
+        }
+        if (filterGenre) ratedItems = ratedItems.filter(item => item.genres && item.genres.includes(filterGenre));
+        if (filterPlatform) ratedItems = ratedItems.filter(item => item.platforms && item.platforms.includes(filterPlatform));
+        if (filterRating) {
+            if (filterRating === 'partial') {
+                ratedItems = ratedItems.filter(item => item.partial === true);
+                manualItems = manualItems.filter(item => item.partial === true);
+            }
+            else if (filterRating === 'ongoing') {
+                ratedItems = ratedItems.filter(item => item.ongoing === true);
+                manualItems = manualItems.filter(item => item.ongoing === true);
+            }
+            else {
+                const r = parseInt(filterRating);
+                ratedItems = ratedItems.filter(item => item.rating === r && !item.partial && !item.ongoing);
+                manualItems = manualItems.filter(item => item.rating === r && !item.partial && !item.ongoing);
+            }
+        }
+
+        ratedItems.sort((a, b) => b.rating - a.rating || new Date(b.timestamp) - new Date(a.timestamp));
+        const combinedList = [...manualItems, ...ratedItems];
+
+        if (combinedList.length === 0) { emptyState.style.display = 'block'; return; }
+        emptyState.style.display = 'none';
+        
+        combinedList.forEach(item => {
+            const div = document.createElement('div'); div.className = 'list-item';
+            const poster = item.poster || 'https://via.placeholder.com/60x90?text=No+Poster';
+            
+            const partialBadge = item.partial ? `<span style="background: rgba(255,152,0,0.2); color: #ffb74d; font-size:0.7em; padding: 2px 4px; border-radius: 4px; margin-left: 4px;">⏳ Abbandonata</span>` : '';
+            const ongoingBadge = item.ongoing ? `<span style="background: rgba(0, 168, 225, 0.2); color: #00a8e1; font-size:0.7em; padding: 2px 4px; border-radius: 4px; margin-left: 4px;">🔄 In Corso</span>` : '';
+            
+            const ratingClick = item.isManual ? '' : `onclick="changeRating('${item.id}')"`;
+            const escapedTitle = item.title.replace(/'/g, "\\'");
+            
+            const toggleOngoingBtn = (currentTab === 'tv' && !item.isManual) 
+                ? `<button class="action-icon" onclick="toggleOngoingStatus('${item.id}')" title="${item.ongoing ? 'Segna come Conclusa/Finita' : 'Segna come In Corso (Attesa nuove stagioni)'}" style="color: ${item.ongoing ? '#00a8e1' : '#aaa'};">${item.ongoing ? '🔄' : '🎬'}</button>`
+                : '';
+
+            const togglePartialBtn = (currentTab === 'tv' && !item.isManual) 
+                ? `<button class="action-icon" onclick="togglePartialStatus('${item.id}')" title="${item.partial ? 'Segna come Vista Tutta/In Pari' : 'Segna come Abbandonata a metà'}" style="color: ${item.partial ? '#4caf50' : '#ff9800'};">${item.partial ? '✅' : '⏳'}</button>`
+                : '';
+
+            const deleteBtnHtml = !item.isManual ? `<button class="action-icon" style="color:#ff5252;" onclick="deleteFromHistory('${item.id}', '${escapedTitle}')" title="Elimina dallo Storico">✖</button>` : '';
+
+            const searchTrailerUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(item.title + ' ' + (item.year!=='⏳ Ricerca...' ? item.year : '') + ' trailer ita')}`;
+            const trailerHtml = !item.isManual ? `<a class="trailer-link" href="${searchTrailerUrl}" target="_blank">▶️ Trailer</a>` : '';
+
+            div.innerHTML = `
+                <img src="${poster}" alt="Poster" onclick="copyTitle('${escapedTitle}')">
+                <div class="list-item-content">
+                    <h3>${item.title} ${item.year !== '⏳ Ricerca...' ? `(${item.year})` : ''} ${partialBadge} ${ongoingBadge}</h3>
+                    <p style="color: ${item.isManual ? '#ffb74d' : '#aaa'}">${(item.genres || []).join(', ')}</p>
+                    <p style="font-size:0.8em; margin-top:2px; color:#888;">${item.platforms && item.platforms.length > 0 ? 'Su: ' + item.platforms.join(', ') : item.year}</p>
+                    <div>${trailerHtml}</div>
+                </div>
+                <div class="list-item-actions">
+                    <div class="list-item-rating" ${ratingClick} title="Modifica Voto">${item.rating} ⭐</div>
+                    <div style="display:flex; gap: 3px; margin-top: auto;">
+                        ${toggleOngoingBtn}
+                        ${togglePartialBtn}
+                        ${deleteBtnHtml}
+                    </div>
+                </div>
+            `;
+            listOutput.appendChild(div);
+        });
+
+    } else if (currentView === 'watchlist') {
+        let watchlist = userData[currentTab]?.watchlist || [];
+        if (searchQuery) watchlist = watchlist.filter(item => item.title.toLowerCase().includes(searchQuery) || item.reason.toLowerCase().includes(searchQuery));
+        if (watchlist.length === 0) { emptyState.style.display = 'block'; return; }
+        emptyState.style.display = 'none';
+        
+        [...watchlist].reverse().forEach(item => {
+            const div = document.createElement('div'); div.className = 'list-item'; 
+            let catItem = item.id ? items.find(i => i.id == item.id) : items.find(i => i.title.toLowerCase() === item.title.toLowerCase());
+            const hasTmdb = !!item.tmdb;
+            const poster = catItem?.poster || item.tmdb?.poster || 'https://via.placeholder.com/60x90/333333/ffffff?text=%E2%8F%B3';
+            const year = catItem?.year || item.tmdb?.year || item.year || '⏳';
+            const genres = catItem?.genres?.join(', ') || item.tmdb?.genres?.join(', ') || (!catItem && !hasTmdb ? '⏳ In attesa...' : '');
+            const platformList = catItem?.platforms || item.tmdb?.platforms || [];
+            const isFuture = hasTmdb && item.tmdb.release_date && new Date(item.tmdb.release_date) > new Date();
+            const escapedTitle = item.title.replace(/'/g, "\\'");
+            const idParam = catItem ? `'${catItem.id}'` : null;
+
+            const searchTrailerUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(item.title + ' ' + (year!=='⏳' ? year : '') + ' trailer ita')}`;
+
+            const platformHtml = isFuture
+                ? `<span style="color:#00a8e1;font-size:0.8em;font-weight:600;">📅 ${new Date(item.tmdb.release_date).toLocaleDateString('it-IT')}${platformList.length ? ' su ' + platformList.join(', ') : ''}</span>`
+                : (platformList.length ? `<span style="font-size:0.8em; color:#888;">Su: ${platformList.join(', ')}</span>` : '');
+
+            const itemColor = !catItem && !hasTmdb ? '#ffb74d' : '#aaa';
+
+            div.innerHTML = `
+                <img src="${poster}" alt="Poster" style="align-self: flex-start;" onclick="copyTitle('${escapedTitle}')">
+                <div class="list-item-content">
+                    <h3 style="color: var(--accent-color);">${item.title} ${year !== '⏳' ? `(${year})` : ''}</h3>
+                    <p style="color: ${itemColor}; font-size: 0.8em; margin-bottom: 5px;">${genres}</p>
+                    <p style="color: #ddd; font-style: italic; font-size: 0.9em; white-space: normal; line-height: 1.3; flex-grow: 1;">"${item.reason}"</p>
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-top:4px;">
+                        ${platformHtml}
+                        <a class="trailer-link" href="${searchTrailerUrl}" target="_blank" style="margin:0;">▶️ Trailer</a>
+                    </div>
+                </div>
+                <div class="list-item-actions">
+                    <button class="mark-seen-btn" onclick="markWatchlistAsSeen('${escapedTitle}', ${idParam})">L'ho Visto!</button>
+                    <button class="action-icon" style="color:#ff5252;" onclick="deleteFromWatchlist('${escapedTitle}')" title="Rimuovi">✖</button>
+                </div>
+            `;
+            listOutput.appendChild(div);
+        });
+    }
+
+    const hasUntracked = (userData[currentTab]?.manual_queue || []).some(i => !i.tmdb) ||
+                         (userData[currentTab]?.watchlist || []).some(i => !i.id && !i.tmdb);
+    document.getElementById('btn-enrich').style.display = hasUntracked ? 'inline-block' : 'none';
+}
+
+// ─── TMDB Enrichment ─────────────────────────────────────────────
+
+function getTMDBToken() {
+    let token = localStorage.getItem('tmdb_token');
+    if (!token) {
+        token = prompt('Inserisci il tuo TMDB API Read Access Token (v4):\n(lo trovi su https://www.themoviedb.org/settings/api)');
+        if (token && token.trim()) {
+            token = token.trim();
+            localStorage.setItem('tmdb_token', token);
+        } else {
+            return null;
+        }
+    }
+    return token;
+}
+
+async function searchTMDB(query, type, token) {
+    const endpoint = type === 'movie' ? 'movie' : 'tv';
+    const res = await fetch(`https://api.themoviedb.org/3/search/${endpoint}?query=${encodeURIComponent(query)}&language=it-IT&page=1`, {
+        headers: { 'Authorization': `Bearer ${token}`, 'accept': 'application/json' }
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    return data.results || [];
+}
+
+async function fetchTMDBDetails(tmdbId, type, token) {
+    const endpoint = type === 'movie' ? 'movie' : 'tv';
+    const PROVIDER_MAP = { 8: 'Netflix', 119: 'Prime Video', 337: 'Disney+', 393: 'Now TV' };
+
+    const [detailsRes, providersRes] = await Promise.all([
+        fetch(`https://api.themoviedb.org/3/${endpoint}/${tmdbId}?language=it-IT`, {
+            headers: { 'Authorization': `Bearer ${token}`, 'accept': 'application/json' }
+        }),
+        fetch(`https://api.themoviedb.org/3/${endpoint}/${tmdbId}/watch/providers`, {
+            headers: { 'Authorization': `Bearer ${token}`, 'accept': 'application/json' }
+        })
+    ]);
+
+    if (!detailsRes.ok) return null;
+
+    const details = await detailsRes.json();
+    const providersData = providersRes.ok ? await providersRes.json() : null;
+
+    let platforms = [];
+    if (providersData?.results?.IT?.flatrate) {
+        platforms = providersData.results.IT.flatrate
+            .map(p => PROVIDER_MAP[p.provider_id])
+            .filter(Boolean);
+    }
+
+    const releaseDate = type === 'movie' ? details.release_date : details.first_air_date;
+
+    return {
+        id: details.id,
+        title: details.title || details.name,
+        year: releaseDate ? parseInt(releaseDate.substring(0, 4)) : 0,
+        genres: (details.genres || []).map(g => g.name),
+        poster: details.poster_path ? `https://image.tmdb.org/t/p/w500${details.poster_path}` : '',
+        platforms: platforms,
+        release_date: releaseDate || '',
+        status: details.status || ''
+    };
+}
+
+async function enrichAllManual() {
+    const token = getTMDBToken();
+    if (!token) return;
+
+    const type = currentTab === 'movies' ? 'movie' : 'tv';
+    const typeLabel = currentTab === 'movies' ? 'film' : 'serie TV';
+
+    const manualItems = userData[currentTab]?.manual_queue || [];
+    const watchlistItems = userData[currentTab]?.watchlist || [];
+
+    const toProcess = [];
+    manualItems.forEach((item, idx) => { if (!item.tmdb) toProcess.push({ source: 'manual', idx, title: item.title }); });
+    watchlistItems.forEach((item, idx) => { if (!item.id && !item.tmdb) toProcess.push({ source: 'watchlist', idx, title: item.title }); });
+
+    if (toProcess.length === 0) {
+        alert('Nessun titolo manuale da arricchire con TMDB.');
+        return;
+    }
+
+    const logDiv = document.createElement('div');
+    logDiv.id = 'enrich-log';
+    logDiv.style.cssText = 'background: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 12px 15px; margin: 10px auto; max-width: 1000px; max-height: 200px; overflow-y: auto; font-size: 0.85em; font-family: monospace; width: 100%;';
+    const listOutput = document.getElementById('list-output');
+    listOutput.parentNode.insertBefore(logDiv, listOutput);
+
+    function log(msg) {
+        const time = new Date().toLocaleTimeString('it-IT');
+        logDiv.innerHTML += `<div style="margin-bottom: 2px;"><span style="color:#888;">[${time}]</span> ${msg}</div>`;
+        logDiv.scrollTop = logDiv.scrollHeight;
+    }
+
+    log(`🔍 Cerco ${toProcess.length} ${typeLabel} su TMDB...`);
+
+    let enriched = 0;
+    let notFound = 0;
+
+    for (const entry of toProcess) {
+        log(`   Cerco "${entry.title}"...`);
+        const results = await searchTMDB(entry.title, type, token);
+
+        if (results && results.length > 0) {
+            const bestMatch = results[0];
+            const details = await fetchTMDBDetails(bestMatch.id, type, token);
+
+            if (details) {
+                if (entry.source === 'manual') {
+                    userData[currentTab].manual_queue[entry.idx].tmdb = details;
+                } else {
+                    userData[currentTab].watchlist[entry.idx].tmdb = details;
+                }
+                log(`   ✅ "${details.title}" (${details.year})${details.platforms.length ? ' — ' + details.platforms.join(', ') : ''}${details.release_date ? ' — ' + details.release_date : ''}`);
+                enriched++;
+            } else {
+                log(`   ⚠️ "${entry.title}" — errore dettagli`);
+                notFound++;
+            }
+        } else {
+            log(`   ❌ "${entry.title}" — nessun risultato su TMDB`);
+            notFound++;
+        }
+    }
+
+    log(`💾 Salvataggio su GitHub...`);
+    await saveUserData();
+    log(`✅ Completato! ${enriched} arricchiti, ${notFound} non trovati.`);
+
+    setTimeout(() => {
+        const el = document.getElementById('enrich-log');
+        if (el) el.remove();
+    }, 8000);
+
+    renderList();
+}
