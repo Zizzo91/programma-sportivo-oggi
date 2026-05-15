@@ -1,13 +1,112 @@
 {
-  "last_updated": "2026-05-14T21:26:38.917572+02:00",
+  "last_updated": "2026-05-15T10:37:21.176326+02:00",
   "events": [
     {
-      "orario": "13:00",
-      "evento": "Internazionali BNL d'Italia - Quarti di finale ATP (incl. Sinner vs Rublev) e Semifinali WTA (Sessione diurna)",
-      "competizione": "Tennis - ATP Masters 1000 / WTA 1000 Roma",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, TV8 (per Sinner-Rublev)",
-      "note": "Jannik Sinner (ITA) vs Andrey Rublev (RUS) è il primo match sul Campo Centrale.",
-      "fonte": "Lo Slalom, OA Sport, RomaLive, Internazionali d'Italia",
+      "orario": "09:00",
+      "evento": "Prove Libere 1 Moto3",
+      "competizione": "MotoGP - GP Catalogna 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "OA Sport, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:50",
+      "evento": "Prove Libere 1 Moto2",
+      "competizione": "MotoGP - GP Catalogna 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "OA Sport, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "Prove Libere 1 MotoGP",
+      "competizione": "MotoGP - GP Catalogna 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:30",
+      "evento": "Vero Volley Torneria Colombo vs Savino Del Bene Scandicci",
+      "competizione": "Finali Nazionali U18 Femminili (Volley)",
+      "canale": "Nessuna copertura tv/streaming nota",
+      "note": "Girone A Fase Scudetto",
+      "fonte": "Vero Volley",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Pre-qualifiche Moto3",
+      "competizione": "MotoGP - GP Catalogna 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Bolelli/Vavassori vs Heliovaara/Patten (Quarti di finale doppio)",
+      "competizione": "Tennis - Internazionali BNL d'Italia (ATP Roma 2026)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "",
+      "fonte": "Sportface",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Pre-qualifiche Moto2",
+      "competizione": "MotoGP - GP Catalogna 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Pre-qualifiche MotoGP",
+      "competizione": "MotoGP - GP Catalogna 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "OA Sport, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Luciano Darderi vs Casper Ruud (Semifinale singolare)",
+      "competizione": "Tennis - Internazionali BNL d'Italia (ATP Roma 2026)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, TV8",
+      "note": "Prima semifinale",
+      "fonte": "OA Sport, Sportface",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "2ª classificata Fase Qualificazione vs Vero Volley Torneria Colombo",
+      "competizione": "Finali Nazionali U18 Femminili (Volley)",
+      "canale": "Nessuna copertura tv/streaming nota",
+      "note": "Girone A Fase Scudetto",
+      "fonte": "Vero Volley",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Jannik Sinner vs Daniil Medvedev (Semifinale singolare)",
+      "competizione": "Tennis - Internazionali BNL d'Italia (ATP Roma 2026)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, TV8",
+      "note": "Seconda semifinale",
+      "fonte": "OA Sport, Sportface",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Bari vs Südtirol",
+      "competizione": "Calcio - Playout Serie B",
+      "canale": "DAZN, LAB CHANNEL",
+      "note": "Andata playout",
+      "fonte": "Calciomagazine, DAZN News, Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
