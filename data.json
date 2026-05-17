@@ -1,184 +1,130 @@
 {
-  "last_updated": "2026-05-16T14:56:07.870821+02:00",
+  "last_updated": "2026-05-17T03:56:06.520708+02:00",
   "events": [
     {
-      "orario": "10:10",
-      "evento": "Prove Libere 2",
-      "competizione": "MotoGP - GP Catalogna",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2_jwoc9uW7W6mcxjm2dSyizVTDZHUp3q8IqjdBAO8qUov9WHBYti3ollzcp1VA0q7tw0Lfk90ekWmYP0kYCBF8VoYZp0StVTocniSLiIWHAekB8ri1dnpFIG7FaF68uJqG-HjpsC3ux5Rlh578V2o8Bzoy4cBimmuK-Y8ts_u2dFzP7Le1qmswtWSdxOgQx43_7MSUdPRowwTi6UjO6j5f6enGnGaWQTupzN-bs0OCVtGAkhpSMKkcMifZS-_RmZCcPVLSq0CNmA_BgBdL9ZB9hGRH6bHvUAQUyC8L_83f0TXR6uMqxn_PmrlflpVLOw2vJPEA4V_ZAY",
+      "orario": "12:30",
+      "evento": "Como 1907 - Parma",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:50",
-      "evento": "Qualifiche Q1",
-      "competizione": "MotoGP - GP Catalogna",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, differita su TV8 alle 15:15 per le qualifiche MotoGP.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2_jwoc9uW7W6mcxjm2dSyizVTDZHUp3q8IqjdBAO8qUov9WHBYti3ollzcp1VA0q7tw0Lfk90ekWmYP0kYCBF8VoYZp0StVTocniSLiIWHAekB8ri1dnpFIG7FaF68uJqG-HjpsC3ux5Rlh578V2o8Bzoy4cBimmuK-Y8ts_u2dFzP7Le1qmswtWSdxOgQx43_7MSUdPRowwTi6UjO6j5f6enGnGaWQTupzN-bs0OCVtGAkhpSMKkcMifZS-_RmZCcPVLSq0CNmA_BgBdL9ZB9hGRH6bHvUAQUyC8L_83f0TXR6uMqxn_PmrlflpVLOw2vJPEA4V_ZAY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "Qualifiche Q2",
-      "competizione": "MotoGP - GP Catalogna",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, differita su TV8 alle 15:15 per le qualifiche MotoGP.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2_jwoc9uW7W6mcxjm2dSyizVTDZHUp3q8IqjdBAO8qUov9WHBYti3ollzcp1VA0q7tw0Lfk90ekWmYP0kYCBF8VoYZp0StVTocniSLiIWHAekB8ri1dnpFIG7FaF68uJqG-HjpsC3ux5Rlh578V2o8Bzoy4cBimmuK-Y8ts_u2dFzP7Le1qmswtWSdxOgQx43_7MSUdPRowwTi6UjO6j5f6enGnGaWQTupzN-bs0OCVtGAkhpSMKkcMifZS-_RmZCcPVLSq0CNmA_BgBdL9ZB9hGRH6bHvUAQUyC8L_83f0TXR6uMqxn_PmrlflpVLOw2vJPEA4V_ZAY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Qualifiche",
-      "competizione": "Moto3 - GP Catalogna",
-      "canale": "Sky Sport MotoGP",
-      "note": "Differita su TV8 alle 16:55.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2_jwoc9uW7W6mcxjm2dSyizVTDZHUp3q8IqjdBAO8qUov9WHBYti3ollzcp1VA0q7tw0Lfk90ekWmYP0kYCBF8VoYZp0StVTocniSLiIWHAekB8ri1dnpFIG7FaF68uJqG-HjpsC3ux5Rlh578V2o8Bzoy4cBimmuK-Y8ts_u2dFzP7Le1qmswtWSdxOgQx43_7MSUdPRowwTi6UjO6j5f6enGnGaWQTupzN-bs0OCVtGAkhpSMKkcMifZS-_RmZCcPVLSq0CNmA_BgBdL9ZB9hGRH6bHvUAQUyC8L_83f0TXR6uMqxn_PmrlflpVLOw2vJPEA4V_ZAY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Semifinale Doppio",
-      "competizione": "Tennis - Internazionali BNL d'Italia (ATP)",
-      "canale": "Sky Sport Tennis",
-      "note": "Bolelli/Vavassori (ITA) vs Harrison/Skupski.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4iWtpUDvqP6S8jaLzOOFmp1KHz9MdldanCdFspd618FR9MfySTO41xatyN9Rt9Y7ok2kVFG4XFdah4nsIy3-AK_Vx6b0UNoCa7BPxpHLZIIFOAlLIG3xd-1tmyZfnoR8HoFZH1-WAbdT6-NJtLJ5dJloMfCaWofioWgo7Su1UftGLoUGkJtApjDjWX-EylQcl79Ixcy6HPM98VlEQAEpW96jbwtwcRm6t_HW0ZJoBa_P7ZYtnVVSHCagiMf4wA7I-gJbEjEZIzwZPK6QQHOYD7_1nQaQs038ZFwbv0vp4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESFMrWguqycfH6dQSd1jEfBPgEmkNUfF7WhLU-fyMt5C43lJrjZgvxM9mP7bsqEDDi0hCD9P0mDh2bc4WbEy1QoxaLo6ed0GcrMzvxsRLjjHjwlpgtn_rRLnMwg4P2XWWDLTEbWj-TWmgd5Dy7cuMg1JQF",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:40",
-      "evento": "Qualifiche",
-      "competizione": "Moto2 - GP Catalogna",
-      "canale": "Sky Sport MotoGP",
-      "note": "Differita su TV8 alle 17:45.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2_jwoc9uW7W6mcxjm2dSyizVTDZHUp3q8IqjdBAO8qUov9WHBYti3ollzcp1VA0q7tw0Lfk90ekWmYP0kYCBF8VoYZp0StVTocniSLiIWHAekB8ri1dnpFIG7FaF68uJqG-HjpsC3ux5Rlh578V2o8Bzoy4cBimmuK-Y8ts_u2dFzP7Le1qmswtWSdxOgQx43_7MSUdPRowwTi6UjO6j5f6enGnGaWQTupzN-bs0OCVtGAkhpSMKkcMifZS-_RmZCcPVLSq0CNmA_BgBdL9ZB9hGRH6bHvUAQUyC8L_83f0TXR6uMqxn_PmrlflpVLOw2vJPEA4V_ZAY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Giro in Diretta - Tappa 8",
-      "competizione": "Ciclismo - Giro d'Italia 2026",
-      "canale": "Rai 2",
-      "note": "Tappa da Chieti a Fermo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExvQm18qrbjBXupZ7BbPH0gPxRYR_2X1oWFCA666ZbJDRrGD6KNToO19hra8idUWuZRyKU7zM_fd1ysdaVMMoiK65ipXBYrTTzT_lsq3tiTktiPX7DN4B4SuVrjqfNV1N6DkbqDJbQ2Atso4V4FIvqgO533v-Tg1ZUV665M3Y-izSD3v2-YZgRbsROpht2wv6KnKJYTl7R6XkqFsL-dlTR24jlrC2nPSPZsEPcySvnkEBUHilH4wI7x6eyVBIeImeACEtmO3Z7iBjcE3g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_plPICRNF70uPeg4t_MuhVuzfM-iedhQG2Fx1_5i7d-m_JbeLbg_Ar-V9oWzryaVXE_NiWKNvzQu9yLjgJApVbr4HyZH7NSQG0tbRCLW1MfccaSgLPRR7oQgO4fx3J1KQPGktGLfwqpuMHSLmOQbFo3bjaWrAm8bvV38alGR7w62bpE6LCkcIBdzEpO5xHUmg6oM1o9kcFh8VbvI4AACyIf0x8DlLBXk-fTusKetDQeHj6nU",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Semifinale (ripresa)",
-      "competizione": "Tennis - Internazionali BNL d'Italia (ATP)",
-      "canale": "Sky Sport Tennis, TV8",
-      "note": "Jannik Sinner vs Daniil Medvedev. Il match riprende da 6-2, 5-7, 4-2, 40-A.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_yHuQvX0xj3eN3X4excK1KixgBYYeE6O-oySsWyUgyEMa0_n6rfLwXVeRHNlsX2T7l9Dl6oqszDVBDRxdOR7aEHmC_etmomRmy9xGOJAyT-lD8SLKkHB2AP5yYKEVtM3iGw0DvbFPQPM_U2BEocW0iI1sQkZQKj8IvEmWGAWmDMhYs9kgzI67zuxfOdKBAGAwezFtmzHM_8RsyNFDMWyuXPtPmZwfVU3m4pCgdO-UwI1JN7KY5YY_3PBGaQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4iWtpUDvqP6S8jaLzOOFmp1KHz9MdldanCdFspd618FR9MfySTO41xatyN9Rt9Y7ok2kVFG4XFdah4nsIy3-AK_Vx6b0UNoCa7BPxpHLZIIFOAlLIG3xd-1tmyZfnoR8HoFZH1-WAbdT6-NJtLJ5dJloMfCaWofioWgo7Su1UftGLoUGkJtApjDjWX-EylQcl79Ixcy6HPM98VlEQAEpW96jbwtwcRm6t_HW0ZJoBa_P7ZYtnVVSHCagiMf4wA7I-gJbEjEZIzwZPK6QQHOYD7_1nQaQs038ZFwbv0vp4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNxhUVt89uELodr-7SQZiBjQS5H7WPoTQh_4EV9VAz2R7nYknxizRFfVxGEtYPpkPVXcCHU0a1fb_jcS_z6q6yhe9UMPBX3rw2buEniODmxidxjMvzrP0KnMBbkqswd4I9KSKjWl66zSGnRKtzLnTTtkzrzGbmUffhbGnH",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Gara Sprint",
-      "competizione": "MotoGP - GP Catalogna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Diretta su Sky Sport Uno e Sky Sport MotoGP. Differita su TV8 alle 19:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZAF_fQhoImZ8tzTwaTW_qizrpUWIKIg5XtyIT3pgoEXEoUuWTTNpqqNWTXTKTJxdZN6FVFGrRdeNHp97hW5Yr1qVe_uX2jSLj-pPEMEhuVzr1anRo0f_akQBkYMjCg750LwxjaJgMugxFAfXBpNgnP9d77S7Fymy_d0JjRJVTFx0tas1hwucrM-KIjdt_-Kjq4d8IXWgCMNbc1wF3Xb6svdwY-7z4kxPQXVmnSnZmOrbwqK7Au9UYkw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNxhUVt89uELodr-7SQZiBjQS5H7WPoTQh_4EV9VAz2R7nYknxizRFfVxGEtYPpkPVXcCHU0a1fb_jcS_z6q6yhe9UMPBX3rw2buEniODmxidxjMvzrP0KnMBbkqswd4I9KSKjWl66zSGnRKtzLnTTtkzrzGbmUffhbGnH, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Roma - Genoa",
-      "competizione": "Calcio - Serie A Women Athora",
+      "orario": "12:30",
+      "evento": "Genoa - Milan",
+      "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy7MQdOGIzkBmyDVPL3rhJN_25VKzj_fCsbKXi2w2qmEllVWBvizgPzO4-m_0DI3S4zoN7A_F9oN4sDzEjgSK6Q3JNHlVkj5AAC7Nwfa0vA3x_3OBY_onOPNDPozNSPp9D5wcbzGfJy2aEWKyi2Hh8keXyuJ4dpqlabWW8i8hGn319U6Ir4B82pDR01k5iOtnrgwgPGX27, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1I6mNqdTPM5w2RQS82YiSeVxqvI5VEMZ50Uo2yn1r-HGEjW3aD30shSbgQ1eRfqdI5bq9UxfsR8rjZ5i9adwAls2rVr1KyxbSQfLO65UJvPDNTSRFsDyyylPIkXyZTLHVAHvKdOr3XqmsdXAlRLs2dAAbHHXXGoB_8y1QjJO3Xns",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:15",
-      "evento": "Qualifiche MotoGP (Differita)",
-      "competizione": "MotoGP - GP Catalogna",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
+      "orario": "12:30",
+      "evento": "Juventus - Fiorentina",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Pisa - Napoli",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Roma - Lazio",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Inter - Hellas Verona",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Finale",
-      "competizione": "Calcio - Emirates FA Cup",
-      "canale": "NOVE, DAZN",
-      "note": "Chelsea vs Manchester City.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy7MQdOGIzkBmyDVPL3rhJN_25VKzj_fCsbKXi2w2qmEllVWBvizgPzO4-m_0DI3S4zoN7A_F9oN4sDzEjgSK6Q3JNHlVkj5AAC7Nwfa0vA3x_3OBY_onOPNDPozNSPp9D5wcbzGfJy2aEWKyi2Hh8keXyuJ4dpqlabWW8i8hGn319U6Ir4B82pDR01k5iOtnrgwgPGX27, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1I6mNqdTPM5w2RQS82YiSeVxqvI5VEMZ50Uo2yn1r-HGEjW3aD30shSbgQ1eRfqdI5bq9UxfsR8rjZ5i9adwAls2rVr1KyxbSQfLO65UJvPDNTSRFsDyyylPIkXyZTLHVAHvKdOr3XqmsdXAlRLs2dAAbHHXXGoB_8y1QjJO3Xns",
+      "evento": "Nissa - Reggina",
+      "competizione": "Serie D Playoff - Finale Girone I",
+      "canale": "TBA (online stream probabile, no canale TV nazionale specificato)",
+      "note": "",
+      "fonte": "corrieredellacalabria.it, seried24.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:55",
-      "evento": "Qualifiche Moto3 (Differita)",
-      "competizione": "MotoGP - GP Catalogna",
-      "canale": "TV8",
+      "orario": "17:00*",
+      "evento": "Finale Singolare Maschile: Jannik Sinner vs Casper Ruud",
+      "competizione": "Internazionali BNL d'Italia (Roma)",
+      "canale": "Sky Sport, TV8",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:45",
-      "evento": "Qualifiche Moto2 (Differita)",
-      "competizione": "MotoGP - GP Catalogna",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
-      "accuratezza_orario": "esatto"
+      "fonte": "olympics.com",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
-      "evento": "Inter - Como",
-      "competizione": "Calcio - Serie A Women Athora",
+      "evento": "Atalanta - Bologna",
+      "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy7MQdOGIzkBmyDVPL3rhJN_25VKzj_fCsbKXi2w2qmEllVWBvizgPzO4-m_0DI3S4zoN7A_F9oN4sDzEjgSK6Q3JNHlVkj5AAC7Nwfa0vA3x_3OBY_onOPNDPozNSPp9D5wcbzGfJy2aEWKyi2Hh8keXyuJ4dpqlabWW8i8hGn319U6Ir4B82pDR01k5iOtnrgwgPGX27, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1I6mNqdTPM5w2RQS82YiSeVxqvI5VEMZ50Uo2yn1r-HGEjW3aD30shSbgQ1eRfqdI5bq9UxfsR8rjZ5i9adwAls2rVr1KyxbSQfLO65UJvPDNTSRFsDyyylPIkXyZTLHVAHvKdOr3XqmsdXAlRLs2dAAbHHXXGoB_8y1QjJO3Xns",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00",
-      "evento": "Gara Sprint MotoGP (Differita)",
-      "competizione": "MotoGP - GP Catalogna",
+      "orario": "20:45",
+      "evento": "Cagliari - Torino",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Sassuolo - Lecce",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Udinese - Cremonese",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "37a Giornata",
+      "fonte": "calcioefinanza.it, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Gara MotoGP",
+      "competizione": "Gran Premio di Catalogna",
+      "canale": "Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "motogpbarcelona.com, formulapassion.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Gara MotoGP",
+      "competizione": "Gran Premio di Catalogna",
       "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG83b97Uk1be4VNME3a_gSu4fvAfD4dgd7j6mC3NpFoI-sPRC8AhtxjROPz0hDfecFykUo9iJdihvuOa0stbTzczgjpmrsFkNtacjr__Xyle7IVZ8kbI-3htHBAxf1BrTTuyjh-DwyeabgEjMtk0OKppwW7lejHufTZsfMXVlPCPwxfVNlL0kWaOml3GUiG4qmeEj78etQzC8kUEp5l6vK7ZHodgSJBtsOhidyyJZ08T-EMfNdsW9TJsByNXZ0dhELVxkfE3g",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Giro d'Italia",
-      "competizione": "Ciclismo - Giro d'Italia 2026",
-      "canale": "Rai Sport + HD",
-      "note": "Highlights/Repliche della Tappa 8.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq5PZ2P7gkeEvplIYALW2AEGR8Tah8ZrPoybig4IuT86uF-5IgtcLPNOx9ya6HNPBXFN707bLxa8uD2i68IiaMlDNeQO2MA7YOtd-eHYyv3PDAkE3Yzu2r-3NSZ2E15-V76Pu5-DOPoVXjqao9zxMrBgIURmIzqQbMgobk172JmSdCl6meBAyfJ1jO-Kc14hkgAAKkAls=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Juve Stabia - Monza",
-      "competizione": "Calcio - Semifinali Playoff Andata Serie BKT",
-      "canale": "DAZN, LAB Channel",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy7MQdOGIzkBmyDVPL3rhJN_25VKzj_fCsbKXi2w2qmEllVWBvizgPzO4-m_0DI3S4zoN7A_F9oN4sDzEjgSK6Q3JNHlVkj5AAC7Nwfa0vA3x_3OBY_onOPNDPozNSPp9D5wcbzGfJy2aEWKyi2Hh8keXyuJ4dpqlabWW8i8hGn319U6Ir4B82pDR01k5iOtnrgwgPGX27, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1I6mNqdTPM5w2RQS82YiSeVxqvI5VEMZ50Uo2yn1r-HGEjW3aD30shSbgQ1eRfqdI5bq9UxfsR8rjZ5i9adwAls2rVr1KyxbSQfLO65UJvPDNTSRFsDyyylPIkXyZTLHVAHvKdOr3XqmsdXAlRLs2dAAbHHXXGoB_8y1QjJO3Xns, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMPIiuuVSXgvAu7uZqbqgKPTpSfFHQL2_AnUmM8xfzwCG04bJi3pvDMYL_I_E31sFvFN2zTSTppqzhr6z9DNt3KiAQCtDBv6jla4jmrIOrdPwQ6Y4iGomTSWrHoVdaod1Vr6AMBkkpd5grstcNrmmfsdB9387PgSrTtHOuNxD9c_kDP6E25sSs4b1jFHB",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Giro d'Italia",
-      "competizione": "Ciclismo - Giro d'Italia 2026",
-      "canale": "Rai Sport + HD",
-      "note": "Highlights/Repliche della Tappa 8.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq5PZ2P7gkeEvplIYALW2AEGR8Tah8ZrPoybig4IuT86uF-5IgtcLPNOx9ya6HNPBXFN707bLxa8uD2i68IiaMlDNeQO2MA7YOtd-eHYyv3PDAkE3Yzu2r-3NSZ2E15-V76Pu5-DOPoVXjqao9zxMrBgIURmIzqQbMgobk172JmSdCl6meBAyfJ1jO-Kc14hkgAAKkAls=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Giro d'Italia",
-      "competizione": "Ciclismo - Giro d'Italia 2026",
-      "canale": "Rai Sport + HD",
-      "note": "Highlights/Repliche della Tappa 8 (fino al 17 Maggio 06:00 CET).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq5PZ2P7gkeEvplIYALW2AEGR8Tah8ZrPoybig4IuT86uF-5IgtcLPNOx9ya6HNPBXFN707bLxa8uD2i68IiaMlDNeQO2MA7YOtd-eHYyv3PDAkE3Yzu2r-3NSZ2E15-V76Pu5-DOPoVXjqao9zxMrBgIURmIzqQbMgobk172JmSdCl6meBAyfJ1jO-Kc14hkgAAKkAls=",
+      "note": "Differita/Replica",
+      "fonte": "motogp.com, motogpbarcelona.com",
       "accuratezza_orario": "esatto"
     }
   ]
