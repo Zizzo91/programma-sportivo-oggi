@@ -1,130 +1,193 @@
 {
-  "last_updated": "2026-05-17T03:56:06.520708+02:00",
+  "last_updated": "2026-05-17T10:08:55.688145+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Como 1907 - Parma",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Genoa - Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Juventus - Fiorentina",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Pisa - Napoli",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Roma - Lazio",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Inter - Hellas Verona",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Nissa - Reggina",
-      "competizione": "Serie D Playoff - Finale Girone I",
-      "canale": "TBA (online stream probabile, no canale TV nazionale specificato)",
+      "orario": "09:40",
+      "evento": "Warm Up",
+      "competizione": "MotoGP - GP Catalogna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "corrieredellacalabria.it, seried24.com",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFu-kjdgGP88k7xDJ0X0jH27T4rykGjb6Qs3JQ62gIynXo4acofzm8L44chxgz8jZGrUWWoasF-fcsjTqcSrKwnducPgb8nLqD_y570wKSxQ1YEh8I7ZzK8nxX-qSdl8CPyfioHONTWYpn-FVw",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00*",
-      "evento": "Finale Singolare Maschile: Jannik Sinner vs Casper Ruud",
-      "competizione": "Internazionali BNL d'Italia (Roma)",
-      "canale": "Sky Sport, TV8",
+      "orario": "11:00",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP - GP Catalogna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFu-kjdgGP88k7xDJ0X0jH27T4rykGjb6Qs3JQ62gIynXo4acofzm8L44chxgz8jZGrUWWoasF-fcsjTqcSrKwnducPgb8nLqD_y570wKSxQ1YEh8I7ZzK8nxX-qSdl8CPyfioHONTWYpn-FVw",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Juventus-Fiorentina",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport 4K, Sky Sport 252, Sky Go, NOW",
       "note": "",
-      "fonte": "olympics.com",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Genoa-Milan",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Roma-Lazio",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Pisa-Napoli",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Como-Parma",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport 253, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP - GP Catalogna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFu-kjdgGP88k7xDJ0X0jH27T4rykGjb6Qs3JQ62gIynXo4acofzm8L44chxgz8jZGrUWWoasF-fcsjTqcSrKwnducPgb8nLqD_y570wKSxQ1YEh8I7ZzK8nxX-qSdl8CPyfioHONTWYpn-FVw",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:20",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP - GP Catalogna",
+      "canale": "TV8 HD",
+      "note": "Differita. L'orario potrebbe essere soggetto a variazione.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "Atalanta - Bologna",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it",
-      "accuratezza_orario": "esatto"
+      "orario": "14:00",
+      "evento": "Finale Doppio Maschile: Bolelli/Vavassori vs Granollers/Zeballos",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Non prima delle 14:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGFbdfYOQutYBVgHbWgJu_O6z-KsbZNKwiKYSB8ybJBklH1Y60QvS-csHeJptYntqjWetAjpfWhtK0LgAuoG89Y0js9J3ZubTcejp612gSe_PArwfZfNQOgfKFEkW-b32XCvILqGWWXpsoGIgmeyfXY0xW2Ydmtg49B5BTdyEM2yMr-tfZOOsmVOOlFxcQ_Aw4Eu3krcwk56OSKfG2mEIPWZ4=",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:45",
-      "evento": "Cagliari - Torino",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Sassuolo - Lecce",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Udinese - Cremonese",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "37a Giornata",
-      "fonte": "calcioefinanza.it, skysport.it",
+      "orario": "14:00",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP - GP Catalogna",
+      "canale": "TV8 HD",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFu-kjdgGP88k7xDJ0X0jH27T4rykGjb6Qs3JQ62gIynXo4acofzm8L44chxgz8jZGrUWWoasF-fcsjTqcSrKwnducPgb8nLqD_y570wKSxQ1YEh8I7ZzK8nxX-qSdl8CPyfioHONTWYpn-FVw",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00",
       "evento": "Gara MotoGP",
-      "competizione": "Gran Premio di Catalogna",
-      "canale": "Sky Sport MotoGP",
+      "competizione": "MotoGP - GP Catalogna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "Diretta",
-      "fonte": "motogpbarcelona.com, formulapassion.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_a5S07GXfeHo7gcqJKCUiY9teoUWdQKPaA8JUQjDMpk_j6SKl-v4CuwTX1rItENmJhn0hVsureG1zy9RL8s7pfofaIrHQTW78u3KTKjAH5eNmQyGK4LhZiEl_uD2mV982vPuOiMfNhFoPPJ1B, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFu-kjdgGP88k7xDJ0X0jH27T4rykGjb6Qs3JQ62gIynXo4acofzm8L44chxgz8jZGrUWWoasF-fcsjTqcSrKwnducPgb8nLqD_y570wKSxQ1YEh8I7ZzK8nxX-qSdl8CPyfioHONTWYpn-FVw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOETZfLKqD3eecRJa5EFxtE-X7cZkdrbBLJUbUION38LZq1G_sw80DqR1-xo3p-Xpi8Z9D9wcWwscuidthHHLqfnRXG7u4q7jKAYM36i4PFBw7CPoZfUC-jucdJZO2Ri25Fy5uuhA=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Inter-Verona",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:15",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP - GP Catalogna",
+      "canale": "TV8 HD",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFu-kjdgGP88k7xDJ0X0jH27T4rykGjb6Qs3JQ62gIynXo4acofzm8L44chxgz8jZGrUWWoasF-fcsjTqcSrKwnducPgb8nLqD_y570wKSxQ1YEh8I7ZzK8nxX-qSdl8CPyfioHONTWYpn-FVw",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Nissa-Reggina",
+      "competizione": "Serie D Playoff Girone I (Finale)",
+      "canale": "ReggioTV (Canale 77/677 DTT Calabria), reggiotv.it",
+      "note": "Orario stimato, alcune fonti indicano le 15:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRQuHWYhrDeTt9ovkJhq12cnN96E7DDMGUQG8ZcW1FisnO_9OnJACYPiWn1HP6OJuSmGLyoNKTpYtwJ_0slLVUrBT6lpV-LFk8Axw9tsnW6CY4cGne6pVUA9ZVDnko0ixIlk27t5IymAB4olzLjxSq7cX_abLev5e_GT5PnfwM63cuoXNNOw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF5w8OAAZIH8dxYNThNe4RZzLdeQRRvEZaKshuWxNqjCdr6-ppO7699nmhcEO_a7-MHQnVRIlBF0pzzDAlnwmTXKmswV-fs37CZCKi_jvhLCTWej5VBHKUm8FAqCeDcGQdbDZNpdoC6DuBSvOFYUjxrheiSH_Os1QTs3p28Knxl63ujx4LsNOfJHQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH78pFyc9wHDD5P4el8LSWxE_Utfbd2NMklxruopQcurrhFTN6K1KfoctQVawLaGsp7RxVnu5UJLIwNNWgBY_g_DjYt3qikTsnUGJuvyMGOUujwvjBjAik6lAuydargU1Xo795mOyif8SoNb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBX-BYnMiENKGCuQ5bcjtMBvrPxOHLs_fQ3rLq0B0GOiuLlt9SIrk2CadrXr5GYNbeDeY1cer1M249kWxQgCsbRjEcxG6_7TICARLJUYiGWSBZtCYxfRkUG1xHD7S-YuCE0ddHy4BCaF36OuGXB6oVytM3gxccDPbt9b4HMAaccAvh8SrYSFLn1CDnzv4jtitFoH0=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Finale Singolare Maschile: Jannik Sinner-Casper Ruud",
+      "competizione": "ATP Masters 1000 Roma",
+      "canale": "TV8 HD, Sky Sport Uno, Sky Sport Tennis, tv8.it, Sky Go, NOW, Tennis TV",
+      "note": "Non prima delle 17:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGFbdfYOQutYBVgHbWgJu_O6z-KsbZNKwiKYSB8ybJBklH1Y60QvS-csHeJptYntqjWetAjpfWhtK0LgAuoG89Y0js9J3ZubTcejp612gSe_PArwfZfNQOgfKFEkW-b32XCvILqGWWXpsoGIgmeyfXY0xW2Ydmtg49B5BTdyEM2yMr-tfZOOsmVOOlFxcQ_Aw4Eu3krcwk56OSKfG2mEIPWZ4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV5gZXN4D-2sGVRYYGeOQVFcFZNWzJMTOR9re1SaTWo3KwcsVWaVD52j3UC59w5Fins2W97ea1sO2XwZbkpqv3dwF-lALtfwaatzjeAQjUu-o81RSesXlwsoyFnaIqBmezAJYDor6eaj6Z1EaSNwoZVR7WBDN_bXqc3blAv4FJNYdafa57erG7SnixWySEHtzMFnNtPJbm7o70RK-o45ydkXB3hlo=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Atalanta-Bologna",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
       "evento": "Gara MotoGP",
-      "competizione": "Gran Premio di Catalogna",
-      "canale": "TV8",
-      "note": "Differita/Replica",
-      "fonte": "motogp.com, motogpbarcelona.com",
+      "competizione": "MotoGP - GP Catalogna",
+      "canale": "TV8 HD",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_a5S07GXfeHo7gcqJKCUiY9teoUWdQKPaA8JUQjDMpk_j6SKl-v4CuwTX1rItENmJhn0hVsureG1zy9RL8s7pfofaIrHQTW78u3KTKjAH5eNmQyGK4LhZiEl_uD2mV982vPuOiMfNhFoPPJ1B, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFu-kjdgGP88k7xDJ0X0jH27T4rykGjb6Qs3JQ62gIynXo4acofzm8L44chxgz8jZGrUWWoasF-fcsjTqcSrKwnducPgb8nLqD_y570wKSxQ1YEh8I7ZzK8nxX-qSdl8CPyfioHONTWYpn-FVw",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Cagliari-Torino",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Sassuolo-Lecce",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Udinese-Cremonese",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4q2ocTlk6bFeBG1JBBZYZWRw8MtqzBuQG3QQLpe_EF5ixsgt3ciZ1EOaB-rHww3F52ThutG7pbjw3Q0JLUIYNkfmKlXGrQ5hF1SfhKulIDgsQlHJ4c5izqXcmPf_2CrDgIba_H19L8kHiFXWRdLMxWyi4QxrMiiLD8dLIPYOT2v_3cxhhE7z6M3Rxs0yTNnppmV3lryv-ZHsFLxIVpHqipN8D91yRdeLYcRTkUIdV01UlcOh7lGCWOVAXcM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDUBDNcFD6HzlWF3Ixc-m8qbdfl3y5N2psLgHlIcJS0e3AW16zEj-Zk_Xqs2tRY1tIPIh0ysk0ecYKSxasufRJ4n-RSU1bLYxSxqDxf1IDHjpHvEUiB2PPrPqFolbeipTMNbUQ3ej4LeButHLy3q1tAdN5DbxZp1xSNTnItWpugiVdZmrhgXzX7NNe23y46TzeZUnP3_2nof5iC8-_xxtItqbTmiqBS52COkV7i6ELviV7G4Mk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk80Ff9fO8avHSUDKlGAUhEtyrdoWLqZ8pxpcYD6mcMzT-UbFynsQ6NOfVg83GODL4VxEn7qpxPa_qFREbxj6CA-P3dl7DTF-o77Wal9tuQ_zWR9scUab36LRayFeZFosDbu-3Tb46eXdK9VhxU2Zy-xMoZDl4YJFmesYEoVuJpORmCqChKnTiePaXRp47APXfhmejM_Y=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgi7wCNRcV1ZeqysROO_691Wp3KpVSUMYgVOz0wpvFx5ZziaHD2IXztIEjJAJVdxlcoO0B9nloLb4n7EbHmFmWUzbYPauoSGblFxFrsjXB5CHNTVJYtLJlCv7idU8Kj5wMX2IhjjtHz7hKVG-Rse6pqM8BgE7-QvnLnFpCzf_AS95NDpT3UTaWygXK-ENvKI21IukUQqEUCyr-ANjK5bMtKSAUPa5Dy__PNQ==",
       "accuratezza_orario": "esatto"
     }
   ]
