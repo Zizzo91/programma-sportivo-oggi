@@ -1,22 +1,13 @@
 {
-  "last_updated": "2026-05-18T16:51:23.088531+02:00",
+  "last_updated": "2026-05-18T21:22:29.502983+02:00",
   "events": [
     {
-      "orario": "10:00",
-      "evento": "Roland Garros - Qualificazioni (con italiani in campo)",
-      "competizione": "Grande Slam - Qualificazioni",
-      "canale": "Discovery Plus, HBO Max (streaming), Eurosport 1 HD, Eurosport 2 HD (streaming)",
-      "note": "Inizio qualificazioni con due donne e cinque uomini azzurri a caccia del tabellone principale. Programmazione digitale esclusiva in Italia.",
-      "fonte": "Sport in tv oggi (lunedì 18 maggio): orari e programma completo. Come vedere gli eventi in streaming, Roland Garros 2026: calendario, programma giornaliero e dove vederlo in streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Lorenzo Sonego vs Edas Butvilas",
-      "competizione": "ATP Ginevra - Primo Turno",
+      "orario": "19:30*",
+      "evento": "Lorenzo Sonego (ITA) vs Edas Butvilas (LTU)",
+      "competizione": "ATP 250 Ginevra (Primo Turno)",
       "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Match a seguire quello di Brancaccio. Disponibile anche in streaming su Sky Go, NOW e Tennis TV.",
-      "fonte": "Sport in tv oggi (lunedì 18 maggio): orari e programma completo. Come vedere gli eventi in streaming",
+      "note": "A seguire il match Brancaccio vs Wawrinka. L'orario è stimato.",
+      "fonte": "Sky Sport, Lo Slalom, Sport in tv oggi",
       "accuratezza_orario": "stimato"
     }
   ]
