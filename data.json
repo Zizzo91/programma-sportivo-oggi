@@ -1,85 +1,40 @@
 {
-  "last_updated": "2026-05-18T04:07:09.144131+02:00",
+  "last_updated": "2026-05-18T11:37:31.188034+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Inter Miami - Portland Timbers",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "orario": "13:00",
+      "evento": "Race Anatomy MotoGP",
+      "competizione": "MotoGP - Analisi",
+      "canale": "Sky Sport Arena",
+      "note": "Programma di analisi e commento sul Gran Premio di Catalogna 2026 disputato il 17 maggio.",
+      "fonte": "Guida TV Sky Sport Arena",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Ciclismo: Giro d'Italia 2026 - 9a tappa: Cervia - Corno alle Scale (fasi finali)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai Sport",
-      "note": "Replica",
-      "fonte": "Guida TV - TvBlog, Stasera in TV",
-      "accuratezza_orario": "esatto"
+      "orario": "18:00*",
+      "evento": "ATP Ginevra - Primo Turno: Raul Brancaccio vs Stan Wawrinka",
+      "competizione": "Tennis - ATP 250",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go (streaming), NOW (streaming)",
+      "note": "Inizio match non prima delle 18:00. Seguirà Lorenzo Sonego vs Edas Butvilas.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "02:00",
-      "evento": "Nashville - Los Angeles FC",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
+      "orario": "TBA",
+      "evento": "ATP Ginevra - Primo Turno: Lorenzo Sonego vs Edas Butvilas",
+      "competizione": "Tennis - ATP 250",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go (streaming), NOW (streaming)",
+      "note": "Match a seguire dopo Raul Brancaccio vs Stan Wawrinka.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "tba"
     },
     {
-      "orario": "06:00",
-      "evento": "Ciclismo: Giro d'Italia 2026 - 9a tappa: Cervia - Corno alle Scale (fasi finali)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai Sport",
-      "note": "Replica",
-      "fonte": "Guida TV - TvBlog, Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "Calcio Serie A Roma - Lazio",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "Replica",
-      "fonte": "Digital-News",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:19",
-      "evento": "Calcio Serie A Genoa - Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "Replica",
-      "fonte": "Digital-News",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:29",
-      "evento": "Calcio Serie A Juventus - Inter",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "Replica",
-      "fonte": "Digital-News",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:31",
-      "evento": "Calcio Serie A Bologna - Cremonese",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "Replica",
-      "fonte": "Digital-News",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Arsenal - Burnley",
-      "competizione": "Premier League",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "orario": "19:00",
+      "evento": "Race Anatomy MotoGP",
+      "competizione": "MotoGP - Analisi",
+      "canale": "Sky Sport Arena",
+      "note": "Programma di analisi e commento sul Gran Premio di Catalogna 2026 disputato il 17 maggio.",
+      "fonte": "Guida TV Sky Sport Arena",
       "accuratezza_orario": "esatto"
     }
   ]
