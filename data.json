@@ -1,337 +1,85 @@
 {
-  "last_updated": "2026-05-17T20:52:58.795435+02:00",
+  "last_updated": "2026-05-18T04:07:09.144131+02:00",
   "events": [
     {
-      "orario": "01:50",
-      "evento": "Formula E FIA Championship 2026 - Monaco: Gara 2",
-      "competizione": "Formula E",
-      "canale": "Italia 1",
+      "orario": "00:00",
+      "evento": "Inter Miami - Portland Timbers",
+      "competizione": "MLS",
+      "canale": "Apple TV",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIDpnMP5m3tCp2g1qBD4xqPGtMVHkWV87docuT5mws-bZsIrnShNkqrt4QrLf8wWDB8kMpzSAoFLEdBKVXor8OsXnwp39YMJ5685Xj8cfY5Eb-We90VoDiicr13ZJYqjNSNukhxUjJ0Tvlud6BqA0K3fsQIH9EVKjKFHYpNdlOjZ4B0KYDxA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Automobilismo",
-      "competizione": "",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvvK8F7vPuxJJYn9pNcicJ0C0988Y3n9R8-0U8eFAxYiGZSj-3woONRaQ9G8ZdLtZ4bU4qOPSjrgkAg5OSii5yjDe7W07oYmNLIz6inawYX6PhY_592BhbDdbLXDp53BhBV76s_ekviGR1ej0toXuhsNx-wnwhcvPSQS9oxl4MVWstPEDbSmczfpWvGXi1gfvws_Ex9e8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Rally",
-      "competizione": "",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvvK8F7vPuxJJYn9pNcicJ0C0988Y3n9R8-0U8eFAxYiGZSj-3woONRaQ9G8ZdLtZ4bU4qOPSjrgkAg5OSii5yjDe7W07oYmNLIz6inawYX6PhY_592BhbDdbLXDp53BhBV76s_ekviGR1ej0toXuhsNx-wnwhcvPSQS9oxl4MVWstPEDhSmczfpWvGXi1gfvws_Ex9e8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "RiGiro",
-      "competizione": "Ciclismo - Giro d'Italia",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57WV7LLAjbwzH450F8S1A18pkJcOFLl4jiZwEwnXRksB2JwJ4KkljrZojYvK3FJv3wL_ZiN22Rtylk4EvI5G7KUof-GGDK42CKloDYcOOlHx-H6udWSXg4ZtrhDg-erIs4k3iL5khIqmMXwzno9Vp2w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "TG Sport Mattina",
-      "competizione": "",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57WV7LLAjbwzH450F8S1A18pkJcOFLl4jiZwEwnXRksB2JwJ4KkljrZojYvK3FJv3wL_ZiN22Rtylk4EvI5G7KUof-GGDK42CKloDYcOOlHx-H6udWSXg4ZtrhDg-erIs4k3iL5khIqmMXwzno9Vp2w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:30",
-      "evento": "Diamond League 2026 - Shanghai",
-      "competizione": "Atletica",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57WV7LLAjbwzH450F8S1A18pkJcOFLl4jiZwEwnXRksB2JwJ4KkljrZojYvK3FJv3wL_ZiN22Rtylk4EvI5G7KUof-GGDK42CKloDYcOOlHx-H6udWSXg4ZtrhDg-erIs4k3iL5khIqmMXwzno9Vp2w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "World Athletics Continental Tour Gold: Tokyo",
-      "competizione": "Atletica leggera",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_ONQ1B53joKUxeK5YSINq82sjdebJt9ZQeZCUGYFnUH--r1uNsh8VRFzq6ye0LYJ8uZW1xWMeeaT2eb7YMKPj8hfhXjqdgQV9UxU_ObP1iXa75mvfParL4r6h1jT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Canottaggio",
-      "competizione": "",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvvK8F7vPuxJJYn9pNcicJ0C0988Y3n9R8-0U8eFAxYiGZSj-3woONRaQ9G8ZdLtZ4bU4qOPSjrgkAg5OSii5yjDe7W07oYmNLIz6inawYX6PhY_592BhbDdbLXDp53BhBV76s_ekviGR1ej0toXuhsNx-wnwhcvPSQS9oxl4MVWstPEDhSmczfpWvGXi1gfvws_Ex9e8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:40",
-      "evento": "Warm Up",
-      "competizione": "MotoGP - GP Catalogna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPOt8YhflWxFZNAcsKuqcJbZfJCzTrbD6tQfC3cHSVwb8hHI53f5lG4VraIGc6njgruFw0ay1HRp9Qf9jqJv_mFbsYx2P0Tu9kpO0h8NZbfXNqbCjXZiYo-yHDcUoHnskOChCGAWBNjJVRVK3Vall_sjxwAaw2Lix06IzOSwGmYRp9y0wz2Qbr-bC33pC_Gz9-0qRICBfxoDYThlB9tVfkFb-sez3OHL9Ju1ar67ldqZSFWyikeIgdTeTWnISI",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Gara",
-      "competizione": "Moto3 - GP Catalogna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPOt8YhflWxFZNAcsKuqcJbZfJCzTrbD6tQfC3cHSVwb8hHI53f5lG4VraIGc6njgruFw0ay1HRp9Qf9jqJv_mFbsYx2P0Tu9kpO0h8NZbfXNqbCjXZiYo-yHDcUoHnskOChCGAWBNjJVRVK3Vall_sjxwAaw2Lix06IzOSwGmYRp9y0wz2Qbr-bC33pC_Gz9-0qRICBfxoDYThlB9tVfkFb-sez3OHL9Ju1ar67ldqZSFWyikeIgdTeTWnISI",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:10",
-      "evento": "Superpole Race",
-      "competizione": "Superbike - GP Cechia",
-      "canale": "Sky Sport Arena, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPOt8YhflWxFZNAcsKuqcJbZfJCzTrbD6tQfC3cHSVwb8hHI53f5lG4VraIGc6njgruFw0ay1HRp9Qf9jqJv_mFbsYx2P0Tu9kpO0h8NZbfXNqbCjXZiYo-yHDcUoHnskOChCGAWBNjJVRVK3Vall_sjxwAaw2Lix06IzOSwGmYRp9y0wz2Qbr-bC33pC_Gz9-0qRICBfxoDYThlB9tVfkFb-sez3OHL9Ju1ar67ldqZSFWyikeIgdTeTWnISI",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:50",
-      "evento": "Giro d'Italia",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvvK8F7vPuxJJYn9pNcicJ0C0988Y3n9R8-0U8eFAxYiGZSj-3woONRaQ9G8ZdLtZ4bU4qOPSjrgkAg5OSii5yjDe7W07oYmNLIz6inawYX6PhY_592BhbDdbLXDp53BhBV76s_ekviGR1ej0toXuhsNx-wnwhcvPSQS9oxl4MVWstPEDhSmczfpWvGXi1gfvws_Ex9e8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Juventus-Fiorentina",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport 4K, Sky Sport 252, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Genoa-Milan",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Roma-Lazio",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Pisa-Napoli",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Como-Parma",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport (canale 253), NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Gara",
-      "competizione": "Moto2 - GP Catalogna",
-      "canale": "Sky Sport MotoGP, Sky Sport 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_ONQ1B53joKUxeK5YSINq82sjdebJt9ZQeZCUGYFnUH--r1uNsh8VRFzq6ye0LYJ8uZW1xWMeeaT2eb7YMKPj8hfhXjqdgQV9UxU_ObP1iXa75mvfParL4r6h1jT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Giro d'Italia – 9a tappa: Cervia-Corno alle Scale",
-      "competizione": "Ciclismo",
-      "canale": "Eurosport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_ONQ1B53joKUxeK5YSINq82sjdebJt9ZQeZCUGYFnUH--r1uNsh8VRFzq6ye0LYJ8uZW1xWMeeaT2eb7YMKPj8hfhXjqdgQV9UxU_ObP1iXa75mvfParL4r6h1jT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:35",
-      "evento": "Giro d'Italia",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvvK8F7vPuxJJYn9pNcicJ0C0988Y3n9R8-0U8eFAxYiGZSj-3woONRaQ9G8ZdLtZ4bU4qOPSjrgkAg5OSii5yjDe7W07oYmNLIz6inawYX6PhY_592BhbDdbLXDp53BhBV76s_ekviGR1ej0toXuhsNx-wnwhcvPSQS9oxl4MVWstPEDhSmczfpWvGXi1gfvws_Ex9e8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:15",
-      "evento": "Galles-Italia",
-      "competizione": "Rugby femminile - Sei Nazioni",
-      "canale": "Sky Sport Max",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_ONQ1B53joKUxeK5YSINq82sjdebJt9ZQeZCUGYFnUH--r1uNsh8VRFzq6ye0LYJ8uZW1xWMeeaT2eb7YMKPj8hfhXjqdgQV9UxU_ObP1iXa75mvfParL4r6h1jT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:20",
-      "evento": "Gara (Differita)",
-      "competizione": "Moto3 - GP Catalogna",
-      "canale": "TV8 HD, tv8.it",
-      "note": "L'orario potrebbe essere soggetto a variazione per la copertura della finale di doppio maschile dell'ATP Masters 1000 di Roma.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPOt8YhflWxFZNAcsKuqcJbZfJCzTrbD6tQfC3cHSVwb8hHI53f5lG4VraIGc6njgruFw0ay1HRp9Qf9jqJv_mFbsYx2P0Tu9kpO0h8NZbfXNqbCjXZiYo-yHDcUoHnskOChCGAWBNjJVRVK3Vall_sjxwAaw2Lix06IzOSwGmYRp9y0wz2Qbr-bC33pC_Gz9-0qRICBfxoDYThlB9tVfkFb-sez3OHL9Ju1ar67ldqZSFWyikeIgdTeTWnISI",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "13:30*",
-      "evento": "Bolelli/Vavassori vs Granollers/Zeballos",
-      "competizione": "Tennis - Internazionali BNL d'Italia (Finale Doppio Maschile)",
-      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Orario stimato, alcune fonti indicano 'non prima delle 14:00' CET. La finale maschile è prevista per le 17:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPOt8YhflWxFZNAcsKuqcJbZfJCzTrbD6tQfC3cHSVwb8hHI53f5lG4VraIGc6njgruFw0ay1HRp9Qf9jqJv_mFbsYx2P0Tu9kpO0h8NZbfXNqbCjXZiYo-yHDcUoHnskOChCGAWBNjJVRVK3Vall_sjxwAaw2Lix06IzOSwGmYRp9y0wz2Qbr-bC33pC_Gz9-0qRICBfxoDYThlB9tVfkFb-sez3OHL9Ju1ar67ldqZSFWyikeIgdTeTWnISI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEtQ8BeUcf0qE-93SXwqnZ-aSqaVKyvCVoOx-G6Ynvyt4i35sdIWTfsRYn4JYsJtSZEdhKNSpdkpNl76NwXiL4Sk7XFdk5b9LaWyKPxMqOOWvuSdm2udMn-kYE9VfG5dIIuTc8oATB2sIun730y094u406In4PSok4hFf3fSVUfhZ3Rf-4d_sOUU9iZ5B6mhOEv4J1tQNZWWtJ4doc5Ej-d72GPkDEQBHLNWSns1zmIoqKcjm96kGglc806GAGraXlbUKXqSUF",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Giro d'Italia – 9a tappa: Cervia-Corno alle Scale",
-      "competizione": "Ciclismo",
-      "canale": "Rai 2",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_ONQ1B53joKUxeK5YSINq82sjdebJt9ZQeZCUGYFnUH--r1uNsh8VRFzq6ye0LYJ8uZW1xWMeeaT2eb7YMKPj8hfhXjqdgQV9UxU_ObP1iXa75mvfParL4r6h1jT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Inter-Verona",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Nissa-Reggina",
-      "competizione": "Calcio - Serie D Finale Playoff Girone I",
-      "canale": "Reggio TV (Canale 14/77/677 DTT Calabria), reggiotv.it, App ReggioTV, Pagina Facebook ReggioTV",
-      "note": "Alcune fonti riportano l'orario 16:00 CET, ma l'orario delle 15:00 è supportato da più fonti come calcio d'inizio e si allinea con resoconti in tempo reale della partita già conclusa nel tardo pomeriggio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWPrlapa2idt46oSNnXythG0ytRYwD4_G1SueYlVIsL_4l3aSFELc3NlEUllbf1p_A4J9Wj-a8gKt7dOf-RGrExvZTY5Rv3bMiKMvkWDyP9xDWhfcbZfwimDoZ8jui2-8q8zxhbTC5-9z0hzT4T1MDXwRWKiDuNcldejzxOigSFjIlXngrNWMJ32VCIdbIIT8HA73lNg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESaMsgjd1AGZaBmawOv0KR_2BJ1OeO_TJlopa6u72bBDY2kqkFqZoOanzQiZDntV14huEs3zQ7vQftm-PdN2dSCVOZwciVZ3_BelzMx348yQtwWmyEUXJParp8loTCFuVeeueLuHbofbKRP8JemQ2RxxL4N-RJPOwmFY_JISczDQOvcytTNr5VnpHflbMSlCSCn8IA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVXcZDqaPFuGChmsUAf1S4PkgnaZHbtgPVI8jtGwQH-s3tcdVbwEnZovfmDwjhFg6YSBT9Hf_LZ4KL2c-AFfUFKpx3ElQI9J-0myCwFsmeYubTXM4eJjOneSOZbSxj-quoHvV7xkEt7cxsTrCknnAb3BDsbh5XlyjO5E9iQNjaB4ndneONVfRFTCfY2ekiR0XlDkZlFRbB2UPC, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1x6Jm9eBGC6aCW7xxo_OQxAMRWWBH7P8Xs-2Ctm9mYIXOM5f54gM_B8eF79SgQXATMEEuJlvWuG-1HgIwdGW21X6diq9qAQgwPlq9WXAKO32qs5bcFb_bGQA4MZFCsRb4-XoFHYtdlLy1kW2hJW20YyBWYPlQQUgKobP6",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:30",
-      "evento": "Campionato Italiano Rally 2026 - Targa Florio Rally - Gara 2",
-      "competizione": "Rally",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57WV7LLAjbwzH450F8S1A18pkJcOFLl4jiZwEwnXRksB2JwJ4KkljrZojYvK3FJv3wL_ZiN22Rtylk4EvI5G7KUof-GGDK42CKloDYcOOlHx-H6udWSXg4ZtrhDg-erIs4k3iL5khIqmMXwzno9Vp2w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Sinner vs Ruud",
-      "competizione": "Tennis - Internazionali BNL d'Italia (Finale Singolare Maschile)",
-      "canale": "TV8, Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPOt8YhflWxFZNAcsKuqcJbZfJCzTrbD6tQfC3cHSVwb8hHI53f5lG4VraIGc6njgruFw0ay1HRp9Qf9jqJv_mFbsYx2P0Tu9kpO0h8NZbfXNqbCjXZiYo-yHDcUoHnskOChCGAWBNjJVRVK3Vall_sjxwAaw2Lix06IzOSwGmYRp9y0wz2Qbr-bC33pC_Gz9-0qRICBfxoDYThlB9tVfkFb-sez3OHL9Ju1ar67ldqZSFWyikeIgdTeTWnISI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcAfzEKoU57Q7lei52ADdbmmaz3Y1uVBisztG8RW1uuDTUdypLGCjrRWO41ATXJ5E-1nwCNqXZIoTU3P6H4rx6nuZT15ADaXkrcCfKpezFvLJFRmx7fEB2MVp94-BN6SQGOkIauZ41Z1xKEpgTkKP81KprdqTUJ5O1gzSNG866gvWyVdcWO08ygYq6NLo8PTmiyH-khTmzDtsXueK45Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:20",
-      "evento": "Femi-CZ Rovigo - Petrarca Rugby (2a semifinale. Ritorno)",
-      "competizione": "Rugby - Serie A Elite maschile 2025/2026",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57WV7LLAjbwzH450F8S1A18pkJcOFLl4jiZwEwnXRksB2JwJ4KkljrZojYvK3FJv3wL_ZiN22Rtylk4EvI5G7KUof-GGDK42CKloDYcOOlHx-H6udWSXg4ZtrhDg-erIs4k3iL5khIqmMXwzno9Vp2w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkdwsUnxYQ7-8LLe75RRzVoGu-Zjmdj1zwR9JCoM6GRxxXpwm6QyNsq-2ES3uRF1jgTcZPYOW3pfuMg7sAZilQpRWyJNzCAYfz4KfEVxyuYb2KPRjrs9Gq7uS2AqUI7ACvADERrqwquxSppe6o02tUnIWTKXcIp69bxZl21z1mkuzAxXf9Q_2-7Sg=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Atalanta-Bologna",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Memory - Rai Sport",
-      "competizione": "",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvvK8F7vPuxJJYn9pNcicJ0C0988Y3n9R8-0U8eFAxYiGZSj-3woONRaQ9G8ZdLtZ4bU4qOPSjrgkAg5OSii5yjDe7W07oYmNLIz6inawYX6PhY_592BhbDdbLXDp53BhBV76s_ekviGR1ej0toXuhsNx-wnwhcvPSQS9oxl4MVWstPEDhSmczfpWvGXi1gfvws_Ex9e8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "TGiro",
-      "competizione": "Ciclismo - Giro d'Italia 2026 - 9a tappa",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57WV7LLAjbwzH450F8S1A18pkJcOFLl4jiZwEwnXRksB2JwJ4KkljrZojYvK3FJv3wL_ZiN22Rtylk4EvI5G7KUof-GGDK42CKloDYcOOlHx-H6udWSXg4ZtrhDg-erIs4k3iL5khIqmMXwzno9Vp2w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkdwsUnxYQ7-8LLe75RRzVoGu-Zjmdj1zwR9JCoM6GRxxXpwm6QyNsq-2ES3uRF1jgTcZPYOW3pfuMg7sAZilQpRWyJNzCAYfz4KfEVxyuYb2KPRjrs9Gq7uS2AqUI7ACvADERrqwquxSppe6o02tUnIWTKXcIp69bxZl21z1mkuzAxXf9Q_2-7Sg=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Cagliari-Torino",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Sassuolo-Lecce",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Udinese-Cremonese",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfS4if6t5hopawqiyDa60aaHO89VhLmmn9Q3yDSCgU1FP48YsbHpk3POW5wp7XNE8crCkvOC5L9x29HpKDKuLsM3-i4rJiRldDEPuSnFZRWUQYFI6zVU0ZwZEqGTxu5MhVXjXGVQwFgQ_ZOBfck90cl5yucx32HtnhkP8HJHrxCFs-Hfd2W1BwkhLiPjKzwLhsaoAl96y8P",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:45",
-      "evento": "WEC: Total Energy 6 ore di Spa-Francorchamps",
-      "competizione": "Automobilismo",
-      "canale": "Rai Sport + HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkdwsUnxYQ7-8LLe75RRzVoGu-Zjmdj1zwR9JCoM6GRxxXpwm6QyNsq-2ES3uRF1jgTcZPYOW3pfuMg7sAZilQpRWyJNzCAYfz4KfEVxyuYb2KPRjrs9Gq7uS2AqUI7ACvADERrqwquxSppe6o02tUnIWTKXcIp69bxZl21z1mkuzAxXf9Q_2-7Sg=",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Giro d'Italia 2026 - 9a tappa: Cervia - Corno alle Scale",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport + HD",
+      "evento": "Ciclismo: Giro d'Italia 2026 - 9a tappa: Cervia - Corno alle Scale (fasi finali)",
+      "competizione": "Giro d'Italia",
+      "canale": "Rai Sport",
+      "note": "Replica",
+      "fonte": "Guida TV - TvBlog, Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Nashville - Los Angeles FC",
+      "competizione": "MLS",
+      "canale": "Apple TV",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkdwsUnxYQ7-8LLe75RRzVoGu-Zjmdj1zwR9JCoM6GRxxXpwm6QyNsq-2ES3uRF1jgTcZPYOW3pfuMg7sAZilQpRWyJNzCAYfz4KfEVxyuYb2KPRjrs9Gq7uS2AqUI7ACvADERrqwquxSppe6o02tUnIWTKXcIp69bxZl21z1mkuzAxXf9Q_2-7Sg=",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Ciclismo: Giro d'Italia 2026 - 9a tappa: Cervia - Corno alle Scale (fasi finali)",
+      "competizione": "Giro d'Italia",
+      "canale": "Rai Sport",
+      "note": "Replica",
+      "fonte": "Guida TV - TvBlog, Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Calcio Serie A Roma - Lazio",
+      "competizione": "Serie A",
+      "canale": "DAZN 1",
+      "note": "Replica",
+      "fonte": "Digital-News",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:19",
+      "evento": "Calcio Serie A Genoa - Milan",
+      "competizione": "Serie A",
+      "canale": "DAZN 1",
+      "note": "Replica",
+      "fonte": "Digital-News",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:29",
+      "evento": "Calcio Serie A Juventus - Inter",
+      "competizione": "Serie A",
+      "canale": "DAZN 1",
+      "note": "Replica",
+      "fonte": "Digital-News",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:31",
+      "evento": "Calcio Serie A Bologna - Cremonese",
+      "competizione": "Serie A",
+      "canale": "DAZN 1",
+      "note": "Replica",
+      "fonte": "Digital-News",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Arsenal - Burnley",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     }
   ]
