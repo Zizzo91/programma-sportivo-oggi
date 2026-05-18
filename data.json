@@ -1,41 +1,23 @@
 {
-  "last_updated": "2026-05-18T11:37:31.188034+02:00",
+  "last_updated": "2026-05-18T16:51:23.088531+02:00",
   "events": [
     {
-      "orario": "13:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "MotoGP - Analisi",
-      "canale": "Sky Sport Arena",
-      "note": "Programma di analisi e commento sul Gran Premio di Catalogna 2026 disputato il 17 maggio.",
-      "fonte": "Guida TV Sky Sport Arena",
+      "orario": "10:00",
+      "evento": "Roland Garros - Qualificazioni (con italiani in campo)",
+      "competizione": "Grande Slam - Qualificazioni",
+      "canale": "Discovery Plus, HBO Max (streaming), Eurosport 1 HD, Eurosport 2 HD (streaming)",
+      "note": "Inizio qualificazioni con due donne e cinque uomini azzurri a caccia del tabellone principale. Programmazione digitale esclusiva in Italia.",
+      "fonte": "Sport in tv oggi (lunedì 18 maggio): orari e programma completo. Come vedere gli eventi in streaming, Roland Garros 2026: calendario, programma giornaliero e dove vederlo in streaming",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00*",
-      "evento": "ATP Ginevra - Primo Turno: Raul Brancaccio vs Stan Wawrinka",
-      "competizione": "Tennis - ATP 250",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go (streaming), NOW (streaming)",
-      "note": "Inizio match non prima delle 18:00. Seguirà Lorenzo Sonego vs Edas Butvilas.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "TBA",
-      "evento": "ATP Ginevra - Primo Turno: Lorenzo Sonego vs Edas Butvilas",
-      "competizione": "Tennis - ATP 250",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go (streaming), NOW (streaming)",
-      "note": "Match a seguire dopo Raul Brancaccio vs Stan Wawrinka.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "MotoGP - Analisi",
-      "canale": "Sky Sport Arena",
-      "note": "Programma di analisi e commento sul Gran Premio di Catalogna 2026 disputato il 17 maggio.",
-      "fonte": "Guida TV Sky Sport Arena",
-      "accuratezza_orario": "esatto"
+      "evento": "Lorenzo Sonego vs Edas Butvilas",
+      "competizione": "ATP Ginevra - Primo Turno",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Match a seguire quello di Brancaccio. Disponibile anche in streaming su Sky Go, NOW e Tennis TV.",
+      "fonte": "Sport in tv oggi (lunedì 18 maggio): orari e programma completo. Come vedere gli eventi in streaming",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
