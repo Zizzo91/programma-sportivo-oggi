@@ -1,68 +1,131 @@
 {
-  "last_updated": "2026-05-19T10:56:56.964699+02:00",
+  "last_updated": "2026-05-19T16:33:00.793688+02:00",
   "events": [
     {
-      "orario": "17:00",
-      "evento": "Italia-Serbia Under 15 (Amichevole)",
-      "competizione": "Calcio - Amichevole Internazionale U15",
-      "canale": "VIVO AZZURRO TV",
-      "note": "",
-      "fonte": "https://www.goal.com/it/liste/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d84e5486927d6",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Monza-Juve Stabia",
-      "competizione": "Calcio - Playoff Serie B",
-      "canale": "DAZN, LAB CHANNEL",
-      "note": "",
-      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.goal.com/it/lists/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d84e5486927d6",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Bournemouth-Manchester City",
-      "competizione": "Calcio - Premier League",
-      "canale": "SKY SPORT UNO, SKY SPORT 4K, NOW",
-      "note": "",
-      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.libero.it/magazine/guida-tv/il-calcio-in-tv-oggi-bournemouth-city-e-chelsea-tottenham-in-premier-league-68892, https://www.goal.com/it/lists/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d84e5486927d6",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:15",
-      "evento": "Chelsea-Tottenham",
-      "competizione": "Calcio - Premier League",
-      "canale": "SKY SPORT CALCIO, NOW",
-      "note": "",
-      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.libero.it/magazine/guida-tv/il-calcio-in-tv-oggi-bournemouth-city-e-chelsea-tottenham-in-premier-league-68892, https://www.goal.com/it/lists/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d84e5486927d6",
+      "orario": "10:30",
+      "evento": "Tennis: ATP Ginevra / WTA Strasburgo (primo turno)",
+      "competizione": "Tennis - ATP 250 / WTA 500",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Sport Mix (211), SuperTennis HD",
+      "note": "Programmazione generale dei tornei con possibili match di italiani non specificati. Include streaming su SkyGo, NOW, SuperTennix.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSQwdCACiMDODn_DcXUILewNnyfFtBQvYsRQ1p4ij5yPdVYAyYfqQ_A_2jdahWc3ROoXUIxef7pNf_-YX6544wV2gCPqVlKMx1Tva-1rw0bgWPqcsLN2L4reRpZHSQAJQ_aAVrCTHAUrNEnQW_f0OscZb-kEpU9nF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2rDi_Z5nrRoS0iAh0JXch3VT9buFmLp1JeYv8Fr65sJYDnTCT1zRLR5LCNhvbK7EAzuS8WA0hhV9AMAoBdkdlADtpv1Knt8kh2ZBDMSxS_BQefWt0l8HQF8Tf33y_VcwT2BqrASoDRUCx-KULx91DAQnPDRwDBQDEHiIMq6h4rw-zoqJhUtT9404G-XQx1ZjaMjcLNyIoRm4TVkTRtV6cpVb5G3-e5x2uX53b-xvhkDivgeye8apg1cK6KF3",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:00",
-      "evento": "Flavio Cobolli (ITA) vs Ignacio Buse (PER)",
-      "competizione": "Tennis - ATP 500 Amburgo (1° Turno)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, SkyGo, NOW, Tennis Tv",
-      "note": "Primo match sul campo principale",
-      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410111/il-tennis-in-tv-oggi-19-maggio-doppio-esordio-azzurro-ad-amburgo-con-cobolli-e-darderi/, https://sport.sky.it/tennis/2026/05/18/atp-amburgo-ginevra-2026-tv-streaming",
+      "evento": "Tennis: ATP Amburgo - Flavio Cobolli (Ita) vs Ignacio Buse (Per)",
+      "competizione": "Tennis - ATP 500",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Sport Mix (211)",
+      "note": "Disponibile anche in streaming su SkyGo, NOW e Tennis TV.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSQwdCACiMDODn_DcXUILewNnyfFtBQvYsRQ1p4ij5yPdVYAyYfqQ_A_2jdahWc3ROoXUIxef7pNf_-YX6544wV2gCPqVlKMx1Tva-1rw0bgWPqcsLN2L4reRpZHSQAJQ_aAVrCTHAUrNEnQW_f0OscZb-kEpU9nF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE32QECqWD5Fxhxf6GHS4qic6jk-S3O49bRY2_YRQAOeBlqtQgdeMn8JZtFaJkOByabRxwNEc2IfCQIOqtnf7jKFBlPmX9rYSFhuo5vOp_vxnqddAZ3_uWBpHtC9-kAiQuxkbxRWcQoF0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2rDi_Z5nrRoS0iAh0JXch3VT9buFmLp1JeYv8Fr65sJYDnTCT1zRLR5LCNhvbK7EAzuS8WA0hhV9AMAoBdkdlADtpv1Knt8kh2ZBDMSxS_BQefWt0l8HQF8Tf33y_VcwT2BqrASoDRUCx-KULx91DAQnPDRwDBQDEHiIMq6h4rw-zoqJhUtT9404G-XQx1ZjaMjcLNyIoRm4TVkTRtV6cpVb5G3-e5x2uX53b-xvhkDivgeye8apg1cK6KF3",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00*",
-      "evento": "Luciano Darderi (ITA) vs Roman Burruchaga (ARG)",
-      "competizione": "Tennis - ATP 500 Amburgo (1° Turno)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, SkyGo, NOW, Tennis Tv",
-      "note": "Orario stimato, non prima delle 12:00",
-      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410111/il-tennis-in-tv-oggi-19-maggio-doppio-esordio-azzurro-ad-amburgo-con-cobolli-e-darderi/, https://sport.sky.it/tennis/2026/05/18/atp-amburgo-ginevra-2026-tv-streaming",
+      "orario": "12:30*",
+      "evento": "Tennis: ATP Amburgo - Luciano Darderi (Ita) vs Roman Andres Burruchaga (Arg)",
+      "competizione": "Tennis - ATP 500",
+      "canale": "Sky Sport Tennis (203)",
+      "note": "Non prima delle 12:30, dopo Krawietz/Puetz vs Nys/Roger-Vasselin. Disponibile anche in streaming su SkyGo, NOW e Tennis TV.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2rDi_Z5nrRoS0iAh0JXch3VT9buFmLp1JeYv8Fr65sJYDnTCT1zRLR5LCNhvbK7EAzuS8WA0hhV9AMAoBdkdlADtpv1Knt8kh2ZBDMSxS_BQefWt0l8HQF8Tf33y_VcwT2BqrASoDRUCx-KULx91DAQnPDRwDBQDEHiIMq6h4rw-zoqJhUtT9404G-XQx1ZjaMjcLNyIoRm4TVkTRtV6cpVb5G3-e5x2uX53b-xvhkDivgeye8apg1cK6KF3, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1dcFL-mx7xBLr7M24tp-C2rFKeOrJFItHUg4yPGRJhBbm6tPaWNyFqnDCRtDNsfr5w4G7kV5cAaerwqsNokFx6GYWVM2dEREJAWKD_CwMFy1RVjN16aw9OcMMK0dJDwhEfHW5f5cxUJMsKbeuJh1rtMGb57my-pYEey9_BlnNpcWFSW2uBgzG0QZsLBV6nSlViXUj2khD-h4kFoFW5sLEUvUAC00mWbSJw==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:00*",
-      "evento": "Lucia Bronzetti (ITA) vs Varvara Lepchenko (USA)",
-      "competizione": "Tennis - Qualificazioni Roland Garros",
+      "orario": "13:15",
+      "evento": "Ciclismo: Giro d'Italia - Decima tappa (Viareggio - Massa)",
+      "competizione": "Giro d'Italia 2026",
+      "canale": "Rai 2, Eurosport, DAZN",
+      "note": "Fasi finali della tappa, con copertura su più canali.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4L_trmTLPxj7KvjEEIAfGu8_mhBk7tzDT2-Tj1x5e6jXxD58C8B4HiDw_1ddOQfWvh9YSg0ez0kcSGVOcIgzXlf2O21llMNiAFqTny3o74H-H51ueZdf_ZzZZjHCHrU3_a2xMHz5aB7L31ci1L1rjXhy8mYhCSgDICbLh_a2O7UDxgb86QAhVwWPtP6DMTKdhn0Fkg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE32QECqWD5Fxhxf6GHS4qic6jk-S3O49bRY2_YRQAOeBlqtQgdeMn8JZtFaJkOByabRxwNEc2IfCQIOqtnf7jKFBlPmX9rYSFhuo5vOp_vxnqddAZ3_uWBpHtC9-kAiQuxkbxRWcQoF0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkoJZdhMy6Crv5WWoRj_t80Sg6TNW-yEsaZX9T8pP13935blfKV2b6eX_Ebk3CCn69oZUko2jlJ9BhSC8Nr3eQ_ztYDDIOOyjFB-hX3zRszvjtRhZo-t3W95ZpmOLxEMG6MMLrTSDYzCmi6vcABBCullIehz8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Rjl2PKh2DDJaxV6a_wylnWZnyecHla6PwIkQBHYs554E-YFUr2ItJkWbZ423yz95ysWgtBF1rYfD-ati75SYzLOk3tOJyLG92RXjmSMDbU6xtcE5zhqMMtkGbX-9CZV2WJrp6zPpRQwLBfLg9V15, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElrMi3Zr0mVZC3iS_gf8cu6EZ8nEDcGK3BbuZuhSsxW_s2GoHu7a-2YvdDnAkfQtnjQqwI6zaYAvYjWoG5vUd9fIGFlBcgjvBvc_zaLO0Dx8SPUo-SSzQR3HB2HswJaK0T1Iqv5Cr6FyxoNjmON1WAlIhqccRex5rH-hlGxRGYo-c92Gah1xjQC6St9q0iVNZGRW9TLjPxwXA5_fHkP6lbTF8JsVONP0mhn-Nqf_LGsA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30*",
+      "evento": "Qualificazioni Roland Garros: primo turno donne (Bronzetti vs Lepchenko)",
+      "competizione": "Tennis - Grande Slam Qualificazioni",
       "canale": "Discovery+, HBO Max",
-      "note": "Orario stimato, 5° incontro sul Campo 8, inizio programma ore 10:00",
-      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410111/il-tennis-in-tv-oggi-19-maggio-doppio-esordio-azzurro-ad-amburgo-con-cobolli-e-darderi/",
+      "note": "Bronzetti è il 4° match sul campo, orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOjcrYt3FPHC34xgCIilw-ZoX1xI5dVD--JE-ml36za8XhA2iMITOMSWLY7c-djVMcoZgCoXJ_3BFBbEDPJNaZQLVkSwwBMVQEn6OIb4uSORcoRbMHYO3NGInn6AYiTSu0jZhBN3PGALHIwFH_oXY2ypgf9MQTxj0MamNy97paTUVKjWwj1nx8Rygl5IS_-US9gj0iCAeDptTK4-vi6MyYJqsYkyVgaTo25d96Sbo=",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:20",
+      "evento": "Hockey Ghiaccio: Mondiali Top Division - Italia vs Norvegia",
+      "competizione": "Campionato del Mondo",
+      "canale": "Sporteurope.tv (streaming)",
+      "note": "Match della nazionale italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSQwdCACiMDODn_DcXUILewNnyfFtBQvYsRQ1p4ij5yPdVYAyYfqQ_A_2jdahWc3ROoXUIxef7pNf_-YX6544wV2gCPqVlKMx1Tva-1rw0bgWPqcsLN2L4reRpZHSQAJQ_aAVrCTHAUrNEnQW_f0OscZb-kEpU9nF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE32QECqWD5Fxhxf6GHS4qic6jk-S3O49bRY2_YRQAOeBlqtQgdeMn8JZtFaJkOByabRxwNEc2IfCQIOqtnf7jKFBlPmX9rYSFhuo5vOp_vxnqddAZ3_uWBpHtC9-kAiQuxkbxRWcQoF0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHojI7FkURiiFLoGXpi9AXV79ewN1pQWM2kXJcEVIAOaAHd7eaoy7Nhs-XNaH6MXvIfJ5ueuxLJJwerBPS3zkTDUo0CJ8x-P8SwbFsqAa6XJ3hiSfQl7PAMZFlm11i-R1Qcxmw1OCcuPEDXZsuDAzRzLqfIGy34Zy7wLyPnfbm55_r6ntJOEivReaWGh3HhdcAtY3gnKQliqGTGKNELwCQV7FAXnkg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Calcio: Playoff Serie B - Monza vs Juve Stabia",
+      "competizione": "Serie B Playoff",
+      "canale": "DAZN, LAB Channel",
+      "note": "Semifinale di ritorno.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSQwdCACiMDODn_DcXUILewNnyfFtBQvYsRQ1p4ij5yPdVYAyYfqQ_A_2jdahWc3ROoXUIxef7pNf_-YX6544wV2gCPqVlKMx1Tva-1rw0bgWPqcsLN2L4reRpZHSQAJQ_aAVrCTHAUrNEnQW_f0OscZb-kEpU9nF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfbLzvjl81-uDW8oRyMtVVzRH9flqFM_Az5U7FQLpcnvCI-mdel1F9ti92SG4zhWCnDfjUpd3gOAYO7tsrwjJilVSi0UEDOSvav11pQOlCHFpyjQYFcM92QwLXcWZa4xkUlb1MvpfcTbhk4kKv88NFLNLksze7qg9DLekr3Coq4MBWrEgYBMkQisPNnialXOI_c7tcH9xDxT_dTzfjhkuVsOZj_jKIEtG0uh5NpP0QUQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtjjX2J-po6vnwqypMHeU_IrO1wivnau2FpQD91QIh56LarSFeIzmEyJx457GMJXwMILeY2EjIXs1VkC3tVaJIfnkmvI7uFG34YsJqt2CU2-1xaumR8wEOCscaFlFalW8okWwHfkBUhI0wSJ_iY-Hggv61Xr35mp8Dh9bF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZCmqiUV8jMYbpprjMXGBfg6tMFnNTBJnUN9B0LRGMLHM9XDrzCuXCoiFXVYJVjCtNa7wtP-pEltVYnRiww7Yp1KzObCvItQUd9Qbd_rmV_gTpQtE1EEZLWb4MTn6VYkQxyDsYEQ_Y_0jUW1gwU7AS40Ec8ykoOaWKcws=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElrMi3Zr0mVZC3iS_gf8cu6EZ8nEDcGK3BbuZuhSsxW_s2GoHu7a-2YvdDnAkfQtnjQqwI6zaYAvYjWoG5vUd9fIGFlBcgjvBvc_zaLO0Dx8SPUo-SSzQR3HB2HswJaK0T1Iqv5Cr6FyxoNjmON1WAlIhqccRex5rH-hlGxRGYo-c92Gah1xjQC6St9q0iVNZGRW9TLjPxwXA5_fHkP6lbTF8JsVONP0mhn-Nqf_LGsA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Basket: Serie A - Virtus Bologna vs Trento",
+      "competizione": "Serie A Basket",
+      "canale": "Sky Sport Basket (205)",
+      "note": "Gara-2 Quarti di finale. Disponibile anche in streaming su SkyGo, NOW e LBA Tv.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSQwdCACiMDODn_DcXUILewNnyfFtBQvYsRQ1p4ij5yPdVYAyYfqQ_A_2jdahWc3ROoXUIxef7pNf_-YX6544wV2gCPqVlKMx1Tva-1rw0bgWPqcsLN2L4reRpZHSQAJQ_aAVrCTHAUrNEnQW_f0OscZb-kEpU9nF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE32QECqWD5Fxhxf6GHS4qic6jk-S3O49bRY2_YRQAOeBlqtQgdeMn8JZtFaJkOByabRxwNEc2IfCQIOqtnf7jKFBlPmX9rYSFhuo5vOp_vxnqddAZ3_uWBpHtC9-kAiQuxkbxRWcQoF0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Calcio: Campionato Saudita - Al Nassr vs Al Hilal",
+      "competizione": "Saudi Pro League",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrZegM02qpzXXOzDXV5FfsWA6_sG-7Jqh3LclHll4ADteEQ-mqcGckHdb7fPLBs9nrQYuVpCiFyXAUCLhLL_RadjBdVk042mRKXFpwoRWNqwMjF6nEgF1lBwNl5XEuurFECnF3XZPMv7P3caBeS0T0lHqSoo2rngeEsQ7H0ipusosxSgV5",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Calcio: Premier League - Bournemouth vs Manchester City",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Uno, Sky Sport 4K",
+      "note": "Disponibile anche in streaming su NOW.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNBz75_cCD6_tPLmxtOujv2du3JmUfO4NSLqppjym39Pg9tW9E66YAtxY5AF9fUgt2IdU96vH3QPVyMA4s-vh2Bobn8a7Su3kwFFSSh2RU9V2AGGoKvT-PwTxFgYKysBaAxDoRLR7y9eAJFau4lzC356Djsk1nDAySInJRqN-n8fd5CN6D1kL2RGJZvbE-AxNfGEaAvaSrLVdCky9xT8L_9EsCIXptZ_o65swTaxz5xA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfbLzvjl81-uDW8oRyMtVVzRH9flqFM_Az5U7FQLpcnvCI-mdel1F9ti92SG4zhWCnDfjUpd3gOAYO7tsrwjJilVSi0UEDOSvav11pQOlCHFpyjQYFcM92QwLXcWZa4xkUlb1MvpfcTbhk4kKv88NFLNLksze7qg9DLekr3Coq4MBWrEgYBMkQisPNnialXOI_c7tcH9xDxT_dTzfjhkuVsOZj_jKIEtG0uh5NpP0QUQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtjjX2J-po6vnwqypMHeU_IrO1wivnau2FpQD91QIh56LarSFeIzmEyJx457GMJXwMILeY2EjIXs1VkC3tVaJIfnkmvI7uFG34YsJqt2CU2-1xaumR8wEOCscaFlFalW8okWwHfkBUhI0wSJ_iY-Hggv61Xr35mp8Dh9bF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Basket: Serie A - Venezia vs Tortona",
+      "competizione": "Serie A Basket",
+      "canale": "LBA Tv (streaming)",
+      "note": "Gara-2 Quarti di finale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE32QECqWD5Fxhxf6GHS4qic6jk-S3O49bRY2_YRQAOeBlqtQgdeMn8JZtFaJkOByabRxwNEc2IfCQIOqtnf7jKFBlPmX9rYSFhuo5vOp_vxnqddAZ3_uWBpHtC9-kAiQuxkbxRWcQoF0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:15",
+      "evento": "Calcio: Premier League - Chelsea vs Tottenham",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Calcio (202)",
+      "note": "Disponibile anche in streaming su SkyGo e NOW.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSQwdCACiMDODn_DcXUILewNnyfFtBQvYsRQ1p4ij5yPdVYAyYfqQ_A_2jdahWc3ROoXUIxef7pNf_-YX6544wV2gCPqVlKMx1Tva-1rw0bgWPqcsLN2L4reRpZHSQAJQ_aAVrCTHAUrNEnQW_f0OscZb-kEpU9nF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNBz75_cCD6_tPLmxtOujv2du3JmUfO4NSLqppjym39Pg9tW9E66YAtxY5AF9fUgt2IdU96vH3QPVyMA4s-vh2Bobn8a7Su3kwFFSSh2RU9V2AGGoKvT-PwTxFgYKysBaAxDoRLR7y9eAJFau4lzC356Djsk1nDAySInJRqN-n8fd5CN6D1kL2RGJZvbE-AxNfGEaAvaSrLVdCky9xT8L_9EsCIXptZ_o65swTaxz5xA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfbLzvjl81-uDW8oRyMtVVzRH9flqFM_Az5U7FQLpcnvCI-mdel1F9ti92SG4zhWCnDfjUpd3gOAYO7tsrwjJilVSi0UEDOSvav11pQOlCHFpyjQYFcM92QwLXcWZa4xkUlb1MvpfcTbhk4kKv88NFLNLksze7qg9DLekr3Coq4MBWrEgYBMkQisPNnialXOI_c7tcH9xDxT_dTzfjhkuVsOZj_jKIEtG0uh5NpP0QUQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtjjX2J-po6vnwqypMHeU_IrO1wivnau2FpQD91QIh56LarSFeIzmEyJx457GMJXwMILeY2EjIXs1VkC3tVaJIfnkmvI7uFG34YsJqt2CU2-1xaumR8wEOCscaFlFalW8okWwHfkBUhI0wSJ_iY-Hggv61Xr35mp8Dh9bF-HTap13xUKxEJE0fxxjhWwI_tCHOyPFFK3CnpTV04ZnhccLLuAHOwFWe7TUsKJPO-NaQLUgpABdPq2gAgt6lGUxDHA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Ciclismo: Giro d'Italia",
+      "competizione": "Giro d'Italia 2026",
+      "canale": "Rai Sport",
+      "note": "Repliche o highlights della tappa del giorno precedente (Decima Tappa).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4L_trmTLPxj7KvjEEIAfGu8_mhBk7tzDT2-Tj1x5e6jXxD58C8B4HiDw_1ddOQfWvh9YSg0ez0kcSGVOcIgzXlf2O21llMNiAFqTny3o74H-H51ueZdf_ZzZZjHCHrU3_a2xMHz5aB7L31ci1L1rjXhy8mYhCSgDICbLh_a2O7UDxgb86QAhVwWPtP6DMTKdhn0Fkg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Ciclismo: Giro d'Italia - 9a tappa: Cervia - Corno alle Scale (fasi finali)",
+      "competizione": "Giro d'Italia 2026",
+      "canale": "Rai Sport",
+      "note": "Fasi finali della nona tappa, trasmessa in replica.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkoJZdhMy6Crv5WWoRj_t80Sg6TNW-yEsaZX9T8pP13935blfKV2b6eX_Ebk3CCn69oZUko2jlJ9BhSC8Nr3eQ_ztYDDIOOyjFB-hX3zRszvjtRhZo-t3W95ZpmOLxEMG6MMLrTSDYzCmi6vcABBCullIehz8=",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
