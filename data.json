@@ -1,23 +1,68 @@
 {
-  "last_updated": "2026-05-19T04:07:22.291861+02:00",
+  "last_updated": "2026-05-19T10:56:56.964699+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "ATP Amburgo: Flavio Cobolli (ITA) vs Ignacio Buse",
-      "competizione": "ATP 500 Amburgo",
-      "canale": "Sky Sport Tennis",
+      "orario": "17:00",
+      "evento": "Italia-Serbia Under 15 (Amichevole)",
+      "competizione": "Calcio - Amichevole Internazionale U15",
+      "canale": "VIVO AZZURRO TV",
       "note": "",
-      "fonte": "Lottomatica.Sport, Sky Sport",
+      "fonte": "https://www.goal.com/it/liste/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d84e5486927d6",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:30",
-      "evento": "ATP Amburgo: Luciano Darderi (ITA) vs Roman Andres Burruchaga",
-      "competizione": "ATP 500 Amburgo",
-      "canale": "Sky Sport Tennis",
+      "orario": "20:00",
+      "evento": "Monza-Juve Stabia",
+      "competizione": "Calcio - Playoff Serie B",
+      "canale": "DAZN, LAB CHANNEL",
       "note": "",
-      "fonte": "Lottomatica.Sport, Sky Sport",
+      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.goal.com/it/lists/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d84e5486927d6",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Bournemouth-Manchester City",
+      "competizione": "Calcio - Premier League",
+      "canale": "SKY SPORT UNO, SKY SPORT 4K, NOW",
+      "note": "",
+      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.libero.it/magazine/guida-tv/il-calcio-in-tv-oggi-bournemouth-city-e-chelsea-tottenham-in-premier-league-68892, https://www.goal.com/it/lists/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d84e5486927d6",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:15",
+      "evento": "Chelsea-Tottenham",
+      "competizione": "Calcio - Premier League",
+      "canale": "SKY SPORT CALCIO, NOW",
+      "note": "",
+      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.libero.it/magazine/guida-tv/il-calcio-in-tv-oggi-bournemouth-city-e-chelsea-tottenham-in-premier-league-68892, https://www.goal.com/it/lists/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d84e5486927d6",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Flavio Cobolli (ITA) vs Ignacio Buse (PER)",
+      "competizione": "Tennis - ATP 500 Amburgo (1° Turno)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, SkyGo, NOW, Tennis Tv",
+      "note": "Primo match sul campo principale",
+      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410111/il-tennis-in-tv-oggi-19-maggio-doppio-esordio-azzurro-ad-amburgo-con-cobolli-e-darderi/, https://sport.sky.it/tennis/2026/05/18/atp-amburgo-ginevra-2026-tv-streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Luciano Darderi (ITA) vs Roman Burruchaga (ARG)",
+      "competizione": "Tennis - ATP 500 Amburgo (1° Turno)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, SkyGo, NOW, Tennis Tv",
+      "note": "Orario stimato, non prima delle 12:00",
+      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410111/il-tennis-in-tv-oggi-19-maggio-doppio-esordio-azzurro-ad-amburgo-con-cobolli-e-darderi/, https://sport.sky.it/tennis/2026/05/18/atp-amburgo-ginevra-2026-tv-streaming",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Lucia Bronzetti (ITA) vs Varvara Lepchenko (USA)",
+      "competizione": "Tennis - Qualificazioni Roland Garros",
+      "canale": "Discovery+, HBO Max",
+      "note": "Orario stimato, 5° incontro sul Campo 8, inizio programma ore 10:00",
+      "fonte": "https://www.oasport.it/2026/05/sport-in-tv-oggi-martedi-19-maggio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410111/il-tennis-in-tv-oggi-19-maggio-doppio-esordio-azzurro-ad-amburgo-con-cobolli-e-darderi/",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
