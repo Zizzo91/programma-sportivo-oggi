@@ -1,14 +1,23 @@
 {
-  "last_updated": "2026-05-18T21:22:29.502983+02:00",
+  "last_updated": "2026-05-19T04:07:22.291861+02:00",
   "events": [
     {
-      "orario": "19:30*",
-      "evento": "Lorenzo Sonego (ITA) vs Edas Butvilas (LTU)",
-      "competizione": "ATP 250 Ginevra (Primo Turno)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "A seguire il match Brancaccio vs Wawrinka. L'orario è stimato.",
-      "fonte": "Sky Sport, Lo Slalom, Sport in tv oggi",
-      "accuratezza_orario": "stimato"
+      "orario": "12:00",
+      "evento": "ATP Amburgo: Flavio Cobolli (ITA) vs Ignacio Buse",
+      "competizione": "ATP 500 Amburgo",
+      "canale": "Sky Sport Tennis",
+      "note": "",
+      "fonte": "Lottomatica.Sport, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "ATP Amburgo: Luciano Darderi (ITA) vs Roman Andres Burruchaga",
+      "competizione": "ATP 500 Amburgo",
+      "canale": "Sky Sport Tennis",
+      "note": "",
+      "fonte": "Lottomatica.Sport, Sky Sport",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
