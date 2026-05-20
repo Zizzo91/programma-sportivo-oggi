@@ -1,85 +1,31 @@
 {
-  "last_updated": "2026-05-20T04:05:43.974160+02:00",
+  "last_updated": "2026-05-20T10:51:34.475059+02:00",
   "events": [
     {
-      "orario": "04:00",
-      "evento": "Havk Mladost - Pro Recco",
-      "competizione": "LEN Champions League 2025/2026",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Primo turno doppio maschile (con italiani Flavio Cobolli o Luciano Darderi)",
-      "competizione": "ATP 500 Amburgo 2026",
-      "canale": "Sky Sport, SkyGo, NOW Tv, Tennis Tv",
-      "note": "Orario di inizio sessione, la partita specifica potrebbe iniziare più tardi.",
-      "fonte": "Olympics.com",
+      "orario": "16:00*",
+      "evento": "Bolelli / Vavassori - Doumbia / Reboul",
+      "competizione": "Tennis - ATP 500 Amburgo (Doppio)",
+      "canale": "Sky Sport Uno, Sky Go, NOW, Tennis TV",
+      "note": "Ottavi di finale. Orario stimato in quanto terza partita sul campo M2 dopo le 12:00.",
+      "fonte": "OA Sport, Sky Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "12:00",
-      "evento": "Secondo turno singolare maschile (con italiani Flavio Cobolli o Luciano Darderi)",
-      "competizione": "ATP 500 Amburgo 2026",
-      "canale": "Sky Sport, SkyGo, NOW Tv, Tennis Tv",
-      "note": "Orario di inizio sessione, la partita specifica potrebbe iniziare più tardi.",
-      "fonte": "Olympics.com",
+      "orario": "18:00*",
+      "evento": "Luciano Darderi - Yannick Hanfmann",
+      "competizione": "Tennis - ATP 500 Amburgo",
+      "canale": "Sky Sport Uno, Sky Go, NOW, Tennis TV",
+      "note": "Ottavi di finale. Orario 'non prima delle 18:00'.",
+      "fonte": "OA Sport, Sisal",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Giro d'Italia 2026 - Tappa 11",
-      "competizione": "Giro d'Italia 2026",
-      "canale": "DAZN (Eurosport)",
-      "note": "",
-      "fonte": "DAZN News IT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:15",
-      "evento": "100 metri (Batterie) - Marcell Jacobs",
-      "competizione": "Meeting Internazionale di Atletica di Savona",
-      "canale": "RaiSportHD, Rai Play",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:32",
-      "evento": "100 metri (Finale) - Marcell Jacobs",
-      "competizione": "Meeting Internazionale di Atletica di Savona",
-      "canale": "RaiSportHD, Rai Play",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Palermo-Catanzaro",
-      "competizione": "Playoff Serie B",
-      "canale": "DAZN, Lab Channel",
-      "note": "",
-      "fonte": "Calciomagazine.net, Goal.com Italia",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "GP Del Canada (Re-live/Approfondimento)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 (207)",
-      "note": "Riviviamo insieme tutte le forti emozioni che ci sono state trasmesse durante gli scorsi Gran Premi in attesa della gara di Formula 1.",
-      "fonte": "Guida.tv",
-      "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Friburgo-Aston Villa",
-      "competizione": "UEFA Europa League (Finale)",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport, NOW",
-      "note": "",
-      "fonte": "Calciomagazine.net, Sky TG24",
+      "evento": "Friburgo - Aston Villa",
+      "competizione": "Calcio - UEFA Europa League Finale",
+      "canale": "Sky Sport Uno, Sky Sport 251, Sky Sport 4K, NOW",
+      "note": "Prepartita dalle 20:00 su Sky Sport Uno, Sky Sport 251, Sky Sport 4K e NOW.",
+      "fonte": "Sky TG24, Sportface.it, Calciomagazine, Tuttomercatoweb, LaPresse",
       "accuratezza_orario": "esatto"
     }
   ]
