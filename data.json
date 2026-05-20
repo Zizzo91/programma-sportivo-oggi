@@ -1,121 +1,85 @@
 {
-  "last_updated": "2026-05-19T21:41:38.106169+02:00",
+  "last_updated": "2026-05-20T04:05:43.974160+02:00",
   "events": [
     {
-      "orario": "10:00",
-      "evento": "Tennis - Qualificazioni Roland Garros: 1° turno (vari incontri con italiani)",
-      "competizione": "Grande Slam (Qualificazioni)",
-      "canale": "Discovery+, HBO Max",
-      "note": "Inizio programma, match con italiani a seguire. Maestrelli vs Noguchi (2° match), Brancaccio vs Quevedo (2° match), Cadenasso vs Broady (3° match), Giustino vs Jacquet (3° match), Bronzetti vs Lepchenko (4° match). Orari stimati per i singoli match, a partire dalle 11:30/12:00 per i secondi incontri, 13:00/14:00 per i terzi e 14:30/15:00 per i quarti.",
-      "fonte": "oa.sport; loslalom.it; livetennis.it; Roland-Garros.com",
+      "orario": "04:00",
+      "evento": "Havk Mladost - Pro Recco",
+      "competizione": "LEN Champions League 2025/2026",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Primo turno doppio maschile (con italiani Flavio Cobolli o Luciano Darderi)",
+      "competizione": "ATP 500 Amburgo 2026",
+      "canale": "Sky Sport, SkyGo, NOW Tv, Tennis Tv",
+      "note": "Orario di inizio sessione, la partita specifica potrebbe iniziare più tardi.",
+      "fonte": "Olympics.com",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "12:00",
-      "evento": "Tennis - Flavio Cobolli vs Ignacio Buse",
-      "competizione": "ATP Amburgo",
-      "canale": "Sky Sport",
-      "note": "Primo turno",
-      "fonte": "lottomatica.sport; oa.sport; loslalom.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Tennis - Luciano Darderi vs Roman Andres Burruchaga",
-      "competizione": "ATP Amburgo",
-      "canale": "Sky Sport",
-      "note": "Primo turno",
-      "fonte": "lottomatica.sport; oa.sport; loslalom.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:15",
-      "evento": "Ciclismo - Giro d'Italia: Decima tappa (Massa-Viareggio, cronometro)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai, Eurosport",
-      "note": "",
-      "fonte": "adnkronos.com; oa.sport; loslalom.it; raisport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:20",
-      "evento": "Hockey ghiaccio - Italia vs Norvegia",
-      "competizione": "Mondiali Top Division",
-      "canale": "SportEurope.tv (streaming)",
-      "note": "",
-      "fonte": "sportface.it; oa.sport; loslalom.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:35",
-      "evento": "TG Sport Sera",
-      "competizione": "Notiziario sportivo",
-      "canale": "Rai 2",
-      "note": "",
-      "fonte": "questaseratv.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Calcio - Monza vs Juve Stabia",
-      "competizione": "Serie B Playoff (semifinale ritorno)",
-      "canale": "DAZN, LAB CHANNEL",
-      "note": "Partita di ritorno, andata 2-2",
-      "fonte": "tuttomercatoweb.com; loslalom.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Basket - Virtus Bologna vs Trento",
-      "competizione": "Serie A, Gara 2 Quarti di Finale",
-      "canale": "Sky Sport, LBA TV",
-      "note": "",
-      "fonte": "loslalom.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Calcio - Bournemouth vs Manchester City",
-      "competizione": "Premier League",
-      "canale": "Sky Sport Uno, Sky Sport 4K",
-      "note": "",
-      "fonte": "libero.it; digital-news.it; oa.sport; tuttomercatoweb.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Basket - Venezia vs Tortona",
-      "competizione": "Serie A, Gara 2 Quarti di Finale",
-      "canale": "LBA TV",
-      "note": "",
-      "fonte": "loslalom.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:40",
-      "evento": "Basket - Quarto di Finale Serie A2 (Pesaro-Rimini o ev. gara 5)",
-      "competizione": "Serie A2",
-      "canale": "Raisport HD",
-      "note": "Match da confermare in base all'esito delle serie precedenti ('ev. gara 5')",
-      "fonte": "guida.tv/raisport-hd",
+      "evento": "Secondo turno singolare maschile (con italiani Flavio Cobolli o Luciano Darderi)",
+      "competizione": "ATP 500 Amburgo 2026",
+      "canale": "Sky Sport, SkyGo, NOW Tv, Tennis Tv",
+      "note": "Orario di inizio sessione, la partita specifica potrebbe iniziare più tardi.",
+      "fonte": "Olympics.com",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:15",
-      "evento": "Calcio - Chelsea vs Tottenham",
-      "competizione": "Premier League",
-      "canale": "Sky Sport Calcio",
+      "orario": "12:15",
+      "evento": "Giro d'Italia 2026 - Tappa 11",
+      "competizione": "Giro d'Italia 2026",
+      "canale": "DAZN (Eurosport)",
       "note": "",
-      "fonte": "libero.it; digital-news.it; oa.sport; tuttomercatoweb.com",
+      "fonte": "DAZN News IT",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:15",
-      "evento": "Film: 19/05/2026 (2026)",
-      "competizione": "Film (referenza ironica per la data)",
-      "canale": "Sky Sport Tennis (205)",
-      "note": "Nome del film che ironicamente coincide con la data, trasmesso su un canale sportivo, probabilmente riempitivo o un programma speciale legato al tennis.",
-      "fonte": "guida.tv",
+      "orario": "16:15",
+      "evento": "100 metri (Batterie) - Marcell Jacobs",
+      "competizione": "Meeting Internazionale di Atletica di Savona",
+      "canale": "RaiSportHD, Rai Play",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:32",
+      "evento": "100 metri (Finale) - Marcell Jacobs",
+      "competizione": "Meeting Internazionale di Atletica di Savona",
+      "canale": "RaiSportHD, Rai Play",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Palermo-Catanzaro",
+      "competizione": "Playoff Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "Calciomagazine.net, Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "GP Del Canada (Re-live/Approfondimento)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 (207)",
+      "note": "Riviviamo insieme tutte le forti emozioni che ci sono state trasmesse durante gli scorsi Gran Premi in attesa della gara di Formula 1.",
+      "fonte": "Guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Friburgo-Aston Villa",
+      "competizione": "UEFA Europa League (Finale)",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport, NOW",
+      "note": "",
+      "fonte": "Calciomagazine.net, Sky TG24",
       "accuratezza_orario": "esatto"
     }
   ]
