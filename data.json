@@ -1,59 +1,41 @@
 {
-  "last_updated": "2026-05-21T10:54:18.004092+02:00",
+  "last_updated": "2026-05-21T16:36:52.316966+02:00",
   "events": [
     {
-      "orario": "15:00",
-      "evento": "Roma - Bologna",
-      "competizione": "Campionato Primavera Playoff",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "12:00",
-      "evento": "Simone Bolelli (ITA) / Andrea Vavassori (ITA) vs Sadio Doumbia / Fabien Reboul",
-      "competizione": "ATP 500 Amburgo - Doppio Ottavi di finale (ripresa)",
-      "canale": "Sky Sport Tennis (205)",
-      "note": "La partita riprenderà dal punteggio di 2-5. In caso di vittoria, giocheranno i quarti di finale successivamente.",
-      "fonte": "OA Sport, Guida.tv",
+      "evento": "Tennis: Doppio Maschile - Ottavi di finale",
+      "competizione": "ATP 500 Amburgo",
+      "canale": "Sky Sport, NOW",
+      "note": "Simone Bolelli/Andrea Vavassori (ITA) vs Sadio Doumbia/Fabien Reboul (FRA) - Ripresa del match dal 2-5 nel primo set.",
+      "fonte": "oasport.it, Slalom.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:20",
-      "evento": "Marco Cecchinato (ITA) vs Andrea Pellegrino (ITA)",
-      "competizione": "Roland Garros Qualificazioni",
-      "canale": "Discovery+",
-      "note": "Match sul Campo 13.",
-      "fonte": "Lo Slalom",
+      "orario": "14:00",
+      "evento": "Tennis: Sorteggio Tabellone Principale Singolare Maschile e Femminile",
+      "competizione": "Roland Garros",
+      "canale": "Canale YouTube del Roland Garros",
+      "note": "Sorteggio dei tabelloni principali con Jannik Sinner (ITA) testa di serie n.1 e altri italiani.",
+      "fonte": "Olympics.com, OA Sport, Sky Sport",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis: Doppio Maschile - Quarti di finale",
+      "competizione": "ATP 500 Amburgo",
+      "canale": "Sky Sport, NOW",
+      "note": "Se Simone Bolelli/Andrea Vavassori (ITA) si qualificano, affronteranno Theo Arribage/Albano Olivetti (FRA). Programmed as third match on Court 2 after a suitable rest.",
+      "fonte": "oasport.it",
+      "accuratezza_orario": "tba"
     },
     {
       "orario": "18:00*",
-      "evento": "Luciano Darderi (ITA) vs Alex de Minaur",
-      "competizione": "ATP 500 Amburgo - Singolare Quarti di finale",
-      "canale": "Sky Sport Tennis (205)",
-      "note": "Non prima delle 18:00 CET.",
-      "fonte": "OA Sport, Guida.tv",
+      "evento": "Tennis: Singolare Maschile - Quarti di finale",
+      "competizione": "ATP 500 Amburgo",
+      "canale": "Sky Sport, NOW",
+      "note": "Luciano Darderi (ITA) vs Alex de Minaur (AUS). Quarto match di giornata, non prima delle 18:00.",
+      "fonte": "oasport.it, Slalom.it",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Conferenza Stampa Piloti",
-      "competizione": "Formula 1 - GP Canada",
-      "canale": "Sky Sport F1",
-      "note": "Inizio del weekend di gara del GP Canada.",
-      "fonte": "Sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Paddock Live Pit Walk",
-      "competizione": "Formula 1 - GP Canada",
-      "canale": "Sky Sport F1",
-      "note": "Approfondimento dal paddock.",
-      "fonte": "Sportface.it",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
