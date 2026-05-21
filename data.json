@@ -1,41 +1,50 @@
 {
-  "last_updated": "2026-05-21T16:36:52.316966+02:00",
+  "last_updated": "2026-05-21T21:41:55.996126+02:00",
   "events": [
     {
+      "orario": "09:00",
+      "evento": "ATP 500 Vienna 2025 (replica: Jannik Sinner vs Flavio Cobolli)",
+      "competizione": "Tennis ATP",
+      "canale": "SuperTennis",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Wa2sz3Ngn5yKKunpnB7UB6upoIWjvdnCQvYpZYkMS336sEfkMxE6AY1hazxYy_JizW0fSZLQDHNZy1XWNgVkoovMxjDlpVzKV86pGShlu0Snndx902dYBvqXOhF8B8qYEWfHnO1UmQMsjWjf1JGRx5OhgHw4Njhadu1pnom5t9h-39DyfW9Q, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwipZDa_6sVcFfV9-s5_zPuTEYLBU28UZ7YnKFWTEzqBg7IvidJWIadmDsTXh4ONd7nvSzsCMuVOjYdj1X0IrAQbCC5e-VuzKhXsGhbWqGkWpn99k-hXNeI7O0NDTwhwwaWmbACnyHQEfVvdgN7KJqOngbADakTO7iIlFXN9i6xChQm2eiq3w",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "12:00",
-      "evento": "Tennis: Doppio Maschile - Ottavi di finale",
-      "competizione": "ATP 500 Amburgo",
-      "canale": "Sky Sport, NOW",
-      "note": "Simone Bolelli/Andrea Vavassori (ITA) vs Sadio Doumbia/Fabien Reboul (FRA) - Ripresa del match dal 2-5 nel primo set.",
-      "fonte": "oasport.it, Slalom.it",
+      "evento": "ATP Amburgo: Ottavi di finale doppio (Simone Bolelli/Andrea Vavassori vs Sadio Doumbia/Fabien Reboul)",
+      "competizione": "Tennis ATP 500",
+      "canale": "Sky Sport",
+      "note": "Ripresa del match da 2-5 nel primo set.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEagfhcjDf0NzrzDZKp9dVVjnjN79L059zj22l5nOA9gqoLwqqqzU4VppOBCT9HmR3SuxI_IaFK7QDWOrXc-HjEaH-h2-HH5ShiuWalbt_dJeeiCBOXRZgmi_SKBqKQw4K085udEk19d59cJKqdkm1JZXPXlifG566BROiqFlgrSydeXd9fZlbGeFQEEpsWUZGQ1aNDlelYXXirzaVDdmIsJ6XqembqjsGpBJxmEIOjVoKGEfuVpKuRAVtpR3M=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Tennis: Sorteggio Tabellone Principale Singolare Maschile e Femminile",
-      "competizione": "Roland Garros",
-      "canale": "Canale YouTube del Roland Garros",
-      "note": "Sorteggio dei tabelloni principali con Jannik Sinner (ITA) testa di serie n.1 e altri italiani.",
-      "fonte": "Olympics.com, OA Sport, Sky Sport",
+      "orario": "15:00",
+      "evento": "Campionato Primavera Playoff (Roma-Bologna)",
+      "competizione": "Calcio Campionato Primavera",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQwjrr6LTPLr6Hwlsu6uQ4h_hd-V1sK2p5Zk-a9MicWdUjLgKmfWpsvIgqiUULt5pILen92_1GunSz8HrJZSp5UCzgYRWGF94Az4u4_GxlbGEf1Hr1VDC6-XsgkyPClPXRPIwUofcKx099L7cxgtYE-9dwzMa_bdpRydxmBajtjew==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Tennis: Doppio Maschile - Quarti di finale",
-      "competizione": "ATP 500 Amburgo",
-      "canale": "Sky Sport, NOW",
-      "note": "Se Simone Bolelli/Andrea Vavassori (ITA) si qualificano, affronteranno Theo Arribage/Albano Olivetti (FRA). Programmed as third match on Court 2 after a suitable rest.",
-      "fonte": "oasport.it",
-      "accuratezza_orario": "tba"
     },
     {
       "orario": "18:00*",
-      "evento": "Tennis: Singolare Maschile - Quarti di finale",
-      "competizione": "ATP 500 Amburgo",
-      "canale": "Sky Sport, NOW",
-      "note": "Luciano Darderi (ITA) vs Alex de Minaur (AUS). Quarto match di giornata, non prima delle 18:00.",
-      "fonte": "oasport.it, Slalom.it",
+      "evento": "ATP Amburgo: Quarti di finale singolare (Luciano Darderi vs Alex de Minaur)",
+      "competizione": "Tennis ATP 500",
+      "canale": "Sky Sport",
+      "note": "Non prima delle 18:00, quarto match dalle 12:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEagfhcjDf0NzrzDZKp9dVVjnjN79L059zj22l5nOA9gqoLwqqqzU4VppOBCT9HmR3SuxI_IaFK7QDWOrXc-HjEaH-h2-HH5ShiuWalbt_dJeeiCBOXRZgmi_SKBqKQw4K085udEk19d59cJKqdkm1JZXPXlifG566BROiqFlgrSydeXd9fZlbGeFQEEpsWUZGQ1aNDlelYXXirzaVDdmIsJ6XqembqjsGpBJxmEIOjVoKGEfuVpKuRAVtpR3M=",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "ATP Amburgo: Quarti di finale doppio (Simone Bolelli/Andrea Vavassori vs Theo Arribage/Albano Olivetti)",
+      "competizione": "Tennis ATP 500",
+      "canale": "Sky Sport",
+      "note": "In caso di vittoria nel match precedente.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEagfhcjDf0NzrzDZKp9dVVjnjN79L059zj22l5nOA9gqoLwqqqzU4VppOBCT9HmR3SuxI_IaFK7QDWOrXc-HjEaH-h2-HH5ShiuWalbt_dJeeiCBOXRZgmi_SKBqKQw4K085udEk19d59cJKqdkm1JZXPXlifG566BROiqFlgrSydeXd9fZlbGeFQEEpsWUZGQ1aNDlelYXXirzaVDdmIsJ6XqembqjsGpBJxmEIOjVoKGEfuVpKuRAVtpR3M=",
+      "accuratezza_orario": "tba"
     }
   ]
 }
