@@ -1,158 +1,59 @@
 {
-  "last_updated": "2026-05-20T16:32:29.053925+02:00",
+  "last_updated": "2026-05-21T10:54:18.004092+02:00",
   "events": [
     {
-      "orario": "20:00",
-      "evento": "Palermo-Catanzaro",
-      "competizione": "Serie B Playoff - Semifinale di ritorno",
-      "canale": "DAZN, LaB Channel, Prime Video, OneFootball",
+      "orario": "15:00",
+      "evento": "Roma - Bologna",
+      "competizione": "Campionato Primavera Playoff",
+      "canale": "Sportitalia",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4mjfvNim65dcvWzey_ajhiSromroQw6B-yWH8g0qVr4VNTw3Iz5KyxuALS2t3G-fNiZlad8TGrrrlD3s1AXnkHJkSykK3Hj2CQpUwiYFIauW2Hs4dCkH0AE_XjeUiNUsSPj7jMK6BO6Ai7XSBXV98dn1STlDUd_nwbJN0hVgMWvB-fs6hOEuWnJlcZYk77aOMJskZ4_pfHTivfswEVDjZyIjkp44_EbcNeyM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHT4iaIdxBDG6G8C8arg7GhGcJfilJYIgMzHysYCdC0dD7fgGxU99EiBGI__TE3fZeeXcfdSLHWcSKTF7Nh5FJLagum3Nk5o1kWcY3pwJTf-WulKBzqEHlGaNPC2Iyt9Q3oAfjiO-FbXdHbeKafJmsuCrOghb2zbAOY5PPLZg3nU5y8wlpSRNUzF5jnGHpuXeWcYDJpdQ_O6qWhr1F09oZjrSFw1JbZw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLtr-gpbQhCH9Nd3pvndAiWG_l-rxjX4jbT9vQcDij72uao3tLon4Ts_bIkQxhQTaGxnZXrcKVx6ugIJa8lUMN5FchD2CaGGdwQ0ZcBsTaXZNdWGbL_JxjU5wXNN8PFDuxCjdo0reVFpmlk_WSDAGzXdE1-X92GwV8CqQbFwv6FEQeTPvlWiALB7t8Gx9UKEPpXuWmdOFx0W6LD1_zORibDt7HNczQfLAILujI8rfGKXzC5RmeaJt8vV9tYR5pBxiDOKaDO4LBLRqxKyR57QQHWI72L9bUCx901bM0NqjNrGxg",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Friburgo-Aston Villa",
-      "competizione": "UEFA Europa League - Finale",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvBBwflLKPpUYNIIp8qsOLiRUoNozRszR6M6fG9drP1-Wq2fszx1ADD3UQZwVZSEKyrUdfosFRJ3eBxsb18ZdK2dumC1hTyIxLIlldthwk0CzvJ69FMZf7u8eVLXo-Mo3_Kkvt6Emk7zyBWVFu9KST9odFpRzVOETz8FL0XowFXY8KE9SV4zjVhyiiPi6GuoezeLcuEZj7Af-89owWv7dQwvHZwZrzwYKVjPs8D2Y-DnIZpg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP65EdQCnrJXIhOBPiRpfld0JacbZKPKxWsJ02oG5v5yxg2lb5jPkRYWb3I538TXrsdcOcdNR8553vZncyUA2arGSnDQ7QhWF5TgMfJ2ZlgYr21cqW3_OZupFqIcn_G99kL9x3i0a656976w6y05l6w0g2r6g5k0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHT4iaIdxBDG6G8C8arg7GhGcJfilJYIgMzHysYCdC0dD7fgGxU99EiBGI__TE3fZeeXcfdSLHWcSKTF7Nh5FJLagum3Nk5o1kWcY3pwJTf-WulKBzqEHlGaNPC2Iyt9Q3oAfjiO-FbXdHbeKafJmsuCrOghb2zbAOY5PPLZg3nU5y8wlpSRNUzF5jnGHpuXeWcYDJpdQ_O6qWhr1F09oZjrSFw1JbZw==",
+      "orario": "12:00",
+      "evento": "Simone Bolelli (ITA) / Andrea Vavassori (ITA) vs Sadio Doumbia / Fabien Reboul",
+      "competizione": "ATP 500 Amburgo - Doppio Ottavi di finale (ripresa)",
+      "canale": "Sky Sport Tennis (205)",
+      "note": "La partita riprenderà dal punteggio di 2-5. In caso di vittoria, giocheranno i quarti di finale successivamente.",
+      "fonte": "OA Sport, Guida.tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Coquimbo-Tolima",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
+      "orario": "13:20",
+      "evento": "Marco Cecchinato (ITA) vs Andrea Pellegrino (ITA)",
+      "competizione": "Roland Garros Qualificazioni",
+      "canale": "Discovery+",
+      "note": "Match sul Campo 13.",
+      "fonte": "Lo Slalom",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Fluminense-Bolivar",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Rosario Central-Universidad Central",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Audax Italiano-Barracas Central",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Montevideo City Torque-Deportivo Riestra",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Always Ready-Mirassol",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Santa Fe-Platense",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Boca Juniors-Cruzeiro",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "San Paolo-Millonarios",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Independiente Del Valle-Libertad",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "America Cali-Tigre",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Deportivo Cuenca-Recoleta",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "21 Maggio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG40zU131_A0kIdSo4Xb8sMDJyUCjyRJoUoewGNDOpYGCogDxa0SdIwUL5kR2F6FqpuZPdacGuB2VgiV59FXdY-XTE7MGGlEyP6NjInkBqAaaCO8NY7EOrnO8B4unMJeWMhGoIBdgTiRg0Z9k3-42AE0hmLk-FLFRXJt6jw_4sQKhU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1OpI7OdrtSpCBplc9r6ZJ2nzt74BHVroV8CT7BpG3eQ3-qpVFVPW8VgnqOxMUoaS8MMKiC6hWU7Cswyi3GIcuQ68KPc7TWMKH6cI55caxZJyiQIuRqA_Jewnw3XIpkLTbj8OJjeEIkKEMdfXjofkR7uDEnEsagsaQVbFUvhruIDFPP0GuzgeDjGK-DlhIX2CdjXDm6zdx0GGGAU3xAcoteh0P7TlAneVtKq8Iw6bNK4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Qualificazioni Roland Garros - Secondo turno",
-      "competizione": "ATP/WTA Grande Slam",
-      "canale": "Eurosport, Discovery+",
-      "note": "Italiani in campo: Federico Cinà, Andrea Pellegrino, Marco Cecchinato, Martina Trevisan, Lisa Pigato, Lucia Bronzetti, Lucrezia Stefanini, Francesco Maestrelli, Gianluca Cadenasso.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdtCspA8DqF9ZtrwnGRwoHo62MwBZBb-gsF6U4IWu4pbxhzdvBqb10NOOcuNlUU8koO_X9bLnn1j6BBmc57xV4IQwrum5zrgGNC5GvVM_hXKofK7-UO2q8dyAVlFRtddj9OtV3HZ8cijBS1XUy1cP_hckMcbf3NjlB49XEdCDwdwbAK3vLuJ4nwSBGUiDcgBjfIv4pgIs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtVPG_l0PW3zkDtuXkQGdgMtEw4BL2lgSz_hfN8Zjahvh94njJH7PD_Pj7QsOQEdX-fiFIevfMGJ5EEIwRXImm8R7871Vq2YMRbaoj4qRFXG_DZWPEuc166h982nDk_VCSScu9uhmwRmgbJTNzF8Jt8E45OF7oQP_iEuPlfUzxeh34Gz50ZnL3qiNVqK6I_p_7kudoa7mGQBK1wxMFGBAmJBMkW-CrBsGSXIiKHqvx6gAgxOFhijci-HGYl68n0Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00*",
-      "evento": "Bolelli/Vavassori (ITA) vs Doumbia/Reboul (FRA)",
-      "competizione": "ATP 500 Amburgo - Ottavi di finale (Doppio)",
-      "canale": "Sky Sport Uno, Sky Go, NOW, Tennis TV",
-      "note": "Terzo match sul campo M2, programma dalle 12:00 CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeyQMnoVKLbK3IOFJJJ9el5hFSFOQ5n0II5iUDPAVzYZ8wCtnau5Pp_Hflq-Rq6c21OExihx-kEoLkfSCFxv360_2l8T3tHI-WFsChpR_Jz5gFEvQTO0PLL6rN54LTDREh2zv4q-z68nVPUJK_WlKgml23M8-_VPPr9_OZyYqzdWqJbdgSwrlbs6FmBBvutRYBfSwvTUOnjK7bw-phTaIAYGYnQjL4QjF02fG931g3h5f3f0",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00*",
-      "evento": "Luciano Darderi (ITA) vs Yannick Hanfmann (GER)",
-      "competizione": "ATP 500 Amburgo - Secondo turno",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
-      "note": "Non prima delle 18:00 CET, quarto match sul Centre Court.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTm-v1PMi4UhrKhdXYrCoOMgjscgtC34F8HPiVAES5ofySUGWZs4bzEmZhRcweEiUNn2WIQgPtRPq59ec3Ep1dRZKrTNWE_6bScOL1TZzqb-Pn8PocvHK8QPkKZGZkkTa-vEPaKYlpKzfn-A1ygK1EEcbXKPZ4AH0f3uVwtnfVyialJRGRHCVorNCIYJhpnUvBOIVe34RCrgBih_oE4TO1y5A=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHT4iaIdxBDG6G8C8arg7GhGcJfilJYIgMzHysYCdC0dD7fgGxU99EiBGI__TE3fZeeXcfdSLHWcSKTF7Nh5FJLagum3Nk5o1kWcY3pwJTf-WulKBzqEHlGaNPC2Iyt9Q3oAfjiO-FbXdHbeKafJmsuCrOghb2zbAOY5PPLZg3nU5y8wlpSRNUzF5jnGHpuXeWcYDJpdQ_O6qWhr1F09oZjrSFw1JbZw==",
+      "evento": "Luciano Darderi (ITA) vs Alex de Minaur",
+      "competizione": "ATP 500 Amburgo - Singolare Quarti di finale",
+      "canale": "Sky Sport Tennis (205)",
+      "note": "Non prima delle 18:00 CET.",
+      "fonte": "OA Sport, Guida.tv",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Conferenza Stampa Piloti",
+      "competizione": "Formula 1 - GP Canada",
+      "canale": "Sky Sport F1",
+      "note": "Inizio del weekend di gara del GP Canada.",
+      "fonte": "Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Paddock Live Pit Walk",
+      "competizione": "Formula 1 - GP Canada",
+      "canale": "Sky Sport F1",
+      "note": "Approfondimento dal paddock.",
+      "fonte": "Sportface.it",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
