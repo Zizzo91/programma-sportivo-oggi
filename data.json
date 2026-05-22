@@ -1,50 +1,32 @@
 {
-  "last_updated": "2026-05-21T21:41:55.996126+02:00",
+  "last_updated": "2026-05-22T10:47:51.478715+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "ATP 500 Vienna 2025 (replica: Jannik Sinner vs Flavio Cobolli)",
-      "competizione": "Tennis ATP",
-      "canale": "SuperTennis",
+      "orario": "20:45",
+      "evento": "Fiorentina-Atalanta",
+      "competizione": "Serie A",
+      "canale": "DAZN1 (214)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Wa2sz3Ngn5yKKunpnB7UB6upoIWjvdnCQvYpZYkMS336sEfkMxE6AY1hazxYy_JizW0fSZLQDHNZy1XWNgVkoovMxjDlpVzKV86pGShlu0Snndx902dYBvqXOhF8B8qYEWfHnO1UmQMsjWjf1JGRx5OhgHw4Njhadu1pnom5t9h-39DyfW9Q, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwipZDa_6sVcFfV9-s5_zPuTEYLBU28UZ7YnKFWTEzqBg7IvidJWIadmDsTXh4ONd7nvSzsCMuVOjYdj1X0IrAQbCC5e-VuzKhXsGhbWqGkWpn99k-hXNeI7O0NDTwhwwaWmbACnyHQEfVvdgN7KJqOngbADakTO7iIlFXN9i6xChQm2eiq3w",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDZVgwnFipVHj4DcOoDFkz3RO6f6LlPvuIHupoFPEF9LanmPoxp30Wmn1EYk8ZmJyz61_PkRXXXxlSGdoGjDHgrSZfqQTQrqDizbSa2leNRRs2WOkUGAb0mFJfgi_2PqYKEt3GNfSBiibzkV5PZO5TJuzd3m47CNSNQvUePo8Tv8hmw97QyMWT9A5_ECmwPw8-E3C3Lsn5eyji6wdScqAIwUNoOevmuLEEZ4AMe42yppprj4xrg9W7-U03zus=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmuv7_AhX93_qx6EnrE6WkAWXdIBANaiCvNnsAagNO1fAiBqjzcII8LdgAFVa-NFG6VoMaQ0hOoickHAxy59Mj_iXah78ZVCPqw4uygly3CUFkfqor7b0vjvoxUsiLHtxB50_L9uyHH6Impyftci_o8sGTovZPIp3PNMv3xxEtiWRDq6KvgqNJNEl7ClULgrgUzb_peSBHotkOMZ9fqjcysFssUD7Tv7oql2Ucvzmsdcz7x0UHJ4Bmp1_SedHNlBZqQ4Cp1m1eKPWfnr0eM9o=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGjweMg3zFBd5DZDQlP5ov40OmPoYrWI9gyR5nWqQOMqvHtFlb4bpxHeD0O8TYfcjD1E1EzYnaZxUxLcZsIw-XbFbPgeR4cW_wTyoHTaUpqnlM2oz2V1kipELylq8DMlMU7Hb1nHJa6d-6rYyfN9H4_BxaejDLgrYevpTgpXGsHZO3PPoXt9ecxfamoXnKe4JAo609OXotTn5ArxACaenH8jfqQIzS5K6xOw8OMlGp5KZpXa37KlgEKL9GYQw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn6ZyWLIsIw89Hr63n0vjq0syIQ0icvpP5ngRgAGVnWD-hclqFAlcQPOS_ennTRqsVUdSwTvpGN-GubddfMAoadiNaCgAkdKdOzIRNGmirYSQKQPW0jcFI7_bRTQTgnAJBq6j7_2XHKPlfeqQW6JRn_0NgXT0QmyRPZGg1SwV23Js=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlmhFAeELs6GSyLp-os5btTxHqd6hVJu4XT5GpLiOKSJ0JcRMDYlRpEvPAJDVba4vzPQSpyKeVLLr3HFa6TfBEmNgBd6etV2Pz2NJ__kUkl6lVv24MogNn_yyANThVx5UjRd0ksqSK2fLDeQQUb4RdV4L753G4REA_-ciXpHnEZ71vLAm4xmk6yQSie_yREQ=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:00",
-      "evento": "ATP Amburgo: Ottavi di finale doppio (Simone Bolelli/Andrea Vavassori vs Sadio Doumbia/Fabien Reboul)",
-      "competizione": "Tennis ATP 500",
-      "canale": "Sky Sport",
-      "note": "Ripresa del match da 2-5 nel primo set.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEagfhcjDf0NzrzDZKp9dVVjnjN79L059zj22l5nOA9gqoLwqqqzU4VppOBCT9HmR3SuxI_IaFK7QDWOrXc-HjEaH-h2-HH5ShiuWalbt_dJeeiCBOXRZgmi_SKBqKQw4K085udEk19d59cJKqdkm1JZXPXlifG566BROiqFlgrSydeXd9fZlbGeFQEEpsWUZGQ1aNDlelYXXirzaVDdmIsJ6XqembqjsGpBJxmEIOjVoKGEfuVpKuRAVtpR3M=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Campionato Primavera Playoff (Roma-Bologna)",
-      "competizione": "Calcio Campionato Primavera",
-      "canale": "Sportitalia",
+      "orario": "18:30",
+      "evento": "F1 GP Canada: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 (207), Sky Sport 4K (213)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQwjrr6LTPLr6Hwlsu6uQ4h_hd-V1sK2p5Zk-a9MicWdUjLgKmfWpsvIgqiUULt5pILen92_1GunSz8HrJZSp5UCzgYRWGF94Az4u4_GxlbGEf1Hr1VDC6-XsgkyPClPXRPIwUofcKx099L7cxgtYE-9dwzMa_bdpRydxmBajtjew==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiD1dKSf06MjnHQN5W4NsB4N-sRxyOSCou-W65dWfHupqiCaqLuhvc3UREcWz05u8OaVBHlAvGdBT70g_lJOTN9zeY3jcwXOwoe961eIrdg9Nn3rLJpBCt-l2nTYjezSyrPEoXFoAVFjW2je-d5rI05UIMsvkkEKbVzXHBkVhZB-TmSemACdJW338Cj5pCwtq53MVfVIuTI_TBpsGQqDluUGYvQNI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG55zadYWeR2TMxqUEkDIOwcCs8wHZyLPo1_RJ3Gr5NSjF3qSmM7dx1M1Xha9bbu1Yl6_FNqE7b-rSpJLpztI5HQnM-M17Y3KVLWLhI8kCCI8xa4TwwnKmy1-vObAynlDUCeFsSUKcsyuTVG2PtWFNEp59VvS88rH3KqCrfwjigjwiYyc14eOPqrC0AB8ikrBvDWKCNXXC-O7AY6qR1qw5f7UzZGK-228LId8RHgdXp4ASBpcYR=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0_ZXM-y2xfG940edBlDebkgpzm4FyfYDbifszNCuvG49Z0a5sYtGCzor4qOjWXY3UMgRY-eOjg5KNa3hUyNxQPSoaNWk9m1rssooX6uIsjdPugaDP4B9oZ6qmmL13kCF6hjsxYxrhEtGipO5mDNKWeqhKkVR-qGVIdOyVLkc-K9rsih_nHSi86_D3XI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjT5OE7NbApwPAbeI5KhTP0e8C9H3XZq-dLbxDO5cPN4ZnwmKYYD-b753LKJ9Du0hk5A-ELW5cssz7O_CcMkmIeFktIiK7tUvh-y2w7JDo7MxKWlAkpZtOckl_u06cbIW7let8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcv0zR6N4uTuKH_hpQUrJ2b6RADnLatOXMEmvcxX9VbDaIDPww-_-C10W9eweWlAvfFlX2FWWaOGfuRfjWbvM13iwKaoh5I6VNfzS5BtDcsenAka3VPsIFtxfUGiOeh77miFmuaxJHLqdrlbhD0KejL7_Th5pcn7fH07eB-q3Uj6DhECpfwhTC6JVsHxDFeUnihKdXNVqdOxK9Q7jeJ-nYTjKWHFTcozHRYQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmB0xB6Hi05N-LELn7dgqeS3wGqSmTMw000wWtt7kk5kVTCVx52e1lRNBVCFyU_6GPBTAjgfEdbBW1aqs7TKu36xwrnTvw2DExtfh_te3Tpa7OKyBdVJLRFZayTvRzC6wjYZSq12G8VTWaYPkTIIZGpPrdVk3eyGvienn18E43PMuj30berBhfCj5pCwtq53MVfVIuTI_TBpsGQqDluUGYvQNI=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00*",
-      "evento": "ATP Amburgo: Quarti di finale singolare (Luciano Darderi vs Alex de Minaur)",
-      "competizione": "Tennis ATP 500",
-      "canale": "Sky Sport",
-      "note": "Non prima delle 18:00, quarto match dalle 12:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEagfhcjDf0NzrzDZKp9dVVjnjN79L059zj22l5nOA9gqoLwqqqzU4VppOBCT9HmR3SuxI_IaFK7QDWOrXc-HjEaH-h2-HH5ShiuWalbt_dJeeiCBOXRZgmi_SKBqKQw4K085udEk19d59cJKqdkm1JZXPXlifG566BROiqFlgrSydeXd9fZlbGeFQEEpsWUZGQ1aNDlelYXXirzaVDdmIsJ6XqembqjsGpBJxmEIOjVoKGEfuVpKuRAVtpR3M=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "TBA",
-      "evento": "ATP Amburgo: Quarti di finale doppio (Simone Bolelli/Andrea Vavassori vs Theo Arribage/Albano Olivetti)",
-      "competizione": "Tennis ATP 500",
-      "canale": "Sky Sport",
-      "note": "In caso di vittoria nel match precedente.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEagfhcjDf0NzrzDZKp9dVVjnjN79L059zj22l5nOA9gqoLwqqqzU4VppOBCT9HmR3SuxI_IaFK7QDWOrXc-HjEaH-h2-HH5ShiuWalbt_dJeeiCBOXRZgmi_SKBqKQw4K085udEk19d59cJKqdkm1JZXPXlifG566BROiqFlgrSydeXd9fZlbGeFQEEpsWUZGQ1aNDlelYXXirzaVDdmIsJ6XqembqjsGpBJxmEIOjVoKGEfuVpKuRAVtpR3M=",
-      "accuratezza_orario": "tba"
+      "orario": "22:30",
+      "evento": "F1 GP Canada: Qualifiche Sprint",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213), TV8",
+      "note": "Diretta su Sky e TV8",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiD1dKSf06MjnHQN5W4NsB4N-sRxyOSCou-W65dWfHupqiCaqLuhvc3UREcWz05u8OaVBHlAvGdBT70g_lJOTN9zeY3jcwXOwoe961eIrdg9Nn3rLJpBCt-l2nTYjezSyrPEoXFoAVFjW2je-d5rI05UIMsvkkEKbVzXHBkVhZB-TmSemACdJW338Cj5pCwtq53MVfVIuTI_TBpsGQqDluUGYvQNI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG55zadYWeR2TMxqUEkDIOwcCs8wHZyLPo1_RJ3Gr5NSjF3qSmM7dx1M1Xha9bbu1Yl6_FNqE7b-rSpJLpztI5HQnM-M17Y3KVLWLhI8kCCI8xa4TwwnKmy1-vObAynlDUCeFsSUKcsyuTVG2PtWFNEp59VvS88rH3KqCrfwjigjwiYyc14eOPqrC0AB8ikrBvDWKCNXXC-O7AY6qR1qw5f7UzZGK-228LId8RHgdXp4ASBpcYR=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0_ZXM-y2xfG940edBlDebkgpzm4FyfYDbifszNCuvG49Z0a5sYtGCzor4qOjWXY3UMgRY-eOjg5KNa3hUyNxQPSoaNWk9m1rssooX6uIsjdPugaDP4B9oZ6qmmL13kCF6hjsxYxrhEtGipO5mDNKWeqhKkVR-qGVIdOyVLkc-K9rsih_nHSi86_D3XI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcv0zR6N4uTuKH_hpQUrJ2b6RADnLatOXMEmvcxX9VbDaIDPww-_-C10W9eweWlAvfFlX2FWWaOGfuRfjWbvM13iwKaoh5I6VNfzS5BtDcsenAka3VPsIFtxfUGiOeh77miFmuaxJHLqdrlbhD0KejL7_Th5pcn7fH07eB-q3Uj6DhECpfwhTC6JVsHxDFeUnihKdXNVqdOxK9Q7jeJ-nYTjKWHFTcozHRYQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmB0xB6Hi05N-LELn7dgqeS3wGqSmTMw000wWtt7kk5kVTCVx52e1lRNBVCFyU_6GPBTAjgfEdbBW1aqs7TKu36xwrnTvw2DExtfh_te3Tpa7OKyBdVJLRFZayTvRzC6wjYZSq12G8VTWaYPkTIIZGpPrdVk3eyGvienn18E43PMuj30berBhfCj5pCwtq53MVfVIuTI_TBpsGQqDluUGYvQNI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9MpN7E9v9-V9UoFUKEvT2XNQOVh2-I9KVIevZNXkzL-SWJ7wkD_z4fcIv4m_cf75XNMjpyCUhg0-jKZQsMrmgtWdtG-TpVr9UHh8Cy7pyUJ17QAzjHj94oa-9VkX_Y59An8abXQZiN4iY4EiTnvEwF9lmix3Ztpxb9SeSEMrjczENdKSxX6sTXEz77RkHqqIYwAo3TSUE4MkBFwi-tHIpAS0YuVrV9t2Qp5vT9WXHCW4=",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
