@@ -1,76 +1,238 @@
 {
-  "last_updated": "2026-05-23T03:55:58.654052+02:00",
+  "last_updated": "2026-05-23T10:04:49.989831+02:00",
   "events": [
-    {
-      "orario": "01:30",
-      "evento": "Qualifiche Sprint (Repliche)",
-      "competizione": "Formula 1 - GP Canada",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "13:00",
       "evento": "Napoli - Cagliari",
-      "competizione": "Campionato Primavera 1",
+      "competizione": "Campionato Primavera (Playout)",
       "canale": "Sportitalia",
       "note": "",
-      "fonte": "Calciomagazine, Sportitalia",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Filippo Alfano vs Jackie Mackanzie",
+      "competizione": "Trofeo Bonfiglio - Semifinale",
+      "canale": "SuperTennis",
+      "note": "Include un giocatore italiano. L'orario esatto non è specificato, solo che il match si gioca oggi.",
+      "fonte": "Il tennis in TV oggi 23 maggio: il giorno delle finali ATP e WTA e non solo",
+      "accuratezza_orario": "tba"
     },
     {
       "orario": "16:00",
-      "evento": "Qualifiche Sprint (Differita)",
-      "competizione": "Formula 1 - GP Canada",
-      "canale": "TV8",
+      "evento": "Celtic – Dunfermline",
+      "competizione": "Finale Coppa di Scozia",
+      "canale": "Como TV",
       "note": "",
-      "fonte": "ACI - L'Automobile, FormulaPassion",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:15",
+      "evento": "GP Canada - Qualifiche Sprint (Replica)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Replay delle qualifiche sprint del venerdì",
+      "fonte": "F1 oggi in tv, GP Canada 2026: orari sabato 23 maggio, streaming, programma TV8",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Bologna - Inter",
+      "evento": "Bologna – Inter",
       "competizione": "Serie A",
       "canale": "DAZN, DAZN 1 (Sky 214)",
       "note": "",
-      "fonte": "Goal.com Italia, Calciomagazine",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Sprint Race",
-      "competizione": "Formula 1 - GP Canada",
-      "canale": "Sky Sport F1, NOW, TV8",
+      "evento": "Barcellona – Lione",
+      "competizione": "Champions League femminile - Finale",
+      "canale": "Disney+",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "GP Canada - Sprint Race",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW, TV8",
       "note": "Diretta",
-      "fonte": "ACI - L'Automobile, FormulaPassion, Fuori Traiettoria",
+      "fonte": "F1 oggi in tv, GP Canada 2026: orari sabato 23 maggio, streaming, programma TV8",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Dinamo Zagabria – Lokomotiv Zagabria",
+      "competizione": "Campionato croato",
+      "canale": "Como TV",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Bayern Monaco – Stoccarda",
+      "competizione": "Coppa di Germania - Finale",
+      "canale": "Sky Sport Mix, Sky Sport 252, NOW, OneFootball",
+      "note": "",
+      "fonte": "Calciomagazine, Calcio su Sky e NOW nel weekend del 22-24 maggio: ultima giornata di Serie A, finale Coppa Italia Women, playoff Serie B e C, Premier League ultima giornata e Coppa di Germania",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "St. Louis City – Austin",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Lazio - Pisa",
+      "evento": "Lazio – Pisa",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky",
+      "canale": "DAZN, Sky Sport Calcio",
       "note": "",
-      "fonte": "Calciomagazine, Stasera in TV",
+      "fonte": "Calcio su Sky e NOW nel weekend del 22-24 maggio: ultima giornata di Serie A, finale Coppa Italia Women, playoff Serie B e C, Premier League ultima giornata e Coppa di Germania, Guida al calcio in TV: dove vedere le partite di oggi, 23 maggio 2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Alavés – Rayo Vallecano",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Betis – Levante",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Celta – Siviglia",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Espanyol – Real Sociedad",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Getafe – Osasuna",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Girona – Elche",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Maiorca – Oviedo",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Real Madrid – Athletic Bilbao",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Valencia – Barcellona",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Villarreal – Atletico Madrid",
+      "competizione": "La Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Qualifiche",
-      "competizione": "Formula 1 - GP Canada",
-      "canale": "Sky Sport F1, NOW, TV8",
+      "evento": "GP Canada - Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW, TV8",
       "note": "Diretta",
-      "fonte": "ACI - L'Automobile, FormulaPassion, Fuori Traiettoria",
+      "fonte": "F1 oggi in tv, GP Canada 2026: orari sabato 23 maggio, streaming, programma TV8",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "01:00",
-      "evento": "Qualifiche (Repliche)",
-      "competizione": "Formula 1 - GP Canada",
-      "canale": "Sky Sport F1",
-      "note": "Del 24 maggio 2026",
-      "fonte": "Sky Sport",
+      "evento": "Mondiale Formula 1 2026-GP Canada: Sprint (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Nella notte tra il 23 e il 24 maggio",
+      "fonte": "Programmazione Rai Sport del 23/05/2026 · Guida TV, Sky Tennis Club su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Mondiale Formula 1 2026-GP Canada: Qualifiche (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Nella notte tra il 23 e il 24 maggio",
+      "fonte": "Programmazione Rai Sport del 23/05/2026 · Guida TV, Sky Tennis Club su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00*",
+      "evento": "Minnesota United – Real Salt Lake",
+      "competizione": "MLS",
+      "canale": "Apple TV",
+      "note": "Orario stimato. La fonte indica l'evento come chiusura della 'lunga notte' di calcio.",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Mondiale Formula 1 2026-GP Canada: Sprint (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Nella notte tra il 23 e il 24 maggio",
+      "fonte": "Sky Tennis Club su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
