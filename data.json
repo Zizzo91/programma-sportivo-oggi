@@ -1,50 +1,68 @@
 {
-  "last_updated": "2026-05-23T14:56:58.702934+02:00",
+  "last_updated": "2026-05-23T20:53:13.628071+02:00",
   "events": [
     {
+      "orario": "10:45",
+      "evento": "Kioene Padova – Conteco Check Vero Volley Monza",
+      "competizione": "Quarti di Finale Nazionali Giovanili Under 17 Maschili",
+      "canale": "YouTube Federazione Italiana Pallavolo",
+      "note": "Diretta streaming",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRxLsw_Q1oNuU1Spp4vs-0t11K4hkQIrj8e8dCyi6sTeNtLciaET_WTPfcTKpBqtjMce1xVO5MIiOk_gSpftGWwGL2yHrT_QDGW85ss7LV9eT4tUgkKyVe80qtQskScjmaI-gqBK6NYk6uk4lgC3xxaT9v539kyLSx0qmU7jasJkHTrWiy",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "16:15",
-      "evento": "F1: Replica Qualifiche Sprint GP Canada",
+      "evento": "F1, Qualifiche Sprint GP Canada (Differita)",
       "competizione": "Formula 1",
       "canale": "TV8",
-      "note": "Replay della sessione di qualifiche sprint del venerdì",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvWXYWtuJVzd9Kn3brF6kjtXT99FeM4QvkLrhubKSuQxSo4CSTAI1Bs_EyxnG3MJMMabPDPaEgPmtyps5V83bXhJ4ZjOm5B77o75yyhA-_vJdCaAKlEbg9NMkqvatKtWiRhauQ9VJ2xxhMGjh000dqlIcnMqxZ3xMb05qNwl4zBgaOGkePdh4tuYMwAVN0B9Czxvg1vpYPOw==",
+      "note": "Differita TV in chiaro delle Qualifiche Sprint di venerdì",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH08PjxLE2I-OKCUNADgxtQQo7tze3eM3LZbDG5hcmwS83yijY-9RZDeHiPtL19ttHuaAiZ0u-LDgcdXuaCdi2T7udwcnnQKwGO6bdod8RiBHwAE73n95yoz83r3Sz1rR_Cljz4AeLflnz7OPTmxvyLuawKboCLHCpzSem-x-V3dQWgL5OsQNoBY_WAaFnk_KTlEcshVFx16u87dzriQnWoUX0Ze1VbH1oN4YLLffYOf54dq7jZz7HQGY4VhHU6vjtCsWTTT3mNzDJ6LIFKrFNa7ccTcytv362tzm0LmkakKdyc5r_ID31_KmFwlAQ_iwe_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVmga2XuFer6qqu6WcQTW5XE9xOS05O_7crK2m3Ipnox--4C-lb_WBziBivmB7BoRf5AkGy3WCVyHwHejX6MV-eK3ahfzehzzGsTrhe5f_wFViFXiX0aAG9hL9sioRVSIUuCOumtW65EuDwdmwXWctB7tqwvL7YZdrPW5egyIL0cnThxw0vJ1qrTbIQimku75bilsvqCeU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcOp9qXWTOxhpdMejoxPm9SyW_IqWwR0f9LOWe-KiE02p2QIIl2QLl1xKWsldVWna33DrhE7NLdNAUkQcET1hVPkrp4KoVnp5qB4v5xDRptfoXh1zK-Lp_6U0V6JC8rMtsmItIIkpg92v067wi5XXC9r2vaHrOiDB24OVq3JG4R94Y6hsAIb84jUJQmvRh-0F-mAOiANsV7wnOncJO3bhJfvqtsVcNkfbJ-boeFsqOeRv2j58=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Calcio: Bologna-Inter",
+      "evento": "F1, Sprint Race GP Canada (Diretta)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Now, TV8",
+      "note": "Diretta TV e streaming",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH08PjxLE2I-OKCUNADgxtQQo7tze3eM3LZbDG5hcmwS83yijY-9RZDeHiPtL19ttHuaAiZ0u-LDgcdXuaCdi2T7udwcnnQKwGO6bdod8RiBHwAE73n95yoz83r3Sz1rR_Cljz4AeLflnz7OPTmxvyLuawKboCLHCpzSem-x-V3dQWgL5OsQNoBY_WAaFnk_KTlEcshVFx16u87dzriQnWoUX0Ze1VbH1oN4YLLffYOf54dq7jZz7HQGY4VhHU6vjtCsWTTT3mNzDJ6LIFKrFNa7ccTcytv362tzm0LmkakKdyc5r_ID31_KmFwlAQ_iwe_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVmga2XuFer6qqu6WcQTW5XE9xOS05O_7crK2m3Ipnox--4C-lb_WBziBivmB7BoRf5AkGy3WCVyHwHejX6MV-eK3ahfzehzzGsTrhe5f_wFViFXiX0aAG9hL9sioRVSIUuCOumtW65EuDwdmwXWctB7tqwvL7YZdrPW5egyIL0cnThxw0vJ1qrTbIQimku75bilsvqCeU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcOp9qXWTOxhpdMejoxPm9SyW_IqWwR0f9LOWe-KiE02p2QIIl2QLl1xKWsldVWna33DrhE7NLdNAUkQcET1hVPkrp4KoVnp5qB4v5xDRptfoXh1zK-Lp_6U0V6JC8rMtsmItIIkpg92v067wi5XXC9r2vaHrOiDB24OVq3JG4R94Y6hsAIb84jUJQmvRh-0F-mAOiANsV7wnOncJO3bhJfvqtsVcNkfbJ-boeFsqOeRv2j58=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Bologna – Inter",
       "competizione": "Serie A",
       "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "38ª giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHCD6RJ8QLlfpk3ChSFyGFSln7YyDc7kQAkyaKuAkX31UFcQ4srOULGrlvLq_d_gzQPmpzwiTzgywOk-sT82aeQ_zPQP8jc2GUgLf4MGBHlF1CGUkXowDcXDsd6cgi8TgTFtLEVNNHsHL-Xx3lR7fQijTH2J5JssrMV_qLJm6-KhsbPM22D-1MGa8O68vXolRgQcb1SOeMt06IKlsziNbOjy_q-uWVhBTZxveKO4BiGg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKLryApDCy-FD8fXD1SvXuIww2v9p4W2wB--w4wPRCbAx9F6V_5Brjg2pIbQeV_MMlzdxvII1X34CdiJnxpxDIs2QlzHYyYTR7yH_pl8boNlKByuf12tCty2kuM6p801Ynhe9Bk3TqOgH-v_3Wx7wn2R-wEAPIqEeZ_c_wA-n7O9_PsbGVKPjUJp4oGAjXArUmep7JcPCm, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0FD21uhjUn3D8Y2f-IhqdOiOmKoBj3NyFevueEQCDUagPCkgvlcB7QnJfLjUijHhKZbQjgEbfdi9AmhplICrdeIv3R2408k9JwDsEs4XxxNx7cZYF7eAgTEr5Dpdx9zmmXW9AWPyE1jDWvZY3Ekd2YK96UlOm71XVx41E-MRVQb9bgvLpwAU3wp7EVvlxZdNxUYQw9_k0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIeUIWCuJ_c80nUP6CcYLzzZkh-KqybujIRPOE3rW4Qa8qrYuenDghCv9GD1sCiRuv_PbW0Tuxa46SaY9dcfqTWXZjJYMZ_CUbKVCUsly83MFF4Ln63l6BmjXI8rFR0_GWB2eUDgeC7jcpQwiTW7NCubu4ZFaHNRjXOWtDLsz2JtdWfQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwZoQqEKv6b_e1HNtiEKJDCUcYxjjDtZ8f-jW60r1dXDodxP1tgqwwzPwTDHtOtFDYmn4KH7Ja3GocVypY8_ajmCMZUeM1VUnLp4GAN8MVLhsFceGjGGykSpGQoM0066M1h_QY6Dla3N-SclESisl6eNNxNY2mi2qXimokQvvINIxMP_uaWuQotK3Z10s2-XM=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "F1: Sprint Race GP Canada",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvWXYWtuJVzd9Kn3brF6kjtXT99FeM4QvkLrhubKSuQxSo4CSTAI1Bs_EyxnG3MJMMabPDPaEgPmtyps5V83bXhJ4ZjOm5B77o75yyhA-_vJdCaAKlEbg9NMkqvatKtWiRhauQ9VJ2xxhMGjh000dqlIcnMqxZ3xMb05qNwl4zBgaOGkePdh4tuYMwAVN0B9Czxvg1vpYPOw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk7eo1DvOR8cvZS9-A1hoOrP4vJsBjjezaBbUAxl1ugPyLxSZcbR_isvyO9HzDHhjuuthY7KDHtBQbEohu0ldgBPz9IblgSgZLK3W1G6YPWUEt6v-vHFEY2ReLKA26rBQ7KhDcn9ZxSGZtXXOtxJFn_omWfnyc1BT4Dq-3wf5O7XY8tC_LOEN6gq-0rVOIp5GY5Y2AgzUBJb9T7A4x17i4gH4hL-MREt2pXfV5VdCBdQcp2pNKcmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkrEhpwZOr5eKYUQ_Wpm9JbhFZay6hZfTLTprV2OC2dMWS0dfSNVEIsBhscHRZghcmuus7oB3OcfSqUuKqumo3_xpOuPM5y9wVftapytWtHauxHRbkW53r1mK8tgu2a_MdXoDW4RLKdQYht7duvjNfuCgrwNLZ3Kx3E6WG7ddSTPrsukIYCYPzKL1U0Grcbahi8_pFPeRtlElWqKQn-RKWsCsOkSFymHtD2dCxk23AnIC1mWENqSZN5ngFl-jM4K7rfxkS9KSJXiwR_hBNOMS6DEZqQAogyblflHC-eBnd2BEB4Zl6n-cv7KEbCcDo7SH-w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqMYIggFsop2YkOAWde03GdVUwkDXL7OQhq3r2OdpowUgkcBCnSuKv9fYgHmJ3bQzlXUvpJYSDvGXGiyHhIhCs4CeAK_V4oehJ9NrQuoe3zrpMN03ddtPhn7GBWzEy3GOX7iVkOvzCWHhcRx_con5-Mof-XLLP_xpKALFJN2WZPqevt-sVOttU8dQbKzssmWGfLvBX6afyIXkT2UVgQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFudzDttqoRbD_HKprzll1699U52cY-v0IPTSbu6FNbln_RujTjcNGMTdLvGxy9up06XxMgd2d27moQ0zaSzGSkwjP39_M6my0UuYwaE1jAPw2r1AGtROg6v9t1a1THHY9IUbzFZYpfLlTNbGwVVmILpEyg4GlWSQyL2dCxUXRNfqoJhWL3E9RRcvV-iT_TAZ6C7uVSPt62QJ8FhqZmu4qPT6iIAvq0RI_icZ9cOyXc5PWVx-35fto6P_pcRsVk",
+      "note": "Diretta TV e streaming",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJqMZ-SMZbxFWoqV4xYS43M4alJUzrA3k6chEDZktYBAx25TnyM3nW6zK69RDMO-yFQLwyrwe9Or4mt88sXQy1fwiNLOH03Yp6bgAySvAA1lmvztXgKpTSNMg-iO6qaeOJSzl2AGjZXyBo1aKWlfP6on68eJ5YetyOhT6alVVXRw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GffX3Qqn1fs31IgGg3LrqI_W3zlrTIQQkLARjNs7pTjjHWbOGrgzwGSx37xivcYmXX5FklQVAzGpeS0A2bXFiXd6TJ4cveI5Fk7mbeFW5215SkVuRPhEMVdA1ZvPHXiZF32ubh3MUPmnqzt7qiVnypKwjTuzDMNjadKZyNlCtey7ETMKIDN3sngN6Fza4i3Uv-n72XE=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio: Lazio-Pisa",
+      "evento": "Lazio – Pisa",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio",
-      "note": "38ª giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHCD6RJ8QLlfpk3ChSFyGFSln7YyDc7kQAkyaKuAkX31UFcQ4srOULGrlvLq_d_gzQPmpzwiTzgywOk-sT82aeQ_zPQP8jc2GUgLf4MGBHlF1CGUkXowDcXDsd6cgi8TgTFtLEVNNHsHL-Xx3lR7fQijTH2J5JssrMV_qLJm6-KhsbPM22D-1MGa8O68vXolRgQcb1SOeMt06IKlsziNbOjy_q-uWVhBTZxveKO4BiGg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKLryApDCy-FD8fXD1SvXuIww2v9p4W2wB--w4wPRCbAx9F6V_5Brjg2pIbQeV_MMlzdxvII1X34CdiJnxpxDIs2QlzHYyYTR7yH_pl8boNlKByuf12tCty2kuM6p801Ynhe9Bk3TqOgH-v_3Wx7wn2R-wEAPIqEeZ_c_wA-n7O9_PsbGVKPjUJp4oGAjXArUmep7JcPCm, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0FD21uhjUn3D8Y2f-IhqdOiOmKoBj3NyFevueEQCDUagPCkgvlcB7QnJfLjUijHhKZbQjgEbfdi9AmhplICrdeIv3R2408k9JwDsEs4XxxNx7cZYF7eAgTEr5Dpdx9z聯盟UHVW-MRVQb9bgvLpwAU3wp7EVvlxZdNxUYQw9_k0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIeUIWCuJ_c80nUP6CcYLzzZkh-KqybujIRPOE3rW4Qa8qrYuenDghCv9GD1sCiRuv_PbW0Tuxa46SaY9dcfqTWXZjJYMZ_CUbKVCUsly83MFF4Ln63l6BmjXI8rFR0_GWB2eUDgeC7jcpQwiTW7NCubu4ZFaHNRjXOWtDLsz2JtdWfQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCZxWxSdg_EPpRBtj1rtCsuUABTi1KBz09d1jTQi-CQIu0ijB6EwDs_tIbzWSQNxo0_gjrFX3bUTb0o1bnyy0rBmouQmECPUgNJug6QysmqtmpUDW7YOtJmED5BXlSjpf9DKBv2gCOGyjujCPCLUkm-1D8WR74Zp47BXRziUgr7N_pLTdV7We0PaEQQ==",
+      "canale": "DAZN, Sky Sport",
+      "note": "Diretta TV e streaming",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMI9zJlgrbWelANqdzq_9u9y0uTnCtffMNorA3UbcBLo0SODIizUYMQKerr79hETSYbq_AXx6TqSjAKqcGkBb44bUoTbV5h6DhhIFVbxXEnr1JNtuCglLCpN7EmHuShyldd_OCXGcoEkyNi_RzBewtZbX31jOnobHcMEnrkJrenPAOEl4nVzBRMrOKy6OtGArijMZ33tPX3czfxOs1bPFNgnaZhIzg5vhGuIZXZeeu, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJqMZ-SMZbxFWoqV4xYS43M4alJUzrA3k6chEDZktYBAx25TnyM3nW6zK69RDMO-yFQLwyrwe9Or4mt88sXQy1fwiNLOH03Yp6bgAySvAA1lmvztXgKpTSNMg-iO6qaeOJSzl2AGjZXyBo1aKWlfP6on68eJ5YetyOhT6alVVXRw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GffX3Qqn1fs31IgGg3LrqI_W3zlrTIQQkLARjNs7pTjjHWbOGrgzwGSx37xivcYmXX5FklQVAzGpeS0A2bXFiXd6TJ4cveI5Fk7mbeFW5215SkVuRPhEMVdA1ZvPHXiZF32ubh3MUPmnqzt7qiVnypKwjTuzDMNjadKZyNlCtey7ETMKIDN3sngN6Fza4i3Uv-n72XE=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "F1: Qualifiche GP Canada",
+      "evento": "F1, Qualifiche GP Canada (Diretta)",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvWXYWtuJVzd9Kn3brF6kjtXT99FeM4QvkLrhubKSuQxSo4CSTAI1Bs_EyxnG3MJMMabPDPaEgPmtyps5V83bXhJ4ZjOm5B77o75yyhA-_vJdCaAKlEbg9NMkqvatKtWiRhauQ9VJ2xxhMGjh000dqlIcnMqxZ3xMb05qNwl4zBgaOGkePdh4tuYMwAVN0B9Czxvg1vpYPOw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk7eo1DvOR8cvZS9-A1hoOrP4vJsBjjezaBbUAxl1ugPyLxSZcbR_isvyO9HzDHhjuuthY7KDHtBQbEohu0ldgBPz9IblgSgZLK3W1G6YPWUEt6v-vHFEY2ReLKA26rBQ7KhDcn9ZxSGZtXXOtxJFn_omWfnyc1BT4Dq-3wf5O7XY8tC_LOEN6gq-0rVOIp5GY5Y2AgzUBJb9T7A4x17i4gH4hL-MREt2pXfV5VdCBdQcp2pNKcmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkrEhpwZOr5eKYUQ_Wpm9JbhFZay6hZfTLTprV2OC2dMWS0dfSNVEIsBhscHRZghcmuus7oB3OcfSqUuKqumo3_xpOuPM5y9wVftapytWtHauxHRbkW53r1mK8tgu2a_MdXoDW4RLKdQYht7duvjNfuCgrwNLZ3Kx3E6WG7ddSTPrsukIYCYPzKL1U0Grcbahi8_pFPeRtlElWqKQn-RKWsCsOkSFymHtD2dCxk23AnIC1mWENqSZN5ngFl-jM4K7rfxkS9KSJXiwR_hBNOMS6DEZqQAogyblflHC-eBnd2BEB4Zl6n-cv7KEbCcDo7SH-w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqMYIggFsop2YkOAWde03GdVUwkDXL7OQhq3r2OdpowUgkcBCnSuKv9fYgHmJ3bQzlXUvpJYSDvGXGiyHhIhCs4CeAK_V4oehJ9NrQuoe3zrpMN03ddtPhn7GBWzEy3GOX7iVkOvzCWHhcRx_con5-Mof-XLLP_xpKALFJN2WZPqevt-sVOttU8dQbKzssmWGfLvBX6afyIXkT2UVgQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFudzDttqoRbD_HKprzll1699U52cY-v0IPTSbu6FNbln_RujTjcNGMTdLvGxy9up06XxMgd2d27moQ0zaSzGSkwjP39_M6my0UuYwaE1jAPw2r1AGtROg6v9t1a1THHY9IUbzFZYpfLlTNbGwVVmILpEyg4GlWSQyL2dCxUXRNfqoJhWL3E9RRcvV-iT_TAZ6C7uVSPt62QJ8FhqZmu4qPT6iIAvq0RI_icZ9cOyXc5PWVx-35fto6P_pcRsVk",
+      "canale": "Sky Sport F1, Now, TV8",
+      "note": "Diretta TV e streaming",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH08PjxLE2I-OKCUNADgxtQQo7tze3eM3LZbDG5hcmwS83yijY-9RZDeHiPtL19ttHuaAiZ0u-LDgcdXuaCdi2T7udwcnnQKwGO6bdod8RiBHwAE73n95yoz83r3Sz1rR_Cljz4AeLflnz7OPTmxvyLuawKboCLHCpzSem-x-V3dQWgL5OsQNoBY_WAaFnk_KTlEcshVFx16u87dzriQnWoUX0Ze1VbH1oN4YLLffYOf54dq7jZz7HQGY4VhHU6vjtCsWTTT3mNzDJ6LIFKrFNa7ccTcytv362tzm0LmkakKdyc5r_ID31_KmFwlAQ_iwe_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVmga2XuFer6qqu6WcQTW5XE9xOS05O_7crK2m3Ipnox--4C-lb_WBziBivmB7BoRf5AkGy3WCVyHwHejX6MV-eK3ahfzehzzGsTrhe5f_wFViFXiX0aAG9hL9sioRVSIUuCOumtW65EuDwdmwXWctB7tqwvL7YZdrPW5egyIL0cnThxw0vJ1qrTbIQimku75bilsvqCeU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcOp9qXWTOxhpdMejoxPm9SyW_IqWwR0f9LOWe-KiE02p2QIIl2QLl1xKWsldVWna33DrhE7NLdNAUkQcET1hVPkrp4KoVnp5qB4v5xDRptfoXh1zK-Lp_6U0V6JC8rMtsmItIIkpg92v067wi5XXC9r2vaHrOiDB24OVq3JG4R94Y6hsAIb84jUJQmvRh-0F-mAOiANsV7wnOncJO3bhJfvqtsVcNkfbJ-boeFsqOeRv2j58=",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Filippo Alfano vs Jackie Mackanzie",
+      "competizione": "Semifinale Trofeo Bonfiglio",
+      "canale": "SuperTennis",
+      "note": "Match con giocatore italiano",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFejf5hT8E4QiCiBKFg63nib5PShT20Kx6YLvRmyjc7eM6WSFRHWB8jKDkrbSrPnk7BvcgMLOnHeAbzzzW_aHfUKHGysdC9Gtlsi6wnio2sF4w-mnDT9YK7VPOwwRmfu6btFVHiDOguRWITBlSO1yg012dPk1cKVYDf6kkJFjZImCOZjIQi1J4Ze9A=",
+      "accuratezza_orario": "tba"
     }
   ]
 }
