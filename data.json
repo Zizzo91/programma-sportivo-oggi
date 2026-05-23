@@ -1,238 +1,49 @@
 {
-  "last_updated": "2026-05-23T10:04:49.989831+02:00",
+  "last_updated": "2026-05-23T14:56:58.702934+02:00",
   "events": [
     {
-      "orario": "13:00",
-      "evento": "Napoli - Cagliari",
-      "competizione": "Campionato Primavera (Playout)",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Filippo Alfano vs Jackie Mackanzie",
-      "competizione": "Trofeo Bonfiglio - Semifinale",
-      "canale": "SuperTennis",
-      "note": "Include un giocatore italiano. L'orario esatto non è specificato, solo che il match si gioca oggi.",
-      "fonte": "Il tennis in TV oggi 23 maggio: il giorno delle finali ATP e WTA e non solo",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Celtic – Dunfermline",
-      "competizione": "Finale Coppa di Scozia",
-      "canale": "Como TV",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "16:15",
-      "evento": "GP Canada - Qualifiche Sprint (Replica)",
+      "evento": "F1: Replica Qualifiche Sprint GP Canada",
       "competizione": "Formula 1",
       "canale": "TV8",
-      "note": "Replay delle qualifiche sprint del venerdì",
-      "fonte": "F1 oggi in tv, GP Canada 2026: orari sabato 23 maggio, streaming, programma TV8",
+      "note": "Replay della sessione di qualifiche sprint del venerdì",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvWXYWtuJVzd9Kn3brF6kjtXT99FeM4QvkLrhubKSuQxSo4CSTAI1Bs_EyxnG3MJMMabPDPaEgPmtyps5V83bXhJ4ZjOm5B77o75yyhA-_vJdCaAKlEbg9NMkqvatKtWiRhauQ9VJ2xxhMGjh000dqlIcnMqxZ3xMb05qNwl4zBgaOGkePdh4tuYMwAVN0B9Czxvg1vpYPOw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Bologna – Inter",
+      "evento": "Calcio: Bologna-Inter",
       "competizione": "Serie A",
       "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "note": "38ª giornata",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHCD6RJ8QLlfpk3ChSFyGFSln7YyDc7kQAkyaKuAkX31UFcQ4srOULGrlvLq_d_gzQPmpzwiTzgywOk-sT82aeQ_zPQP8jc2GUgLf4MGBHlF1CGUkXowDcXDsd6cgi8TgTFtLEVNNHsHL-Xx3lR7fQijTH2J5JssrMV_qLJm6-KhsbPM22D-1MGa8O68vXolRgQcb1SOeMt06IKlsziNbOjy_q-uWVhBTZxveKO4BiGg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKLryApDCy-FD8fXD1SvXuIww2v9p4W2wB--w4wPRCbAx9F6V_5Brjg2pIbQeV_MMlzdxvII1X34CdiJnxpxDIs2QlzHYyYTR7yH_pl8boNlKByuf12tCty2kuM6p801Ynhe9Bk3TqOgH-v_3Wx7wn2R-wEAPIqEeZ_c_wA-n7O9_PsbGVKPjUJp4oGAjXArUmep7JcPCm, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0FD21uhjUn3D8Y2f-IhqdOiOmKoBj3NyFevueEQCDUagPCkgvlcB7QnJfLjUijHhKZbQjgEbfdi9AmhplICrdeIv3R2408k9JwDsEs4XxxNx7cZYF7eAgTEr5Dpdx9zmmXW9AWPyE1jDWvZY3Ekd2YK96UlOm71XVx41E-MRVQb9bgvLpwAU3wp7EVvlxZdNxUYQw9_k0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIeUIWCuJ_c80nUP6CcYLzzZkh-KqybujIRPOE3rW4Qa8qrYuenDghCv9GD1sCiRuv_PbW0Tuxa46SaY9dcfqTWXZjJYMZ_CUbKVCUsly83MFF4Ln63l6BmjXI8rFR0_GWB2eUDgeC7jcpQwiTW7NCubu4ZFaHNRjXOWtDLsz2JtdWfQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwZoQqEKv6b_e1HNtiEKJDCUcYxjjDtZ8f-jW60r1dXDodxP1tgqwwzPwTDHtOtFDYmn4KH7Ja3GocVypY8_ajmCMZUeM1VUnLp4GAN8MVLhsFceGjGGykSpGQoM0066M1h_QY6Dla3N-SclESisl6eNNxNY2mi2qXimokQvvINIxMP_uaWuQotK3Z10s2-XM=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Barcellona – Lione",
-      "competizione": "Champions League femminile - Finale",
-      "canale": "Disney+",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "GP Canada - Sprint Race",
+      "evento": "F1: Sprint Race GP Canada",
       "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW, TV8",
+      "canale": "Sky Sport F1, TV8",
       "note": "Diretta",
-      "fonte": "F1 oggi in tv, GP Canada 2026: orari sabato 23 maggio, streaming, programma TV8",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Dinamo Zagabria – Lokomotiv Zagabria",
-      "competizione": "Campionato croato",
-      "canale": "Como TV",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Bayern Monaco – Stoccarda",
-      "competizione": "Coppa di Germania - Finale",
-      "canale": "Sky Sport Mix, Sky Sport 252, NOW, OneFootball",
-      "note": "",
-      "fonte": "Calciomagazine, Calcio su Sky e NOW nel weekend del 22-24 maggio: ultima giornata di Serie A, finale Coppa Italia Women, playoff Serie B e C, Premier League ultima giornata e Coppa di Germania",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "St. Louis City – Austin",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvWXYWtuJVzd9Kn3brF6kjtXT99FeM4QvkLrhubKSuQxSo4CSTAI1Bs_EyxnG3MJMMabPDPaEgPmtyps5V83bXhJ4ZjOm5B77o75yyhA-_vJdCaAKlEbg9NMkqvatKtWiRhauQ9VJ2xxhMGjh000dqlIcnMqxZ3xMb05qNwl4zBgaOGkePdh4tuYMwAVN0B9Czxvg1vpYPOw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk7eo1DvOR8cvZS9-A1hoOrP4vJsBjjezaBbUAxl1ugPyLxSZcbR_isvyO9HzDHhjuuthY7KDHtBQbEohu0ldgBPz9IblgSgZLK3W1G6YPWUEt6v-vHFEY2ReLKA26rBQ7KhDcn9ZxSGZtXXOtxJFn_omWfnyc1BT4Dq-3wf5O7XY8tC_LOEN6gq-0rVOIp5GY5Y2AgzUBJb9T7A4x17i4gH4hL-MREt2pXfV5VdCBdQcp2pNKcmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkrEhpwZOr5eKYUQ_Wpm9JbhFZay6hZfTLTprV2OC2dMWS0dfSNVEIsBhscHRZghcmuus7oB3OcfSqUuKqumo3_xpOuPM5y9wVftapytWtHauxHRbkW53r1mK8tgu2a_MdXoDW4RLKdQYht7duvjNfuCgrwNLZ3Kx3E6WG7ddSTPrsukIYCYPzKL1U0Grcbahi8_pFPeRtlElWqKQn-RKWsCsOkSFymHtD2dCxk23AnIC1mWENqSZN5ngFl-jM4K7rfxkS9KSJXiwR_hBNOMS6DEZqQAogyblflHC-eBnd2BEB4Zl6n-cv7KEbCcDo7SH-w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqMYIggFsop2YkOAWde03GdVUwkDXL7OQhq3r2OdpowUgkcBCnSuKv9fYgHmJ3bQzlXUvpJYSDvGXGiyHhIhCs4CeAK_V4oehJ9NrQuoe3zrpMN03ddtPhn7GBWzEy3GOX7iVkOvzCWHhcRx_con5-Mof-XLLP_xpKALFJN2WZPqevt-sVOttU8dQbKzssmWGfLvBX6afyIXkT2UVgQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFudzDttqoRbD_HKprzll1699U52cY-v0IPTSbu6FNbln_RujTjcNGMTdLvGxy9up06XxMgd2d27moQ0zaSzGSkwjP39_M6my0UuYwaE1jAPw2r1AGtROg6v9t1a1THHY9IUbzFZYpfLlTNbGwVVmILpEyg4GlWSQyL2dCxUXRNfqoJhWL3E9RRcvV-iT_TAZ6C7uVSPt62QJ8FhqZmu4qPT6iIAvq0RI_icZ9cOyXc5PWVx-35fto6P_pcRsVk",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Lazio – Pisa",
+      "evento": "Calcio: Lazio-Pisa",
       "competizione": "Serie A",
       "canale": "DAZN, Sky Sport Calcio",
-      "note": "",
-      "fonte": "Calcio su Sky e NOW nel weekend del 22-24 maggio: ultima giornata di Serie A, finale Coppa Italia Women, playoff Serie B e C, Premier League ultima giornata e Coppa di Germania, Guida al calcio in TV: dove vedere le partite di oggi, 23 maggio 2026",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Alavés – Rayo Vallecano",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Betis – Levante",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Celta – Siviglia",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Espanyol – Real Sociedad",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Getafe – Osasuna",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Girona – Elche",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Maiorca – Oviedo",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Real Madrid – Athletic Bilbao",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Valencia – Barcellona",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Villarreal – Atletico Madrid",
-      "competizione": "La Liga",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "note": "38ª giornata",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHCD6RJ8QLlfpk3ChSFyGFSln7YyDc7kQAkyaKuAkX31UFcQ4srOULGrlvLq_d_gzQPmpzwiTzgywOk-sT82aeQ_zPQP8jc2GUgLf4MGBHlF1CGUkXowDcXDsd6cgi8TgTFtLEVNNHsHL-Xx3lR7fQijTH2J5JssrMV_qLJm6-KhsbPM22D-1MGa8O68vXolRgQcb1SOeMt06IKlsziNbOjy_q-uWVhBTZxveKO4BiGg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKLryApDCy-FD8fXD1SvXuIww2v9p4W2wB--w4wPRCbAx9F6V_5Brjg2pIbQeV_MMlzdxvII1X34CdiJnxpxDIs2QlzHYyYTR7yH_pl8boNlKByuf12tCty2kuM6p801Ynhe9Bk3TqOgH-v_3Wx7wn2R-wEAPIqEeZ_c_wA-n7O9_PsbGVKPjUJp4oGAjXArUmep7JcPCm, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0FD21uhjUn3D8Y2f-IhqdOiOmKoBj3NyFevueEQCDUagPCkgvlcB7QnJfLjUijHhKZbQjgEbfdi9AmhplICrdeIv3R2408k9JwDsEs4XxxNx7cZYF7eAgTEr5Dpdx9z聯盟UHVW-MRVQb9bgvLpwAU3wp7EVvlxZdNxUYQw9_k0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIeUIWCuJ_c80nUP6CcYLzzZkh-KqybujIRPOE3rW4Qa8qrYuenDghCv9GD1sCiRuv_PbW0Tuxa46SaY9dcfqTWXZjJYMZ_CUbKVCUsly83MFF4Ln63l6BmjXI8rFR0_GWB2eUDgeC7jcpQwiTW7NCubu4ZFaHNRjXOWtDLsz2JtdWfQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCZxWxSdg_EPpRBtj1rtCsuUABTi1KBz09d1jTQi-CQIu0ijB6EwDs_tIbzWSQNxo0_gjrFX3bUTb0o1bnyy0rBmouQmECPUgNJug6QysmqtmpUDW7YOtJmED5BXlSjpf9DKBv2gCOGyjujCPCLUkm-1D8WR74Zp47BXRziUgr7N_pLTdV7We0PaEQQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "GP Canada - Qualifiche",
+      "evento": "F1: Qualifiche GP Canada",
       "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW, TV8",
+      "canale": "Sky Sport F1, TV8",
       "note": "Diretta",
-      "fonte": "F1 oggi in tv, GP Canada 2026: orari sabato 23 maggio, streaming, programma TV8",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Mondiale Formula 1 2026-GP Canada: Sprint (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Nella notte tra il 23 e il 24 maggio",
-      "fonte": "Programmazione Rai Sport del 23/05/2026 · Guida TV, Sky Tennis Club su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Mondiale Formula 1 2026-GP Canada: Qualifiche (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Nella notte tra il 23 e il 24 maggio",
-      "fonte": "Programmazione Rai Sport del 23/05/2026 · Guida TV, Sky Tennis Club su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00*",
-      "evento": "Minnesota United – Real Salt Lake",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "Orario stimato. La fonte indica l'evento come chiusura della 'lunga notte' di calcio.",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Mondiale Formula 1 2026-GP Canada: Sprint (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Nella notte tra il 23 e il 24 maggio",
-      "fonte": "Sky Tennis Club su Sky Sport Uno - Guida TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvWXYWtuJVzd9Kn3brF6kjtXT99FeM4QvkLrhubKSuQxSo4CSTAI1Bs_EyxnG3MJMMabPDPaEgPmtyps5V83bXhJ4ZjOm5B77o75yyhA-_vJdCaAKlEbg9NMkqvatKtWiRhauQ9VJ2xxhMGjh000dqlIcnMqxZ3xMb05qNwl4zBgaOGkePdh4tuYMwAVN0B9Czxvg1vpYPOw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk7eo1DvOR8cvZS9-A1hoOrP4vJsBjjezaBbUAxl1ugPyLxSZcbR_isvyO9HzDHhjuuthY7KDHtBQbEohu0ldgBPz9IblgSgZLK3W1G6YPWUEt6v-vHFEY2ReLKA26rBQ7KhDcn9ZxSGZtXXOtxJFn_omWfnyc1BT4Dq-3wf5O7XY8tC_LOEN6gq-0rVOIp5GY5Y2AgzUBJb9T7A4x17i4gH4hL-MREt2pXfV5VdCBdQcp2pNKcmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkrEhpwZOr5eKYUQ_Wpm9JbhFZay6hZfTLTprV2OC2dMWS0dfSNVEIsBhscHRZghcmuus7oB3OcfSqUuKqumo3_xpOuPM5y9wVftapytWtHauxHRbkW53r1mK8tgu2a_MdXoDW4RLKdQYht7duvjNfuCgrwNLZ3Kx3E6WG7ddSTPrsukIYCYPzKL1U0Grcbahi8_pFPeRtlElWqKQn-RKWsCsOkSFymHtD2dCxk23AnIC1mWENqSZN5ngFl-jM4K7rfxkS9KSJXiwR_hBNOMS6DEZqQAogyblflHC-eBnd2BEB4Zl6n-cv7KEbCcDo7SH-w==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqMYIggFsop2YkOAWde03GdVUwkDXL7OQhq3r2OdpowUgkcBCnSuKv9fYgHmJ3bQzlXUvpJYSDvGXGiyHhIhCs4CeAK_V4oehJ9NrQuoe3zrpMN03ddtPhn7GBWzEy3GOX7iVkOvzCWHhcRx_con5-Mof-XLLP_xpKALFJN2WZPqevt-sVOttU8dQbKzssmWGfLvBX6afyIXkT2UVgQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFudzDttqoRbD_HKprzll1699U52cY-v0IPTSbu6FNbln_RujTjcNGMTdLvGxy9up06XxMgd2d27moQ0zaSzGSkwjP39_M6my0UuYwaE1jAPw2r1AGtROg6v9t1a1THHY9IUbzFZYpfLlTNbGwVVmILpEyg4GlWSQyL2dCxUXRNfqoJhWL3E9RRcvV-iT_TAZ6C7uVSPt62QJ8FhqZmu4qPT6iIAvq0RI_icZ9cOyXc5PWVx-35fto6P_pcRsVk",
       "accuratezza_orario": "esatto"
     }
   ]
