@@ -1,68 +1,77 @@
 {
-  "last_updated": "2026-05-23T20:53:13.628071+02:00",
+  "last_updated": "2026-05-24T10:14:52.855205+02:00",
   "events": [
     {
-      "orario": "10:45",
-      "evento": "Kioene Padova – Conteco Check Vero Volley Monza",
-      "competizione": "Quarti di Finale Nazionali Giovanili Under 17 Maschili",
-      "canale": "YouTube Federazione Italiana Pallavolo",
-      "note": "Diretta streaming",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRxLsw_Q1oNuU1Spp4vs-0t11K4hkQIrj8e8dCyi6sTeNtLciaET_WTPfcTKpBqtjMce1xVO5MIiOk_gSpftGWwGL2yHrT_QDGW85ss7LV9eT4tUgkKyVe80qtQskScjmaI-gqBK6NYk6uk4lgC3xxaT9v539kyLSx0qmU7jasJkHTrWiy",
-      "accuratezza_orario": "esatto"
+      "orario": "11:00",
+      "evento": "Roland Garros - 1° Turno Singolare Femminile (Bronzetti vs Bouzkova)",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Eurosport (HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
+      "note": "Lucia Bronzetti in campo. Orario stimato come primo match del campo.",
+      "fonte": "OA Sport, Adnkronos, Il Fatto Quotidiano, ELLE",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:15",
-      "evento": "F1, Qualifiche Sprint GP Canada (Differita)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Differita TV in chiaro delle Qualifiche Sprint di venerdì",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH08PjxLE2I-OKCUNADgxtQQo7tze3eM3LZbDG5hcmwS83yijY-9RZDeHiPtL19ttHuaAiZ0u-LDgcdXuaCdi2T7udwcnnQKwGO6bdod8RiBHwAE73n95yoz83r3Sz1rR_Cljz4AeLflnz7OPTmxvyLuawKboCLHCpzSem-x-V3dQWgL5OsQNoBY_WAaFnk_KTlEcshVFx16u87dzriQnWoUX0Ze1VbH1oN4YLLffYOf54dq7jZz7HQGY4VhHU6vjtCsWTTT3mNzDJ6LIFKrFNa7ccTcytv362tzm0LmkakKdyc5r_ID31_KmFwlAQ_iwe_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVmga2XuFer6qqu6WcQTW5XE9xOS05O_7crK2m3Ipnox--4C-lb_WBziBivmB7BoRf5AkGy3WCVyHwHejX6MV-eK3ahfzehzzGsTrhe5f_wFViFXiX0aAG9hL9sioRVSIUuCOumtW65EuDwdmwXWctB7tqwvL7YZdrPW5egyIL0cnThxw0vJ1qrTbIQimku75bilsvqCeU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcOp9qXWTOxhpdMejoxPm9SyW_IqWwR0f9LOWe-KiE02p2QIIl2QLl1xKWsldVWna33DrhE7NLdNAUkQcET1hVPkrp4KoVnp5qB4v5xDRptfoXh1zK-Lp_6U0V6JC8rMtsmItIIkpg92v067wi5XXC9r2vaHrOiDB24OVq3JG4R94Y6hsAIb84jUJQmvRh-0F-mAOiANsV7wnOncJO3bhJfvqtsVcNkfbJ-boeFsqOeRv2j58=",
-      "accuratezza_orario": "esatto"
+      "orario": "11:00*",
+      "evento": "Roland Garros - 1° Turno Singolare Maschile (Sonego vs Herbert)",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Eurosport (HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
+      "note": "Lorenzo Sonego in campo. Orario stimato (quarto match dopo le 11:00).",
+      "fonte": "OA Sport, Adnkronos, Il Fatto Quotidiano, ELLE",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "F1, Sprint Race GP Canada (Diretta)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Now, TV8",
-      "note": "Diretta TV e streaming",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH08PjxLE2I-OKCUNADgxtQQo7tze3eM3LZbDG5hcmwS83yijY-9RZDeHiPtL19ttHuaAiZ0u-LDgcdXuaCdi2T7udwcnnQKwGO6bdod8RiBHwAE73n95yoz83r3Sz1rR_Cljz4AeLflnz7OPTmxvyLuawKboCLHCpzSem-x-V3dQWgL5OsQNoBY_WAaFnk_KTlEcshVFx16u87dzriQnWoUX0Ze1VbH1oN4YLLffYOf54dq7jZz7HQGY4VhHU6vjtCsWTTT3mNzDJ6LIFKrFNa7ccTcytv362tzm0LmkakKdyc5r_ID31_KmFwlAQ_iwe_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVmga2XuFer6qqu6WcQTW5XE9xOS05O_7crK2m3Ipnox--4C-lb_WBziBivmB7BoRf5AkGy3WCVyHwHejX6MV-eK3ahfzehzzGsTrhe5f_wFViFXiX0aAG9hL9sioRVSIUuCOumtW65EuDwdmwXWctB7tqwvL7YZdrPW5egyIL0cnThxw0vJ1qrTbIQimku75bilsvqCeU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcOp9qXWTOxhpdMejoxPm9SyW_IqWwR0f9LOWe-KiE02p2QIIl2QLl1xKWsldVWna33DrhE7NLdNAUkQcET1hVPkrp4KoVnp5qB4v5xDRptfoXh1zK-Lp_6U0V6JC8rMtsmItIIkpg92v067wi5XXC9r2vaHrOiDB24OVq3JG4R94Y6hsAIb84jUJQmvRh-0F-mAOiANsV7wnOncJO3bhJfvqtsVcNkfbJ-boeFsqOeRv2j58=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Bologna – Inter",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (Sky 214)",
-      "note": "Diretta TV e streaming",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJqMZ-SMZbxFWoqV4xYS43M4alJUzrA3k6chEDZktYBAx25TnyM3nW6zK69RDMO-yFQLwyrwe9Or4mt88sXQy1fwiNLOH03Yp6bgAySvAA1lmvztXgKpTSNMg-iO6qaeOJSzl2AGjZXyBo1aKWlfP6on68eJ5YetyOhT6alVVXRw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GffX3Qqn1fs31IgGg3LrqI_W3zlrTIQQkLARjNs7pTjjHWbOGrgzwGSx37xivcYmXX5FklQVAzGpeS0A2bXFiXd6TJ4cveI5Fk7mbeFW5215SkVuRPhEMVdA1ZvPHXiZF32ubh3MUPmnqzt7qiVnypKwjTuzDMNjadKZyNlCtey7ETMKIDN3sngN6Fza4i3Uv-n72XE=",
+      "orario": "20:00",
+      "evento": "PlayOff Serie B - Finale d'andata",
+      "competizione": "Calcio - Serie B",
+      "canale": "DAZN, Sky Sport Uno, Sky 254, TV8, Lab Channel",
+      "note": "Catanzaro-Monza menzionata in una fonte come finale d'andata.",
+      "fonte": "Guida TV, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Lazio – Pisa",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport",
-      "note": "Diretta TV e streaming",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMI9zJlgrbWelANqdzq_9u9y0uTnCtffMNorA3UbcBLo0SODIizUYMQKerr79hETSYbq_AXx6TqSjAKqcGkBb44bUoTbV5h6DhhIFVbxXEnr1JNtuCglLCpN7EmHuShyldd_OCXGcoEkyNi_RzBewtZbX31jOnobHcMEnrkJrenPAOEl4nVzBRMrOKy6OtGArijMZ33tPX3czfxOs1bPFNgnaZhIzg5vhGuIZXZeeu, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJqMZ-SMZbxFWoqV4xYS43M4alJUzrA3k6chEDZktYBAx25TnyM3nW6zK69RDMO-yFQLwyrwe9Or4mt88sXQy1fwiNLOH03Yp6bgAySvAA1lmvztXgKpTSNMg-iO6qaeOJSzl2AGjZXyBo1aKWlfP6on68eJ5YetyOhT6alVVXRw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GffX3Qqn1fs31IgGg3LrqI_W3zlrTIQQkLARjNs7pTjjHWbOGrgzwGSx37xivcYmXX5FklQVAzGpeS0A2bXFiXd6TJ4cveI5Fk7mbeFW5215SkVuRPhEMVdA1ZvPHXiZF32ubh3MUPmnqzt7qiVnypKwjTuzDMNjadKZyNlCtey7ETMKIDN3sngN6Fza4i3Uv-n72XE=",
+      "evento": "Serie A - Diretta Gol",
+      "competizione": "Calcio - Serie A",
+      "canale": "Sky Sport 251",
+      "note": "Ultima giornata del campionato.",
+      "fonte": "Digital-News.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Serie A - Torino vs Juventus",
+      "competizione": "Calcio - Serie A",
+      "canale": "Sky Sport Calcio, Sky Sport 252, Sky Sport 4K",
+      "note": "Derby della Mole, ultima giornata del campionato.",
+      "fonte": "Digital-News.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Serie A - Lecce vs Genoa",
+      "competizione": "Calcio - Serie A",
+      "canale": "Sky Sport 253",
+      "note": "Partita valida per la salvezza, ultima giornata del campionato.",
+      "fonte": "Digital-News.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "F1, Qualifiche GP Canada (Diretta)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Now, TV8",
-      "note": "Diretta TV e streaming",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH08PjxLE2I-OKCUNADgxtQQo7tze3eM3LZbDG5hcmwS83yijY-9RZDeHiPtL19ttHuaAiZ0u-LDgcdXuaCdi2T7udwcnnQKwGO6bdod8RiBHwAE73n95yoz83r3Sz1rR_Cljz4AeLflnz7OPTmxvyLuawKboCLHCpzSem-x-V3dQWgL5OsQNoBY_WAaFnk_KTlEcshVFx16u87dzriQnWoUX0Ze1VbH1oN4YLLffYOf54dq7jZz7HQGY4VhHU6vjtCsWTTT3mNzDJ6LIFKrFNa7ccTcytv362tzm0LmkakKdyc5r_ID31_KmFwlAQ_iwe_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVmga2XuFer6qqu6WcQTW5XE9xOS05O_7crK2m3Ipnox--4C-lb_WBziBivmB7BoRf5AkGy3WCVyHwHejX6MV-eK3ahfzehzzGsTrhe5f_wFViFXiX0aAG9hL9sioRVSIUuCOumtW65EuDwdmwXWctB7tqwvL7YZdrPW5egyIL0cnThxw0vJ1qrTbIQimku75bilsvqCeU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcOp9qXWTOxhpdMejoxPm9SyW_IqWwR0f9LOWe-KiE02p2QIIl2QLl1xKWsldVWna33DrhE7NLdNAUkQcET1hVPkrp4KoVnp5qB4v5xDRptfoXh1zK-Lp_6U0V6JC8rMtsmItIIkpg92v067wi5XXC9r2vaHrOiDB24OVq3JG4R94Y6hsAIb84jUJQmvRh-0F-mAOiANsV7wnOncJO3bhJfvqtsVcNkfbJ-boeFsqOeRv2j58=",
+      "evento": "Formula 1 - GP Canada: Gara",
+      "competizione": "Automobilismo - Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Go, NOW",
+      "note": "Diretta della gara dal circuito di Montreal.",
+      "fonte": "FormulaPassion, alVolante.it, OA Sport, Icon Magazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Filippo Alfano vs Jackie Mackanzie",
-      "competizione": "Semifinale Trofeo Bonfiglio",
-      "canale": "SuperTennis",
-      "note": "Match con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFejf5hT8E4QiCiBKFg63nib5PShT20Kx6YLvRmyjc7eM6WSFRHWB8jKDkrbSrPnk7BvcgMLOnHeAbzzzW_aHfUKHGysdC9Gtlsi6wnio2sF4w-mnDT9YK7VPOwwRmfu6btFVHiDOguRWITBlSO1yg012dPk1cKVYDf6kkJFjZImCOZjIQi1J4Ze9A=",
-      "accuratezza_orario": "tba"
+      "orario": "23:30",
+      "evento": "Formula 1 - GP Canada: Gara (Differita)",
+      "competizione": "Automobilismo - Formula 1",
+      "canale": "TV8",
+      "note": "Differita della gara dal circuito di Montreal.",
+      "fonte": "FormulaPassion, alVolante.it, OA Sport, Guida TV, Stasera in TV",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
