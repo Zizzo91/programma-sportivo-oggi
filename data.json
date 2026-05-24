@@ -1,76 +1,166 @@
 {
-  "last_updated": "2026-05-24T10:14:52.855205+02:00",
+  "last_updated": "2026-05-24T14:57:19.518709+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Roland Garros - 1° Turno Singolare Femminile (Bronzetti vs Bouzkova)",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport (HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Lucia Bronzetti in campo. Orario stimato come primo match del campo.",
-      "fonte": "OA Sport, Adnkronos, Il Fatto Quotidiano, ELLE",
-      "accuratezza_orario": "stimato"
+      "orario": "06:20",
+      "evento": "Soudal Open, 4° giro",
+      "competizione": "DP World Tour",
+      "canale": "Sky Sport Golf",
+      "note": "",
+      "fonte": "sportface.it",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00*",
-      "evento": "Roland Garros - 1° Turno Singolare Maschile (Sonego vs Herbert)",
+      "orario": "09:30",
+      "evento": "Finale 1°-2° posto: Allianz Diavoli Rosa vs Conteco Check Vero Volley Monza",
+      "competizione": "Finali Nazionali Giovanili Under 17 Maschili",
+      "canale": "YouTube FIPAV",
+      "note": "Diretta streaming sul canale YouTube della Federazione Italiana Pallavolo.",
+      "fonte": "federvolley.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Roland Garros: Bronzetti vs Bouzkova",
       "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport (HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Lorenzo Sonego in campo. Orario stimato (quarto match dopo le 11:00).",
-      "fonte": "OA Sport, Adnkronos, Il Fatto Quotidiano, ELLE",
-      "accuratezza_orario": "stimato"
+      "canale": "Eurosport 1 HD, Discovery+, HBO Max, DAZN, TimVision",
+      "note": "Primo turno singolare femminile.",
+      "fonte": "sportface.it, oasport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Soudal Open, 4° giro",
+      "competizione": "DP World Tour",
+      "canale": "Sky Sport Golf",
+      "note": "",
+      "fonte": "sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Parma-Sassuolo",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "libero.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Napoli-Udinese",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "libero.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Catanzaro-Monza",
+      "competizione": "Calcio - Serie B Playoff",
+      "canale": "DAZN, Sky Sport 1, TV8",
+      "note": "Finale playoff Serie A (andata).",
+      "fonte": "libero.it, onefootball.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Torino-Juventus",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, Sky Sport Calcio",
+      "note": "",
+      "fonte": "libero.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Milan-Cagliari",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "libero.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Cremonese-Como",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "libero.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Lecce-Genoa",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, Sky Sport",
+      "note": "",
+      "fonte": "libero.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Verona-Roma",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "libero.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "WTA Internazionali BNL d'Italia (replica)",
+      "competizione": "Tennis - WTA",
+      "canale": "SuperTennis",
+      "note": "Non specificato se include giocatrici italiane in questa replica.",
+      "fonte": "questaseratv.it",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "PlayOff Serie B - Finale d'andata",
-      "competizione": "Calcio - Serie B",
-      "canale": "DAZN, Sky Sport Uno, Sky 254, TV8, Lab Channel",
-      "note": "Catanzaro-Monza menzionata in una fonte come finale d'andata.",
-      "fonte": "Guida TV, OA Sport",
+      "evento": "WTA Internazionali BNL d'Italia (replica)",
+      "competizione": "Tennis - WTA",
+      "canale": "SuperTennis",
+      "note": "Non specificato se include giocatrici italiane in questa replica.",
+      "fonte": "stasera.in.tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Serie A - Diretta Gol",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport 251",
-      "note": "Ultima giornata del campionato.",
-      "fonte": "Digital-News.it",
+      "orario": "21:00",
+      "evento": "F1 GP Canada: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Go, NOW",
+      "note": "Diretta. Orario convertito da 22:00 CEST (ora italiana) a CET.",
+      "fonte": "alvolante.it, oasport.it, sportface.it, tennisfever.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Serie A - Torino vs Juventus",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 252, Sky Sport 4K",
-      "note": "Derby della Mole, ultima giornata del campionato.",
-      "fonte": "Digital-News.it",
+      "orario": "22:30",
+      "evento": "F1 GP Canada: Gara (differita)",
+      "competizione": "Formula 1",
+      "canale": "TV8, tv8.it",
+      "note": "Differita. Orario convertito da 23:30 CEST (ora italiana) a CET.",
+      "fonte": "alvolante.it, oasport.it, sportface.it, guidatv.tv8.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Serie A - Lecce vs Genoa",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport 253",
-      "note": "Partita valida per la salvezza, ultima giornata del campionato.",
-      "fonte": "Digital-News.it",
+      "orario": "23:45",
+      "evento": "MotoGP 2026-GP Catalogna: Gara (replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Arena",
+      "note": "Orario convertito da 00:45 CEST a CET.",
+      "fonte": "guidatv.tv8.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Formula 1 - GP Canada: Gara",
-      "competizione": "Automobilismo - Formula 1",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Go, NOW",
-      "note": "Diretta della gara dal circuito di Montreal.",
-      "fonte": "FormulaPassion, alVolante.it, OA Sport, Icon Magazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:30",
-      "evento": "Formula 1 - GP Canada: Gara (Differita)",
-      "competizione": "Automobilismo - Formula 1",
-      "canale": "TV8",
-      "note": "Differita della gara dal circuito di Montreal.",
-      "fonte": "FormulaPassion, alVolante.it, OA Sport, Guida TV, Stasera in TV",
+      "orario": "00:00",
+      "evento": "Tennis - ATP 500 Vienna 2025 - Jannik Sinner Vs Alexander Bublik (replica)",
+      "competizione": "Tennis - ATP",
+      "canale": "SuperTennis",
+      "note": "Match che include un giocatore italiano. Orario convertito da 01:00 CEST a CET.",
+      "fonte": "stasera.in.tv",
       "accuratezza_orario": "esatto"
     }
   ]
