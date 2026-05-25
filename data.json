@@ -1,49 +1,40 @@
 {
-  "last_updated": "2026-05-25T04:12:07.104573+02:00",
+  "last_updated": "2026-05-25T11:45:21.117249+02:00",
   "events": [
     {
-      "orario": "10:00",
-      "evento": "GP Canada (Gara) - Replica",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Quinta gara della stagione sul circuito intitolato a Gilles Villeneuve, con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.",
-      "fonte": "https://www.guida.tv/programmi-tv/film/gp-canada-gara-2026",
-      "accuratezza_orario": "esatto"
+      "orario": "11:00*",
+      "evento": "Roland Garros - 1° Turno: Jasmine Paolini (ITA) vs Dayana Yastremska (UKR)",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Eurosport (disponibile via Sky Go, NOW, DAZN, Discovery+, HBO Max, Prime Video)",
+      "note": "Primo match sul campo Simonne-Mathieu.",
+      "fonte": "LaPresse, Italiani oggi al Roland Garros 2026, OA Sport, Il Fatto Quotidiano, SuperTennis",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "11:00",
-      "evento": "Matteo Berrettini - Marton Fucsovic (1° turno)",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport (su DAZN)",
-      "note": "Inizio programma Roland Garros con italiani in campo.",
-      "fonte": "https://www.olympics.com/it/news/roland-garros-2026-italiani-campo-programma-25-maggio; https://www.dazn.com/it-IT/news/tennis/roland-garros-2026-programmazione-dazn-news/16ytrb687f6511a3n3z4w294c",
-      "accuratezza_orario": "esatto"
+      "orario": "11:00*",
+      "evento": "Roland Garros - 1° Turno: Matteo Berrettini (ITA) vs Marton Fucsovics (HUN)",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Eurosport (disponibile via Sky Go, NOW, DAZN, Discovery+, HBO Max, Prime Video)",
+      "note": "Primo match sul campo 13.",
+      "fonte": "LaPresse, Italiani oggi al Roland Garros 2026, OA Sport, Il Fatto Quotidiano, SuperTennis",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "16:30*",
-      "evento": "Flavio Cobolli - Andrea Pellegrino (1° turno)",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport (su DAZN)",
-      "note": "Match non prima delle ore 16:30.",
-      "fonte": "https://www.olympics.com/it/news/roland-garros-2026-italiani-campo-programma-25-maggio; https://www.dazn.com/it-IT/news/tennis/roland-garros-2026-programmazione-dazn-news/16ytrb687f6511a3n3z4w294c",
+      "evento": "Roland Garros - 1° Turno: Flavio Cobolli (ITA) vs Andrea Pellegrino (ITA)",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Eurosport (disponibile via Sky Go, NOW, DAZN, Discovery+, HBO Max, Prime Video)",
+      "note": "Derby italiano. Non prima delle 16:30, quarto match sul Court 4.",
+      "fonte": "LaPresse, Italiani oggi al Roland Garros 2026, OA Sport, Il Fatto Quotidiano, SuperTennis",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:30",
-      "evento": "Paderborn - Wolfsburg",
-      "competizione": "Bundesliga 2025/2026 - Play-Off Ritorno",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://www.guida.tv/programmi-tv/sky-sport-uno/25-05-2026",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Parma-Cesena",
-      "competizione": "Campionato Primavera - Semifinale",
+      "evento": "Campionato Primavera 1 - Semifinale 2",
+      "competizione": "Calcio - Campionato Primavera",
       "canale": "Sportitalia",
-      "note": "Seconda Semifinale del Campionato Primavera.",
-      "fonte": "https://www.sportitalia.com/news/notizie-calcio/calcio-in-tv-oggi-25-maggio-2026-campionato-primavera-in-primo-piano-64746; https://www.tvdream.it/guida-tv/sportitalia",
+      "note": "Sfida tra Parma e la vincente di Cesena-Inter (la prima semifinale non è indicata, ma si intende la seconda semifinale).",
+      "fonte": "Stasera in TV Sportitalia, Libero Magazine",
       "accuratezza_orario": "esatto"
     }
   ]
