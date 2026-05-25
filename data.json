@@ -1,85 +1,49 @@
 {
-  "last_updated": "2026-05-24T20:59:12.494815+02:00",
+  "last_updated": "2026-05-25T04:12:07.104573+02:00",
   "events": [
     {
-      "orario": "15:00",
-      "evento": "Parma-Sassuolo",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "38ª Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdme-ZdR1KPJ0bKGkZpF48Qby3gBLt5egY_-pZ2qNfnde2dr6cIF32dJytJSkADLED6SUtnSfpd31P5eTbXTCptbEDSNnhV1A2femUj3lYv1o7rhLTfmRtZ7PrUhDEZs7vV_bNilQliLPc1n8ejHZO_qXJr7uSBOKyKisJatRCYU0z9nhO0iNBYJ6LROtoGQXXgfVVDIo6uU9AwVAwt6ns-7DRbqTc0SY6u9tsOgTO3etIaDHdoAOG6Jo4r2ilfWVHXg3Qz7Qk979vWJ1JpPWaS0pxg9tBMXfRKoH2A4z__JrDcsv1z9uHF006A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Napoli-Udinese",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "38ª Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdme-ZdR1KPJ0bKGkZpF48Qby3gBLt5egY_-pZ2qNfnde2dr6cIF32dJytJSkADLED6SUtnSfpd31P5eTbXTCptbEDSNnhV1A2femUj3lYv1o7rhLTfmRtZ7PrUhDEZs7vV_bNilQliLPc1n8ejHZO_qXJr7uSBOKyKisJatRCYU0z9nhO0iNBYJ6LROtoGQXXgfVVDIo6uU9AwVAwt6ns-7DRbqTc0SY6u9tsOgTO3etIaDHdoAOG6Jo4r2ilfWVHXg3Qz7Qk979vWJ1JpPWaS0pxg9tBMXfRKoH2A4z__JrDcsv1z9uHF006A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Cremonese-Como",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "38ª Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdme-ZdR1KPJ0bKGkZpF48Qby3gBLt5egY_-pZ2qNfnde2dr6cIF32dJytJSkADLED6SUtnSfpd31P5eTbXTCptbEDSNnhV1A2femUj3lYv1o7rhLTfmRtZ7PrUhDEZs7vV_bNilQliLPc1n8ejHZO_qXJr7uSBOKyKisJatRCYU0z9nhO0iNBYJ6LROtoGQXXgfVVDIo6uU9AwVAwt6ns-7DRbqTc0SY6u9tsOgTO3etIaDHdoAOG6Jo4r2ilfWVHXg3Qz7Qk979vWJ1JpPWaS0pxg9tBMXfRKoH2A4z__JrDcsv1z9uHF006A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Lecce-Genoa",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Calcio",
-      "note": "38ª Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdme-ZdR1KPJ0bKGkZpF48Qby3gBLt5egY_-pZ2qNfnde2dr6cIF32dJytJSkADLED6SUtnSfpd31P5eTbXTCptbEDSNnhV1A2femUj3lYv1o7rhLTfmRtZ7PrUhDEZs7vV_bNilQliLPc1n8ejHZO_qXJr7uSBOKyKisJatRCYU0z9nhO0iNBYJ6LROtoGQXXgfVVDIo6uU9AwVAwt6ns-7DRbqTc0SY6u9tsOgTO3etIaDHdoAOG6Jo4r2ilfWVHXg3Qz7Qk979vWJ1JpPWaS0pxg9tBMXfRKoH2A4z__JrDcsv1z9uHF006A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Milan-Cagliari",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "38ª Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdme-ZdR1KPJ0bKGkZpF48Qby3gBLt5egY_-pZ2qNfnde2dr6cIF32dJytJSkADLED6SUtnSfpd31P5eTbXTCptbEDSNnhV1A2femUj3lYv1o7rhLTfmRtZ7PrUhDEZs7vV_bNilQliLPc1n8ejHZO_qXJr7uSBOKyKisJatRCYU0z9nhO0iNBYJ6LROtoGQXXgfVVDIo6uU9AwVAwt6ns-7DRbqTc0SY6u9tsOgTO3etIaDHdoAOG6Jo4r2ilfWVHXg3Qz7Qk979vWJ1JpPWaS0pxg9tBMXfRKoH2A4z__JrDcsv1z9uHF006A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Torino-Juventus",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Uno",
-      "note": "38ª Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdme-ZdR1KPJ0bKGkZpF48Qby3gBLt5egY_-pZ2qNfnde2dr6cIF32dJytJSkADLED6SUtnSfpd31P5eTbXTCptbEDSNnhV1A2femUj3lYv1o7rhLTfmRtZ7PrUhDEZs7vV_bNilQliLPc1n8ejHZO_qXJr7uSBOKyKisJatRCYU0z9nhO0iNBYJ6LROtoGQXXgfVVDIo6uU9AwVAwt6ns-7DRbqTc0SY6u9tsOgTO3etIaDHdoAOG6Jo4r2ilfWVHXg3Qz7Qk979vWJ1JpPWaS0pxg9tBMXfRKoH2A4z__JrDcsv1z9uHF006A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Verona-Roma",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "38ª Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdme-ZdR1KPJ0bKGkZpF48Qby3gBLt5egY_-pZ2qNfnde2dr6cIF32dJytJSkADLED6SUtnSfpd31P5eTbXTCptbEDSNnhV1A2femUj3lYv1o7rhLTfmRtZ7PrUhDEZs7vV_bNilQliLPc1n8ejHZO_qXJr7uSBOKyKisJatRCYU0z9nhO0iNBYJ6LROtoGQXXgfVVDIo6uU9AwVAwt6ns-7DRbqTc0SY6u9tsOgTO3etIaDHdoAOG6Jo4r2ilfWVHXg3Qz7Qk979vWJ1JpPWaS0pxg9tBMXfRKoH2A4z__JrDcsv1z9uHF006A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "GP Canada - Gara",
+      "orario": "10:00",
+      "evento": "GP Canada (Gara) - Replica",
       "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNkUsGZoIaFdtpw3zKvvtlzommRcgPlpKrSwOp9kAPjMOU2GKxy5Pr2pXipiVdRht_-_HoPq_Vb7fegJl0xo0Hat5iL72BHcezmmhMIU1V68qARhksS3XtvYrUKI-WlN9JUA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXaIsZgbp4400Im6Lh0_iKtL8Utg2Nyw719Wl9xDWcXr1PlJ4eip9i0TyyMM-5G3Bq9OCjnr4_FNiWrN6sw1DG6uvig30rS_jYSYuunULM5jI0uN_2ay7xLMrsRKkDHmuA36zAP4YjyHrLSzgwnzvh1_0Bj4ndw1Qm99YuwR7XXD_9tfiy, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBnAnrZeaCZ_KRW8z-tISKsvE8V65d4zB0Sn2IUwc7vxxGt6hRf0rQ8xrmMl9r-I2QYYO-Xl6VRSkU99Nl5ZAHlt5yNx4cYgGhwgLcBF9eEzP8eLgQRB7-EVQvocSQJRRmNbem-ysaNQKgY9ZnX6BG34vLrIwXQZ0PSZ_2UrcdS7T-sXFYcUANE9UuIZf6In4PNrHLRHUFEkWcg3lDmAFYEZOT9Ov1BZGmNisTTjXaMnGmwR6biwuS5vVYO92u",
+      "canale": "Sky Sport F1",
+      "note": "Quinta gara della stagione sul circuito intitolato a Gilles Villeneuve, con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.",
+      "fonte": "https://www.guida.tv/programmi-tv/film/gp-canada-gara-2026",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:30",
-      "evento": "GP Canada - Gara (Differita)",
-      "competizione": "Formula 1",
-      "canale": "TV8 HD, tv8.it",
+      "orario": "11:00",
+      "evento": "Matteo Berrettini - Marton Fucsovic (1° turno)",
+      "competizione": "Roland Garros",
+      "canale": "Eurosport (su DAZN)",
+      "note": "Inizio programma Roland Garros con italiani in campo.",
+      "fonte": "https://www.olympics.com/it/news/roland-garros-2026-italiani-campo-programma-25-maggio; https://www.dazn.com/it-IT/news/tennis/roland-garros-2026-programmazione-dazn-news/16ytrb687f6511a3n3z4w294c",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30*",
+      "evento": "Flavio Cobolli - Andrea Pellegrino (1° turno)",
+      "competizione": "Roland Garros",
+      "canale": "Eurosport (su DAZN)",
+      "note": "Match non prima delle ore 16:30.",
+      "fonte": "https://www.olympics.com/it/news/roland-garros-2026-italiani-campo-programma-25-maggio; https://www.dazn.com/it-IT/news/tennis/roland-garros-2026-programmazione-dazn-news/16ytrb687f6511a3n3z4w294c",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Paderborn - Wolfsburg",
+      "competizione": "Bundesliga 2025/2026 - Play-Off Ritorno",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBnAnrZeaCZ_KRW8z-tISKsvE8V65d4zB0Sn2IUwc7vxxGt6hRf0rQ8xrmMl9r-I2QYYO-Xl6VRSkU99Nl5ZAHlt5yNx4cYgGhwgLcBF9eEzP8eLgQRB7-EVQvocSQJRRmNbem-ysaNQKgY9ZnX6BG34vLrIwXQZ0PSZ_2UrcdS7T-sXFYcUANE9UuIZf6In4PNrHLRHUFEkWcg3lDmAFYEZOT9Ov1BZGmNisTTjXaMnGmwR6biwuS5vVYO92u",
+      "fonte": "https://www.guida.tv/programmi-tv/sky-sport-uno/25-05-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Parma-Cesena",
+      "competizione": "Campionato Primavera - Semifinale",
+      "canale": "Sportitalia",
+      "note": "Seconda Semifinale del Campionato Primavera.",
+      "fonte": "https://www.sportitalia.com/news/notizie-calcio/calcio-in-tv-oggi-25-maggio-2026-campionato-primavera-in-primo-piano-64746; https://www.tvdream.it/guida-tv/sportitalia",
       "accuratezza_orario": "esatto"
     }
   ]
