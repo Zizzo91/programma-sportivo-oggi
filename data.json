@@ -1,85 +1,40 @@
 {
-  "last_updated": "2026-05-25T16:31:01.982593+02:00",
+  "last_updated": "2026-05-25T21:13:34.020789+02:00",
   "events": [
-    {
-      "orario": "01:00",
-      "evento": "Inter Miami vs Philadelphia Union",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 25 maggio 2026: Campionato primavera in primo piano - Calciomagazine.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Los Angeles FC vs Seattle Sounders",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 25 maggio 2026: Campionato primavera in primo piano - Calciomagazine.it",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "11:00",
       "evento": "Jasmine Paolini vs Dayana Yastremska",
-      "competizione": "Roland Garros (1° Turno)",
-      "canale": "Eurosport (streaming su HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Match del tabellone principale femminile. Non è prevista diretta tv in chiaro.",
-      "fonte": "Roland Garros 2026 oggi: orari 25 maggio, tv, streaming, italiani in campo - OA Sport, Roland Garros 2026, gli italiani in campo: il programma del 25 maggio · Tennis ATP e WTA - Olympics.com, Roland Garros: oggi in campo Paolini, Berrettini e il derby azzurro - Il Fatto Quotidiano, Sport in tv oggi (lunedì 25 maggio): guida, orari e programmi - Lo Slalom, Sport in tv oggi (lunedì 25 maggio): orari e programma. Dove vedere gli eventi in streaming - OA Sport, Roland Garros 2026 Atp e Wta, programma oggi 25 maggio, a che ora giocheranno Berrettini, Cobolli, Pellegrino e Paolini, orario tv e previsioni meteo, Roland Garros 2026: programma, orari e ordine di gioco di lunedì 25 maggio con Berrettini, Cobolli e Paolini",
+      "competizione": "Tennis - Roland Garros (1° Turno)",
+      "canale": "Eurosport (streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Match sul Court Simonne Mathieu",
+      "fonte": "LaPresse, OA Sport, Lo Slalom, TennisTalker Magazine, Sport in tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:00",
       "evento": "Matteo Berrettini vs Marton Fucsovics",
-      "competizione": "Roland Garros (1° Turno)",
-      "canale": "Eurosport (streaming su HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Match del tabellone principale maschile. Non è prevista diretta tv in chiaro.",
-      "fonte": "Roland Garros 2026 oggi: orari 25 maggio, tv, streaming, italiani in campo - OA Sport, Roland Garros 2026, gli italiani in campo: il programma del 25 maggio · Tennis ATP e WTA - Olympics.com, Roland Garros: oggi in campo Paolini, Berrettini e il derby azzurro - Il Fatto Quotidiano, Sport in tv oggi (lunedì 25 maggio): guida, orari e programmi - Lo Slalom, Sport in tv oggi (lunedì 25 maggio): orari e programma. Dove vedere gli eventi in streaming - OA Sport, Roland Garros 2026 Atp e Wta, programma oggi 25 maggio, a che ora giocheranno Berrettini, Cobolli, Pellegrino e Paolini, orario tv e previsioni meteo, Roland Garros 2026: programma, orari e ordine di gioco di lunedì 25 maggio con Berrettini, Cobolli e Paolini",
+      "competizione": "Tennis - Roland Garros (1° Turno)",
+      "canale": "Eurosport (streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Match sul Court 13",
+      "fonte": "LaPresse, OA Sport, Lo Slalom, TennisTalker Magazine, Sport in tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Croazia vs Belgio",
-      "competizione": "Europei U17",
-      "canale": "UEFA TV",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 25 maggio 2026: Campionato primavera in primo piano - Calciomagazine.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:30*",
+      "orario": "18:00*",
       "evento": "Flavio Cobolli vs Andrea Pellegrino",
-      "competizione": "Roland Garros (1° Turno)",
-      "canale": "Eurosport (streaming su HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Derby italiano del tabellone principale maschile. Orario stimato (non prima delle 16:30 CET). Non è prevista diretta tv in chiaro.",
-      "fonte": "Roland Garros 2026, gli italiani in campo: il programma del 25 maggio · Tennis ATP e WTA - Olympics.com, Roland Garros: oggi in campo Paolini, Berrettini e il derby azzurro - Il Fatto Quotidiano, Sport in tv oggi (lunedì 25 maggio): guida, orari e programmi - Lo Slalom, Sport in tv oggi (lunedì 25 maggio): orari e programma. Dove vedere gli eventi in streaming - OA Sport, Roland Garros 2026 Atp e Wta, programma oggi 25 maggio, a che ora giocheranno Berrettini, Cobolli, Pellegrino e Paolini, orario tv e previsioni meteo, Roland Garros 2026: programma, orari e ordine di gioco di lunedì 25 maggio con Berrettini, Cobolli e Paolini",
+      "competizione": "Tennis - Roland Garros (1° Turno)",
+      "canale": "Eurosport (streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Derby italiano, 4° match sul Court 4. Orario stimato 'non prima delle 18:00'.",
+      "fonte": "LaPresse, OA Sport, Lo Slalom, TennisTalker Magazine, Sport in tv oggi, Adnkronos",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "F1 - Replay Sprint Race del Gran Premio del Canada",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Repliche della Sprint Race disputata precedentemente nel weekend del GP del Canada.",
-      "fonte": "Sport in tv oggi (lunedì 25 maggio): guida, orari e programmi - Lo Slalom",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Europei U17 (Partita da definire)",
-      "competizione": "Europei U17",
-      "canale": "UEFA TV",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 25 maggio 2026: Campionato primavera in primo piano - Calciomagazine.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Campionato Primavera - Semifinale: Parma vs vincente Cesena-Inter",
-      "competizione": "Calcio Giovanile",
-      "canale": "Sportitalia",
-      "note": "In diretta dal Viola Park di Bagno a Ripoli (FI) la seconda Semifinale del Campionato Primavera.",
-      "fonte": "Oggi in TV - Programmi SportItalia lunedi 25 maggio 2026 - Stasera in TV",
+      "orario": "20:00",
+      "evento": "Brescia vs Trieste (Gara 5)",
+      "competizione": "Basket - Playoff Serie A",
+      "canale": "Sky Sport Basket, NOW",
+      "note": "Partita decisiva per l'accesso alle semifinali scudetto",
+      "fonte": "Rose Fund, Sport in tv oggi",
       "accuratezza_orario": "esatto"
     }
   ]
