@@ -1,40 +1,58 @@
 {
-  "last_updated": "2026-05-25T21:13:34.020789+02:00",
+  "last_updated": "2026-05-26T11:33:20.443779+02:00",
   "events": [
     {
       "orario": "11:00",
-      "evento": "Jasmine Paolini vs Dayana Yastremska",
-      "competizione": "Tennis - Roland Garros (1° Turno)",
-      "canale": "Eurosport (streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Match sul Court Simonne Mathieu",
-      "fonte": "LaPresse, OA Sport, Lo Slalom, TennisTalker Magazine, Sport in tv oggi",
+      "evento": "Tennis: Matteo Arnaldi vs Tallon Griekspoor",
+      "competizione": "Roland Garros 2026 - Primo turno",
+      "canale": "Eurosport 2 HD (disponibile su Sky, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Match 1 sul Court 7",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqQrmMa7ZYS_xfhRuYXtJ27D47MELFjXRiX4uTns9-EAp_pQUoa6yIiJRctvUUU04-DBhaoV83wrb7f3jEwTDZFR5HYjSdCwMIM1sKYGaNtmv0mZKDAOr4UhyQaIAw8C_bl7VrL6Ac4fg5WyOyVSXo5xxlNehnk8nBXIWAod-BaP22_Wh6tV9hAXGXPWYF5HvUDKr9ZT8nyu1VvnsVuKvuSvQiHrHUpXwXrYMct4YrLrT0FHW3Ze7kOB8kDV8",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00",
-      "evento": "Matteo Berrettini vs Marton Fucsovics",
-      "competizione": "Tennis - Roland Garros (1° Turno)",
-      "canale": "Eurosport (streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Match sul Court 13",
-      "fonte": "LaPresse, OA Sport, Lo Slalom, TennisTalker Magazine, Sport in tv oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00*",
-      "evento": "Flavio Cobolli vs Andrea Pellegrino",
-      "competizione": "Tennis - Roland Garros (1° Turno)",
-      "canale": "Eurosport (streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Derby italiano, 4° match sul Court 4. Orario stimato 'non prima delle 18:00'.",
-      "fonte": "LaPresse, OA Sport, Lo Slalom, TennisTalker Magazine, Sport in tv oggi, Adnkronos",
+      "orario": "11:00*",
+      "evento": "Tennis: Elisabetta Cocciaretto vs Alina Korneeva",
+      "competizione": "Roland Garros 2026 - Primo turno",
+      "canale": "Eurosport 2 HD (disponibile su Sky, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Terzo match dopo l'inizio del programma alle 11:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqQrmMa7ZYS_xfhRuYXtJ27D47MELFjXRiX4uTns9-EAp_pQUoa6yIiJRctvUUU04-DBhaoV83wrb7f3jEwTDZFR5HYjSdCwMIM1sKYGaNtmv0mZKDAOr4UhyQaIAw8C_bl7VrL6Ac4fg5WyOyVSXo5xxlNehnk8nBXIWAod-BaP22_Wh6tV9hAXGXPWYF5HvUDKr9ZT9nyu1VvnsVuKvuSvQiHrHUpXwXrYMct4YrLrT0FHW3Ze7kOB8kDV8",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00",
-      "evento": "Brescia vs Trieste (Gara 5)",
-      "competizione": "Basket - Playoff Serie A",
-      "canale": "Sky Sport Basket, NOW",
-      "note": "Partita decisiva per l'accesso alle semifinali scudetto",
-      "fonte": "Rose Fund, Sport in tv oggi",
+      "orario": "11:00*",
+      "evento": "Tennis: Luciano Darderi vs Sebastian Ofner",
+      "competizione": "Roland Garros 2026 - Primo turno",
+      "canale": "Eurosport 2 HD (disponibile su Sky, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Quarto match dopo l'inizio del programma alle 11:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqQrmMa7ZYS_xfhRuYXtJ27D47MELFjXRiX4uTns9-EAp_pQUoa6yIiJRctvUUU04-DBhaoV83wrb7f3jEwTDZFR5HYjSdCwMIM1sKYGaNtmv0mZKDAOr4UhyQaIAw8C_bl7VrL6Ac4fg5WyOyVSXo5xxlNehnk8nBXIWAod-BaP22_Wh6tV9hAXGXPWYF5HvUDKr9ZT9nyu1VvnsVuKvuSvQiHrHUpXwXrYMct4YrLrT0FHW3Ze7kOB8kDV8",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Calcio: Italia-Francia",
+      "competizione": "Campionati Europei U17 Estonia 2026",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYVjZIXh5vJbiagfEUL36l1XUVJKLUDfxCaQxiOz35UKmhF_9qhUHRTmXd6KZQrqQZnOptHgwoe1wJKUi9npZlC8T02KruLdZIpH68D4gifVPOIQf7Nn8rgnUg_inukqT_UoW34hYepDbDHqJbzN56jcjZyB7lDOjtUHJfnb65MCENTpj6g6g0s9C8LoR4vd5l9lxlq4jIXzNqV62ucjcibx1CCdaKpTiiQrQyA0fkwwlUVuCXhP-0hdEH75O9hfurtc6sQs5WRMdrBcjIDI4X_ynnHuAkqWNeIslBuUk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:15*",
+      "evento": "Tennis: Jannik Sinner vs Clement Tabur",
+      "competizione": "Roland Garros 2026 - Primo turno",
+      "canale": "Eurosport 1 HD (disponibile su Sky, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Non prima delle 20:15 sul Court Philippe-Chatrier",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqQrmMa7ZYS_xfhRuYXtJ27D47MELFjXRiX4uTns9-EAp_pQUoa6yIiJRctvUUU04-DBhaoV83wrb7f3jEwTDZFR5HYjSdCwMIM1sKYGaNtmv0mZKDAOr4UhyQaIAw8C_bl7VrL6Ac4fg5WyOyVSXo5xxlNehnk8nBXIWAod-BaP22_Wh6tV9hAXGXPWYF5HvUDKr9ZT9nyu1VvnsVuKvuSvQiHrHUpXwXrYMct4YrLrT0FHW3Ze7kOB8kDV8",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Calcio: Italia-Francia",
+      "competizione": "Campionati Europei U17 Estonia 2026",
+      "canale": "Rai Sport",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzgoCktXnjkt5KGvg68I-AitGHtREEgX7fdV2B9-QQKjV3sGgtnvF6u_O3OB-96xJJ-TLHOpvi_fT8P-FfFKkU3xU-0zplBde_ZgaExvSQ3bC4AIXFpwGG5T6n2StnCyaXSnLeXUFbzRMksu7HSpVnZ1VSvCJshZ93FD38k7Ytkp7ZvbBm3PhC9g==",
       "accuratezza_orario": "esatto"
     }
   ]
