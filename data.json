@@ -1,49 +1,22 @@
 {
-  "last_updated": "2026-05-27T16:52:53.218105+02:00",
+  "last_updated": "2026-05-27T21:57:26.956509+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Roland Garros - Secondo Turno (Singolare Maschile)",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport",
-      "note": "Federico Cinà (ITA) vs Jesper De Jong (NED) - Campo 13. Disponibile anche in streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe0k1VawtNVUQ29_eCikLuZAXo4T7Gibb9cDbgpQ0PtRGIkZ9QBnWUrlP82NDM9i6EAvUVIKHbIt3eKSpr69RRLujlYTAdrrfEW5FGRTENvVE8ugG0xHqmhPjIYHRMi14tfMywAo-M66I68hiZh4X2UtpLKbuodQdEbW5fyPVeYSsJQNOEUNhad4vSys0FYmhvDYHSNzvxXuxST1EejsyRP-dcbzlBdR61p7_o5kGEuzcYvHO_LK9Nv18H6I0Nb-2sknM4yrw3pqjMObQ3dL-AZw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpmv-rOZgBkOrH1-DFtVeC-t3B1H1Utgm4wBan3szvSlKZL9SuGUNiBXkcUDbE-M004yauWIBY-VxkbGhCJ5d6WoiWUJQfTHdRV8Fb8o-VjwBMzPtHklohRygx6omO_PxWj0SObeId9Dha8mC_V__o13I-fi0QHWJBKlFWCPCZ6gcicEreI_7XmRO6mtdxcHLrR6ZvYT6_RK-emjo22bNrAMRi5zPZdXgtkdKgZ2yXGQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW2QDlL07eAzRMrGQrR6pYPo1OD3VRIbSjXLGcLZhSiA3t3j7OmkzAPys187y-mY_lfWEPUbP9kWeM-xIgqLwnMZruw0caI-Zmt0jAdWrbTolbnRa1LxDSTRxmdNmyYHETnpopY9EsIZKij_b81Ch03dAw_0o7VhugS5WHaIZ9Ku6tmtf5SAMy_ftsUV-0trmzg0hgKaBhFcK1T3DTK0itNFs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2X8oYMfOC6pkcimbCdWAo2fBr-kHfJ2tvUCnSYgaHeoLqCZFDoiyCWt34vhD1CjfoQJ1nEUzAVid-hFmeamYUsJpfo3__FnlaSgoAAuA8o0kvCgCcSplkQ7QjhW2peVbLtOgD13rIiIxOW198YMZwV8rEz-_eyz2Gzdd13O0-qHxv2TL2SYS98c96yExGTlGSvXdAj2yyrp3nQ9c7pk21xVAPW29Y7jeDmwI1lE-3jRjrf64QFECDYicdsalKh1Sgvzt8dw2K25rKe3PgtNb",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30*",
-      "evento": "Roland Garros - Primo Turno (Doppio Femminile)",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport",
-      "note": "Sara Errani (ITA) / Lilli Tagger (ITA) vs Sofia Kenin (USA) / Ashlyn Krueger (USA). Orario stimato (non prima delle 12:30). Disponibile anche in streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW2QDlL07eAzRMrGQrR6pYPo1OD3VRIbSjXLGcLZhSiA3t3j7OmkzAPys187y-mY_lfWEPUbP9kWeM-xIgqLwnMZruw0caI-Zmt0jAdWrbTolbnRa1LxDSTRxmdNmyYHETnpopY9EsIZKij_b81Ch03dAw_0o7VhugS5WHaIZ9Ku6tmtf5SAMy_ftsUV-0trmzg0hgKaBhFcK1T3DTK0itNFs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2X8oYMfOC6pkcimbCdWAo2fBr-kHfJ2tvUCnSYgaHeoLqCZFDoiyCWt34vhD1CjfoQJ1nEUzAVid-hFmeamYUsJpfo3__FnlaSgoAAuA8o0kvCgCcSplkQ7QjhW2peVbLtOgD13rIiIxOW198YMZwV8rEz-_eyz2Gzdd13O0-qHxv2TL2SYS98c96yExGTlGSvXdAj2yyrp3nQ9c7pk21xVAPW29Y7jeDmwI1lE-3jRjrf64QFECDYicdsalKh1Sgvzt8dw2K25rKe3PgtNb",
+      "orario": "15:30",
+      "evento": "Jasmine Paolini vs Solana Sierra",
+      "competizione": "Tennis - Roland Garros, Secondo Turno",
+      "canale": "Eurosport 2, Discovery Plus, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Terzo match sul Court Suzanne-Lenglen a partire dalle 11:00 CET.",
+      "fonte": "OA Sport, Sport in tv oggi (mercoledì 27 maggio): orari e programma. Dove vedere gli eventi in streaming, Lo Slalom, DAZN News IT",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "12:30*",
-      "evento": "Roland Garros - Primo Turno (Doppio Femminile)",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport",
-      "note": "Elisabetta Cocciaretto (ITA) / Jessica Bouzas Maneiro (ESP) vs Hao-Ching Chan (TPE) / Aoyama Shuko (JPN). Orario stimato (secondo match su un campo iniziato alle 11:00). Disponibile anche in streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW2QDlL07eAzRMrGQrR6pYPo1OD3VRIbSjXLGcLZhSiA3t3j7OmkzAPys187y-mY_lfWEPUbP9kWeM-xIgqLwnMZruw0caI-Zmt0jAdWrbTolbnRa1LxDSTRxmdNmyYHETnpopY9EsIZKij_b81Ch03dAw_0o7VhugS5WHaIZ9Ku6tmtf5SAMy_ftsUV-0trmzg0hgKaBhFcK1T3DTK0itNFs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2X8oYMfOC6pkcimbCdWAo2fBr-kHfJ2tvUCnSYgaHeoLqCZFDoiyCWt34vhD1CjfoQJ1nEUzAVid-hFmeamYUsJpfo3__FnlaSgoAAuA8o0kvCgCcSplkQ7QjhW2peVbLtOgD13rIiIxOW198YMZwV8rEz-_eyz2Gzdd13O0-qHxv2TL2SYS98c96yExGTlGSvXdAj2yyrp3nQ9c7pk21xVAPW29Y7jeDmwI1lE-3jRjrf64QFECDYicdsalKh1Sgvzt8dw2K25rKe3PgtNb",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "Roland Garros - Secondo Turno (Singolare Femminile)",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport",
-      "note": "Jasmine Paolini (ITA) vs Solana Sierra (ARG) - Campo Suzanne-Lenglen, terzo match. Orario stimato (non prima delle 15:00). Disponibile anche in streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe0k1VawtNVUQ29_eCikLuZAXo4T7Gibb9cDbgpQ0PtRGIkZ9QBnUUrlP82NDM9i6EAvUVIKHbIt3eKSpr69RRLujlYTAdrrfEW5FGRTENvVE8ugG0xHqmhPjIYHRMi14tfMywAo-M66I68hiZh4X2UtpLKbuodQdEbW5fyPVeYSsJQNOEUNhad4vSys0FYmhvDYHSNzvxXuxST1EejsyRP-dcbzlBdR61p7_o5kGEuzcYvHO_LK9Nv18H6I0Nb-2sknM4yrw3pqjMObQ3dL-AZw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpmv-rOZgBkOrH1-DFtVeC-t3B1H1Utgm4wBan3szvSlKZL9SuGUNiBXkcUDbE-M004yauWIBY-VxkbGhCJ5d6WoiWUJQfTHdRV0Fb8o-VjwBMzPtHklohRygx6omO_PxWj0SObeId9Dha8mC_V__o13I-fi0QHWJBKlFWCPCZ6gcicEreI_7XmRO6mtdxcHLrR6ZvYT6_RK-emjo22bNrAMRi5zPZdXgtkdKgZ2yXGQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW2QDlL07eAzRMrGQrR6pYPo1OD3VRIbSjXLGcLZhSiA3t3j7OmkzAPys187y-mY_lfWEPUbP9kWeM-xIgqLwnMZruw0caI-Zmt0jAdWrbTolbnRa1LxDSTRxmdNmyYHETnpopY9EsIZKij_b81Ch03dAw_0o7VhugS5WHaIZ9Ku6tmtf5SAMy_ftsUV-0trmzg0hgKaBhFcK1T3DTK0itNFs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2X8oYMfOC6pkcimbCdWAo2fBr-kHfJ2tvUCnSYgaHeoLqCZFDoiyCWt34vhD1CjfoQJ1nEUzAVid-hFmeamYUsJpfo3__FnlaSgoAAuA8o0kvCgCcSplkQ7QjhW2peVbLtOgD13rIiIxOW198YMZwV8rEz-_eyz2Gzdd13O0-qHxv2TL2SYS98c96yExGTlGSvXdAj2yyrp3nQ9c7pk21xVAPW29Y7jeDmwI1lE-3jRjrf64QFECDYicdsalKh1Sgvzt8dw2K25rKe3PgtNb",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:30*",
-      "evento": "Roland Garros - Secondo Turno (Singolare Maschile)",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport",
-      "note": "Lorenzo Sonego (ITA) vs Tommy Paul (USA) - Campo 7, quarto match. Orario stimato (non prima delle 16:30). Disponibile anche in streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe0k1VawtNVUQ29_eCikLuZAXo4T7Gibb9cDbgpQ0PtRGIkZ9QBnWUrlP82NDM9i6EAvUVIKHbIt3eKSpr69RRLujlYTAdrrfEW5FGRTENvVE8ugG0xHqmhPjIYHRMi14tfMywAo-M66I68hiZh4X2UtpLKbuodQdEbW5fyPVeYSsJQNOEUNhad4vSys0FYmhvDYHSNzvxXuxST1EejsyRP-dcbzlBdR61p7_o5kGEuzcYvHO_LK9Nv18H6I0Nb-2sknM4yrw3pqjMObQ3dL-AZw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpmv-rOZgBkOrH1-DFtVeC-t3B1H1Utgm4wBan3szvSlKZL9SuGUNiBXkcUDbE-M004yauWIBY-VxkbGhCJ5d6WoiWUJQfTHdRV0Fb8o-VjwBMzPtHklohRygx6omO_PxWj0SObeId9Dha8mC_V__o13I-fi0QHWJBKlFWCPCZ6gcicEreI_7XmRO6mtdxcHLrR6ZvYT6_RK-emjo22bNrAMRi5zPZdXgtkdKgZ2yXGQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW2QDlL07eAzRMrGQrR6pYPo1OD3VRIbSjXLGcLZhSiA3t3j7OmkzAPys187y-mY_lfWEPUbP9kWeM-xIgqLwnMZruw0caI-Zmt0jAdWrbTolbnRa1LxDSTRxmdNmyYHETnpopY9EsIZKij_b81Ch03dAw_0o7VhugS5WHaIZ9Ku6tmtf5SAMy_ftsUV-0trmzg0hgKaBhFcK1T3DTK0itNFs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2X8oYMfOC6pkcimbCdWAo2fBr-kHfJ2tvUCnSYgaHeoLqCZFDoiyCWt34vhD1CjfoQJ1nEUzAVid-hFmeamYUsJpfo3__FnlaSgoAAuA8o0kvCgCcSplkQ7QjhW2peVbLtOgD13rIiIxOW198YMZwV8rEz-_eyz2Gzdd13O0-qHxv2TL2SYS98c96yExGTlGSvXdAj2yyrp3nQ9c7pk21xVAPW29Y7jeDmwI1lE-3jRjrf64QFECDYicdsalKh1Sgvzt8dw2K25rKe3PgtNb",
+      "orario": "18:00",
+      "evento": "Lorenzo Sonego vs Tommy Paul",
+      "competizione": "Tennis - Roland Garros, Secondo Turno",
+      "canale": "Eurosport 2, Discovery Plus, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Quarto match sul Court 7 a partire dalle 11:00 CET.",
+      "fonte": "OA Sport, Sport in tv oggi (mercoledì 27 maggio): orari e programma. Dove vedere gli eventi in streaming, Lo Slalom, DAZN News IT",
       "accuratezza_orario": "stimato"
     }
   ]
