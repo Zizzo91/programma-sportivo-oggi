@@ -1,32 +1,68 @@
 {
-  "last_updated": "2026-05-27T04:11:17.834465+02:00",
+  "last_updated": "2026-05-27T10:59:02.661810+02:00",
   "events": [
     {
+      "orario": "01:00",
+      "evento": "Europei U17 Uomini 2026 - Gruppo B: Italia - Francia (Replica)",
+      "competizione": "Calcio - Campionato Europeo U17",
+      "canale": "Rai Sport",
+      "note": "Differita della partita giocata il 26 maggio 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzWC_vH6aVhPMhavxqT3DXgeCJ9yDD7N3yiRK7bQmx8O8o377GYHjoqo2bAL0rHm6mIOLGF6rvAbmfxIcxCg-xUx2psEFkQskBslCoa-Jh0oeYMgawbbcFXlfdpio0fDzssZDpX-1wcBlWQlaCr-4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Formula 1 - GP Canada 2026: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del 24 maggio.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBTMpsl03jd9kR6pZ_NfjcyvT2DiSd3Da87BDxgYFiaKcd8Uz0NRPNzdPzz_qgrVQVRSD7UYZrsufqOQXQhqiTg_SCseglt-trToQgO0FUikwP-sxrSipZ_k_w46Qq0eyEjw5gBq0S7rA8zCIoe5u4_dLB2qBFv0yR",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "12:30*",
-      "evento": "Sara Errani / Lilli Tagger vs Sofia Kenin / Ashlyn Krueger",
-      "competizione": "Tennis - Roland Garros 2026 (Doppio, Primo Turno)",
-      "canale": "Eurosport (via DAZN/Sky/Discovery+)",
-      "note": "Non prima delle 12:30 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMeZV74GyOE_HFzzavAzj0W6kjATQDnaEjBwjLECT13OTKoAW6XhtFY3YGx5OW0ZKyP6XjysNOmWnL6jnydE0xbWcqyam6VBDO5G453jeTMPHVo-_ja4cfGz-9XFmOf8K5_31QLVzYGvehm3DnATdPHOowLHb-dzKfrqszpq_lAKYyrHJ6YbiM1Qn8gV8mj8r4ALifUn-JACxXtoKvPombfM=",
+      "evento": "Tennis - Roland Garros 2026: Sara Errani / Lilli Tagger vs Sofia Kenin / Ashlyn Krueger",
+      "competizione": "WTA Roland Garros (Doppio, Primo Turno)",
+      "canale": "Eurosport 2, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Terzo match dalle ore 11:00 sul Campo 3. Orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEfKzFJjBGPdoLrXnQi21bv4aEC6TWxUjx2OcVwqjmk-tVLiRa6yelMNnzN1DKkC2IpOGhFD-US4cW3btKs-98Dv4I5dL02JZjxwEFu2wKHwEKtzX53eezW5AzttoFA1NwalBL7RpbWGS7wttx2L5RhS8GjmpMcDv2mWYNh_4JNrlHkmsuxKTiuEZli5pY3mcO5vCWDob4vB7Nyka-7q6Fog==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "15:00*",
-      "evento": "Jasmine Paolini vs Solana Sierra",
-      "competizione": "Tennis - Roland Garros 2026 (Secondo Turno)",
-      "canale": "Eurosport (via DAZN/Sky/Discovery+)",
-      "note": "Non prima delle 15:00 CET, sul campo Suzanne-Lenglen",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMeZV74GyOE_HFzzavAzj0W6kjATQDnaEjBwjLECT13OTKoAW6XhtFY3YGx5OW0ZKyP6XjysNOmWnL6jnydE0xbWcqyam6VBDO5G453jeTMPHVo-_ja4cfGz-9XFmOf8K5_31QLVzYGvehm3DnATdPHOowLHb-dzKfrqszpq_lAKYyrHJ6YbiM1Qn8gV8mj8r4ALifUn-JACxXtoKvPombfM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3pGjYFCTPYqQu3BbLZtP8IJBH0uYneCe-AGmr747qtOdxcR-uPARBOtQ-KyDJ1AAk2_nvG1NBrhLmNe7LENTCvzPP_7-ZlXLBrBxEVmqQfGthWgpZBMZA-U3FAb3g3Oo9pE8Ed9b-Vaq5XmWdhR2_rMchaFodU799OEMuLOUC4vqCE5Mt6kpDhB5g1VFr-9XL3UaVTJskw_fAgtxMdBqx",
+      "orario": "14:30*",
+      "evento": "Tennis - Roland Garros 2026: Jasmine Paolini vs Solana Sierra",
+      "competizione": "WTA Roland Garros (Secondo Turno)",
+      "canale": "Eurosport 2, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Terzo match dalle ore 11:00 sul Suzanne-Lenglen. Orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd68hCljABjiC0OQp84huTLr620KqTEkPEWTYY9W5f2c9L6NymSBYDNOeXR5gI8ltYnFhcyYDWXMVjnYwej7vFG3Grpx5BrV7zcTSxk6I9MPvE0AIREz2YF9pUZBrLrdw5van8_ugpLRbOnI4EVTU_bt5iprxE2-740z9L7RC7qOHj13-D029POGOiJaZDojXmtTXRbyjTiliacxz6oNy4tXA-LOLCwWuG",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Calcio - Europei U17 Uomini 2026 - Gruppo B: Italia - Francia (Differita)",
+      "competizione": "Calcio - Campionato Europeo U17",
+      "canale": "Rai Sport",
+      "note": "Partita giocata il 26 maggio, trasmessa in differita.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZJRT7TRabQjCpLz_MfdC8_z41q4_GnwaKAlphhbHJOUFY58Z1JmsIZvoNFGXnKbtC9IcUF92HvUVOqNnl-lzGeln4DkUgnBDbC6sMIPUaIgg6i0dxOnCZl7hSBAbaZjTBt7RhdtUtZp11Yf5a_e-xpfx1IlZsatPqfyZ9cQaGjbznHLjQ0PDCpN7KMen8G0-Kydb1uiSYLLDwEJMghi3PtYRVZPshkjWNk-dDwylUEJUqXlIhCHtmMZUB38Un",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:30*",
-      "evento": "Lorenzo Sonego vs Tommy Paul",
-      "competizione": "Tennis - Roland Garros 2026 (Secondo Turno)",
-      "canale": "Eurosport (via DAZN/Sky/Discovery+)",
-      "note": "Non prima delle 16:30 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMeZV74GyOE_HFzzavAzj0W6kjATQDnaEjBwjLECT13OTKoAW6XhtFY3YGx5OW0ZKyP6XjysNOmWnL6jnydE0xbWcqyam6VBDO5G453jeTMPHVo-_ja4cfGz-9XFmOf8K5_31QLVzYGvehm3DnATdPHOowLHb-dzKfrqszpq_lAKYyrHJ6YbiM1Qn8gV8mj8r4ALifUn-JACxXtoKvPombfM=",
+      "evento": "Tennis - Roland Garros 2026: Lorenzo Sonego vs Tommy Paul",
+      "competizione": "ATP Roland Garros (Secondo Turno)",
+      "canale": "Eurosport 1, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Quarto match dalle ore 11:00 sul Campo 7. Orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkQ4JwbrkDQzdz0pIJHO-zkAcWicOZnVzN6gYgiHOP5E-wz4vsnBg1VjF4OzUGUZztwq_5asg3MbTYks_omteSL0iyMVh9cgYrQDYpZjhG_MTdVQcqchDBXgc1XUsSc_osdl4_WsIYU8pNRNyIViTTKcwDTQbYd0wfZsqtpKVuguN7cpM5IldJ2goZY8y6h7XckKQcwOXrUKaQAsS8TsZM0_NssqPrGV_SEdI4",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "02:00",
+      "evento": "UEFA Conference League 2025/2026 - Crystal Palace - Rayo Vallecano (Finale) (Replica)",
+      "competizione": "Calcio - UEFA Conference League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della finale. Esclusa dalla lista principale in quanto non include squadre italiane.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBTMpsl03jd9kR6pZ_NfjcyvT2DiSd3Da87BDxgYFiaKcd8Uz0NRPNzdPzz_qgrVQVRSD7UYZrsufqOQXQhqiTg_SCseglt-trToQgO0FUikwP-sxrSipZ_k_w46Qq0eyEjw5gBq0S7rA8zCIoe5u4_dLB2qBFv0yR",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
