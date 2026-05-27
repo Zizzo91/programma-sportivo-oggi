@@ -1,95 +1,32 @@
 {
-  "last_updated": "2026-05-26T16:36:50.526755+02:00",
+  "last_updated": "2026-05-27T04:11:17.834465+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Tennis: 1° turno singolare maschile - Matteo Arnaldi vs Tallon Griekspoor",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Primo match sul campo 7. Il programma inizia alle 11:00 CET.",
-      "fonte": "OA Sport, LiveTennis.it, Mantovauno.it",
-      "accuratezza_orario": "esatto"
+      "orario": "12:30*",
+      "evento": "Sara Errani / Lilli Tagger vs Sofia Kenin / Ashlyn Krueger",
+      "competizione": "Tennis - Roland Garros 2026 (Doppio, Primo Turno)",
+      "canale": "Eurosport (via DAZN/Sky/Discovery+)",
+      "note": "Non prima delle 12:30 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMeZV74GyOE_HFzzavAzj0W6kjATQDnaEjBwjLECT13OTKoAW6XhtFY3YGx5OW0ZKyP6XjysNOmWnL6jnydE0xbWcqyam6VBDO5G453jeTMPHVo-_ja4cfGz-9XFmOf8K5_31QLVzYGvehm3DnATdPHOowLHb-dzKfrqszpq_lAKYyrHJ6YbiM1Qn8gV8mj8r4ALifUn-JACxXtoKvPombfM=",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:00",
-      "evento": "Calcio: Europei U17 Estonia - Italia vs Francia",
-      "competizione": "Campionati Europei Under 17",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Virgilio Sport, Stasera in TV, Calciomagazine.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Tennis: 1° turno singolare femminile - Elisabetta Cocciaretto vs Alina Korneeva",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport 1 HD, Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Terzo match sul campo 13. Il programma inizia alle 11:00 CET. Orario stimato 'non prima delle 16:00'.",
-      "fonte": "OA Sport, Il Fatto Quotidiano, Mantovauno.it",
+      "orario": "15:00*",
+      "evento": "Jasmine Paolini vs Solana Sierra",
+      "competizione": "Tennis - Roland Garros 2026 (Secondo Turno)",
+      "canale": "Eurosport (via DAZN/Sky/Discovery+)",
+      "note": "Non prima delle 15:00 CET, sul campo Suzanne-Lenglen",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMeZV74GyOE_HFzzavAzj0W6kjATQDnaEjBwjLECT13OTKoAW6XhtFY3YGx5OW0ZKyP6XjysNOmWnL6jnydE0xbWcqyam6VBDO5G453jeTMPHVo-_ja4cfGz-9XFmOf8K5_31QLVzYGvehm3DnATdPHOowLHb-dzKfrqszpq_lAKYyrHJ6YbiM1Qn8gV8mj8r4ALifUn-JACxXtoKvPombfM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3pGjYFCTPYqQu3BbLZtP8IJBH0uYneCe-AGmr747qtOdxcR-uPARBOtQ-KyDJ1AAk2_nvG1NBrhLmNe7LENTCvzPP_7-ZlXLBrBxEVmqQfGthWgpZBMZA-U3FAb3g3Oo9pE8Ed9b-Vaq5XmWdhR2_rMchaFodU799OEMuLOUC4vqCE5Mt6kpDhB5g1VFr-9XL3UaVTJskw_fAgtxMdBqx",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "16:30*",
-      "evento": "Tennis: 1° turno singolare maschile - Luciano Darderi vs Sebastian Ofner",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport 1 HD, Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Quarto match sul campo 7. Il programma inizia alle 11:00 CET. Orario stimato 'non prima delle 16:30'.",
-      "fonte": "OA Sport, Il Fatto Quotidiano, Mantovauno.it",
+      "evento": "Lorenzo Sonego vs Tommy Paul",
+      "competizione": "Tennis - Roland Garros 2026 (Secondo Turno)",
+      "canale": "Eurosport (via DAZN/Sky/Discovery+)",
+      "note": "Non prima delle 16:30 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMeZV74GyOE_HFzzavAzj0W6kjATQDnaEjBwjLECT13OTKoAW6XhtFY3YGx5OW0ZKyP6XjysNOmWnL6jnydE0xbWcqyam6VBDO5G453jeTMPHVo-_ja4cfGz-9XFmOf8K5_31QLVzYGvehm3DnATdPHOowLHb-dzKfrqszpq_lAKYyrHJ6YbiM1Qn8gV8mj8r4ALifUn-JACxXtoKvPombfM=",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:15*",
-      "evento": "Tennis: 1° turno singolare maschile - Jannik Sinner vs Clement Tabur",
-      "competizione": "Roland Garros",
-      "canale": "Eurosport 1 HD, Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Match serale sul campo Philippe-Chatrier. Orario stimato 'non prima delle 20:15'.",
-      "fonte": "OA Sport, Il Fatto Quotidiano, Mantovauno.it, LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Automobilismo: Race Anatomy F1",
-      "competizione": "Formula 1 (approfondimento)",
-      "canale": "Sky Sport Uno",
-      "note": "Programma di analisi post-gara.",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00 (27/05)",
-      "evento": "Ciclismo: Ri - Giro",
-      "competizione": "Giro d'Italia (replica)",
-      "canale": "Rai Sport",
-      "note": "Replica della tappa Bellinzona-Carì.",
-      "fonte": "Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00 (27/05)",
-      "evento": "Calcio: Europei U17 Estonia - Italia vs Francia",
-      "competizione": "Campionati Europei Under 17 (replica)",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00 (27/05)",
-      "evento": "Motocross MXGP: Mondiale GP Francia - MX2 Gara 2",
-      "competizione": "Motocross MXGP (replica)",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Stasera in TV, Lifestyleblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00 (27/05)",
-      "evento": "Motocross MXGP: Mondiale GP Francia - MXGP Gara 2",
-      "competizione": "Motocross MXGP (replica)",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Stasera in TV, Lifestyleblog.it",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
