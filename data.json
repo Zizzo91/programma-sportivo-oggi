@@ -1,121 +1,121 @@
 {
-  "last_updated": "2026-05-28T11:42:44.268859+02:00",
+  "last_updated": "2026-05-28T22:03:31.513098+02:00",
   "events": [
     {
       "orario": "11:00",
-      "evento": "Tennis - Roland Garros: Flavio Cobolli (ITA) vs Yibing Wu (CHN)",
-      "competizione": "Grande Slam (Roland Garros)",
+      "evento": "Tennis: Flavio Cobolli (ITA) vs Wu Yibing (CHN)",
+      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
       "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Secondo turno singolare maschile",
-      "fonte": "OA Sport, Lo Slalom, DAZN News IT, Adnkronos, LaPresse",
+      "note": "Orario di inizio del primo match sul campo di Cobolli.",
+      "fonte": "oaSport.it, LaPresse, Lo Slalom",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00*",
+      "evento": "Tennis: Simone Bolelli/Andrea Vavassori (ITA) vs Duckworth/Trungelliti",
+      "competizione": "Roland Garros (Primo Turno Doppio Maschile)",
+      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Secondo match sul campo indicato, dopo le 11:00.",
+      "fonte": "OA Sport, LiveTennis.it",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "12:00",
-      "evento": "Tennis - Roland Garros: Jannik Sinner (ITA) vs Juan Manuel Cerundolo (ARG)",
-      "competizione": "Grande Slam (Roland Garros)",
+      "evento": "Tennis: Jannik Sinner (ITA) vs Juan Manuel Cerundolo (ARG)",
+      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
       "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Secondo turno singolare maschile (Court Philippe-Chatrier)",
-      "fonte": "OA Sport, Lo Slalom, DAZN News IT, Adnkronos, LaPresse",
+      "note": "Match sul Court Philippe-Chatrier.",
+      "fonte": "oaSport.it, LaPresse, Lo Slalom, DAZN News IT",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Ciclismo - Giro d'Italia 2026: 18a tappa (Fai della Paganella - Pieve di Soligo)",
-      "competizione": "Giro d'Italia",
-      "canale": "Rai Sport HD",
-      "note": "Partenza reale stimata alle 13:30, arrivo tra 17:07 e 17:29",
-      "fonte": "OA Sport, Sport in TV giovedi 28 maggio 2026 - Programmi TV, Programmi TV del 28 Maggio 2026 su Raisport Hd - Guida TV",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Tennis - Roland Garros: Simone Bolelli/Andrea Vavassori (ITA) vs Duckworth/Trungelliti",
-      "competizione": "Grande Slam (Roland Garros)",
-      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Primo turno doppio maschile (2° match dalle 11:00)",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "13:30",
-      "evento": "Calcio - Europei Under 17: Belgio vs Spagna",
-      "competizione": "Europei Under 17",
+      "evento": "Calcio: Belgio vs Spagna",
+      "competizione": "Europei Under 17 UEFA",
       "canale": "UEFA TV",
-      "note": "",
-      "fonte": "Lo Slalom, Calcio in tv oggi, 28 maggio 2026: Fiorentina U20-Parma U20 in primo piano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Tennis - Roland Garros: Luciano Darderi (ITA) vs Francisco Comesana (ARG)",
-      "competizione": "Grande Slam (Roland Garros)",
-      "canale": "Eurosport 2 HD (dalle 17:45 anche Eurosport 1 HD), Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Secondo turno singolare maschile (3° match dalle 11:00)",
-      "fonte": "OA Sport, Lo Slalom, DAZN News IT, Adnkronos, LaPresse",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Calcio - Europei Under 17: Estonia vs Croazia",
-      "competizione": "Europei Under 17",
-      "canale": "UEFA TV",
-      "note": "",
-      "fonte": "Lo Slalom, Calcio in tv oggi, 28 maggio 2026: Fiorentina U20-Parma U20 in primo piano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Tennis - Roland Garros: Matteo Arnaldi (ITA) vs Stefanos Tsitsipas (GRE)",
-      "competizione": "Grande Slam (Roland Garros)",
-      "canale": "Eurosport 1 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Secondo turno singolare maschile (4° match dalle 11:00)",
-      "fonte": "OA Sport, Lo Slalom, DAZN News IT, Adnkronos, LaPresse",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Tennis - Roland Garros: Sara Errani/Andrea Vavassori (ITA) vs Perez/Cabral",
-      "competizione": "Grande Slam (Roland Garros)",
-      "canale": "Eurosport 1 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Primo turno doppio misto (4° match dalle 11:00, orario molto variabile)",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Calcio - Campionato Primavera Playoff: Finale Fiorentina-Parma",
-      "competizione": "Campionato Primavera",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 28 maggio 2026: Fiorentina U20-Parma U20 in primo piano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:40",
-      "evento": "Basket - Serie A2: Semifinale - eventuale Gara 4",
-      "competizione": "Serie A2 Basket",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "Sport in TV giovedi 28 maggio 2026 - Programmi TV, Programmi TV del 28 Maggio 2026 su Raisport Hd - Guida TV, Programmazione Rai Sport del 28/05/2026 · Guida TV - Lifestyleblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Calcio - Amichevole Internazionale: Irlanda vs Qatar",
-      "competizione": "Amichevole Nazionali",
-      "canale": "Sky Sport",
       "note": "",
       "fonte": "Lo Slalom",
       "accuratezza_orario": "esatto"
     },
     {
+      "orario": "13:50*",
+      "evento": "Tennis: Luciano Darderi (ITA) vs Francisco Comesana (ARG)",
+      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
+      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Non prima delle 13:50, sul Campo 6.",
+      "fonte": "LaPresse, Lo Slalom, OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Tennis: Matteo Arnaldi (ITA) vs Stefanos Tsitsipas (GRE)",
+      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
+      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Non prima delle 15:00, sul Campo 14.",
+      "fonte": "LaPresse, Lo Slalom, OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "Tennis: Sara Errani/Andrea Vavassori (ITA) vs Perez/Cabral",
+      "competizione": "Roland Garros (Primo Turno Doppio Misto)",
+      "canale": "Eurosport 1 HD, Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Quarto match sul campo di inizio alle 11:00, orario stimato dopo le 11:00 e Eurosport 1 dalle 17:45.",
+      "fonte": "oaSport.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio: Estonia vs Croazia",
+      "competizione": "Europei Under 17 UEFA",
+      "canale": "UEFA TV",
+      "note": "",
+      "fonte": "Lo Slalom",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Calcio: Al Nassr vs Al Hilal",
+      "competizione": "Campionato Saudita",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "20:15*",
-      "evento": "Tennis - Roland Garros: Matteo Berrettini (ITA) vs Arthur Rinderknech (FRA)",
-      "competizione": "Grande Slam (Roland Garros)",
+      "evento": "Tennis: Matteo Berrettini (ITA) vs Arthur Rinderknech (FRA)",
+      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
       "canale": "Eurosport 1 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Secondo turno singolare maschile (non prima delle 20:15 su Court Philippe-Chatrier)",
-      "fonte": "OA Sport, Lo Slalom, DAZN News IT, Adnkronos, LaPresse",
+      "note": "Non prima delle 20:15, sul Court Philippe-Chatrier. Eurosport 1 HD dalle 17:45.",
+      "fonte": "oaSport.it, LaPresse, Lo Slalom, DAZN News IT",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio: Irlanda vs Qatar",
+      "competizione": "Amichevole Internazionale",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "Lo Slalom, Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Calcio: River Plate vs Rosario Central",
+      "competizione": "Campionato Argentino",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Calcio: Manchester City vs Aston Villa",
+      "competizione": "Premier League (replica/differita)",
+      "canale": "Sportitalia",
+      "note": "Evento trasmesso nella notte tra il 28 e 29 maggio.",
+      "fonte": "ProgrammiTV.com",
       "accuratezza_orario": "esatto"
     }
   ]
