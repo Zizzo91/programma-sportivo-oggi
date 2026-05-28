@@ -1,23 +1,77 @@
 {
-  "last_updated": "2026-05-27T21:57:26.956509+02:00",
+  "last_updated": "2026-05-28T03:54:14.571382+02:00",
   "events": [
     {
-      "orario": "15:30",
-      "evento": "Jasmine Paolini vs Solana Sierra",
-      "competizione": "Tennis - Roland Garros, Secondo Turno",
-      "canale": "Eurosport 2, Discovery Plus, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Terzo match sul Court Suzanne-Lenglen a partire dalle 11:00 CET.",
-      "fonte": "OA Sport, Sport in tv oggi (mercoledì 27 maggio): orari e programma. Dove vedere gli eventi in streaming, Lo Slalom, DAZN News IT",
+      "orario": "04:15",
+      "evento": "Italia vs Francia",
+      "competizione": "Europei Under 17",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwfdm4yqFSVV55noWUwSYu1s9oX05xN30mQbs1HkWaudLdULqk_2JS0rl4aHCwbx5iQpxUR7pz4neUHfQaYezDl3XO2vB-M6iiiPXLi0moU5tp47oNrLQ2hBJqHXgdD1-0JU2OagFYEy7_qdRNsbnRnl1AqWo=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Italia vs Francia",
+      "competizione": "Europei Under 17",
+      "canale": "Rai Sport",
+      "note": "Replica/Integrale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwfdm4yqFSVV55noWUwSYu1s9oX05xN30mQbs1HkWaudLdULqk_2JS0rl4aHCwbx5iQpxUR7pz4neUHfQaYezDl3XO2vB-M6iiiPXLi0moU5tp47oNrLQ2hBJqHXgdD1-0JU2OagFYEy7_qdRNsbnRnl1AqWo=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Flavio Cobolli vs Yibing Wu",
+      "competizione": "Tennis - Roland Garros, 2° Turno",
+      "canale": "Eurosport 2",
+      "note": "Diretta streaming su Eurosport 2, Discovery Plus, HBO Max, DAZN.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3EL3VHrYWU7sPKVV_v3U5qLVJDrhRTTvQaW0W1g3d-fVCkD_DBfXhqihypLB_prAf6VVHYrXNh9YKsJRYvTnBDwYeW1en3ENmXbD-UUBp5QhfIf-Ofs3ma5bVmJemo3yx4gcDyDjIdhct2NBsMcuLXVw8S1gWYi4kE4Rbbfp4aakSotdV__Tz3d8fNMRb7JkQgQVF84t2RfVWwTok9jrj2kvw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Jannik Sinner vs Juan Manuel Cerundolo",
+      "competizione": "Tennis - Roland Garros, 2° Turno",
+      "canale": "Eurosport 2",
+      "note": "Diretta streaming su Eurosport 2, Discovery Plus, HBO Max, DAZN.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8EeDe14P5z1cpALqKslwP6KnjqDSdgBGMstl9lUOZGGjDCtnY5qP4YU_5UfbOeEgqaobD8phzUcyUOY3UQd3umoFefMqAvz173SYtvazE5XcIV5sMNtFfrqYHSGtv5LI1QVni3og9ehfGqY8IXuvXvlquaGywvWSG1A0JFmYN7rl8nfyJ55EOMmtAOQvWmRb28_qymf-r4jfrLVEBdXrh52gWfwCSf2o3IU_xWc4MIECwojh",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Luciano Darderi vs Francisco Comesana",
+      "competizione": "Tennis - Roland Garros, 2° Turno",
+      "canale": "Eurosport 2, Eurosport 1",
+      "note": "Quarto match a partire dalle 11:00 sul Campo 6. Diretta streaming su Eurosport 2, Discovery Plus, HBO Max, DAZN. Eurosport 1 dalle 17:45.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlH4G6xaQ1fQ-H9P_c2I6e5Klj6LPRLZIfUNSUCKVG83wfpF-D8ft9cOSGdwjzYxl_lVKKe1RAnEdygrV_SIc3VMh9q7YOumm_64jKc7Yl_qwwkrVOj-ezxgsbxjZsyqZcXyJ2aBrOlIcxxaYWbcOapkI9qLIcUGxmqyaB-n102YpVWp_L5z2yj91dYv6Q0FRKbXjt8oEiDo17RY676TOoVprpEmY1az3waw=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "Lorenzo Sonego vs Tommy Paul",
-      "competizione": "Tennis - Roland Garros, Secondo Turno",
-      "canale": "Eurosport 2, Discovery Plus, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Quarto match sul Court 7 a partire dalle 11:00 CET.",
-      "fonte": "OA Sport, Sport in tv oggi (mercoledì 27 maggio): orari e programma. Dove vedere gli eventi in streaming, Lo Slalom, DAZN News IT",
+      "orario": "15:00*",
+      "evento": "Matteo Arnaldi vs Stefanos Tsitsipas",
+      "competizione": "Tennis - Roland Garros, 2° Turno",
+      "canale": "Eurosport",
+      "note": "Quarto match a partire dalle 11:00 sul Court 14. Streaming su HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBD0pKRwL2iTdzCmEoCWCcwc1pak5oNsctsEqDTBUAgcDAqZ_J4BtsOx3DugbwPnReniJ5E0tQfC5dBwMsdsBS0HhahkyADJrZYDvBKXHKB99q6cpEEt8ijsVBFsfxReVQJSz77ReCevFwVKBDpnpD0GxebFTKB7-7VenDvYAqS9aRjol3__0CLQ==",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Fiorentina U20 vs Parma U20",
+      "competizione": "Calcio - Campionato Primavera 1, Finale",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoPdgzOkOa_5LHIfDZyux8fhaEiw1RZJjAb-_4QcRHRpatonAcqdkZSzLoIfP54liUbiTnpzE90qmahWtSI24br-19Dg-VRie8XbPBmGiGe3bze4yZkMyi_fz_b4_O1d5TzyHMYw_vNa_j-pZMLcSR9p2_9i61RXlzUOT1aoMzQ_M_35CVcOBPpK6rBsqHHJt0Iw-ptG44AyVPW0XO3eq-DcNb2WrpsgErOnnJvtiFRU6YgYBE80b3Vv42sOrwgb3liv0-SxSpMK7mRfzS06SMsswIZ6BB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Irlanda vs Qatar",
+      "competizione": "Calcio - Amichevole Internazionale",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxz016i54Hdxsmm9RDvgr7fOMLvG_UU8WByrTdH5UFTTq1gFRoGyzXlLc1xKhdt8y9FA1jVd115bx5UKwSbTFFMWDM5wzvRwo2v_78FL_Nf3F2tsZwYD8DZH_ImmA=",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
