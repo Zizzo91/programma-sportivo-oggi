@@ -1,121 +1,103 @@
 {
-  "last_updated": "2026-05-28T22:03:31.513098+02:00",
+  "last_updated": "2026-05-29T16:36:22.703444+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Tennis: Flavio Cobolli (ITA) vs Wu Yibing (CHN)",
-      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
-      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Orario di inizio del primo match sul campo di Cobolli.",
-      "fonte": "oaSport.it, LaPresse, Lo Slalom",
+      "orario": "06:00",
+      "evento": "Ciclismo: Ri-Giro",
+      "competizione": "Giro d'Italia 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "Stasera in TV - Programmi Rai Sport +HD venerdi 29 maggio 2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "Prove Libere 1 Moto3",
+      "competizione": "MotoGP, GP Italia 2026 (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "note": "",
+      "fonte": "MotoGP oggi in tv, GP Italia 2026; MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:50",
+      "evento": "Prove Libere 1 Moto2",
+      "competizione": "MotoGP, GP Italia 2026 (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "note": "",
+      "fonte": "MotoGP oggi in tv, GP Italia 2026; MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "Prove Libere 1 MotoGP",
+      "competizione": "MotoGP, GP Italia 2026 (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "note": "",
+      "fonte": "MotoGP oggi in tv, GP Italia 2026; MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; Dove vedere GP MotoGP™ d'Italia; Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface; MotoGP, GP Italia 2026: programma, orari, tv, streaming; MotoGP 2026: guarda in diretta i gran premi di Moto GP; 2026 MotoGP Italian Grand Prix",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:00*",
-      "evento": "Tennis: Simone Bolelli/Andrea Vavassori (ITA) vs Duckworth/Trungelliti",
-      "competizione": "Roland Garros (Primo Turno Doppio Maschile)",
-      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Secondo match sul campo indicato, dopo le 11:00.",
-      "fonte": "OA Sport, LiveTennis.it",
+      "evento": "Doppio femminile, 2° Turno: Sara Errani / Tagger vs E. Perez / D. Schuurs",
+      "competizione": "Tennis - Roland Garros 2026",
+      "canale": "Eurosport (HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
+      "note": "Secondo match su campo 13",
+      "fonte": "Roland Garros 2026, gli italiani in campo: il programma del 29 maggio; Il tennis in TV oggi 29 maggio; Italiani in Campo",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "12:00",
-      "evento": "Tennis: Jannik Sinner (ITA) vs Juan Manuel Cerundolo (ARG)",
-      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
-      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Match sul Court Philippe-Chatrier.",
-      "fonte": "oaSport.it, LaPresse, Lo Slalom, DAZN News IT",
+      "orario": "12:30",
+      "evento": "Ciclismo: 19a tappa - Feltre - Alleghe (Piani di Pezzè)",
+      "competizione": "Giro d'Italia 2026",
+      "canale": "Rai Sport +HD",
+      "note": "Prima diretta",
+      "fonte": "Stasera in TV - Programmi Rai Sport +HD venerdi 29 maggio 2026; Sport in tv oggi (venerdì 29 maggio)",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Calcio: Belgio vs Spagna",
-      "competizione": "Europei Under 17 UEFA",
-      "canale": "UEFA TV",
+      "orario": "13:15",
+      "evento": "Pre-Qualifiche Moto3",
+      "competizione": "MotoGP, GP Italia 2026 (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
       "note": "",
-      "fonte": "Lo Slalom",
+      "fonte": "MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; MotoGP, GP Italia 2026: programma, orari, tv, streaming",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:50*",
-      "evento": "Tennis: Luciano Darderi (ITA) vs Francisco Comesana (ARG)",
-      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
-      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Non prima delle 13:50, sul Campo 6.",
-      "fonte": "LaPresse, Lo Slalom, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "Tennis: Matteo Arnaldi (ITA) vs Stefanos Tsitsipas (GRE)",
-      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
-      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Non prima delle 15:00, sul Campo 14.",
-      "fonte": "LaPresse, Lo Slalom, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Tennis: Sara Errani/Andrea Vavassori (ITA) vs Perez/Cabral",
-      "competizione": "Roland Garros (Primo Turno Doppio Misto)",
-      "canale": "Eurosport 1 HD, Eurosport 2 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Quarto match sul campo di inizio alle 11:00, orario stimato dopo le 11:00 e Eurosport 1 dalle 17:45.",
-      "fonte": "oaSport.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Calcio: Estonia vs Croazia",
-      "competizione": "Europei Under 17 UEFA",
-      "canale": "UEFA TV",
+      "orario": "14:05",
+      "evento": "Pre-Qualifiche Moto2",
+      "competizione": "MotoGP, GP Italia 2026 (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
       "note": "",
-      "fonte": "Lo Slalom",
+      "fonte": "MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; MotoGP, GP Italia 2026: programma, orari, tv, streaming",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Pre-Qualifiche MotoGP (Practice)",
+      "competizione": "MotoGP, GP Italia 2026 (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "note": "",
+      "fonte": "MotoGP oggi in tv, GP Italia 2026; MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; Dove vedere GP MotoGP™ d'Italia; Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface; MotoGP, GP Italia 2026: programma, orari, tv, streaming; MotoGP 2026: guarda in diretta i gran premi di Moto GP; 2026 MotoGP Italian Grand Prix",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30*",
+      "evento": "Doppio maschile, 2° Turno: Simone Bolelli / Andrea Vavassori vs Yuki Bhambri / Michael Venus",
+      "competizione": "Tennis - Roland Garros 2026",
+      "canale": "Eurosport (HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
+      "note": "Ultimo match su campo 6",
+      "fonte": "Roland Garros 2026 oggi: orari 29 maggio; Roland Garros 2026, gli italiani in campo: il programma del 29 maggio; Il tennis in TV oggi 29 maggio; Italiani in Campo",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:00",
-      "evento": "Calcio: Al Nassr vs Al Hilal",
-      "competizione": "Campionato Saudita",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:15*",
-      "evento": "Tennis: Matteo Berrettini (ITA) vs Arthur Rinderknech (FRA)",
-      "competizione": "Roland Garros (Secondo Turno Singolare Maschile)",
-      "canale": "Eurosport 1 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
-      "note": "Non prima delle 20:15, sul Court Philippe-Chatrier. Eurosport 1 HD dalle 17:45.",
-      "fonte": "oaSport.it, LaPresse, Lo Slalom, DAZN News IT",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Calcio: Irlanda vs Qatar",
-      "competizione": "Amichevole Internazionale",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "Lo Slalom, Sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Calcio: River Plate vs Rosario Central",
-      "competizione": "Campionato Argentino",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Calcio: Manchester City vs Aston Villa",
-      "competizione": "Premier League (replica/differita)",
-      "canale": "Sportitalia",
-      "note": "Evento trasmesso nella notte tra il 28 e 29 maggio.",
-      "fonte": "ProgrammiTV.com",
+      "evento": "Monza vs Catanzaro",
+      "competizione": "Calcio - Finale Playoff Serie B (ritorno)",
+      "canale": "Sky Sport 1, DAZN, TV8",
+      "note": "Monza in vantaggio 2-0 dall'andata",
+      "fonte": "Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface; Calcio in TV. Monza-Catanzaro, sfida per la Serie A; Le partite di oggi: il programma di venerdì 29 maggio",
       "accuratezza_orario": "esatto"
     }
   ]
