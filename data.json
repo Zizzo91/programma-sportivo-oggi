@@ -1,103 +1,85 @@
 {
-  "last_updated": "2026-05-29T16:36:22.703444+02:00",
+  "last_updated": "2026-05-29T22:06:33.233358+02:00",
   "events": [
-    {
-      "orario": "06:00",
-      "evento": "Ciclismo: Ri-Giro",
-      "competizione": "Giro d'Italia 2026",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Stasera in TV - Programmi Rai Sport +HD venerdi 29 maggio 2026",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "09:00",
       "evento": "Prove Libere 1 Moto3",
       "competizione": "MotoGP, GP Italia 2026 (Mugello)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "MotoGP oggi in tv, GP Italia 2026; MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface",
+      "fonte": "OA Sport, Il Fatto Quotidiano, FormulaPassion, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:50",
       "evento": "Prove Libere 1 Moto2",
       "competizione": "MotoGP, GP Italia 2026 (Mugello)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "MotoGP oggi in tv, GP Italia 2026; MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface",
+      "fonte": "OA Sport, Il Fatto Quotidiano, FormulaPassion, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:45",
       "evento": "Prove Libere 1 MotoGP",
       "competizione": "MotoGP, GP Italia 2026 (Mugello)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "MotoGP oggi in tv, GP Italia 2026; MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; Dove vedere GP MotoGP™ d'Italia; Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface; MotoGP, GP Italia 2026: programma, orari, tv, streaming; MotoGP 2026: guarda in diretta i gran premi di Moto GP; 2026 MotoGP Italian Grand Prix",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00*",
-      "evento": "Doppio femminile, 2° Turno: Sara Errani / Tagger vs E. Perez / D. Schuurs",
-      "competizione": "Tennis - Roland Garros 2026",
-      "canale": "Eurosport (HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Secondo match su campo 13",
-      "fonte": "Roland Garros 2026, gli italiani in campo: il programma del 29 maggio; Il tennis in TV oggi 29 maggio; Italiani in Campo",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Ciclismo: 19a tappa - Feltre - Alleghe (Piani di Pezzè)",
-      "competizione": "Giro d'Italia 2026",
-      "canale": "Rai Sport +HD",
-      "note": "Prima diretta",
-      "fonte": "Stasera in TV - Programmi Rai Sport +HD venerdi 29 maggio 2026; Sport in tv oggi (venerdì 29 maggio)",
+      "fonte": "OA Sport, Il Fatto Quotidiano, FormulaPassion, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:15",
-      "evento": "Pre-Qualifiche Moto3",
+      "evento": "Pre-qualifiche Moto3",
       "competizione": "MotoGP, GP Italia 2026 (Mugello)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; MotoGP, GP Italia 2026: programma, orari, tv, streaming",
+      "fonte": "OA Sport, FormulaPassion, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Europei Under 17: Montenegro vs Italia",
+      "competizione": "Calcio - Europei Under 17",
+      "canale": "RaiPlay Sport 1",
+      "note": "",
+      "fonte": "OA Sport, Sportface",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:45",
+      "evento": "Giro d'Italia 2026: Diciannovesima tappa (Feltre-Alleghe)",
+      "competizione": "Ciclismo",
+      "canale": "RaiSport HD (fino alle 14:05), Rai 2 HD (dalle 14:05), RaiPlay, Eurosport1 HD, Discovery+, HBO Max, DAZN",
+      "note": "Diretta tv dalle 13:45 alle 14:05 su RaiSport HD, dalle 14:05 su Rai 2 HD",
+      "fonte": "OA Sport, Lo Slalom, Sportface, DAZN",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:05",
-      "evento": "Pre-Qualifiche Moto2",
+      "evento": "Prove 1 Moto2",
       "competizione": "MotoGP, GP Italia 2026 (Mugello)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; MotoGP, GP Italia 2026: programma, orari, tv, streaming",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Pre-Qualifiche MotoGP (Practice)",
+      "evento": "Prove MotoGP",
       "competizione": "MotoGP, GP Italia 2026 (Mugello)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, SkyGo, NOW",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "MotoGP oggi in tv, GP Italia 2026; MotoGP, GP Italia 2026: orari su TV8 e Sky; MotoGP GP Italia 2026 al Mugello; Dove vedere GP MotoGP™ d'Italia; Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface; MotoGP, GP Italia 2026: programma, orari, tv, streaming; MotoGP 2026: guarda in diretta i gran premi di Moto GP; 2026 MotoGP Italian Grand Prix",
+      "fonte": "FormulaPassion, OA Sport",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30*",
-      "evento": "Doppio maschile, 2° Turno: Simone Bolelli / Andrea Vavassori vs Yuki Bhambri / Michael Venus",
-      "competizione": "Tennis - Roland Garros 2026",
-      "canale": "Eurosport (HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Ultimo match su campo 6",
-      "fonte": "Roland Garros 2026 oggi: orari 29 maggio; Roland Garros 2026, gli italiani in campo: il programma del 29 maggio; Il tennis in TV oggi 29 maggio; Italiani in Campo",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:00",
       "evento": "Monza vs Catanzaro",
-      "competizione": "Calcio - Finale Playoff Serie B (ritorno)",
-      "canale": "Sky Sport 1, DAZN, TV8",
-      "note": "Monza in vantaggio 2-0 dall'andata",
-      "fonte": "Sport in tv oggi 29 maggio: Giro d'Italia, Roland Garros e Sportface; Calcio in TV. Monza-Catanzaro, sfida per la Serie A; Le partite di oggi: il programma di venerdì 29 maggio",
+      "competizione": "Calcio - Serie B Playoff, Finale Ritorno",
+      "canale": "DAZN, Sky Sport 1, TV8",
+      "note": "",
+      "fonte": "Lo Slalom, Sportface, Libero, Libero",
       "accuratezza_orario": "esatto"
     }
   ]
