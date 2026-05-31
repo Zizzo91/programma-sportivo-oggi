@@ -1,50 +1,77 @@
 {
-  "last_updated": "2026-05-31T04:12:11.033388+02:00",
+  "last_updated": "2026-05-31T10:33:00.929656+02:00",
   "events": [
     {
       "orario": "09:40",
-      "evento": "Warm Up MotoGP",
-      "competizione": "MotoGP GP Italia 2026",
-      "canale": "Sky Sport MotoGP, Now",
+      "evento": "Warm Up",
+      "competizione": "MotoGP - Gran Premio d'Italia (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "Il Fatto Quotidiano, FormulaPassion, OA Sport, Fanpage, Motosprint",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Finale Scudetto Under 15 Maschile: Volley Treviso vs Socaf Vero Volley Monza",
+      "competizione": "Volley - BigMat Finali Nazionali Giovanili Under 15",
+      "canale": "DIRETTA STREAMING (Federvolley)",
+      "note": "",
+      "fonte": "Federvolley",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00*",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP - Gran Premio d'Italia (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Orario stimato, segue il warm-up",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "11:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP GP Italia 2026",
-      "canale": "Sky Sport MotoGP, Now, TV8",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, FormulaPassion, OA Sport, Fanpage, Motosprint",
+      "evento": "Ottavi di finale (individuali e doppi)",
+      "competizione": "Tennis - Roland Garros",
+      "canale": "Eurosport 1 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "Programmazione generale. I match con italiani seguiranno.",
+      "fonte": "Adnkronos, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:15",
+      "orario": "12:00*",
       "evento": "Gara Moto2",
-      "competizione": "MotoGP GP Italia 2026",
-      "canale": "Sky Sport MotoGP, Now, TV8",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, FormulaPassion, OA Sport, Fanpage, Motosprint",
-      "accuratezza_orario": "esatto"
+      "competizione": "MotoGP - Gran Premio d'Italia (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Orario stimato, segue la gara Moto3",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "14:00",
+      "orario": "12:00*",
+      "evento": "Doppio maschile: Bolelli/Vavassori vs Paul/Willis",
+      "competizione": "Tennis - Roland Garros (Ottavi di Finale)",
+      "canale": "Eurosport 1 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "2° match in programma (orario stimato)",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00*",
       "evento": "Gara MotoGP",
-      "competizione": "MotoGP GP Italia 2026",
-      "canale": "Sky Sport MotoGP, Now, TV8",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, FormulaPassion, OA Sport, Fanpage, Guida TV, Motosprint",
-      "accuratezza_orario": "esatto"
+      "competizione": "MotoGP - Gran Premio d'Italia (Mugello)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "Orario stimato, segue la gara Moto2. Diretta in chiaro su TV8.",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "04:00",
-      "evento": "Repliche MotoGP 2026 - GP Italia: Gara",
-      "competizione": "MotoGP GP Italia 2026",
-      "canale": "Sky Sport Uno",
-      "note": "(01 Giugno 2026)",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
+      "orario": "15:00*",
+      "evento": "Doppio misto: Errani/Vavassori vs Stollar/Harrison",
+      "competizione": "Tennis - Roland Garros (Ottavi di Finale)",
+      "canale": "Eurosport 1 HD, Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels",
+      "note": "4° match in programma (orario stimato)",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
