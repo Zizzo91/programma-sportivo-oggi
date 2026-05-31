@@ -1,103 +1,49 @@
 {
-  "last_updated": "2026-05-30T20:57:28.717192+02:00",
+  "last_updated": "2026-05-31T04:12:11.033388+02:00",
   "events": [
     {
-      "orario": "10:10",
-      "evento": "MotoGP Prove Libere 2",
-      "competizione": "MotoGP GP Italia (Mugello)",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "orario": "09:40",
+      "evento": "Warm Up MotoGP",
+      "competizione": "MotoGP GP Italia 2026",
+      "canale": "Sky Sport MotoGP, Now",
       "note": "",
-      "fonte": "oasport.it, formulapassion.it, adnkronos.com, fanpage.it",
+      "fonte": "Il Fatto Quotidiano, FormulaPassion, OA Sport, Fanpage, Motosprint",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:50",
-      "evento": "MotoGP Qualifiche 1 (Q1)",
-      "competizione": "MotoGP GP Italia (Mugello)",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), TV8",
-      "note": "Diretta in chiaro anche su TV8",
-      "fonte": "oasport.it, formulapassion.it, adnkronos.com, fanpage.it",
+      "orario": "11:00",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP GP Italia 2026",
+      "canale": "Sky Sport MotoGP, Now, TV8",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, FormulaPassion, OA Sport, Fanpage, Motosprint",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:15",
-      "evento": "MotoGP Qualifiche 2 (Q2)",
-      "competizione": "MotoGP GP Italia (Mugello)",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208), TV8",
-      "note": "Diretta in chiaro anche su TV8",
-      "fonte": "oasport.it, formulapassion.it, adnkronos.com, fanpage.it",
+      "orario": "12:15",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP GP Italia 2026",
+      "canale": "Sky Sport MotoGP, Now, TV8",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, FormulaPassion, OA Sport, Fanpage, Motosprint",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00*",
-      "evento": "Tennis: Flavio Cobolli vs Learner Tien",
-      "competizione": "Roland Garros (Terzo Turno)",
-      "canale": "Eurosport (streaming: HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Orario stimato, a partire dalle 12:00 CET",
-      "fonte": "oasport.it, ilfattoquotidiano.it, tennis.it, fanpage.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "13:00*",
-      "evento": "Tennis: Matteo Berrettini vs Francisco Comesana",
-      "competizione": "Roland Garros (Terzo Turno)",
-      "canale": "Eurosport (streaming: HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Orario stimato, non prima delle 13:00 CET",
-      "fonte": "oasport.it, ilfattoquotidiano.it, tennis.it, fanpage.it",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "14:00",
-      "evento": "Calcio: Scozia vs Curacao",
-      "competizione": "Amichevole Nazionale",
-      "canale": "Sky Sport Calcio",
+      "evento": "Gara MotoGP",
+      "competizione": "MotoGP GP Italia 2026",
+      "canale": "Sky Sport MotoGP, Now, TV8",
       "note": "",
-      "fonte": "libero.it, tuttomercatoweb.com",
+      "fonte": "Il Fatto Quotidiano, FormulaPassion, OA Sport, Fanpage, Guida TV, Motosprint",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "MotoGP Sprint Race",
-      "competizione": "MotoGP GP Italia (Mugello)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta in chiaro anche su TV8",
-      "fonte": "adnkronos.com, fanpage.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "Tennis: Matteo Arnaldi vs Raphael Collignon",
-      "competizione": "Roland Garros (Terzo Turno)",
-      "canale": "Eurosport (streaming: HBO Max, Discovery+, DAZN, TimVision, Prime Video Channels)",
-      "note": "Orario stimato, non prima delle 15:00 CET (o 3° match su Court 14)",
-      "fonte": "ilfattoquotidiano.it, tennis.it, fanpage.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Calcio: PSG vs Arsenal",
-      "competizione": "UEFA Champions League - Finale",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport (canale 251 satellite)",
-      "note": "Diretta esclusiva Sky. Streaming su Sky Go e NOW.",
-      "fonte": "calciomagazine.net, rojadirecta.com.es, tuttomercatoweb.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Calcio: PSG vs Arsenal (Differita/Highlights)",
-      "competizione": "UEFA Champions League - Finale",
-      "canale": "TV8",
-      "note": "Differita o highlights della finale",
-      "fonte": "guidatv.info",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "MotoGP Sprint Race (Replica)",
-      "competizione": "MotoGP GP Italia (Mugello)",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "guidatv.info (da ricerca precedente)",
+      "orario": "04:00",
+      "evento": "Repliche MotoGP 2026 - GP Italia: Gara",
+      "competizione": "MotoGP GP Italia 2026",
+      "canale": "Sky Sport Uno",
+      "note": "(01 Giugno 2026)",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
