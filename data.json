@@ -1,68 +1,77 @@
 {
-  "last_updated": "2026-05-31T15:10:22.178302+02:00",
+  "last_updated": "2026-06-01T19:13:49.794523+02:00",
   "events": [
     {
-      "orario": "09:40",
-      "evento": "Warm Up MotoGP",
-      "competizione": "MotoGP - Gran Premio d'Italia (Mugello)",
-      "canale": "Sky Sport MotoGP, Now",
-      "note": "",
-      "fonte": "https://www.ilfattoquotidiano.it/2026/05/29/motogp-gp-italia-2026-al-mugello-orari-e-dove-vederlo-in-tv/6584210/, https://www.formulapassion.it/motogp/orari-tv-gp-italia-2026-il-mugello-in-diretta-su-sky-e-tv8, https://www.sportface.it/sport-in-tv/sport-in-tv-oggi-31-maggio-giro-ditalia-motogp-e-sportface-tv-su-prime-video-e-samsung-tv/2642533",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Finale Scudetto Under 15 Maschile",
-      "competizione": "Pallavolo - BigMat Finali Nazionali Giovanili",
-      "canale": "Diretta Streaming (Federvolley)",
-      "note": "Volley Treviso vs Socaf Vero Volley Monza",
-      "fonte": "https://www.federvolley.it/news/pallavolo-comunicato-federale-del-30-maggio-2026_2",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "11:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP - Gran Premio d'Italia (Mugello)",
-      "canale": "Sky Sport MotoGP, Now, TV8",
-      "note": "",
-      "fonte": "https://www.ilfattoquotidiano.it/2026/05/29/motogp-gp-italia-2026-al-mugello-orari-e-dove-vederlo-in-tv/6584210/, https://www.formulapassion.it/motogp/orari-tv-gp-italia-2026-il-mugello-in-diretta-su-sky-e-tv8, https://www.sportface.it/sport-in-tv/sport-in-tv-oggi-31-maggio-giro-ditalia-motogp-e-sportface-tv-su-prime-video-e-samsung-tv/2642533",
+      "evento": "Flavio Cobolli vs Zachary Svajda",
+      "competizione": "Tennis - Roland Garros (Ottavi di finale)",
+      "canale": "Eurosport 1/2 (via Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Ottavo di finale del singolare maschile.",
+      "fonte": "Il Fatto Quotidiano.it, SNAI sportnews, ItaloBlogger, Tennis ATP e WTA, Sportface.it, LiveTennis.it, DAZN News IT, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP - Gran Premio d'Italia (Mugello)",
-      "canale": "Sky Sport MotoGP, Now, TV8",
-      "note": "",
-      "fonte": "https://www.ilfattoquotidiano.it/2026/05/29/motogp-gp-italia-2026-al-mugello-orari-e-dove-vederlo-in-tv/6584210/, https://www.formulapassion.it/motogp/orari-tv-gp-italia-2026-il-mugello-in-diretta-su-sky-e-tv8, https://www.sportface.it/sport-in-tv/sport-in-tv-oggi-31-maggio-giro-ditalia-motogp-e-sportface-tv-su-prime-video-e-samsung-tv/2642533",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30*",
-      "evento": "Tennis - Ottavi di finale doppio maschile",
-      "competizione": "Roland Garros 2026",
-      "canale": "Eurosport (via streaming piattaforme: Discovery Plus, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Simone Bolelli (ITA) / Andrea Vavassori (ITA) vs Jakub Paul (SUI) / Marcus Willis (GBR). Seconda partita sul Campo 7, inizio programma ore 11:00.",
-      "fonte": "https://www.oasport.it/2026/05/dove-vedere-in-tv-bolellivavassori-paulwillis-oggi-roland-garros-2026-orario-programma-streaming/, https://www.sportface.it/sport-in-tv/sport-in-tv-oggi-31-maggio-giro-ditalia-motogp-e-sportface-tv-su-prime-video-e-samsung-tv/2642533, https://www.oasport.it/2026/05/roland-garros-2026-oggi-orari-31-maggio-tv-streaming-italiani-in-campo/, https://www.adnkronos.com/roland-garros-da-swiatek-e-zverev-a-ruud-fonseca-programma-di-oggi-e-dove-vederlo-in-tv_3P3WcWz3o4mGfW1C5y6c2bQ1k8H5x9d2P0m0X0p0o2m0x0p0t, https://www.ilfattoquotidiano.it/2026/05/31/roland-garros-litalia-sogna-a-parigi-occasione-doro-per-cobolli-berrettini-e-arnaldi-il-programma-di-lunedi-e-gli-orari/6596956/",
+      "orario": "13:20*",
+      "evento": "Matteo Berrettini vs Juan Manuel Cerundolo",
+      "competizione": "Tennis - Roland Garros (Ottavi di finale)",
+      "canale": "Eurosport 1/2 (via Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Terzo match sul campo Suzanne Lenglen. Orario stimato.",
+      "fonte": "Il Fatto Quotidiano.it, SNAI sportnews, ItaloBlogger, Tennis ATP e WTA, Sportface.it, LiveTennis.it, DAZN News IT, Sky Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "14:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP - Gran Premio d'Italia (Mugello)",
-      "canale": "Sky Sport MotoGP, Now, TV8",
-      "note": "",
-      "fonte": "https://www.ilfattoquotidiano.it/2026/05/29/motogp-gp-italia-2026-al-mugello-orari-e-dove-vederlo-in-tv/6584210/, https://www.formulapassion.it/motogp/orari-tv-gp-italia-2026-il-mugello-in-diretta-su-sky-e-tv8, https://www.ilfattoquotidiano.it/2026/05/29/motogp-gp-italia-2026-al-mugello-orari-e-dove-vederlo-in-tv/6584210/, https://www.sky.it/programmi-sky/sport/motogp/gp-italia/orari, https://www.fanpage.it/sport/motogp/motogp-gp-italia-2026-orari-su-tv8-e-sky-e-dove-vedere-il-gran-premio-del-mugello-in-diretta-tv-e-streaming/, https://www.sportface.it/sport-in-tv/sport-in-tv-oggi-31-maggio-giro-ditalia-motogp-e-sportface-tv-su-prime-video-e-samsung-tv/2642533",
-      "accuratezza_orario": "esatto"
+      "orario": "14:30*",
+      "evento": "Sara Errani/Andrea Vavassori vs Danilina/Tracy",
+      "competizione": "Tennis - Roland Garros (Doppio Misto, Quarti di finale)",
+      "canale": "Eurosport 1/2 (via Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Quarto match sul campo Simonne Mathieu. Orario stimato.",
+      "fonte": "ItaloBlogger, Sportface.it, Tennis ATP e WTA",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "15:00*",
-      "evento": "Tennis - Ottavi di finale doppio misto",
-      "competizione": "Roland Garros 2026",
-      "canale": "Eurosport (via streaming piattaforme: Discovery Plus, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Sara Errani (ITA) / Andrea Vavassori (ITA) vs Fanny Stollar (HUN) / Christian Harrison (USA). Quarta partita sul Campo 7 (stimato), inizio programma ore 11:00.",
-      "fonte": "https://www.oasport.it/2026/05/dove-vedere-in-tv-bolellivavassori-paulwillis-oggi-roland-garros-2026-orario-programma-streaming/, https://www.sportface.it/sport-in-tv/sport-in-tv-oggi-31-maggio-giro-ditalia-motogp-e-sportface-tv-su-prime-video-e-samsung-tv/2642533, https://www.oasport.it/2026/05/roland-garros-2026-oggi-orari-31-maggio-tv-streaming-italiani-in-campo/, https://www.adnkronos.com/roland-garros-da-swiatek-e-zverev-a-ruud-fonseca-programma-di-oggi-e-dove-vederlo-in-tv_3P3WcWz3o4mGfW1C5y6c2bQ1k8H5x9d2P0m0X0p0o2m0x0p0t, https://www.ilfattoquotidiano.it/2026/05/31/roland-garros-litalia-sogna-a-parigi-occasione-doro-per-cobolli-berrettini-e-arnaldi-il-programma-di-lunedi-e-gli-orari/6596956/",
+      "evento": "Matteo Arnaldi vs Frances Tiafoe",
+      "competizione": "Tennis - Roland Garros (Ottavi di finale)",
+      "canale": "Eurosport 1/2 (via Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Quarto match sul campo Suzanne Lenglen. Orario stimato.",
+      "fonte": "Il Fatto Quotidiano.it, SNAI sportnews, ItaloBlogger, Tennis ATP e WTA, Sportface.it, LiveTennis.it, DAZN News IT, Sky Sport",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "09:00",
+      "evento": "Auto Pancotti Vero Volley Monza – Itas Trentino",
+      "competizione": "Volley - Del Monte Junior League (Fase a Gironi)",
+      "canale": "",
+      "note": "Partita della fase a gironi Under 20 maschile.",
+      "fonte": "Umbria 24, Vero Volley, iVolley Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "Valsa Group Modena – Vero Volley Monza",
+      "competizione": "Volley - Del Monte Junior League (Semifinale)",
+      "canale": "",
+      "note": "Semifinale Under 20 maschile. Orario stimato, alcune fonti riportano 19:30.",
+      "fonte": "Lega Pallavolo Serie A, iVolley Magazine",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Danimarca - Italia",
+      "competizione": "Calcio - Europei Under 17",
+      "canale": "Rai Sport HD, Rai Play",
+      "note": "Partita della fase a gironi.",
+      "fonte": "Sportface.it, Programmazione Rai Sport del 01/06/2026 · Guida TV - Lifestyleblog.it, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Turchia - Macedonia del Nord",
+      "competizione": "Calcio - Amichevole Internazionale",
+      "canale": "Sky Sport Calcio, NOW",
+      "note": "Amichevole di calcio.",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
