@@ -1,14 +1,41 @@
 {
-  "last_updated": "2026-06-02T12:00:01.209640+02:00",
+  "last_updated": "2026-06-02T17:55:42.036975+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "Tennis: Roland Garros - Doppio Maschile Quarti di Finale",
-      "competizione": "Roland Garros 2026 (Grande Slam)",
-      "canale": "Eurosport 1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels",
-      "note": "Match con giocatori italiani (Simone Bolelli/Andrea Vavassori vs Petr Nouza/Neil Oberleitner). Orario stimato, terzo match sul Court Philippe Chatrier.",
-      "fonte": "Sportface.it, Sky Sport",
+      "orario": "15:30",
+      "evento": "Finale Del Monte® Junior League 2026: Itas Trentino – Autopancotti Vero Volley Monza",
+      "competizione": "Volley - Del Monte® Junior League",
+      "canale": "YouTube Lega Pallavolo Serie A",
+      "note": "Finale 1°/2° Posto",
+      "fonte": "https://www.legavolley.it/news/del-monte-junior-league-2026-in-finale-volano-trento-e-monza/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "Non prima delle 13:00",
+      "evento": "Roland Garros, Quarti di finale doppio maschile: Simone Bolelli / Andrea Vavassori (ITA) vs Petr Nouza / Neil Oberleitner",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Eurosport, Discovery+, DAZN, HBO Max, TimVision, Prime Video Channels",
+      "note": "Match con giocatori italiani",
+      "fonte": "https://www.oasport.it/2026/06/roland-garros-oggi-in-tv-orari-2-giugno-ordine-di-gioco-streaming/",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Croazia-Belgio",
+      "competizione": "Calcio - Amichevole Internazionale",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-2-giugno-2026-brescia-ascoli-e-amichevoli-internazionali-216503.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Galles-Ghana",
+      "competizione": "Calcio - Amichevole Internazionale",
+      "canale": "Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-2-giugno-2026-brescia-ascoli-e-amichevoli-internazionali-216503.html",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
