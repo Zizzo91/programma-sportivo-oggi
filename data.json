@@ -1,77 +1,59 @@
 {
-  "last_updated": "2026-06-01T19:13:49.794523+02:00",
+  "last_updated": "2026-06-02T04:32:47.476862+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Flavio Cobolli vs Zachary Svajda",
-      "competizione": "Tennis - Roland Garros (Ottavi di finale)",
-      "canale": "Eurosport 1/2 (via Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Ottavo di finale del singolare maschile.",
-      "fonte": "Il Fatto Quotidiano.it, SNAI sportnews, ItaloBlogger, Tennis ATP e WTA, Sportface.it, LiveTennis.it, DAZN News IT, Sky Sport",
+      "orario": "14:00",
+      "evento": "GP Italia: Gara (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del 31 maggio.",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_uno/02-06-2026/pomeriggio/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:20*",
-      "evento": "Matteo Berrettini vs Juan Manuel Cerundolo",
-      "competizione": "Tennis - Roland Garros (Ottavi di finale)",
-      "canale": "Eurosport 1/2 (via Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Terzo match sul campo Suzanne Lenglen. Orario stimato.",
-      "fonte": "Il Fatto Quotidiano.it, SNAI sportnews, ItaloBlogger, Tennis ATP e WTA, Sportface.it, LiveTennis.it, DAZN News IT, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "14:30*",
-      "evento": "Sara Errani/Andrea Vavassori vs Danilina/Tracy",
-      "competizione": "Tennis - Roland Garros (Doppio Misto, Quarti di finale)",
-      "canale": "Eurosport 1/2 (via Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Quarto match sul campo Simonne Mathieu. Orario stimato.",
-      "fonte": "ItaloBlogger, Sportface.it, Tennis ATP e WTA",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "Matteo Arnaldi vs Frances Tiafoe",
-      "competizione": "Tennis - Roland Garros (Ottavi di finale)",
-      "canale": "Eurosport 1/2 (via Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Quarto match sul campo Suzanne Lenglen. Orario stimato.",
-      "fonte": "Il Fatto Quotidiano.it, SNAI sportnews, ItaloBlogger, Tennis ATP e WTA, Sportface.it, LiveTennis.it, DAZN News IT, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Auto Pancotti Vero Volley Monza – Itas Trentino",
-      "competizione": "Volley - Del Monte Junior League (Fase a Gironi)",
-      "canale": "",
-      "note": "Partita della fase a gironi Under 20 maschile.",
-      "fonte": "Umbria 24, Vero Volley, iVolley Magazine",
+      "orario": "15:30",
+      "evento": "Finale: Itas Trentino vs Autopancotti Vero Volley Monza",
+      "competizione": "Del Monte® Junior League 2026",
+      "canale": "YouTube Lega Pallavolo Serie A",
+      "note": "Partita del Vero Volley Monza. Diretta streaming, non TV lineare.",
+      "fonte": "https://www.legavolley.it/news/del-monte-junior-league-2026-in-finale-volano-trento-e-monza/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00*",
-      "evento": "Valsa Group Modena – Vero Volley Monza",
-      "competizione": "Volley - Del Monte Junior League (Semifinale)",
-      "canale": "",
-      "note": "Semifinale Under 20 maschile. Orario stimato, alcune fonti riportano 19:30.",
-      "fonte": "Lega Pallavolo Serie A, iVolley Magazine",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Danimarca - Italia",
-      "competizione": "Calcio - Europei Under 17",
-      "canale": "Rai Sport HD, Rai Play",
-      "note": "Partita della fase a gironi.",
-      "fonte": "Sportface.it, Programmazione Rai Sport del 01/06/2026 · Guida TV - Lifestyleblog.it, Calciomagazine",
+      "orario": "18:00",
+      "evento": "Croazia - Belgio",
+      "competizione": "Amichevole Internazionale",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-calcio-diretta-tv-streaming/blte1a224ae47d25e01, https://www.eurosport.it/calcio/amichevoli/2026/live-croazia-belgio-amichevoli-punteggi-highlights-calcio-02-06-2026_mtc1743621/live.shtml",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:30",
-      "evento": "Turchia - Macedonia del Nord",
-      "competizione": "Calcio - Amichevole Internazionale",
+      "orario": "20:45",
+      "evento": "Galles - Ghana",
+      "competizione": "Amichevole Internazionale",
       "canale": "Sky Sport Calcio, NOW",
-      "note": "Amichevole di calcio.",
-      "fonte": "Calciomagazine",
+      "note": "",
+      "fonte": "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-calcio-diretta-tv-streaming/blte1a224ae47d25e01",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00*",
+      "evento": "Tennis: Roland Garros 2026 - Quarti di Finale Doppio Maschile",
+      "competizione": "ATP Roland Garros 2026",
+      "canale": "Eurosport (streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Orario stimato, non prima delle 13:00 CET. Coppia italiana Bolelli/Vavassori in campo. Tutte le partite del Roland Garros sono trasmesse in Italia in diretta su Eurosport e piattaforme di streaming indicate.",
+      "fonte": "https://www.oasport.it/2026/06/dove-vedere-in-tv-bolelli-vavassori-nouza-oberleitner-roland-garros-2026-orario-programma-streaming/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis: Roland Garros 2026 - Ottavi di Finale Singolare Maschile",
+      "competizione": "ATP Roland Garros 2026",
+      "canale": "Eurosport (streaming su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
+      "note": "Match con italiani: Matteo Berrettini, Matteo Arnaldi, Flavio Cobolli. Orari esatti non noti, le partite iniziano indicativamente dalle 11:00 CET. Tutti i match degli italiani al Roland Garros sono su Eurosport.",
+      "fonte": "https://www.fanpage.it/sport/tennis/roland-garros-2026-cobolli-berrettini-e-arnaldi-in-campo-negli-ottavi-orari-tv-e-programma/, https://www.ilfattoquotidiano.it/2026/06/01/roland-garros-oggi-cobolli-berrettini-e-arnaldi-gli-orari/",
+      "accuratezza_orario": "tba"
     }
   ]
 }
