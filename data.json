@@ -1,40 +1,112 @@
 {
-  "last_updated": "2026-06-02T17:55:42.036975+02:00",
+  "last_updated": "2026-06-02T22:33:47.604453+02:00",
   "events": [
     {
-      "orario": "15:30",
-      "evento": "Finale Del Monte® Junior League 2026: Itas Trentino – Autopancotti Vero Volley Monza",
-      "competizione": "Volley - Del Monte® Junior League",
-      "canale": "YouTube Lega Pallavolo Serie A",
-      "note": "Finale 1°/2° Posto",
-      "fonte": "https://www.legavolley.it/news/del-monte-junior-league-2026-in-finale-volano-trento-e-monza/",
+      "orario": "06:00",
+      "evento": "Brixia Next Gen",
+      "competizione": "Atletica",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7ULC5n9kAK3cKj2vTQOmCRFF5z9UWJRT8cNgNozWO_59q-CuT6XfhT9Z9zsTKUZ9Lbc0ga5I0PiisTKW_kqQPhS4ap_CjFnMP0FPLog1z2aHUJPHL-YP7xE5q00gFBtO1rrhPYr8opAe69BkwnEdvQKRl28-wCpEledHi4XP3NLARMeScKYqZNtlbx6aSledY3edFFsw=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "Non prima delle 13:00",
-      "evento": "Roland Garros, Quarti di finale doppio maschile: Simone Bolelli / Andrea Vavassori (ITA) vs Petr Nouza / Neil Oberleitner",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport, Discovery+, DAZN, HBO Max, TimVision, Prime Video Channels",
-      "note": "Match con giocatori italiani",
-      "fonte": "https://www.oasport.it/2026/06/roland-garros-oggi-in-tv-orari-2-giugno-ordine-di-gioco-streaming/",
+      "orario": "07:30",
+      "evento": "Campionati Italiani Roma: Sciabola - Semifinali e Finali",
+      "competizione": "Scherma",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7ULC5n9kAK3cKj2vTQOmCRFF5z9UWJRT8cNgNozWO_59q-CuT6XfhT9Z9zsTKUZ9Lbc0ga5I0PiisTKW_kqQPhS4ap_CjFnMP0FPLog1z2aHUJPHL-YP7xE5q00gFBtO1rrhPYr8opAe69BkwnEdvQKRl28-wCpEledHi4XP3NLARMeScKYqZNtlbx6aSledY3edFFsw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:20",
+      "evento": "Campionato Italiano Obstacle Discipline Montelibretti",
+      "competizione": "Pentathlon Moderno",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2ujwH6GcWPh1VKyqzzORAKvtxfRRelze66HOz6JDRkbL5rglCM8Pmo2uXx3exvUMfN-2g_U1QYjvlWXgJge7sy9tJdaxFYD4KO_f7qS1WnoACXYkVc4A7z_WoWbdq5793CvWH2p0GzEOcYlW_WF71o2c=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Coppa del Mondo Siviglia - Finali 1a giornata",
+      "competizione": "Canottaggio",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQZ2U1Wrlr16CqiE3C98CLDWFF0zVrno1Uo9OLNRTpXtH1BZsQR1VOGmgzLftnjr_C-iMHPSUk6gwL2QaH8ELHRNz_xPI7c-qMUke6aIfZvbZB4Dw66P07I8IHXPUy5omms7NkgLL1XifLMtTWrCaro7DaE24gIjVgn3WneTBMphR5kaea",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:20",
+      "evento": "Mondiale GP Germania: MX2 - Gara 2",
+      "competizione": "Motocross MXGP",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy8rSKEhpuYcudgscWxUUL36RfhahiFqcC8jSN6lmprLCWLi_qqeFxkami5zsMFbmfBwDAk0occyUVYOzZcfkbD7z6qeaJd_jolKdm9SKv5xNpJqgjMyYrnAKf5M33CoLHIDlB0S0GcN0vf1kxrVaPZVe9Xknf67iwb_kj3TCwCg1ogUsetphW",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:20",
+      "evento": "Mondiale GP Germania: MXGP - Gara 2",
+      "competizione": "Motocross MXGP",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy8rSKEhpuYcudgscWxUUL36RfhahiFqcC8jSN6lmprLCWLi_qqeFxkami5zsMFbmfBwDAk0occyUVYOzZcfkbD7z6qeaJd_jolKdm9SKv5xNpJqgjMyYrnAKf5M33CoLHIDlB0S0GcN0vf1kxrVaPZVe9Xknf67iwb_kj3TCwCg1ogUsetphW",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Roland Garros - Doppio Maschile Quarti di Finale: Bolelli/Vavassori vs Nouza/Oberleitner",
+      "competizione": "Tennis ATP",
+      "canale": "Eurosport 1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels",
+      "note": "3° match dalle 11:00 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvJF-mXpR7ldBfnMegKsLJKspoVVZnbvnVm26qZ23e_TD6-N86pHAVc8h2JI4w9Eb5xDOFXd0sArNtMes6LdsdfPbPaQZx5jlfUdIMbt_tVOryczc_hAw_rKy5CRwLy96gdcgce9WpjFlPS16ECDF7LCEisbfWK-Ymi_04KvFuIGKSWmGTp_QMJLYbDgmnvO6Kbfu9osFRvdcYDRb613v9VESr_8MVn9f5Atih34vZfqAysBqUp7j0ICI4w=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "Croazia-Belgio",
-      "competizione": "Calcio - Amichevole Internazionale",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, NOW",
+      "orario": "16:30",
+      "evento": "Coppa del Mondo Siviglia - Finali 2a giornata",
+      "competizione": "Canottaggio",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-2-giugno-2026-brescia-ascoli-e-amichevoli-internazionali-216503.html",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy8rSKEhpuYcudgscWxUUL36RfhahiFqcC8jSN6lmprLCWLi_qqeFxkami5zsMFbmfBwDAk0occyUVYOzZcfkbD7z6qeaJd_jolKdm9SKv5xNpJqgjMyYrnAKf5M33CoLHIDlB0S0GcN0vf1kxrVaPZVe9Xknf67iwb_kj3TCwCg1ogUsetphW",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Galles-Ghana",
-      "competizione": "Calcio - Amichevole Internazionale",
-      "canale": "Sky Sport Calcio, NOW",
+      "orario": "18:00",
+      "evento": "Amichevole Internazionale: Croazia-Belgio",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Go, NOW",
       "note": "",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-2-giugno-2026-brescia-ascoli-e-amichevoli-internazionali-216503.html",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvJF-mXpR1ldBfnMegKsLJKspoVVZnbvnVm26qZ23e_TD6-N86pHAVc8h2JI4w9Eb5xDOFXd0sArNtMes6LdsdfPbPaQZx5jlfUdIMbt_tVOryczc_hAw_rKy5CRwLy96gdcgce9WpjFlPS16ECDF7LCEisbfWK-Ymi_04KvFuIGKSWmGTp_QMJLYbDgmnvO6Kbfu9osFRvdcYDRb613v9VESr_8MVn9f5Atih34vZfqAysBqUp7j0ICI4w=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Campionati Italiani Roma: Sciabola - Semifinali e Finali",
+      "competizione": "Scherma",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7ULC5n9kAK3cKj2vTQOmCRFF5z9UWJRT8cNgNozWO_59q-CuT6XfhT9Z9zsTKUZ9Lbc0ga5I0PiisTKW_kqQPhS4ap_CjFnMP0FPLog1z2aHUJPHL-YP7xE5q00gFBtO1rrhPYr8opAe69BkwnEdvQKRl28-wCpEledHi4XP3NLARMeScKYqZNtlbx6aSledY3edFFsw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "Amichevole Internazionale: Galles-Ghana",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Calcio, NOW",
+      "note": "In serata, dopo Croazia-Belgio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo7N9xRsRmWVq0B0byphkZ-PVzt3A05HrBwTCooqZtrrJQUcSHC-sil2lpDHf8yICk_d6Dgf6Kqggxr4yiaE2j1xKL5j42lFW6Eu85_WiCcaxU5iySKX046F6ReRXpVhgKCs2oo6PgwEsElh04XUZGr5SX01cO9P2jeE1Eq_oK8g==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "03:30",
+      "evento": "Campionato Italiano Piombino - 10 km distanza olimpica",
+      "competizione": "Nuoto di Fondo",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqfa-nRaOAGl-UZrDV48-5HTbYHkQ74cNgTHjfJUKctAyOjrCeJ1hL2zLlOb6_sKGy9V7VpNCvrL23lU0OBqlLz8hnQDM_Vp94gbW7Cr7BpfRcD-nKrY1L0UbH7tgZ-7zLj4aN1PPjl_zLoRNketMkYPqfLdCnvLWwfPM7XhFV9YDopjrSlpUx2g==",
       "accuratezza_orario": "esatto"
     }
   ]
