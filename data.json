@@ -1,40 +1,49 @@
 {
-  "last_updated": "2026-06-03T04:38:55.826178+02:00",
+  "last_updated": "2026-06-03T18:13:47.629440+02:00",
   "events": [
     {
+      "orario": "20:45",
+      "evento": "Amichevole Calcio: Lussemburgo-Italia",
+      "competizione": "Calcio Internazionale",
+      "canale": "Rai 1 HD",
+      "note": "",
+      "fonte": "OA Sport, Calciomagazine, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "15:00*",
-      "evento": "Roland Garros 2026 - Quarto di Finale Singolare Maschile: Flavio Cobolli (ITA) vs Felix Auger-Aliassime (CAN)",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport (disponibile su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Orario stimato come terzo match sul Court Philippe-Chatrier, dopo l'inizio programma delle 11:00 CET.",
-      "fonte": "Il Fatto Quotidiano, OA Sport, Puntodebreak.com, DAZN News IT",
+      "evento": "Roland Garros - Quarti di Finale Singolare Maschile",
+      "competizione": "Grande Slam ATP",
+      "canale": "Eurosport 1 HD (streaming), DAZN (streaming), Discovery Plus (streaming), HBO Max (streaming), TimVision (streaming), Prime Video Channels (streaming)",
+      "note": "Flavio Cobolli (Italia) vs Felix Auger-Aliassime (Canada)",
+      "fonte": "Sky Sport, OA Sport, DAZN News, Il Post",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:15*",
-      "evento": "Roland Garros 2026 - Quarto di Finale Singolare Maschile: Matteo Berrettini (ITA) vs Matteo Arnaldi (ITA)",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport (disponibile su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Orario stimato, non prima delle 20:15 CET (night session) sul Court Philippe-Chatrier.",
-      "fonte": "Il Fatto Quotidiano, OA Sport, Puntodebreak.com, DAZN News IT, OA Sport, OA Sport",
+      "evento": "Roland Garros - Quarti di Finale Singolare Maschile",
+      "competizione": "Grande Slam ATP",
+      "canale": "Eurosport 1 HD (streaming), DAZN (streaming), Discovery Plus (streaming), HBO Max (streaming), TimVision (streaming), Prime Video Channels (streaming)",
+      "note": "Matteo Berrettini (Italia) vs Matteo Arnaldi (Italia)",
+      "fonte": "Sky Sport, OA Sport, DAZN News, Il Post",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Roland Garros 2026 - Semifinale Doppio Misto: Sara Errani/Andrea Vavassori (ITA) vs Laura Siegemund/Edouard Roger-Vasselin",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport (disponibile su Discovery+, HBO Max, DAZN, TimVision, Prime Video Channels)",
-      "note": "Orario non specificato, parte del programma del 3 giugno.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "tba"
+      "orario": "18:30*",
+      "evento": "Roland Garros - Semifinale Doppio Misto",
+      "competizione": "Grande Slam WTA/ATP",
+      "canale": "Eurosport 1 HD (streaming), DAZN (streaming), Discovery Plus (streaming), HBO Max (streaming), TimVision (streaming), Prime Video Channels (streaming)",
+      "note": "Sara Errani (Italia) / Andrea Vavassori (Italia) vs Laura Siegemund (Germania) / Edouard Roger-Vasselin (Francia)",
+      "fonte": "OA Sport, Sky Sport, DAZN News",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:30",
-      "evento": "Amichevole Internazionale: Lussemburgo – Italia",
-      "competizione": "Calcio - Amichevole Nazionale",
-      "canale": "Rai 1",
-      "note": "Diretta.",
-      "fonte": "Marida Caterini",
+      "orario": "04:00",
+      "evento": "IndyCar Series - Gara Madison",
+      "competizione": "IndyCar Series",
+      "canale": "Sky Sport F1",
+      "note": "Gara in notturna (4 giugno)",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     }
   ]
