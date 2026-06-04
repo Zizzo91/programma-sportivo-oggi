@@ -1,58 +1,76 @@
 {
-  "last_updated": "2026-06-04T04:35:07.483012+02:00",
+  "last_updated": "2026-06-04T11:41:28.522110+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "Roland Garros 2026 - Finale Doppio Misto",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport",
-      "note": "Sara Errani/Andrea Vavassori (ITA) vs Dabrowski/King",
-      "fonte": "https://spaziotennis.com/roland-garros-2026-programma-e-ordine-di-gioco-giovedi-4-giugno/",
+      "orario": "00:00",
+      "evento": "Nascar Euro Series 2026 - GP Francia: Gara 2",
+      "competizione": "Automobilismo",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_arena/04-06-2026/notte/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Roland Garros 2026 - Semifinale Doppio Maschile",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport",
-      "note": "Granollers/Zeballos vs Simone Bolelli/Andrea Vavassori (ITA). L'incontro si giocherà sul Court Suzanne-Lenglen non prima di un 'necessario riposo' dopo il match Halys/Herbert vs Heliovaara/Pattens, che inizia alle 11:00 CET.",
-      "fonte": "https://spaziotennis.com/roland-garros-2026-programma-e-ordine-di-gioco-giovedi-4-giugno/",
-      "accuratezza_orario": "tba"
+      "orario": "07:30",
+      "evento": "Nascar Euro Series 2026 - GP Francia: Gara 1",
+      "competizione": "Automobilismo",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_arena/04-06-2026/mattina/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Fanatec GT World Challenge Europe 2026 - Monza",
+      "competizione": "Automobilismo",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_arena/04-06-2026/mattina/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Errani/Vavassori vs Dabrowski/King (Finale doppio misto)",
+      "competizione": "Roland Garros 2026",
+      "canale": "Eurosport 1",
+      "note": "Diretta streaming su Eurosport 1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels. L'incontro aprirà il programma di giornata sul Court Philippe Chatrier.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_SmcvmQFLDXz9UZVoMnghJIkVfJw2cHDZJyfg1aXJX8KaG95-H5Sbq1N1b0WfiPgE-u9GgclhTPEyEPP-3XwgSrTBstlGq7EdOEIV3kQrDqZp3qwrWdQsUW69a2EnZIHno2hws1ZzJcMRvt4y999MhNLipBUgJZkO5CMO-Z2kGllsxegLIY9PViHkvOHKDIJvHImrYVQYnJ28iSpu0N4h_3e4Wl8rXUBJ",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "MotoGP 2026 - GP Italia: Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Arena",
+      "note": "Replica di una precedente gara di MotoGP.",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_arena/04-06-2026/pomeriggio/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Belgio vs Francia",
+      "competizione": "Europei U17 (Semifinale)",
+      "canale": "RaiPlay Sport 1, UEFA.TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9zWCIovdxDeRXHRLFU6-rIir0lcdW5FF-8U-pqV9p2POlpDeOvXxxlWiDLN8Zj943CuD1FIrXSy_WmROBelGSmQ3JPsA_YTJKl5aGlp6QlMQ0hkDxh10b7EqmAAfJGnhtmQMKQ7YXy-W3UZE6rHZ01nSD5vRjTcUUVag1fbqDyhdGnzRtAVAFd1T4lpIjpI2OBWsSGqL2tPHpXAXcWBxTRZGH6IOqVbsoSojco1Oqc0X8ACNkjgkW7sy2A==",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Italia U17 - Spagna U17",
-      "competizione": "Calcio - Semifinale Europei Under 17",
-      "canale": "Rai Uno, RaiPlay Sport 1",
+      "evento": "Italia vs Spagna",
+      "competizione": "Europei U17 (Semifinale)",
+      "canale": "RaiPlay Sport 1",
       "note": "",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-4-giugno-2026-francia-costa-avorio-e-altre-sfide-del-giorno-137996",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9zWCIovdxDeRXHRLFU6-rIir0lcdW5FF-8U-pqV9p2POlpDeOvXxxlWiDLN8Zj943CuD1FIrXSy_WmROBelGSmQ3JPsA_YTJKl5aGlp6QlMQ0hkDxh10b7EqmAAfJGnhtmQMKQ7YXy-W3UZE6rHZ01nSD5vRjTcUUVag1fbqDyhdGnzRtAVAFd1T4lpIjpI2OBWsSGqL2tPHpXAXcWBxTRZGH6IOqVbsoSojco1Oqc0X8ACNkjgkW7sy2A==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:10",
-      "evento": "Francia - Costa d'Avorio",
-      "competizione": "Calcio - Amichevole Internazionale",
-      "canale": "Cielo, Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-4-giugno-2026-francia-costa-avorio-e-altre-sfide-del-giorno-137996",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Campionati Italiani 2026 - Scherma: Spada a Squadre - Finali",
-      "competizione": "Scherma - Campionato Italiano",
-      "canale": "Rai Sport HD",
-      "note": "Replica da Roma",
-      "fonte": "https://www.guida.tv/canale/raisport-hd/04-06-2026",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Campionati Italiani 2026 - Scherma: Spada a Squadre - Finali",
-      "competizione": "Scherma - Campionato Italiano",
-      "canale": "Rai Sport HD",
-      "note": "Da Roma",
-      "fonte": "https://www.guida.tv/canale/raisport-hd/04-06-2026",
+      "evento": "Francia vs Costa d'Avorio",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "Cielo, Sky Sport Calcio (202)",
+      "note": "Disponibile anche in streaming su SkyGo e NOW.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9zWCIovdxDeRXHRLFU6-rIir0lcdW5FF-8U-pqV9p2POlpDeOvXxxlWiDLN8Zj943CuD1FIrXSy_WmROBelGSmQ3JPsA_YTJKl5aGlp6QlMQ0hkDxh10b7EqmAAfJGnhtmQMKQ7YXy-W3UZE6rHZ01nSD5vRjTcUUVag1fbqDyhdGnzRtAVAFd1T4lpIjpI2OBWsSGqL2tPHpXAXcWBxTRZGH6IOqVbsoSojco1Oqc0X8ACNkjgkW7sy2A==",
       "accuratezza_orario": "esatto"
     }
   ]
