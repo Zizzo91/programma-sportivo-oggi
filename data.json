@@ -1,58 +1,22 @@
 {
-  "last_updated": "2026-06-04T16:31:23.139407+02:00",
+  "last_updated": "2026-06-04T21:52:46.760300+02:00",
   "events": [
     {
       "orario": "12:00",
-      "evento": "Finale Doppio Misto (Errani/Vavassori vs Dabrowski/King)",
-      "competizione": "Tennis - Roland Garros 2026",
+      "evento": "Roland Garros 2026: Finale doppio misto (Errani/Vavassori vs Dabrowski/King)",
+      "competizione": "Tennis - Grande Slam",
       "canale": "Eurosport 1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels",
-      "note": "",
-      "fonte": "OA Sport",
+      "note": "Con atleti italiani Sara Errani e Andrea Vavassori",
+      "fonte": "OA Sport, Sport in tv oggi (giovedì 4 giugno): orari e programma. Dove vedere gli eventi in streaming",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:25",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 3 - GP Monaco 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "F2 & F3 | GP Monaco – Orari e programmazione TV di Sky e TV8 della prima gara europea - Formula.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Conferenza Stampa Piloti",
-      "competizione": "Formula 1 - GP Monaco 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Motori su Sky e NOW dal 4 al 7 giugno: Formula 1 a Monaco, MotoGP in Ungheria e IndyCar in Illinois. Tutti gli orari - Sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 2 - GP Monaco 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "F2 & F3 | GP Monaco – Orari e programmazione TV di Sky e TV8 della prima gara europea - Formula.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Conferenza Stampa Piloti",
-      "competizione": "MotoGP - GP Ungheria 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Motori su Sky e NOW dal 4 al 7 giugno: Formula 1 a Monaco, MotoGP in Ungheria e IndyCar in Illinois. Tutti gli orari - Sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Umana Reyer Venezia – Virtus Olidata Bologna",
-      "competizione": "Basket - LBA Playoff Unipol 2026 (Semifinale Gara 3)",
-      "canale": "LBATV, Sky Sport Uno, Sky Sport Basket",
-      "note": "",
-      "fonte": "LBA Playoff Unipol 2026, la programmazione televisiva delle Gare 3 di semifinali - Lega Basket Serie A",
+      "orario": "19:00",
+      "evento": "Italia U17 - Spagna U17",
+      "competizione": "Calcio - Semifinale Europei Under 17",
+      "canale": "RaiPlay Sport 1",
+      "note": "Semifinale che vede impegnata la nazionale italiana Under 17",
+      "fonte": "Calcio in tv oggi, 4 giugno 2026: Francia-Costa d'Avorio e le altre sfide del giorno",
       "accuratezza_orario": "esatto"
     }
   ]
