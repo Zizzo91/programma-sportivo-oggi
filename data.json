@@ -1,76 +1,58 @@
 {
-  "last_updated": "2026-06-04T11:41:28.522110+02:00",
+  "last_updated": "2026-06-04T16:31:23.139407+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Nascar Euro Series 2026 - GP Francia: Gara 2",
-      "competizione": "Automobilismo",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://guidatv.quotidiano.net/sky_sport_arena/04-06-2026/notte/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:30",
-      "evento": "Nascar Euro Series 2026 - GP Francia: Gara 1",
-      "competizione": "Automobilismo",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://guidatv.quotidiano.net/sky_sport_arena/04-06-2026/mattina/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Fanatec GT World Challenge Europe 2026 - Monza",
-      "competizione": "Automobilismo",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://guidatv.quotidiano.net/sky_sport_arena/04-06-2026/mattina/",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "12:00",
-      "evento": "Errani/Vavassori vs Dabrowski/King (Finale doppio misto)",
-      "competizione": "Roland Garros 2026",
-      "canale": "Eurosport 1",
-      "note": "Diretta streaming su Eurosport 1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels. L'incontro aprirà il programma di giornata sul Court Philippe Chatrier.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_SmcvmQFLDXz9UZVoMnghJIkVfJw2cHDZJyfg1aXJX8KaG95-H5Sbq1N1b0WfiPgE-u9GgclhTPEyEPP-3XwgSrTBstlGq7EdOEIV3kQrDqZp3qwrWdQsUW69a2EnZIHno2hws1ZzJcMRvt4y999MhNLipBUgJZkO5CMO-Z2kGllsxegLIY9PViHkvOHKDIJvHImrYVQYnJ28iSpu0N4h_3e4Wl8rXUBJ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "MotoGP 2026 - GP Italia: Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Arena",
-      "note": "Replica di una precedente gara di MotoGP.",
-      "fonte": "https://guidatv.quotidiano.net/sky_sport_arena/04-06-2026/pomeriggio/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Belgio vs Francia",
-      "competizione": "Europei U17 (Semifinale)",
-      "canale": "RaiPlay Sport 1, UEFA.TV",
+      "evento": "Finale Doppio Misto (Errani/Vavassori vs Dabrowski/King)",
+      "competizione": "Tennis - Roland Garros 2026",
+      "canale": "Eurosport 1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9zWCIovdxDeRXHRLFU6-rIir0lcdW5FF-8U-pqV9p2POlpDeOvXxxlWiDLN8Zj943CuD1FIrXSy_WmROBelGSmQ3JPsA_YTJKl5aGlp6QlMQ0hkDxh10b7EqmAAfJGnhtmQMKQ7YXy-W3UZE6rHZ01nSD5vRjTcUUVag1fbqDyhdGnzRtAVAFd1T4lpIjpI2OBWsSGqL2tPHpXAXcWBxTRZGH6IOqVbsoSojco1Oqc0X8ACNkjgkW7sy2A==",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00",
-      "evento": "Italia vs Spagna",
-      "competizione": "Europei U17 (Semifinale)",
-      "canale": "RaiPlay Sport 1",
+      "orario": "13:25",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 3 - GP Monaco 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9zWCIovdxDeRXHRLFU6-rIir0lcdW5FF-8U-pqV9p2POlpDeOvXxxlWiDLN8Zj943CuD1FIrXSy_WmROBelGSmQ3JPsA_YTJKl5aGlp6QlMQ0hkDxh10b7EqmAAfJGnhtmQMKQ7YXy-W3UZE6rHZ01nSD5vRjTcUUVag1fbqDyhdGnzRtAVAFd1T4lpIjpI2OBWsSGqL2tPHpXAXcWBxTRZGH6IOqVbsoSojco1Oqc0X8ACNkjgkW7sy2A==",
+      "fonte": "F2 & F3 | GP Monaco – Orari e programmazione TV di Sky e TV8 della prima gara europea - Formula.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:10",
-      "evento": "Francia vs Costa d'Avorio",
-      "competizione": "Calcio (Amichevole)",
-      "canale": "Cielo, Sky Sport Calcio (202)",
-      "note": "Disponibile anche in streaming su SkyGo e NOW.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9zWCIovdxDeRXHRLFU6-rIir0lcdW5FF-8U-pqV9p2POlpDeOvXxxlWiDLN8Zj943CuD1FIrXSy_WmROBelGSmQ3JPsA_YTJKl5aGlp6QlMQ0hkDxh10b7EqmAAfJGnhtmQMKQ7YXy-W3UZE6rHZ01nSD5vRjTcUUVag1fbqDyhdGnzRtAVAFd1T4lpIjpI2OBWsSGqL2tPHpXAXcWBxTRZGH6IOqVbsoSojco1Oqc0X8ACNkjgkW7sy2A==",
+      "orario": "14:30",
+      "evento": "Conferenza Stampa Piloti",
+      "competizione": "Formula 1 - GP Monaco 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Motori su Sky e NOW dal 4 al 7 giugno: Formula 1 a Monaco, MotoGP in Ungheria e IndyCar in Illinois. Tutti gli orari - Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 2 - GP Monaco 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "F2 & F3 | GP Monaco – Orari e programmazione TV di Sky e TV8 della prima gara europea - Formula.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Conferenza Stampa Piloti",
+      "competizione": "MotoGP - GP Ungheria 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Motori su Sky e NOW dal 4 al 7 giugno: Formula 1 a Monaco, MotoGP in Ungheria e IndyCar in Illinois. Tutti gli orari - Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Umana Reyer Venezia – Virtus Olidata Bologna",
+      "competizione": "Basket - LBA Playoff Unipol 2026 (Semifinale Gara 3)",
+      "canale": "LBATV, Sky Sport Uno, Sky Sport Basket",
+      "note": "",
+      "fonte": "LBA Playoff Unipol 2026, la programmazione televisiva delle Gare 3 di semifinali - Lega Basket Serie A",
       "accuratezza_orario": "esatto"
     }
   ]
