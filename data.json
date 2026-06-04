@@ -1,58 +1,58 @@
 {
-  "last_updated": "2026-06-03T22:45:55.876279+02:00",
+  "last_updated": "2026-06-04T04:35:07.483012+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "Tennis - Quarti di finale singolare maschile: Flavio Cobolli (ITA) vs Felix Auger-Aliassime (CAN)",
-      "competizione": "Roland Garros 2026",
-      "canale": "Eurosport 1 HD, DAZN (tramite Eurosport), Discovery Plus, HBO Max, TimVision, Prime Video Channels",
-      "note": "Terzo match sul Court Philippe Chatrier, orario stimato.",
-      "fonte": "OA Sport, Sky Sport, DAZN News IT",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "11:00*",
-      "evento": "Tennis - Semifinale doppio misto: Sara Errani (ITA)/Andrea Vavassori (ITA) vs Laura Siegemund/Edouard Roger-Vasselin",
-      "competizione": "Roland Garros 2026",
-      "canale": "Eurosport 1 HD, DAZN (tramite Eurosport), Discovery Plus, HBO Max, TimVision, Prime Video Channels",
-      "note": "Quarto match sul Court Suzanne Lenglen, orario stimato.",
-      "fonte": "OA Sport, DAZN News IT",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Basket - Semifinali Playoff Gara 3: EA7 Emporio Armani Milano - Germani Brescia",
-      "competizione": "LBA Playoff Unipol 2026",
-      "canale": "Cielo, LBA TV, Sky Sport Uno, Sky Sport Basket",
-      "note": "",
-      "fonte": "Lega Pallacanestro Serie A, OA Sport",
+      "orario": "12:00",
+      "evento": "Roland Garros 2026 - Finale Doppio Misto",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Eurosport",
+      "note": "Sara Errani/Andrea Vavassori (ITA) vs Dabrowski/King",
+      "fonte": "https://spaziotennis.com/roland-garros-2026-programma-e-ordine-di-gioco-giovedi-4-giugno/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:15*",
-      "evento": "Tennis - Quarti di finale singolare maschile: Matteo Berrettini (ITA) vs Matteo Arnaldi (ITA)",
-      "competizione": "Roland Garros 2026",
-      "canale": "Eurosport 1 HD, DAZN (tramite Eurosport), Discovery Plus, HBO Max, TimVision, Prime Video Channels",
-      "note": "Non prima delle 20:15 sul Court Philippe Chatrier. Orario stimato in base all'andamento dei match precedenti.",
-      "fonte": "OA Sport, Sky Sport, Il Fatto Quotidiano, DAZN News IT",
-      "accuratezza_orario": "stimato"
+      "orario": "TBA",
+      "evento": "Roland Garros 2026 - Semifinale Doppio Maschile",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Eurosport",
+      "note": "Granollers/Zeballos vs Simone Bolelli/Andrea Vavassori (ITA). L'incontro si giocherà sul Court Suzanne-Lenglen non prima di un 'necessario riposo' dopo il match Halys/Herbert vs Heliovaara/Pattens, che inizia alle 11:00 CET.",
+      "fonte": "https://spaziotennis.com/roland-garros-2026-programma-e-ordine-di-gioco-giovedi-4-giugno/",
+      "accuratezza_orario": "tba"
     },
     {
-      "orario": "20:45",
-      "evento": "Calcio - Amichevole: Lussemburgo-Italia",
-      "competizione": "Amichevole Internazionale",
-      "canale": "Rai 1 HD, Rai Play",
+      "orario": "19:00",
+      "evento": "Italia U17 - Spagna U17",
+      "competizione": "Calcio - Semifinale Europei Under 17",
+      "canale": "Rai Uno, RaiPlay Sport 1",
       "note": "",
-      "fonte": "Libero, OA Sport",
+      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-4-giugno-2026-francia-costa-avorio-e-altre-sfide-del-giorno-137996",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Calcio - Amichevole: Paesi Bassi-Algeria",
-      "competizione": "Amichevole Internazionale",
-      "canale": "Sky Sport Calcio, Sky Go, NOW",
+      "orario": "21:10",
+      "evento": "Francia - Costa d'Avorio",
+      "competizione": "Calcio - Amichevole Internazionale",
+      "canale": "Cielo, Sky Sport Calcio, NOW",
       "note": "",
-      "fonte": "Libero, OA Sport",
+      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-4-giugno-2026-francia-costa-avorio-e-altre-sfide-del-giorno-137996",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Campionati Italiani 2026 - Scherma: Spada a Squadre - Finali",
+      "competizione": "Scherma - Campionato Italiano",
+      "canale": "Rai Sport HD",
+      "note": "Replica da Roma",
+      "fonte": "https://www.guida.tv/canale/raisport-hd/04-06-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Campionati Italiani 2026 - Scherma: Spada a Squadre - Finali",
+      "competizione": "Scherma - Campionato Italiano",
+      "canale": "Rai Sport HD",
+      "note": "Da Roma",
+      "fonte": "https://www.guida.tv/canale/raisport-hd/04-06-2026",
       "accuratezza_orario": "esatto"
     }
   ]
