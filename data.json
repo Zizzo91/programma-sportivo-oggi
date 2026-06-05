@@ -1,22 +1,148 @@
 {
-  "last_updated": "2026-06-04T21:52:46.760300+02:00",
+  "last_updated": "2026-06-05T11:27:26.943664+02:00",
   "events": [
     {
+      "orario": "09:00",
+      "evento": "Prove Libere 1",
+      "competizione": "Moto3 GP Ungheria 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "note": null,
+      "fonte": "OA Sport, Motosprint",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:50",
+      "evento": "Prove Libere 1",
+      "competizione": "Moto2 GP Ungheria 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "note": null,
+      "fonte": "OA Sport, Motosprint",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "Prove Libere 1",
+      "competizione": "MotoGP GP Ungheria 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "note": null,
+      "fonte": "OA Sport, Motosprint",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:05",
+      "evento": "Qualifiche Gruppo A",
+      "competizione": "F3 GP Monaco 2026",
+      "canale": "Sky Sport F1",
+      "note": null,
+      "fonte": "F1ingenerale, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:29",
+      "evento": "Qualifiche Gruppo B",
+      "competizione": "F3 GP Monaco 2026",
+      "canale": "Sky Sport F1",
+      "note": null,
+      "fonte": "F1ingenerale, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "12:00",
-      "evento": "Roland Garros 2026: Finale doppio misto (Errani/Vavassori vs Dabrowski/King)",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Eurosport 1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels",
-      "note": "Con atleti italiani Sara Errani e Andrea Vavassori",
-      "fonte": "OA Sport, Sport in tv oggi (giovedì 4 giugno): orari e programma. Dove vedere gli eventi in streaming",
+      "evento": "Semifinale doppio uomini (Bolelli/Vavassori vs Granollers/Zeballos)",
+      "competizione": "Tennis Roland Garros 2026",
+      "canale": "SuperTennis HD, Eurosport1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels",
+      "note": "Presenti gli italiani Simone Bolelli e Andrea Vavassori.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Practice",
+      "competizione": "Moto3 GP Ungheria 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Motosprint",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Prove Libere 1 (FP1)",
+      "competizione": "F1 GP Monaco 2026",
+      "canale": "Sky Sport F1 HD",
+      "note": null,
+      "fonte": "Automoto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Practice",
+      "competizione": "Moto2 GP Ungheria 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Motosprint",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Practice",
+      "competizione": "MotoGP GP Ungheria 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Motosprint",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:10",
+      "evento": "Qualifiche Gruppo A",
+      "competizione": "F2 GP Monaco 2026",
+      "canale": "Sky Sport F1",
+      "note": null,
+      "fonte": "F1ingenerale, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:34",
+      "evento": "Qualifiche Gruppo B",
+      "competizione": "F2 GP Monaco 2026",
+      "canale": "Sky Sport F1",
+      "note": null,
+      "fonte": "F1ingenerale, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Prove Libere 2 (FP2)",
+      "competizione": "F1 GP Monaco 2026",
+      "canale": "Sky Sport F1 HD",
+      "note": null,
+      "fonte": "Automoto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Sorteggio Calendario Serie A 2026/27",
+      "competizione": "Calcio Serie A",
+      "canale": "DAZN, Sky Sport 24, NOW, SportMediaset, Sportitalia, canali ufficiali Lega Serie A",
+      "note": "Non è un evento di gioco ma un sorteggio.",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Italia U17 - Spagna U17",
-      "competizione": "Calcio - Semifinale Europei Under 17",
-      "canale": "RaiPlay Sport 1",
-      "note": "Semifinale che vede impegnata la nazionale italiana Under 17",
-      "fonte": "Calcio in tv oggi, 4 giugno 2026: Francia-Costa d'Avorio e le altre sfide del giorno",
+      "evento": "Seconda semifinale singolare maschile (Matteo Arnaldi vs Flavio Cobolli)",
+      "competizione": "Tennis Roland Garros 2026",
+      "canale": "Nove, nove.it, Eurosport 1 HD, DAZN, Discovery Plus, HBO Max, TimVision, Prime Video Channels",
+      "note": "Derby italiano.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Amichevole",
+      "competizione": "Calcio Amichevole: Ungheria vs Finlandia",
+      "canale": "Sky Sport Uno (201), Sky Sport Calcio (202)",
+      "note": null,
+      "fonte": "OA Sport, Calciomagazine",
       "accuratezza_orario": "esatto"
     }
   ]
