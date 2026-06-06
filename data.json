@@ -1,85 +1,157 @@
 {
-  "last_updated": "2026-06-06T10:22:29.701762+02:00",
+  "last_updated": "2026-06-06T15:05:28.100750+02:00",
   "events": [
     {
-      "orario": "10:10",
-      "evento": "Qualifiche",
+      "orario": "08:40",
+      "evento": "Moto3 Prove Libere 2",
       "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport (diretta), TV8 (diretta)",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "https://sport.sky.it/motogp/2026/calendario-date-orari-gp, https://www.oasport.it/2026/06/quando-motogp-e-f1-oggi-sabato-6-giugno-orari-qualifiche-e-sprint-streaming-programma-tv8-e-sky/",
+      "fonte": "OA Sport, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:25",
+      "evento": "Moto2 Prove Libere 2",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "OA Sport, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:10",
+      "evento": "MotoGP Prove Libere 2",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion, OA Sport, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:50",
+      "evento": "MotoGP Qualifiche 1 (Q1)",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "OA Sport, FormulaPassion, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:15",
+      "evento": "MotoGP Qualifiche 2 (Q2)",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "OA Sport, FormulaPassion, Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Prove Libere 3",
-      "competizione": "Formula 1 GP Monaco",
-      "canale": "Sky Sport F1, Sky Sport 4K, Sky Sport Uno",
+      "evento": "F1 Prove Libere 3",
+      "competizione": "F1 GP Monaco",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://sport.sky.it/formula-1/2026/calendario-date-orari-gran-premi, https://it.motorsport.com/f1/news/formula-1-calendario-2026-date-e-orari-di-sessioni-e-gare/10597375/, https://www.oasport.it/2026/06/quando-motogp-e-f1-oggi-sabato-6-giugno-orari-qualifiche-e-sprint-streaming-programma-tv8-e-sky/, https://www.ilfattoquotidiano.it/2026/06/06/gp-monaco-f1-e-motogp-ungheria-2026-orari-e-dove-vederli-in-tv/",
+      "fonte": "Il Fatto Quotidiano, F1ingenerale, Corriere dello Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:45",
+      "evento": "Moto3 Qualifiche 1 (Q1)",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:10",
+      "evento": "Moto3 Qualifiche 2 (Q2)",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:40",
+      "evento": "Moto2 Qualifiche 1 (Q1)",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Moto2 Qualifiche 2 (Q2)",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "OA Sport, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Amichevole Internazionale: Belgio-Tunisia",
-      "competizione": "Calcio",
+      "evento": "Belgio-Tunisia",
+      "competizione": "Amichevole Internazionale Calcio",
       "canale": "Sky Sport Calcio, NOW",
       "note": "",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-6-giugno-2026-amichevoli-internazionali-in-primo-piano-640474.html",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Gara Sprint",
+      "evento": "MotoGP Sprint Race",
       "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport (diretta), TV8 (diretta)",
-      "note": "",
-      "fonte": "https://sport.sky.it/motogp/2026/calendario-date-orari-gp, https://www.oasport.it/2026/06/quando-motogp-e-f1-oggi-sabato-6-giugno-orari-qualifiche-e-sprint-streaming-programma-tv8-e-sky/",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "Corriere dello Sport, FormulaPassion, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Qualifiche",
-      "competizione": "Formula 1 GP Monaco",
-      "canale": "Sky Sport F1, Sky Sport 4K, Sky Sport Uno",
+      "evento": "F1 Qualifiche",
+      "competizione": "F1 GP Monaco",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://sport.sky.it/formula-1/2026/calendario-date-orari-gran-premi, https://it.motorsport.com/f1/news/formula-1-calendario-2026-date-e-orari-di-sessioni-e-gare/10597375/, https://www.oasport.it/2026/06/quando-motogp-e-f1-oggi-sabato-6-giugno-orari-qualifiche-e-sprint-streaming-programma-tv8-e-sky/, https://www.ilfattoquotidiano.it/2026/06/06/gp-monaco-f1-e-motogp-ungheria-2026-orari-e-dove-vederli-in-tv/",
+      "fonte": "OA Sport, Il Fatto Quotidiano, F1ingenerale, Corriere dello Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Repliche Qualifiche",
-      "competizione": "Formula 1 GP Monaco",
+      "evento": "F1 Qualifiche (Differita)",
+      "competizione": "F1 GP Monaco",
       "canale": "TV8",
-      "note": "Differita",
-      "fonte": "https://www.ilfattoquotidiano.it/2026/06/06/gp-monaco-f1-e-motogp-ungheria-2026-orari-e-dove-vederli-in-tv/",
+      "note": "",
+      "fonte": "Formula 1, GP Monaco 2026: gli orari TV8 e Sky, Il Fatto Quotidiano, F1ingenerale, Corriere dello Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:45",
-      "evento": "Amichevole Internazionale: Portogallo-Cile",
-      "competizione": "Calcio",
+      "evento": "Portogallo-Cile",
+      "competizione": "Amichevole Internazionale Calcio",
       "canale": "Sky Sport Calcio, NOW",
       "note": "",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-6-giugno-2026-amichevoli-internazionali-in-primo-piano-640474.html",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Gara 4 Semifinali: Umana Reyer Venezia – Virtus Olidata Bologna",
-      "competizione": "LBA Playoff Unipol",
-      "canale": "LBATV, Sky Sport Uno, Sky Sport Basket",
-      "note": "",
-      "fonte": "https://www.legabasket.it/news/126903/lba-playoff-unipol-2026-la-programmazione-televisiva-delle-gare-4-di-semifinali",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Amichevole Internazionale: Inghilterra-Nuova Zelanda",
-      "competizione": "Calcio",
+      "evento": "Inghilterra-Nuova Zelanda",
+      "competizione": "Amichevole Internazionale Calcio",
       "canale": "Sky Sport Calcio, NOW",
       "note": "",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-6-giugno-2026-amichevoli-internazionali-in-primo-piano-640474.html",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:45",
+      "evento": "MotoGP Sprint Race (Replica)",
+      "competizione": "MotoGP GP Ungheria",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
