@@ -1,158 +1,95 @@
 {
-  "last_updated": "2026-06-06T15:05:28.100750+02:00",
+  "last_updated": "2026-06-07T10:42:47.792558+02:00",
   "events": [
     {
-      "orario": "08:40",
-      "evento": "Moto3 Prove Libere 2",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:25",
-      "evento": "Moto2 Prove Libere 2",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:10",
-      "evento": "MotoGP Prove Libere 2",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "FormulaPassion, OA Sport, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:50",
-      "evento": "MotoGP Qualifiche 1 (Q1)",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "OA Sport, FormulaPassion, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "MotoGP Qualifiche 2 (Q2)",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "OA Sport, FormulaPassion, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "F1 Prove Libere 3",
-      "competizione": "F1 GP Monaco",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, F1ingenerale, Corriere dello Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Moto3 Qualifiche 1 (Q1)",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:10",
-      "evento": "Moto3 Qualifiche 2 (Q2)",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:40",
-      "evento": "Moto2 Qualifiche 1 (Q1)",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:05",
-      "evento": "Moto2 Qualifiche 2 (Q2)",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Belgio-Tunisia",
-      "competizione": "Amichevole Internazionale Calcio",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "MotoGP Sprint Race",
-      "competizione": "MotoGP GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "Corriere dello Sport, FormulaPassion, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "F1 Qualifiche",
-      "competizione": "F1 GP Monaco",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "OA Sport, Il Fatto Quotidiano, F1ingenerale, Corriere dello Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "F1 Qualifiche (Differita)",
-      "competizione": "F1 GP Monaco",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Formula 1, GP Monaco 2026: gli orari TV8 e Sky, Il Fatto Quotidiano, F1ingenerale, Corriere dello Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:45",
-      "evento": "Portogallo-Cile",
-      "competizione": "Amichevole Internazionale Calcio",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Inghilterra-Nuova Zelanda",
-      "competizione": "Amichevole Internazionale Calcio",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:45",
-      "evento": "MotoGP Sprint Race (Replica)",
-      "competizione": "MotoGP GP Ungheria",
+      "orario": "02:00",
+      "evento": "MotoGP - GP Ungheria - Moto2 Gara",
+      "competizione": "Campionato del Mondo MotoGP",
       "canale": "Sky Sport Uno",
       "note": "",
       "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "MotoGP - GP Ungheria - Moto3 Gara",
+      "competizione": "Campionato del Mondo MotoGP",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:40",
+      "evento": "MotoGP - GP Ungheria - Warm-up",
+      "competizione": "Campionato del Mondo MotoGP",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "MotoGP - GP Ungheria - Gara",
+      "competizione": "Campionato del Mondo MotoGP",
+      "canale": "Sky Sport MotoGP, Sky Sport 1",
+      "note": "Diretta",
+      "fonte": "OA Sport, ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Formula 1 - GP Monaco - Gara",
+      "competizione": "Campionato del Mondo Formula 1",
+      "canale": "Sky Sport F1, Sky Sport 1",
+      "note": "Diretta",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Roland Garros - Finale Singolo Uomini (Flavio Cobolli vs Alexander Zverev)",
+      "competizione": "Grand Slam - Roland Garros",
+      "canale": "Eurosport",
+      "note": "",
+      "fonte": "OA Sport, ProgrammiTV.com",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Formula 1 - GP Monaco - Gara",
+      "competizione": "Campionato del Mondo Formula 1",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "FormulaPassion, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Campionati Europei U17 - Finale: Italia - Belgio",
+      "competizione": "Euro U17",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Amichevole Internazionale: Grecia - Italia",
+      "competizione": "Calcio Internazionale",
+      "canale": "Rai 1",
+      "note": "",
+      "fonte": "ProgrammiTV.com, Corriere dello Sport, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:45",
+      "evento": "Euro U17 2026 - Finale",
+      "competizione": "Euro U17",
+      "canale": "Rai Sport HD",
+      "note": "Possibile replica della finale.",
+      "fonte": "Guida TV, ProgrammiTV.com",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
