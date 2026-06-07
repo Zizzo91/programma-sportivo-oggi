@@ -1,95 +1,113 @@
 {
-  "last_updated": "2026-06-07T10:42:47.792558+02:00",
+  "last_updated": "2026-06-07T21:03:58.245253+02:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "MotoGP - GP Ungheria - Moto2 Gara",
-      "competizione": "Campionato del Mondo MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "MotoGP - GP Ungheria - Moto3 Gara",
-      "competizione": "Campionato del Mondo MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "09:40",
-      "evento": "MotoGP - GP Ungheria - Warm-up",
-      "competizione": "Campionato del Mondo MotoGP",
-      "canale": "Sky Sport",
+      "evento": "Warm Up MotoGP",
+      "competizione": "MotoGP, GP Ungheria 2026",
+      "canale": "Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "OA Sport",
+      "fonte": "OA Sport / Icon Magazine / Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP, GP Ungheria 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport / Icon Magazine / Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP, GP Ungheria 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport / Icon Magazine / Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Differita Gara Moto3",
+      "competizione": "MotoGP, GP Ungheria 2026",
+      "canale": "TV8",
+      "note": "Repliche/Differite per orari scomodi (regola utente)",
+      "fonte": "Icon Magazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00",
-      "evento": "MotoGP - GP Ungheria - Gara",
-      "competizione": "Campionato del Mondo MotoGP",
-      "canale": "Sky Sport MotoGP, Sky Sport 1",
-      "note": "Diretta",
-      "fonte": "OA Sport, ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Formula 1 - GP Monaco - Gara",
-      "competizione": "Campionato del Mondo Formula 1",
-      "canale": "Sky Sport F1, Sky Sport 1",
-      "note": "Diretta",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Roland Garros - Finale Singolo Uomini (Flavio Cobolli vs Alexander Zverev)",
-      "competizione": "Grand Slam - Roland Garros",
-      "canale": "Eurosport",
+      "evento": "Gara MotoGP",
+      "competizione": "MotoGP, GP Ungheria 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "OA Sport, ProgrammiTV.com",
-      "accuratezza_orario": "stimato"
+      "fonte": "OA Sport / Icon Magazine / Sportface.it / Sportmediaset",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:15",
+      "evento": "Differita Gara Moto2",
+      "competizione": "MotoGP, GP Ungheria 2026",
+      "canale": "TV8",
+      "note": "Repliche/Differite per orari scomodi (regola utente)",
+      "fonte": "Icon Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Finale Maschile: Flavio Cobolli vs Alexander Zverev",
+      "competizione": "Tennis, Roland Garros 2026",
+      "canale": "Nove, Eurosport 1/2, Discovery+, DAZN, NOW, TimVision, Prime Video Channels",
+      "note": "Flavio Cobolli in campo",
+      "fonte": "La Nuova Sardegna / Sportface.it / Libero / Goal.com / Sportmediaset",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Gara F1",
+      "competizione": "Formula 1, GP Monaco 2026",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "L'Automobile - ACI / Formula 1, GP Monaco 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming - Fanpage.it / Motorsport.com / FormulaPassion / Sportface.it / Sportmediaset",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Differita Gara MotoGP",
+      "competizione": "MotoGP, GP Ungheria 2026",
+      "canale": "TV8",
+      "note": "Repliche/Differite per orari scomodi (regola utente)",
+      "fonte": "Icon Magazine",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Formula 1 - GP Monaco - Gara",
-      "competizione": "Campionato del Mondo Formula 1",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "FormulaPassion, OA Sport",
+      "evento": "Differita Gara F1",
+      "competizione": "Formula 1, GP Monaco 2026",
+      "canale": "TV8, tv8.it",
+      "note": "Repliche/Differite per orari scomodi (regola utente)",
+      "fonte": "Formula 1, GP Monaco 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming - Fanpage.it / FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Campionati Europei U17 - Finale: Italia - Belgio",
-      "competizione": "Euro U17",
-      "canale": "Rai Sport",
+      "evento": "Finale Europei Under 17: Belgio-Italia",
+      "competizione": "Calcio",
+      "canale": "RaiPlay Sport 1",
       "note": "",
-      "fonte": "Libero",
+      "fonte": "Calcio in tv oggi. 7 giugno 2026: Grecia-Italia e Ascoli-Brescia in primo piano / Libero",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Amichevole Internazionale: Grecia - Italia",
-      "competizione": "Calcio Internazionale",
+      "orario": "21:00",
+      "evento": "Amichevole: Grecia-Italia",
+      "competizione": "Calcio",
       "canale": "Rai 1",
       "note": "",
-      "fonte": "ProgrammiTV.com, Corriere dello Sport, Libero",
+      "fonte": "Calcio in tv oggi. 7 giugno 2026: Grecia-Italia e Ascoli-Brescia in primo piano / Libero / OA Sport",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:45",
-      "evento": "Euro U17 2026 - Finale",
-      "competizione": "Euro U17",
-      "canale": "Rai Sport HD",
-      "note": "Possibile replica della finale.",
-      "fonte": "Guida TV, ProgrammiTV.com",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
