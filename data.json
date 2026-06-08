@@ -1,112 +1,49 @@
 {
-  "last_updated": "2026-06-07T21:03:58.245253+02:00",
+  "last_updated": "2026-06-08T04:33:08.581814+02:00",
   "events": [
     {
-      "orario": "09:40",
-      "evento": "Warm Up MotoGP",
-      "competizione": "MotoGP, GP Ungheria 2026",
-      "canale": "Sky Sport MotoGP (208)",
+      "orario": "18:15",
+      "evento": "Italia U21 – Albania U21",
+      "competizione": "Calcio - Amichevole Internazionale U21",
+      "canale": "RAI 2",
       "note": "",
-      "fonte": "OA Sport / Icon Magazine / Sportface.it",
+      "fonte": "Calciomagazine, Goal.com Italia",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP, GP Ungheria 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "orario": "21:10",
+      "evento": "Francia – Irlanda del Nord",
+      "competizione": "Calcio - Amichevole Internazionale",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, NOW",
       "note": "",
-      "fonte": "OA Sport / Icon Magazine / Sportface.it",
+      "fonte": "Calciomagazine, Goal.com Italia",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP, GP Ungheria 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
-      "note": "",
-      "fonte": "OA Sport / Icon Magazine / Sportface.it",
+      "orario": "00:00",
+      "evento": "FIFA - Le città Mondiali",
+      "competizione": "Sport - Magazine",
+      "canale": "Raisport HD",
+      "note": "Probabile replica/documentario",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:00",
-      "evento": "Differita Gara Moto3",
-      "competizione": "MotoGP, GP Ungheria 2026",
-      "canale": "TV8",
-      "note": "Repliche/Differite per orari scomodi (regola utente)",
-      "fonte": "Icon Magazine",
+      "orario": "00:30",
+      "evento": "Serie A2 2025/2026 - Finale Gara 1",
+      "competizione": "Basket - Serie A2",
+      "canale": "Raisport HD",
+      "note": "Probabile replica",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP, GP Ungheria 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
-      "note": "",
-      "fonte": "OA Sport / Icon Magazine / Sportface.it / Sportmediaset",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:15",
-      "evento": "Differita Gara Moto2",
-      "competizione": "MotoGP, GP Ungheria 2026",
-      "canale": "TV8",
-      "note": "Repliche/Differite per orari scomodi (regola utente)",
-      "fonte": "Icon Magazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Finale Maschile: Flavio Cobolli vs Alexander Zverev",
-      "competizione": "Tennis, Roland Garros 2026",
-      "canale": "Nove, Eurosport 1/2, Discovery+, DAZN, NOW, TimVision, Prime Video Channels",
-      "note": "Flavio Cobolli in campo",
-      "fonte": "La Nuova Sardegna / Sportface.it / Libero / Goal.com / Sportmediaset",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Gara F1",
-      "competizione": "Formula 1, GP Monaco 2026",
-      "canale": "Sky Sport F1, NOW",
-      "note": "",
-      "fonte": "L'Automobile - ACI / Formula 1, GP Monaco 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming - Fanpage.it / Motorsport.com / FormulaPassion / Sportface.it / Sportmediaset",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Differita Gara MotoGP",
-      "competizione": "MotoGP, GP Ungheria 2026",
-      "canale": "TV8",
-      "note": "Repliche/Differite per orari scomodi (regola utente)",
-      "fonte": "Icon Magazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Differita Gara F1",
-      "competizione": "Formula 1, GP Monaco 2026",
-      "canale": "TV8, tv8.it",
-      "note": "Repliche/Differite per orari scomodi (regola utente)",
-      "fonte": "Formula 1, GP Monaco 2026: gli orari TV8 e Sky e dove vedere la F1 in TV e in streaming - Fanpage.it / FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Finale Europei Under 17: Belgio-Italia",
-      "competizione": "Calcio",
-      "canale": "RaiPlay Sport 1",
-      "note": "",
-      "fonte": "Calcio in tv oggi. 7 giugno 2026: Grecia-Italia e Ascoli-Brescia in primo piano / Libero",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Amichevole: Grecia-Italia",
-      "competizione": "Calcio",
-      "canale": "Rai 1",
-      "note": "",
-      "fonte": "Calcio in tv oggi. 7 giugno 2026: Grecia-Italia e Ascoli-Brescia in primo piano / Libero / OA Sport",
+      "orario": "02:30",
+      "evento": "Diamond League 2026 - Oslo",
+      "competizione": "Atletica Leggera - Diamond League",
+      "canale": "Raisport HD",
+      "note": "Probabile replica",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
