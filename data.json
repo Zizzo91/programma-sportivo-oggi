@@ -1,49 +1,13 @@
 {
-  "last_updated": "2026-06-08T04:33:08.581814+02:00",
+  "last_updated": "2026-06-08T12:14:35.585219+02:00",
   "events": [
     {
-      "orario": "18:15",
-      "evento": "Italia U21 – Albania U21",
-      "competizione": "Calcio - Amichevole Internazionale U21",
-      "canale": "RAI 2",
-      "note": "",
-      "fonte": "Calciomagazine, Goal.com Italia",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:10",
-      "evento": "Francia – Irlanda del Nord",
-      "competizione": "Calcio - Amichevole Internazionale",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "Calciomagazine, Goal.com Italia",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "FIFA - Le città Mondiali",
-      "competizione": "Sport - Magazine",
-      "canale": "Raisport HD",
-      "note": "Probabile replica/documentario",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:30",
-      "evento": "Serie A2 2025/2026 - Finale Gara 1",
-      "competizione": "Basket - Serie A2",
-      "canale": "Raisport HD",
-      "note": "Probabile replica",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Diamond League 2026 - Oslo",
-      "competizione": "Atletica Leggera - Diamond League",
-      "canale": "Raisport HD",
-      "note": "Probabile replica",
-      "fonte": "Guida TV",
+      "orario": "11:00",
+      "evento": "Mattia Bellucci vs Alejandro Davidovich Fokina (primo turno)",
+      "competizione": "ATP 250 Stoccarda",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Diretta tv e streaming su Sky Go, NOW e Tennis TV. Primo match sul campo centrale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6yGd5dVLqdRZ1SE9nU33ga_9j8Mx2l4ZYzgk5U0K3lf2b9uM2V3QKNV2lrNd7ACda8SXw2exM1CMfWtUq7oih_kem--67VUKVTmr43-KgxqkAEfTfH2bHqLsotSg2Zoh-3I67bwr_U2Lot6q2Ven0GtNN-VfbAoZ2zZ-prbkiO4kDrPAeQ9BVpkQRAMpZga2c0gyUDJF-i-yt8JblAnrI-pyIDJ7smCm__YE0_EbENMarSuDgdeFuMNz",
       "accuratezza_orario": "esatto"
     }
   ]
