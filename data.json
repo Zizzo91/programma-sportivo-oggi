@@ -1,13 +1,22 @@
 {
-  "last_updated": "2026-06-08T12:14:35.585219+02:00",
+  "last_updated": "2026-06-10T11:38:07.276396+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Mattia Bellucci vs Alejandro Davidovich Fokina (primo turno)",
-      "competizione": "ATP 250 Stoccarda",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Diretta tv e streaming su Sky Go, NOW e Tennis TV. Primo match sul campo centrale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6yGd5dVLqdRZ1SE9nU33ga_9j8Mx2l4ZYzgk5U0K3lf2b9uM2V3QKNV2lrNd7ACda8SXw2exM1CMfWtUq7oih_kem--67VUKVTmr43-KgxqkAEfTfH2bHqLsotSg2Zoh-3I67bwr_U2Lot6q2Ven0GtNN-VfbAoZ2zZ-prbkiO4kDrPAeQ9BVpkQRAMpZga2c0gyUDJF-i-yt8JblAnrI-pyIDJ7smCm__YE0_EbENMarSuDgdeFuMNz",
+      "orario": "08:30",
+      "evento": "Speciale/Repliche GP Spagna",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 (207)",
+      "note": "Programma di approfondimento e repliche di momenti salienti in vista del prossimo Gran Premio di Spagna.",
+      "fonte": "https://guida.tv/programma/gp-della-spagna-2026-in-tv-orario-e-repliche_15566089",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Italia vs Francia",
+      "competizione": "Volleyball Nations League Uomini (Week 1)",
+      "canale": "DAZN, VBTV",
+      "note": "Partita della Nazionale Italiana maschile di volley con la partecipazione di Leandro Mosca (Vero Volley Monza).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt3rlikjX1Xs-_kMlgHghhncngj0TYo5-3iby4c2HgNM-SHwqh5wWdtaK5SXML7Gyvr8v7d612T522SCW3QWZDausRHY7QNs7zmYd7XKkiAYcJ8-6cfOhq6IgYszYpBA0ZJbU0SxCj0u3YPvc8kFd9aPoJ8fBuG5u1ob1wpv_HVwPpnAp_ITR_Vyui1hahfAodHYeGx06Cj1UaN6BTaixBr-xxAZbVU7ZhS93IuCATJAg1pXcU-fTRP0U8ms87, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtCgwPS1-YRB5yy2o-Pyif1mmLp1chlDzyi4gYrWsSBI2s-5eamqvCJWecXI0rI34T87Z8YRDamoB1YELVq1YB5VXAFaz9a4v5AjASATrC1I2G7wnIvby1taPKBoMhthOZUFJqfsJsVpO2581RWiIwZIE5iK3GK7EfBPcFeWT5ZHMbki2JLxB_itk0OwGjq25YrMbDvP6aj4ULTZPR6FBf1fA9d12i, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFke3N5eOkPVm__OoA6I5WaF56mz2OeYr2Z2BzOiGbY1mXMctwS0CfHuyhVNTskdB3ycRmkAlwdxL8ZREVDpUItIB28YUqlfBZF5cTv5_v5O1GGzXjQ86mitWMcmj8IAWFj2MtcNifd8CjsVs6TrsBanbW7XTCxMzI1wnIP4ZZHEKVDrOWxr2u8VbcSyA==",
       "accuratezza_orario": "esatto"
     }
   ]
