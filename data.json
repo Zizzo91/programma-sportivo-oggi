@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-06-12T11:54:29.998574+02:00",
+  "last_updated": "2026-06-12T16:30:47.075194+02:00",
   "events": [
     {
       "orario": "13:30",
-      "evento": "Formula 1 - Prove Libere 1 GP Barcellona",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
-      "note": "Diretta",
-      "fonte": "Canale 10, F1ingenerale, Formula1.it",
+      "evento": "Formula 1 - Prove Libere 1",
+      "competizione": "FIA Formula 1 World Championship - GP Barcellona (Spagna)",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "sportface.it, Digital-News.it, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Formula 1 - Prove Libere 2 GP Barcellona",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
-      "note": "Diretta",
-      "fonte": "Canale 10, F1ingenerale, Formula1.it",
+      "evento": "Formula 1 - Prove Libere 2",
+      "competizione": "FIA Formula 1 World Championship - GP Barcellona (Spagna)",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "sportface.it, Digital-News.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio - Mondiali 2026: Canada-Bosnia Erzegovina",
-      "competizione": "FIFA World Cup 2026 - Fase a gironi",
+      "evento": "Calcio - Canada vs Bosnia",
+      "competizione": "Coppa del Mondo FIFA 2026",
       "canale": "Rai 1, RaiPlay, DAZN",
-      "note": "Diretta",
-      "fonte": "Libero, OA Sport, Il Fatto Quotidiano, Fanpage, Adnkronos",
+      "note": "",
+      "fonte": "sportface.it, Libero, DAZN, Calciomagazine, Il Fatto Quotidiano, Quotidiano Nazionale, Adnkronos, Fanpage, Programmi TV, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Calcio - Mondiali 2026: Stati Uniti-Paraguay",
-      "competizione": "FIFA World Cup 2026 - Fase a gironi",
+      "evento": "Calcio - USA vs Paraguay",
+      "competizione": "Coppa del Mondo FIFA 2026",
       "canale": "DAZN",
-      "note": "Diretta (nella notte tra il 12 e il 13 giugno)",
-      "fonte": "Libero, OA Sport, Il Fatto Quotidiano, Fanpage",
+      "note": "Notte tra il 12 e il 13 giugno (CET)",
+      "fonte": "sportface.it, Libero, DAZN, Il Fatto Quotidiano, Quotidiano Nazionale, Fanpage",
       "accuratezza_orario": "esatto"
     }
   ]
