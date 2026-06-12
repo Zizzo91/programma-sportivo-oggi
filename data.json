@@ -1,49 +1,40 @@
 {
-  "last_updated": "2026-06-12T04:27:48.088156+02:00",
+  "last_updated": "2026-06-12T11:54:29.998574+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "Corea del Sud - Repubblica Ceca",
-      "competizione": "Coppa del Mondo FIFA 2026 - Fase a Gironi (Gruppo A)",
-      "canale": "DAZN / Rai (da confermare)",
-      "note": "Orario convertito da UTC-6 (Guadalajara). L'Italia non è qualificata. La trasmissione in chiaro su Rai è da verificare in prossimità dell'evento.",
-      "fonte": "Olympics.com, FIFA.com, Eurosport, Il Fatto Quotidiano",
+      "orario": "13:30",
+      "evento": "Formula 1 - Prove Libere 1 GP Barcellona",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "note": "Diretta",
+      "fonte": "Canale 10, F1ingenerale, Formula1.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30*",
-      "evento": "Formula 1 - Gran Premio di Spagna - Prove Libere 1",
-      "competizione": "Campionato del Mondo FIA Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Orario stimato. Il Gran Premio di Spagna si svolge dal 12 al 14 giugno.",
-      "fonte": "Formula 1 official calendar, F1 Experiences, Formula Escapes",
-      "accuratezza_orario": "stimato"
+      "orario": "17:00",
+      "evento": "Formula 1 - Prove Libere 2 GP Barcellona",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "note": "Diretta",
+      "fonte": "Canale 10, F1ingenerale, Formula1.it",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00*",
-      "evento": "Formula 1 - Gran Premio di Spagna - Prove Libere 2",
-      "competizione": "Campionato del Mondo FIA Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Orario stimato. Il Gran Premio di Spagna si svolge dal 12 al 14 giugno.",
-      "fonte": "Formula 1 official calendar, F1 Experiences, Formula Escapes",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Canada - Bosnia ed Erzegovina",
-      "competizione": "Coppa del Mondo FIFA 2026 - Fase a Gironi (Gruppo B)",
-      "canale": "DAZN / Rai (da confermare)",
-      "note": "Orario convertito da ET (Toronto). L'Italia non è qualificata. La trasmissione in chiaro su Rai è da verificare in prossimità dell'evento.",
-      "fonte": "Olympics.com, Fantacalcio, FIFA.com, Il Fatto Quotidiano",
+      "orario": "21:00",
+      "evento": "Calcio - Mondiali 2026: Canada-Bosnia Erzegovina",
+      "competizione": "FIFA World Cup 2026 - Fase a gironi",
+      "canale": "Rai 1, RaiPlay, DAZN",
+      "note": "Diretta",
+      "fonte": "Libero, OA Sport, Il Fatto Quotidiano, Fanpage, Adnkronos",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Stati Uniti - Paraguay",
-      "competizione": "Coppa del Mondo FIFA 2026 - Fase a Gironi (Gruppo D)",
-      "canale": "DAZN / Rai (da confermare)",
-      "note": "Orario convertito da ET (Los Angeles). L'Italia non è qualificata. La trasmissione in chiaro su Rai è da verificare in prossimità dell'evento.",
-      "fonte": "Fantacalcio, CBS News, FOX Sports, FIFA.com",
+      "evento": "Calcio - Mondiali 2026: Stati Uniti-Paraguay",
+      "competizione": "FIFA World Cup 2026 - Fase a gironi",
+      "canale": "DAZN",
+      "note": "Diretta (nella notte tra il 12 e il 13 giugno)",
+      "fonte": "Libero, OA Sport, Il Fatto Quotidiano, Fanpage",
       "accuratezza_orario": "esatto"
     }
   ]
