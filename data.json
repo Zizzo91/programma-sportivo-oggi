@@ -1,40 +1,238 @@
 {
-  "last_updated": "2026-06-12T16:30:47.075194+02:00",
+  "last_updated": "2026-06-12T21:50:22.052213+02:00",
   "events": [
     {
+      "orario": "04:00",
+      "evento": "Corea del Sud - Repubblica Ceca",
+      "competizione": "FIFA World Cup 2026 (Fase a Gironi)",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "OA Sport, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:55",
+      "evento": "Prove Libere F3",
+      "competizione": "Formula 1 - GP Spagna 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:05",
+      "evento": "Prove Libere F2",
+      "competizione": "Formula 1 - GP Spagna 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "13:30",
-      "evento": "Formula 1 - Prove Libere 1",
-      "competizione": "FIA Formula 1 World Championship - GP Barcellona (Spagna)",
+      "evento": "Prove Libere 1 F1",
+      "competizione": "Formula 1 - GP Spagna 2026",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "sportface.it, Digital-News.it, FormulaPassion",
+      "fonte": "F1ingenerale, FormulaPassion, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:55",
+      "evento": "WorldSBK",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Programmazione generica 'sport' legata a Superbike.",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Qualifiche F3",
+      "competizione": "Formula 1 - GP Spagna 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:55",
+      "evento": "Qualifiche F2",
+      "competizione": "Formula 1 - GP Spagna 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:55",
+      "evento": "WorldSBK",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Programmazione generica 'sport' legata a Superbike.",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Formula 1 - Prove Libere 2",
-      "competizione": "FIA Formula 1 World Championship - GP Barcellona (Spagna)",
+      "evento": "Prove Libere 2 F1",
+      "competizione": "Formula 1 - GP Spagna 2026",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "sportface.it, Digital-News.it",
+      "fonte": "F1ingenerale, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Superbike World Championship",
+      "competizione": "WorldSBK",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Superbike World Championship",
+      "competizione": "WorldSBK",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Superbike World Championship",
+      "competizione": "WorldSBK",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio - Canada vs Bosnia",
-      "competizione": "Coppa del Mondo FIFA 2026",
+      "evento": "Canada - Bosnia ed Erzegovina",
+      "competizione": "FIFA World Cup 2026 (Fase a Gironi)",
       "canale": "Rai 1, RaiPlay, DAZN",
       "note": "",
-      "fonte": "sportface.it, Libero, DAZN, Calciomagazine, Il Fatto Quotidiano, Quotidiano Nazionale, Adnkronos, Fanpage, Programmi TV, OA Sport",
+      "fonte": "OA Sport, Adnkronos, Skuola.net, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Superbike World Championship",
+      "competizione": "WorldSBK",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "WorldSBK (Repliche)",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Repliche WorldSBK.",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Sportbike (Repliche)",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30",
+      "evento": "Supersport (Repliche)",
+      "competizione": "Supersport World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:15",
+      "evento": "WorldSBK (Repliche)",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:45",
+      "evento": "WorldSBK (Repliche)",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Calcio - USA vs Paraguay",
-      "competizione": "Coppa del Mondo FIFA 2026",
+      "evento": "USA - Paraguay",
+      "competizione": "FIFA World Cup 2026 (Fase a Gironi)",
       "canale": "DAZN",
-      "note": "Notte tra il 12 e il 13 giugno (CET)",
-      "fonte": "sportface.it, Libero, DAZN, Il Fatto Quotidiano, Quotidiano Nazionale, Fanpage",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Adnkronos, Skuola.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Sportbike (Repliche)",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:30",
+      "evento": "Supersport (Repliche)",
+      "competizione": "Supersport World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:15",
+      "evento": "WorldSBK (Repliche)",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:45",
+      "evento": "WorldSBK (Repliche)",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:45",
+      "evento": "Inside Ducati",
+      "competizione": "Documentario Motoristico",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Sportbike (Repliche)",
+      "competizione": "Superbike World Championship",
+      "canale": "Sky Sport MotoGP",
+      "note": "Del giorno successivo (13 giugno).",
+      "fonte": "Guida programmi tv Sky Sport MotoGP",
       "accuratezza_orario": "esatto"
     }
   ]
