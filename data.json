@@ -1,22 +1,49 @@
 {
-  "last_updated": "2026-06-10T16:49:49.847320+02:00",
+  "last_updated": "2026-06-12T04:27:48.088156+02:00",
   "events": [
     {
-      "orario": "10:30",
-      "evento": "Challenger 100 Bratislava - R16: Cinà vs Choinski",
-      "competizione": "Challenger 100 Bratislava",
-      "canale": "Sky Sport Tennis, Sky Sport Mix, Sky Sport 1",
-      "note": "Match di ottavi di finale. Giocatore italiano in campo.",
-      "fonte": "https://www.livetennis.it/dettaglio_risultati_italiani.php?data=2026-06-10",
+      "orario": "12:00",
+      "evento": "Corea del Sud - Repubblica Ceca",
+      "competizione": "Coppa del Mondo FIFA 2026 - Fase a Gironi (Gruppo A)",
+      "canale": "DAZN / Rai (da confermare)",
+      "note": "Orario convertito da UTC-6 (Guadalajara). L'Italia non è qualificata. La trasmissione in chiaro su Rai è da verificare in prossimità dell'evento.",
+      "fonte": "Olympics.com, FIFA.com, Eurosport, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Mondiale Formula 1 2026 - GP Monaco: Gara (Replica)",
-      "competizione": "Formula 1 - Gran Premio di Monaco",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara del Gran Premio di Monaco.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHilMvy6tn9TxMv61fr5rrOojace2uupXmaaArRbFcoKi59CbyEeYhkL_u_92YMffMOQIcUJY6MCYn5hc0DFOks3Zv8Wu9VUJednMV0hwFIQD4mxABOor6fcP_oRGh5QUBBD1mOtHcoxxrRIW-8ZbcHATlbTqr888ZGfRc=",
+      "orario": "13:30*",
+      "evento": "Formula 1 - Gran Premio di Spagna - Prove Libere 1",
+      "competizione": "Campionato del Mondo FIA Formula 1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Orario stimato. Il Gran Premio di Spagna si svolge dal 12 al 14 giugno.",
+      "fonte": "Formula 1 official calendar, F1 Experiences, Formula Escapes",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "Formula 1 - Gran Premio di Spagna - Prove Libere 2",
+      "competizione": "Campionato del Mondo FIA Formula 1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Orario stimato. Il Gran Premio di Spagna si svolge dal 12 al 14 giugno.",
+      "fonte": "Formula 1 official calendar, F1 Experiences, Formula Escapes",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Canada - Bosnia ed Erzegovina",
+      "competizione": "Coppa del Mondo FIFA 2026 - Fase a Gironi (Gruppo B)",
+      "canale": "DAZN / Rai (da confermare)",
+      "note": "Orario convertito da ET (Toronto). L'Italia non è qualificata. La trasmissione in chiaro su Rai è da verificare in prossimità dell'evento.",
+      "fonte": "Olympics.com, Fantacalcio, FIFA.com, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Stati Uniti - Paraguay",
+      "competizione": "Coppa del Mondo FIFA 2026 - Fase a Gironi (Gruppo D)",
+      "canale": "DAZN / Rai (da confermare)",
+      "note": "Orario convertito da ET (Los Angeles). L'Italia non è qualificata. La trasmissione in chiaro su Rai è da verificare in prossimità dell'evento.",
+      "fonte": "Fantacalcio, CBS News, FOX Sports, FIFA.com",
       "accuratezza_orario": "esatto"
     }
   ]
