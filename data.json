@@ -1,85 +1,94 @@
 {
-  "last_updated": "2026-06-13T04:08:47.536832+02:00",
+  "last_updated": "2026-06-13T10:45:26.671759+02:00",
   "events": [
     {
       "orario": "03:00",
-      "evento": "USA - Paraguay",
-      "competizione": "Mondiali 2026",
+      "evento": "Stati Uniti - Paraguay",
+      "competizione": "FIFA World Cup 2026 - Fase a Gironi (Gruppo D)",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPze3DGtiWXUH3joBdesjR3mY581PeCqf2zjVzMu3Kv1XTTl_BkLiW_K8zR4lVL9QnauMOE0GPCCM_fqIajEu6ATf4UFGASyT8cZ0Jlffs3l4G-Cvqa9JaTHdI0tphp8RY5mLfZZ9PBYwgiGymhCYGo977zwFQMw-aTu7CT3qjhGlhq5dYGOjoBvT80uhrnIoRVaNo-HZTMTUMHHQzfwFy0t4js7_Ca8UZS9CyX8eJ4_Y",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "UEFA Champions League 2025/2026 - PSG - Arsenal (Finale)",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoEnjH_hixrlKvD3gdfhpKPdbUMApkyPASYHk-R1-GdtRDV7z6KWXgTOKA-vRv1kmbr79oWadQDuPwSq4Mb4EfxJ_QV5YsP4j6RFeBrCVgL5qk851t0VdRjmtfa_sWTrbVcc3ieK-o1HudLwi26eZUJh0IcrVDasSXrH8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "08:00",
-      "evento": "Canada - Bosnia Erzegovina",
+      "evento": "FIFA World Cup 2026 - Canada - Bosnia (Gruppo B)",
       "competizione": "FIFA World Cup 2026",
-      "canale": "Rai Sport +HD",
-      "note": "Gruppo B, dallo Stadium BMO Field di Toronto",
-      "fonte": "Guida TV - Raisport Hd",
+      "canale": "Rai Sport HD",
+      "note": "Replica dal BMO Field di Toronto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEixWpvELyWZNDBh529FWLyCOS1koQMHgC3_PFxu9CSRZGKcOb_qZ0DhtsWWGS4vYMkhpRs5-81CxGxTVr0aOvR_oARhUSeqlcZa4IfBka-AwkTKJY3vMSFfX89lmHbmefpirugCGZWW0YkGZmVczyXlJA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Prove Libere 3",
-      "competizione": "Formula 1 - GP Barcellona 2026",
-      "canale": "Sky Sport F1, NOW",
-      "note": "",
-      "fonte": "OA Sport, L'Automobile - ACI",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "F1 Paddock Live Post Libere",
-      "competizione": "Formula 1 - GP Barcellona 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV - Sky Sport Uno",
+      "evento": "F1 Prove Libere 3",
+      "competizione": "F1 GP Barcellona 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, Sky Go, NOW",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxb9TO4HsbJrkFZMhIU2fLg2IpPJo14CmfMN2pqzlsmm3fSKLhqRX5ULBlmr9Pv0b2e--I36TPhbj6svOXpuA5nGdaYEtpyuHD4eIDWAkRsTzqG-n-_jppLWbfzZIcddOk417vSn4ts1CKPOSATUteDQc2F6Jsn641kChZlXbUsWQRvMihbOqIxEtrm6yecj7JZCptW8rhCiwljbi-7zWiG9F4ZYmIVsX-TR1Obib1hID_iEHWMWpwXVDE6bYGJf-hRBUHiQ4",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Qualifiche",
-      "competizione": "Formula 1 - GP Barcellona 2026",
-      "canale": "Sky Sport F1, NOW, Sky Sport Uno, Sky Sport 4K",
-      "note": "",
-      "fonte": "L'Automobile - ACI, OA Sport",
+      "evento": "F1 Qualifiche",
+      "competizione": "F1 GP Barcellona 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, Sky Go, NOW",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxb9TO4HsbJrkFZMhIU2fLg2IpPJo14CmfMN2pqzlsmm3fSKLhqRX5ULBlmr9Pv0b2e--I36TPhbj6svOXpuA5nGdaYEtpyuHD4eIDWAkRsTzqG-n-_jppLWbfzZIcddOk417vSn4ts1CKPOSATUteDQc2F6Jsn641kChZlXbUsWQRvMihbOqIxEtrm6yecj7JZCptW8rhCiwljbi-7zWiG9F4ZYmIVsX-TR1Obib1hID_iEHWMWpwXVDE6bYGJf-hRBUHiQ4",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Qualifiche (Differita)",
-      "competizione": "Formula 1 - GP Barcellona 2026",
+      "orario": "18:00",
+      "evento": "F1 Qualifiche",
+      "competizione": "F1 GP Barcellona 2026",
       "canale": "TV8",
-      "note": "",
-      "fonte": "L'Automobile - ACI, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Finalissima Italia - Belgio",
-      "competizione": "Camp. Europei U17 Estonia 2026",
-      "canale": "Rai Sport",
-      "note": "Dall'Estonia",
-      "fonte": "Programmi TV, Guida TV - Raisport Hd",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH77teRQ1a4XdfjkstXS8WWW_Uyb2N8ckX-cXbka1Y3FMXDpSK46__9KiG6yagltiC0bbSPO88kLHG5fgfeEEdgvW1pEQPeZVEbztrUfQFDOewXW2WW6RIceZHqfwFtFoVFDsPT6PxJqaH7-BNzB6rdsMH7m6Ca4kHRAGMxFEXZbaetljcVIKra0UiXk9al",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Qatar - Svizzera",
-      "competizione": "Mondiali 2026",
-      "canale": "DAZN, Rai Uno",
+      "competizione": "FIFA World Cup 2026 - Fase a Gironi (Gruppo B)",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvcMUR6S7gL1D8m4EkeIvRJr43yA8rSnviyZwUIe8KIK9cSZ58mbOw2SdOcpgYvhous59vRhbY8xz4kWwIGIPULs_wrNh8Q7ipqD7cHVK2jE4g0XmvgBBnLh7lmcEoA6WLPXuUopArvOuHYdwDUUrJ5UG7o1pq24-k76MSxC_UCYNlOvkSJN-OHmR_swgzaJMfCrLzbFt4n3T4g9Kp5m7wznSqtcKkLmYW4keOzEanpFI=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
       "evento": "Brasile - Marocco",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "Rai1",
-      "note": "Fase a Gironi, (Giugno 14, 2026)",
-      "fonte": "ComingSoon.it",
+      "competizione": "FIFA World Cup 2026 - Fase a Gironi (Gruppo C)",
+      "canale": "Rai 1, DAZN",
+      "note": "Nella notte tra il 13 e il 14 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvcMUR6S7gL1D8m4EkeIvRJr43yA8rSnviyZwUIe8KIK9cSZ58mbOw2SdOcpgYvhous59vRhbY8xz4kWwIGIPULs_wrNh8Q7ipqD7cHVK2jE4g0XmvgBBnLh7lmcEoA6WLPXuUopArvOuHYdwDUUrJ5UG7o1pq24-k76MSxC_UCYNlOvkSJN-OHmR_swgzaJMfCrLzbFt4n3T4g9Kp5m7wznSqtcKkLmYW4keOzEanpFI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Haiti - Scozia",
+      "competizione": "FIFA World Cup 2026 - Fase a Gironi (Gruppo C)",
+      "canale": "DAZN",
+      "note": "Nella notte tra il 13 e il 14 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvcMUR6S7gL1D8m4EkeIvRJr43yA8rSnviyZwUIe8KIK9cSZ58mbOw2SdOcpgYvhous59vRhbY8xz4kWwIGIPULs_wrNh8Q7ipqD7cHVK2jE4g0XmvgBBnLh7lmcEoA6WLPXuUopArvOuHYdwDUUrJ5UG7o1pq24-k76MSxC_UCYNlOvkSJN-OHmR_swgzaJMfCrLzbFt4n3T4g9Kp5m7wznSqtcKkLmYW4keOzEanpFI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Australia - Turchia",
+      "competizione": "FIFA World Cup 2026 - Fase a Gironi (Gruppo D)",
+      "canale": "DAZN",
+      "note": "Nella mattina del 14 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSg2DDCcAuH7iW8wzD3unAt3PlIDX8ANkzGUWxpfYrAN_DQQZX0AmDw22c0pktWD35K9Fm_bdc1mxJcyInTa7wTF5SYPSdNISjbLYSjL3Oy_34Ax97Cr2gC-at8i-JzuEqoj2ojYOYWc2Xd_GhSbM9SyVEwCcRP86BN-55fOsh9GwtGxxTMwaLBfqZuVSyNGqALA==",
       "accuratezza_orario": "esatto"
     }
   ]
