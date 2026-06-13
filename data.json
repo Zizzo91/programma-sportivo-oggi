@@ -1,103 +1,157 @@
 {
-  "last_updated": "2026-06-13T15:21:58.548013+02:00",
+  "last_updated": "2026-06-13T21:06:06.864594+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Formula 1 - Prove Libere 3",
-      "competizione": "GP Barcellona 2026",
-      "canale": "Sky Sport F1, Sky Go, NOW",
-      "note": "Diretta",
-      "fonte": "Il Fatto Quotidiano, L'Automobile - ACI",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:12",
-      "evento": "Canoa Velocità - Finali sessione pomeridiana",
-      "competizione": "Europei 2026",
-      "canale": "Rai Sport HD, Rai Play",
+      "orario": "03:00",
+      "evento": "USA - Paraguay",
+      "competizione": "Mondiali FIFA 2026 - Fase a Gironi",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "Superbike - Gara-1",
-      "competizione": "GP Emilia-Romagna 2026",
-      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Formula 1 - Qualifiche",
-      "competizione": "GP Barcellona 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, Sky Go, NOW",
-      "note": "Diretta",
-      "fonte": "Adnkronos, Il Fatto Quotidiano, L'Automobile - ACI, FormulaPassion, OA Sport, Fanpage",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Formula 1 - Qualifiche",
-      "competizione": "GP Barcellona 2026",
-      "canale": "TV8",
-      "note": "Differita (in chiaro)",
-      "fonte": "Il Fatto Quotidiano, L'Automobile - ACI, FormulaPassion, FormulaPassion, OA Sport, Fanpage",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Calcio - Qatar vs Svizzera",
-      "competizione": "Mondiali 2026 (Gruppo B)",
-      "canale": "DAZN, Rai 1",
-      "note": "",
-      "fonte": "Mondiali 2026 oggi in tv - Fanpage, Mondiali 2026, le partite di oggi - Libero, Sportface.it, Calciomagazine, DAZN, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Pugilato",
-      "competizione": "",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Guida TV - Quotidiano.net, Lifestyleblog.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Diamond League 2026 - Golden Gala Pietro Mennea",
-      "competizione": "Atletica Leggera",
-      "canale": "Raisport HD",
-      "note": "Dallo Stadio Olimpico di Roma",
-      "fonte": "Guida TV - Quotidiano.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Calcio - Brasile vs Marocco",
-      "competizione": "Mondiali 2026 (Gruppo C)",
-      "canale": "Rai 1, Rai Play, DAZN",
-      "note": "Giugno 14, 2026",
-      "fonte": "Mondiali 2026 oggi in tv - Fanpage, Mondiali 2026, le partite di oggi - Libero, Sportface.it, OA Sport",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-13-giugno-2026-usa-paraguay-e-qatar-svizzera-704900.html",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Calcio - Haiti vs Scozia",
-      "competizione": "Mondiali 2026 (Gruppo C)",
+      "evento": "Haiti - Scozia",
+      "competizione": "Mondiali FIFA 2026 - Fase a Gironi",
       "canale": "DAZN",
-      "note": "Giugno 14, 2026",
-      "fonte": "Mondiali 2026 oggi in tv - Fanpage, Sportface.it, OA Sport",
+      "note": "",
+      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-in-tv-oggi-dove-vedere-brasile-marocco-e-qatar-svizzera-su-rai-e-dazn-programma-e-orari-delle-partite/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Calcio - Australia vs Turchia",
-      "competizione": "Mondiali 2026 (Gruppo D)",
-      "canale": "DAZN",
-      "note": "Giugno 14, 2026",
-      "fonte": "Mondiali 2026 oggi in tv - Fanpage, Sportface.it",
+      "evento": "PSG - Arsenal (Finale)",
+      "competizione": "UEFA Champions League 2025/2026",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_uno/13-06-2026/mattina/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Canada - Bosnia (Gruppo B)",
+      "competizione": "Mondiali FIFA 2026",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/raisport_hd/13-06-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Sonego – Jianu (Q1)",
+      "competizione": "ATP 500 Halle - Qualificazioni",
+      "canale": "Non specificato (probabile streaming)",
+      "note": "Tennis con giocatore italiano",
+      "fonte": "https://www.livetennis.it/post/460367/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-13-giugno-2026/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Prove libere 3 - GP Catalogna",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_uno/13-06-2026/mattina/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "F1 Paddock Live Post Libere",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_uno/13-06-2026/pomeriggio/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30*",
+      "evento": "Bellucci – Kukushkin (Q1)",
+      "competizione": "ATP 500 Halle - Qualificazioni",
+      "canale": "Non specificato (probabile streaming)",
+      "note": "Tennis con giocatore italiano",
+      "fonte": "https://www.livetennis.it/post/460367/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-13-giugno-2026/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Qualifiche - GP Catalogna",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1",
+      "note": "Diretta",
+      "fonte": "https://www.f1ingenerale.com/f1-spagna-qualifiche-orari-tv-sky-differita-tv8-barcellona/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:15",
+      "evento": "F1 Paddock Live Post Qualifiche",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_uno/13-06-2026/pomeriggio/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:45",
+      "evento": "F1 Paddock Live Show",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/sky_sport_uno/13-06-2026/pomeriggio/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "F1 Paddock Pre-Qualifiche",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "TV8",
+      "note": "Differita qualifiche",
+      "fonte": "https://www.formulapassion.it/motorsport/formula1/gp-spagna-2026-programmazione-tv8-differita-qualifiche-gara-589689.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Qualifiche - GP Catalogna",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "https://www.f1ingenerale.com/f1-spagna-qualifiche-orari-tv-sky-differita-tv8-barcellona/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Italia - Belgio (Finale)",
+      "competizione": "Euro U17 2026",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://guidatv.quotidiano.net/raisport_hd/13-06-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "F1 Paddock Post-Qualifiche",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "TV8",
+      "note": "Differita qualifiche",
+      "fonte": "https://www.formulapassion.it/motorsport/formula1/gp-spagna-2026-programmazione-tv8-differita-qualifiche-gara-589689.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Qatar - Svizzera",
+      "competizione": "Mondiali FIFA 2026 - Fase a Gironi",
+      "canale": "DAZN, Rai Uno",
+      "note": "",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-13-giugno-2026-usa-paraguay-e-qatar-svizzera-704900.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Brasile - Marocco",
+      "competizione": "Mondiali FIFA 2026 - Fase a Gironi",
+      "canale": "DAZN, Rai 1, RaiPlay",
+      "note": "Tra sabato 13 e domenica 14 giugno",
+      "fonte": "https://www.tuttosport.com/news/calcio/mondiali-2026/2026/06/13/132577749/brasile-marocco_orario_diretta_probabili_formazioni_e_dove_vedere_in_tv_e_streaming_il_mondiale",
       "accuratezza_orario": "esatto"
     }
   ]
