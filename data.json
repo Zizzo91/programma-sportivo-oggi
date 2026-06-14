@@ -1,103 +1,148 @@
 {
-  "last_updated": "2026-06-14T11:00:44.140936+02:00",
+  "last_updated": "2026-06-14T21:06:55.013511+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "Mondiali 2026: Costa d'Avorio-Ecuador",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "DAZN",
-      "note": "Nella notte tra il 14 e il 15 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSEq4GPlzVV_6mU0o0NiACYzHQD2G4KaD0zMoeK5ZAQVcWFpI3eSQjL9KmgCv9T71Vlts3eMxaePZzOmVSStYlpi--eJFnfovGauBGvfHPXtm05WzS5WclyoYZy-zoM-0y4XYEekmpp91AIaTCDgwzlPH-Pnot4xn4HCxvZX6fhPRQg3b3bVDSKDpVh0zJU5Q5UDjy8Ube6iIzgA15xyF6C9XU8t5UfbhwYL2IkOeAQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Mondiali 2026: Haiti-Scozia",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "DAZN",
-      "note": "Nella notte tra il 14 e il 15 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkTGu99nm-Z0Cp2Oh7OzmmKGc8U2Yum3WPpykxE7c-Q0tKhP0qiC08qM_EvkNSIu5o3VIOcVyKh0dP0ABpisVaPV3QB_toCMJyR0BnazFXp-0JeReGP2mblPguo9EKHuGIsu1mbaT6az2pga4lbPEwIfgI6cRIrgKZlgli1JZMSw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Mondiali 2026: Australia-Turchia",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSEq4GPlzVV_6mU0o0NiACYzHQD2G4KaD0zMoeK5ZAQVcWFpI3eSQjL9KmgCv9T71Vlts3eMxaePZzOmVSStYlpi--eJFnfovGauBGvfHPXtm05WzS5WclyoYZy-zoM-0y4XYEekmpp91AIaTCDgwzlPH-Pnot4xn4HCxvZX6fhPRQg3b3bVDSKDpVh0zJU5Q5UDjy8Ube6iIzgA15xyF6C9XU8t5UfbhwYL2IkOeAQ==",
+      "orario": "07:00",
+      "evento": "Mondiale Formula 1 2026 - GP Catalogna: Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica delle qualifiche del 13 giugno.",
+      "fonte": "GuidaTV (guidatv.quotidiano.net)",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Formula 1 - GP Catalogna: Gara",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvxRIs-wLs9f0qYOydjIv8AuKLpAN_zQKFd9jr26ztzNyBfIvvPF0_vGiTkSACLeJl37gl9KEd6HgjMxgKsiB8gwo3xO0HKz03Tsk05WOfWgdkf-wXXAP5UT7JvtKmu8OXAh5Gb6yuiXVGb9G8_jR5ULtcKZNLag7c0R5zJ3k4WrlgfOaiJ_ugTPYpiQIc1l7XfxY==",
+      "evento": "Mondiale Formula 1 2026 - GP Catalogna: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
+      "note": "Diretta.",
+      "fonte": "Il Fatto Quotidiano, Sky Sport, Fanpage, L'Automobile - ACI, Il mio tempo libero, Digital-News.it, OA Sport, Ummah Champions, Superscommesse",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30",
+      "evento": "F1 Paddock Live Pre-Gara",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Programma pre-gara in differita, in attesa della differita della gara.",
+      "fonte": "Fanpage, Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Formula 1 - GP Catalogna: Gara (Differita)",
-      "competizione": "Campionato del Mondo F1 2026",
+      "evento": "Mondiale Formula 1 2026 - GP Catalogna: Gara",
+      "competizione": "Formula 1",
       "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1BjmFd6bQTDrE93mjuaWKqH8QpKkVgVZ_lqTUA1zF63LgKUH3E3yLstd6f7BE8WI7Gzo3Q91AOtR9i3BGnFG4EZXFP8fazKytqrixW8JThbccLVwF7Wy85qyUF5bTYZQto9iwMXy2D7Wf6dFbW92_f3gDkODILiv8WT6mZvysJRMmzAd5_ZHlyA8ChfYmqfnWJDc17rNCxLsBAb4m==",
+      "note": "Differita della gara.",
+      "fonte": "Il Fatto Quotidiano, Fanpage, L'Automobile - ACI, Il mio tempo libero, OA Sport, F1ingenerale",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
       "evento": "Mondiali 2026: Germania-Curaçao",
-      "competizione": "Coppa del Mondo FIFA 2026",
+      "competizione": "Calcio - Mondiali 2026",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSEq4GPlzVV_6mU0o0NiACYzHQD2G4KaD0zMoeK5ZAQVcWFpI3eSQjL9KmgCv9T71Vlts3eMxaePZzOmVSStYlpi--eJFnfovGauBGvfHPXtm05WzS5WclyoYZy-zoM-0y4XYEekmpp91AIaTCDgwzlPH-Pnot4xn4HCxvZX6fhPRQg3b3bVDSKDpVh0zJU5Q5UDjy8Ube6iIzgA15xyF6C9XU8t5UfbhwYL2IkOeAQ==",
+      "note": "Diretta.",
+      "fonte": "Virgilio Sport, Il Fatto Quotidiano, OA Sport, Calciomagazine, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "Formula 1 - GP Catalogna: Gara (Replica)",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvxRIs-wLs9f0qYOydjIv8AuKLpAN_zQKFd9jr26ztzNyBfIvvPF0_vGiTkSACLeJl37gl9KEd6HgjMxgKsiB8gwo3xO0HKz03Tsk05WOfWgdkf-wXXAP5UT7JvtKmu8OXAh5Gb6yuiXVGb9G8_jR5ULtcKZNLag7c0R5zJ3k4WrlgfOaiJ_ugTPYpiQIc1l7XfxY==",
+      "evento": "Mondiale Formula 1 2026 - GP Catalogna: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport",
+      "note": "Prima replica della gara.",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
       "evento": "Mondiali 2026: Olanda-Giappone",
-      "competizione": "Coppa del Mondo FIFA 2026",
+      "competizione": "Calcio - Mondiali 2026",
       "canale": "DAZN, Rai 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSEq4GPlzVV_6mU0o0NiACYzHQD2G4KaD0zMoeK5ZAQVcWFpI3eSQjL9KmgCv9T71Vlts3eMxaePZzOmVSStYlpi--eJFnfovGauBGvfHPXtm05WzS5WclyoYZy-zoM-0y4XYEekmpp91AIaTCDgwzlPH-Pnot4xn4HCxvZX6fhPRQg3b3bVDSKDpVh0zJU5Q5UDjy8Ube6iIzgA15xyF6C9XU8t5UfbhwYL2IkOeAQ==",
+      "note": "Diretta.",
+      "fonte": "Virgilio Sport, Il Fatto Quotidiano, OA Sport, Calciomagazine, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Formula 1 - GP Catalogna: Gara (Replica)",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvxRIs-wLs9f0qYOydjIv8AuKLpAN_zQKFd9jr26ztzNyBfIvvPF0_vGiTkSACLeJl37gl9KEd6HgjMxgKsiB8gwo3xO0HKz03Tsk05WOfWgdkf-wXXAP5UT7JvtKmu8OXAh5Gb6yuiXVGb9G8_jR5ULtcKZNLag7c0R5zJ3k4WrlgfOaiJ_ugTPYpiQIc1l7XfxY==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Tennis WTA 250 S'Hertogenbosch: Hartono - Cocciaretto",
-      "competizione": "WTA 250",
-      "canale": "SuperTennis",
-      "note": "Elisabetta Cocciaretto è italiana",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZiqKEqW-XX8y430D-RKNS4oPB4HFjCHGUGdiqWB1lfpufbuiP30TukD8mP2rR6fWh30_yJfLfDuhJ1cQCL2plkMeEY9VhojgQw4QcaSssRqdYshEqG86Ck3vwnmv1qOkzG5s==",
+      "evento": "Mondiale Formula 1 2026 - GP Catalogna: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport",
+      "note": "Replica della gara.",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
       "evento": "Mondiali 2026: Brasile-Marocco",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "DAZN, Rai 1",
-      "note": "Nella notte tra il 14 e il 15 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkTGu99nm-Z0Cp2Oh7OzmmKGc8U2Yum3WPpykxE7c-Q0tKhP0qiC08qM_EvkNSIu5o3VIOcVyKh0dP0ABpisVaPV3QB_toCMJyR0BnazFXp-0JeReGP2mblPguo9EKHuGIsu1mbaT6az2pga4lbPEwIfgI6cRIrgKZlgli1JZMSw==",
+      "competizione": "Calcio - Mondiali 2026",
+      "canale": "DAZN, Rai 1 HD, Rai Play",
+      "note": "Diretta (tra il 14 e il 15 giugno).",
+      "fonte": "OA Sport, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Mondiali 2026: Costa d'Avorio-Ecuador",
+      "competizione": "Calcio - Mondiali 2026",
+      "canale": "DAZN",
+      "note": "Diretta (tra il 14 e il 15 giugno).",
+      "fonte": "Virgilio Sport, Il Fatto Quotidiano, OA Sport, Calciomagazine, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Mondiale Formula 1 2026 - GP Catalogna: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport",
+      "note": "Replica della gara (tra il 14 e il 15 giugno).",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Mondiali 2026: Haiti-Scozia",
+      "competizione": "Calcio - Mondiali 2026",
+      "canale": "DAZN",
+      "note": "Diretta (tra il 14 e il 15 giugno).",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Mondiali 2026: Svezia-Tunisia",
+      "competizione": "Calcio - Mondiali 2026",
+      "canale": "DAZN",
+      "note": "Diretta (tra il 14 e il 15 giugno).",
+      "fonte": "OA Sport, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport",
+      "note": "Analisi post-gara (tra il 14 e il 15 giugno).",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Mondiali 2026: Australia-Turchia",
+      "competizione": "Calcio - Mondiali 2026",
+      "canale": "DAZN",
+      "note": "Diretta (tra il 14 e il 15 giugno).",
+      "fonte": "Virgilio Sport, OA Sport, Calciomagazine, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Mondiali 2026: Brasile-Marocco",
+      "competizione": "Calcio - Mondiali 2026",
+      "canale": "Raisport HD",
+      "note": "Differita/Replica (tra il 14 e il 15 giugno).",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
