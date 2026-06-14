@@ -1,149 +1,104 @@
 {
-  "last_updated": "2026-06-14T04:32:08.095064+02:00",
+  "last_updated": "2026-06-14T11:00:44.140936+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Brasile – Marocco",
-      "competizione": "Coppa del Mondo FIFA 2026 (Fase a gironi)",
-      "canale": "DAZN, Rai 1",
-      "note": "",
-      "fonte": "Calciomagazine, Olympics.com, ComingSoon.it, Sisal",
+      "orario": "01:00",
+      "evento": "Mondiali 2026: Costa d'Avorio-Ecuador",
+      "competizione": "Coppa del Mondo FIFA 2026",
+      "canale": "DAZN",
+      "note": "Nella notte tra il 14 e il 15 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSEq4GPlzVV_6mU0o0NiACYzHQD2G4KaD0zMoeK5ZAQVcWFpI3eSQjL9KmgCv9T71Vlts3eMxaePZzOmVSStYlpi--eJFnfovGauBGvfHPXtm05WzS5WclyoYZy-zoM-0y4XYEekmpp91AIaTCDgwzlPH-Pnot4xn4HCxvZX6fhPRQg3b3bVDSKDpVh0zJU5Q5UDjy8Ube6iIzgA15xyF6C9XU8t5UfbhwYL2IkOeAQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Haiti – Scozia",
-      "competizione": "Coppa del Mondo FIFA 2026 (Fase a gironi)",
+      "evento": "Mondiali 2026: Haiti-Scozia",
+      "competizione": "Coppa del Mondo FIFA 2026",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine, Olympics.com",
+      "note": "Nella notte tra il 14 e il 15 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkTGu99nm-Z0Cp2Oh7OzmmKGc8U2Yum3WPpykxE7c-Q0tKhP0qiC08qM_EvkNSIu5o3VIOcVyKh0dP0ABpisVaPV3QB_toCMJyR0BnazFXp-0JeReGP2mblPguo9EKHuGIsu1mbaT6az2pga4lbPEwIfgI6cRIrgKZlgli1JZMSw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Australia – Turchia",
-      "competizione": "Coppa del Mondo FIFA 2026 (Fase a gironi)",
+      "evento": "Mondiali 2026: Australia-Turchia",
+      "competizione": "Coppa del Mondo FIFA 2026",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine, Olympics.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:40",
-      "evento": "Feature Race",
-      "competizione": "F3 - GP Spagna",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "FormulaPassion, Digital-News.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:05",
-      "evento": "Gara",
-      "competizione": "Porsche Supercup - GP Spagna",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Digital-News.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:20",
-      "evento": "Feature Race",
-      "competizione": "F2 - GP Spagna",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "FormulaPassion, Digital-News.it, Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Paddock Live Pre Gara",
-      "competizione": "F1 - GP Spagna",
-      "canale": "Sky Sport F1, NOW",
-      "note": "",
-      "fonte": "Digital-News.it, Stasera in TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSEq4GPlzVV_6mU0o0NiACYzHQD2G4KaD0zMoeK5ZAQVcWFpI3eSQjL9KmgCv9T71Vlts3eMxaePZzOmVSStYlpi--eJFnfovGauBGvfHPXtm05WzS5WclyoYZy-zoM-0y4XYEekmpp91AIaTCDgwzlPH-Pnot4xn4HCxvZX6fhPRQg3b3bVDSKDpVh0zJU5Q5UDjy8Ube6iIzgA15xyF6C9XU8t5UfbhwYL2IkOeAQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Gara",
-      "competizione": "F1 - GP Spagna",
-      "canale": "Sky Sport F1, NOW",
+      "evento": "Formula 1 - GP Catalogna: Gara",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1, Sky Sport Uno, NOW",
       "note": "",
-      "fonte": "L'Automobile - ACI, Il Fatto Quotidiano, FormulaPassion, alVolante.it, Digital-News.it, Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Paddock Live Post Gara",
-      "competizione": "F1 - GP Spagna",
-      "canale": "Sky Sport F1, NOW",
-      "note": "",
-      "fonte": "Digital-News.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvxRIs-wLs9f0qYOydjIv8AuKLpAN_zQKFd9jr26ztzNyBfIvvPF0_vGiTkSACLeJl37gl9KEd6HgjMxgKsiB8gwo3xO0HKz03Tsk05WOfWgdkf-wXXAP5UT7JvtKmu8OXAh5Gb6yuiXVGb9G8_jR5ULtcKZNLag7c0R5zJ3k4WrlgfOaiJ_ugTPYpiQIc1l7XfxY==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Gara (Differita)",
-      "competizione": "F1 - GP Spagna",
+      "evento": "Formula 1 - GP Catalogna: Gara (Differita)",
+      "competizione": "Campionato del Mondo F1 2026",
       "canale": "TV8",
-      "note": "Replica",
-      "fonte": "L'Automobile - ACI, Il Fatto Quotidiano, FormulaPassion, alVolante.it, Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:15",
-      "evento": "Race Anatomy",
-      "competizione": "F1 - GP Spagna",
-      "canale": "Sky Sport F1",
-      "note": "Analisi post-gara",
-      "fonte": "Digital-News.it",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1BjmFd6bQTDrE93mjuaWKqH8QpKkVgVZ_lqTUA1zF63LgKUH3E3yLstd6f7BE8WI7Gzo3Q91AOtR9i3BGnFG4EZXFP8fazKytqrixW8JThbccLVwF7Wy85qyUF5bTYZQto9iwMXy2D7Wf6dFbW92_f3gDkODILiv8WT6mZvysJRMmzAd5_ZHlyA8ChfYmqfnWJDc17rNCxLsBAb4m==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Germania – Curaçao",
-      "competizione": "Coppa del Mondo FIFA 2026 (Fase a gironi)",
+      "evento": "Mondiali 2026: Germania-Curaçao",
+      "competizione": "Coppa del Mondo FIFA 2026",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine, Olympics.com, Live Soccer Streaming & TV Schedule",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSEq4GPlzVV_6mU0o0NiACYzHQD2G4KaD0zMoeK5ZAQVcWFpI3eSQjL9KmgCv9T71Vlts3eMxaePZzOmVSStYlpi--eJFnfovGauBGvfHPXtm05WzS5WclyoYZy-zoM-0y4XYEekmpp91AIaTCDgwzlPH-Pnot4xn4HCxvZX6fhPRQg3b3bVDSKDpVh0zJU5Q5UDjy8Ube6iIzgA15xyF6C9XU8t5UfbhwYL2IkOeAQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Flavio Cobolli (ITA) vs Alexander Zverev (GER)",
-      "competizione": "Tennis - ATP 500 Halle",
-      "canale": "Supertennis",
+      "orario": "20:00",
+      "evento": "Formula 1 - GP Catalogna: Gara (Replica)",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Questa sera in tv",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvxRIs-wLs9f0qYOydjIv8AuKLpAN_zQKFd9jr26ztzNyBfIvvPF0_vGiTkSACLeJl37gl9KEd6HgjMxgKsiB8gwo3xO0HKz03Tsk05WOfWgdkf-wXXAP5UT7JvtKmu8OXAh5Gb6yuiXVGb9G8_jR5ULtcKZNLag7c0R5zJ3k4WrlgfOaiJ_ugTPYpiQIc1l7XfxY==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Paesi Bassi – Giappone",
-      "competizione": "Coppa del Mondo FIFA 2026 (Fase a gironi)",
+      "evento": "Mondiali 2026: Olanda-Giappone",
+      "competizione": "Coppa del Mondo FIFA 2026",
       "canale": "DAZN, Rai 1",
       "note": "",
-      "fonte": "Sisal, Calciomagazine, Olympics.com, ComingSoon.it, Live Soccer Streaming & TV Schedule",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSEq4GPlzVV_6mU0o0NiACYzHQD2G4KaD0zMoeK5ZAQVcWFpI3eSQjL9KmgCv9T71Vlts3eMxaePZzOmVSStYlpi--eJFnfovGauBGvfHPXtm05WzS5WclyoYZy-zoM-0y4XYEekmpp91AIaTCDgwzlPH-Pnot4xn4HCxvZX6fhPRQg3b3bVDSKDpVh0zJU5Q5UDjy8Ube6iIzgA15xyF6C9XU8t5UfbhwYL2IkOeAQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "Costa d'Avorio – Ecuador",
-      "competizione": "Coppa del Mondo FIFA 2026 (Fase a gironi)",
-      "canale": "DAZN",
+      "orario": "22:00",
+      "evento": "Formula 1 - GP Catalogna: Gara (Replica)",
+      "competizione": "Campionato del Mondo F1 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Olympics.com, Live Soccer Streaming & TV Schedule",
-      "accuratezza_orario": "stimato"
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvxRIs-wLs9f0qYOydjIv8AuKLpAN_zQKFd9jr26ztzNyBfIvvPF0_vGiTkSACLeJl37gl9KEd6HgjMxgKsiB8gwo3xO0HKz03Tsk05WOfWgdkf-wXXAP5UT7JvtKmu8OXAh5Gb6yuiXVGb9G8_jR5ULtcKZNLag7c0R5zJ3k4WrlgfOaiJ_ugTPYpiQIc1l7XfxY==",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "Svezia – Tunisia",
-      "competizione": "Coppa del Mondo FIFA 2026 (Fase a gironi)",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Olympics.com, Live Soccer Streaming & TV Schedule",
-      "accuratezza_orario": "stimato"
+      "orario": "23:00",
+      "evento": "Tennis WTA 250 S'Hertogenbosch: Hartono - Cocciaretto",
+      "competizione": "WTA 250",
+      "canale": "SuperTennis",
+      "note": "Elisabetta Cocciaretto è italiana",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZiqKEqW-XX8y430D-RKNS4oPB4HFjCHGUGdiqWB1lfpufbuiP30TukD8mP2rR6fWh30_yJfLfDuhJ1cQCL2plkMeEY9VhojgQw4QcaSssRqdYshEqG86Ck3vwnmv1qOkzG5s==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Mondiali 2026: Brasile-Marocco",
+      "competizione": "Coppa del Mondo FIFA 2026",
+      "canale": "DAZN, Rai 1",
+      "note": "Nella notte tra il 14 e il 15 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkTGu99nm-Z0Cp2Oh7OzmmKGc8U2Yum3WPpykxE7c-Q0tKhP0qiC08qM_EvkNSIu5o3VIOcVyKh0dP0ABpisVaPV3QB_toCMJyR0BnazFXp-0JeReGP2mblPguo9EKHuGIsu1mbaT6az2pga4lbPEwIfgI6cRIrgKZlgli1JZMSw==",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
