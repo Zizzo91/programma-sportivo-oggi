@@ -1,85 +1,58 @@
 {
-  "last_updated": "2026-06-16T04:39:01.319374+02:00",
+  "last_updated": "2026-06-16T12:51:40.816750+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "Italia vs Canada",
-      "competizione": "Mondiale Softball 2026",
-      "canale": "Rai Sport, Rai Play",
-      "note": "Esordio dell'Italia",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8a37-qegocxqAljfArjEwLc7BR-qJmCicbNHlwEvu4yCbCwYyk6rG5qzRChlob1G7ccFWvNjOfeTcvTafQd5RHA-ljNZ2Xm9nx76xPV0W-npUDrQb8fPhKGVyIFKCUwTd8pMQqD_BTSsfAdDn54JwCz3eTAqOwuNZqN_SF4YJjDEm3rvWvwRMi9tztAk7MLi_RlEhcFfSO6Mf0Mog8dJiLwS77c7GEt4LfiTUydmkDiHF9mqbF3MlY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSpKeq6ZU_pnx7MmNJ4GwidhInUdJUjHvRPLzODd7Lr3rMwCzXealJ0Hp1WVxBoaktOO87DNsKE95hCMqCXllYqYsYSReDc739sHlt3Lic5jFHXZpagmDzgLMArl7IOssHmObwrl9OCI0LW6oLSzNKXKE8keVztKNveVJ2khWp9LxQ2EF4Tms6qEh7-KCwQ_Evm7kcJ4nsV4X23eOlR0TQRz7MvHygZ0-YEeUZHs4UjCW_ri7SQyPcdnmSYJbFVVxwIe3Y6U7LQuD4T_tQq4gmATjL0t7V4o17xVhTdqmJtzk=",
+      "orario": "06:00",
+      "evento": "Mondiale Formula 1 2026 - GP Barcellona: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFrc-HC0jRuMjvc9zB4lPPegDB-mCVh3wbxcHO98AWC9leMrGEiRIk_9g5y-F7mN57G9y4DoKzohIWKYl4HYzwbDH_n-sCi9d6hruI21yWT-OdvtpJ7CJAmqgH9390djWYu9sISEmGUL6rcHnN-vRqoIM=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Diamond League 2026 - Oslo",
-      "competizione": "Atletica Leggera",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpfwHT6CGI4r6rZSFF3ytleKZH9506b04d3j9Mf_BdoqzFoMZsppmisX7384V8PJKd0WHFHzdL0pLl-sxqNX2MX4ILZbIzopg1znNg7Jr5fguJp2QcegC3J-WWVQG8dEaUh59SdDQBV13gdqBPIC8baOn7EJssKUpymZw=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:10",
-      "evento": "Giro d'Italia Next Gen 2026 - 3a tappa",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpfwHT6CGI4r6rZSFF3ytleKZH9506b04d3j9Mf_BdoqzFoMZsppmisX7384V8PJKd0WHFHzdL0pLl-sxqNX2MX4ILZbIzopg1znNg7Jr5fguJp2QcegC3J-WWVQG8dEaUh59SdDQBV13gdqBPIC8baOn7EJssKUpymZw=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:10",
-      "evento": "Europei Assoluti di Scherma",
-      "competizione": "Europei di Antony 2026",
-      "canale": "Rai Sport HD, Eurosport",
-      "note": "Fasi finali",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4GpK9_kCi304ELAJy8UQ6gTWgINWsPGCYozXPcyN3E6vdvh7dRTE24FbKoJoLSp0TKYyxc9ZrgGDHP_Fe0-u3b-1agREwEFj77KAt9qN_LprsZKX_qLp7XZmQcCu-MeGColhFbWRtjL4GLbyKUipmKXGo2AfjZ-v3QiiI9B_48pney8w46pjl48v-dzakj_BkISF3TDmQ1G1b5jf-HGbnokJAUUTLb_AStMUKEE7c0TKN5lcyw=",
-      "accuratezza_orario": "esatto"
+      "orario": "TBA",
+      "evento": "Tennis Doppio: Cobolli/Shelton vs Pavlasek/Vavassori",
+      "competizione": "ATP 500 Halle",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Match a seguire dopo altri incontri",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDjOuR_IjrzLg8s9AaHTw2BVs3espORgIeK1hqvNruWkYM-Akpb-pzrVOh0RvbRO3pB0m3M3FQmWRgE6gk4H4qcCD7iyofFTeMwXtWIQNS7lb8P8ywyMx5IoTbIG2o53kdLY4sGW3qahrJPWHbh3WNK__E9WCdgmpj73ZqeQgHmbItxb9Kw=",
+      "accuratezza_orario": "tba"
     },
     {
       "orario": "21:00",
-      "evento": "Belgio vs Egitto",
-      "competizione": "Mondiali 2026 - Fase a gironi (Gruppo G)",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCxw8CreFIMh4Vj88ZC0yfjLZO8pPjrgYkAO4Km4IIIdqGmXBnIRCoUTDa63awRboXLIWX5AnUjI7nR4OOoWR7scJ0Bwp-cGWZbCgEA5SUK3pZSy0dtxugT5LClcA3y4BnR_zsgUDkIXhJ0eZdlBVcAvlC9jNEbOlSyyvvIYubs0cg3zjOwPrBlzXJspu",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Arabia Saudita vs Uruguay",
-      "competizione": "Mondiali 2026 - Fase a gironi (Gruppo H)",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCxw8CreFIMh4Vj88ZC0yfjLZO8pPjrgYkAO4Km4IIIdqGmXBnIRCoUTDa63awRboXLIWX5AnUjI7nR4OOOqWR7scJ0Bwp-cGWZbCgEA5SUK3pZSy0dtxugT5LClcA3y4BnR_zsgUDkIXhJ0eZdlBVcAvlC9jNEbOlSyyvvIYubs0cg3zjOwPrBlzXJspu",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Francia vs Senegal",
-      "competizione": "Mondiali 2026 - Fase a gironi (Gruppo I)",
+      "evento": "Calcio: Francia vs Senegal",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
       "canale": "Rai 1, DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQF4IjapU6BcGzLPRip0Bjlde7VqK9vUKm4yWoC3lVkdmU9Z84BlwGxducejgb9H2G-dnfn_QwP4ny35fYBSlmgjgsnRZOVOmbU3xMiQcVHYEj1ZrCqDHdhGZYFBm3SmM4Ia_nCDaf7eXlJTqY3F_O3ARdX8pZ8xrpIH-ZqiPmVM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuOY1AZiL3vSdwbRJQ0fgWY_BRjxEhqjXQEUq2qyzNw8NRDwtav8GEVTl2kEjdtdnKeAHYHuCOcCq-7qyPh_tzxgG1E1lme9hNZW-310j0bM58_i88kJz7KPyGYsRz-KlWQcXnvAXNI0Sy6tbqlpoFkY4mdeTzJnHCktA2i9JvFo21414cszI4WNDFtFE0Jtqx_VFrwhiDvgfLUf0EDDM3GXwQl5tKB2AGYLlbrdDb6b4=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXmlf1_a5pSPC2AentVe7WGaTCzz7k0L8FARw0bVhg_V6hJhAJT1OZPt2LnWxQO8QXHHr0kjcTkzR9Y66P3NBp2sMUvHjQVMl4-YEMOmWgyb0mdZjhk5P5MsvqSOMU6NbLid3W8uzOKKH_-Xb5H07YwH-GmNPKuHflTe6bwHaBh6NFFmODrkyhovN7gzX-Lu2IqEQxkjXIqxbwhBDutBQoooUBL_P8IOtVsik4Hmo_oQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6k7eW3FSQ8R_eabtqRyPkTLAz40vpmhdMO9T8VO9ucInhyQ5fEQRjJtZqoPheibkHADxiLzXyke2VA5x8HI2aPXPNO0eSFYn2Hez4MMKi1FUDcyjj1gdq7jhOktS2cC8qtKRk7_YNWuoAebPK_KK1mx7S9jyKZLP5LyhlGR0XLPtaRBk5V00ZbO4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7015TsRlDHTRKvSsl2b-r-85-1c2glG_58uTPyQ5Ym5Z-Qb2pyu34beFH6lvI8p3BS0ezcBLR7YhT-4F2X2noV9lBvGIO0PJoR1GxIP-40WnINUhqNk415_VWbUx_IjWXLUySw5S38QDRvG8RmOwl55EJvNNXfobWt_-uLu8YCryOOIo0goVszzRojVeY6Znq1QahXwB02hEHUUWfRTCmtb60fixa26c2LfoPlh4tA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3DF2wU3uWmXRGu959C2E0VDXLJ7PC3F2wXD9AaePuxKN9PxtVCQ3G6xI77BmMDs-sDRMDTu1h1wObnyv47-luZkc7nD8XaIdANITqvjeWzOw9tcMYiwHyaQ3hGrM15pb6F8i8ICp4lttEt2wHtOCDnDw4gZh8tT_jnxfJsPLjRF0eTyys4DuWUEFt2rMgk1ZyztTUVW17hm5ZvnYCrYhMwgG6NGkH7KlVpfWUXnpfiXG3ph_5TCIRJFEiEnscuagEljgO2zKEfMb0NCw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp8Q0ZHMhFBKmd5dwHE4qDNEQ-ZmEnXzAONqRSj7x0kokC9WsI1gv1lKENXTjoMhJHgcxsocWkvTWvKlCCtizBfvigHQb0d4T1Cg2203go_Dm3nicw3JkVuIGdMtKDXEFjGl9YYRBhf4dUqrP2LBd0I1BF8P5MtJ5bd5hfi4kVkCuMRX9DueFh3uhBM1IaMEP",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:50",
-      "evento": "Brescia - Savona - gara 1",
-      "competizione": "Serie A1 Pallanuoto Maschile - Semifinale",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEulheNKqrUA1KC5o-C6UBSiZVExtCsphUxjD95x3bP8cx2efhxyRzGltvy-P9RO_QCLE84VkY9r_ZAE1DFH7NULFNY0fHqC7eJ9y4L8Rbrk4EYoOHAtbeH0HWdVzmGe9_9BGW_27q3jRGkinAAaCoonqbZd0xyNPRO04bb5tI0JHY_kQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHXCy5TS30N63WxzBK59Qf1_wFNs8FedIp0hS5xjAt8VHI4Go7J_lFdPxbXDuvFaiSb1_PgDPooP9CHfbAZAwFQQetkKhoSIhQ8tg1xvZ4S1HH07EY3ZmXSq-3XjabQoVJc6xkSVeKGnoV0LAD-s5kz-VH5A=",
+      "orario": "00:00",
+      "evento": "Calcio: Iraq vs Norvegia",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "canale": "DAZN",
+      "note": "Nella notte tra il 16 e il 17 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6k7eW3FSQ8R_eabtqRyPkTLAz40vpmhdMO9T8VO9ucInhyQ5fEQRjJtZqoPheibkHADxiLzXyke2VA5x8HI2aPXPNO0eSFYn2Hez4MMKi1FUDcyjj1gdq7jhOktS2cC8qtKRk7_YNWuoAebPK_KK1mx7S9jyKZLP5LyhlGR0XLPtaRBk5V00ZbO4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7015TsRlDHTRKvSsl2b-r-85-1c2glG_58uTPyQ5Ym5Z-Qb2pyu34beFH6lvI8p3BS0ezcBLR7YhT-4F2X2noV9lBvGIO0PJoR1GxIP-40WnINUhqNk415_VWbUx_IjWXLUySw5S38QDRvG8RmOwl55EJvNNXfobWt_-uLu8YCryOOIo0goVszzRojVeY6Znq1QahXwB02hEHUUWfRTCmtb60fixa26c2LfoPlh4tA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp8Q0ZHMhFBKmd5dwHE4qDNEQ-ZmEnXzAONqRSj7x0kokC9WsI1gv1lKENXTjoMhJHgcxsocWkvTWvKlCCtizBfvigHQb0d4T1Cg2203go_Dm3nicw3JkVuIGdMtKDXEFjGl9YYRBhf4dUqrP2LBd0I1BF8P5MtJ5bd5hfi4kVkCuMRX9DueFh3uhBM1IaMEP",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Iran vs Nuova Zelanda",
-      "competizione": "Mondiali 2026 - Fase a gironi (Gruppo G)",
+      "evento": "Calcio: Argentina vs Algeria",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
       "canale": "DAZN",
-      "note": "Data: 17 giugno 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCxw8CreFIMh4Vj88ZC0yfjLZO8pPjrgYkAO4Km4IIIdqGmXBnIRCoUTDa63awRboXLIWX5AnUjI7nR4OOOqWR7scJ0Bwp-cGWZbCgEA5SUK3pZSy0dtxugT5LClcA3y4BnR_zsgUDkIXhJ0eZdlBVcAvlC9jNEbOlSyyvvIYubs0cg3zjOwPrBlzXJspu",
+      "note": "Nella notte tra il 16 e il 17 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6k7eW3FSQ8R_eabtqRyPkTLAz40vpmhdMO9T8VO9ucInhyQ5fEQRjJtZqoPheibkHADxiLzXyke2VA5x8HI2aPXPNO0eSFYn2Hez4MMKi1FUDcyjj1gdq7jhOktS2cC8qtKRk7_YNWuoAebPK_KK1mx7S9jyKZLP5LyhlGR0XLPtaRBk5V00ZbO4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7015TsRlDHTRKvSsl2b-r-85-1c2glG_58uTPyQ5Ym5Z-Qb2pyu34beFH6lvI8p3BS0ezcBLR7YhT-4F2X2noV9lBvGIO0PJoR1GxIP-40WnINUhqNk415_VWbUx_IjWXLUySw5S38QDRvG8RmOwl55EJvNNXfobWt_-uLu8YCryOOIo0goVszzRojVeY6Znq1QahXwB02hEHUUWfRTCmtb60fixa26c2LfoPlh4tA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp8Q0ZHMhFBKmd5dwHE4qDNEQ-ZmEnXzAONqRSj7x0kokC9WsI1gv1lKENXTjoMhJHgcxsocWkvTWvKlCCtizBfvigHQb0d4T1Cg2203go_Dm3nicw3JkVuIGdMtKDXEFjGl9YYRBhf4dUqrP2LBd0I1BF8P5MtJ5bd5hfi4kVkCuMRX9DueFh3uhBM1IaMEP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Calcio: Austria vs Giordania",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "canale": "DAZN",
+      "note": "Nella notte tra il 16 e il 17 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7015TsRlDHTRKvSsl2b-r-85-1c2glG_58uTPyQ5Ym5Z-Qb2pyu34beFH6lvI8p3BS0ezcBLR7YhT-4F2X2noV9lBvGIO0PJoR1GxIP-40WnINUhqNk415_VWbUx_IjWXLUySw5S38QDRvG8RmOwl55EJvNNXfobWt_-uLu8YCryOOIo0goVszzRojVeY6Znq1QahXwB02hEHUUWfRTCmtb60fixa26c2LfoPlh4tA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp8Q0ZHMhFBKmd5dwHE4qDNEQ-ZmEnXzAONqRSj7x0kokC9WsI1gv1lKENXTjoMhJHgcxsocWkvTWvKlCCtizBfvigHQb0d4T1Cg2203go_Dm3nicw3JkVuIGdMtKDXEFjGl9YYRBhf4dUqrP2LBd0I1BF8P5MtJ5bd5hfi4kVkCuMRX9DueFh3uhBM1IaMEP",
       "accuratezza_orario": "esatto"
     }
   ]
