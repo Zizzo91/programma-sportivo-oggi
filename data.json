@@ -1,49 +1,58 @@
 {
-  "last_updated": "2026-06-16T18:20:32.016463+02:00",
+  "last_updated": "2026-06-16T22:35:38.883300+02:00",
   "events": [
     {
       "orario": "06:00",
-      "evento": "Formula 1 - GP Barcellona: Gara (Replica)",
-      "competizione": "Mondiale Formula 1 2026",
+      "evento": "Mondiale Formula 1 2026 - GP Barcellona: Gara",
+      "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara disputata il 14 giugno.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExxd5eUc1v8fdjkefSvCueZGf7GwrUkq-uWhViWviCIRSPXb64UQJZ6Se6R78hyiCRMShMZinUrYJhC7qgOEJtRI7_6GWt8a0xamdlnoqVCVoC_dzomG3ptxn6LSn_hIjgagYjCouMR6cG2qjpimGkdx8=",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEfm4WrjC5nOUs0CHZ_pXpoG9LHViLmwxLLV1ERKSjBidLBWt7zzu5INDXUCLcoGlRDRTvGsLkuumschk-2D8Xeo9ka1-TnTWyg1CWwg3FW5Fzf0YMfFG55UbQ9qzgQDH650SsZNnrMUxY7Qd_-1nY5_0hPCB0LcWsWxU",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Reyer Venezia - EA7 Emporio Armani Milano (Finale G3)",
+      "competizione": "Basket - LBA Serie A 2025/2026",
+      "canale": "Sky Sport Basket, Cielo, Sky Sport 1",
+      "note": "Gara-3 della finale scudetto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDEDr7GuxYi6bClu9Wnj468GI3dthaLgKokcsbVpFK5kpLc7NjyCjvQLQB5BAUDFIOypHJKv4V8aL2l9L6srPMiKnmjxDQ-isS4M1PQG3yV3EQOfri4-Pxc2lGtmsV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio - Mondiali 2026: Francia - Senegal",
-      "competizione": "Mondiali FIFA 2026 - Fase a gironi",
+      "evento": "Francia - Senegal",
+      "competizione": "Calcio - Mondiali 2026 (Fase a gironi, Gruppo I)",
       "canale": "Rai 1, DAZN",
-      "note": "Partita della fase a gironi dei Mondiali 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBk62GmnGWJI5rmZFYiyMiBnsrFRQ7FbwXEODlS-OdKHAEjBQ4oGzZV783Xui8UCU7_7ryrxZhec3_mEIBXleRzVbVkgwBVJ6BGuskXdFNE5_nVprMSeb00fwPVX73e_bJo6YjVotVEOvYUl0m7mK03utkhkbvLf3qwXc7MxsjkMTDDj5SWS24Fke2zrne4dxVyb7nhaJPvOiKlDzgZj-bf51lSBZ1vwk89YX7Kl1tg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeaZdV8xlBUDyZz1EqTPIraYtcn7wiRhsd5XlsGUrYj4GsgKYuDcSMmq7Y_wWtN0_v48fE-bjudT77NCvdG7gA_ervYfBeR9n9Xv_QHcvlPeMjOTT_zPN3Gsfp-bonyft3F4hZLGf-efCknQm5QwtkIGkKSyKHqxZ8dmWDx8fEtzxLoByAZ_XALs=",
+      "note": "Esordio dei campioni in carica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC-3hwnCapDTlU7RhLB4_0fMhxeo_9L86TxIel7GTU6LS13xcZW7hDv0tFdyuedFWmjUDhIFVMxO_-YG8JsrJ4gXLpEO79vFGzyz1bTtKmKN-3FvGGFDYZxFqR9a9Mb_W5OKxfQ6vckYLo2U7lQ1KE7gPOFev9Hh1KFNL4HSYpe8iTIX_Hp5ikQtRh6biUL9RlR1KySRxtuBaJk_abV6rxUt-VccfOluzavA5Y7x8-X32MsbKVKjH33poKNw=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Calcio - Mondiali 2026: Iraq - Norvegia",
-      "competizione": "Mondiali FIFA 2026 - Fase a gironi",
+      "evento": "Iraq - Norvegia",
+      "competizione": "Calcio - Mondiali 2026 (Fase a gironi, Gruppo I)",
       "canale": "DAZN",
-      "note": "Partita della fase a gironi dei Mondiali 2026 (nella notte tra il 16 e il 17 giugno).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBk62GmnGWJI5rmZFYiyMiBnsrFRQ7FbwXEODlS-OdKHAEjBQ4oGzZV783Xui8UCU7_7ryrxZhec3_mEIBXleRzVbVkgwBVJ6BGuskXdFNE5_nVprMSeb00fwPVX73e_bJo6YjVotVEOvYUl0m7mK03utkhkbvLf3qwXc7MxsjkMTDDj5SWS24Fke2zrne4dxVyb7nhaJPvOiKlDzgZj-bf51lSBZ1vwk89YX7Kl1tg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeaZdV8xlBUDyZz1EqTPIraYtcn7wiRhsd5XlsGUrYj4GsgKYuDcSMmq7Y_wWtN0_v48fE-bjudT77NCvdG7gA_ervYfBeR9n9Xv_QHcvlPeMjOTT_zPN3Gsfp-bonyft3F4hZLGf-efCknQm5QwtkIGkKSyKHqxZ8dmWDx8fEtzxLoByAZ_XALs=",
+      "note": "Inizio il 17 giugno 2026 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8RQulJZg-j8pdfOkxB7JYzFGV8e_Lz9zFCTLO3sZBQ4yh3bP21uMFWXJeZRjaFRYk270axMEF9eeulJEU_FGiFtTS6fUjzgnYo54N_1_LWWDYldUu0zGWSIe_gEFsx-SaAcy4aEzNGNdFxD0_ut15l-DvkYw_ltAHYUL0jMS0iMP_rKDQX3zE1X9C",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Calcio - Mondiali 2026: Argentina - Algeria",
-      "competizione": "Mondiali FIFA 2026 - Fase a gironi",
+      "evento": "Argentina - Algeria",
+      "competizione": "Calcio - Mondiali 2026 (Fase a gironi, Gruppo J)",
       "canale": "DAZN",
-      "note": "Partita della fase a gironi dei Mondiali 2026 (nella notte tra il 16 e il 17 giugno).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBk62GmnGWJI5rmZFYiyMiBnsrFRQ7FbwXEODlS-OdKHAEjBQ4oGzZV783Xui8UCU7_7ryrxZhec3_mEIBXleRzVbVkgwBVJ6BGuskXdFNE5_nVprMSeb00fwPVX73e_bJo6YjVotVEOvYUl0m7mK03utkhkbvLf3qwXc7MxsjkMTDDj5SWS24Fke2zrne4dxVyb7nhaJPvOiKlDzgZj-bf51lSBZ1vwk89YX7Kl1tg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeaZdV8xlBUDyZz1EqTPIraYtcn7wiRhsd5XlsGUrYj4GsgKYuDcSMmq7Y_wWtN0_v48fE-bjudT77NCvdG7gA_ervYfBeR9n9Xv_QHcvlPeMjOTT_zPN3Gsfp-bonyft3F4hZLGf-efCknQm5QwtkIGkKSyKHqxZ8dmWDx8fEtzxLoByAZ_XALs=",
+      "note": "Inizio il 17 giugno 2026 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8RQulJZg-j8pdfOkxB7JYzFGV8e_Lz9zFCTLO3sZBQ4yh3bP21uMFWXJeZRjaFRYk270axMEF9eeulJEU_FGiFtTS6fUjzgnYo54N_1_LWWDYldUu0zGWSIe_gEFsx-SaAcy4aEzNGNdFxD0_ut15l-DvkYw_ltAHYUL0jMS0iMP_rKDQX3zE1X9C",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Calcio - Mondiali 2026: Austria - Giordania",
-      "competizione": "Mondiali FIFA 2026 - Fase a gironi",
+      "evento": "Austria - Giordania",
+      "competizione": "Calcio - Mondiali 2026 (Fase a gironi, Gruppo J)",
       "canale": "DAZN",
-      "note": "Partita della fase a gironi dei Mondiali 2026 (nella notte tra il 16 e il 17 giugno, fino alle 06:00 CET del giorno successivo).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnqud6n7Tac6ZNWauOFyJBPnpnVk_ZKcFCe77sjQ-GycpzoGo0Pgblwq0jtYWh3CwH-3p57RLaghOPhRodZ5PedYTh9jFQbA6MNfcCTxyBiCAqjRKjXPjb09DRmpXDoyaQG8nwglaIv4yJz3bqZULt_W-ub2oZRO0zq5gc0zfUwPxnVB5nf096ism4nDR_6dxC6z9aROuZ2lAQph7KDnJPqCVE6HK3QLu5pqBaG4p0qQ==",
+      "note": "Inizio il 17 giugno 2026 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC-3hwnCapDTlU7RhLB4_0fMhxeo_9L86TxIel7GTU6LS13xcZW7hDv0tFdyuedFWmjUDhIFVMxO_-YG8JsrJ4gXLpEO79vFGGFDYZxFqR9a9Mb_W5OKxfQ6vckYLo2U7lQ1KE7gPOFev9Hh1KFNL4HSYpe8iTIX_Hp5ikQtRh6biUL9RlR1KySRxtuBaJk_abV6rxUt-VccfOluzavA5Y7x8-X32MsbKVKjH33poKNw=",
       "accuratezza_orario": "esatto"
     }
   ]
