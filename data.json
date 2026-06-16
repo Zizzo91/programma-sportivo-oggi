@@ -1,58 +1,85 @@
 {
-  "last_updated": "2026-06-15T18:53:11.546272+02:00",
+  "last_updated": "2026-06-16T04:39:01.319374+02:00",
   "events": [
     {
-      "orario": "18:00",
-      "evento": "Spagna - Capo Verde",
-      "competizione": "FIFA World Cup 2026 - Fase a Gironi",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Skuola.net, OA Sport, Fanpage, Adnkronos, Il Fatto Quotidiano, Libero, Goal.com",
+      "orario": "12:00",
+      "evento": "Italia vs Canada",
+      "competizione": "Mondiale Softball 2026",
+      "canale": "Rai Sport, Rai Play",
+      "note": "Esordio dell'Italia",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8a37-qegocxqAljfArjEwLc7BR-qJmCicbNHlwEvu4yCbCwYyk6rG5qzRChlob1G7ccFWvNjOfeTcvTafQd5RHA-ljNZ2Xm9nx76xPV0W-npUDrQb8fPhKGVyIFKCUwTd8pMQqD_BTSsfAdDn54JwCz3eTAqOwuNZqN_SF4YJjDEm3rvWvwRMi9tztAk7MLi_RlEhcFfSO6Mf0Mog8dJiLwS77c7GEt4LfiTUydmkDiHF9mqbF3MlY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSpKeq6ZU_pnx7MmNJ4GwidhInUdJUjHvRPLzODd7Lr3rMwCzXealJ0Hp1WVxBoaktOO87DNsKE95hCMqCXllYqYsYSReDc739sHlt3Lic5jFHXZpagmDzgLMArl7IOssHmObwrl9OCI0LW6oLSzNKXKE8keVztKNveVJ2khWp9LxQ2EF4Tms6qEh7-KCwQ_Evm7kcJ4nsV4X23eOlR0TQRz7MvHygZ0-YEeUZHs4UjCW_ri7SQyPcdnmSYJbFVVxwIe3Y6U7LQuD4T_tQq4gmATjL0t7V4o17xVhTdqmJtzk=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA (dalle 11:30*)",
-      "evento": "Tennis: Flavio Cobolli (ITA) vs Frances Tiafoe (USA)",
-      "competizione": "ATP 500 Halle - Primi turni",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, SkyGo, Now, Tennis Tv",
-      "note": "4° match sul Campo Centrale, orario stimato dopo i match precedenti.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
+      "orario": "14:30",
+      "evento": "Diamond League 2026 - Oslo",
+      "competizione": "Atletica Leggera",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpfwHT6CGI4r6rZSFF3ytleKZH9506b04d3j9Mf_BdoqzFoMZsppmisX7384V8PJKd0WHFHzdL0pLl-sxqNX2MX4ILZbIzopg1znNg7Jr5fguJp2QcegC3J-WWVQG8dEaUh59SdDQBV13gdqBPIC8baOn7EJssKUpymZw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:10",
+      "evento": "Giro d'Italia Next Gen 2026 - 3a tappa",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpfwHT6CGI4r6rZSFF3ytleKZH9506b04d3j9Mf_BdoqzFoMZsppmisX7384V8PJKd0WHFHzdL0pLl-sxqNX2MX4ILZbIzopg1znNg7Jr5fguJp2QcegC3J-WWVQG8dEaUh59SdDQBV13gdqBPIC8baOn7EJssKUpymZw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:10",
+      "evento": "Europei Assoluti di Scherma",
+      "competizione": "Europei di Antony 2026",
+      "canale": "Rai Sport HD, Eurosport",
+      "note": "Fasi finali",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4GpK9_kCi304ELAJy8UQ6gTWgINWsPGCYozXPcyN3E6vdvh7dRTE24FbKoJoLSp0TKYyxc9ZrgGDHP_Fe0-u3b-1agREwEFj77KAt9qN_LprsZKX_qLp7XZmQcCu-MeGColhFbWRtjL4GLbyKUipmKXGo2AfjZ-v3QiiI9B_48pney8w46pjl48v-dzakj_BkISF3TDmQ1G1b5jf-HGbnokJAUUTLb_AStMUKEE7c0TKN5lcyw=",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Belgio - Egitto",
-      "competizione": "FIFA World Cup 2026 - Fase a Gironi",
-      "canale": "Rai 1, RaiPlay, DAZN",
+      "evento": "Belgio vs Egitto",
+      "competizione": "Mondiali 2026 - Fase a gironi (Gruppo G)",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Skuola.net, OA Sport, Fanpage, Adnkronos, Il Fatto Quotidiano, Libero, Goal.com",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCxw8CreFIMh4Vj88ZC0yfjLZO8pPjrgYkAO4Km4IIIdqGmXBnIRCoUTDa63awRboXLIWX5AnUjI7nR4OOoWR7scJ0Bwp-cGWZbCgEA5SUK3pZSy0dtxugT5LClcA3y4BnR_zsgUDkIXhJ0eZdlBVcAvlC9jNEbOlSyyvvIYubs0cg3zjOwPrBlzXJspu",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Arabia Saudita - Uruguay",
-      "competizione": "FIFA World Cup 2026 - Fase a Gironi",
+      "orario": "21:00",
+      "evento": "Arabia Saudita vs Uruguay",
+      "competizione": "Mondiali 2026 - Fase a gironi (Gruppo H)",
       "canale": "DAZN",
-      "note": "Nella notte tra lunedì 15 e martedì 16 giugno.",
-      "fonte": "Skuola.net, OA Sport, Fanpage, Adnkronos, Il Fatto Quotidiano, Libero, Goal.com",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCxw8CreFIMh4Vj88ZC0yfjLZO8pPjrgYkAO4Km4IIIdqGmXBnIRCoUTDa63awRboXLIWX5AnUjI7nR4OOOqWR7scJ0Bwp-cGWZbCgEA5SUK3pZSy0dtxugT5LClcA3y4BnR_zsgUDkIXhJ0eZdlBVcAvlC9jNEbOlSyyvvIYubs0cg3zjOwPrBlzXJspu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Francia vs Senegal",
+      "competizione": "Mondiali 2026 - Fase a gironi (Gruppo I)",
+      "canale": "Rai 1, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQF4IjapU6BcGzLPRip0Bjlde7VqK9vUKm4yWoC3lVkdmU9Z84BlwGxducejgb9H2G-dnfn_QwP4ny35fYBSlmgjgsnRZOVOmbU3xMiQcVHYEj1ZrCqDHdhGZYFBm3SmM4Ia_nCDaf7eXlJTqY3F_O3ARdX8pZ8xrpIH-ZqiPmVM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuOY1AZiL3vSdwbRJQ0fgWY_BRjxEhqjXQEUq2qyzNw8NRDwtav8GEVTl2kEjdtdnKeAHYHuCOcCq-7qyPh_tzxgG1E1lme9hNZW-310j0bM58_i88kJz7KPyGYsRz-KlWQcXnvAXNI0Sy6tbqlpoFkY4mdeTzJnHCktA2i9JvFo21414cszI4WNDFtFE0Jtqx_VFrwhiDvgfLUf0EDDM3GXwQl5tKB2AGYLlbrdDb6b4=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:50",
+      "evento": "Brescia - Savona - gara 1",
+      "competizione": "Serie A1 Pallanuoto Maschile - Semifinale",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEulheNKqrUA1KC5o-C6UBSiZVExtCsphUxjD95x3bP8cx2efhxyRzGltvy-P9RO_QCLE84VkY9r_ZAE1DFH7NULFNY0fHqC7eJ9y4L8Rbrk4EYoOHAtbeH0HWdVzmGe9_9BGW_27q3jRGkinAAaCoonqbZd0xyNPRO04bb5tI0JHY_kQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHXCy5TS30N63WxzBK59Qf1_wFNs8FedIp0hS5xjAt8VHI4Go7J_lFdPxbXDuvFaiSb1_PgDPooP9CHfbAZAwFQQetkKhoSIhQ8tg1xvZ4S1HH07EY3ZmXSq-3XjabQoVJc6xkSVeKGnoV0LAD-s5kz-VH5A=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Iran - Nuova Zelanda",
-      "competizione": "FIFA World Cup 2026 - Fase a Gironi",
+      "evento": "Iran vs Nuova Zelanda",
+      "competizione": "Mondiali 2026 - Fase a gironi (Gruppo G)",
       "canale": "DAZN",
-      "note": "Nella notte tra lunedì 15 e martedì 16 giugno.",
-      "fonte": "Skuola.net, OA Sport, Fanpage, Adnkronos, Il Fatto Quotidiano, Libero, Goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "Mondiale Formula 1 2026 - GP Barcellona: Gara",
-      "competizione": "Formula 1 - Replica Gara",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara disputata il 14 giugno.",
-      "fonte": "Guida TV",
+      "note": "Data: 17 giugno 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCxw8CreFIMh4Vj88ZC0yfjLZO8pPjrgYkAO4Km4IIIdqGmXBnIRCoUTDa63awRboXLIWX5AnUjI7nR4OOOqWR7scJ0Bwp-cGWZbCgEA5SUK3pZSy0dtxugT5LClcA3y4BnR_zsgUDkIXhJ0eZdlBVcAvlC9jNEbOlSyyvvIYubs0cg3zjOwPrBlzXJspu",
       "accuratezza_orario": "esatto"
     }
   ]
