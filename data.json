@@ -1,58 +1,49 @@
 {
-  "last_updated": "2026-06-16T12:51:40.816750+02:00",
+  "last_updated": "2026-06-16T18:20:32.016463+02:00",
   "events": [
     {
       "orario": "06:00",
-      "evento": "Mondiale Formula 1 2026 - GP Barcellona: Gara (Replica)",
-      "competizione": "Formula 1",
+      "evento": "Formula 1 - GP Barcellona: Gara (Replica)",
+      "competizione": "Mondiale Formula 1 2026",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFrc-HC0jRuMjvc9zB4lPPegDB-mCVh3wbxcHO98AWC9leMrGEiRIk_9g5y-F7mN57G9y4DoKzohIWKYl4HYzwbDH_n-sCi9d6hruI21yWT-OdvtpJ7CJAmqgH9390djWYu9sISEmGUL6rcHnN-vRqoIM=",
+      "note": "Replica della gara disputata il 14 giugno.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExxd5eUc1v8fdjkefSvCueZGf7GwrUkq-uWhViWviCIRSPXb64UQJZ6Se6R78hyiCRMShMZinUrYJhC7qgOEJtRI7_6GWt8a0xamdlnoqVCVoC_dzomG3ptxn6LSn_hIjgagYjCouMR6cG2qjpimGkdx8=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Tennis Doppio: Cobolli/Shelton vs Pavlasek/Vavassori",
-      "competizione": "ATP 500 Halle",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Match a seguire dopo altri incontri",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDjOuR_IjrzLg8s9AaHTw2BVs3espORgIeK1hqvNruWkYM-Akpb-pzrVOh0RvbRO3pB0m3M3FQmWRgE6gk4H4qcCD7iyofFTeMwXtWIQNS7lb8P8ywyMx5IoTbIG2o53kdLY4sGW3qahrJPWHbh3WNK__E9WCdgmpj73ZqeQgHmbItxb9Kw=",
-      "accuratezza_orario": "tba"
-    },
-    {
       "orario": "21:00",
-      "evento": "Calcio: Francia vs Senegal",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "evento": "Calcio - Mondiali 2026: Francia - Senegal",
+      "competizione": "Mondiali FIFA 2026 - Fase a gironi",
       "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXmlf1_a5pSPC2AentVe7WGaTCzz7k0L8FARw0bVhg_V6hJhAJT1OZPt2LnWxQO8QXHHr0kjcTkzR9Y66P3NBp2sMUvHjQVMl4-YEMOmWgyb0mdZjhk5P5MsvqSOMU6NbLid3W8uzOKKH_-Xb5H07YwH-GmNPKuHflTe6bwHaBh6NFFmODrkyhovN7gzX-Lu2IqEQxkjXIqxbwhBDutBQoooUBL_P8IOtVsik4Hmo_oQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6k7eW3FSQ8R_eabtqRyPkTLAz40vpmhdMO9T8VO9ucInhyQ5fEQRjJtZqoPheibkHADxiLzXyke2VA5x8HI2aPXPNO0eSFYn2Hez4MMKi1FUDcyjj1gdq7jhOktS2cC8qtKRk7_YNWuoAebPK_KK1mx7S9jyKZLP5LyhlGR0XLPtaRBk5V00ZbO4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7015TsRlDHTRKvSsl2b-r-85-1c2glG_58uTPyQ5Ym5Z-Qb2pyu34beFH6lvI8p3BS0ezcBLR7YhT-4F2X2noV9lBvGIO0PJoR1GxIP-40WnINUhqNk415_VWbUx_IjWXLUySw5S38QDRvG8RmOwl55EJvNNXfobWt_-uLu8YCryOOIo0goVszzRojVeY6Znq1QahXwB02hEHUUWfRTCmtb60fixa26c2LfoPlh4tA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3DF2wU3uWmXRGu959C2E0VDXLJ7PC3F2wXD9AaePuxKN9PxtVCQ3G6xI77BmMDs-sDRMDTu1h1wObnyv47-luZkc7nD8XaIdANITqvjeWzOw9tcMYiwHyaQ3hGrM15pb6F8i8ICp4lttEt2wHtOCDnDw4gZh8tT_jnxfJsPLjRF0eTyys4DuWUEFt2rMgk1ZyztTUVW17hm5ZvnYCrYhMwgG6NGkH7KlVpfWUXnpfiXG3ph_5TCIRJFEiEnscuagEljgO2zKEfMb0NCw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp8Q0ZHMhFBKmd5dwHE4qDNEQ-ZmEnXzAONqRSj7x0kokC9WsI1gv1lKENXTjoMhJHgcxsocWkvTWvKlCCtizBfvigHQb0d4T1Cg2203go_Dm3nicw3JkVuIGdMtKDXEFjGl9YYRBhf4dUqrP2LBd0I1BF8P5MtJ5bd5hfi4kVkCuMRX9DueFh3uhBM1IaMEP",
+      "note": "Partita della fase a gironi dei Mondiali 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBk62GmnGWJI5rmZFYiyMiBnsrFRQ7FbwXEODlS-OdKHAEjBQ4oGzZV783Xui8UCU7_7ryrxZhec3_mEIBXleRzVbVkgwBVJ6BGuskXdFNE5_nVprMSeb00fwPVX73e_bJo6YjVotVEOvYUl0m7mK03utkhkbvLf3qwXc7MxsjkMTDDj5SWS24Fke2zrne4dxVyb7nhaJPvOiKlDzgZj-bf51lSBZ1vwk89YX7Kl1tg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeaZdV8xlBUDyZz1EqTPIraYtcn7wiRhsd5XlsGUrYj4GsgKYuDcSMmq7Y_wWtN0_v48fE-bjudT77NCvdG7gA_ervYfBeR9n9Xv_QHcvlPeMjOTT_zPN3Gsfp-bonyft3F4hZLGf-efCknQm5QwtkIGkKSyKHqxZ8dmWDx8fEtzxLoByAZ_XALs=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Calcio: Iraq vs Norvegia",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "evento": "Calcio - Mondiali 2026: Iraq - Norvegia",
+      "competizione": "Mondiali FIFA 2026 - Fase a gironi",
       "canale": "DAZN",
-      "note": "Nella notte tra il 16 e il 17 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6k7eW3FSQ8R_eabtqRyPkTLAz40vpmhdMO9T8VO9ucInhyQ5fEQRjJtZqoPheibkHADxiLzXyke2VA5x8HI2aPXPNO0eSFYn2Hez4MMKi1FUDcyjj1gdq7jhOktS2cC8qtKRk7_YNWuoAebPK_KK1mx7S9jyKZLP5LyhlGR0XLPtaRBk5V00ZbO4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7015TsRlDHTRKvSsl2b-r-85-1c2glG_58uTPyQ5Ym5Z-Qb2pyu34beFH6lvI8p3BS0ezcBLR7YhT-4F2X2noV9lBvGIO0PJoR1GxIP-40WnINUhqNk415_VWbUx_IjWXLUySw5S38QDRvG8RmOwl55EJvNNXfobWt_-uLu8YCryOOIo0goVszzRojVeY6Znq1QahXwB02hEHUUWfRTCmtb60fixa26c2LfoPlh4tA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp8Q0ZHMhFBKmd5dwHE4qDNEQ-ZmEnXzAONqRSj7x0kokC9WsI1gv1lKENXTjoMhJHgcxsocWkvTWvKlCCtizBfvigHQb0d4T1Cg2203go_Dm3nicw3JkVuIGdMtKDXEFjGl9YYRBhf4dUqrP2LBd0I1BF8P5MtJ5bd5hfi4kVkCuMRX9DueFh3uhBM1IaMEP",
+      "note": "Partita della fase a gironi dei Mondiali 2026 (nella notte tra il 16 e il 17 giugno).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBk62GmnGWJI5rmZFYiyMiBnsrFRQ7FbwXEODlS-OdKHAEjBQ4oGzZV783Xui8UCU7_7ryrxZhec3_mEIBXleRzVbVkgwBVJ6BGuskXdFNE5_nVprMSeb00fwPVX73e_bJo6YjVotVEOvYUl0m7mK03utkhkbvLf3qwXc7MxsjkMTDDj5SWS24Fke2zrne4dxVyb7nhaJPvOiKlDzgZj-bf51lSBZ1vwk89YX7Kl1tg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeaZdV8xlBUDyZz1EqTPIraYtcn7wiRhsd5XlsGUrYj4GsgKYuDcSMmq7Y_wWtN0_v48fE-bjudT77NCvdG7gA_ervYfBeR9n9Xv_QHcvlPeMjOTT_zPN3Gsfp-bonyft3F4hZLGf-efCknQm5QwtkIGkKSyKHqxZ8dmWDx8fEtzxLoByAZ_XALs=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Calcio: Argentina vs Algeria",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "evento": "Calcio - Mondiali 2026: Argentina - Algeria",
+      "competizione": "Mondiali FIFA 2026 - Fase a gironi",
       "canale": "DAZN",
-      "note": "Nella notte tra il 16 e il 17 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6k7eW3FSQ8R_eabtqRyPkTLAz40vpmhdMO9T8VO9ucInhyQ5fEQRjJtZqoPheibkHADxiLzXyke2VA5x8HI2aPXPNO0eSFYn2Hez4MMKi1FUDcyjj1gdq7jhOktS2cC8qtKRk7_YNWuoAebPK_KK1mx7S9jyKZLP5LyhlGR0XLPtaRBk5V00ZbO4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7015TsRlDHTRKvSsl2b-r-85-1c2glG_58uTPyQ5Ym5Z-Qb2pyu34beFH6lvI8p3BS0ezcBLR7YhT-4F2X2noV9lBvGIO0PJoR1GxIP-40WnINUhqNk415_VWbUx_IjWXLUySw5S38QDRvG8RmOwl55EJvNNXfobWt_-uLu8YCryOOIo0goVszzRojVeY6Znq1QahXwB02hEHUUWfRTCmtb60fixa26c2LfoPlh4tA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp8Q0ZHMhFBKmd5dwHE4qDNEQ-ZmEnXzAONqRSj7x0kokC9WsI1gv1lKENXTjoMhJHgcxsocWkvTWvKlCCtizBfvigHQb0d4T1Cg2203go_Dm3nicw3JkVuIGdMtKDXEFjGl9YYRBhf4dUqrP2LBd0I1BF8P5MtJ5bd5hfi4kVkCuMRX9DueFh3uhBM1IaMEP",
+      "note": "Partita della fase a gironi dei Mondiali 2026 (nella notte tra il 16 e il 17 giugno).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBk62GmnGWJI5rmZFYiyMiBnsrFRQ7FbwXEODlS-OdKHAEjBQ4oGzZV783Xui8UCU7_7ryrxZhec3_mEIBXleRzVbVkgwBVJ6BGuskXdFNE5_nVprMSeb00fwPVX73e_bJo6YjVotVEOvYUl0m7mK03utkhkbvLf3qwXc7MxsjkMTDDj5SWS24Fke2zrne4dxVyb7nhaJPvOiKlDzgZj-bf51lSBZ1vwk89YX7Kl1tg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeaZdV8xlBUDyZz1EqTPIraYtcn7wiRhsd5XlsGUrYj4GsgKYuDcSMmq7Y_wWtN0_v48fE-bjudT77NCvdG7gA_ervYfBeR9n9Xv_QHcvlPeMjOTT_zPN3Gsfp-bonyft3F4hZLGf-efCknQm5QwtkIGkKSyKHqxZ8dmWDx8fEtzxLoByAZ_XALs=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Calcio: Austria vs Giordania",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "evento": "Calcio - Mondiali 2026: Austria - Giordania",
+      "competizione": "Mondiali FIFA 2026 - Fase a gironi",
       "canale": "DAZN",
-      "note": "Nella notte tra il 16 e il 17 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7015TsRlDHTRKvSsl2b-r-85-1c2glG_58uTPyQ5Ym5Z-Qb2pyu34beFH6lvI8p3BS0ezcBLR7YhT-4F2X2noV9lBvGIO0PJoR1GxIP-40WnINUhqNk415_VWbUx_IjWXLUySw5S38QDRvG8RmOwl55EJvNNXfobWt_-uLu8YCryOOIo0goVszzRojVeY6Znq1QahXwB02hEHUUWfRTCmtb60fixa26c2LfoPlh4tA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp8Q0ZHMhFBKmd5dwHE4qDNEQ-ZmEnXzAONqRSj7x0kokC9WsI1gv1lKENXTjoMhJHgcxsocWkvTWvKlCCtizBfvigHQb0d4T1Cg2203go_Dm3nicw3JkVuIGdMtKDXEFjGl9YYRBhf4dUqrP2LBd0I1BF8P5MtJ5bd5hfi4kVkCuMRX9DueFh3uhBM1IaMEP",
+      "note": "Partita della fase a gironi dei Mondiali 2026 (nella notte tra il 16 e il 17 giugno, fino alle 06:00 CET del giorno successivo).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnqud6n7Tac6ZNWauOFyJBPnpnVk_ZKcFCe77sjQ-GycpzoGo0Pgblwq0jtYWh3CwH-3p57RLaghOPhRodZ5PedYTh9jFQbA6MNfcCTxyBiCAqjRKjXPjb09DRmpXDoyaQG8nwglaIv4yJz3bqZULt_W-ub2oZRO0zq5gc0zfUwPxnVB5nf096ism4nDR_6dxC6z9aROuZ2lAQph7KDnJPqCVE6HK3QLu5pqBaG4p0qQ==",
       "accuratezza_orario": "esatto"
     }
   ]
