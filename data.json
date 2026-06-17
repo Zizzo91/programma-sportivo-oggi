@@ -1,58 +1,85 @@
 {
-  "last_updated": "2026-06-17T12:23:26.870156+02:00",
+  "last_updated": "2026-06-17T16:48:11.261526+02:00",
   "events": [
     {
-      "orario": "11:30",
-      "evento": "ATP 500 Halle Open - Primo e Secondo Turno",
-      "competizione": "Tennis - ATP Tour",
-      "canale": "Sky Sport Uno",
-      "note": "Include il match di Lorenzo Sonego (Italia) contro Ben Shelton",
-      "fonte": "TuttoAtalanta.com, OA Sport",
+      "orario": "09:00",
+      "evento": "GP Barcellona: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 (207)",
+      "note": "",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00*",
+      "evento": "Ben Shelton vs Lorenzo Sonego",
+      "competizione": "ATP 500 Halle",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, NOW",
+      "note": "Match di singolare maschile. Orario stimato dopo il match Bergs-Fritz.",
+      "fonte": "Il tennis in TV oggi 17 giugno: Sonego sfida Shelton, Italiani in campo mercoledì 17 giugno: il ripescato Sonego sfida Shelton all'esordio, Italiani in Campo (ATP-WTA-Challenger): I risultati completi con il dettaglio del 17 Giugno 2026",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "19:00",
-      "evento": "Portogallo - RD Congo",
-      "competizione": "Mondiali di Calcio 2026 - Gruppo K",
-      "canale": "DAZN",
+      "orario": "16:00*",
+      "evento": "Flavio Cobolli / Ben Shelton vs Alexander Zverev / Marcelo Melo",
+      "competizione": "ATP 500 Halle (Doppio)",
+      "canale": "Sky Sport Uno, Sky Sport Arena, NOW",
+      "note": "Match di doppio maschile. Orario stimato nel pomeriggio.",
+      "fonte": "Italiani in campo mercoledì 17 giugno: il ripescato Sonego sfida Shelton all'esordio",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Al Hilal-NEOM",
+      "competizione": "Campionato Saudita",
+      "canale": "Sportitalia",
       "note": "",
-      "fonte": "Libero Magazine, Fanpage, Affari Italiani, HTML.it, Punto Informatico, HDBlog, TuttoAtalanta.com",
+      "fonte": "Sport in TV mercoledi 17 giugno 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Challenger Parma (Differita)",
+      "competizione": "Challenger 125 Parma",
+      "canale": "Supertennis",
+      "note": "La trasmissione in differita include match con giocatori italiani come Stefano Napolitano, Stefano Travaglia, Marco Cecchinato, Federico Bondioli.",
+      "fonte": "Sport in TV mercoledi 17 giugno 2026 - Programmi TV, Il tennis in TV oggi 17 giugno: Sonego sfida Shelton a Berlino, Italiani in Campo (ATP-WTA-Challenger): I risultati completi con il dettaglio del 17 Giugno 2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:40",
+      "evento": "Inghilterra - Croazia",
+      "competizione": "Mondiali di Calcio 2026",
+      "canale": "Rai 1",
+      "note": "",
+      "fonte": "Il calcio in TV oggi: apre Cristiano Ronaldo, poi Inghilterra-Croazia. Dove vedere le dirette, Sport in TV mercoledi 17 giugno 2026 - Programmi TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Inghilterra - Croazia",
-      "competizione": "Mondiali di Calcio 2026 - Gruppo L",
-      "canale": "Rai 1, DAZN",
+      "evento": "Estudiantes-Racing",
+      "competizione": "Campionato Argentino",
+      "canale": "Sportitalia",
       "note": "",
-      "fonte": "ProgrammiTV.com, Sky Sport, OA Sport, Libero Magazine, Fanpage, Affari Italiani, HTML.it, Punto Informatico, HDBlog, TuttoAtalanta.com, Dituttounpop.it",
+      "fonte": "Sport in TV mercoledi 17 giugno 2026 - Programmi TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "Ghana - Panama",
-      "competizione": "Mondiali di Calcio 2026 - Gruppo L",
-      "canale": "DAZN",
-      "note": "Data e orario italiano",
-      "fonte": "Sky Sport, Fanpage, HTML.it, Punto Informatico, HDBlog, TuttoAtalanta.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Uzbekistan - Colombia",
-      "competizione": "Mondiali di Calcio 2026 - Gruppo K",
-      "canale": "DAZN",
-      "note": "Data e orario italiano",
-      "fonte": "Sky Sport, Fanpage, HTML.it, Punto Informatico, HDBlog, TuttoAtalanta.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Austria - Giordania",
-      "competizione": "Mondiali di Calcio 2026",
-      "canale": "DAZN",
+      "orario": "23:00",
+      "evento": "GP Monaco: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 (207)",
       "note": "",
-      "fonte": "OA Sport, Fanpage",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Manchester City - Bournemouth",
+      "competizione": "Calcio",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Sport in TV mercoledi 17 giugno 2026 - Programmi TV",
       "accuratezza_orario": "esatto"
     }
   ]
