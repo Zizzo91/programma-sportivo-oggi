@@ -1,58 +1,58 @@
 {
-  "last_updated": "2026-06-16T22:35:38.883300+02:00",
+  "last_updated": "2026-06-17T12:23:26.870156+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Mondiale Formula 1 2026 - GP Barcellona: Gara",
-      "competizione": "Formula 1",
+      "orario": "11:30",
+      "evento": "ATP 500 Halle Open - Primo e Secondo Turno",
+      "competizione": "Tennis - ATP Tour",
       "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEfm4WrjC5nOUs0CHZ_pXpoG9LHViLmwxLLV1ERKSjBidLBWt7zzu5INDXUCLcoGlRDRTvGsLkuumschk-2D8Xeo9ka1-TnTWyg1CWwg3FW5Fzf0YMfFG55UbQ9qzgQDH650SsZNnrMUxY7Qd_-1nY5_0hPCB0LcWsWxU",
+      "note": "Include il match di Lorenzo Sonego (Italia) contro Ben Shelton",
+      "fonte": "TuttoAtalanta.com, OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Portogallo - RD Congo",
+      "competizione": "Mondiali di Calcio 2026 - Gruppo K",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Libero Magazine, Fanpage, Affari Italiani, HTML.it, Punto Informatico, HDBlog, TuttoAtalanta.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Reyer Venezia - EA7 Emporio Armani Milano (Finale G3)",
-      "competizione": "Basket - LBA Serie A 2025/2026",
-      "canale": "Sky Sport Basket, Cielo, Sky Sport 1",
-      "note": "Gara-3 della finale scudetto",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDEDr7GuxYi6bClu9Wnj468GI3dthaLgKokcsbVpFK5kpLc7NjyCjvQLQB5BAUDFIOypHJKv4V8aL2l9L6srPMiKnmjxDQ-isS4M1PQG3yV3EQOfri4-Pxc2lGtmsV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Francia - Senegal",
-      "competizione": "Calcio - Mondiali 2026 (Fase a gironi, Gruppo I)",
+      "orario": "22:00",
+      "evento": "Inghilterra - Croazia",
+      "competizione": "Mondiali di Calcio 2026 - Gruppo L",
       "canale": "Rai 1, DAZN",
-      "note": "Esordio dei campioni in carica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC-3hwnCapDTlU7RhLB4_0fMhxeo_9L86TxIel7GTU6LS13xcZW7hDv0tFdyuedFWmjUDhIFVMxO_-YG8JsrJ4gXLpEO79vFGzyz1bTtKmKN-3FvGGFDYZxFqR9a9Mb_W5OKxfQ6vckYLo2U7lQ1KE7gPOFev9Hh1KFNL4HSYpe8iTIX_Hp5ikQtRh6biUL9RlR1KySRxtuBaJk_abV6rxUt-VccfOluzavA5Y7x8-X32MsbKVKjH33poKNw=",
+      "note": "",
+      "fonte": "ProgrammiTV.com, Sky Sport, OA Sport, Libero Magazine, Fanpage, Affari Italiani, HTML.it, Punto Informatico, HDBlog, TuttoAtalanta.com, Dituttounpop.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Iraq - Norvegia",
-      "competizione": "Calcio - Mondiali 2026 (Fase a gironi, Gruppo I)",
+      "orario": "01:00",
+      "evento": "Ghana - Panama",
+      "competizione": "Mondiali di Calcio 2026 - Gruppo L",
       "canale": "DAZN",
-      "note": "Inizio il 17 giugno 2026 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8RQulJZg-j8pdfOkxB7JYzFGV8e_Lz9zFCTLO3sZBQ4yh3bP21uMFWXJeZRjaFRYk270axMEF9eeulJEU_FGiFtTS6fUjzgnYo54N_1_LWWDYldUu0zGWSIe_gEFsx-SaAcy4aEzNGNdFxD0_ut15l-DvkYw_ltAHYUL0jMS0iMP_rKDQX3zE1X9C",
+      "note": "Data e orario italiano",
+      "fonte": "Sky Sport, Fanpage, HTML.it, Punto Informatico, HDBlog, TuttoAtalanta.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "03:00",
-      "evento": "Argentina - Algeria",
-      "competizione": "Calcio - Mondiali 2026 (Fase a gironi, Gruppo J)",
+      "orario": "04:00",
+      "evento": "Uzbekistan - Colombia",
+      "competizione": "Mondiali di Calcio 2026 - Gruppo K",
       "canale": "DAZN",
-      "note": "Inizio il 17 giugno 2026 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8RQulJZg-j8pdfOkxB7JYzFGV8e_Lz9zFCTLO3sZBQ4yh3bP21uMFWXJeZRjaFRYk270axMEF9eeulJEU_FGiFtTS6fUjzgnYo54N_1_LWWDYldUu0zGWSIe_gEFsx-SaAcy4aEzNGNdFxD0_ut15l-DvkYw_ltAHYUL0jMS0iMP_rKDQX3zE1X9C",
+      "note": "Data e orario italiano",
+      "fonte": "Sky Sport, Fanpage, HTML.it, Punto Informatico, HDBlog, TuttoAtalanta.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
       "evento": "Austria - Giordania",
-      "competizione": "Calcio - Mondiali 2026 (Fase a gironi, Gruppo J)",
+      "competizione": "Mondiali di Calcio 2026",
       "canale": "DAZN",
-      "note": "Inizio il 17 giugno 2026 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC-3hwnCapDTlU7RhLB4_0fMhxeo_9L86TxIel7GTU6LS13xcZW7hDv0tFdyuedFWmjUDhIFVMxO_-YG8JsrJ4gXLpEO79vFGGFDYZxFqR9a9Mb_W5OKxfQ6vckYLo2U7lQ1KE7gPOFev9Hh1KFNL4HSYpe8iTIX_Hp5ikQtRh6biUL9RlR1KySRxtuBaJk_abV6rxUt-VccfOluzavA5Y7x8-X32MsbKVKjH33poKNw=",
+      "note": "",
+      "fonte": "OA Sport, Fanpage",
       "accuratezza_orario": "esatto"
     }
   ]
