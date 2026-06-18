@@ -1,103 +1,94 @@
 {
-  "last_updated": "2026-06-17T21:57:07.163936+02:00",
+  "last_updated": "2026-06-18T16:43:00.842403+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Iraq – Norvegia",
-      "competizione": "Mondiali di Calcio 2026 (Fase a gironi)",
-      "canale": "DAZN (streaming)",
-      "note": "Gruppo I",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Argentina – Algeria",
-      "competizione": "Mondiali di Calcio 2026 (Fase a gironi)",
-      "canale": "DAZN (streaming)",
-      "note": "Gruppo J",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Austria – Giordania",
-      "competizione": "Mondiali di Calcio 2026 (Fase a gironi)",
-      "canale": "DAZN (streaming)",
-      "note": "Gruppo J",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30*",
-      "evento": "Lorenzo Sonego vs Ben Shelton",
-      "competizione": "Tennis ATP 500 Halle - Sedicesimi di finale",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis Tv",
-      "note": "Secondo match sulla heristo-arena dopo Fritz-Bergs (inizio ore 11:30)",
-      "fonte": "OA Sport, Tennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Flavio Cobolli/Ben Shelton vs Alexander Zverev/Marcelo Melo",
-      "competizione": "Tennis ATP 500 Halle - Doppio",
-      "canale": "Sky Sport",
-      "note": "Match di doppio, dopo il singolare di Shelton",
-      "fonte": "Tennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Portogallo – RD Congo",
-      "competizione": "Mondiali di Calcio 2026 (Fase a gironi)",
-      "canale": "DAZN (streaming)",
-      "note": "Gruppo K",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Challenger Parma (differita)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
+      "orario": "13:00",
+      "evento": "Mondiali: Italia-Australia",
+      "competizione": "Softball - World Cup",
+      "canale": "RaiSportHD, Rai Play (streaming)",
       "note": "",
-      "fonte": "Programmi TV",
+      "fonte": "OA Sport [8], Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9]",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Mondiali 2026: Cechia – Sudafrica",
+      "competizione": "Calcio - Mondiali",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9], Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Mondiali 2026: Svizzera – Bosnia",
+      "competizione": "Calcio - Mondiali",
+      "canale": "Rai 1, DAZN",
+      "note": "",
+      "fonte": "Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9], Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11], Quale partita sulla RAI oggi, Mondiali calcio 2026: orario 18 giugno, canale in chiaro, streaming [36]",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Campionato saudita: Al Khallej-Al Ahli",
+      "competizione": "Calcio - Campionato Saudita",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Sport in TV giovedi 18 giugno 2026 - Programmi TV [15]",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Inghilterra – Croazia",
-      "competizione": "Mondiali di Calcio 2026 (Fase a gironi)",
-      "canale": "Rai 1 HD, DAZN (streaming), Rai Play (streaming)",
-      "note": "Gruppo L",
-      "fonte": "Programmi TV, OA Sport, HTML.it",
+      "evento": "River Plate - Rosario Central",
+      "competizione": "Calcio - Campionato Argentino",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Sport in TV giovedi 18 giugno 2026 - Programmi TV [15]",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "WTA 500 Berlino (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "",
-      "fonte": "Programmi TV",
+      "orario": "00:00",
+      "evento": "Mondiali 2026: Canada-Qatar",
+      "competizione": "Calcio - Mondiali",
+      "canale": "DAZN",
+      "note": "19 giugno",
+      "fonte": "Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9], Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Manchester City-Aston Villa",
+      "competizione": "Calcio - Premier League (replay o match storico)",
+      "canale": "Sportitalia",
+      "note": "19 giugno. Trattandosi di un match tra squadre non italiane e non in una competizione maggiore per club, potrebbe essere una replica o un match storico.",
+      "fonte": "Sport in TV giovedi 18 giugno 2026 - Programmi TV [15]",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "01:00",
-      "evento": "Ghana – Panama",
-      "competizione": "Mondiali di Calcio 2026 (Fase a gironi)",
-      "canale": "DAZN (streaming)",
-      "note": "Gruppo L (Giovedì 18 Giugno)",
-      "fonte": "OA Sport",
+      "evento": "Mondiali 2026: Ghana vs Panama",
+      "competizione": "Calcio - Mondiali",
+      "canale": "DAZN",
+      "note": "19 giugno",
+      "fonte": "Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Mondiali 2026: Messico-Corea del Sud",
+      "competizione": "Calcio - Mondiali",
+      "canale": "DAZN",
+      "note": "19 giugno",
+      "fonte": "Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9], Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00",
-      "evento": "Uzbekistan – Colombia",
-      "competizione": "Mondiali di Calcio 2026 (Fase a gironi)",
-      "canale": "DAZN (streaming)",
-      "note": "Gruppo K (Giovedì 18 Giugno)",
-      "fonte": "OA Sport",
+      "evento": "Mondiali 2026: Uzbekistan vs Colombia",
+      "competizione": "Calcio - Mondiali",
+      "canale": "DAZN",
+      "note": "19 giugno",
+      "fonte": "Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
       "accuratezza_orario": "esatto"
     }
   ]
