@@ -1,94 +1,67 @@
 {
-  "last_updated": "2026-06-18T16:43:00.842403+02:00",
+  "last_updated": "2026-06-18T22:08:39.463557+02:00",
   "events": [
     {
-      "orario": "13:00",
-      "evento": "Mondiali: Italia-Australia",
-      "competizione": "Softball - World Cup",
-      "canale": "RaiSportHD, Rai Play (streaming)",
-      "note": "",
-      "fonte": "OA Sport [8], Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Mondiali 2026: Cechia – Sudafrica",
-      "competizione": "Calcio - Mondiali",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9], Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Mondiali 2026: Svizzera – Bosnia",
-      "competizione": "Calcio - Mondiali",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9], Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11], Quale partita sulla RAI oggi, Mondiali calcio 2026: orario 18 giugno, canale in chiaro, streaming [36]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Campionato saudita: Al Khallej-Al Ahli",
-      "competizione": "Calcio - Campionato Saudita",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Sport in TV giovedi 18 giugno 2026 - Programmi TV [15]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "River Plate - Rosario Central",
-      "competizione": "Calcio - Campionato Argentino",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Sport in TV giovedi 18 giugno 2026 - Programmi TV [15]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Mondiali 2026: Canada-Qatar",
-      "competizione": "Calcio - Mondiali",
-      "canale": "DAZN",
-      "note": "19 giugno",
-      "fonte": "Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9], Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Manchester City-Aston Villa",
-      "competizione": "Calcio - Premier League (replay o match storico)",
-      "canale": "Sportitalia",
-      "note": "19 giugno. Trattandosi di un match tra squadre non italiane e non in una competizione maggiore per club, potrebbe essere una replica o un match storico.",
-      "fonte": "Sport in TV giovedi 18 giugno 2026 - Programmi TV [15]",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "01:00",
-      "evento": "Mondiali 2026: Ghana vs Panama",
-      "competizione": "Calcio - Mondiali",
+      "evento": "Ghana vs Panama",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
       "canale": "DAZN",
-      "note": "19 giugno",
-      "fonte": "Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Mondiali 2026: Messico-Corea del Sud",
-      "competizione": "Calcio - Mondiali",
-      "canale": "DAZN",
-      "note": "19 giugno",
-      "fonte": "Sport oggi in tv giovedì 18 giugno 2026, oltre ai Mondiali occhio alla finale scudetto del Basket [9], Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00",
-      "evento": "Mondiali 2026: Uzbekistan vs Colombia",
-      "competizione": "Calcio - Mondiali",
+      "evento": "Uzbekistan vs Colombia",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
       "canale": "DAZN",
-      "note": "19 giugno",
-      "fonte": "Calendario Mondiali calcio 2026 in tv: orari partite di oggi (18 giugno), canali, streaming [11]",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:30",
+      "evento": "Programmazione ATP Halle",
+      "competizione": "Tennis - ATP 500 Halle",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Include ottavi di finale, Mattia Bellucci gioca il 4° match sul centrale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE22enqMBBdpDahlB7DRNs6UbR6iqfINnkklViY6yueAeQhV2FEO5Pb7jH3WQq2gmbHOBPUzuRwti9ApLF_yEvdMWZhjE5IdrKcWVx8d2YuEDknP8W-qkNNnNMzB35IgMcafJy-Bd1EAtyMf_GbBUVU3LEJT1hPuaDdJ09LWtpsONQAphyBY0w=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Cechia vs Sudafrica",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Svizzera vs Bosnia Erzegovina",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "canale": "Rai 1, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Canada vs Qatar",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "canale": "DAZN",
+      "note": "Nella notte tra il 18 e il 19 giugno.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Messico vs Corea del Sud",
+      "competizione": "Mondiali 2026 - Fase a Gironi",
+      "canale": "DAZN",
+      "note": "Nella notte tra il 18 e il 19 giugno.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
       "accuratezza_orario": "esatto"
     }
   ]
