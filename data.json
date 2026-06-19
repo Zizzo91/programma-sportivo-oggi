@@ -1,130 +1,103 @@
 {
-  "last_updated": "2026-06-19T04:50:10.337190+02:00",
+  "last_updated": "2026-06-19T12:09:49.150157+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Canottaggio - Coppa del Mondo Plovdiv - Finali 2a giornata",
-      "competizione": "Coppa del Mondo",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "https://www.staseraintv.com/programmi-rai-sport-hd-venerdi-19-giugno-2026.html",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "UEFA Champions League 2025/2026 - PSG - Arsenal (Finale)",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "09:00",
-      "evento": "Moto3 - Prove Libere 1",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
+      "evento": "GP Repubblica Ceca: Prove libere 1 Moto3",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "fonte": "inSella, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:50",
-      "evento": "Moto2 - Prove Libere 1",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
+      "evento": "GP Repubblica Ceca: Prove libere 1 Moto2",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "fonte": "inSella, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:45",
-      "evento": "MotoGP - Prove Libere 1",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
+      "evento": "GP Repubblica Ceca: Prove libere 1 MotoGP",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:30",
-      "evento": "Tennis - ATP 500 Halle - Quarti di finale",
-      "competizione": "ATP 500 Halle",
-      "canale": "Sky Sport Tennis / Sky Sport Mix",
-      "note": "Con Flavio Cobolli. Orario di inizio indicativo ('a partire dalle').",
-      "fonte": "https://www.olympics.com/it/notizie/halle-2026-programma-orari-partite-calendario-dove-vedere-torneo",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Calcio - Coppa del Mondo 2026 - Fase a Gironi: Svizzera - Bosnia",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "https://www.staseraintv.com/programmi-rai-sport-hd-venerdi-19-giugno-2026.html",
+      "fonte": "inSella, MotoGp, si corre in Repubblica Ceca: dalle prove libere alla gara, orari e dove vedere Gp Brno, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:15",
-      "evento": "Moto3 - Pre-qualifiche",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
+      "evento": "GP Repubblica Ceca: Pre-qualifiche Moto3",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "fonte": "inSella, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:05",
-      "evento": "Moto2 - Pre-qualifiche",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
+      "evento": "GP Repubblica Ceca: Pre-qualifiche Moto2",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "fonte": "inSella, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "MotoGP - Pre-qualifiche",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
+      "evento": "GP Repubblica Ceca: Pre-qualifiche MotoGP",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "fonte": "inSella, MotoGp, si corre in Repubblica Ceca: dalle prove libere alla gara, orari e dove vedere Gp Brno, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:10",
-      "evento": "Nuoto - Meeting Cool Swim Merano - Finali 1a giornata",
-      "competizione": "Nuoto",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "https://www.staseraintv.com/programmi-rai-sport-hd-venerdi-19-giugno-2026.html",
+      "orario": "16:00",
+      "evento": "ATP Halle: Semifinale Doppio (Cobolli/Shelton vs Altmaier/Fonseca)",
+      "competizione": "Tennis ATP 500",
+      "canale": "Sky Sport",
+      "note": "Flavio Cobolli in campo",
+      "fonte": "Atp Halle e Queen's, il programma di oggi: partite e orari - Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:40",
-      "evento": "Scherma",
-      "competizione": "Scherma",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "https://www.staseraintv.com/programmi-rai-sport-hd-venerdi-19-giugno-2026.html",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Atletica - Diamond League 2026 - Doha",
-      "competizione": "Diamond League",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:35",
-      "evento": "Calcio - Coppa del Mondo 2026 - Fase a Gironi: USA - Australia",
+      "orario": "21:00",
+      "evento": "Mondiali di Calcio 2026: Stati Uniti - Australia",
       "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "Rai 1",
+      "canale": "Rai 1, DAZN",
       "note": "",
-      "fonte": "https://www.questaseratv.it/programmi-tv/film/mondiali-di-calcio-2026-usa-australia-su-rai-1/",
+      "fonte": "Sport in TV venerdi 19 giugno 2026, Calendario Mondiali calcio 2026 oggi in tv (venerdì 19 giugno): orari partite, canali, streaming, Mondiali Calcio FIFA 2026 Diretta DAZN | 2a Giornata - Programma e Telecronisti (dal 18 al 23 Giugno), Calcio in TV: alle 21 Usa-Australia, nella notte c'è il Brasile. Dove vedere tutte le partite in diretta, Calcio in tv del 19 giugno 2026: USA-Australia e le altre sfide del giorno, I programmi TV di oggi 19 giugno 2026: calcio, fiction e film, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Guida tv 19 giugno, programmi da non perdere in chiaro e su Sky, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Quale partita sulla RAI oggi, Mondiali calcio 2026: orario 19 giugno, canale, streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Mondiali di Calcio 2026: Scozia - Marocco",
+      "competizione": "Coppa del Mondo FIFA 2026",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calendario Mondiali calcio 2026 oggi in tv (venerdì 19 giugno): orari partite, canali, streaming, Mondiali Calcio FIFA 2026 Diretta DAZN | 2a Giornata - Programma e Telecronisti (dal 18 al 23 Giugno), Calcio in TV: alle 21 Usa-Australia, nella notte c'è il Brasile. Dove vedere tutte le partite in diretta, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Mondiali di Calcio 2026: Brasile - Haiti",
+      "competizione": "Coppa del Mondo FIFA 2026",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calendario Mondiali calcio 2026 oggi in tv (venerdì 19 giugno): orari partite, canali, streaming, Mondiali Calcio FIFA 2026 Diretta DAZN | 2a Giornata - Programma e Telecronisti (dal 18 al 23 Giugno), Calcio in TV: alle 21 Usa-Australia, nella notte c'è il Brasile. Dove vedere tutte le partite in diretta, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Mondiali di Calcio 2026: Turchia - Paraguay",
+      "competizione": "Coppa del Mondo FIFA 2026",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calendario Mondiali calcio 2026 oggi in tv (venerdì 19 giugno): orari partite, canali, streaming, Calcio in TV: alle 21 Usa-Australia, nella notte c'è il Brasile. Dove vedere tutte le partite in diretta, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv",
       "accuratezza_orario": "esatto"
     }
   ]
