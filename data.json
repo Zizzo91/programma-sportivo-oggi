@@ -1,67 +1,130 @@
 {
-  "last_updated": "2026-06-18T22:08:39.463557+02:00",
+  "last_updated": "2026-06-19T04:50:10.337190+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "Ghana vs Panama",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
-      "canale": "DAZN",
+      "orario": "06:00",
+      "evento": "Canottaggio - Coppa del Mondo Plovdiv - Finali 2a giornata",
+      "competizione": "Coppa del Mondo",
+      "canale": "Rai Sport +HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
+      "fonte": "https://www.staseraintv.com/programmi-rai-sport-hd-venerdi-19-giugno-2026.html",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "Uzbekistan vs Colombia",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
-      "canale": "DAZN",
+      "orario": "06:00",
+      "evento": "UEFA Champions League 2025/2026 - PSG - Arsenal (Finale)",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "Moto3 - Prove Libere 1",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
+      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:50",
+      "evento": "Moto2 - Prove Libere 1",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "MotoGP - Prove Libere 1",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:30",
-      "evento": "Programmazione ATP Halle",
-      "competizione": "Tennis - ATP 500 Halle",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Include ottavi di finale, Mattia Bellucci gioca il 4° match sul centrale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE22enqMBBdpDahlB7DRNs6UbR6iqfINnkklViY6yueAeQhV2FEO5Pb7jH3WQq2gmbHOBPUzuRwti9ApLF_yEvdMWZhjE5IdrKcWVx8d2YuEDknP8W-qkNNnNMzB35IgMcafJy-Bd1EAtyMf_GbBUVU3LEJT1hPuaDdJ09LWtpsONQAphyBY0w=",
+      "evento": "Tennis - ATP 500 Halle - Quarti di finale",
+      "competizione": "ATP 500 Halle",
+      "canale": "Sky Sport Tennis / Sky Sport Mix",
+      "note": "Con Flavio Cobolli. Orario di inizio indicativo ('a partire dalle').",
+      "fonte": "https://www.olympics.com/it/notizie/halle-2026-programma-orari-partite-calendario-dove-vedere-torneo",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Calcio - Coppa del Mondo 2026 - Fase a Gironi: Svizzera - Bosnia",
+      "competizione": "Coppa del Mondo FIFA 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://www.staseraintv.com/programmi-rai-sport-hd-venerdi-19-giugno-2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Moto3 - Pre-qualifiche",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Moto2 - Pre-qualifiche",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "MotoGP - Pre-qualifiche",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://www.insella.it/news/motogp-gp-repubblica-ceca-2026-gli-orari-tv-del-weekend-di-brno-188686",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:10",
+      "evento": "Nuoto - Meeting Cool Swim Merano - Finali 1a giornata",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://www.staseraintv.com/programmi-rai-sport-hd-venerdi-19-giugno-2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:40",
+      "evento": "Scherma",
+      "competizione": "Scherma",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://www.staseraintv.com/programmi-rai-sport-hd-venerdi-19-giugno-2026.html",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Cechia vs Sudafrica",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
-      "canale": "DAZN",
+      "evento": "Atletica - Diamond League 2026 - Doha",
+      "competizione": "Diamond League",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
+      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Svizzera vs Bosnia Erzegovina",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
-      "canale": "Rai 1, DAZN",
+      "orario": "20:35",
+      "evento": "Calcio - Coppa del Mondo 2026 - Fase a Gironi: USA - Australia",
+      "competizione": "Coppa del Mondo FIFA 2026",
+      "canale": "Rai 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Canada vs Qatar",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
-      "canale": "DAZN",
-      "note": "Nella notte tra il 18 e il 19 giugno.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Messico vs Corea del Sud",
-      "competizione": "Mondiali 2026 - Fase a Gironi",
-      "canale": "DAZN",
-      "note": "Nella notte tra il 18 e il 19 giugno.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ4-ouijVqiFqF-m33QAx1RRBB7L9pYFp4z8jbsbSsb2s4JPieYjtZ85pHhiYh_-S7XhKI-WORfGeuwAPv7BPIlA30OUnTtz-ewKOrF9LZEFQ4nwGxGJd9oIqS404i_dp1QLqlRvG1ji7OtqEuF0EpIfu8JZg8vvHyeXhvHqclcga_faUOW11AEPOYhrPzG8QGYRyEhaWx-4ISBtz-otyEV5ysXp4RavTEj8PvqCJ2_Bg=",
+      "fonte": "https://www.questaseratv.it/programmi-tv/film/mondiali-di-calcio-2026-usa-australia-su-rai-1/",
       "accuratezza_orario": "esatto"
     }
   ]
