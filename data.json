@@ -1,94 +1,94 @@
 {
-  "last_updated": "2026-06-19T16:39:29.606784+02:00",
+  "last_updated": "2026-06-19T21:23:26.974916+02:00",
   "events": [
     {
-      "orario": "16:00",
-      "evento": "Semifinale Doppio (con Flavio Cobolli)",
-      "competizione": "ATP 500 Halle",
-      "canale": "Sky Sport Tennis (203), NOW",
-      "note": "Flavio Cobolli in campo per le semifinali di doppio.",
-      "fonte": "skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Prove Libere 2",
-      "competizione": "Formula 1 - Gran Premio d'Austria",
-      "canale": "Sky Sport F1",
-      "note": "Sessione di prove libera 2. Termina alle 18:00.",
-      "fonte": "f1ingenerale.com, autosprint.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Al Ahli - Al Kholood",
-      "competizione": "Campionato Saudita",
-      "canale": "SPORTITALIA",
+      "orario": "09:00",
+      "evento": "Moto3 - Prove Libere 1",
+      "competizione": "MotoGP GP Repubblica Ceca 2026",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
       "note": "",
-      "fonte": "programmitv.com",
+      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:50",
+      "evento": "Moto2 - Prove Libere 1",
+      "competizione": "MotoGP GP Repubblica Ceca 2026",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:40",
+      "evento": "MotoGP - Prove Libere 1",
+      "competizione": "MotoGP GP Repubblica Ceca 2026",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Moto3 - Pre-Qualifiche",
+      "competizione": "MotoGP GP Repubblica Ceca 2026",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Moto2 - Pre-Qualifiche",
+      "competizione": "MotoGP GP Repubblica Ceca 2026",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:55",
+      "evento": "MotoGP - Pre-Qualifiche",
+      "competizione": "MotoGP GP Repubblica Ceca 2026",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:35",
       "evento": "USA - Australia",
-      "competizione": "Coppa del Mondo 2026",
-      "canale": "Rai 1, Rai Play",
-      "note": "Diretta TV e streaming. DAZN potrebbe trasmettere la partita con orario diverso (es. 21:00).",
-      "fonte": "oasport.it, programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Belgrano - Union",
-      "competizione": "Campionato Argentino",
-      "canale": "SPORTITALIA",
+      "competizione": "Mondiali di Calcio 2026, Gruppo D",
+      "canale": "Rai 1, DAZN",
       "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:15",
-      "evento": "Notti Mondiali",
-      "competizione": "Rubrica Mondiali 2026",
-      "canale": "Rai 1",
-      "note": "",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:59",
-      "evento": "Notti Mondiali",
-      "competizione": "Rubrica Mondiali 2026",
-      "canale": "Rai 1",
-      "note": "",
-      "fonte": "programmitv.com",
+      "fonte": "ProgrammiTV, Lo Slalom, OA Sport, Fanpage, Tuttoatalanta.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Manchester City - Brentford",
-      "competizione": "Calcio",
-      "canale": "SPORTITALIA",
-      "note": "Evento registrato o replica.",
-      "fonte": "programmitv.com",
+      "evento": "Scozia - Marocco",
+      "competizione": "Mondiali di Calcio 2026, Gruppo C",
+      "canale": "DAZN",
+      "note": "(del 20/06)",
+      "fonte": "ProgrammiTV, Lo Slalom, Fanpage, Tuttoatalanta.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Canada - Qatar",
-      "competizione": "Coppa del Mondo 2026",
+      "orario": "02:30",
+      "evento": "Brasile - Haiti",
+      "competizione": "Mondiali di Calcio 2026, Gruppo C",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "calcio.in.tv",
+      "note": "(del 20/06)",
+      "fonte": "Lo Slalom, Fanpage, Tuttoatalanta.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "03:00",
-      "evento": "Messico - Corea del Sur",
-      "competizione": "Coppa del Mondo 2026",
+      "orario": "05:00",
+      "evento": "Turchia - Paraguay",
+      "competizione": "Mondiali di Calcio 2026, Gruppo D",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "calcio.in.tv",
+      "note": "(del 20/06)",
+      "fonte": "Fanpage, Tuttoatalanta.com",
       "accuratezza_orario": "esatto"
     }
   ]
