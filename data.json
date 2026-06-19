@@ -1,103 +1,94 @@
 {
-  "last_updated": "2026-06-19T12:09:49.150157+02:00",
+  "last_updated": "2026-06-19T16:39:29.606784+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "GP Repubblica Ceca: Prove libere 1 Moto3",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "inSella, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:50",
-      "evento": "GP Repubblica Ceca: Prove libere 1 Moto2",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "inSella, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:45",
-      "evento": "GP Repubblica Ceca: Prove libere 1 MotoGP",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "inSella, MotoGp, si corre in Repubblica Ceca: dalle prove libere alla gara, orari e dove vedere Gp Brno, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:15",
-      "evento": "GP Repubblica Ceca: Pre-qualifiche Moto3",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "inSella, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:05",
-      "evento": "GP Repubblica Ceca: Pre-qualifiche Moto2",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "inSella, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "GP Repubblica Ceca: Pre-qualifiche MotoGP",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "inSella, MotoGp, si corre in Repubblica Ceca: dalle prove libere alla gara, orari e dove vedere Gp Brno, MotoGP.GP Repubblica Ceca: pronostici e orari Sprint Race e gara, dove vederle in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "16:00",
-      "evento": "ATP Halle: Semifinale Doppio (Cobolli/Shelton vs Altmaier/Fonseca)",
-      "competizione": "Tennis ATP 500",
-      "canale": "Sky Sport",
-      "note": "Flavio Cobolli in campo",
-      "fonte": "Atp Halle e Queen's, il programma di oggi: partite e orari - Sky Sport",
+      "evento": "Semifinale Doppio (con Flavio Cobolli)",
+      "competizione": "ATP 500 Halle",
+      "canale": "Sky Sport Tennis (203), NOW",
+      "note": "Flavio Cobolli in campo per le semifinali di doppio.",
+      "fonte": "skysport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Mondiali di Calcio 2026: Stati Uniti - Australia",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "Rai 1, DAZN",
+      "orario": "17:00",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1 - Gran Premio d'Austria",
+      "canale": "Sky Sport F1",
+      "note": "Sessione di prove libera 2. Termina alle 18:00.",
+      "fonte": "f1ingenerale.com, autosprint.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Al Ahli - Al Kholood",
+      "competizione": "Campionato Saudita",
+      "canale": "SPORTITALIA",
       "note": "",
-      "fonte": "Sport in TV venerdi 19 giugno 2026, Calendario Mondiali calcio 2026 oggi in tv (venerdì 19 giugno): orari partite, canali, streaming, Mondiali Calcio FIFA 2026 Diretta DAZN | 2a Giornata - Programma e Telecronisti (dal 18 al 23 Giugno), Calcio in TV: alle 21 Usa-Australia, nella notte c'è il Brasile. Dove vedere tutte le partite in diretta, Calcio in tv del 19 giugno 2026: USA-Australia e le altre sfide del giorno, I programmi TV di oggi 19 giugno 2026: calcio, fiction e film, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Guida tv 19 giugno, programmi da non perdere in chiaro e su Sky, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Quale partita sulla RAI oggi, Mondiali calcio 2026: orario 19 giugno, canale, streaming",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:35",
+      "evento": "USA - Australia",
+      "competizione": "Coppa del Mondo 2026",
+      "canale": "Rai 1, Rai Play",
+      "note": "Diretta TV e streaming. DAZN potrebbe trasmettere la partita con orario diverso (es. 21:00).",
+      "fonte": "oasport.it, programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Belgrano - Union",
+      "competizione": "Campionato Argentino",
+      "canale": "SPORTITALIA",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "Notti Mondiali",
+      "competizione": "Rubrica Mondiali 2026",
+      "canale": "Rai 1",
+      "note": "",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:59",
+      "evento": "Notti Mondiali",
+      "competizione": "Rubrica Mondiali 2026",
+      "canale": "Rai 1",
+      "note": "",
+      "fonte": "programmitv.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Mondiali di Calcio 2026: Scozia - Marocco",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calendario Mondiali calcio 2026 oggi in tv (venerdì 19 giugno): orari partite, canali, streaming, Mondiali Calcio FIFA 2026 Diretta DAZN | 2a Giornata - Programma e Telecronisti (dal 18 al 23 Giugno), Calcio in TV: alle 21 Usa-Australia, nella notte c'è il Brasile. Dove vedere tutte le partite in diretta, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv",
+      "evento": "Manchester City - Brentford",
+      "competizione": "Calcio",
+      "canale": "SPORTITALIA",
+      "note": "Evento registrato o replica.",
+      "fonte": "programmitv.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:30",
-      "evento": "Mondiali di Calcio 2026: Brasile - Haiti",
-      "competizione": "Coppa del Mondo FIFA 2026",
+      "orario": "00:00",
+      "evento": "Canada - Qatar",
+      "competizione": "Coppa del Mondo 2026",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calendario Mondiali calcio 2026 oggi in tv (venerdì 19 giugno): orari partite, canali, streaming, Mondiali Calcio FIFA 2026 Diretta DAZN | 2a Giornata - Programma e Telecronisti (dal 18 al 23 Giugno), Calcio in TV: alle 21 Usa-Australia, nella notte c'è il Brasile. Dove vedere tutte le partite in diretta, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv",
+      "fonte": "calcio.in.tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00",
-      "evento": "Mondiali di Calcio 2026: Turchia - Paraguay",
-      "competizione": "Coppa del Mondo FIFA 2026",
+      "orario": "03:00",
+      "evento": "Messico - Corea del Sur",
+      "competizione": "Coppa del Mondo 2026",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calendario Mondiali calcio 2026 oggi in tv (venerdì 19 giugno): orari partite, canali, streaming, Calcio in TV: alle 21 Usa-Australia, nella notte c'è il Brasile. Dove vedere tutte le partite in diretta, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv, Mondiali 2026, il programma di oggi: calendario, gironi e dove vederli in tv",
+      "fonte": "calcio.in.tv",
       "accuratezza_orario": "esatto"
     }
   ]
