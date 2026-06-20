@@ -1,22 +1,94 @@
 {
-  "last_updated": "2026-06-20T04:10:51.175232+02:00",
+  "last_updated": "2026-06-20T10:38:40.381087+02:00",
   "events": [
     {
+      "orario": "08:40",
+      "evento": "Moto3 Prove Libere 2",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:25",
+      "evento": "Moto2 Prove Libere 2",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:10",
+      "evento": "MotoGP Prove Libere 2",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "Il Fatto Quotidiano, Touchpoint News, Adnkronos",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "10:50",
-      "evento": "Qualifiche MotoGP",
-      "competizione": "GP Repubblica Ceca",
+      "evento": "MotoGP Qualifiche Q1",
+      "competizione": "MotoGP GP Repubblica Ceca",
       "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta TV. Orario esatto da Sky, TV8 leggermente stimato.",
-      "fonte": "FormulaPassion, inSella, MotoGP.com",
+      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
+      "fonte": "Il Fatto Quotidiano, Touchpoint News, Adnkronos, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:15",
+      "evento": "MotoGP Qualifiche Q2",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
+      "fonte": "Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:45",
+      "evento": "Moto3 Qualifiche Q1",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
+      "fonte": "Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:10",
+      "evento": "Moto3 Qualifiche Q2",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
+      "fonte": "Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:40",
+      "evento": "Moto2 Qualifiche Q1",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
+      "fonte": "Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Moto2 Qualifiche Q2",
+      "competizione": "MotoGP GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
+      "fonte": "Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Sprint MotoGP",
-      "competizione": "GP Repubblica Ceca",
+      "evento": "MotoGP Sprint (10 giri)",
+      "competizione": "MotoGP GP Repubblica Ceca",
       "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta TV. Orario esatto da Sky, TV8 leggermente stimato.",
-      "fonte": "FormulaPassion, inSella, MotoGP.com",
+      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
+      "fonte": "Il Fatto Quotidiano, Touchpoint News, Adnkronos, OA Sport",
       "accuratezza_orario": "esatto"
     }
   ]
