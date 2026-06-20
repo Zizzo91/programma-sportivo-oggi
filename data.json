@@ -1,94 +1,22 @@
 {
-  "last_updated": "2026-06-19T21:23:26.974916+02:00",
+  "last_updated": "2026-06-20T04:10:51.175232+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Moto3 - Prove Libere 1",
-      "competizione": "MotoGP GP Repubblica Ceca 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
+      "orario": "10:50",
+      "evento": "Qualifiche MotoGP",
+      "competizione": "GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta TV. Orario esatto da Sky, TV8 leggermente stimato.",
+      "fonte": "FormulaPassion, inSella, MotoGP.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:50",
-      "evento": "Moto2 - Prove Libere 1",
-      "competizione": "MotoGP GP Repubblica Ceca 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:40",
-      "evento": "MotoGP - Prove Libere 1",
-      "competizione": "MotoGP GP Repubblica Ceca 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:15",
-      "evento": "Moto3 - Pre-Qualifiche",
-      "competizione": "MotoGP GP Repubblica Ceca 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Moto2 - Pre-Qualifiche",
-      "competizione": "MotoGP GP Repubblica Ceca 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:55",
-      "evento": "MotoGP - Pre-Qualifiche",
-      "competizione": "MotoGP GP Repubblica Ceca 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport, OA Sport, Ildenaro.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:35",
-      "evento": "USA - Australia",
-      "competizione": "Mondiali di Calcio 2026, Gruppo D",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "ProgrammiTV, Lo Slalom, OA Sport, Fanpage, Tuttoatalanta.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Scozia - Marocco",
-      "competizione": "Mondiali di Calcio 2026, Gruppo C",
-      "canale": "DAZN",
-      "note": "(del 20/06)",
-      "fonte": "ProgrammiTV, Lo Slalom, Fanpage, Tuttoatalanta.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Brasile - Haiti",
-      "competizione": "Mondiali di Calcio 2026, Gruppo C",
-      "canale": "DAZN",
-      "note": "(del 20/06)",
-      "fonte": "Lo Slalom, Fanpage, Tuttoatalanta.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Turchia - Paraguay",
-      "competizione": "Mondiali di Calcio 2026, Gruppo D",
-      "canale": "DAZN",
-      "note": "(del 20/06)",
-      "fonte": "Fanpage, Tuttoatalanta.com",
+      "orario": "15:00",
+      "evento": "Sprint MotoGP",
+      "competizione": "GP Repubblica Ceca",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta TV. Orario esatto da Sky, TV8 leggermente stimato.",
+      "fonte": "FormulaPassion, inSella, MotoGP.com",
       "accuratezza_orario": "esatto"
     }
   ]
