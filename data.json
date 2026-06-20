@@ -1,94 +1,166 @@
 {
-  "last_updated": "2026-06-20T10:38:40.381087+02:00",
+  "last_updated": "2026-06-20T15:24:31.631730+02:00",
   "events": [
+    {
+      "orario": "00:00",
+      "evento": "Scozia – Marocco",
+      "competizione": "Mondiali 2026 (Gruppo C)",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Olympics.com, SPORTinMEDIA, DAZN News IT, Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Brasile – Haiti",
+      "competizione": "Mondiali 2026 (Gruppo C)",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Olympics.com, SPORTinMEDIA, DAZN News IT, Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:15",
+      "evento": "MotoGP GP Cechia: Sprint Race (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "Quotidiano Nazionale",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Turchia – Paraguay",
+      "competizione": "Mondiali 2026 (Gruppo D)",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Olympics.com, SPORTinMEDIA, DAZN News IT, Calcio e Sport in Tv oggi, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
     {
       "orario": "08:40",
       "evento": "Moto3 Prove Libere 2",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
-      "note": "Diretta",
-      "fonte": "Il Fatto Quotidiano",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport, Quotidiano Nazionale",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:25",
       "evento": "Moto2 Prove Libere 2",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
-      "note": "Diretta",
-      "fonte": "Il Fatto Quotidiano",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:10",
       "evento": "MotoGP Prove Libere 2",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP",
-      "note": "Diretta",
-      "fonte": "Il Fatto Quotidiano, Touchpoint News, Adnkronos",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:50",
       "evento": "MotoGP Qualifiche Q1",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
-      "fonte": "Il Fatto Quotidiano, Touchpoint News, Adnkronos, OA Sport",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:15",
       "evento": "MotoGP Qualifiche Q2",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
-      "fonte": "Il Fatto Quotidiano",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Tennis: Arnaldi (ITA) vs Gray",
+      "competizione": "ATP 250 Eastbourne Qualificazioni",
+      "canale": "Sky Sport Tennis",
+      "note": "",
+      "fonte": "LiveTennis.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:45",
       "evento": "Moto3 Qualifiche Q1",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
-      "fonte": "Il Fatto Quotidiano",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:10",
       "evento": "Moto3 Qualifiche Q2",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
-      "fonte": "Il Fatto Quotidiano",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:40",
       "evento": "Moto2 Qualifiche Q1",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
-      "fonte": "Il Fatto Quotidiano",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:05",
       "evento": "Moto2 Qualifiche Q2",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
-      "fonte": "Il Fatto Quotidiano",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "Il Fatto Quotidiano, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "MotoGP Sprint (10 giri)",
-      "competizione": "MotoGP GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport MotoGP, Sky Go, Now e TV8 (in chiaro)",
-      "fonte": "Il Fatto Quotidiano, Touchpoint News, Adnkronos, OA Sport",
+      "evento": "MotoGP Sprint Race",
+      "competizione": "MotoGP GP Cechia 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "Adnkronos, OA Sport, Il Fatto Quotidiano, OA Sport, OA Sport, OA Sport, Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Tennis: Cobolli / Shelton vs Altmaier / Fonseca",
+      "competizione": "ATP 500 Halle Semifinali Doppio",
+      "canale": "Sky Sport Arena",
+      "note": "Cobolli (ITA). 3° incontro. Orario stimato.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Olanda – Svezia",
+      "competizione": "Mondiali 2026 (Gruppo F)",
+      "canale": "DAZN, Prime Video",
+      "note": "",
+      "fonte": "Olympics.com, Libero, SPORTinMEDIA, DAZN News IT, Tutto Napoli, Radiosei",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Germania – Costa d'Avorio",
+      "competizione": "Mondiali 2026 (Gruppo E)",
+      "canale": "DAZN, Rai 1 HD, Rai Play",
+      "note": "",
+      "fonte": "Adnkronos, Olympics.com, Goal.com, Libero, DAZN News IT, Tutto Napoli, Radiosei",
       "accuratezza_orario": "esatto"
     }
   ]
