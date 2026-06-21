@@ -1,166 +1,211 @@
 {
-  "last_updated": "2026-06-20T21:07:45.798732+02:00",
+  "last_updated": "2026-06-21T04:34:32.749069+02:00",
   "events": [
     {
-      "orario": "08:40",
-      "evento": "Prove Libere 2",
-      "competizione": "Moto3 - GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
-      "note": "",
-      "fonte": "motorsport.com, ilfattoquotidiano.it, fanpage.it, sportface.it, programmitv.info, digital-news.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:25",
-      "evento": "Prove Libere 2",
-      "competizione": "Moto2 - GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
-      "note": "",
-      "fonte": "motorsport.com, ilfattoquotidiano.it, fanpage.it, sportface.it, programmitv.info, digital-news.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:10",
-      "evento": "Prove Libere 2",
-      "competizione": "MotoGP - GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
-      "note": "",
-      "fonte": "motorsport.com, ilfattoquotidiano.it, fanpage.it, oasport.it, sportface.it, adnkronos.com, programmitv.info, digital-news.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:50",
-      "evento": "Qualifiche Q1",
-      "competizione": "MotoGP - GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW, TV8",
-      "note": "",
-      "fonte": "ilfattoquotidiano.it, fanpage.it, oasport.it, formulapassion.it, oasport.it, oasport.it, sportface.it, adnkronos.com, programmitv.info, digital-news.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Q1 Walton – Bondioli",
-      "competizione": "Tennis ATP 250 Eastbourne",
-      "canale": "TBA",
-      "note": "Giocatore italiano: Bondioli",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "11:15",
-      "evento": "Qualifiche Q2",
-      "competizione": "MotoGP - GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW, TV8",
-      "note": "",
-      "fonte": "formulapassion.it, oasport.it, oasport.it, sportface.it, adnkronos.com, programmitv.info, digital-news.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Q1 Arnaldi – Gray",
-      "competizione": "Tennis ATP 250 Eastbourne",
-      "canale": "TBA",
-      "note": "Giocatore italiano: Arnaldi",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Qualifiche",
-      "competizione": "Moto3 - GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW, TV8",
-      "note": "",
-      "fonte": "motorsport.com, fanpage.it, oasport.it, oasport.it, sportface.it, programmitv.info, digital-news.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:40",
-      "evento": "Qualifiche",
-      "competizione": "Moto2 - GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW, TV8",
-      "note": "",
-      "fonte": "motorsport.com, fanpage.it, oasport.it, oasport.it, sportface.it, programmitv.info, digital-news.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Sprint Race",
-      "competizione": "MotoGP - GP Repubblica Ceca",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW, TV8",
-      "note": "",
-      "fonte": "motorsport.com, ilfattoquotidiano.it, fanpage.it, oasport.it, oasport.it, oasport.it, sportface.it, adnkronos.com, programmitv.info, digital-news.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "SF Cobolli/Shelton vs Altmaier/Fonseca",
-      "competizione": "Tennis ATP 500 Halle (Doubles)",
-      "canale": "TBA",
-      "note": "Giocatore italiano: Cobolli",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Mondiali 2026: Olanda vs Svezia",
-      "competizione": "Calcio",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "loslalom.it, libero.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:20",
-      "evento": "Mondiali 2026: Germania - Costa D'avorio",
-      "competizione": "Calcio",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "programmitv.info, loslalom.it, libero.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Mondiali 2026: Scozia-Marocco",
-      "competizione": "Calcio",
-      "canale": "DAZN",
-      "note": "Rientra nel palinsesto notturno del 2026-06-20",
-      "fonte": "tveconomia.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "02:00",
-      "evento": "Mondiali 2026: Ecuador–Curaçao",
-      "competizione": "Calcio",
+      "evento": "Ecuador - Curaçao",
+      "competizione": "FIFA World Cup 2026 (Fase a gironi - Gruppo E)",
       "canale": "DAZN",
-      "note": "Rientra nel palinsesto notturno del 2026-06-20",
-      "fonte": "libero.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Mondiali 2026: Brasile-Haiti",
-      "competizione": "Calcio",
-      "canale": "DAZN",
-      "note": "Rientra nel palinsesto notturno del 2026-06-20",
-      "fonte": "tveconomia.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Mondiali 2026: Turchia-Paraguay",
-      "competizione": "Calcio",
-      "canale": "DAZN",
-      "note": "Rientra nel palinsesto notturno del 2026-06-20",
-      "fonte": "tveconomia.it, loslalom.it",
+      "note": "",
+      "fonte": "https://www.retesport.it/2026/06/20/mondiali-2026-programma-e-partite-di-oggi-calendario-gironi-e-dove-vederli-in-tv/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Mondiali 2026: Tunisia–Giappone",
-      "competizione": "Calcio",
+      "evento": "Tunisia - Giappone",
+      "competizione": "FIFA World Cup 2026 (Fase a gironi - Gruppo F)",
       "canale": "DAZN",
-      "note": "Rientra nel palinsesto notturno del 2026-06-20",
-      "fonte": "libero.it",
+      "note": "",
+      "fonte": "https://www.retesport.it/2026/06/20/mondiali-2026-programma-e-partite-di-oggi-calendario-gironi-e-dove-vederli-in-tv/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:35",
+      "evento": "MotoGP Warm Up",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://www.oasport.it/2026/06/motogp-orari-warm-up-e-gara-gp-cechia-2026-programma-di-domani-tv-streaming-guida-tv8-e-sky/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "MotoGP Rider Fan Parade",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://quoti.net/guida-tv/sky-sport-uno/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Gara Moto3",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta. Differita su TV8 alle 13:00.",
+      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno/, https://kisskiss.it/motogp-brno-2026-programma-di-oggi-21-giugno-e-dove-vedere-il-gran-premio-della-repubblica-ceca/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "GP Giappone: Gara (Replica)",
+      "competizione": "Formula 1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Terza gara della stagione. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.",
+      "fonte": "https://guida.tv/film/gp-giappone-gara-2026/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "Gara Moto2",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta. Differita su TV8 alle 14:15.",
+      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno/, https://kisskiss.it/motogp-brno-2026-programma-di-oggi-21-giugno-e-dove-vedere-il-gran-premio-della-repubblica-ceca/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Gara Moto3",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "TV8",
+      "note": "Differita.",
+      "fonte": "https://kisskiss.it/motogp-brno-2026-programma-di-oggi-21-giugno-e-dove-vedere-il-gran-premio-della-repubblica-ceca/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "MotoGP Paddock Live Gara",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Gara MotoGP",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta. Differita su TV8 alle 16:00.",
+      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno/, https://kisskiss.it/motogp-brno-2026-programma-di-oggi-21-giugno-e-dove-vedere-il-gran-premio-della-repubblica-ceca/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:15",
+      "evento": "Gara Moto2",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "TV8",
+      "note": "Differita.",
+      "fonte": "https://kisskiss.it/motogp-brno-2026-programma-di-oggi-21-giugno-e-dove-vedere-il-gran-premio-della-repubblica-ceca/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "MotoGP Zona Rossa",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Gara MotoGP",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "TV8",
+      "note": "Differita.",
+      "fonte": "https://kisskiss.it/motogp-brno-2026-programma-di-oggi-21-giugno-e-dove-vedere-il-gran-premio-della-repubblica-ceca/, https://www.oasport.it/2026/06/motogp-orari-warm-up-e-gara-gp-cechia-2026-programma-di-domani-tv-streaming-guida-tv8-e-sky/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Race Anatomy MotoGP",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://www.quotidiano.net/guida-tv/sky-sport-uno/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Spagna - Arabia Saudita",
+      "competizione": "FIFA World Cup 2026 (Fase a gironi - Gruppo H)",
+      "canale": "Rai, DAZN",
+      "note": "Ipotesi di trasmissione su Rai e DAZN.",
+      "fonte": "https://www.retesport.it/2026/06/20/mondiali-2026-programma-e-partite-di-oggi-calendario-gironi-e-dove-vederli-in-tv/, https://www.adnkronos.com/mondiali-2026-programma-e-partite-di-oggi-calendario-gironi-e-dove-vederli-in-tv_1gE0t334a1W1H1i1A5X1N1H1",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:35",
+      "evento": "Belgio - Iran",
+      "competizione": "FIFA World Cup 2026 (Fase a gironi - Gruppo G)",
+      "canale": "RaiUno",
+      "note": "Trasmissione su RaiUno. Su DAZN è indicato alle 21:00.",
+      "fonte": "https://www.guidatv.info/sport/2026-06-21",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Belgio - Iran",
+      "competizione": "FIFA World Cup 2026 (Fase a gironi - Gruppo G)",
+      "canale": "DAZN",
+      "note": "Su RaiUno è indicato alle 20:35.",
+      "fonte": "https://www.retesport.it/2026/06/20/mondiali-2026-programma-e-partite-di-oggi-calendario-gironi-e-dove-vederli-in-tv/, https://www.adnkronos.com/mondiali-2026-programma-e-partite-di-oggi-calendario-gironi-e-dove-vederli-in-tv_1gE0t334a1W1H1i1A5X1N1H1",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "Notti Mondiali",
+      "competizione": "FIFA World Cup 2026",
+      "canale": "RaiUno",
+      "note": "Approfondimento sul Mondiale.",
+      "fonte": "https://www.guidatv.info/sport/2026-06-21",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Uruguay - Capo Verde",
+      "competizione": "FIFA World Cup 2026 (Fase a gironi - Gruppo H)",
+      "canale": "DAZN",
+      "note": "Evento del 22 giugno, incluso fino alle 06:00 CET del giorno successivo.",
+      "fonte": "https://www.adnkronos.com/mondiali-2026-programma-e-partite-di-oggi-calendario-gironi-e-dove-vederli-in-tv_1gE0t334a1W1H1i1A5X1N1H1",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Nuova Zelanda - Egitto",
+      "competizione": "FIFA World Cup 2026 (Fase a gironi - Gruppo G)",
+      "canale": "DAZN",
+      "note": "Evento del 22 giugno, incluso fino alle 06:00 CET del giorno successivo.",
+      "fonte": "https://www.adnkronos.com/mondiali-2026-programma-e-partite-di-oggi-calendario-gironi-e-dove-vederli-in-tv_1gE0t334a1W1H1i1A5X1N1H1",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:15",
+      "evento": "MotoGP 2026 - GP Cechia: Sprint Race (Replica)",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della Sprint Race. Evento del 22 giugno, incluso fino alle 06:00 CET del giorno successivo.",
+      "fonte": "https://guida.tv/sky-sport-uno/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "MotoGP 2026 - GP Cechia: Gara (Replica)",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della Gara. Evento del 22 giugno, incluso fino alle 06:00 CET del giorno successivo.",
+      "fonte": "https://guida.tv/sky-sport-uno/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Race Anatomy MotoGP (Replica)",
+      "competizione": "Motomondiale 2026 - GP Cechia",
+      "canale": "Sky Sport Uno",
+      "note": "Replica. Evento del 22 giugno, incluso fino alle 06:00 CET del giorno successivo.",
+      "fonte": "https://guida.tv/sky-sport-uno/",
       "accuratezza_orario": "esatto"
     }
   ]
