@@ -1,23 +1,95 @@
 {
-  "last_updated": "2026-06-22T13:31:24.426988+02:00",
+  "last_updated": "2026-06-22T22:32:05.100321+02:00",
   "events": [
     {
-      "orario": "11:00*",
-      "evento": "WTA 250 Eastbourne - Singolare (Elisabetta Cocciaretto vs Ajla Tomljanovic)",
-      "competizione": "WTA 250 Eastbourne",
-      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Primo turno. Copertura generale dei tornei con focus su italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlJl7FDBbBu9haddRmCwU4H6-5RlbrGS027WwOwaLTdoUljBvQ6padSTQ4rEgCcKMhYu1QEzwGR9tQ4djlONgE8K_ryeyRD3imUwiRIU_dwDylBr41DSbw8b2-Y0UYwvF5d8NDjWZc5u2hL7rBMH2l3Ba1q1KDUUlwE5Mvxd1aCH9P2aVIvJ4m05JHSMNEvdaa-S9rs0SWd02_CEaIhIsB368Jdjag2qiWGXCXEVnwsNUDtJpY-D6GWvPmDA== [7], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLbOteAubFl88jdkjwLX83CV5ID85nz56MX_slSqWy-oPnnffg8_i5yBRC6_T9ISJlogMdFUg1FbYVNGTkfZAGi91jhQhSI24anbhcEV6cfhMQiN9gDDK7dKNp2qxb-YF89fU2kdEfFJDGHcfXy3AszPmxu-dyG__4mLJ37x_8m8t_kE5UtnlXKiPqEOx0JjBLG71Ou_uQiObf14JnThS4FITQw7BqEsiUME9Zzu6i [4], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx3fSS9vkxv3AfuWVk0gmYsg6QzA9oR-cbRNfNH9GEC-kuJ8d8QO0z4bfujv48iniBQa7ernPZzPGnJ8FScv2pcUloUEQRN8D2V_mhdDwNyJCapi2GSfeZENHgNz4oSZxRy4DKf_WorxqRdHZQldxu9Ozj_eM8kNhDS6ok2alZTgefPle0Sj2D2GwdRq1YFy-k9AGW1DU= [18]",
+      "orario": "00:00",
+      "evento": "Uruguay-Capo Verde",
+      "competizione": "Mondiali 2026",
+      "canale": "Dazn",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Nuova Zelanda-Egitto",
+      "competizione": "Mondiali 2026",
+      "canale": "Dazn",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Qualificazioni, primo turno (con italiani)",
+      "competizione": "Tennis, Wimbledon",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Undici azzurri in campo nelle qualificazioni maschili.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbTOaFfeqc5V4SUkjYCjGp2eKongKOHlzBNBEZylJwpaPRWV3rOJarUxmQPmDpyeTwd4KEdMQAxbMA8bAdjWLjGqvhgEVEnyaT3QxGsr5MzEw_MZ3O2-cTujzn-G74T9dzuurFOFFdO-tphRQXTIYv17rFJdvsou9gu3thAFAp1iIFVA-SkuOlwgKtIprq0kqDkEk69gDsoMo1EWpIqGoXJtHYlNYiUlnUi14Sb9L1FaZWVFMENdeorZWu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Elisabetta Cocciaretto vs Ajla Tomljanovic",
+      "competizione": "Tennis, WTA Eastbourne",
+      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7uBPz-1jkkGaIPAEFiu1znhfHz0-IrF-UYPLOyyEE0KUx-ypOlz8fyRVErGrzmo0Vh-RZ2GfJuCDIms3VaX61S7_EJPykDSX5h499kUVJTqzof5n7SCcCR3UWzH4nKCwipEW1S8WokskIvUNq91zkt0L4ds3VZCUI6mj6Vw6I9Tq6s50r3wdcqPKnoG0dd1ubYdKvB5jMYwqP9Ie_4mPhje7TUnSVroduBCF24zs=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "12:00*",
-      "evento": "Wimbledon - Qualificazioni Singolare Maschile e Femminile (match con italiani)",
-      "competizione": "Wimbledon Qualificazioni",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Primo turno qualificazioni. Si prevede la partecipazione di undici azzurri nelle qualificazioni maschili.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlJl7FDBbBu9haddRmCwU4H6-5RlbrGS027WwOwaLTdoUljBvQ6padSTQ4rEgCcKMhYu1QEzwGR9tQ4djlONgE8K_ryeyRD3imUwiRIU_dwDylBr41DSbw8b2-Y0UYwvF5d8NDjWZc5u2hL7rBMH2l3Ba1q1KDUUlwE5Mvxd1aCH9P2aVIvJ4m05HNSMNEvdaa-S9rs0SWd02_CEaIhIsB368Jdjag2qiWGXCXEVnwsNUDtJpY-D6GWvPmDA== [7], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGVEVaRkdYGJcFj3uKKoReYCv_sGBGfeeSUljschzyZPuWlqnig-p2fGM8rAWqISfkXw1tESROMyA_b_Fn4fGgo2U4xoVrnQRV7imSrRL3f0EgWHoRd-c-P_frkXlwITmFdHn2FKmd14x9KuWFqbawSgacKCh1YSZH14bEPu8nO3d2VqXayIu-zyvN6LozY0YKr8sqnduxwCIWpKGFwjO8jofb [22]",
-      "accuratezza_orario": "stimato"
+      "orario": "19:00",
+      "evento": "Argentina-Austria",
+      "competizione": "Mondiali 2026",
+      "canale": "Rai 1, Dazn",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuhTYtgUQUswMcEgPNUQNBZW1FDijri6h0YBUqj6wUe0tEufsb13lowe6DMTnJXOwAVSGAqTySGDp48PVVafSGtvrrjXwe5-KszuDzZDbBS6ygeCU_35UAP07mfadUapzvNfJRWNLwiTUmO63aLDsP-QklMwYtg1wY1B7qwVRsvZZIYF5cquOzQfrRcbFgZWDd6tXfiG7C5a6vY1kAGo2sqLc4aM6RiCPNvn8eQgKNHtfPZEnaTT1b_btfmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "U16 Serie A",
+      "competizione": "Campionati Nazionali Giovanili SGS",
+      "canale": "Sky Sport 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "U16 Serie A-B Finale",
+      "competizione": "Campionati Nazionali Giovanili SGS",
+      "canale": "Sky Sport Max",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Francia-Iraq",
+      "competizione": "Mondiali 2026",
+      "canale": "Dazn",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuhTYtgUQUswMcEgPNUQNBZW1FDijri6h0YBUqj6wUe0tEufsb13lowe6DMTnJXOwAVSGAqTySGDp48PVVafSGtvrrjXwe5-KszuDzZDbBS6ygeCU_35UAP07mfadUapzvNfJRWNLwiTUmO63aLDsP-QklMwYtg1wY1B7qwVRsvZZIYF5cquOzQfrRcbFgZWDd6tXfiG7C5a6vY1kAGo2sqLc4aM6RiCPNvn8eQgKNHtfPZEnaTT1b_btfmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Norvegia-Senegal",
+      "competizione": "Mondiali 2026",
+      "canale": "Dazn",
+      "note": "(del 23/06/2026)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuhTYtgUQUswMcEgPNUQNBZW1FDijri6h0YBUqj6wUe0tEufsb13lowe6DMTnJXOwAVSGAqTySGDp48PVVafSGtvrrjXwe5-KszuDzZDbBS6ygeCU_35UAP07mfadUapzvNfJRWNLwiTUmO63aLDsP-QklMwYtg1wY1B7qwVRsvZZIYF5cquOzQfrRcbFgZWDd6tXfiG7C5a6vY1kAGo2sqLc4aM6RiCPNvn8eQgKNHtfPZEnaTT1b_btfmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Giordania-Algeria",
+      "competizione": "Mondiali 2026",
+      "canale": "Dazn",
+      "note": "(del 23/06/2026)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuhTYtgUQUswMcEgPNUQNBZW1FDijri6h0YBUqj6wUe0tEufsb13lowe6DMTnJXOwAVSGAqTySGDp48PVVafSGtvrrjXwe5-KszuDzZDbBS6ygeCU_35UAP07mfadUapzvNfJRWNLwiTUmO63aLDsP-QklMwYtg1wY1B7qwVRsvZZIYF5cquOzQfrRcbFgZWDd6tXfiG7C5a6vY1kAGo2sqLc4aM6RiCPNvn8eQgKNHtfPZEnaTT1b_btfmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
