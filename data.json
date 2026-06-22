@@ -1,86 +1,23 @@
 {
-  "last_updated": "2026-06-22T04:38:20.766671+02:00",
+  "last_updated": "2026-06-22T13:31:24.426988+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Uruguay-Capo Verde",
-      "competizione": "Mondiali 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xZl3rIGcjAILrnWP5e5tYAtuDC_0lvUQ-Zlx5Sswpr1qCVJPzdKmlgA6K-WeLxNq5MsYDCleSamWhtKgs89xrVbFBq-lCBhrB8y8qGkXLz1vOgfnrO2APdQURkE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8MB3oMnCjk5EFkqIft_T0pno5SQ05YRKz8IJCblDneyiEUMViAFckZnPQnf2x8JgPh21uobpjDmK999vXn28JQ2mOFOF4PcXQWYwUmYxZMNa-Rvb3YsYk_8eLpC8Ym_rXbueQQJfw3yFd-dHpvZNm6L_nroMBf_FkdeIkoiHagfEqnGWKsvtlKZ2vCC2n5U8QWKNolxtMmnde_ZJlfEeuRnBgX_t12D7-0aTb5_XW3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz5J9aWGE9YGkRmhq_uKInVyfvzZivKCWXipeNXy-_CqHVMLZRMDe853V6tDVpMLC-hcDgi-yJVzJhmeTSaWa7f94LOzz43b4NF7r1ZjBgrUZwXNI_M-1S4jxF7MyGnonNdPpDkZUb4HPR6Oudwk7Wx-j-KxYi7RB9s1kcNUF9bA06ZGqpDx8mDE0A6JLbvKRzBOsaYHNp0Vk16AdlS1HB8qJMRdg-4iTi6GmIU-fEKg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQcJMaBDBToRq5LA9yGnij5gVjfKyYevYGqUlC4ZobKPMk0XVW-Cex2GSeZuGKTn5tN_wzlZaYCX2rwo__qm6cLuWZgqC0OV-uZK2_F2IPYXH79qpV1CkXcCYCobwql4F5JryC4yEnueEABzIZLcfeKapPEF367NlxkncrO83psPzcgtolXVP2_-MIzsyY4Vk7, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3CuypyJyoc_bJQMJ8Koxc6WDowJJZ_LHfgMD__vldG9d_wxT08VGMEJ2TaRnVM4i8wLp-I35VGX-F4ZARwCQhpiXJxSqGCLuP5BxG2stZgihs9ghtmCk3nEXp3IpdOjSBwnomvPIIENDRFINeO9innUET4IffRLYLG076xQhUQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgAa_O4O0_vWPVnprq0vWqayEEwKo3BQ139F8J7agGWO7XltlFn1I9kn3-NR5l4Fb5ZOYpqbdKnnw_p4R9KyXx8ah1jWF88Q1njP6EyvrULJUDdQGjO3j6_CvLf00mKPjSf7gXRZvDononYyePxbODBPjM7JvGWVGiRt90HwD-p0cu5LeHF4fPcPSnYJIKsgKP_9JMZ-LNynzyenij0_HYFkg102-H0ue04wL2NoAJu2EuNAYXA4GbFSot2Wmn0roM8MITZg==",
-      "accuratezza_orario": "esatto"
+      "orario": "11:00*",
+      "evento": "WTA 250 Eastbourne - Singolare (Elisabetta Cocciaretto vs Ajla Tomljanovic)",
+      "competizione": "WTA 250 Eastbourne",
+      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Primo turno. Copertura generale dei tornei con focus su italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlJl7FDBbBu9haddRmCwU4H6-5RlbrGS027WwOwaLTdoUljBvQ6padSTQ4rEgCcKMhYu1QEzwGR9tQ4djlONgE8K_ryeyRD3imUwiRIU_dwDylBr41DSbw8b2-Y0UYwvF5d8NDjWZc5u2hL7rBMH2l3Ba1q1KDUUlwE5Mvxd1aCH9P2aVIvJ4m05JHSMNEvdaa-S9rs0SWd02_CEaIhIsB368Jdjag2qiWGXCXEVnwsNUDtJpY-D6GWvPmDA== [7], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLbOteAubFl88jdkjwLX83CV5ID85nz56MX_slSqWy-oPnnffg8_i5yBRC6_T9ISJlogMdFUg1FbYVNGTkfZAGi91jhQhSI24anbhcEV6cfhMQiN9gDDK7dKNp2qxb-YF89fU2kdEfFJDGHcfXy3AszPmxu-dyG__4mLJ37x_8m8t_kE5UtnlXKiPqEOx0JjBLG71Ou_uQiObf14JnThS4FITQw7BqEsiUME9Zzu6i [4], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx3fSS9vkxv3AfuWVk0gmYsg6QzA9oR-cbRNfNH9GEC-kuJ8d8QO0z4bfujv48iniBQa7ernPZzPGnJ8FScv2pcUloUEQRN8D2V_mhdDwNyJCapi2GSfeZENHgNz4oSZxRy4DKf_WorxqRdHZQldxu9Ozj_eM8kNhDS6ok2alZTgefPle0Sj2D2GwdRq1YFy-k9AGW1DU= [18]",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "03:00",
-      "evento": "Nuova Zelanda-Egitto",
-      "competizione": "Mondiali 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xZl3rIGcjAILrnWP5e5tYAtuDC_0lvUQ-Zlx5Sswpr1qCVJPzdKmlgA6K-WeLxNq5MsYDCleSamWhtKgs89xrVbFBq-lCBhrB8y8qGkXLz1vOgfnrO2APdQURkE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8MB3oMnCjk5EFkqIft_T0pno5SQ05YRKz8IJCblDneyiEUMViAFckZnPQnf2x8JgPh21uobpjDmK999vXn28JQ2mOFOF4PcXQWYwUmYxZMNa-Rvb3YsYk_8eLpC8Ym_rXbueQQJfw3yFd-dHpvZNm6L_nroMBf_FkdeIkoiHagfEqnGWKsvtlKZ2vCC2n5U8QWKNolxtMmnde_ZJlfEeuRnBgX_t12D7-0aTb5_XW3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz5J9aWGE9YGkRmhq_uKInVyfvzZivKCWXipeNXy-_CqHVMLZRMDe853V6tDVpMLC-hcDgi-yJVzJhmeTSaWa7f94LOzz43b4NF7r1ZjBgrUZwXNI_M-1S4jxF7MyGnonNdPpDkZUb4HPR6Oudwk7Wx-j-KxYi7RB9s1kcNUF9bA06ZGqpDx8mDE0A6JLbvKRzBOsaYHNp0Vk16AdlS1HB8qJMRdg-4iTi6GmIU-fEKg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3CuypyJyoc_bJQMJ8Koxc6WDowJJZ_LHfgMD__vldG9d_wxT08VGMEJ2TaRnVM4i8wLp-I35VGX-F4ZARwCQhpiXJxSqGCLuP5BxG2stZgihs9ghtmCk3nEXp3IpdOjSBwnomvPIIENDRFINeO9innUET4IffRLYLG076xQhUQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgAa_O4O0_vWPVnprq0vWqayEEwKo3BQ139F8J7agGWO7XltlFn1I9kn3-NR5l4Fb5ZOYpqbdKnnw_p4R9KyXx8ah1jWF88Q1njP6EyvrULJUDdQGjO3j6_CvLf00mKPjSf7gXRZvDononYyePxbODBPjM7JvGWVGiRt90HwD-p0cu5LeHF4fPcPSnYJIKsgKP_9JMZ-LNynzyenij0_HYFkg102-H0ue04wL2NoAJu2EuNAYXA4GbFSot2Wmn0roM8MITZg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Argentina-Austria",
-      "competizione": "Mondiali 2026",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xZl3rIGcjAILrnWP5e5tYAtuDC_0lvUQ-Zlx5Sswpr1qCVJPzdKmlgA6K-WeLxNq5MsYDCleSamWhtKgs89xrVbFBq-lCBhrB8y8qGkXLz1vOgfnrO2APdQURkE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8MB3oMnCjk5EFkqIft_T0pno5SQ05YRKz8IJCblDneyiEUMViAFckZnPQnf2x8JgPh21uobpjDmK999vXn28JQ2mOFOF4PcXQWYwUmYxZMNa-Rvb3YsYk_8eLpC8Ym_rXbueQQJfw3yFd-dHpvZNm6L_nroMBf_FkdeIkoiHagfEqnGWKsvtlKZ2vCC2n5U8QWKNolxtMmnde_ZJlfEeuRnBgX_t12D7-0aTb5_XW3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3CuypyJyoc_bJQMJ8Koxc6WDowJJZ_LHfgMD__vldG9d_wxT08VGMEJ2TaRnVM4i8wLp-I35VGX-F4ZARwCQhpiXJxSqGCLuP5BxG2stZgihs9ghtmCk3nEXp3IpdOjSBwnomvPIIENDRFINeO9innUET4IffRLYLG076xQhUQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx2ijAzlNMkkFem7tXARURfA1UtyEQ4lxigSMTIfSH4dHfpDEB5RncEmdssNS1L-vTzJ4gwcdkAKnOP6c6PdZCrFaehHKrz0KYZhLAiFSWjg49CieMd1pNRdNwN_DQaVCANmZ9B2e67P1e4tnsew-63_lH04dltPcHTTO4qeekC8Q0Nln7pnTCmk91QOjz53MD7mCOGcaB7yqIfC99w5O44NGokTADo4MHl1GbNWkRnKAIZoFE",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "Motomondiale",
-      "canale": "Sky Sport Arena",
-      "note": "Programma di approfondimento",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZnh0_MP3Co1edwinFdBkhOtfR9XRGGD40MH3mDvBsnyK25v58UQQTB2PuX8XA1-Cq7mu9doh_hyegN0QSxCSVvNA-z4GyoJ0wA8sA1GNCE233bjTF1MMwOM1XZF_Dcv13OnHJNpZ_OuzZMkvb6W0nGeFY5yhNOPu0PyXg5k3",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Campionati Nazionali Giovanili SGS: U-16 Serie A",
-      "competizione": "Calcio Giovanile",
-      "canale": "Sky Sport 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xZl3rIGcjAILrnWP5e5tYAtuDC_0lvUQ-Zlx5Sswpr1qCVJPzdKmlgA6K-WeLxNq5MsYDCleSamWhtKgs89xrVbFBq-lCBhrB8y8qGkXLz1vOgfnrO2APdQURkE=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Campionati Nazionali Giovanili SGS: U16 Serie A-B Finale",
-      "competizione": "Calcio Giovanile",
-      "canale": "Sky Sport Max",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xZl3rIGcjAILrnWP5e5tYAtuDC_0lvUQ-Zlx5Sswpr1qCVJPzdKmlgA6K-WeLxNq5MsYDCleSamWhtKgs89xrVbFBq-lCBhrB8y8qGkXLz1vOgfnrO2APdQURkE=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Francia-Iraq",
-      "competizione": "Mondiali 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xZl3rIGcjAILrnWP5e5tYAtuDC_0lvUQ-Zlx5Sswpr1qCVJPzdKmlgA6K-WeLxNq5MsYDCleSamWhtKgs89xrVbFBq-lCBhrB8y8qGkXLz1vOgfnrO2APdQURkE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8MB3oMnCjk5EFkqIft_T0pno5SQ05YRKz8IJCblDneyiEUMViAFckZnPQnf2x8JgPh21uobpjDmK999vXn28JQ2mOFOF4PcXQWYwUmYxZMNa-Rvb3YsYk_8eLpC8Ym_rXbueQQJfw3yFd-dHpvZNm6L_nroMBf_FkdeIkoiHagfEqnGWKsvtlKZ2vCC2n5U8QWKNolxtMmnde_ZJlfEeuRnBgX_t12D7-0aTb5_W3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3CuypyJyoc_bJQMJ8Koxc6WDowJJZ_LHfgMD__vldG9d_wxT08VGMEJ2TaRnVM4i8wLp-I35VGX-F4ZARwCQhpiXJxSqGCLuP5BxG2stZgihs9ghtmCk3nEXp3IpdOjSBwnomvPIIENDRFINeO9innUET4IffRLYLG076xQhUQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx2ijAzlNMkkFem7tXARURfA1UtyEQ4lxigSMTIfSH4dHfpDEB5RncEmdssNS1L-vTzJ4gwcdkAKnOP6c6PdZCrFaehHKrz0KYZhLAiFSWjg49CieMd1pNRdNwN_DQaVCANmZ9B2e67P1e4tnsew-63_lH04dltPcHTTO4qeekC8Q0Nln7pnTCmk91QOjz53MD7mCOGcaB7yqIfC99w5O44NGokTADo4MHl1GbNWkRnKAIZoFE",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Norvegia-Senegal",
-      "competizione": "Mondiali 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xZl3rIGcjAILrnWP5e5tYAtuDC_0lvUQ-Zlx5Sswpr1qCVJPzdKmlgA6K-WeLxNq5MsYDCleSamWhtKgs89xrVbFBq-lCBhrB8y8qGkXLz1vOgfnrO2APdQURkE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx2ijAzlNMkkFem7tXARURfA1UtyEQ4lxigSMTIfSH4dHfpDEB5RncEmdssNS1L-vTzJ4gwcdkAKnOP6c6PdZCrFaehHKrz0KYZhLAiFSWjg49CieMd1pNRdNwN_DQaVCANmZ9B2e67P1e4tnsew-63_lH04dltPcHTTO4qeekC8Q0Nln7pnTCmk91QOjz53MD7mCOGcaB7yqIfC99w5O44NGokTADo4MHl1GbNWkRnKAIZoFE",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Giordania-Algeria",
-      "competizione": "Mondiali 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xZl3rIGcjAILrnWP5e5tYAtuDC_0lvUQ-Zlx5Sswpr1qCVJPzdKmlgA6K-WeLxNq5MsYDCleSamWhtKgs89xrVbFBq-lCBhrB8y8qGkXLz1vOgfnrO2APdQURkE=",
-      "accuratezza_orario": "esatto"
+      "orario": "12:00*",
+      "evento": "Wimbledon - Qualificazioni Singolare Maschile e Femminile (match con italiani)",
+      "competizione": "Wimbledon Qualificazioni",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Primo turno qualificazioni. Si prevede la partecipazione di undici azzurri nelle qualificazioni maschili.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlJl7FDBbBu9haddRmCwU4H6-5RlbrGS027WwOwaLTdoUljBvQ6padSTQ4rEgCcKMhYu1QEzwGR9tQ4djlONgE8K_ryeyRD3imUwiRIU_dwDylBr41DSbw8b2-Y0UYwvF5d8NDjWZc5u2hL7rBMH2l3Ba1q1KDUUlwE5Mvxd1aCH9P2aVIvJ4m05HNSMNEvdaa-S9rs0SWd02_CEaIhIsB368Jdjag2qiWGXCXEVnwsNUDtJpY-D6GWvPmDA== [7], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGVEVaRkdYGJcFj3uKKoReYCv_sGBGfeeSUljschzyZPuWlqnig-p2fGM8rAWqISfkXw1tESROMyA_b_Fn4fGgo2U4xoVrnQRV7imSrRL3f0EgWHoRd-c-P_frkXlwITmFdHn2FKmd14x9KuWFqbawSgacKCh1YSZH14bEPu8nO3d2VqXayIu-zyvN6LozY0YKr8sqnduxwCIWpKGFwjO8jofb [22]",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
