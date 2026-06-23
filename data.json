@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-06-23T04:04:20.649261+02:00",
+  "last_updated": "2026-06-23T21:48:03.237542+02:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "Norvegia - Senegal",
-      "competizione": "Mondiali 2026 (Fase a gironi)",
-      "canale": "DAZN",
-      "note": "Gruppo I",
-      "fonte": "https://www.dazn.com/it-IT/news/calcio/mondiali-2026-tutte-le-partite-di-oggi-orari-e-come-vederle-in-diretta-streaming-su-dazn/14f053531x6618d3635706240",
+      "orario": "20:45",
+      "evento": "Tennis WTA - 500 Bad Homburg",
+      "competizione": "WTA 500 Bad Homburg",
+      "canale": "SuperTennis",
+      "note": "Copertura del torneo con possibili match/highlights di giocatori italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEod16IOyTh5GvWPRoK3IP29DDS3JxX334zOdTUT-aB6O-61wlVfOVBGqmWhpWcAKptekbOKRJ_I9ZEnqFVYgkh9bh3Likrvpz4umg_8ZLrhUqsj_IjlHvGjVl6HMjXR3oHEmdKk9MiZs3Mudt-yPFR3WdxcPd-DepdTDJh_2wC-zAQw7pFHEGB",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "00:20",
+      "evento": "Notti Mondiali",
+      "competizione": "Mondiali 2026",
+      "canale": "Rai Uno",
+      "note": "Programma di approfondimento e highlights sui Mondiali di calcio.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHARuIFvf6WFK091Rvjk_PWfgziCyQkhC4Qn7odG5Kj1V7xds3aQAb7__J8Bnk22kTXvAamAP-EkMaCdJXY9agI3LXxuCo7mTQsrUWXL_ISxDyOLpaHQY8W4SJ7mvhJrHtjjNpJpE7npG3NsPG_rABvwg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZIqHr40eLOWW-JSWdKqfhc_oFvzdM4VLJ_BKaWBwzHxX5Oen2yECK-TJqKlISEGKy58RBw1keFFqyYkG3-U_aU-W24ruAMLOwIIXesMtHmQCt3WkAMl8C63wJBmnc5XX_WJyogAIGoXGhgWYgrhJDLYg6Dtb112D_vrXVkVmuYw4KFeHG3Q6fM0eA4ri_2fZPPELBtOq6xeAyD551F6ecg7tWiFPgWeDBEXf_zPWC3g-u0sS69wmo_vzf-wkhVCqNgnfSQWkvpmJTJOqSCFjHs=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00",
-      "evento": "Giordania - Algeria",
-      "competizione": "Mondiali 2026 (Fase a gironi)",
-      "canale": "DAZN",
-      "note": "Gruppo G",
-      "fonte": "https://www.dazn.com/it-IT/news/calcio/mondiali-2026-tutte-le-partite-di-oggi-orari-e-come-vederle-in-diretta-streaming-su-dazn/14f053531x6618d3635706240",
-      "accuratezza_orario": "esatto"
+      "orario": "01:00",
+      "evento": "Tennis WTA - 250 Eastbourne",
+      "competizione": "WTA 250 Eastbourne",
+      "canale": "SuperTennis",
+      "note": "Copertura del torneo con possibili match/highlights di giocatori italiani, come Jasmine Paolini.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEod16IOyTh5GvWPRoK3IP29DDS3JxX334zOdTUT-aB6O-61wlVfOVBGqmWhpWcAKptekbOKRJ_I9ZEnqFVYgkh9bh3Likrvpz4umg_8ZLrhUqsj_IjlHvGjVl6HMjXR3oHEmdKk9MiZs3Mudt-yPFR3WdxcPd-DepdTDJh_2wC-zAQw7pFHEGB",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "19:00",
-      "evento": "Portogallo - Uzbekistan",
-      "competizione": "Mondiali 2026 (Fase a gironi)",
-      "canale": "DAZN",
-      "note": "Gruppo K",
-      "fonte": "https://www.punto-informatico.it/mondiali-2026-programma-partite-22-23-giugno-dazn-rai/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Inghilterra - Ghana",
-      "competizione": "Mondiali 2026 (Fase a gironi)",
-      "canale": "DAZN, Rai",
-      "note": "Gruppo L",
-      "fonte": "https://www.dazn.com/it-IT/news/calcio/inghilterra-ghana-ai-mondiali-2026-ultime-notizie-orario-e-dove-vederla/1g2b508h15x310f545q1q0w5",
+      "orario": "02:20",
+      "evento": "Sport Mediaset - La Giornata",
+      "competizione": "Notiziario sportivo",
+      "canale": "Italia 1",
+      "note": "Rubrica sportiva della redazione Mediaset sui fatti della giornata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETRYNUnpHIOn1l8AWrrLQaNgG-B9yqd7wIEOAuMYD9kgPuUJba5G8yG9_vMA2-QerE-8CBIXcy74t0Dk05mKBp1bCuzKZ5CobIgWIYmecZLXDPsdanakpWL6PpJwNYB4fPGPCrARF_gz2QlKedgm4_xfU2N7RtnXFQS1AsovLzf_Z_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZIqHr40eLOWW-JSWdKqfhc_oFvzdM4VLJ_BKaWBwzHxX5Oen2yECK-TJqKlISEGKy58RBw1keFFqyYkG3-U_aU-W24ruAMLOwIIXesMtHmQCt3WkAMl8C63wJBmnc5XX_WJyogAIGoXGhgWYgrhJDLYg6Dtb112D_vrXVkVmuYw4KFeHG3Q6fM0eA4ri_2fZPPELBtOq6xeAyD551F6ecg7tWiFPgWeDBEXf_zPWC3g-u0sS69wmo_vzf-wkhVCqNgnfSQWkvpmJTJOqSCFjHs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHARuIFvf6WFK091Rvjk_PWfgziCyQkhC4Qn7odG5Kj1V7xds3aQAb7__J8Bnk22kTXvAamAP-EkMaCdJXY9agI3LXxuCo7mTQsrUWXL_ISxDyOLpaHQY8W4SJ7mvhJrHtjjNpJpE7npG3NsPG_rABvwg==",
       "accuratezza_orario": "esatto"
     }
   ]
