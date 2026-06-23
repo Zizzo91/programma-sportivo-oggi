@@ -1,94 +1,40 @@
 {
-  "last_updated": "2026-06-22T22:32:05.100321+02:00",
+  "last_updated": "2026-06-23T04:04:20.649261+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Uruguay-Capo Verde",
-      "competizione": "Mondiali 2026",
-      "canale": "Dazn",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Nuova Zelanda-Egitto",
-      "competizione": "Mondiali 2026",
-      "canale": "Dazn",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Qualificazioni, primo turno (con italiani)",
-      "competizione": "Tennis, Wimbledon",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Undici azzurri in campo nelle qualificazioni maschili.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbTOaFfeqc5V4SUkjYCjGp2eKongKOHlzBNBEZylJwpaPRWV3rOJarUxmQPmDpyeTwd4KEdMQAxbMA8bAdjWLjGqvhgEVEnyaT3QxGsr5MzEw_MZ3O2-cTujzn-G74T9dzuurFOFFdO-tphRQXTIYv17rFJdvsou9gu3thAFAp1iIFVA-SkuOlwgKtIprq0kqDkEk69gDsoMo1EWpIqGoXJtHYlNYiUlnUi14Sb9L1FaZWVFMENdeorZWu",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00*",
-      "evento": "Elisabetta Cocciaretto vs Ajla Tomljanovic",
-      "competizione": "Tennis, WTA Eastbourne",
-      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7uBPz-1jkkGaIPAEFiu1znhfHz0-IrF-UYPLOyyEE0KUx-ypOlz8fyRVErGrzmo0Vh-RZ2GfJuCDIms3VaX61S7_EJPykDSX5h499kUVJTqzof5n7SCcCR3UWzH4nKCwipEW1S8WokskIvUNq91zkt0L4ds3VZCUI6mj6Vw6I9Tq6s50r3wdcqPKnoG0dd1ubYdKvB5jMYwqP9Ie_4mPhje7TUnSVroduBCF24zs=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Argentina-Austria",
-      "competizione": "Mondiali 2026",
-      "canale": "Rai 1, Dazn",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuhTYtgUQUswMcEgPNUQNBZW1FDijri6h0YBUqj6wUe0tEufsb13lowe6DMTnJXOwAVSGAqTySGDp48PVVafSGtvrrjXwe5-KszuDzZDbBS6ygeCU_35UAP07mfadUapzvNfJRWNLwiTUmO63aLDsP-QklMwYtg1wY1B7qwVRsvZZIYF5cquOzQfrRcbFgZWDd6tXfiG7C5a6vY1kAGo2sqLc4aM6RiCPNvn8eQgKNHtfPZEnaTT1b_btfmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "U16 Serie A",
-      "competizione": "Campionati Nazionali Giovanili SGS",
-      "canale": "Sky Sport 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "U16 Serie A-B Finale",
-      "competizione": "Campionati Nazionali Giovanili SGS",
-      "canale": "Sky Sport Max",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Francia-Iraq",
-      "competizione": "Mondiali 2026",
-      "canale": "Dazn",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuhTYtgUQUswMcEgPNUQNBZW1FDijri6h0YBUqj6wUe0tEufsb13lowe6DMTnJXOwAVSGAqTySGDp48PVVafSGtvrrjXwe5-KszuDzZDbBS6ygeCU_35UAP07mfadUapzvNfJRWNLwiTUmO63aLDsP-QklMwYtg1wY1B7qwVRsvZZIYF5cquOzQfrRcbFgZWDd6tXfiG7C5a6vY1kAGo2sqLc4aM6RiCPNvn8eQgKNHtfPZEnaTT1b_btfmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "02:00",
-      "evento": "Norvegia-Senegal",
-      "competizione": "Mondiali 2026",
-      "canale": "Dazn",
-      "note": "(del 23/06/2026)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuhTYtgUQUswMcEgPNUQNBZW1FDijri6h0YBUqj6wUe0tEufsb13lowe6DMTnJXOwAVSGAqTySGDp48PVVafSGtvrrjXwe5-KszuDzZDbBS6ygeCU_35UAP07mfadUapzvNfJRWNLwiTUmO63aLDsP-QklMwYtg1wY1B7qwVRsvZZIYF5cquOzQfrRcbFgZWDd6tXfiG7C5a6vY1kAGo2sqLc4aM6RiCPNvn8eQgKNHtfPZEnaTT1b_btfmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "evento": "Norvegia - Senegal",
+      "competizione": "Mondiali 2026 (Fase a gironi)",
+      "canale": "DAZN",
+      "note": "Gruppo I",
+      "fonte": "https://www.dazn.com/it-IT/news/calcio/mondiali-2026-tutte-le-partite-di-oggi-orari-e-come-vederle-in-diretta-streaming-su-dazn/14f053531x6618d3635706240",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:00",
-      "evento": "Giordania-Algeria",
-      "competizione": "Mondiali 2026",
-      "canale": "Dazn",
-      "note": "(del 23/06/2026)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuhTYtgUQUswMcEgPNUQNBZW1FDijri6h0YBUqj6wUe0tEufsb13lowe6DMTnJXOwAVSGAqTySGDp48PVVafSGtvrrjXwe5-KszuDzZDbBS6ygeCU_35UAP07mfadUapzvNfJRWNLwiTUmO63aLDsP-QklMwYtg1wY1B7qwVRsvZZIYF5cquOzQfrRcbFgZWDd6tXfiG7C5a6vY1kAGo2sqLc4aM6RiCPNvn8eQgKNHtfPZEnaTT1b_btfmw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zujVeP-7D_VHXm-VKg4l7wiCJFDnjRrDajvWCsh2_OAQwYlHE4OJFkPSCaR2dbDlGW7daPcnBcndXn-8LG_BMIK2JZmkEns2uBnaex9wCaRZ5kIaXRuboJ3bbHk=",
+      "evento": "Giordania - Algeria",
+      "competizione": "Mondiali 2026 (Fase a gironi)",
+      "canale": "DAZN",
+      "note": "Gruppo G",
+      "fonte": "https://www.dazn.com/it-IT/news/calcio/mondiali-2026-tutte-le-partite-di-oggi-orari-e-come-vederle-in-diretta-streaming-su-dazn/14f053531x6618d3635706240",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Portogallo - Uzbekistan",
+      "competizione": "Mondiali 2026 (Fase a gironi)",
+      "canale": "DAZN",
+      "note": "Gruppo K",
+      "fonte": "https://www.punto-informatico.it/mondiali-2026-programma-partite-22-23-giugno-dazn-rai/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Inghilterra - Ghana",
+      "competizione": "Mondiali 2026 (Fase a gironi)",
+      "canale": "DAZN, Rai",
+      "note": "Gruppo L",
+      "fonte": "https://www.dazn.com/it-IT/news/calcio/inghilterra-ghana-ai-mondiali-2026-ultime-notizie-orario-e-dove-vederla/1g2b508h15x310f545q1q0w5",
       "accuratezza_orario": "esatto"
     }
   ]
