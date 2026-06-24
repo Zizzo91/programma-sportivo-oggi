@@ -1,58 +1,40 @@
 {
-  "last_updated": "2026-06-24T10:51:17.072976+02:00",
+  "last_updated": "2026-06-24T21:25:17.686013+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "Panama - Croazia",
-      "competizione": "Mondiali Calcio 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMzFd27-AeDMf6I4y4AinkROFRVQwZqws5fWgDvN3dsWKhhzUqkUfpT1Og04vqB9hwKumHhQj1uwNBjZOXa-1cMeidVP7Q6a77PkBLis2a54XXWaijy9ZEHq7qQjtCt4E1UKW8b7C_pH9c14RwRPp9Zel_xrLcOoCg-PDsgRo70Sq5ycuCIbpDOM3NefUuhiqQUsXtvD-GefFl8KdaJ-ZJGNSaRMYBVVIaD_Ap0LP0rfS5vEP5YEyzQJCqvgz4w",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Colombia - Repubblica Democratica del Congo",
-      "competizione": "Mondiali Calcio 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMzFd27-AeDMf6I4y4AinkROFRVQwZqws5fWgDvN3dsWKhhzUqkUfpT1Og04vqB9hwKumHhQj1uwNBjZOXa-1cMeidVP7Q6a77PkBLis2a54XXWaijy9ZEHq7qQjtCt4E1UKW8b7C_pH9c14RwRPp9Zel_xrLcOoCg-PDsgRo70Sq5ycuCIbpDOM3NefUuhiqQUsXtvD-GefFl8KdaJ-ZJGNSaRMYBVVIaD_Ap0LP0rfS5vEP5YEyzQJCqvgz4w",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "15:30",
-      "evento": "Jannik Sinner - Cameron Norrie (Esibizione Hurlingham)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis / SuperTennis (streaming su Sky Go/NOW/SuperTenniX)",
-      "note": "Match di esibizione. Sinner è italiano.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMzFd27-AeDMf6I4y4AinkROFRVQwZqws5fWgDvN3dsWKhhzUqkUfpT1Og04vqB9hwKumHhQj1uwNBjZOXa-1cMeidVP7Q6a77PkBLis2a54XXWaijy9ZEHq7qQjtCt4E1UKW8b7C_pH9c14RwRPp9Zel_xrLcOoCg-PDsgRo70Sq5ycuCIbpDOM3NefUuhiqQUsXtvD-GefFl8KdaJ-ZJGNSaRMYBVVIaD_Ap0LP0rfS5vEP5YEyzQJCqvgz4w",
+      "evento": "Jannik Sinner vs Cameron Norrie",
+      "competizione": "Esibizione Giorgio Armani Tennis Classic",
+      "canale": "Sky Sport, Sportface su Prime Video e Samsung TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAjRAS7OtEciKL0gyPRspDzWvsZLnD5vByxRCTStGzxyvKykh_QqglynBFWaZpl3MsMqHYtaza9a66c2pP0fFSzkZi6Iueaj4KuUTTYvBnRhYRpQgdHHBSexq00OsVO5yvOK2YpRoVL8hlPaSwR9QvF7pe9S2m3imir1wqKuC9mziYoM6QFALYzH56Z6EqEpZjYrwfC2bG28htM0D51FSJ7I0-_jW5_3zDTHmbEsMEjvLJcWhMiEbd7erdIS-Azw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "Al Khallej - Al Ahli",
+      "evento": "Al Khallej-Al Ahli",
       "competizione": "Campionato Saudita",
       "canale": "Sportitalia",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHIMG4WwRTPIkbkJiOOrn89S6cYCff1vCqd4LCmWb6jaYLOkaYno0N2NKDE8hJA3EefxNfybraQAxbHDw9VxA2OaCN9SF_4qztFr7YEoukLgoEvfnFPyhqisQa28B0LIFkmod0iDA=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHo5wDM8mu57X1pcpYayjXGqCCD9h8BaXeQywIksjL3TqT4ZTnFtzEmM-oC5s7MCZO6QAbad3H4O4gXxUBzC9phr2hL_DvsWjjKXaQfQJCPuCCAkTGXBZ955vfqEfnx3mXxgBpT00=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Svizzera - Canada",
-      "competizione": "Mondiali Calcio 2026 (Gruppo B)",
-      "canale": "Rai 1 HD, DAZN",
+      "orario": "20:30",
+      "evento": "Svizzera – Canada",
+      "competizione": "Mondiali di Calcio 2026",
+      "canale": "Rai 1, DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIBF8ilnmlvxV928QF2-JSDFc224wYMwfSeIxNM1XY1NFXZQ2lZFfLY9X0i_EkyAG6m9u0QvrXp_QY1BP6sCPRas2__dXHO61hQ2O9YDhR9IkbWlPndWKOglPoKPsQcSW4ma7x_1CZtzlIHGDiOMYNTewuX5K-e-cyCZmBZqrLhTGgCHsjbHiVVO0Qc2tCg55q2zMs7gptw58F7u10ZasXgc8EjClJwdFUXXQF08Y2Eho=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHo5wDM8mu57X1pcpYayjXGqCCD9h8BaXeQywIksjL3TqT4ZTnFtzEmM-oC5s7MCZO6QAbad3H4O4gXxUBzC9phr2hL_DvsWjjKXaQfQJCPuCCAkTGXBZ955vfqEfnx3mXxgBpT00=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIkNf8Y2SoFIFd-0en67zSU03qH3CfVqcq3DdPFp7JBkeEeZy-HNiOIm_cQSgOvZYz9Yo_wdXoV5d7xIGVyLDjdYrL23KsLKbcDEXcV4gd0GV8oilkOIFzYIQOexB_JJeCaQO5-7u65g0nyXB8wPhpzM-XBlGBycZ2nH48mvvuTxnRj1N7H1i1Lv2Cik9ybg6C64ylj9dbUDaKW2TfcIGhm1a5KFsnU1RpeO897LTB8wkFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22ghoeHuBqlO5fR7uO-ohfpUe9lLC5TcPDkun0fesxfl2IiPSw8yYO5CweaA9g-mtDiVHzRtYdc3FNTSYDrfgboz4Kh9x_BI1jZ7_yDMnNUZQGZ4ZiniXP1fFwp1XqJx9Yy6gbvv6TSVSc1wy773zAtsJT_DzU0FtFpOZLomi",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Bosnia - Qatar",
-      "competizione": "Mondiali Calcio 2026 (Gruppo B)",
+      "evento": "Bosnia Erzegovina – Qatar",
+      "competizione": "Mondiali di Calcio 2026",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8v3ojhUuYlX86LjYPtwsScBw48NPpxjHhkfIZopUrtfI4ZIWMeYrCqAHvnEDLCiGDYOYJed8RE-Q715u6_MabjimzKvEPJzFMTYubRooaaoVIq7P8B84ztDASfFFfjLa7X6K7qRscVAkAj91iTopSBZzudoxjTYUsMOBLjY_y1kIJh3HNKOlvoA==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAjRAS7OtEciKL0gyPRspDzWvsZLnD5vByxRCTStGzxyvKykh_QqglynBFWaZpl3MsMqHYtaza9a66c2pP0fFSzkZi6Iueaj4KuUTTYvBnRhYRpQgdHHBSexq00OsVO5yvOK2YpRoVL8hlPaSwR9QvF7pe9S2m3imir1wqKuC9mziYoM6QFALYzH56Z6EqEpZjYrwfC2bG28htM0D51FSJ7I0-_jW5_3zDTHmbEsMEjvLJcWhMiEbd7erdIS-Azw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIkNf8Y2SoFIFd-0en67zSU03qH3CfVqcq3DdPFp7JBkeEeZy-HNiOIm_cQSgOvZYz9Yo_wdXoV5d7xIGVyLDjdYrL23KsLKbcDEXcV4gd0GV8oilkOIFzYIQOexB_JJeCaQO5-7u65g0nyXB8wPhpzM-XBlGBycZ2nH48mvvuTxnRj1N7H1i1Lv2Cik9ybg6C64ylj9dbUDaKW2TfcIGhm1a5KFsnU1RpeO897LTB8wkFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCWXFbHRt4u47yVEo1TKBKDTYebFCCS08OEhADhNK-p6JYPND2iN5Q73FDF7GlrmBhmxtYn-K3onTXvYowz2Oy92dHvpLmET8uSGCLX5pSl3oU_4B-sbwDIlFBMX_3QiGnojvnbibO2PaCKzvsxmRep0sFMbzRT_l1UQjX8MIMeyWL1ZJDyQFz2XejYhmE5BPq2vEeS6E5npMNZHDaKk50tbGsbMMgE5KtCSgfKloVb3ywDcbD9hyHJD5SZ5kDQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22ghoeHuBqlO5fR7uO-ohfpUe9lLC5TcPDkun0fesxfl2IiPSw8yYO5CweaA9g-mtDiVHzRtYdc3FNTSYDrfgboz4Kh9x_BI1jZ7_yDMnNUZQGZ4ZiniXP1fFwp1XqJx9Yy6gbvv6TSVSc1wy773zAtsJT_DzU0FtFpOZLomi",
       "accuratezza_orario": "esatto"
     },
     {
@@ -61,52 +43,70 @@
       "competizione": "Calcio",
       "canale": "Sportitalia",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHIMG4WwRTPIkbkJiOOrn89S6cYCff1vCqd4LCmWb6jaYLOkaYno0N2NKDE8hJA3EefxNfybraQAxbHDw9VxA2OaCN9SF_4qztFr7YEoukLgoEvfnFPyhqisQa28B0LIFkmod0iDA=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHo5wDM8mu57X1pcpYayjXGqCCD9h8BaXeQywIksjL3TqT4ZTnFtzEmM-oC5s7MCZO6QAbad3H4O4gXxUBzC9phr2hL_DvsWjjKXaQfQJCPuCCAkTGXBZ955vfqEfnx3mXxgBpT00=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Marocco - Haiti",
-      "competizione": "Mondiali Calcio 2026 (Gruppo C)",
+      "evento": "Marocco-Haiti",
+      "competizione": "Mondiali di Calcio 2026",
       "canale": "DAZN",
-      "note": "Giovedì 25 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6MDW6arFwQJbyntSvHvPyg2UvrkGq9zSOlkmgofRJ0sQV2H3boEH6DVBVhbzeJfpA8Lqjzj-Ay_SFWGNEnJ7uXm8x7icyU0BSc6mbI4nG9TXDFvhXPj-cCxq94oNOoOnKxqCYNKEhhS0P03-KjDshesnWuIoTl7mK3M3z0DWkqXVs1N11jTWSZd66mJ8omkS0jZGJBwD7rEU8sbH",
+      "note": "Notte tra 24 e 25 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIkNf8Y2SoFIFd-0en67zSU03qH3CfVqcq3DdPFp7JBkeEeZy-HNiOIm_cQSgOvZYz9Yo_wdXoV5d7xIGVyLDjdYrL23KsLKbcDEXcV4gd0GV8oilkOIFzYIQOexB_JJeCaQO5-7u65g0nyXB8wPhpzM-XBlGBycZ2nH48mvvuTxnRj1N7H1i1Lv2Cik9ybg6C64ylj9dbUDaKW2TfcIGhm1a5KFsnU1RpeO897LTB8wkFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCWXFbHRt4u47yVEo1TKBKDTYebFCCS08OEhADhNK-p6JYPND2iN5Q73FDF7GlrmBhmxtYn-K3onTXvYowz2Oy92dHvpLmET8uSGCLX5pSl3oU_4B-sbwDIlFBMX_3QiGnojvnbibO2PaCKzvsxmRep0sFMbzRT_l1UQjX8MIMeyWL1ZJDyQFz2XejYhmE5BPq2vEeS6E5npMNZHDaKk50tbGsbMMgE5KtCSgfKloVb3ywDcbD9hyHJD5SZ5kDQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Scozia - Brasile",
-      "competizione": "Mondiali Calcio 2026 (Gruppo C)",
+      "evento": "Scozia-Brasile",
+      "competizione": "Mondiali di Calcio 2026",
       "canale": "DAZN",
-      "note": "Giovedì 25 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6MDW6arFwQJbyntSvHvPyg2UvrkGq9zSOlkmgofRJ0sQV2H3boEH6DVBVhbzeJfpA8Lqjzj-Ay_SFWGNEnJ7uXm8x7icyU0BSc6mbI4nG9TXDFvhXPj-cCxq94oNOoOnKxqCYNKEhhS0P03-KjDshesnWuIoTl7mK3M3z0DWkqXVs1N11jTWSZd66mJ8omkS0jZGJBwD7rEU8sbH",
+      "note": "Notte tra 24 e 25 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIkNf8Y2SoFIFd-0en67zSU03qH3CfVqcq3DdPFp7JBkeEeZy-HNiOIm_cQSgOvZYz9Yo_wdXoV5d7xIGVyLDjdYrL23KsLKbcDEXcV4gd0GV8oilkOIFzYIQOexB_JJeCaQO5-7u65g0nyXB8wPhpzM-XBlGBycZ2nH48mvvuTxnRj1N7H1i1Lv2Cik9ybg6C64ylj9dbUDaKW2TfcIGhm1a5KFsnU1RpeO897LTB8wkFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCWXFbHRt4u47yVEo1TKBKDTYebFCCS08OEhADhNK-p6JYPND2iN5Q73FDF7GlrmBhmxtYn-K3onTXvYowz2Oy92dHvpLmET8uSGCLX5pSl3oU_4B-sbwDIlFBMX_3QiGnojvnbibO2PaCKzvsxmRep0sFMbzRT_l1UQjX8MIMeyWL1ZJDyQFz2XejYhmE5BPq2vEeS6E5npMNZHDaKk50tbGsbMMgE5KtCSgfKloVb3ywDcbD9hyHJD5SZ5kDQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Manchester City - Aston Villa",
+      "evento": "Manchester City-Aston Villa",
       "competizione": "Calcio",
       "canale": "Sportitalia",
-      "note": "Giovedì 25 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHIMG4WwRTPIkbkJiOOrn89S6cYCff1vCqd4LCmWb6jaYLOkaYno0N2NKDE8hJA3EefxNfybraQAxbHDw9VxA2OaCN9SF_4qztFr7YEoukLgoEvfnFPyhqisQa28B0LIFkmod0iDA=",
+      "note": "Notte tra 24 e 25 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHo5wDM8mu57X1pcpYayjXGqCCD9h8BaXeQywIksjL3TqT4ZTnFtzEmM-oC5s7MCZO6QAbad3H4O4gXxUBzC9phr2hL_DvsWjjKXaQfQJCPuCCAkTGXBZ955vfqEfnx3mXxgBpT00=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Panama-Croazia",
+      "competizione": "Mondiali di Calcio 2026",
+      "canale": "DAZN",
+      "note": "Notte tra 24 e 25 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAjRAS7OtEciKL0gyPRspDzWvsZLnD5vByxRCTStGzxyvKykh_QqglynBFWaZpl3MsMqHYtaza9a66c2pP0fFSzkZi6Iueaj4KuUTTYvBnRhYRpQgdHHBSexq00OsVO5yvOK2YpRoVL8hlPaSwR9QvF7pe9S2m3imir1wqKuC9mziYoM6QFALYzH56Z6EqEpZjYrwfC2bG28htM0D51FSJ7I0-_jW5_3zDTHmbEsMEjvLJcWhMiEbd7erdIS-Azw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Sudafrica - Corea del Sud",
-      "competizione": "Mondiali Calcio 2026 (Gruppo A)",
+      "evento": "Sudafrica-Corea del Sud",
+      "competizione": "Mondiali di Calcio 2026",
       "canale": "DAZN",
-      "note": "Giovedì 25 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6MDW6arFwQJbyntSvHvPyg2UvrkGq9zSOlkmgofRJ0sQV2H3boEH6DVBVhbzeJfpA8Lqjzj-Ay_SFWGNEnJ7uXm8x7icyU0BSc6mbI4nG9TXDFvhXPj-cCxq94oNOoOnKxqCYNKEhhS0P03-KjDshesnWuIoTl7mK3M3z0DWkqXVs1N11jTWSZd66mJ8omkS0jZGJBwD7rEU8sbH",
+      "note": "Notte tra 24 e 25 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIkNf8Y2SoFIFd-0en67zSU03qH3CfVqcq3DdPFp7JBkeEeZy-HNiOIm_cQSgOvZYz9Yo_wdXoV5d7xIGVyLDjdYrL23KsLKbcDEXcV4gd0GV8oilkOIFzYIQOexB_JJeCaQO5-7u65g0nyXB8wPhpzM-XBlGBycZ2nH48mvvuTxnRj1N7H1i1Lv2Cik9ybg6C64ylj9dbUDaKW2TfcIGhm1a5KFsnU1RpeO897LTB8wkFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCWXFbHRt4u47yVEo1TKBKDTYebFCCS08OEhADhNK-p6JYPND2iN5Q73FDF7GlrmBhmxtYn-K3onTXvYowz2Oy92dHvpLmET8uSGCLX5pSl3oU_4B-sbwDIlFBMX_3QiGnojvnbibO2PaCKzvsxmRep0sFMbzRT_l1UQjX8MIMeyWL1ZJDyQFz2XejYhmE5BPq2vEeS6E5npMNZHDaKk50tbGsbMMgE5KtCSgfKloVb3ywDcbD9hyHJD5SZ5kDQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Messico - Repubblica Ceca",
-      "competizione": "Mondiali Calcio 2026 (Gruppo A)",
+      "evento": "Repubblica Ceca-Messico",
+      "competizione": "Mondiali di Calcio 2026",
       "canale": "DAZN",
-      "note": "Giovedì 25 giugno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6MDW6arFwQJbyntSvHvPyg2UvrkGq9zSOlkmgofRJ0sQV2H3boEH6DVBVhbzeJfpA8Lqjzj-Ay_SFWGNEnJ7uXm8x7icyU0BSc6mbI4nG9TXDFvhXPj-cCxq94oNOoOnKxqCYNKEhhS0P03-KjDshesnWuIoTl7mK3M3z0DWkqXVs1N11jTWSZd66mJ8omkS0jZGJBwD7rEU8sbH",
+      "note": "Notte tra 24 e 25 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwIkNf8Y2SoFIFd-0en67zSU03qH3CfVqcq3DdPFp7JBkeEeZy-HNiOIm_cQSgOvZYz9Yo_wdXoV5d7xIGVyLDjdYrL23KsLKbcDEXcV4gd0GV8oilkOIFzYIQOexB_JJeCaQO5-7u65g0nyXB8wPhpzM-XBlGBycZ2nH48mvvuTxnRj1N7H1i1Lv2Cik9ybg6C64ylj9dbUDaKW2TfcIGhm1a5KFsnU1RpeO897LTB8wkFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCWXFbHRt4u47yVEo1TKBKDTYebFCCS08OEhADhNK-p6JYPND2iN5Q73FDF7GlrmBhmxtYn-K3onTXvYowz2Oy92dHvpLmET8uSGCLX5pSl3oU_4B-sbwDIlFBMX_3QiGnojvnbibO2PaCKzvsxmRep0sFMbzRT_l1UQjX8MIMeyWL1ZJDyQFz2XejYhmE5BPq2vEeS6E5npMNZHDaKk50tbGsbMMgE5KtCSgfKloVb3ywDcbD9hyHJD5SZ5kDQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Colombia-Repubblica Democratica del Congo",
+      "competizione": "Mondiali di Calcio 2026",
+      "canale": "DAZN",
+      "note": "Notte tra 24 e 25 giugno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAjRAS7OtEciKL0gyPRspDzWvsZLnD5vByxRCTStGzxyvKykh_QqglynBFWaZpl3MsMqHYtaza9a66c2pP0fFSzkZi6Iueaj4KuUTTYvBnRhYRpQgdHHBSexq00OsVO5yvOK2YpRoVL8hlPaSwR9QvF7pe9S2m3imir1wqKuC9mziYoM6QFALYzH56Z6EqEpZjYrwfC2bG28htM0D51FSJ7I0-_jW5_3zDTHmbEsMEjvLJcWhMiEbd7erdIS-Azw==",
       "accuratezza_orario": "esatto"
     }
   ]
