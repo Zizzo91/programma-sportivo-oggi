@@ -1,40 +1,94 @@
 {
-  "last_updated": "2026-06-23T21:48:03.237542+02:00",
+  "last_updated": "2026-06-24T04:06:55.862316+02:00",
   "events": [
     {
-      "orario": "20:45",
-      "evento": "Tennis WTA - 500 Bad Homburg",
-      "competizione": "WTA 500 Bad Homburg",
-      "canale": "SuperTennis",
-      "note": "Copertura del torneo con possibili match/highlights di giocatori italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEod16IOyTh5GvWPRoK3IP29DDS3JxX334zOdTUT-aB6O-61wlVfOVBGqmWhpWcAKptekbOKRJ_I9ZEnqFVYgkh9bh3Likrvpz4umg_8ZLrhUqsj_IjlHvGjVl6HMjXR3oHEmdKk9MiZs3Mudt-yPFR3WdxcPd-DepdTDJh_2wC-zAQw7pFHEGB",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "00:20",
-      "evento": "Notti Mondiali",
-      "competizione": "Mondiali 2026",
-      "canale": "Rai Uno",
-      "note": "Programma di approfondimento e highlights sui Mondiali di calcio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHARuIFvf6WFK091Rvjk_PWfgziCyQkhC4Qn7odG5Kj1V7xds3aQAb7__J8Bnk22kTXvAamAP-EkMaCdJXY9agI3LXxuCo7mTQsrUWXL_ISxDyOLpaHQY8W4SJ7mvhJrHtjjNpJpE7npG3NsPG_rABvwg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZIqHr40eLOWW-JSWdKqfhc_oFvzdM4VLJ_BKaWBwzHxX5Oen2yECK-TJqKlISEGKy58RBw1keFFqyYkG3-U_aU-W24ruAMLOwIIXesMtHmQCt3WkAMl8C63wJBmnc5XX_WJyogAIGoXGhgWYgrhJDLYg6Dtb112D_vrXVkVmuYw4KFeHG3Q6fM0eA4ri_2fZPPELBtOq6xeAyD551F6ecg7tWiFPgWeDBEXf_zPWC3g-u0sS69wmo_vzf-wkhVCqNgnfSQWkvpmJTJOqSCFjHs=",
+      "orario": "20:30",
+      "evento": "Svizzera – Canada",
+      "competizione": "Mondiali di Calcio 2026",
+      "canale": "Rai 1",
+      "note": "Partita della fase a gironi dei Mondiali 2026.",
+      "fonte": "ProgrammiTV, Adnkronos",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "Tennis WTA - 250 Eastbourne",
-      "competizione": "WTA 250 Eastbourne",
+      "orario": "23:15",
+      "evento": "Notti Mondiali",
+      "competizione": "Mondiali di Calcio 2026",
+      "canale": "Rai 1",
+      "note": "Rubrica di approfondimento sui Mondiali 2026.",
+      "fonte": "ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Incontro amichevole - Italia vs Croazia",
+      "competizione": "Calcio Amichevole Internazionale",
+      "canale": "Sky Sport Uno",
+      "note": "Amichevole che coinvolge la nazionale italiana.",
+      "fonte": "Sky Sport Uno Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "UEFA Champions League 2025/2026 - PSG vs Arsenal (Finale)",
+      "competizione": "Calcio UEFA Champions League (Replica)",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della finale di Champions League.",
+      "fonte": "Sky Sport Uno Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "UEFA Champions League 2025/2026 - PSG vs Arsenal (Finale)",
+      "competizione": "Calcio UEFA Champions League (Replica)",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della finale di Champions League.",
+      "fonte": "Sky Sport Uno Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Jannik Sinner vs Cameron Norrie (Giorgio Armani Tennis Classic)",
+      "competizione": "Tennis - Esibizione",
+      "canale": "SuperTennis HD",
+      "note": "Esibizione in preparazione a Wimbledon.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00*",
+      "evento": "Wimbledon 2026 - Qualificazioni (match con italiani)",
+      "competizione": "Tennis - Grand Slam Qualificazioni",
       "canale": "SuperTennis",
-      "note": "Copertura del torneo con possibili match/highlights di giocatori italiani, come Jasmine Paolini.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEod16IOyTh5GvWPRoK3IP29DDS3JxX334zOdTUT-aB6O-61wlVfOVBGqmWhpWcAKptekbOKRJ_I9ZEnqFVYgkh9bh3Likrvpz4umg_8ZLrhUqsj_IjlHvGjVl6HMjXR3oHEmdKk9MiZs3Mudt-yPFR3WdxcPd-DepdTDJh_2wC-zAQw7pFHEGB",
+      "note": "Luca Nardi, Federico Cinà, Lucia Bronzetti, S. Travaglia, T. Grant e altri italiani impegnati. Orario di inizio delle sessioni principali.",
+      "fonte": "TieBreakTennis, LiveTennis.it",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "02:20",
-      "evento": "Sport Mediaset - La Giornata",
-      "competizione": "Notiziario sportivo",
-      "canale": "Italia 1",
-      "note": "Rubrica sportiva della redazione Mediaset sui fatti della giornata.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETRYNUnpHIOn1l8AWrrLQaNgG-B9yqd7wIEOAuMYD9kgPuUJba5G8yG9_vMA2-QerE-8CBIXcy74t0Dk05mKBp1bCuzKZ5CobIgWIYmecZLXDPsdanakpWL6PpJwNYB4fPGPCrARF_gz2QlKedgm4_xfU2N7RtnXFQS1AsovLzf_Z_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZIqHr40eLOWW-JSWdKqfhc_oFvzdM4VLJ_BKaWBwzHxX5Oen2yECK-TJqKlISEGKy58RBw1keFFqyYkG3-U_aU-W24ruAMLOwIIXesMtHmQCt3WkAMl8C63wJBmnc5XX_WJyogAIGoXGhgWYgrhJDLYg6Dtb112D_vrXVkVmuYw4KFeHG3Q6fM0eA4ri_2fZPPELBtOq6xeAyD551F6ecg7tWiFPgWeDBEXf_zPWC3g-u0sS69wmo_vzf-wkhVCqNgnfSQWkvpmJTJOqSCFjHs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHARuIFvf6WFK091Rvjk_PWfgziCyQkhC4Qn7odG5Kj1V7xds3aQAb7__J8Bnk22kTXvAamAP-EkMaCdJXY9agI3LXxuCo7mTQsrUWXL_ISxDyOLpaHQY8W4SJ7mvhJrHtjjNpJpE7npG3NsPG_rABvwg==",
+      "orario": "13:00",
+      "evento": "Italia vs Bulgaria",
+      "competizione": "Volleyball Nations League (VNL) Maschile",
+      "canale": "DAZN, VBTV",
+      "note": "Partita della VNL maschile. Il giocatore del Vero Volley Monza, Leandro Mosca, è tra i convocati della nazionale italiana.",
+      "fonte": "Lega Pallavolo Serie A, Vero Volley",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "MotoGP 2026 - GP Cechia: Gara",
+      "competizione": "MotoGP (Replica)",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del Gran Premio di Cechia.",
+      "fonte": "Sky Sport Uno Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Race Anatomy MotoGP",
+      "competizione": "MotoGP - Rubrica",
+      "canale": "Sky Sport Uno",
+      "note": "Rubrica di approfondimento sulla MotoGP.",
+      "fonte": "Sky Sport Uno Palinsesto",
       "accuratezza_orario": "esatto"
     }
   ]
