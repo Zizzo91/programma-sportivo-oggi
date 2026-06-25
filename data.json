@@ -1,86 +1,86 @@
 {
-  "last_updated": "2026-06-25T04:06:45.947434+02:00",
+  "last_updated": "2026-06-25T10:45:03.593917+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Marocco - Haiti",
-      "competizione": "Calcio - Mondiali 2026",
+      "orario": "22:00",
+      "evento": "Curacao-Costa d'Avorio",
+      "competizione": "Mondiali Calcio 2026",
       "canale": "DAZN",
-      "note": "Fase a gironi",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG20tj_wXkossiQrBmtYw-dHOI9IgALm3nbOxlk8vlsFIy6uQgOPb5DNfmViSby3Rib6CTiY6qP_KKXMK2YTWn_xW0894_pZ8vSa0QwptWjYO8y6-54VpZ49-GUN_nuTYw_ZsX2EoZR4tNvl0fWkHmnRJiuxO5MFCViWEQsBpJk46U",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Scozia - Brasile",
-      "competizione": "Calcio - Mondiali 2026",
-      "canale": "DAZN",
-      "note": "Fase a gironi",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG20tj_wXkossiQrBmtYw-dHOI9IgALm3nbOxlk8vlsFIy6uQgOPb5DNfmViSby3Rib6CTiY6qP_KKXMK2YTWn_xW0894_pZ8vSa0QwptWjYO8y6-54VpZ49-GUN_nuTYw_ZsX2EoZR4tNvl0fWkHmnRJiuxO5MFCViWEQsBpJk46U",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Repubblica Ceca - Messico",
-      "competizione": "Calcio - Mondiali 2026",
-      "canale": "DAZN",
-      "note": "Fase a gironi",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG20tj_wXkossiQrBmtYw-dHOI9IgALm3nbOxlk8vlsFIy6uQgOPb5DNfmViSby3Rib6CTiY6qP_KKXMK2YTWn_xW0894_pZ8vSa0QwptWjYO8y6-54VpZ49-GUN_nuTYw_ZsX2EoZR4tNvl0fWkHmnRJiuxO5MFCViWEQsBpJk46U",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Sudafrica - Corea del Sud",
-      "competizione": "Calcio - Mondiali 2026",
-      "canale": "DAZN",
-      "note": "Fase a gironi",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG20tj_wXkossiQrBmtYw-dHOI9IgALm3nbOxlk8vlsFIy6uQgOPb5DNfmViSby3Rib6CTiY6qP_KKXMK2YTWn_xW0894_pZ8vSa0QwptWjYO8y6-54VpZ49-GUN_nuTYw_ZsX2EoZR4tNvl0fWkHmnRJiuxO5MFCViWEQsBpJk46U",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Conferenza stampa piloti",
-      "competizione": "Formula 1 - GP Austria",
-      "canale": "Sky Sport F1, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_7gnZm0TkpPLnhWCzanx7nnciJwR_x9BLCdC-xx0PkAhM3wPUb3ntLgaLERI9NKno8VqJS_a5VAxxnPHBhdekA7IHXKHyRzf3mVfvuI2NbnylDG0VeEuLzmXpLEqfb5PLWz-_UqBRs7KXP55J5ZKTUiAgbjL4puuBCVvu91zN6-v8VBUFBLB3kTqYObWg2Px57P2oVQ_YRVVN",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Conferenza stampa piloti",
-      "competizione": "MotoGP - GP Olanda",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_7gnZm0TkpPLnhWCzanx7nnciJwR_x9BLCdC-xx0PkAhM3wPUb3ntLgaLERI9NKno8VqJS_a5VAxxnPHBhdekA7IHXKHyRzf3mVfvuI2NbnylDG0VeEuLzmXpLEqfb5PLWz-_UqBRs7KXP55J5ZKTUiAgbjL4puuBCVvu91zN6-v8VBUFBLB3kTqYObWg2Px57P2oVQ_YRVVN",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:30",
-      "evento": "Ucraina - Italia",
-      "competizione": "Volley - Volleyball Nations League (VNL) maschile",
-      "canale": "DAZN, VBTV",
-      "note": "La nazionale italiana include atleti della Vero Volley Monza.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_GDB64fJRq8v866Kkt1zld6T5FVY5lGThyqvt1nL69ZH0oMZYa9U6a-PrishYz-EwYJOlbRuQCfCk4F9FNVyNmmwHZW_y7vx7MBYnbMXMtRpAh2yS3WZPWslj0hSs8eHQdcup2hLhM6SNgDFQ2fTIi5G8Uz5LJNY838AHx1HW_zBit2-HhiCOy_CdENZrAavOR0EArGIINxCbw1E",
+      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Curacao - Costa d'Avorio",
-      "competizione": "Calcio - Mondiali 2026",
-      "canale": "DAZN",
-      "note": "Fase a gironi",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG20tj_wXkossiQrBmtYw-dHOI9IgALm3nbOxlk8vlsFIy6uQgOPb5DNfmViSby3Rib6CTiY6qP_KKXMK2YTWn_xW0894_pZ8vSa0QwptWjYO8y6-54VpZ49-GUN_nuTYw_ZsX2EoZR4tNvl0fWkHmnRJiuxO5MFCViWEQsBpJk46U",
+      "evento": "Ecuador-Germania",
+      "competizione": "Mondiali Calcio 2026",
+      "canale": "Rai 1, DAZN",
+      "note": "",
+      "fonte": "https://www.oaweb.it/articolo/quale-partita-rai-oggi-mondiali-calcio-2026-orario-giovedi-25-giugno-canale-streaming, https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Ecuador - Germania",
-      "competizione": "Calcio - Mondiali 2026",
+      "orario": "01:00",
+      "evento": "Tunisia-Olanda",
+      "competizione": "Mondiali Calcio 2026",
       "canale": "DAZN",
-      "note": "Fase a gironi",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG20tj_wXkossiQrBmtYw-dHOI9IgALm3nbOxlk8vlsFIy6uQgOPb5DNfmViSby3Rib6CTiY6qP_KKXMK2YTWn_xW0894_pZ8vSa0QwptWjYO8y6-54VpZ49-GUN_nuTYw_ZsX2EoZR4tNvl0fWkHmnRJiuxO5MFCViWEQsBpJk46U",
+      "note": "Notte tra 25 e 26 giugno",
+      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Giappone-Svezia",
+      "competizione": "Mondiali Calcio 2026",
+      "canale": "DAZN",
+      "note": "Notte tra 25 e 26 giugno",
+      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Turchia-USA",
+      "competizione": "Mondiali Calcio 2026",
+      "canale": "DAZN",
+      "note": "Notte tra 25 e 26 giugno",
+      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Paraguay-Australia",
+      "competizione": "Mondiali Calcio 2026",
+      "canale": "DAZN",
+      "note": "Notte tra 25 e 26 giugno",
+      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30*",
+      "evento": "Luciano Darderi vs Nuno Borges",
+      "competizione": "ATP 250 Mallorca (Quarti di finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Secondo match dalle 11:00 CET, orario stimato dopo Quinn-Kopriva",
+      "fonte": "https://www.sport2u.tv/tennis/atp-maiorca-2026-darderi-borges-in-tv-orario-e-dove-vederla/, https://www.tennismagazineitalia.it/atp-maiorca-oggi-darderi-borges-orario-e-dove-vederla-in-tv/, https://www.ubitennis.com/blog/2026/06/25/italiani-in-campo-giovedi-25-giugno-darderi-a-maiorca-grant-e-bronzaetti-per-il-main-draw-di-wimbledon/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Tyra Caterina Grant vs Harmony Tan",
+      "competizione": "Wimbledon Qualificazioni (Terzo turno)",
+      "canale": "Sky Sport",
+      "note": "Sky Sport per i match degli italiani nelle qualificazioni",
+      "fonte": "https://www.tennistalker.it/news/il-tennis-in-tv-oggi-25-giugno-darderi-cerca-la-semifinale-bronzaetti-e-grant-vedono-wimbledon/, https://www.ubitennis.com/blog/2026/06/25/italiani-in-campo-giovedi-25-giugno-darderi-a-maiorca-grant-e-bronzaetti-per-il-main-draw-di-wimbledon/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Lucia Bronzetti vs Lina Gjorcheska",
+      "competizione": "Wimbledon Qualificazioni (Terzo turno)",
+      "canale": "Sky Sport",
+      "note": "Terzo match sul campo 10, orario stimato dopo Grant-Tan",
+      "fonte": "https://www.tennistalker.it/news/il-tennis-in-tv-oggi-25-giugno-darderi-cerca-la-semifinale-bronzaetti-e-grant-vedono-wimbledon/, https://www.ubitennis.com/blog/2026/06/25/italiani-in-campo-giovedi-25-giugno-darderi-a-maiorca-grant-e-bronzaetti-per-il-main-draw-di-wimbledon/",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
