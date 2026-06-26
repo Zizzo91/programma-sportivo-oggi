@@ -1,86 +1,104 @@
 {
-  "last_updated": "2026-06-25T10:45:03.593917+02:00",
+  "last_updated": "2026-06-26T10:48:28.631778+02:00",
   "events": [
     {
-      "orario": "22:00",
-      "evento": "Curacao-Costa d'Avorio",
-      "competizione": "Mondiali Calcio 2026",
+      "orario": "10:45",
+      "evento": "Prove Libere 1",
+      "competizione": "MotoGP, GP Olanda 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "note": "Diretta tv e streaming su SkyGo e NOW",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqxByUjqbTpfTtv41fP7fMIEM7vgBkGzaSzkK7RMYvNYGQTswdzTXT4_kqEUWTQ70UiPEhsmjT57UhZYzIyEZ7yN_Id6djbTWqNNHPdgHzanYo4bBhP8Xz3wSbiiXRYbn9WBAnolBVYKShWrqSwKsvBhUjnjAPs-xcuhWWUxPc=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Pre-qualifiche",
+      "competizione": "Moto3, GP Olanda 2026",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "Diretta tv e streaming su SkyGo e NOW",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1, GP Austria 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "note": "Diretta tv e streaming su SkyGo e NOW",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFvXx32JD7WUx3DB782QSwUUmLcPfytb71Q6G2CpCZlZdxSnCynchOIaMzkjaiT8R09jW2Ykad6bT2TzK0zo3nTeiaN7XLgRd5x2X2NBcoWUE9hY_vBrLsd8cuKlbHBX_WnLakDTRV09LVVG9HMmZSH-5RIfR4Uedf7gYt5o72cIQP1VOplwE7EAbf-Rl8dQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTuwjuV47WF_Lq6AukDSYZ-XnWEkywLnyuXk10Rz0LqhbC0L2HU0WAdykDUavNrUP2emYgnN2O7mgxeATpn0frXa8pD-wkW_bR4uxd6vutDRsCP-E2bkayBOyycCAWmSOGsSQSI2f4hKThx3EMTAVSH3llsCphEUGxhHft7ao1g4dSxJbQXcSiTXu5WQ9d19dmn8yc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUimJbGCsRAE_fN6jAOMx5P9ZCkfW8796fVJ2OnrE5xFkI1CSwb7yaRhgMSiJAcxErSYzkgR-6aY-fdOSzVtu76e_8J5nVGh5BsQbToDj3DfDLwVcj9wTXlCMDDVJJhqcCXMgeQV4QNedR2-TVXdx-OwYmr5fbvCDvYzHvL8ilP8PIkckqmXSzGoEb8NKUj1naWMwBQWyg2wLIwO3q9uHy4vuRzdO2m6c5=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQUxkDu52b7KYZco89usX6u_TL3KiTBo0om40iv_gEzcdTZvzT1gXlg3l-_Ki44cDgyZkJhW6bIHcf2YyDL1LpR9R23bYVP0rqFDTJYRWB82MJQfdgFz1zGebtw6R1V_LGrNTNqjJXk6_MrcYbpwYWKoix0IQj18KPTUNp-EithJqx6r5x8gH1J6wA_N0x7A_y7A=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqxByUjqbTpfTtv41fP7fMIEM7vgBkGzaSzkK7RMYvNYGQTswdzTXT4_kqEUWTQ70UiPEhsmjT57UhZYzIyEZ7yN_Id6djbTWqNNHPdgHzanYo4bBhP8Xz3wSbiiXRYbn9WBAnolBVYKShWrqSwKsvBhUjnjAPs-xcuhWWUxPc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXJtqTEM2QxZFsdj2VbA5-GEXgmReYndcvNuYFkJOq8wiIJqBbL_MKbXfpkvjy4FBVAz1aYih-abOO32sIrU54xONVYurVA_LWwiLu3kXIQLKMMzPsUvS_0MZkxJVYCYnyvWWapPG_U0DMe7gdORP1zkGMNG3q1Ywf79JzLE-QvTnlMJB-eX-UiI17BPRXzw6s2bZFHjACxBiJykgphuTJQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Prove Libere 2",
+      "competizione": "MotoGP, GP Olanda 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
+      "note": "Diretta tv e streaming su SkyGo e NOW",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1, GP Austria 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "note": "Diretta tv e streaming su SkyGo e NOW",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFvXx32JD7WUx3DB782QSwUUmLcPfytb71Q6G2CpCZlZdxSnCynchOIaMzkjaiT8R09jW2Ykad6bT2TzK0zo3nTeiaN7XLgRd5x2X2NBcoWUE9hY_vBrLsd8cuKlbHBX_WnLakDTRV09LVVG9HMmZSH-5RIfR4Uedf7gYt5o72cIQP1VOplwE7EAbf-Rl8dQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTuwjuV47WF_Lq6AukDSYZ-XnWEkywLnyuXk10Rz0LqhbC0L2HU0WAdykDUavNrUP2emYgnN2O7mgxeATpn0frXa8pD-wkW_bR4uxd6vutDRsCP-E2bkayBOyycCAWmSOGsSQSI2f4hKThx3EMTAVSH3llsCphEUGxhHft7ao1g4dSxJbQXcSiTXu5WQ9d19dmn8yc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUimJbGCsRAE_fN6jAOMx5P9ZCkfW8796fVJ2OnrE5xFkI1CSwb7yaRhgMSiJAcxErSYzkgR-6aY-fdOSzVtu76e_8J5nVGh5BsQbToDj3DfDLwVcj9wTXlCMDDVJJhqcCXMgeQV4QNedR2-TVUdx-OwYmr5fbvCDvYzHvL8ilP8PIkckqmXSzGoEb8NKUj1naWMwBQWyg2wLIwO3q9uHy4vuRzdO2m6c5=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQUxkDu52b7KYZco89usX6u_TL3KiTBo0om40iv_gEzcdTZvzT1gXlg3l-_Ki44cDgyZkJhW6bIHcf2YyDL1LpR9R23bYVP0rqFDTJYRWB82MJQfdgFz1zGebtw6R1V_LGrNTNqjJXk6_MrcYbpwYWKoix0IQj18KPTUNp-EithJqx6r5x8gH1J6wA_N0x7A_y7A=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqxByUjqbTpfTtv41fP7fMIEM7vgBkGzaSzkK7RMYvNYGQTswdzTXT4_kqEUWTQ70UiPEhsmjT57UhZYzIyEZ7yN_Id6djbTWqNNHPdgHzanYo4bBhP8Xz3wSbiiXRYbn9WBAnolBVYKShWrqSwKsvBhUjnjAPs-xcuhWWUxPc=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Norvegia vs Francia",
+      "competizione": "Mondiali 2026 (Gruppo I)",
+      "canale": "Rai 1 HD, Rai Play, DAZN",
+      "note": "Fase a gironi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYA3NQYpud-l_bjyqf_EIMb6z_PzDk4EdE7PI3pxrdrrYR8oh7PjpaWCVFZWTGkm6AB4K56LyS1OzJmZCV0tjH18RlV3YDo0-JMXcQ1r6YNivTSwn5BixEd8647vT050p5e3n4dFHvA3d-qxYi_kmmJgKCORRi1nS4j-Wnz_sR7bJdvJew8AHiv4iHl_GTL4peadJOwbg4pFkzP_i_t7iasKvnrNZinpBSMYj4LLFhNxg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrzSftk_x1KJOB0ml64h0xand9m2gtmT-iF5cW-AVMBXj4PyDuXeDDW2cEASyjyLzGq8fQ6AbEEwiefbYzoiUDXNa7vmHdZZS6HpA-rObmg7RbG1nXEb7BDU34iUN3SvxzUUBAfaKd5atWH0bUhb5OK1r902rIAYSz0tmjFqorDxIO2SbipXwM7i96NkmNa1fIy0jX0g2i8ag-T_T_ck1VI2hLKL8wVUsDjQmDw0LZ1kT0Z9u50Izd7g1nOXGBtMYXOpB--MSwWwsc5eyS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyVVCq6n5WBD-B0e6TLitiNIl3fx_TfvhDHVDB8BTmaJX5PYY3ndyO6GkXomMZxccdxz2ld9FSaeKMR_X9y9D0xHBAfKcYFsF_N_rzp3qI4WjtwgdEnusJ1BUosxkDBociIHAR6e02X6tDtjDdp3cz6T1WqOaeXn-uwBht3d4fbCo=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFnd_TRGBQigAwjGrR58Mszujew37yFoh8tQ--t9-T6a3ltUCjKzpe5TIVIbZ73Z1qvmvfp9QOVQqteGKguxPCioiZ37Xrp-Yn5qGAxd5mBHDJR0StwIlwa1aqhilFD1iaBbMgFc7rRSWRXplZs5pk5OnHZS1mLtEV40hd5e42zw0QXSyDLpEkx0jHoqZ6rv6XndkevswEbwVGwnia, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH16yL4csn-ssIEex3JN8rI9Dw4GPybLSE1RukwuWv13pLQazd4ONsA_GVHw1gdc2V6PXq1uM5MP4Z9kav2qpsQjcevgIIZAZyWYVHTod3jye0QJQ6ICSNOzQ66KAoRdEZt-WgppwFAPV9h68349V2aJlW0ETuO3IcRtNdXgsoM1lRU2mfBrhWNelntx0i1vMJIiA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuU8fQ0PDGmJmnNLMegAK3_s3BOAg40jZ6jTFGN57Hv7mf-sxYg4gwh9g77S19xWClIaG3J3Y9nxc9mBRlwqkAliusNnk55MkI2lGLgGzJFepRpN3gD-G5OnBcrU98FELiIshIW1lZrzLHysoMkKNJW-o-C6-XJm1bWCBuO4tJm2JT78p0hRlGpacKribmQw2eFRDkgWOBv2L1Rm34auOENV0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYwKTzB57f0CRHtvXkW7FftyK-YsOaAP0GuFnE8F9CWXDXDnjtxavaisRMvtTlt4t_wsubQNglXj4XaPWK7mvNb6H88h-Wf2XTt2-MuiKBjEE71xttEKPMSshf5kyyCNcQK0g8RmwQ-rlpjquXYC3vIci1dMRm3g7XfKP-1UVOtnWBKqnpq4aE2Nerg_gvNH-wMv7F3EU_9zWqKHV-tYN0H8B0Ry3AOzctTyjx=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJwAHMv_gjN1OckQbps5Czf0e1PkzmWz7NldoxFa-WD5wv1mzQJ8EAmZsTBjrfDE9gsdysyhejqGGUw3Ejyki_-7vbORh-pWogs1ovgHtI30zD2se28px0oVCA6zHSZgYW-RIv9sqr6GrkrQNSYr0Xac-irRMq65hRn4RJf4Qyokg12FmO4JUyesUNRf2Lmuj564PFliR8BPWA3_VD8vBA9B9G6KSudsbEWE7VG8CcGiPK4F6yiiAiLRMA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFs2yTL48b-BkU5n_xUUAVXY-OBb9FukSgM95BD7IdQ2r6wwf7kceEchy3vRmNYKzB54WDhnPU0rox10Oae8HmZ-3WB25IxZ7MrSgNaFBa6Ixb9OcSZHIhjOClyGVmxqVGwWd1zmTd2FZwv28eVxVTlfOf0JrZdOO_vGFHFlI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Senegal vs Iraq",
+      "competizione": "Mondiali 2026 (Gruppo I)",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
+      "note": "Fase a gironi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYA3NQYpud-l_bjyqf_EIMb6z_PzDk4EdE7PI3pxrdrrYR8oh7PjpaWCVFZWTGkm6AB4K56LyS1OzJmZCV0tjH18RlV3YDo0-JMXcQ1r6YNivTSwn5BixEd8647T050p5e3n4dFHvA3d-qxYi_kmmJgKCORRi1nS4j-Wnz_sR7bJdvJew8AHiv4iHl_GTL4peadJOwbg4pFkzP_i_t7iasKvnrNZinpBSMYj4LLFhNxg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrzSftk_x1KJOB0ml64h0xand9m2gtmT-iF5cW-AVMBXj4PyDuXeDDW2cEASyjyLzGq8fQ6AbEEwiefbYzoiUDXNa7vmHdZZS6HpA-rObmg7RbG1nXEb7BDU34iUN3SvxzUUBAfaKd5atWH0bUhb5OK1r902rIAYSz0tmjFqorDxIO2SbipXwM7i96NkmNa1fIy0jX0g2i8ag-T_T_ck1VI2hLKL8wVUsDjQmDw0LZ1kT0Z9u50Izd7g1nOXGBtMYXOpB--MSwWwsc5eyS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyVVCq6n5WBD-B0e6TLitiNIl3fx_TfvhDHVDB8BTmaJX5PYY3ndyO6GkXomMZxccdxz2ld9FSaeKMR_X9y9D0xHBAfKcYFsF_N_rzp3qI4WjtwgdEnusJ1BUosxkDBociIHAR6e02X6tDtjDdp3cz6T1WqOaeXn-uwBht3d4fbCo=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFnd_TRGBQigAwjGrR58Mszujew37yFoh8tQ--t9-T6a3ltUCjKzpe5TIVIbZ73Z1qvmvfp9QOVQqteGKguxPCioiZ37Xrp-Yn5qGAxd5mBHDJR0StwIlwa1aqhilFD1iaBbMgFc7rRSWRXplZs5pk5OnHZS1mLtEV40hd5e42zw0QXSyDLpEkx0jHoqZ6rv6XndkevswEbwVGwnia, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuU8fQ0PDGmJmnNLMegAK3_s3BOAg40jZ6jTFGN57Hv7mf-sxYg4gwh9g77S19xWClIaG3J3Y9nxc9mBRlwqkAliusNnk55MkI2lGLgGzJFepRpN3gD-G5OnBcrU98FELiIshIW1lZrzLHysoMkKNJW-o-C6-XJm1bWCBuO4tJm2JT78p0hRlGpacKribmQw2eFRDkgWOBv2L1Rm34auOENV0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYwKTzB57f0CRHtvXkW7FftyK-YsOaAP0GuFnE8F9CWXDXDnjtxavaisRMvtTlt4t_wsubQNglXj4XaPWK7mvNb6H88h-Wf2XTt2-MuiKBjEE71xttEKPMSshf5kyyCNcQK0g8RmwQ-rlpjquXYC3vIci1dMRm3g7XfKP-1UVOtnWBKqnpq4aE2Nerg_gvNH-wMv7F3EU_9zWqKHV-tYN0H8B0Ry3AOzctTyjx=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Ecuador-Germania",
-      "competizione": "Mondiali Calcio 2026",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "https://www.oaweb.it/articolo/quale-partita-rai-oggi-mondiali-calcio-2026-orario-giovedi-25-giugno-canale-streaming, https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Tunisia-Olanda",
-      "competizione": "Mondiali Calcio 2026",
+      "orario": "02:00",
+      "evento": "Capo Verde vs Arabia Saudita",
+      "competizione": "Mondiali 2026 (Gruppo H)",
       "canale": "DAZN",
-      "note": "Notte tra 25 e 26 giugno",
-      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
+      "note": "Fase a gironi (inizio 27 giugno)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYA3NQYpud-l_bjyqf_EIMb6z_PzDk4EdE7PI3pxrdrrYR8oh7PjpaWCVFZWTGkm6AB4K56LyS1OzJmZCV0tjH18RlV3YDo0-JMXcQ1r6YNivTSwn5BixEd8647T050p5e3n4dFHvA3d-qxYi_kmmJgKCORRi1nS4j-Wnz_sR7bJdvJew8AHiv4iHl_GTL4peadJOwbg4pFkzP_i_t7iasKvnrNZinpBSMYj4LLFhNxg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrzSftk_x1KJOB0ml64h0xand9m2gtmT-iF5cW-AVMBXj4PyDuXeDDW2cEASyjyLzGq8fQ6AbEEwiefbYzoiUDXNa7vmHdZZS6HpA-rObmg7RbG1nXEb7BDU34iUN3SvxzUUBAfaKd5atWH0bUhb5OK1r902rIAYSz0tmjFqorDxIO2SbipXwM7i96NkmNa1fIy0jX0g2i8ag-T_T_ck1VI2hLKL8wVUsDjQmDw0LZ1kT0Z9u50Izd7g1nOXGBtMYXOpB--MSwWwsc5eyS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFnd_TRGBQigAwjGrR58Mszujew37yFoh8tQ--t9-T6a3ltUCjKzpe5TIVIbZ73Z1qvmvfp9QOVQqteGKguxPCioiZ37Xrp-Yn5qGAxd5mBHDJR0StwIlwa1aqhilFD1iaBbMgFc7rRSWRXplZs5pk5OnHZS1mLtEV40hd5e42zw0QXSyDLpEkx0jHoqZ6rv6XndkevswEbwVGwnia, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuU8fQ0PDGmJmnNLMegAK3_s3BOAg40jZ6jTFGN57Hv7mf-sxYg4gwh9g77S19xWClIaG3J3Y9nxc9mBRlwqkAliusNnk55MkI2lGLgGzJFepRpN3gD-G5OnBcrU98FELiIshIW1lZrzLHysoMkKNJW-o-C6-XJm1bWCBuO4tJm2JT78p0hRlGpacKribmQw2eFRDkgWOBv2L1Rm34auOENV0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJwAHMv_gjN1OckQbps5Czf0e1PkzmWz7NldoxFa-WD5wv1mzQJ8EAmZsTBjrfDE9gsdysyhejqGGUw3Ejyki_-7vbORh-pWogs1ovgHtI30zD2se28px0oVCA6zHSZgYW-RIv9sqr6GrkrQNSYr0Xac-irRMq65hRn4RJf4Qyokg12FmO4JUyesUNRf2Lmuj564PFliR8BPWA3_VD8vBA9B9G6KSudsbEWE7VG8CcGiPK4F6yiiAiLRMA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "Giappone-Svezia",
-      "competizione": "Mondiali Calcio 2026",
+      "orario": "02:00",
+      "evento": "Uruguay vs Spagna",
+      "competizione": "Mondiali 2026 (Gruppo H)",
       "canale": "DAZN",
-      "note": "Notte tra 25 e 26 giugno",
-      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
+      "note": "Fase a gironi (inizio 27 giugno)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYA3NQYpud-l_bjyqf_EIMb6z_PzDk4EdE7PI3pxrdrrYR8oh7PjpaWCVFZWTGkm6AB4K56LyS1OzJmZCV0tjH18RlV3YDo0-JMXcQ1r6YNivTSwn5BixEd8647T050p5e3n4dFHvA3d-qxYi_kmmJgKCORRi1nS4j-Wnz_sR7bJdvJew8AHiv4iHl_GTL4peadJOwbg4pFkzP_i_t7iasKvnrNZinpBSMYj4LLFhNxg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrzSftk_x1KJOB0ml64h0xand9m2gtmT-iF5cW-AVMBXj4PyDuXeDDW2cEASyjyLzGq8fQ6AbEEwiefbYzoiUDXNa7vmHdZZS6HpA-rObmg7RbG1nXEb7BDU34iUN3SvxzUUBAfaKd5atWH0bUhb5OK1r902rIAYSz0tmjFqorDxIO2SbipXwM7i96NkmNa1fIy0jX0g2i8ag-T_T_ck1VI2hLKL8wVUsDjQmDw0LZ1kT0Z9u50Izd7g1nOXGBtMYXOpB--MSwWwsc5eyS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFnd_TRGBQigAwjGrR58Mszujew37yFoh8tQ--t9-T6a3ltUCjKzpe5TIVIbZ73Z1qvmvfp9QOVQqteGKguxPCioiZ37Xrp-Yn5qGAxd5mBHDJR0StwIlwa1aqhilFD1iaBbMgFc7rRSWRXplZs5pk5OnHZS1mLtEV40hd5e42zw0QXSyDLpEkx0jHoqZ6rv6XndkevswEbwVGwnia, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuU8fQ0PDGmJmnNLMegAK3_s3BOAg40jZ6jTFGN57Hv7mf-sxYg4gwh9g77S19xWClIaG3J3Y9nxc9mBRlwqkAliusNnk55MkI2lGLgGzJFepRpN3gD-G5OnBcrU98FELiIshIW1lZrzLHysoMkKNJW-o-C6-XJm1bWCBuO4tJm2JT78p0hRlGpacKribmQw2eFRDkgWOBv2L1Rm34auOENV0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYwKTzB57f0CRHtvXkW7FftyK-YsOaAP0GuFnE8F9CWXDXDnjtxavaisRMvtTlt4t_wsubQNglXj4XaPWK7mvNb6H88h-Wf2XTt2-MuiKBjEE71xttEKPMSshf5kyyCNcQK0g8RmwQ-rlpjquXYC3vIci1dMRm3g7XfKP-1UVOtnWBKqnpq4aE2Nerg_gvNH-wMv7F3EU_9zWqKHV-tYN0H8B0Ry3AOzctTyjx=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJwAHMv_gjN1OckQbps5Czf0e1PkzmWz7NldoxFa-WD5wv1mzQJ8EAmZsTBjrfDE9gsdysyhejqGGUw3Ejyki_-7vbORh-pWogs1ovgHtI30zD2se28px0oVCA6zHSZgYW-RIv9sqr6GrkrQNSYr0Xac-irRMq65hRn4RJf4Qyokg12FmO4JUyesUNRf2Lmuj564PFliR8BPWA3_VD8vBA9B9G6KSudsbEWE7VG8CcGiPK4F6yiiAiLRMA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "Turchia-USA",
-      "competizione": "Mondiali Calcio 2026",
+      "orario": "05:00",
+      "evento": "Egitto vs Iran",
+      "competizione": "Mondiali 2026 (Gruppo G)",
       "canale": "DAZN",
-      "note": "Notte tra 25 e 26 giugno",
-      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
+      "note": "Fase a gironi (inizio 27 giugno)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYA3NQYpud-l_bjyqf_EIMb6z_PzDk4EdE7PI3pxrdrrYR8oh7PjpaWCVFZWTGkm6AB4K56LyS1OzJmZCV0tjH18RlV3YDo0-JMXcQ1r6YNivTSwn5BixEd8647T050p5e3n4dFHvA3d-qxYi_kmmJgKCORRi1nS4j-Wnz_sR7bJdvJew8AHiv4iHl_GTL4peadJOwbg4pFkzP_i_t7iasKvnrNZinpBSMYj4LLFhNxg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrzSftk_x1KJOB0ml64h0xand9m2gtmT-iF5cW-AVMBXj4PyDuXeDDW2cEASyjyLzGq8fQ6AbEEwiefbYzoiUDXNa7vmHdZZS6HpA-rObmg7RbG1nXEb7BDU34iUN3SvxzUUBAfaKd5atWH0bUhb5OK1r902rIAYSz0tmjFqorDxIO2SbipXwM7i96NkmNa1fIy0jX0g2i8ag-T_T_ck1VI2hLKL8wVUsDjQmDw0LZ1kT0Z9u50Izd7g1nOXGBtMYXOpB--MSwWwsc5eyS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuU8fQ0PDGmJmnNLMegAK3_s3BOAg40jZ6jTFGN57Hv7mf-sxYg4gwh9g77S19xWClIaG3J3Y9nxc9mBRlwqkAliusNnk55MkI2lGLgGzJFepRpN3gD-G5OnBcrU98FELiIshIW1lZrzLHysoMkKNJW-o-C6-XJm1bWCBuO4tJm2JT78p0hRlGpacKribmQw2eFRDkgWOBv2L1Rm34auOENV0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJwAHMv_gjN1OckQbps5Czf0e1PkzmWz7NldoxFa-WD5wv1mzQJ8EAmZsTBjrfDE9gsdysyhejqGGUw3Ejyki_-7vbORh-pWogs1ovgHtI30zD2se28px0oVCA6zHSZgYW-RIv9sqr6GrkrQNSYr0Xac-irRMq65hRn4RJf4Qyokg12FmO4JUyesUNRf2Lmuj564PFliR8BPWA3_VD8vBA9B9G6KSudsbEWE7VG8CcGiPK4F6yiiAiLRMA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "Paraguay-Australia",
-      "competizione": "Mondiali Calcio 2026",
+      "orario": "05:00",
+      "evento": "Nuova Zelanda vs Belgio",
+      "competizione": "Mondiali 2026 (Gruppo G)",
       "canale": "DAZN",
-      "note": "Notte tra 25 e 26 giugno",
-      "fonte": "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-ecuador-germania-in-chiaro-di-notte-lolanda/, https://www.html.it/news/mondiali-di-calcio-la-programmazione-di-oggi-25-giugno-su-dazn/",
+      "note": "Fase a gironi (inizio 27 giugno)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllPUSqPFinHPNYBAQR8Li0UYD1TfJcy-ldFxz6GvI0d3HxPV2Ezyqr20EVfqA304_6zA25MTl0cG77QBB3w2UOTrhW7Z5GgDmHgshgcC5yG-JSW1tYtYymDm7aQgw557GuPXUQm3p90wIy724alOqaQ_L-6fiZLyINVyrq98wGYBiD2-AguP8UjcUzUkO_xQ6IzIgFyLd6o52SdUmO3yWGuYs5Cmca4O08kjvoJjzu56wcHQ_i2w9_OKj8I=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYA3NQYpud-l_bjyqf_EIMb6z_PzDk4EdE7PI3pxrdrrYR8oh7PjpaWCVFZWTGkm6AB4K56LyS1OzJmZCV0tjH18RlV3YDo0-JMXcQ1r6YNivTSwn5BixEd8647T050p5e3n4dFHvA3d-qxYi_kmmJgKCORRi1nS4j-Wnz_sR7bJdvJew8AHiv4iHl_GTL4peadJOwbg4pFkzP_i_t7iasKvnrNZinpBSMYj4LLFhNxg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrzSftk_x1KJOB0ml64h0xand9m2gtmT-iF5cW-AVMBXj4PyDuXeDDW2cEASyjyLzGq8fQ6AbEEwiefbYzoiUDXNa7vmHdZZS6HpA-rObmg7RbG1nXEb7BDU34iUN3SvxzUUBAfaKd5atWH0bUhb5OK1r902rIAYSz0tmjFqorDxIO2SbipXwM7i96NkmNa1fIy0jX0g2i8ag-T_T_ck1VI2hLKL8wVUsDjQmDw0LZ1kT0Z9u50Izd7g1nOXGBtMYXOpB--MSwWwsc5eyS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuU8fQ0PDGmJmnNLMegAK3_s3BOAg40jZ6jTFGN57Hv7mf-sxYg4gwh9g77S19xWClIaG3J3Y9nxc9mBRlwqkAliusNnk55MkI2lGLgGzJFepRpN3gD-G5OnBcrU98FELiIshIW1lZrzLHysoMkKNJW-o-C6-XJm1bWCBuO4tJm2JT78p0hRlGpacKribmQw2eFRDkgWOBv2L1Rm34auOENV0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYwKTzB57f0CRHtvXkW7FftyK-YsOaAP0GuFnE8F9CWXDXDnjtxavaisRMvtTlt4t_wsubQNglXj4XaPWK7mvNb6H88h-Wf2XTt2-MuiKBjEE71xttEKPMSshf5kyyCNcQK0g8RmwQ-rlpjquXYC3vIci1dMRm3g7XfKP-1UVOtnWBKqnpq4aE2Nerg_gvNH-wMv7F3EU_9zWqKHV-tYN0H8B0Ry3AOzctTyjx=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJwAHMv_gjN1OckQbps5Czf0e1PkzmWz7NldoxFa-WD5wv1mzQJ8EAmZsTBjrfDE9gsdysyhejqGGUw3Ejyki_-7vbORh-pWogs1ovgHtI30zD2se28px0oVCA6zHSZgYW-RIv9sqr6GrkrQNSYr0Xac-irRMq65hRn4RJf4Qyokg12FmO4JUyesUNRf2Lmuj564PFliR8BPWA3_VD8vBA9B9G6KSudsbEWE7VG8CcGiPK4F6yiiAiLRMA==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30*",
-      "evento": "Luciano Darderi vs Nuno Borges",
-      "competizione": "ATP 250 Mallorca (Quarti di finale)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Secondo match dalle 11:00 CET, orario stimato dopo Quinn-Kopriva",
-      "fonte": "https://www.sport2u.tv/tennis/atp-maiorca-2026-darderi-borges-in-tv-orario-e-dove-vederla/, https://www.tennismagazineitalia.it/atp-maiorca-oggi-darderi-borges-orario-e-dove-vederla-in-tv/, https://www.ubitennis.com/blog/2026/06/25/italiani-in-campo-giovedi-25-giugno-darderi-a-maiorca-grant-e-bronzaetti-per-il-main-draw-di-wimbledon/",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Tyra Caterina Grant vs Harmony Tan",
-      "competizione": "Wimbledon Qualificazioni (Terzo turno)",
-      "canale": "Sky Sport",
-      "note": "Sky Sport per i match degli italiani nelle qualificazioni",
-      "fonte": "https://www.tennistalker.it/news/il-tennis-in-tv-oggi-25-giugno-darderi-cerca-la-semifinale-bronzaetti-e-grant-vedono-wimbledon/, https://www.ubitennis.com/blog/2026/06/25/italiani-in-campo-giovedi-25-giugno-darderi-a-maiorca-grant-e-bronzaetti-per-il-main-draw-di-wimbledon/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00*",
-      "evento": "Lucia Bronzetti vs Lina Gjorcheska",
-      "competizione": "Wimbledon Qualificazioni (Terzo turno)",
-      "canale": "Sky Sport",
-      "note": "Terzo match sul campo 10, orario stimato dopo Grant-Tan",
-      "fonte": "https://www.tennistalker.it/news/il-tennis-in-tv-oggi-25-giugno-darderi-cerca-la-semifinale-bronzaetti-e-grant-vedono-wimbledon/, https://www.ubitennis.com/blog/2026/06/25/italiani-in-campo-giovedi-25-giugno-darderi-a-maiorca-grant-e-bronzaetti-per-il-main-draw-di-wimbledon/",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
