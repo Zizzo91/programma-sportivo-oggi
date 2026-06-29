@@ -1,139 +1,175 @@
 {
-  "last_updated": "2026-06-28T10:38:44.916974+02:00",
+  "last_updated": "2026-06-29T04:13:28.905152+02:00",
   "events": [
     {
-      "orario": "09:40",
-      "evento": "Warm Up",
-      "competizione": "MotoGP - GP Olanda",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport, Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming",
+      "orario": "06:00",
+      "evento": "Incontro Amichevole: Slovenia - Italia",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sky Sport Uno",
+      "note": "Potrebbe essere una replica o un evento con copertura ritardata.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP - GP Olanda",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport, Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming",
+      "orario": "08:00",
+      "evento": "Panatta & Bertolucci Tennis Heroes",
+      "competizione": "Tennis - Rubrica",
+      "canale": "Sky Sport Uno",
+      "note": "Rubrica di approfondimento sul tennis.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP - GP Olanda",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport, Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming",
+      "orario": "08:45",
+      "evento": "GP Austria: Gara",
+      "competizione": "Formula 1 - Mondiale 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del 28 giugno.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1 - Approfondimento",
+      "canale": "Sky Sport Uno",
+      "note": "Analisi post-gara del GP Austria.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:45",
+      "evento": "Studio Tennis",
+      "competizione": "Tennis - Rubrica",
+      "canale": "Sky Sport Uno",
+      "note": "Approfondimento sul mondo del tennis.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Wimbledon: 1a Giornata",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204) e altri canali Sky Sport",
+      "note": "Inizio programmazione diretta Wimbledon. Copertura su 11 canali Sky.",
+      "fonte": "TV e Rete: Wimbledon in esclusiva su SKY e NOW con 750 ore live (29 giugno-12 luglio)",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:05",
-      "evento": "Gara Moto3 (Differita)",
-      "competizione": "MotoGP - GP Olanda",
-      "canale": "TV8 HD",
-      "note": "",
-      "fonte": "FormulaPassion, Orari TV GP Olanda 2026: diretta su Sky, differita su TV8; OA Sport, Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming",
+      "evento": "Sport Mediaset",
+      "competizione": "Notizie Sportive",
+      "canale": "Italia 1",
+      "note": "Rubrica quotidiana di notizie e approfondimenti sportivi.",
+      "fonte": "Guida programmi tv Italia 1 - Il Palinsesto di oggi",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:15",
-      "evento": "MotoGP Paddock Live Gara",
-      "competizione": "MotoGP - GP Olanda",
+      "orario": "13:49",
+      "evento": "Sport Mediaset Extra",
+      "competizione": "Notizie Sportive",
+      "canale": "Italia 1",
+      "note": "Approfondimento sportivo.",
+      "fonte": "Guida programmi tv Italia 1 - Il Palinsesto di oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Tennis: J. Sinner (ITA) vs M. Kecmanovic (SRB)",
+      "competizione": "Wimbledon - 1° Turno (Centre Court)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis (203), NOW",
+      "note": "Match di Jannik Sinner. Orario stimato per l'inizio del match sul Centre Court.",
+      "fonte": "Wimbledon: Il programma completo di Lunedì 29 Giugno 2026. In campo tre azzurri. C'è il debutto del n.1 del mondo, il nostro Jannik Sinner | LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "Tennis: Altri match con italiani (se presenti)",
+      "competizione": "Wimbledon - 1a Giornata",
+      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204) e altri canali Sky Sport",
+      "note": "Copertura live degli incontri di Wimbledon, inclusi eventuali altri italiani in campo. L'orario esatto dipenderà dallo svolgimento dei match precedenti.",
+      "fonte": "TV e Rete: Wimbledon in esclusiva su SKY e NOW con 750 ore live (29 giugno-12 luglio)",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio: Italia Under 19 vs Serbia",
+      "competizione": "Europei Under 19",
+      "canale": "Rai Sport",
+      "note": "Partita valida per gli Europei Under 19.",
+      "fonte": "Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Calcio: Brasile vs Giappone",
+      "competizione": "Mondiali 2026 - Sedicesimi di Finale",
+      "canale": "DAZN, Rai 1",
+      "note": "Partita dei Mondiali 2026.",
+      "fonte": "Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:25",
+      "evento": "Pallanuoto: Serie A1 Maschile Finale Scudetto - Gara 3",
+      "competizione": "Pallanuoto Serie A1",
+      "canale": "Rai Sport",
+      "note": "Finale scudetto di pallanuoto maschile.",
+      "fonte": "Programmazione Rai Sport del 29/06/2026 · Guida TV - Lifestyleblog.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00*",
+      "evento": "Calcio: Croazia vs Ucraina",
+      "competizione": "Europei Under 19",
+      "canale": "UEFA.tv",
+      "note": "Partita valida per gli Europei Under 19. L'orario potrebbe essere stimato o dipendere dal palinsesto di UEFA.tv.",
+      "fonte": "Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "22:20",
+      "evento": "Notti Mondiali",
+      "competizione": "Mondiali 2026 - Approfondimento",
+      "canale": "Rai 1",
+      "note": "Programma di approfondimento sui Mondiali di calcio.",
+      "fonte": "Guida Tv lunedì 29 giugno 2026: cosa vedere stasera in tv - Dituttounpop.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "The Insider Wimbledon",
+      "competizione": "Tennis - Rubrica",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Programma di approfondimento su Wimbledon. (Già martedì 30 giugno)",
+      "fonte": "MotoGP 2026-GP Paesi Bassi: Gara su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "F1 Paddock Live Pre Gara",
-      "competizione": "Formula 1 - GP Austria",
+      "orario": "01:30",
+      "evento": "Sky Tennis Show",
+      "competizione": "Tennis - Rubrica",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Studio e analisi sui match di Wimbledon. (Già martedì 30 giugno)",
+      "fonte": "MotoGP 2026-GP Paesi Bassi: Gara su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP - GP Olanda",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport, MotoGP oggi in tv, GP Olanda 2026: orari warm-up e gara, streaming, programma Sky e TV8; OA Sport, Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming; Sky Sport, Che domenica su Sky Sport! La guida completa per non perdersi neanche un appuntamento",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:20",
-      "evento": "Gara Moto2 (Differita)",
-      "competizione": "MotoGP - GP Olanda",
-      "canale": "TV8 HD",
-      "note": "",
-      "fonte": "FormulaPassion, Orari TV GP Olanda 2026: diretta su Sky, differita su TV8; OA Sport, Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Gara F1",
-      "competizione": "Formula 1 - GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "OA Sport, F1 oggi in tv, GP Austria 2026: orario gara, streaming, differita TV8; Fanpage, Formula 1 oggi, orari TV del GP Austria su TV8 e Sky e dove vederlo: Russell in pole davanti alle Ferrari di Leclerc e Hamilton; Canale Dieci, Formula 1, oggi Gp Austria: orario, griglia di partenza e dove vederlo; Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:55",
-      "evento": "Gara MotoGP (Differita)",
-      "competizione": "MotoGP - GP Olanda",
-      "canale": "TV8 HD",
-      "note": "",
-      "fonte": "OA Sport, Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "F1 Paddock Live Post Gara",
-      "competizione": "Formula 1 - GP Austria",
+      "orario": "02:00",
+      "evento": "Grande Slam 2026 - Wimbledon: 2a Giornata",
+      "competizione": "Tennis - Grande Slam",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Repliche o highlights della seconda giornata di Wimbledon. (Già martedì 30 giugno)",
+      "fonte": "MotoGP 2026-GP Paesi Bassi: Gara su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:30",
-      "evento": "F1 Debriefing",
-      "competizione": "Formula 1 - GP Austria",
+      "orario": "06:00",
+      "evento": "Grande Slam 2026 - Wimbledon: 1a Giornata",
+      "competizione": "Tennis - Grande Slam",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Gara F1 (Differita)",
-      "competizione": "Formula 1 - GP Austria",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "OA Sport, F1 oggi in tv, GP Austria 2026: orario gara, streaming, differita TV8; Fanpage, Formula 1 oggi, orari TV del GP Austria su TV8 e Sky e dove vederlo: Russell in pole davanti alle Ferrari di Leclerc e Hamilton",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Italia vs Slovenia",
-      "competizione": "Volleyball Nations League (VNL) 2026",
-      "canale": "DAZN, VBTV",
-      "note": "La nazionale italiana include Leandro Mosca del Vero Volley Monza.",
-      "fonte": "Lega Pallavolo Serie A, VNL 2026, i convocati per la Week 2: l'esordio mercoledì; PugliaLive, Volleyball Nations League 2026 L'Italia si prepara per la Week 2 in Slovenia: i 14 convocati di De Giorgi e il programma delle sfide",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Sudafrica vs Canada",
-      "competizione": "Mondiali Calcio FIFA 2026 - Sedicesimi di Finale",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "OA Sport, Quale partita sulla RAI oggi, Mondiali calcio 2026: orario domenica 28 giugno, canale, streaming; Libero, Sudafrica-Canada, Mondiali 2026 gratis in TV: orario, streaming, dove vedere in chiaro il primo match dei sedicesimi di finale; DAZN, Mondiali 2026, tutte le partite di oggi: orari e come vederle in diretta streaming su DAZN",
+      "note": "Repliche o highlights della prima giornata di Wimbledon. (Già martedì 30 giugno)",
+      "fonte": "MotoGP 2026-GP Paesi Bassi: Gara su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
