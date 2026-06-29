@@ -1,175 +1,76 @@
 {
-  "last_updated": "2026-06-29T04:13:28.905152+02:00",
+  "last_updated": "2026-06-29T12:18:48.010727+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Incontro Amichevole: Slovenia - Italia",
-      "competizione": "Calcio Amichevole",
-      "canale": "Sky Sport Uno",
-      "note": "Potrebbe essere una replica o un evento con copertura ritardata.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "Panatta & Bertolucci Tennis Heroes",
-      "competizione": "Tennis - Rubrica",
-      "canale": "Sky Sport Uno",
-      "note": "Rubrica di approfondimento sul tennis.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "08:45",
-      "evento": "GP Austria: Gara",
-      "competizione": "Formula 1 - Mondiale 2026",
+      "evento": "GP Austria: Gara (Replica)",
+      "competizione": "Mondiale Formula 1 2026",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara del 28 giugno.",
+      "note": "Replay della gara del Gran Premio d'Austria.",
       "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:45",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1 - Approfondimento",
-      "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara del GP Austria.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "orario": "14:30",
+      "evento": "Jannik Sinner vs Miomir Kecmanovic",
+      "competizione": "Wimbledon 2026 - 1° Turno",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Wimbledon 1-6, Sky Sport 4K",
+      "note": "Primo match sul Centre Court. Sinner è campione in carica e numero 1 al mondo.",
+      "fonte": "Sport in tv oggi (lunedì 29 giugno): orari e programma. Dove vedere gli eventi in streaming, Wimbledon 2026 oggi (29 giugno): orari partite, tv, streaming, italiani in campo, Wimbledon 2026, il programma di oggi: partite e orari, Il tennis oggi 29 giugno in TV: inizia il tabellone principale di Wimbledon, tutti gli italiani in gara",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:45",
-      "evento": "Studio Tennis",
-      "competizione": "Tennis - Rubrica",
-      "canale": "Sky Sport Uno",
-      "note": "Approfondimento sul mondo del tennis.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Wimbledon: 1a Giornata",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204) e altri canali Sky Sport",
-      "note": "Inizio programmazione diretta Wimbledon. Copertura su 11 canali Sky.",
-      "fonte": "TV e Rete: Wimbledon in esclusiva su SKY e NOW con 750 ore live (29 giugno-12 luglio)",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:05",
-      "evento": "Sport Mediaset",
-      "competizione": "Notizie Sportive",
-      "canale": "Italia 1",
-      "note": "Rubrica quotidiana di notizie e approfondimenti sportivi.",
-      "fonte": "Guida programmi tv Italia 1 - Il Palinsesto di oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:49",
-      "evento": "Sport Mediaset Extra",
-      "competizione": "Notizie Sportive",
-      "canale": "Italia 1",
-      "note": "Approfondimento sportivo.",
-      "fonte": "Guida programmi tv Italia 1 - Il Palinsesto di oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "Tennis: J. Sinner (ITA) vs M. Kecmanovic (SRB)",
-      "competizione": "Wimbledon - 1° Turno (Centre Court)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis (203), NOW",
-      "note": "Match di Jannik Sinner. Orario stimato per l'inizio del match sul Centre Court.",
-      "fonte": "Wimbledon: Il programma completo di Lunedì 29 Giugno 2026. In campo tre azzurri. C'è il debutto del n.1 del mondo, il nostro Jannik Sinner | LiveTennis.it",
+      "orario": "14:00*",
+      "evento": "Elisabetta Cocciaretto vs Xinyu Wang",
+      "competizione": "Wimbledon 2026 - 1° Turno",
+      "canale": "Sky Sport Wimbledon 5",
+      "note": "Secondo match sul Court 10. Orario stimato dopo l'inizio del programma alle 12:00.",
+      "fonte": "Sport in tv oggi (lunedì 29 giugno): orari e programma. Dove vedere gli eventi in streaming, Wimbledon 2026, il programma di oggi: partite e orari, Il tennis oggi 29 giugno in TV: inizia il tabellone principale di Wimbledon, tutti gli italiani in gara",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "17:00*",
-      "evento": "Tennis: Altri match con italiani (se presenti)",
-      "competizione": "Wimbledon - 1a Giornata",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204) e altri canali Sky Sport",
-      "note": "Copertura live degli incontri di Wimbledon, inclusi eventuali altri italiani in campo. L'orario esatto dipenderà dallo svolgimento dei match precedenti.",
-      "fonte": "TV e Rete: Wimbledon in esclusiva su SKY e NOW con 750 ore live (29 giugno-12 luglio)",
-      "accuratezza_orario": "stimato"
+      "orario": "17:00",
+      "evento": "Italia-Serbia",
+      "competizione": "Europei U19",
+      "canale": "Rai Sport HD",
+      "note": "Esordio degli Azzurrini nella competizione.",
+      "fonte": "Sport in tv oggi (lunedì 29 giugno): orari e programma. Dove vedere gli eventi in streaming, Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano, Dove vedere Italia-Serbia Europei U19 in tv? Rai o Sky, orario, Il calcio in TV oggi: alle 19 c'è Brasile-Giappone, poi Germania e Olanda. Dove vedere le partite in diretta, Calcio in Tv, le gare di oggi: alle 17 l'Italia Under 19 ed alle 19 il Brasile",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Calcio: Italia Under 19 vs Serbia",
-      "competizione": "Europei Under 19",
-      "canale": "Rai Sport",
-      "note": "Partita valida per gli Europei Under 19.",
-      "fonte": "Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano",
-      "accuratezza_orario": "esatto"
+      "orario": "17:30*",
+      "evento": "Luciano Darderi vs Ethan Quinn",
+      "competizione": "Wimbledon 2026 - 1° Turno",
+      "canale": "Sky Sport Uno, Sky Sport Wimbledon (canali dedicati)",
+      "note": "Terzo match sul Court 15. Non prima delle 14:30. Orario stimato.",
+      "fonte": "Sport in tv oggi (lunedì 29 giugno): orari e programma. Dove vedere gli eventi in streaming, Wimbledon 2026, il programma di oggi: partite e orari, Il tennis oggi 29 giugno in TV: inizia il tabellone principale di Wimbledon, tutti gli italiani in gara",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "19:00",
-      "evento": "Calcio: Brasile vs Giappone",
-      "competizione": "Mondiali 2026 - Sedicesimi di Finale",
-      "canale": "DAZN, Rai 1",
-      "note": "Partita dei Mondiali 2026.",
-      "fonte": "Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano",
+      "evento": "Brasile-Giappone",
+      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "canale": "Rai 1 HD, DAZN",
+      "note": "Partita dei Mondiali 2026 a Houston, USA. Orario italiano.",
+      "fonte": "Sport in tv oggi (lunedì 29 giugno): orari e programma. Dove vedere gli eventi in streaming, Calendario Mondiali calcio 2026 in tv: orari partite di oggi (29 giugno), canali, streaming, Quale partita sulla RAI oggi, Mondiali calcio 2026: orario lunedì 29 giugno, canale in chiaro, streaming, Mondiali 2026, le partite di oggi in TV e gli orari su Rai e DAZN: Brasile-Giappone in chiaro, poi Germania e Olanda-Marocco, Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano, Mondiali, chi gioca oggi? Dal Brasile alla Germania, le partite e dove vederle, Il calcio in TV oggi: alle 19 c'è Brasile-Giappone, poi Germania e Olanda. Dove vedere le partite in diretta, Mondiali, chi gioca oggi? Dal Brasile alla Germania, le partite e dove vederle, Calcio in Tv, le gare di oggi: alle 17 l'Italia Under 19 ed alle 19 il Brasile",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:25",
-      "evento": "Pallanuoto: Serie A1 Maschile Finale Scudetto - Gara 3",
-      "competizione": "Pallanuoto Serie A1",
-      "canale": "Rai Sport",
-      "note": "Finale scudetto di pallanuoto maschile.",
-      "fonte": "Programmazione Rai Sport del 29/06/2026 · Guida TV - Lifestyleblog.it",
+      "orario": "22:30",
+      "evento": "Germania-Paraguay",
+      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "canale": "DAZN",
+      "note": "Partita dei Mondiali 2026 a Foxborough. Orario italiano.",
+      "fonte": "Sport in tv oggi (lunedì 29 giugno): orari e programma. Dove vedere gli eventi in streaming, Calendario Mondiali calcio 2026 in tv: orari partite di oggi (29 giugno), canali, streaming, Mondiali 2026, le partite di oggi in TV e gli orari su Rai e DAZN: Brasile-Giappone in chiaro, poi Germania e Olanda-Marocco, Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano, Mondiali, chi gioca oggi? Dal Brasile alla Germania, le partite e dove vederle, Il calcio in TV oggi: alle 19 c'è Brasile-Giappone, poi Germania e Olanda. Dove vedere le partite in diretta, Mondiali, chi gioca oggi? Dal Brasile alla Germania, le partite e dove vederle, Calcio in Tv, le gare di oggi: alle 17 l'Italia Under 19 ed alle 19 il Brasile",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00*",
-      "evento": "Calcio: Croazia vs Ucraina",
-      "competizione": "Europei Under 19",
-      "canale": "UEFA.tv",
-      "note": "Partita valida per gli Europei Under 19. L'orario potrebbe essere stimato o dipendere dal palinsesto di UEFA.tv.",
-      "fonte": "Calcio in tv oggi, 29 giugno 2026: Brasile-Giappone e Germania-Paraguay in primo piano",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "22:20",
-      "evento": "Notti Mondiali",
-      "competizione": "Mondiali 2026 - Approfondimento",
-      "canale": "Rai 1",
-      "note": "Programma di approfondimento sui Mondiali di calcio.",
-      "fonte": "Guida Tv lunedì 29 giugno 2026: cosa vedere stasera in tv - Dituttounpop.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "The Insider Wimbledon",
-      "competizione": "Tennis - Rubrica",
-      "canale": "Sky Sport Uno",
-      "note": "Programma di approfondimento su Wimbledon. (Già martedì 30 giugno)",
-      "fonte": "MotoGP 2026-GP Paesi Bassi: Gara su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "Sky Tennis Show",
-      "competizione": "Tennis - Rubrica",
-      "canale": "Sky Sport Uno",
-      "note": "Studio e analisi sui match di Wimbledon. (Già martedì 30 giugno)",
-      "fonte": "MotoGP 2026-GP Paesi Bassi: Gara su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Grande Slam 2026 - Wimbledon: 2a Giornata",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Sky Sport Uno",
-      "note": "Repliche o highlights della seconda giornata di Wimbledon. (Già martedì 30 giugno)",
-      "fonte": "MotoGP 2026-GP Paesi Bassi: Gara su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Grande Slam 2026 - Wimbledon: 1a Giornata",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Sky Sport Uno",
-      "note": "Repliche o highlights della prima giornata di Wimbledon. (Già martedì 30 giugno)",
-      "fonte": "MotoGP 2026-GP Paesi Bassi: Gara su Sky Sport Uno - Guida TV",
+      "orario": "03:00",
+      "evento": "Olanda-Marocco",
+      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "canale": "DAZN",
+      "note": "Partita dei Mondiali 2026 a Monterrey. Nella notte tra 29 e 30 giugno. Orario italiano.",
+      "fonte": "Mondiali 2026, le partite di oggi in TV e gli orari su Rai e DAZN: Brasile-Giappone in chiaro, poi Germania e Olanda-Marocco, Mondiali, chi gioca oggi? Dal Brasile alla Germania, le partite e dove vederle, Il calcio in TV oggi: alle 19 c'è Brasile-Giappone, poi Germania e Olanda. Dove vedere le partite in diretta, Mondiali, chi gioca oggi? Dal Brasile alla Germania, le partite e dove vederle, Calcio in Tv, le gare di oggi: alle 17 l'Italia Under 19 ed alle 19 il Brasile",
       "accuratezza_orario": "esatto"
     }
   ]
