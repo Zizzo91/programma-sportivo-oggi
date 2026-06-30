@@ -1,76 +1,85 @@
 {
-  "last_updated": "2026-06-29T17:26:35.994869+02:00",
+  "last_updated": "2026-06-30T10:53:47.745096+02:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "Sei Nazioni 2026 - Italia vs Inghilterra (Replica)",
-      "competizione": "Rugby - Sei Nazioni",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZeiyjcSD3cZl3ZBptvzKupfwxZMZNpw4T7mWDU7evT91abS9de4-5AdtkEF3RO2BSqsX55ohJgVpM_5P9eT6k0AVXW-b5veXrXiFsDBeSIggMFUiAu98xg_2lE-h0H7LDdYdrZvnba3aG9zpDLdY8F9zr7Cm5AH70TBg=",
+      "orario": "12:00",
+      "evento": "Tennis: Wimbledon 2026 - 1° turno (Jasmine Paolini vs Robin Montgomery)",
+      "competizione": "Grande Slam Wimbledon",
+      "canale": "Sky Sport",
+      "note": "Primo match sul Campo 12",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZqnmyXEWlaEW9czK5V32aogo9udRC4Sjy43LOtdkW-zCNpjbDXUqgFGFRUoJUIurQQUPjqonSG8WCvrpTqzSmuLbPlvUQFZIgxvSEw6d-zLs2d5eZC0PlFBzPAknjzQydVgwBLtEeoKqZxoUMxFQX1cxU0tIYQoxzOPkmAvfz9PrPN7QTRoWjzbyUQSKHSLujzyv5J7FPVC8s-D26Pw==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Tennis - 1° Turno (Jannik Sinner vs Miomir Kecmanovic)",
-      "competizione": "Wimbledon",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 4K, Sky Sport Wimbledon 1-6",
-      "note": "Primo match sul Centre Court.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1MyUo-hQwxDRgxGKpsPQL33CyYicZv1mFHlqpnLZy98VQEt9sMUAsIzmrlZGkZSFRbNtUsllK5Iy6b1hWZSbd0q0Xq-sDWdn-Kuoza1g80I2DIc0zRSD5BNsHbpDZpaIRaP-I41X7dKTtu1rYNLACdHPOIhNL8-n70apH5ZFsawdDGGqF5kHXHLFEcRwKpsjZxdBE_CCWO9Tt4eAwnx6sf65VvQ4DxTXu0-6gDB-A6KN9YQl38i7da0OpmUe-",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00*",
-      "evento": "Tennis - 1° Turno (Elisabetta Cocciaretto vs Xinyu Wang)",
-      "competizione": "Wimbledon",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Wimbledon 1-6",
-      "note": "Secondo match sul Court 10. Il primo match inizia alle 12:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1MyUo-hQwxDRgxGKpsPQL33CyYicZv1mFHlqpnLZy98VQEt9sMUAsIzmrlZGkZSFRbNtUsllK5Iy6b1hWZSbd0q0Xq-sDWdn-Kuoza1g80I2DIc0zRSD5BNsHbpDZpaIRaP-I41X7dKTtu1rYNLACdHPOIhNL8-n70apH5ZFsawdDGGqF5kHXHLFEcRwKpsjZxdBE_CCWO9Tt4eAwnx6sf65VvQ4DxTXu0-6gDB-A6KN9YQl38i7da0OpmUe-",
+      "orario": "12:00*",
+      "evento": "Tennis: Wimbledon 2026 - 1° turno (Matteo Arnaldi vs Quentin Halys)",
+      "competizione": "Grande Slam Wimbledon",
+      "canale": "Sky Sport",
+      "note": "Secondo match sul Campo 4 (inizio sessione campo ore 12:00)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxzCb_vshYBfug_CQ00P3x61u-r7OPaeIqTUnbMZWs5L6Cuz6ZjTS6mHStziBzhgvr8uR5iyB0BZFK-voTYz7LV8jpuPHkkyjfVZ512KujGHnTJI-ipZZ-QfZx6HJSAFszhHEVZDPpMgpouYDM8QVyKJxi7srEPRjuWd6AoP97kMlia0OpQWmMvjCmc85riA==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:50",
-      "evento": "Calcio - Italia vs Serbia",
-      "competizione": "Europei U19 Galles",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Y3pC0gk0QcEV1YLo3ZPIOf3NSWVrIICYGBCFuJyK-VL5lENeYgkq5bBYTXJ5_3mEv5HT4PUtnbyKq1JhEEe96SRxBLNdXkQAjIBvoo9df_b0bRocu8K_XV-KsCw3k1Fd0xrPssfXpNJtmdFPuAj7pZu-YErsJlrnyUQE211PnclQhcX9Ye6R",
-      "accuratezza_orario": "esatto"
+      "orario": "12:00*",
+      "evento": "Tennis: Wimbledon 2026 - 1° turno (Lorenzo Sonego vs Tomas Martin Etcheverry)",
+      "competizione": "Grande Slam Wimbledon",
+      "canale": "Sky Sport",
+      "note": "Terzo match sul Campo 4 (inizio sessione campo ore 12:00)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxzCb_vshYBfug_CQ00P3x61u-r7OPaeIqTUnbMZWs5L6Cuz6ZjTS6mHStziBzhgvr8uR5iyB0BZFK-voTYz7LV8jpuPHkkyjfVZ512KujGHnTJI-ipZZ-QfZx6HJSAFszhHEVZDPpMgpouYDM8QVyKJxi7srEPRjuWd6AoP97kMlia0OpQWmMvjCmc85riA==",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:30*",
-      "evento": "Tennis - 1° Turno (Luciano Darderi vs Ethan Quinn)",
-      "competizione": "Wimbledon",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Wimbledon 1-6",
-      "note": "Terzo match sul Court 15. Non prima delle 14:30.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1MyUo-hQwxDRgxGKpsPQL33CyYicZv1mFHlqpnLZy98VQEt9sMUAsIzmrlZGkZSFRbNtUsllK5Iy6b1hWZSbd0q0Xq-sDWdn-Kuoza1g80I2DIc0zRSD5BNsHbpDZpaIRaP-I41X7dKTtu1rYNLACdHPOIhNL8-n70apH5ZFsawdDGGqF5kHXHLFEcRwKpsjZxdBE_CCWO9Tt4eAwnx6sf65VvQ4DxTXu0-6gDB-A6KN9YQl38i7da0OpmUe-",
+      "orario": "12:00*",
+      "evento": "Tennis: Wimbledon 2026 - 1° turno (Mariano Navone vs Flavio Cobolli)",
+      "competizione": "Grande Slam Wimbledon",
+      "canale": "Sky Sport",
+      "note": "Quarto match sul Campo 2 (inizio sessione campo ore 12:00)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYYahzMML1NyMcNIV2VGmxTiTvy6XPXtAWieubK4P-5uWhlHp4cschyJuRg5_LYwV7agV8IMKFnyNnG6j2yHeibqKVNsdVuS2urHXzwFDRcRsQslpqQYIHeVjET-Dr9T0aj1jbFBMi_GByCdbxQROmiU89p_uNnvht5TExUz0wF1Ujjdz0IEkkWT5NCBhHJqAqd0gLjOfMQCWed0ESBQTSUoPFdw==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Tennis: Wimbledon 2026 - 1° turno (Stan Wawrinka vs Matteo Berrettini)",
+      "competizione": "Grande Slam Wimbledon",
+      "canale": "Sky Sport",
+      "note": "Terzo match sul Campo 1 (inizio sessione campo ore 14:00)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjM6SEtyFCu11iwc-gh8Yw0c6y-ANOZb1GS3v8j1ofAtpF3yfOvaS7S2xwZP6rpwzR0m5y_Bm9MuXxqaCPTolYP2N1kyjES6CKsz8kcu5pya3Oq4h3Sko0ie0ylI-R5v6nrqlcUIEGEoYaeJE7DdBpEfMvCi9CwGT19SPwZgBt0RiR0K3ibw==",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "19:00",
-      "evento": "Calcio - Brasile vs Giappone",
+      "evento": "Calcio: Mondiali 2026 - Sedicesimi di finale (Costa d'Avorio vs Norvegia)",
       "competizione": "Mondiali 2026",
-      "canale": "Rai 1, DAZN",
-      "note": "Partita al NRG Stadium, Houston (USA).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuMrLZ1ad0DrXtsi0LsuAr86EYgOjRN83GZ6a84Us1bQu5C9SUQyQFiPCBv-o8y_ETozV-uqE6PnsYD5Q3fsg2q4DtiWkZAwC1XpYNeZho79UCohKiAUi4SJGk4LgTylURaby3PPn4z98jz2R8lhHtnAbPMkSc6mlB7ZmgPV8Oer6CL52VP8l0OE21fRl5HCJfmg9MI40MfMCj7RBEoOJHamm336I74-Omjzktw4MuUcU",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ38Gc74R9N1Tabvtd6dfe-jZe6ftHq04zM8aCIw-phLVxIYd_kWbgg3c_peqTS6AN7bSFwWXYVyDsIgLTrCFNYH8Ch-6Qeq7Is5GXPLiOgY9CtOgNZsM4aALqGOwazP9H-yK-ddyfnbI0lVJ3oSK76uWpjBViBoYPa7R0a1WEJCKzzDJLxRmCdvcQTmcygyBumiC3CxgKTb_9pIvyfrz8NzHW3lUWRNG3xWpP6Hdg_o3AKoMCy_AYuj4xXN4KK1RdDbXJdoP8fZJs_UxgRYXEubHC-NP62SE==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:30",
-      "evento": "Calcio - Germania vs Paraguay",
+      "orario": "23:00",
+      "evento": "Calcio: Mondiali 2026 - Sedicesimi di finale (Francia vs Svezia)",
       "competizione": "Mondiali 2026",
-      "canale": "DAZN",
-      "note": "Partita al Gillette Stadium, Foxborough (USA).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuMrLZ1ad0DrXtsi0LsuAr86EYgOjRN83GZ6a84Us1bQu5C9SUQyQFiPCBv-o8y_ETozV-uqE6PnsYD5Q3fsg2q4DtiWkZAwC1XpYNeZho79UCohKiAUi4SJGk4LgTylURaby3PPn4z98jz2R8lhHtnAbPMkSc6mlB7ZmgPV8Oer6CL52VP8l0OE21fRl5HCJfmg9MI40MfMCj7RBEoOJHamm336I74-Omjzktw4MuUcU",
+      "canale": "Rai 1, RaiPlay, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ38Gc74R9N1Tabvtd6dfe-jZe6ftHq04zM8aCIw-phLVxIYd_kWbgg3c_peqTS6AN7bSFwWXYVyDsIgLTrCFNYH8Ch-6Qeq7Is5GXPLiOgY9CtOgNZsM4aALqGOwazP9H-yK-ddyfnbI0lVJ3oSK76uWpjBViBoYPa7R0a1WEJCKzzDJLxRmCdvcQTmcygyBumiC3CxgKTb_9pIvyfrz8NzHW3lUWRNG3xWpP6Hdg_o3AKoMCy_AYuj4xXN4KK1RdDbXJdoP8fZJs_UxgRYXEubHC-NP62SE==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Canottaggio: Coppa del Mondo Lucerna",
+      "competizione": "Coppa del Mondo",
+      "canale": "Rai Sport +HD",
+      "note": "Data: 1 Luglio 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbjrqI6BK4auqDyX_AkFzTW_ICcoEXVK7fDJw2lDCTclJiNqiXgsFe7eOrkA3NFgQuuH1QDQm_PDewcYP625aJ1CJnm2EaSaIAmYwvuyaD9_Frl_KuAbEBnNg1PzQLM4r3DXBlBwOjVMRL9g-gh7zCuCi-8k_Riw760s3P3Wc8iHq_6i1TVnJZIQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:00",
-      "evento": "Calcio - Olanda vs Marocco",
+      "evento": "Calcio: Mondiali 2026 - Sedicesimi di finale (Messico vs Ecuador)",
       "competizione": "Mondiali 2026",
       "canale": "DAZN",
-      "note": "Partita all'Estadio Monterrey, Guadalupe (MEX). Già 30 giugno CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuMrLZ1ad0DrXtsi0LsuAr86EYgOjRN83GZ6a84Us1bQu5C9SUQyQFiPCBv-o8y_ETozV-uqE6PnsYD5Q3fsg2q4DtiWkZAwC1XpYNeZho79UCohKiAUi4SJGk4LgTylURaby3PPn4z98jz2R8lhHtnAbPMkSc6mlB7ZmgPV8Oer6CL52VP8l0OE21fRl5HCJfmg9MI40MfMCj7RBEoOJHamm336I74-Omjzktw4MuUcU",
+      "note": "Data: 1 Luglio 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ38Gc74R9N1Tabvtd6dfe-jZe6ftHq04zM8aCIw-phLVxIYd_kWbgg3c_peqTS6AN7bSFwWXYVyDsIgLTrCFNYH8Ch-6Qeq7Is5GXPLiOgY9CtOgNZsM4aALqGOwazP9H-yK-ddyfnbI0lVJ3oSK76uWpjBViBoYPa7R0a1WEJCKzzDJLxRmCdvcQTmcygyBumiC3CxgKTb_9pIvyfrz8NzHW3lUWRNG3xWpP6Hdg_o3AKoMCy_AYuj4xXN4KK1RdDbXJdoP8fZJs_UxgRYXEubHC-NP62SE==",
       "accuratezza_orario": "esatto"
     }
   ]
