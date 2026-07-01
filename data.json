@@ -1,121 +1,67 @@
 {
-  "last_updated": "2026-07-01T11:26:55.419134+02:00",
+  "last_updated": "2026-07-01T16:04:06.807259+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Nuoto: Trofeo Sette Colli Roma: Finali 3a Giornata",
-      "competizione": "Trofeo Sette Colli Roma",
-      "canale": "Rai Sport +HD",
+      "orario": "03:00",
+      "evento": "Messico - Ecuador",
+      "competizione": "Mondiali di calcio 2026 - Sedicesimi di finale",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "Motocross: GP Portogallo - MX2 gara 2",
-      "competizione": "Campionato Mondiale Motocross MXGP 2026",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Motocross: Camp. Mondiale MXGP 2026: GP Portogallo - MXGP gara 2",
-      "competizione": "Campionato Mondiale Motocross MXGP 2026",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Pallanuoto: Serie A1 maschile Finale Scudetto - gara 3",
-      "competizione": "Serie A1 Maschile",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Stasera in TV",
+      "fonte": "https://oasport.it/2026/07/calendario-mondiali-calcio-2026-in-tv-orari-partite-di-oggi-1-luglio-canali-streaming/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:00",
-      "evento": "Tennis: Bolelli/Vavassori-Jones/Paris",
-      "competizione": "Grande Slam 2026 - Wimbledon, Secondo Turno",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
-      "note": "Match con giocatori italiani.",
-      "fonte": "OA Sport, Sportface.it",
+      "evento": "Simone Bolelli/Andrea Vavassori - Jones/Paris",
+      "competizione": "Tennis - Wimbledon (Doppio Maschile)",
+      "canale": "Sky Sport",
+      "note": "Diretta tv su canali Sky Sport e in streaming su Sky Go e NOW.",
+      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-mercoledi-1-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410660/italiani-in-campo-atp-wta-challenger-compreso-wimbledon-i-risultati-completi-con-il-dettaglio-del-01-luglio-2026/, https://www.eurosport.it/tennis/wimbledon/2026/wimbledon-2026-day-3-mercoledi-1-luglio-notizie-e-aggiornamenti-in-liveblog-jannik-sinner-torna-in-campo_sto20005952/story.shtml",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Canottaggio: Coppa del Mondo Lucerna",
-      "competizione": "Coppa del Mondo Canottaggio",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Stasera in TV",
-      "accuratezza_orario": "esatto"
+      "orario": "14:00*",
+      "evento": "Flavio Cobolli - Mariano Navone",
+      "competizione": "Tennis - Wimbledon (Primo Turno, ripreso)",
+      "canale": "Sky Sport",
+      "note": "Match ripreso, orario stimato e dipendente dall'andamento delle partite precedenti. Diretta tv su canali Sky Sport e in streaming su Sky Go e NOW.",
+      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-mercoledi-1-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410660/italiani-in-campo-atp-wta-challenger-compreso-wimbledon-i-risultati-completi-con-il-dettaglio-del-01-luglio-2026/, https://www.tennisopen.it/wimbledon-il-programma-completo-di-mercoledi-1-luglio-con-sinner-cobolli-e-tanti-top-in-campo/",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "14:30",
-      "evento": "Tennis: Jannik Sinner-Nuno Borges",
-      "competizione": "Grande Slam 2026 - Wimbledon, Secondo Turno",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
-      "note": "Match con giocatore italiano (Jannik Sinner).",
-      "fonte": "OA Sport, Sportface.it",
+      "evento": "Jannik Sinner - Nuno Borges",
+      "competizione": "Tennis - Wimbledon (Secondo Turno)",
+      "canale": "Sky Sport",
+      "note": "Diretta tv su canali Sky Sport e in streaming su Sky Go e NOW.",
+      "fonte": "https://sportface.it/2026/07/01/sport-in-tv-oggi-1-luglio-sinner-a-wimbledon-jacobs-in-pista-e-mondiali-con-sportface-tv-su-prime-video-e-samsung-tv/, https://www.livetennis.it/post/410660/italiani-in-campo-atp-wta-challenger-compreso-wimbledon-i-risultati-completi-con-il-dettaglio-del-01-luglio-2026/, https://www.tennisopen.it/wimbledon-il-programma-completo-di-mercoledi-1-luglio-con-sinner-cobolli-e-tanti-top-in-campo/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Calcio: Inghilterra-Repubblica Democratica del Congo",
-      "competizione": "Mondiali 2026 - Sedicesimi di Finale",
+      "evento": "Inghilterra - Repubblica Democratica del Congo",
+      "competizione": "Mondiali di calcio 2026 - Sedicesimi di finale",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Fanpage, IlSoftware.it, HDblog.it, TuttoMercatoWeb, OA Sport, Libero",
+      "fonte": "https://oasport.it/2026/07/calendario-mondiali-calcio-2026-in-tv-orari-partite-di-oggi-1-luglio-canali-streaming/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Calcio: Belgio-Senegal",
-      "competizione": "Mondiali 2026 - Sedicesimi di Finale",
-      "canale": "Rai 1, DAZN, Rai Play",
-      "note": "Disponibile in chiaro su Rai 1.",
-      "fonte": "Fanpage, IlSoftware.it, HDblog.it, TuttoMercatoWeb, OA Sport, Libero, Dituttounpop.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Pallanuoto: Serie A1 maschile 2025/2026-Finale Scudetto - gara 3",
-      "competizione": "Serie A1 Maschile",
-      "canale": "Rai Sport HD",
-      "note": "Replica.",
-      "fonte": "Quotidiano Nazionale",
+      "evento": "Belgio - Senegal",
+      "competizione": "Mondiali di calcio 2026 - Sedicesimi di finale",
+      "canale": "Rai 1, DAZN",
+      "note": "Disponibile anche in streaming su Rai Play.",
+      "fonte": "https://oasport.it/2026/07/calendario-mondiali-calcio-2026-in-tv-orari-partite-di-oggi-1-luglio-canali-streaming/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:00",
-      "evento": "Calcio: Stati Uniti-Bosnia Erzegovina",
-      "competizione": "Mondiali 2026 - Sedicesimi di Finale",
+      "evento": "Stati Uniti - Bosnia Erzegovina",
+      "competizione": "Mondiali di calcio 2026 - Sedicesimi di finale",
       "canale": "DAZN",
-      "note": "Nella notte tra mercoledì 1 e giovedì 2 luglio.",
-      "fonte": "Fanpage, IlSoftware.it, HDblog.it, TuttoMercatoWeb, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Europei U19 2026-Italia - Serbia",
-      "competizione": "Europei U19",
-      "canale": "Rai Sport HD",
-      "note": "Match con nazionale italiana.",
-      "fonte": "Quotidiano Nazionale",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Biliardo Stecca: Finali Campionati Italiani 2026-2a giornata",
-      "competizione": "Campionati Italiani Biliardo Stecca",
-      "canale": "Rai Sport +HD",
-      "note": "Da Saint-Vincent.",
-      "fonte": "Stasera in TV",
+      "note": "Evento trasmesso il 2 luglio 2026.",
+      "fonte": "https://oasport.it/2026/07/calendario-mondiali-calcio-2026-in-tv-orari-partite-di-oggi-1-luglio-canali-streaming/",
       "accuratezza_orario": "esatto"
     }
   ]
