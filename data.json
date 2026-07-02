@@ -1,85 +1,112 @@
 {
-  "last_updated": "2026-07-02T10:39:54.840048+02:00",
+  "last_updated": "2026-07-02T15:26:46.231848+02:00",
   "events": [
     {
-      "orario": "15:00",
-      "evento": "Europei U19: Croazia - Italia",
-      "competizione": "Calcio - Campionati Europei U19",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "OA Sport, Calciomagazine, Libero Magazine",
+      "orario": "12:00",
+      "evento": "Tennis: L. Sonego vs G. Diallo (2° Turno)",
+      "competizione": "Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
+      "note": "Primo match sul campo designato",
+      "fonte": "Sportface.it, OA Sport, Olympics.com, CronacaPop, LiveTennis.it, Il Fatto Quotidiano, Ubitennis",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Mondiali 2026: Spagna - Austria",
-      "competizione": "Calcio - FIFA World Cup 2026 - Sedicesimi di Finale",
-      "canale": "Rai 1 HD, DAZN",
-      "note": "",
-      "fonte": "OA Sport, I programmi TV di oggi, Calciomagazine, Sky Sport, Libero Magazine, Fanpage, TUTTOmercatoWEB",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00*",
-      "evento": "Tennis - Wimbledon: Lorenzo Sonego vs Diallo",
-      "competizione": "Tennis - Grande Slam ATP (Secondo Turno)",
-      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
-      "note": "Inizio 12:00, match successivo a seconda del campo.",
-      "fonte": "LiveTennis.it, Ubitennis, Ubitennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "14:30*",
-      "evento": "Tennis - Wimbledon: Flavio Cobolli vs Duckworth",
-      "competizione": "Tennis - Grande Slam ATP (Secondo Turno)",
-      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
-      "note": "Non prima delle 14:30, terzo match dal 12:00.",
-      "fonte": "OA Sport, LiveTennis.it, Ubitennis, Ubitennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "14:30*",
-      "evento": "Tennis - Wimbledon: Matteo Berrettini vs Fils",
-      "competizione": "Tennis - Grande Slam ATP (Secondo Turno)",
-      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
-      "note": "Non prima delle 14:30, secondo match.",
-      "fonte": "OA Sport, LiveTennis.it, Ubitennis, Ubitennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:30*",
-      "evento": "Tennis - Wimbledon: Jasmine Paolini vs Viktorija Golubic",
-      "competizione": "Tennis - Grande Slam WTA (Secondo Turno)",
-      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
-      "note": "Non prima delle 16:30, quinto match dal 12:00.",
-      "fonte": "OA Sport, Olympics.com, LiveTennis.it, CronacaPop, Ubitennis, Ubitennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:00*",
-      "evento": "Tennis - Wimbledon: Cocciaretto ITA / Li USA (doppio)",
-      "competizione": "Tennis - Grande Slam WTA (Secondo Turno di Doppio)",
-      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
-      "note": "Inizio 12:00, secondo incontro sul campo designato.",
+      "orario": "12:00",
+      "evento": "Tennis: E. Cocciaretto / Li vs Chong / Tikhonova (Doppio, 2° Turno)",
+      "competizione": "Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
+      "note": "Secondo match sul campo designato, con italiana in campo.",
       "fonte": "LiveTennis.it",
       "accuratezza_orario": "stimato"
     },
     {
+      "orario": "14:30*",
+      "evento": "Tennis: M. Berrettini vs A. Fils (2° Turno)",
+      "competizione": "Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
+      "note": "Secondo match sul campo designato, non prima delle 14:30 CET",
+      "fonte": "Sportface.it, OA Sport, LiveTennis.it, Il Fatto Quotidiano, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:30*",
+      "evento": "Tennis: F. Cobolli vs J. Duckworth (2° Turno)",
+      "competizione": "Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
+      "note": "Terzo match sul campo designato, non prima delle 15:30 CET",
+      "fonte": "Sportface.it, OA Sport, LiveTennis.it, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:30*",
+      "evento": "Tennis: J. Paolini vs V. Golubic (2° Turno)",
+      "competizione": "Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
+      "note": "Non prima delle 16:30 CET o 17:30 CET (5° match sul campo designato). Orario stimato.",
+      "fonte": "Sportface.it, OA Sport, Olympics.com, LiveTennis.it, Il Fatto Quotidiano, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Calcio: Spagna - Austria (Sedicesimi di finale)",
+      "competizione": "Mondiali di calcio 2026",
+      "canale": "Rai 1",
+      "note": "",
+      "fonte": "ProgrammiTV.com, Napolike",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "MotoGP - Programma/Replica",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport",
+      "note": "Programma o replica MotoGP, non specificato se gara o altro",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:45",
+      "evento": "MotoGP - Programma/Replica",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport",
+      "note": "Programma o replica MotoGP, non specificato se gara o altro",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "MotoGP - Programma/Replica",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport",
+      "note": "Programma o replica MotoGP, non specificato se gara o altro",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "Notti Mondiali",
+      "competizione": "Rubrica calcio Mondiali 2026",
+      "canale": "Rai 1",
+      "note": "",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "01:00",
-      "evento": "Mondiali 2026: Portogallo - Croazia",
-      "competizione": "Calcio - FIFA World Cup 2026 - Sedicesimi di Finale",
-      "canale": "DAZN",
-      "note": "Partita del 3 luglio, inclusa nel palinsesto notturno.",
-      "fonte": "OA Sport, Sky Sport, Libero Magazine, TUTTOmercatoWEB, Fanpage",
+      "evento": "Calcio: Portogallo - Croazia (Sedicesimi di finale)",
+      "competizione": "Mondiali di calcio 2026",
+      "canale": "DAZN (streaming)",
+      "note": "Partita del 3 luglio ma inclusa per palinsesto notturno (fino alle 06:00 CET del giorno successivo)",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:00",
-      "evento": "Mondiali 2026: Svizzera - Algeria",
-      "competizione": "Calcio - FIFA World Cup 2026 - Sedicesimi di Finale",
-      "canale": "DAZN",
-      "note": "Partita del 3 luglio, inclusa nel palinsesto notturno.",
-      "fonte": "OA Sport, Sky Sport, Sportface, Libero Magazine, Fanpage",
+      "evento": "Calcio: Svizzera - Algeria (Sedicesimi di finale)",
+      "competizione": "Mondiali di calcio 2026",
+      "canale": "DAZN (streaming)",
+      "note": "Partita del 3 luglio ma inclusa per palinsesto notturno (fino alle 06:00 CET del giorno successivo)",
+      "fonte": "Sportface.it, OA Sport",
       "accuratezza_orario": "esatto"
     }
   ]
