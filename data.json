@@ -1,67 +1,166 @@
 {
-  "last_updated": "2026-07-01T16:04:06.807259+02:00",
+  "last_updated": "2026-07-02T04:05:44.249726+02:00",
   "events": [
     {
-      "orario": "03:00",
-      "evento": "Messico - Ecuador",
-      "competizione": "Mondiali di calcio 2026 - Sedicesimi di finale",
+      "orario": "02:00",
+      "evento": "Sedicesimi di finale: Stati Uniti - Bosnia ed Erzegovina",
+      "competizione": "Mondiali di Calcio 2026",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://oasport.it/2026/07/calendario-mondiali-calcio-2026-in-tv-orari-partite-di-oggi-1-luglio-canali-streaming/",
+      "fonte": "Mantovauno.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "GP Portogallo: MX2 gara 2",
+      "competizione": "Mondiale Motocross 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:00",
-      "evento": "Simone Bolelli/Andrea Vavassori - Jones/Paris",
-      "competizione": "Tennis - Wimbledon (Doppio Maschile)",
+      "evento": "Lorenzo Sonego vs Gabriel Diallo",
+      "competizione": "Wimbledon 2026",
       "canale": "Sky Sport",
-      "note": "Diretta tv su canali Sky Sport e in streaming su Sky Go e NOW.",
-      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-mercoledi-1-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410660/italiani-in-campo-atp-wta-challenger-compreso-wimbledon-i-risultati-completi-con-il-dettaglio-del-01-luglio-2026/, https://www.eurosport.it/tennis/wimbledon/2026/wimbledon-2026-day-3-mercoledi-1-luglio-notizie-e-aggiornamenti-in-liveblog-jannik-sinner-torna-in-campo_sto20005952/story.shtml",
+      "note": "Primo match sul Campo 14.",
+      "fonte": "Il Tennis Italiano",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00*",
-      "evento": "Flavio Cobolli - Mariano Navone",
-      "competizione": "Tennis - Wimbledon (Primo Turno, ripreso)",
+      "orario": "12:00",
+      "evento": "Tyra Caterina Grant vs Marie Bouzkova",
+      "competizione": "Wimbledon 2026",
       "canale": "Sky Sport",
-      "note": "Match ripreso, orario stimato e dipendente dall'andamento delle partite precedenti. Diretta tv su canali Sky Sport e in streaming su Sky Go e NOW.",
-      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-mercoledi-1-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.livetennis.it/post/410660/italiani-in-campo-atp-wta-challenger-compreso-wimbledon-i-risultati-completi-con-il-dettaglio-del-01-luglio-2026/, https://www.tennisopen.it/wimbledon-il-programma-completo-di-mercoledi-1-luglio-con-sinner-cobolli-e-tanti-top-in-campo/",
-      "accuratezza_orario": "stimato"
+      "note": "Primo match sul Campo 16.",
+      "fonte": "Il Tennis Italiano, Olympics.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "GP Portogallo: MXGP gara 2",
+      "competizione": "Mondiale Motocross 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:30",
-      "evento": "Jannik Sinner - Nuno Borges",
-      "competizione": "Tennis - Wimbledon (Secondo Turno)",
-      "canale": "Sky Sport",
-      "note": "Diretta tv su canali Sky Sport e in streaming su Sky Go e NOW.",
-      "fonte": "https://sportface.it/2026/07/01/sport-in-tv-oggi-1-luglio-sinner-a-wimbledon-jacobs-in-pista-e-mondiali-con-sportface-tv-su-prime-video-e-samsung-tv/, https://www.livetennis.it/post/410660/italiani-in-campo-atp-wta-challenger-compreso-wimbledon-i-risultati-completi-con-il-dettaglio-del-01-luglio-2026/, https://www.tennisopen.it/wimbledon-il-programma-completo-di-mercoledi-1-luglio-con-sinner-cobolli-e-tanti-top-in-campo/",
+      "evento": "Conferenza stampa piloti",
+      "competizione": "Formula 1 - GP Gran Bretagna",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Inghilterra - Repubblica Democratica del Congo",
-      "competizione": "Mondiali di calcio 2026 - Sedicesimi di finale",
-      "canale": "DAZN",
+      "orario": "14:50",
+      "evento": "Croazia - Italia",
+      "competizione": "Europei U19 2026",
+      "canale": "Rai Sport",
       "note": "",
-      "fonte": "https://oasport.it/2026/07/calendario-mondiali-calcio-2026-in-tv-orari-partite-di-oggi-1-luglio-canali-streaming/",
+      "fonte": "Guida TV - Sport Pomeriggio, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30*",
+      "evento": "Matteo Berrettini vs Arthur Fils",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport",
+      "note": "Secondo match sul Centre Court, dopo Pliskova-Swiatek (inizio 14:30 CET).",
+      "fonte": "Il Tennis Italiano, Lottomatica.Sport, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Grand Tour Tre Cime di Lavaredo",
+      "competizione": "UCI Gravel World Series",
+      "canale": "Rai Sport",
+      "note": "Da Auronzo di Cadore.",
+      "fonte": "Guida TV - Sport Pomeriggio, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "GP Portogallo: MXGP - gara 2",
+      "competizione": "Mondiale Motocross 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "Guida TV - Sport Pomeriggio, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Presentazione Squadre",
+      "competizione": "Tour de France 2026",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Guida TV - Sport Pomeriggio, ProgrammiTV, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "Flavio Cobolli vs James Duckworth",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport",
+      "note": "Terzo match sul Campo 3, non prima delle 15:30 CET.",
+      "fonte": "Il Tennis Italiano, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Al Hilal - NEOM",
+      "competizione": "Campionato Saudita",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "Jasmine Paolini vs Viktorija Golubic",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport",
+      "note": "Non prima delle 17:30 CET sul Campo 2 (chiude il programma).",
+      "fonte": "Il Tennis Italiano, Olympics.com, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Spagna - Austria",
+      "competizione": "Mondiali di Calcio 2026 - Sedicesimi di finale",
+      "canale": "Rai 1, DAZN",
+      "note": "",
+      "fonte": "ProgrammiTV, Calciomagazine, Dituttounpop.it, Marida Caterini, Olympics.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Finali Campionati Italiani: 3a giornata",
+      "competizione": "Biliardo Stecca",
+      "canale": "Rai Sport",
+      "note": "Da Saint-Vincent.",
+      "fonte": "ProgrammiTV, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV, Questa sera in tv, Guida TV - Sport Sera",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Belgio - Senegal",
-      "competizione": "Mondiali di calcio 2026 - Sedicesimi di finale",
-      "canale": "Rai 1, DAZN",
-      "note": "Disponibile anche in streaming su Rai Play.",
-      "fonte": "https://oasport.it/2026/07/calendario-mondiali-calcio-2026-in-tv-orari-partite-di-oggi-1-luglio-canali-streaming/",
+      "evento": "Estudiantes - Racing",
+      "competizione": "Campionato Argentino",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "ProgrammiTV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:00",
-      "evento": "Stati Uniti - Bosnia Erzegovina",
-      "competizione": "Mondiali di calcio 2026 - Sedicesimi di finale",
-      "canale": "DAZN",
-      "note": "Evento trasmesso il 2 luglio 2026.",
-      "fonte": "https://oasport.it/2026/07/calendario-mondiali-calcio-2026-in-tv-orari-partite-di-oggi-1-luglio-canali-streaming/",
+      "orario": "00:00",
+      "evento": "Manchester City - Bournemouth",
+      "competizione": "Calcio",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "ProgrammiTV",
       "accuratezza_orario": "esatto"
     }
   ]
