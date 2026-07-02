@@ -1,166 +1,85 @@
 {
-  "last_updated": "2026-07-02T04:05:44.249726+02:00",
+  "last_updated": "2026-07-02T10:39:54.840048+02:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "Sedicesimi di finale: Stati Uniti - Bosnia ed Erzegovina",
-      "competizione": "Mondiali di Calcio 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Mantovauno.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "GP Portogallo: MX2 gara 2",
-      "competizione": "Mondiale Motocross 2026",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Lorenzo Sonego vs Gabriel Diallo",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Primo match sul Campo 14.",
-      "fonte": "Il Tennis Italiano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Tyra Caterina Grant vs Marie Bouzkova",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Primo match sul Campo 16.",
-      "fonte": "Il Tennis Italiano, Olympics.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "GP Portogallo: MXGP gara 2",
-      "competizione": "Mondiale Motocross 2026",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Conferenza stampa piloti",
-      "competizione": "Formula 1 - GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "Sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:50",
-      "evento": "Croazia - Italia",
-      "competizione": "Europei U19 2026",
+      "orario": "15:00",
+      "evento": "Europei U19: Croazia - Italia",
+      "competizione": "Calcio - Campionati Europei U19",
       "canale": "Rai Sport",
       "note": "",
-      "fonte": "Guida TV - Sport Pomeriggio, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV, Calciomagazine",
+      "fonte": "OA Sport, Calciomagazine, Libero Magazine",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Mondiali 2026: Spagna - Austria",
+      "competizione": "Calcio - FIFA World Cup 2026 - Sedicesimi di Finale",
+      "canale": "Rai 1 HD, DAZN",
+      "note": "",
+      "fonte": "OA Sport, I programmi TV di oggi, Calciomagazine, Sky Sport, Libero Magazine, Fanpage, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00*",
+      "evento": "Tennis - Wimbledon: Lorenzo Sonego vs Diallo",
+      "competizione": "Tennis - Grande Slam ATP (Secondo Turno)",
+      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
+      "note": "Inizio 12:00, match successivo a seconda del campo.",
+      "fonte": "LiveTennis.it, Ubitennis, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:30*",
+      "evento": "Tennis - Wimbledon: Flavio Cobolli vs Duckworth",
+      "competizione": "Tennis - Grande Slam ATP (Secondo Turno)",
+      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
+      "note": "Non prima delle 14:30, terzo match dal 12:00.",
+      "fonte": "OA Sport, LiveTennis.it, Ubitennis, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:30*",
+      "evento": "Tennis - Wimbledon: Matteo Berrettini vs Fils",
+      "competizione": "Tennis - Grande Slam ATP (Secondo Turno)",
+      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
+      "note": "Non prima delle 14:30, secondo match.",
+      "fonte": "OA Sport, LiveTennis.it, Ubitennis, Ubitennis",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "16:30*",
-      "evento": "Matteo Berrettini vs Arthur Fils",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Secondo match sul Centre Court, dopo Pliskova-Swiatek (inizio 14:30 CET).",
-      "fonte": "Il Tennis Italiano, Lottomatica.Sport, Ubitennis",
+      "evento": "Tennis - Wimbledon: Jasmine Paolini vs Viktorija Golubic",
+      "competizione": "Tennis - Grande Slam WTA (Secondo Turno)",
+      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
+      "note": "Non prima delle 16:30, quinto match dal 12:00.",
+      "fonte": "OA Sport, Olympics.com, LiveTennis.it, CronacaPop, Ubitennis, Ubitennis",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "17:00",
-      "evento": "Grand Tour Tre Cime di Lavaredo",
-      "competizione": "UCI Gravel World Series",
-      "canale": "Rai Sport",
-      "note": "Da Auronzo di Cadore.",
-      "fonte": "Guida TV - Sport Pomeriggio, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:30",
-      "evento": "GP Portogallo: MXGP - gara 2",
-      "competizione": "Mondiale Motocross 2026",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Guida TV - Sport Pomeriggio, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Presentazione Squadre",
-      "competizione": "Tour de France 2026",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Guida TV - Sport Pomeriggio, ProgrammiTV, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "Flavio Cobolli vs James Duckworth",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Terzo match sul Campo 3, non prima delle 15:30 CET.",
-      "fonte": "Il Tennis Italiano, Ubitennis",
+      "orario": "12:00*",
+      "evento": "Tennis - Wimbledon: Cocciaretto ITA / Li USA (doppio)",
+      "competizione": "Tennis - Grande Slam WTA (Secondo Turno di Doppio)",
+      "canale": "Sky Sport Tennis, Sky Sport, Sky Go, NOW",
+      "note": "Inizio 12:00, secondo incontro sul campo designato.",
+      "fonte": "LiveTennis.it",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00",
-      "evento": "Al Hilal - NEOM",
-      "competizione": "Campionato Saudita",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "ProgrammiTV",
+      "orario": "01:00",
+      "evento": "Mondiali 2026: Portogallo - Croazia",
+      "competizione": "Calcio - FIFA World Cup 2026 - Sedicesimi di Finale",
+      "canale": "DAZN",
+      "note": "Partita del 3 luglio, inclusa nel palinsesto notturno.",
+      "fonte": "OA Sport, Sky Sport, Libero Magazine, TUTTOmercatoWEB, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
-      "evento": "Jasmine Paolini vs Viktorija Golubic",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Non prima delle 17:30 CET sul Campo 2 (chiude il programma).",
-      "fonte": "Il Tennis Italiano, Olympics.com, Ubitennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Spagna - Austria",
-      "competizione": "Mondiali di Calcio 2026 - Sedicesimi di finale",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "ProgrammiTV, Calciomagazine, Dituttounpop.it, Marida Caterini, Olympics.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Finali Campionati Italiani: 3a giornata",
-      "competizione": "Biliardo Stecca",
-      "canale": "Rai Sport",
-      "note": "Da Saint-Vincent.",
-      "fonte": "ProgrammiTV, Programmi Rai Sport +HD giovedi 02 luglio 2026 - Stasera in TV, Questa sera in tv, Guida TV - Sport Sera",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Estudiantes - Racing",
-      "competizione": "Campionato Argentino",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Manchester City - Bournemouth",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "ProgrammiTV",
+      "orario": "05:00",
+      "evento": "Mondiali 2026: Svizzera - Algeria",
+      "competizione": "Calcio - FIFA World Cup 2026 - Sedicesimi di Finale",
+      "canale": "DAZN",
+      "note": "Partita del 3 luglio, inclusa nel palinsesto notturno.",
+      "fonte": "OA Sport, Sky Sport, Sportface, Libero Magazine, Fanpage",
       "accuratezza_orario": "esatto"
     }
   ]
