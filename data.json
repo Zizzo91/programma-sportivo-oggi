@@ -1,148 +1,85 @@
 {
-  "last_updated": "2026-07-03T03:50:01.471654+02:00",
+  "last_updated": "2026-07-03T10:46:04.303931+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "Secondo turno doppio uomini",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Con Simone Bolelli e Andrea Vavassori",
-      "fonte": "Olympics.com, LaPresse",
-      "accuratezza_orario": "stimato"
+      "orario": "01:00",
+      "evento": "Portogallo-Croazia",
+      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExTaQcEuJfh3eD-xbFw6kywvz_vbLS4hZn7EGrbIcZl7q9-xNwHJMHTzES0wx2VVyVzV0LJw10W_ABjaNlVT3MeZZ6EyvMXY7OA8KcZhcuOgpIFyy_rnrNme_31sJras7aM56iQoz3Ja-UnWGJhWz9sdu2Auw4RwsX4zLouWv-6uamRaOEwU_8f3_lBmPkllSkTv6mAQmhQZDxaBk4IWB62GN30q78-v74-t_uqLhTI7RrN33cmoA=",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:00",
-      "evento": "Primo turno doppio donne",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Con Sara Errani e Jasmine Paolini",
-      "fonte": "Olympics.com, LaPresse",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Singolare maschile: Lorenzo Sonego (ITA) vs Gabriel Diallo (CAN)",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Campo 14",
-      "fonte": "Il Fatto Quotidiano, LaPresse",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Singolare femminile: Tyra Grant (ITA) vs Marie Bouzkova (CZE)",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport",
-      "note": "Campo 16",
-      "fonte": "Il Fatto Quotidiano, LaPresse",
-      "accuratezza_orario": "stimato"
+      "orario": "05:00",
+      "evento": "Svizzera-Algeria",
+      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExTaQcEuJfh3eD-xbFw6kywvz_vbLS4hZn7EGrbIcZl7q9-xNwHJMHTzES0wx2VVyVzV0LJw10W_ABjaNlVT3MeZZ6EyvMXY7OA8KcZhcuOgpIFyy_rnrNme_31sJras7aM56iQoz3Ja-UnWGJhWz9sdu2Auw4RwsX4zLouWv-6uamRaOEwU_8f3_lBmPkllSkTv6mAQmhQZDxaBk4IWB62GN30q78-v74-t_uqLhTI7RrN33cmoA=",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:30",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - GP Gran Bretagna 2026",
-      "canale": "Sky Sport F1 HD",
+      "evento": "Formula 1 - Prove Libere 1",
+      "competizione": "GP Gran Bretagna",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Automoto.it, FormulaPassion",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxKJ6V0SCSmoT_NtL-wxn6h_ZlzxBY3Xlf64a_4oeoyzAPNBv5MzvTUi3y6V7-TxSkvaYZ6F1Bgw4Fyjn-e7S-O_Mcyo43SgipBGNCiIvsmMk55uDVzc1_DgWPlFK4c81XpDVJ",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:30",
-      "evento": "Singolare maschile: Flavio Cobolli (ITA) vs James Duckworth (AUS)",
-      "competizione": "Wimbledon 2026",
+      "orario": "15:00*",
+      "evento": "Tennis - Doppio Femminile: Sara Errani / Jasmine Paolini vs Mariia Kozyreva / Iryna Shymanovich",
+      "competizione": "Wimbledon",
       "canale": "Sky Sport",
-      "note": "Campo 3",
-      "fonte": "LaPresse",
-      "accuratezza_orario": "esatto"
+      "note": "Non prima delle 15:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEAkVHhC-qudArziiUoGiE_LNjR9ohIu4ENPIjqtB94BQ3f9eskXPUBBhm8lHG1hivSDuQeognOIxrcpVZMW7h_bNKFZ5nKRPO8hCWe2xSgzkWRj6Y-GNQPKJII-05LBYrThm4dpIPiPgi4pC9wOPg5yT2h6ka1vd5rm2sQPBXgOiOmYWVc6jYYGUdcnvNGqiTa3nMfq9ImGZ-3VBg",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "15:40",
-      "evento": "Singolare maschile: Matteo Berrettini (ITA) vs Arthur Fils (FRA)",
-      "competizione": "Wimbledon 2026",
+      "orario": "15:10*",
+      "evento": "Tennis - Singolare Maschile: Jannik Sinner vs Jenson Brooksby",
+      "competizione": "Wimbledon",
       "canale": "Sky Sport",
-      "note": "Campo Centrale",
-      "fonte": "LaPresse",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Singolare maschile: Jannik Sinner (ITA) vs Jenson Brooksby (USA)",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena",
-      "note": "Secondo match a partire dalle 14:00 sul Campo 1",
-      "fonte": "Olympics.com, Sky Sport",
+      "note": "Non prima delle 15:10",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHknsajPJ-WMKVD7TLXSkUaxkWdocEFm0l5Y_vMc9wMu8AJe0n5QeykN9FHOWDIL1zV9s1Mpp3koKb_oM49KmNsWbdjMXZfEX8W_QjIYdJxMnV5SDeXUrkc4wQ6YF15jzosEEqwhRpf4LqbRXmuxOjKJrYZD9FantPd5j1Eo-2frMdmth5WwCL1PlEBO7mxRePTFzBcl1kbJO4PUcEDmO2pF67xiS2Qc3ezaV26vQn4OYKXd1lSKscDhMU0hoJVg1ii",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "17:30",
-      "evento": "Qualifiche Sprint",
-      "competizione": "Formula 1 - GP Gran Bretagna 2026",
-      "canale": "Sky Sport F1 HD, TV8",
-      "note": "Diretta anche su TV8",
-      "fonte": "Automoto.it, FormulaPassion",
+      "evento": "Formula 1 - Qualifiche Sprint",
+      "competizione": "GP Gran Bretagna",
+      "canale": "Sky Sport F1, TV8",
+      "note": "Diretta su Sky Sport F1 e TV8",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH3gfHSyTi7-OJhmySZU9UQPtrn9BOQxe1hoVHqbZzBGyqa41_zZ9twAQv406_VowlSUORwFGzIrOdokkAp8ATS7xJpc3ARg-XgR1djfXuolvRFw4LC1xHVuXByT0hbb6uuEmT6kr8cdlsrUj1Z9Ik6N1FzHW71mZGWE6Bm-TNeCbLalD7MMqJBmFySz1rYzI4XHSwI90=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:05",
-      "evento": "GP Olanda: Gara (Replica)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport MotoGP",
+      "orario": "20:00",
+      "evento": "Australia-Egitto",
+      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "GP Italia: Sprint Race (Replica)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:45",
-      "evento": "GP Italia: Gara (Replica)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkdjX08TNlhBfySF019gV1Z3Lyl0MuwF_iXts6yPh6JGS3AECOh_-J6_c67wFyAjOQtbLbulBlTRzoe-fNxErDFRQf62o6e3nfXyALhqouBCNVRVdcKWUSv6Id0PofzTHGIrDzq7Us1acAcnbwFB71sGfzNYLkIvQ0F28npAEWSg==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "GP Catalogna: Sprint Race (Replica)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "In onda il 4 luglio",
-      "fonte": "Sky Sport",
+      "evento": "Argentina-Capo Verde",
+      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "canale": "Rai 1, DAZN",
+      "note": "Inizia il 4 luglio alle 00:00 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvDYdLV8m7LSsITp2iFvBHnsDkrF1Hh4OmrxPUY6xaXxFh0MgXfxDyyEVBLOhUOZIn-iPL2l4SYxKxRL58EJtRYtkEPpYipne8Ol4LcO7hbTpQ3x09rCmkzi_wX8dHn-RltomWPGE6nqX3GvNEh_UANtMe-N2aDqBgOLdjltzrMslCwadZC8bWwID2Y840uPjczX-hlMkPmRj9M0yHmMP1cUtEo-NknrDRYPcw3ZyAhw=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:45",
-      "evento": "GP Catalogna: Gara (Replica)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "In onda il 4 luglio",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:05",
-      "evento": "GP Olanda: Gara (Replica)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "In onda il 4 luglio",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "GP Italia: Sprint Race (Replica)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "In onda il 4 luglio",
-      "fonte": "Sky Sport",
+      "orario": "03:30",
+      "evento": "Colombia-Ghana",
+      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "canale": "DAZN",
+      "note": "Inizia il 4 luglio alle 03:30 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvDYdLV8m7LSsITp2iFvBHnsDkrF1Hh4OmrxPUY6xaXxFh0MgXfxDyyEVBLOhUOZIn-iPL2l4SYxKxRL58EJtRYtkEPpYipne8Ol4LcO7hbTpQ3x09rCmkzi_wX8dHn-RltomWPGE6nqX3GvNEh_UANtMe-N2aDqBgOLdjltzrMslCwadZC8bWwID2Y840uPjczX-hlMkPmRj9M0yHmMP1cUtEo-NknrDRYPcw3ZyAhw=",
       "accuratezza_orario": "esatto"
     }
   ]
