@@ -1,76 +1,148 @@
 {
-  "last_updated": "2026-07-02T21:07:24.147924+02:00",
+  "last_updated": "2026-07-03T03:50:01.471654+02:00",
   "events": [
     {
       "orario": "12:00",
-      "evento": "Wimbledon 2° Turno: Lorenzo Sonego (Ita) vs Diallo",
-      "competizione": "Tennis - Grande Slam Wimbledon",
+      "evento": "Secondo turno doppio uomini",
+      "competizione": "Wimbledon 2026",
       "canale": "Sky Sport",
+      "note": "Con Simone Bolelli e Andrea Vavassori",
+      "fonte": "Olympics.com, LaPresse",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Primo turno doppio donne",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport",
+      "note": "Con Sara Errani e Jasmine Paolini",
+      "fonte": "Olympics.com, LaPresse",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Singolare maschile: Lorenzo Sonego (ITA) vs Gabriel Diallo (CAN)",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport",
+      "note": "Campo 14",
+      "fonte": "Il Fatto Quotidiano, LaPresse",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Singolare femminile: Tyra Grant (ITA) vs Marie Bouzkova (CZE)",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport",
+      "note": "Campo 16",
+      "fonte": "Il Fatto Quotidiano, LaPresse",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1 - GP Gran Bretagna 2026",
+      "canale": "Sky Sport F1 HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_w_3UKz0LYMH8DcOa2Jqo9veT90jJfjy9dyMZko5mgl6MEgqoB-h1y-uNhyBcNb2WW2C8SAszSTQMF1z91k8web3EuR_2sI1bQVifMQZBlLyPWCGlM3-fddNVv5k5RwujxwjKibJRVagS3RYXDACgssfRtvH4aM-g-3oxDU8=",
+      "fonte": "Automoto.it, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Europei U19: Croazia - Italia",
-      "competizione": "Calcio - Europei U19",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBoStTsYNcViUec1avXRB6CWRIkfwclvS1n7F3IRY2730IEE3OtNw_tMMqoZXceWldr_kOQ9J2XTHD56Y-LQHyUxPhc2jWtnxS9VmliOXvXQ6WcxNAKgqmM3blLNZBLQch9kRxiBx9ijOadbhjTKyUOdwTSR0B75aNNvBUOo8wSw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1rycJBFLcvFp7z1aE4R3gIWxtTM1XNKvnr7dbs8MciePiF7jVAi4MrsQ5D_sp9b_MqPmLkzdTgP5DBzII8zniw3uVTQBBwOVeREabTD25IJVEIPQTE7hwU6jcuFjqH4ZH5PrMz7radr8gvIheSYYboQ6b5ToR",
+      "orario": "15:30",
+      "evento": "Singolare maschile: Flavio Cobolli (ITA) vs James Duckworth (AUS)",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport",
+      "note": "Campo 3",
+      "fonte": "LaPresse",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:30*",
-      "evento": "Wimbledon 2° Turno: Matteo Berrettini (Ita) vs Fils (Fra)",
-      "competizione": "Tennis - Grande Slam Wimbledon",
-      "canale": "Sky Sport Tennis (203)",
-      "note": "Non prima delle 15:30 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1QliTKU1QwiQ4GnOx8eq6OjPUmYTuYDHlf0PvKxIETvGnzrwI1jivceVcl7h1JMIMW5aF_AJfh_JBZuam7YAOfDiFcLno83bFf2sawul3DxiwjZaXzfxt0e3yHzZZRYZHupyF-sgE97mdcXm4Uo_B0rKq0Pj03q0KzcXfUKnikvdYnWEnGg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_w_3UKz0LYMH8DcOa2Jqo9veT90jJfjy9dyMZko5mgl6MEgqoB-h1y-uNhyBcNb2WW2C8SAszSTQMF1z91k8web3EuR_2sI1bQVifMQZBlLyPWCGlM3-fddNVv5k5RwujxwjKibJRVagS3RYXDACgssfRtvH4aM-g-3oxDU8=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:30*",
-      "evento": "Wimbledon 2° Turno: Flavio Cobolli (Ita) vs Duckworth",
-      "competizione": "Tennis - Grande Slam Wimbledon",
+      "orario": "15:40",
+      "evento": "Singolare maschile: Matteo Berrettini (ITA) vs Arthur Fils (FRA)",
+      "competizione": "Wimbledon 2026",
       "canale": "Sky Sport",
-      "note": "Non prima delle 15:30 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_w_3UKz0LYMH8DcOa2Jqo9veT90jJfjy9dyMZko5mgl6MEgqoB-h1y-uNhyBcNb2WW2C8SAszSTQMF1z91k8web3EuR_2sI1bQVifMQZBlLyPWCGlM3-fddNVv5k5RwujxwjKibJRVagS3RYXDACgssfRtvH4aM-g-3oxDU8=",
+      "note": "Campo Centrale",
+      "fonte": "LaPresse",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00*",
+      "evento": "Singolare maschile: Jannik Sinner (ITA) vs Jenson Brooksby (USA)",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena",
+      "note": "Secondo match a partire dalle 14:00 sul Campo 1",
+      "fonte": "Olympics.com, Sky Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "17:30*",
-      "evento": "Wimbledon 2° Turno: Jasmine Paolini (Ita) vs Golubic (Svi)",
-      "competizione": "Tennis - Grande Slam Wimbledon",
-      "canale": "Sky Sport 252",
-      "note": "Non prima delle 17:30 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1QliTKU1QwiQ4GnOx8eq6OjPUmYTuYDHlf0PvKxIETvGnzrwI1jivceVcl7h1JMIMW5aF_AJfh_JBZuam7YAOfDiFcLno83bFf2sawul3DxiwjZaXzfxt0e3yHzZZRYZHupyF-sgE97mdcXm4Uo_B0rKq0Pj03q0KzcXfUKnikvdYnWEnGg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_w_3UKz0LYMH8DcOa2Jqo9veT90jJfjy9dyMZko5mgl6MEgqoB-h1y-uNhyBcNb2WW2C8SAszSTQMF1z91k8web3EuR_2sI1bQVifMQZBlLyPWCGlM3-fddNVv5k5RwujxwjKibJRVagS3RYXDACgssfRtvH4aM-g-3oxDU8=",
-      "accuratezza_orario": "stimato"
+      "orario": "17:30",
+      "evento": "Qualifiche Sprint",
+      "competizione": "Formula 1 - GP Gran Bretagna 2026",
+      "canale": "Sky Sport F1 HD, TV8",
+      "note": "Diretta anche su TV8",
+      "fonte": "Automoto.it, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:05",
+      "evento": "GP Olanda: Gara (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Mondiali 2026: Spagna - Austria",
-      "competizione": "Calcio - Mondiali 2026",
-      "canale": "Rai 1, DAZN",
-      "note": "Sedicesimi di finale",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3rQEoGi3nJklhj1nRl8ruVuNheNQqPe1nPJY72u6pr-vekDHCy9Y9kWyZloDrjwVHRFAuniVySiF9RYhKsuWPC1lqiVHkYhmD-7uquZnnCctBcquOAzybXy95De3Y3ZbkAgea, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc1h6gx80KyqmQidSpc-yGe4HMzXP-6Rg1xBIKj2EdSYjXAcb0GPXNk7MUQFKLDiQog4v3jUtKCAvY_r_6P_J-y0INi4kfYqH9vWu-Zrn0--R_rmBx4mPAJ0QUQW7xsICAK3SZu-G9kLN4CianD8CiJOfAnzHni9tBljY-nFV_nn7yLyEzgG4uyF7bQe4Tt7c7khq8z8th2wERlU63mOrKoZS3eqOGDIDrSlhg73OiYCpsAi7CKp9ilmoMI6Gs-5zcU5LJjcOILQYB2uW2idlJBqi_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBoStTsYNcViUec1avXRB6CWRIkfwclvS1n7F3IRY2730IEE3OtNw_tMMqoZXceWldr_kOQ9J2XTHD56Y-LQHyUxPhc2jWtnxS9VmliOXvXQ6WcxNAKgqmM3blLNZBLQch9kRxiBx9ijOadbhjTKyUOdwTSR0B75aNNvBUOo8wSw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLlXTrw-S8E-GP65h7eVFh0zBPIIIJhQnIb9x7GWUgeB23iXy9gziI8hgn80rics-fxYQEvsSMi0Y7nt6eX5oISdWysu8RySTwjKxnifMyZJMyb4htPMw-y71EIClcL3bVMCTlAz3yi81p35yLL9AAD1wGLJgsijsZFMr_SKOR-to93TWBpuakB919IdgJi57_PVcEb7254tBf6LTNXkOs2qzt9zg-zL_nPzcaZeR2yQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZw99eRnWb4uYVZTWDT4qtQK2ZFJcqaSd1u99pSb16sU9eXLKgAzncGxUtov3BwKZTKaZGX_gB1VmA_6O2M4FgYxx7_7t7sfCIZbPmM6ndghq_9VT602jQFKXkno-dhQKpqlPEJCAE_kOQAM-bGK9bcaxeFm57cdbleUusYA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_w_3UKz0LYMH8DcOa2Jqo9veT90jJfjy9dyMZko5mgl6MEgqoB-h1y-uNhyBcNb2WW2C8SAszSTQMF1z91k8web3EuR_2sI1bQVifMQZBlLyPWCGlM3-fddNVv5k5RwujxwjKibJRVagS3RYXDACgssfRtvH4aM-g-3oxDU8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDD-6WE8FYMt6HYD5xuvbOfOPqm5V3C5Jlx-laqV5b2heg86QdrAvJO2k3e8vrkCOqPzJTpIwBpW-m4lLtn3KVpCr8CfXIhpSNU9YJ9hopM7VhIYQhOetNzCkoJNOzsM3zes3M9tnPgp6gMI77qBICrNk8cv-8bOtc2En9R10aWAt_01ytghxkbZSSzhSSgpHuMAp6kSZAiMpXyOcNUTI0S_xmlTKZE2Cnre0x9vtqbw==",
+      "evento": "GP Italia: Sprint Race (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "Mondiali 2026: Portogallo - Croazia",
-      "competizione": "Calcio - Mondiali 2026",
-      "canale": "DAZN",
-      "note": "Sedicesimi di finale (3 luglio)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLlXTrw-S8E-GP65h7eVFh0zBPIIIJhQnIb9x7GWUgeB23iXy9gziI8hgn80rics-fxYQEvsSMi0Y7nt6eX5oISdWysu8RySTwjKxnifMyZJMyb4htPMw-y71EIClcL3bVMCTlAz3yi81p35yLL9AAD1wGLJgsijsZFMr_SKOR-to93TWBpuakB919IdgJi57_PVcEb7254tBf6LTNXkOs2qzt9zg-zL_nPzcaZeR2yQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_w_3UKz0LYMH8DcOa2Jqo9veT90jJfjy9dyMZko5mgl6MEgqoB-h1y-uNhyBcNb2WW2C8SAszSTQMF1z91k8web3EuR_2sI1bQVifMQZBlLyPWCGlM3-fddNVv5k5RwujxwjKibJRVagS3RYXDACgssfRtvH4aM-g-3oxDU8=",
+      "orario": "21:45",
+      "evento": "GP Italia: Gara (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00",
-      "evento": "Mondiali 2026: Svizzera - Algeria",
-      "competizione": "Calcio - Mondiali 2026",
-      "canale": "DAZN",
-      "note": "Sedicesimi di finale (3 luglio)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLlXTrw-S8E-GP65h7eVFh0zBPIIIJhQnIb9x7GWUgeB23iXy9gziI8hgn80rics-fxYQEvsSMi0Y7nt6eX5oISdWysu8RySTwjKxnifMyZJMyb4htPMw-y71EIClcL3bVMCTlAz3yi81p35yLL9AAD1wGLJgsijsZFMr_SKOR-to93TWBpuakB919IdgJi57_PVcEb7254tBf6LTNXkOs2qzt9zg-zL_nPzcaZeR2yQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_w_3UKz0LYMH8DcOa2Jqo9veT90jJfjy9dyMZko5mgl6MEgqoB-h1y-uNhyBcNb2WW2C8SAszSTQMF1z91k8web3EuR_2sI1bQVifMQZBlLyPWCGlM3-fddNVv5k5RwujxwjKibJRVagS3RYXDACgssfRtvH4aM-g-3oxDU8=",
+      "orario": "00:00",
+      "evento": "GP Catalogna: Sprint Race (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "In onda il 4 luglio",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:45",
+      "evento": "GP Catalogna: Gara (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "In onda il 4 luglio",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:05",
+      "evento": "GP Olanda: Gara (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "In onda il 4 luglio",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "GP Italia: Sprint Race (Replica)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": "In onda il 4 luglio",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
