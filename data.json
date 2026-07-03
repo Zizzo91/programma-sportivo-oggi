@@ -1,85 +1,103 @@
 {
-  "last_updated": "2026-07-03T15:39:00.794415+02:00",
+  "last_updated": "2026-07-03T20:59:28.201355+02:00",
   "events": [
     {
       "orario": "01:00",
-      "evento": "Portogallo-Croazia",
+      "evento": "Portogallo - Croazia",
       "competizione": "Mondiali 2026 - Sedicesimi di finale",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcP6rEB_Ddw2Nqhshh_yPk33LfT7bk8r_ZCtwwrRs8omrBR-IgyR0deZM-irxdZ0EHbvABUYS6zQmlezmUbLA8bpkst_fJ5RJ4L79TX1re_O6JAw2AiYknP2GNIM8cyxd6bGxHC-TFMbe9iysYay2HPv_FV7kpFKFcU4xrdBv_yA==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0kBatyS5cwb9etiF8OViqgU9fwYYXsK-HYI2gkYzFM2urqVxABag0Cn6t85zwIEb65kd8NIBjJU66WpRhetooORL1Au2YoFpKhzr82m5N7R6n24US2HsaL3QytjrcxnBlBBh9DUBarE3rN-rKNB4UQfzunlpPfRm5RZVyA5eXJA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:00",
-      "evento": "Svizzera-Algeria",
+      "evento": "Svizzera - Algeria",
       "competizione": "Mondiali 2026 - Sedicesimi di finale",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcP6rEB_Ddw2Nqhshh_yPk33LfT7bk8r_ZCtwwrRs8omrBR-IgyR0deZM-irxdZ0EHbvABUYS6zQmlezmUbLA8bpkst_fJ5RJ4L79TX1re_O6JAw2AiYknP2GNIM8cyxd6bGxHC-TFMbe9iysYay2HPv_FV7kpFKFcU4xrdBv_yA==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0kBatyS5cwb9etiF8OViqgU9fwYYXsK-HYI2gkYzFM2urqVxABag0Cn6t85zwIEb65kd8NIBjJU66WpRhetooORL1Au2YoFpKhzr82m5N7R6n24US2HsaL3QytjrcxnBlBBh9DUBarE3rN-rKNB4UQfzunlpPfRm5RZVyA5eXJA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:30",
-      "evento": "F1 - Prove Libere 1",
-      "competizione": "Formula 1 - GP Gran Bretagna (Silverstone)",
+      "evento": "Formula 1 - Prove Libere 1",
+      "competizione": "GP Gran Bretagna 2026",
       "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHExXLvTM37tUI8wqajsfHCxHLba5DzmRVbFScg6ulVkqQeDikAPVFdqwr5ahDCRwtZmO1Hln00xeVd7PJMqxfkNfKlTspi5Ly-ITqsU-xxg2OxQgr664KdOhIFSl0YaYHz_kv2lXgyNpst0Fs4feBOD_F2kKMJqXX6BFOUQbF-GRZapPedIL7_1ytxo9yoQAE6eHoF9joeCR1DRaNA1OZ3l-rQgD6h39NDlWI=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP4nCjLDxnl8d5WZk6Xil44Ifk65__-c3rvLNCxqpkSG0GTc9TDh3cfO3mEYLWNjZjKXwtZ188TQz31RV2I-pBz3aYDl5ZQw14PVuIFSNzz4dkZGGMvt6dWIL4jCwx0qlFUkBcT5nGJI_39EJnBJLoBEmvIx8DeBt_CXSoyDmEF56UcoogWVdGySrhA3qutJoWZShpIroCPz_t-tcdXVo_DZ80IiToCy5SfZ786HpVeXy8EDpdnWeHntfOBDuoQi-VFUc5d_SeCnfDDFq_9mVzf6VxvU0CwGQIq7fCbVG5tQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00*",
-      "evento": "Tennis - Jannik Sinner vs Jenson Brooksby (3° turno)",
-      "competizione": "Wimbledon 2026 - Singolare Maschile",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW",
-      "note": "Secondo match dal 14:00 sul Campo 1. L'orario esatto dipenderà dalla durata del match precedente.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf938airINyvmlDisLG5pI2am6f68qaTFjwKVMlNjJasvJnZZCQRBvvsQavogfxXkJLFwFvp1Si2iupE-ONHq2-AEWQfaitqr2av1I_ubb-nJ4WCVi6DNz9-IfvhvYvxESsyJURSY-6JdU6RXa0iE2GsarpcthWmvmfQsbVCYoR5LjMrHicrmAgtkPVQp8pxrKETOGgqkamQx9vdTEO_8f2B4vIw==",
+      "orario": "14:00",
+      "evento": "Croazia - Italia",
+      "competizione": "Europei Under 19",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7-5HizZdwn99ybwmklJ7AsYkUSqCpKGYH3iZYV7dcJ9pgTBoOEvxlEjKNfGSQRMogse2gcxiCkoH6ETspeEREunC_MSd7l6sS-ydh1zWF9NeoRrBlF4Ja3DCjJ_yTNtR06WY8lvsUUGttsC9xlgZCOvULxV1FVkq7PNOA85uE6QBtNJROgVON3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKk3wiht2CmuPI6uSJ0s6JRtH5PREuA66D1aIrBRQ0oSN21MgdbSxhz6o6FzLVmOC_uPTJwBxznSjAAoG21eHOEJ8XUcvHQRbq-Ia7TWxCtidz0L6yqfuzfaZ2tszZFHkM1g0bpKw2w5bLpCS_mQBQOn0m2zpxwMnK52Gf7-QKv_dD6AiwYr6k5g==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30*",
+      "evento": "Jannik Sinner (ITA) vs Jenson Brooksby (USA)",
+      "competizione": "Tennis - Wimbledon 2026 (3° Turno)",
+      "canale": "Sky Sport Uno, Sky Sport Wimbledon 1 (251)",
+      "note": "2° match sul Campo 1, dopo Kasatkina-Osaka (inizia alle 14:00 CET). Orario stimato tra 15:30 e 16:30 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENKGwdH7npGs52D80M9L7OkMnvGS-W8vLUvbaZnCPkr1bBU1amk7P_AUSDZb9j2Qlb3do6VDSyTt5b4QZ0mGWLHOb_PrhfVSDqw-W5n7FNUkp8wOYJJJC3Wwb0tx0B4XH8zsuyDo-OyCRa2BWdO5Ta0aINujI3kRbPYipEyVUaxfKyfdFkaxg49EM8gbrQbYZrL2Eiab38LV0BzbtYCK1r_2MOWA==",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "17:30",
-      "evento": "F1 - Qualifiche Sprint Race",
-      "competizione": "Formula 1 - GP Gran Bretagna (Silverstone)",
+      "evento": "Formula 1 - Qualifiche Sprint",
+      "competizione": "GP Gran Bretagna 2026",
       "canale": "Sky Sport F1, TV8",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHExXLvTM37tUI8wqajsfHCxHLba5DzmRVbFScg6ulVkqQeDikAPVFdqwr5ahDCRwtZmO1Hln00xeVd7PJMqxfkNfKlTspi5Ly-ITqsU-xxg2OxQgr664KdOhIFSl0YaYHz_kv2lXgyNpst0Fs4feBOD_F2kKMJqXX6BFOUQbF-GRZapPedIL7_1ytxo9yoQAE6eHoF9joeCR1DRaNA1OZ3l-rQgD6h39NDlWI=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-7gEHVDhRZy4ZaY3a0-G8TWkxFGi5wz54tJdNGvOxYlCpE5JSSPFT7P9qipYDWGJ7cWCe4c155kEQEMdOT61buFvGg56ZkZj6Lww4FiED7zZKLpX0u_CRLrrMjtHQ6coOqHU14q4K96bcGc9Sztx-w8yYrJAPGMXVFnAWH6I0MVXaJ4gknom4-SxKZtB2ruYZSvMcW-ZAbX7ICYuB4rHAEy8KwYEuCxQsGIsq82twR0PCPS5ahj8iALBSoU7NB6KmY0OnTjZhraM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP4nCjLDxnl8d5WZk6Xil44Ifk65__-c3rvLNCxqpkSG0GTc9TDh3cfO3mEYLWNjZjKXwtZ188TQz31RV2I-pBz3aYDl5ZQw14PVuIFSNzz4dkZGGMvt6dWIL4jCwx0qlFUkBcT5nGJI_39EJnBJLoBEmvIx8DeBt_CXSoyDmEF56UcoogWVdGySrhA3qutJoWZShpIroCPz_t-tcdXVo_DZ80IiToCy5SfZ786HpVeXy8EDpdnWeHntfOBDuoQi-VFUc5d_SeCnfDDFq_9mVzf6VxvU0CwGQIq7fCbVG5tQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:05",
+      "evento": "Finale Scudetto - ev. gara 5",
+      "competizione": "Pallanuoto Serie A1 maschile",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7-5HizZdwn99ybwmklJ7AsYkUSqCpKGYH3iZYV7dcJ9pgTBoOEvxlEjKNfGSQRMogse2gcxiCkoH6ETspeEREunC_MSd7l6sS-ydh1zWF9NeoRrBlF4Ja3DCjJ_yTNtR06WY8lvsUUGttsC9xlgZCOvULxV1FVkq7PNOA85uE6QBtNJROgVON3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKk3wiht2CmuPI6uSJ0s6JRtH5PREuA66D1aIrBRQ0oSN21MgdbSxhz6o6FzLVmOC_uPTJwBxznSjAAoG21eHOEJ8XUcvHQRbq-Ia7TWxCtidz0L6yqfuzfaZ2tszZFHkM1g0bpKw2w5bLpCS_mQBQOn0m2zpxwMnK52Gf7-QKv_dD6AiwYr6k5g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWcfMiQpoXdIw4iah4fdLWirg6o7ga1a5LU7EWmKY0AtQWu88p8954m8mwAnTOncD-HHf6Hu-RKUGpnVftRjn8UujQ_WwhEDa_cbdea0vABDQ6M_BJUuFOa8wPOQYx03KnIHGE65BWg9fHP0mSbngJ6jUjQs8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "Australia-Egitto",
+      "evento": "Australia - Egitto",
       "competizione": "Mondiali 2026 - Sedicesimi di finale",
-      "canale": "DAZN",
+      "canale": "DAZN, Rai 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcP6rEB_Ddw2Nqhshh_yPk33LfT7bk8r_ZCtwwrRs8omrBR-IgyR0deZM-irxdZ0EHbvABUYS6zQmlezmUbLA8bpkst_fJ5RJ4L79TX1re_O6JAw2AiYknP2GNIM8cyxd6bGxHC-TFMbe9iysYay2HPv_FV7kpFKFcU4xrdBv_yA==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0kBatyS5cwb9etiF8OViqgU9fwYYXsK-HYI2gkYzFM2urqVxABag0Cn6t85zwIEb65kd8NIBjJU66WpRhetooORL1Au2YoFpKhzr82m5N7R6n24US2HsaL3QytjrcxnBlBBh9DUBarE3rN-rKNF4UQfzunlpPfRm5RZVyA5eXJA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "TBA",
-      "evento": "Tennis - Sara Errani/Jasmine Paolini (doppio femminile)",
-      "competizione": "Wimbledon 2026 - Doppio Femminile",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW",
-      "note": "Terzo match dal 12:00. L'orario esatto dipenderà dalla durata dei match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf938airINyvmlDisLG5pI2am6f68qaTFjwKVMlNjJasvJnZZCQRBvvsQavogfxXkJLFwFvp1Si2iupE-ONHq2-AEWQfaitqr2av1I_ubb-nJ4WCVi6DNz9-IfvhvYvxESsyJURSY-6JdU6RXa0iE2GsarpcthWmvmfQsbVCYoR5LjMrHicrmAgtkPVQp8pxrKETOGgqkamQx9vdTEO_8f2B4vIw==",
+      "evento": "Sara Errani/Jasmine Paolini (ITA) vs Mariia Kozyreva/Iryna Shymanovich",
+      "competizione": "Tennis - Wimbledon 2026 (3° Turno Doppio)",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
+      "note": "3° match della sessione diurna. Le partite sui campi esterni iniziano generalmente alle 12:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENKGwdH7npGs52D80M9L7OkMnvGS-W8vLUvbaZnCPkr1bBU1amk7P_AUSDZb9j2Qlb3do6VDSyTt5b4QZ0mGWLHOb_PrhfVSDqw-W5n7FNUkp8wOYJJJC3Wwb0tx0B4XH8zsuyDo-OyCRa2BWdO5Ta0aINujI3kRbPYipEyVUaxfKyfdFkaxg49EM8gbrQbYZrL2Eiab38LV0BzbtYCK1r_2MOWA==",
       "accuratezza_orario": "tba"
     },
     {
       "orario": "00:00",
-      "evento": "Argentina-Capo Verde",
+      "evento": "Argentina - Capo Verde",
       "competizione": "Mondiali 2026 - Sedicesimi di finale",
-      "canale": "Rai 1, DAZN, Rai Play",
-      "note": "(Già 4 luglio CET)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiK1fxFUR2YQklEzhiaH0sspEr1bK4t_6PK4Z0AJTVL8UyaSdW59QSPEdNsxq8F-ZavCW4EslMePrb6rYBnnzr-lzsCF1paIDRVNfmYyET7-b05r6O2ggTvzT1G7N-wrUvO_km7jrv-mPDv4j-83S__Afs3etjIaa_9QNtBCJe62NRS8tK6H1y6paGSjxh9AAlAWdYYOVZ6OFIk8T5YHkalcEqGzeB9OTKXirA0PPL5A==",
+      "canale": "DAZN, Rai 1",
+      "note": "Già il 4 luglio, ma entro le 06:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYVDsTM-O2ooL9d8BCMgJh6NZcUqttxxG9BIM9iPh3htBDeb1xs-n2s6yADGj8RSV5WxSouTLeC_4S_nxIAvyJ4Ba7S6oU2oZoWR76I9GalTLLl1vNiyO_uzVj9qN8c7pQKS8KiwxGJzKFfIPHpuM9cg0YBxro5Nlrt75an9Rbfs70IbesHMBrsAmLTaCKVPabVuDmLk_pan3bkXbwP49cnnVSBy-vezMKf7Nj58KgA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:30",
-      "evento": "Colombia-Ghana",
+      "evento": "Colombia - Ghana",
       "competizione": "Mondiali 2026 - Sedicesimi di finale",
       "canale": "DAZN",
-      "note": "(Già 4 luglio CET)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcP6rEB_Ddw2Nqhshh_yPk33LfT7bk8r_ZCtwwrRs8omrBR-IgyR0deZM-irxdZ0EHbvABUYS6zQmlezmUbLA8bpkst_fJ5RJ4L79TX1re_O6JAw2AiYknP2GNIM8cyxd6bGxHC-TFMbe9iysYay2HPv_FV7kpFKFcU4xrdBv_yA==",
+      "note": "Già il 4 luglio, ma entro le 06:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYVDsTM-O2ooL9d8BCMgJh6NZcUqttxxG9BIM9iPh3htBDeb1xs-n2s6yADGj8RSV5WxSouTLeC_4S_nxIAvyJ4Ba7S6oU2oZoWR76I9GalTLLl1vNiyO_uzVj9qN8c7pQKS8KiwxGJzKFfIPH7fU-k6QO9zU1sE37836q-Lw5an9Rbfs70IbesHMBrsAmLTaCKVPabVuDmLk_pan3bkXbwP49cnnVSBy-vezMKf7Nj58KgA==",
       "accuratezza_orario": "esatto"
     }
   ]
