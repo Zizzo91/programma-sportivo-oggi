@@ -1,103 +1,175 @@
 {
-  "last_updated": "2026-07-03T20:59:28.201355+02:00",
+  "last_updated": "2026-07-04T03:49:13.347092+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "Portogallo - Croazia",
-      "competizione": "Mondiali 2026 - Sedicesimi di finale",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0kBatyS5cwb9etiF8OViqgU9fwYYXsK-HYI2gkYzFM2urqVxABag0Cn6t85zwIEb65kd8NIBjJU66WpRhetooORL1Au2YoFpKhzr82m5N7R6n24US2HsaL3QytjrcxnBlBBh9DUBarE3rN-rKNB4UQfzunlpPfRm5RZVyA5eXJA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Svizzera - Algeria",
-      "competizione": "Mondiali 2026 - Sedicesimi di finale",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0kBatyS5cwb9etiF8OViqgU9fwYYXsK-HYI2gkYzFM2urqVxABag0Cn6t85zwIEb65kd8NIBjJU66WpRhetooORL1Au2YoFpKhzr82m5N7R6n24US2HsaL3QytjrcxnBlBBh9DUBarE3rN-rKNB4UQfzunlpPfRm5RZVyA5eXJA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Formula 1 - Prove Libere 1",
-      "competizione": "GP Gran Bretagna 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP4nCjLDxnl8d5WZk6Xil44Ifk65__-c3rvLNCxqpkSG0GTc9TDh3cfO3mEYLWNjZjKXwtZ188TQz31RV2I-pBz3aYDl5ZQw14PVuIFSNzz4dkZGGMvt6dWIL4jCwx0qlFUkBcT5nGJI_39EJnBJLoBEmvIx8DeBt_CXSoyDmEF56UcoogWVdGySrhA3qutJoWZShpIroCPz_t-tcdXVo_DZ80IiToCy5SfZ786HpVeXy8EDpdnWeHntfOBDuoQi-VFUc5d_SeCnfDDFq_9mVzf6VxvU0CwGQIq7fCbVG5tQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Croazia - Italia",
-      "competizione": "Europei Under 19",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7-5HizZdwn99ybwmklJ7AsYkUSqCpKGYH3iZYV7dcJ9pgTBoOEvxlEjKNfGSQRMogse2gcxiCkoH6ETspeEREunC_MSd7l6sS-ydh1zWF9NeoRrBlF4Ja3DCjJ_yTNtR06WY8lvsUUGttsC9xlgZCOvULxV1FVkq7PNOA85uE6QBtNJROgVON3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKk3wiht2CmuPI6uSJ0s6JRtH5PREuA66D1aIrBRQ0oSN21MgdbSxhz6o6FzLVmOC_uPTJwBxznSjAAoG21eHOEJ8XUcvHQRbq-Ia7TWxCtidz0L6yqfuzfaZ2tszZFHkM1g0bpKw2w5bLpCS_mQBQOn0m2zpxwMnK52Gf7-QKv_dD6AiwYr6k5g==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30*",
-      "evento": "Jannik Sinner (ITA) vs Jenson Brooksby (USA)",
-      "competizione": "Tennis - Wimbledon 2026 (3° Turno)",
-      "canale": "Sky Sport Uno, Sky Sport Wimbledon 1 (251)",
-      "note": "2° match sul Campo 1, dopo Kasatkina-Osaka (inizia alle 14:00 CET). Orario stimato tra 15:30 e 16:30 CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENKGwdH7npGs52D80M9L7OkMnvGS-W8vLUvbaZnCPkr1bBU1amk7P_AUSDZb9j2Qlb3do6VDSyTt5b4QZ0mGWLHOb_PrhfVSDqw-W5n7FNUkp8wOYJJJC3Wwb0tx0B4XH8zsuyDo-OyCRa2BWdO5Ta0aINujI3kRbPYipEyVUaxfKyfdFkaxg49EM8gbrQbYZrL2Eiab38LV0BzbtYCK1r_2MOWA==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:30",
-      "evento": "Formula 1 - Qualifiche Sprint",
-      "competizione": "GP Gran Bretagna 2026",
-      "canale": "Sky Sport F1, TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-7gEHVDhRZy4ZaY3a0-G8TWkxFGi5wz54tJdNGvOxYlCpE5JSSPFT7P9qipYDWGJ7cWCe4c155kEQEMdOT61buFvGg56ZkZj6Lww4FiED7zZKLpX0u_CRLrrMjtHQ6coOqHU14q4K96bcGc9Sztx-w8yYrJAPGMXVFnAWH6I0MVXaJ4gknom4-SxKZtB2ruYZSvMcW-ZAbX7ICYuB4rHAEy8KwYEuCxQsGIsq82twR0PCPS5ahj8iALBSoU7NB6KmY0OnTjZhraM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP4nCjLDxnl8d5WZk6Xil44Ifk65__-c3rvLNCxqpkSG0GTc9TDh3cfO3mEYLWNjZjKXwtZ188TQz31RV2I-pBz3aYDl5ZQw14PVuIFSNzz4dkZGGMvt6dWIL4jCwx0qlFUkBcT5nGJI_39EJnBJLoBEmvIx8DeBt_CXSoyDmEF56UcoogWVdGySrhA3qutJoWZShpIroCPz_t-tcdXVo_DZ80IiToCy5SfZ786HpVeXy8EDpdnWeHntfOBDuoQi-VFUc5d_SeCnfDDFq_9mVzf6VxvU0CwGQIq7fCbVG5tQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:05",
-      "evento": "Finale Scudetto - ev. gara 5",
-      "competizione": "Pallanuoto Serie A1 maschile",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7-5HizZdwn99ybwmklJ7AsYkUSqCpKGYH3iZYV7dcJ9pgTBoOEvxlEjKNfGSQRMogse2gcxiCkoH6ETspeEREunC_MSd7l6sS-ydh1zWF9NeoRrBlF4Ja3DCjJ_yTNtR06WY8lvsUUGttsC9xlgZCOvULxV1FVkq7PNOA85uE6QBtNJROgVON3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKk3wiht2CmuPI6uSJ0s6JRtH5PREuA66D1aIrBRQ0oSN21MgdbSxhz6o6FzLVmOC_uPTJwBxznSjAAoG21eHOEJ8XUcvHQRbq-Ia7TWxCtidz0L6yqfuzfaZ2tszZFHkM1g0bpKw2w5bLpCS_mQBQOn0m2zpxwMnK52Gf7-QKv_dD6AiwYr6k5g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWcfMiQpoXdIw4iah4fdLWirg6o7ga1a5LU7EWmKY0AtQWu88p8954m8mwAnTOncD-HHf6Hu-RKUGpnVftRjn8UujQ_WwhEDa_cbdea0vABDQ6M_BJUuFOa8wPOQYx03KnIHGE65BWg9fHP0mSbngJ6jUjQs8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Australia - Egitto",
-      "competizione": "Mondiali 2026 - Sedicesimi di finale",
-      "canale": "DAZN, Rai 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0kBatyS5cwb9etiF8OViqgU9fwYYXsK-HYI2gkYzFM2urqVxABag0Cn6t85zwIEb65kd8NIBjJU66WpRhetooORL1Au2YoFpKhzr82m5N7R6n24US2HsaL3QytjrcxnBlBBh9DUBarE3rN-rKNF4UQfzunlpPfRm5RZVyA5eXJA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Sara Errani/Jasmine Paolini (ITA) vs Mariia Kozyreva/Iryna Shymanovich",
-      "competizione": "Tennis - Wimbledon 2026 (3° Turno Doppio)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
-      "note": "3° match della sessione diurna. Le partite sui campi esterni iniziano generalmente alle 12:00 CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENKGwdH7npGs52D80M9L7OkMnvGS-W8vLUvbaZnCPkr1bBU1amk7P_AUSDZb9j2Qlb3do6VDSyTt5b4QZ0mGWLHOb_PrhfVSDqw-W5n7FNUkp8wOYJJJC3Wwb0tx0B4XH8zsuyDo-OyCRa2BWdO5Ta0aINujI3kRbPYipEyVUaxfKyfdFkaxg49EM8gbrQbYZrL2Eiab38LV0BzbtYCK1r_2MOWA==",
-      "accuratezza_orario": "tba"
-    },
-    {
       "orario": "00:00",
-      "evento": "Argentina - Capo Verde",
-      "competizione": "Mondiali 2026 - Sedicesimi di finale",
-      "canale": "DAZN, Rai 1",
-      "note": "Già il 4 luglio, ma entro le 06:00 CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYVDsTM-O2ooL9d8BCMgJh6NZcUqttxxG9BIM9iPh3htBDeb1xs-n2s6yADGj8RSV5WxSouTLeC_4S_nxIAvyJ4Ba7S6oU2oZoWR76I9GalTLLl1vNiyO_uzVj9qN8c7pQKS8KiwxGJzKFfIPHpuM9cg0YBxro5Nlrt75an9Rbfs70IbesHMBrsAmLTaCKVPabVuDmLk_pan3bkXbwP49cnnVSBy-vezMKf7Nj58KgA==",
+      "evento": "Argentina-Capo Verde",
+      "competizione": "Mondiali 2026 - Ottavi di Finale",
+      "canale": "DAZN, RAI 1",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 4 luglio 2026: Argentina-Capo Verde e le altre sfide del giorno",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:30",
-      "evento": "Colombia - Ghana",
-      "competizione": "Mondiali 2026 - Sedicesimi di finale",
+      "evento": "Colombia-Ghana",
+      "competizione": "Mondiali 2026 - Sedicesimi di Finale",
       "canale": "DAZN",
-      "note": "Già il 4 luglio, ma entro le 06:00 CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYVDsTM-O2ooL9d8BCMgJh6NZcUqttxxG9BIM9iPh3htBDeb1xs-n2s6yADGj8RSV5WxSouTLeC_4S_nxIAvyJ4Ba7S6oU2oZoWR76I9GalTLLl1vNiyO_uzVj9qN8c7pQKS8KiwxGJzKFfIPH7fU-k6QO9zU1sE37836q-Lw5an9Rbfs70IbesHMBrsAmLTaCKVPabVuDmLk_pan3bkXbwP49cnnVSBy-vezMKf7Nj58KgA==",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 4 luglio 2026: Argentina-Capo Verde e le altre sfide del giorno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:10",
+      "evento": "All Blacks-Francia",
+      "competizione": "Rugby Nations Championship 2026",
+      "canale": "Sky Sport Max",
+      "note": "",
+      "fonte": "Rugby in diretta: la programmazione TV e streaming di sabato 4 e domenica 5 luglio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:40",
+      "evento": "Giappone-Italia",
+      "competizione": "Rugby Nations Championship 2026",
+      "canale": "Sky Sport Max, TV8, Cielo",
+      "note": "Disponibile anche in streaming gratuito su tv8.it",
+      "fonte": "Rugby in diretta: la programmazione TV e streaming di sabato 4 e domenica 5 luglio, orari di MotoGP, F1, SBK e calcio - TV8",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Australia-Irlanda",
+      "competizione": "Rugby Nations Championship 2026",
+      "canale": "Sky Sport Max",
+      "note": "",
+      "fonte": "Rugby in diretta: la programmazione TV e streaming di sabato 4 e domenica 5 luglio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00*",
+      "evento": "Flavio Cobolli vs Karen Khachanov",
+      "competizione": "Tennis - Wimbledon 2026 (Terzo Turno)",
+      "canale": "Sky Sport",
+      "note": "Orario stimato, il match è sul Court 2 dopo Kostyuk-Navarro. I canali Sky Sport dedicati a Wimbledon (Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251-256, Sky Sport 4K) trasmetteranno il torneo.",
+      "fonte": "Wimbledon, il programma di sabato 4 luglio: Berrettini sul Centrale, e gli altri tre italiani..., Italiani a Wimbledon 2026 oggi: le partite del 4 luglio, Wimbledon 2026, quando giocano Sinner, Cobolli, Berrettini, Sonego, Paolini, Errani: orari partite e dove vederle",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Mondiale Formula 1 2026 - GP Gran Bretagna: Sprint Race",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD, TV8",
+      "note": "Diretta su Sky Sport F1 HD e TV8.",
+      "fonte": "Calendario F1 2026: date e orari Gran Premi di Formula 1, Sky Sport Uno : Programmi TV e Palinsesto, Sport Pomeriggio - Guida TV, F1, GP Gran Bretagna 2026: orari e programma TV Sky e TV8 del weekend Sprint a Silverstone, Tv8 : Programmi TV e Palinsesto, F1, GP Gran Bretagna 2026: gli orari su TV8 da venerdì a domenica",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30*",
+      "evento": "Lorenzo Sonego vs Taylor Fritz",
+      "competizione": "Tennis - Wimbledon 2026 (Terzo Turno)",
+      "canale": "Sky Sport",
+      "note": "Orario stimato, il match è sul Court 2 dopo Cobolli. I canali Sky Sport dedicati a Wimbledon (Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251-256, Sky Sport 4K) trasmetteranno il torneo.",
+      "fonte": "Wimbledon, il programma di sabato 4 luglio: Berrettini sul Centrale, e gli altri tre italiani..., Italiani a Wimbledon 2026 oggi: le partite del 4 luglio, Wimbledon 2026, quando giocano Sinner, Cobolli, Berrettini, Sonego, Paolini, Errani: orari partite e dove vederle",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00",
+      "evento": "F1 Paddock Live Post Sprint",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, TV8",
+      "note": "Analisi post Sprint Race.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Tv8 : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30*",
+      "evento": "Jasmine Paolini vs Maria Sakkari",
+      "competizione": "Tennis - Wimbledon 2026 (Terzo Turno)",
+      "canale": "Sky Sport",
+      "note": "Orario stimato. I canali Sky Sport dedicati a Wimbledon (Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251-256, Sky Sport 4K) trasmetteranno il torneo.",
+      "fonte": "Italiani a Wimbledon 2026 oggi: le partite del 4 luglio",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:30",
+      "evento": "F1 Paddock Live Pre Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Pre-qualifiche del Gran Premio di Gran Bretagna.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Mondiale Formula 1 2026 - GP Gran Bretagna: Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "",
+      "fonte": "Calendario F1 2026: date e orari Gran Premi di Formula 1",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30*",
+      "evento": "Matteo Berrettini vs Grigor Dimitrov",
+      "competizione": "Tennis - Wimbledon 2026 (Terzo Turno)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, Sky Sport 251-256, Sky Sport 4K",
+      "note": "Orario stimato, il match è il terzo sul Campo Centrale dopo due incontri femminili.",
+      "fonte": "Wimbledon 2026, Berrettini-Dimitrov al terzo turno: a che ora si gioca e dove vederla in tv, Wimbledon, il programma di sabato 4 luglio: Berrettini sul Centrale, e gli altri tre italiani..., Dove vedere in tv Berrettini-Dimitrov, Wimbledon 2026: orario, programma 3° turno, streaming, Wimbledon 2026, Dimitrov-Berrettini: data, orario, pronostico e dove vedere",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:40",
+      "evento": "Sudafrica-Inghilterra",
+      "competizione": "Rugby Nations Championship 2026",
+      "canale": "Sky Sport Max",
+      "note": "",
+      "fonte": "Rugby in diretta: la programmazione TV e streaming di sabato 4 e domenica 5 luglio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Canada-Marocco",
+      "competizione": "Mondiali 2026 - Ottavi di Finale",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 4 luglio 2026: Argentina-Capo Verde e le altre sfide del giorno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Argentina-Scozia",
+      "competizione": "Rugby Nations Championship 2026",
+      "canale": "Sky Sport Max",
+      "note": "",
+      "fonte": "Rugby in diretta: la programmazione TV e streaming di sabato 4 e domenica 5 luglio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:45",
+      "evento": "Hl Show Wimbledon 2026 Ep.6",
+      "competizione": "Tennis - Wimbledon 2026",
+      "canale": "Sky Sport Tennis (205)",
+      "note": "Momenti salienti giornalieri di tennis, analisi e anteprime del giorno successivo.",
+      "fonte": "Hl Show Wimbledon 2026 Ep.6 04/07/2026 - Guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Paraguay-Francia",
+      "competizione": "Mondiali 2026 - Ottavi di Finale",
+      "canale": "DAZN, RAI 1",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 4 luglio 2026: Argentina-Capo Verde e le altre sfide del giorno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Fiji-Galles",
+      "competizione": "Rugby Nations Championship 2026",
+      "canale": "Sky Sport Max",
+      "note": "Differita.",
+      "fonte": "Rugby in diretta: la programmazione TV e streaming di sabato 4 e domenica 5 luglio",
       "accuratezza_orario": "esatto"
     }
   ]
