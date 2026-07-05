@@ -1,94 +1,67 @@
 {
-  "last_updated": "2026-07-05T15:04:14.511066+02:00",
+  "last_updated": "2026-07-05T20:59:03.348301+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Aspettando il GP Gran Bretagna",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxldBEEqgIKNAxR2bgTi69ofQX7L4NRB3jmrEVVBObzQgNfeFoBdMW-O4ln4yvNSEPe8jHHKfu76AAphib5np_kELMTOh2wQBk5e95ArocS2RHqXMts2-dpe4xwQI8S60qR_7Xxyp5FpQSmpdut2IL_J46",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:20",
-      "evento": "Mondiale Formula 3 2026-GP Gran Bretagna: Feature Race",
-      "competizione": "Formula 3",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxldBEEqgIKNAxR2bgTi69ofQX7L4NRB3jmrEVVBObzQgNfeFoBdMW-O4ln4yvNSEPe8jHHKfu76AAphib5np_kELMTOh2wQBk5e95ArocS2RHqXMts2-dpe4xwQI8S60qR_7Xxyp5FpQSmpdut2IL_J46",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "14:30*",
-      "evento": "Ottavi di finale: Jannik Sinner vs Mochizuki",
-      "competizione": "Tennis - Wimbledon",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
-      "note": "Terzo match del programma. Orario stimato.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfSjQumzaWQkweCVdjIYBOeQ72aw9670y6z1KTwumN20HgRpifFhBj51lImSYBisaru8GymvoPDEYT6L9z-Olk1f5vERZsRRi9EiJsXtmIAh4jfM1c1j_kyatfXEVpI_r-EuNGI2NiLkI0_gMT8BaX8lAqdj5AoXZ9X_wGuz0=",
+      "evento": "Tennis - Wimbledon: Jannik Sinner vs Shintaro Mochizuki (Ottavi di Finale)",
+      "competizione": "Grande Slam 2026 - Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K",
+      "note": "3° match sul campo principale. Disponibile anche in streaming su Sky Go e NOW.",
+      "fonte": "Sportface TV, OA Sport, Notizie.it, Wimbledon 2026 oggi (domenica 5 luglio): orari partite, canali tv, streaming, italiani in campo - OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Ottavi di finale: Errani/Vavassori vs Polmans/Hunter",
-      "competizione": "Tennis - Wimbledon (Doppio Misto)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
-      "note": "Orario da definire, dipendente dai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfSjQumzaWQkweCVdjIYBOeQ72aw9670y6z1KTwumN20HgRpifFhBj51lImSYBisaru8GymvoPDEYT6L9z-Olk1f5vERZsRRi9EiJsXtmIAh4jfM1c1j_kyatfXEVpI_r-EuNGI2NiLkI0_gMT8BaX8lAqdj5AoXZ9X_wGuz0=",
-      "accuratezza_orario": "tba"
+      "orario": "14:00*",
+      "evento": "Tennis - Wimbledon: Sara Errani/Andrea Vavassori vs Polmans/Hunter (Doppio Misto)",
+      "competizione": "Grande Slam 2026 - Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K",
+      "note": "4° match della giornata (su un campo da definire). Disponibile anche in streaming su Sky Go e NOW.",
+      "fonte": "Sportface TV, Wimbledon 2026 oggi (domenica 5 luglio): orari partite, canali tv, streaming, italiani in campo - OA Sport, LIVE Errani/Vavassori-Hunter/Polmans 3-6 4-2 Wimbledon 2026 in DIRETTA - OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "16:00",
-      "evento": "Gara: GP Gran Bretagna",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
-      "note": "Diretta.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm5Xj66SWEKti1qXJ1dEyTIOohRz52FqdeUnoSrN_V99mM3gjwz-X1t6sIasQvzN14XIh4FJbVbfd0LmNJ4RtuBRf_Ttdubq5s2fQpth1a3872y5XpZEFvtk2NHJD9BRmYaqJIsuMbZ8vR2KdydmqpDevaTs133JhwbCP37_bHwgIuHf3NaRqR0xTUmHjAl9oUJh9G2BvatbPmx0ezFkKC2ts4Dz4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfSjQumzaWQkweCVdjIYBOeQ72aw9670y6z1KTwumN20HgRpifFhBj51lImSYBisaru8GymvoPDEYT6L9z-Olk1f5vERZsRRi9EiJsXtmIAh4jfM1c1j_kyatfXEVpI_r-EuNGI2NiLkI0_gMT8BaX8lAqdj5AoXZ9X_wGuz0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHysBUHmdj8RpQhMARet3irciz_EyOxRzarqQOLQNDE3m8UuYtK9tlUDExq0LGv7ko-LsvaJ4Sutr7i7gMlVnTRC-2bHUi98H6Ww_3oKnwFl50T0gEj3Ty6-yePLEVwPW-Svlt-D4OzHqKVYrufPOvpf7eQyfMKXcp3JOdEsWcpx_GV9U29Fx69eWp353qR_JqskO89Ve7jxh_RG1_Zgk7mS3O2k2rn453Gi69Ns6VitVgoVf9exRPCzXKmUO1DKQ==",
+      "evento": "Formula 1 - GP Gran Bretagna: Gara",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Diretta. Disponibile anche in streaming su Sky Go e NOW.",
+      "fonte": "Sportface TV, Notizie.it, Sport in tv oggi (domenica 5 luglio): orari e programma. Dove vedere gli eventi in streaming, Formula 1 2026, Gp Gran Bretagna: orari tv e diretta streaming - L'Automobile - ACI, Calendario e orari TV Formula 1 2026 - Il mio tempo libero, F1, il GP di Silverstone batterà tutti i record di pubblico. In pista sarà show? Verstappen e Hamilton sono i più dubbiosi - Il Fatto Quotidiano, F1, GP Gran Bretagna 2026: programma, orari, tv, streaming - OA Sport, F1 in tv oggi: dove vedere GP di Gran Bretagna in diretta e streaming - Superscommesse",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Europei Under 19: Italia-Ucraina",
-      "competizione": "Calcio - Europei Under 19",
+      "evento": "Calcio - Europei Under 19: Italia-Ucraina",
+      "competizione": "Europei Under 19",
       "canale": "Rai Sport HD",
-      "note": "Diretta streaming su RaiPlay.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfSjQumzaWQkweCVdjIYBOeQ72aw9670y6z1KTwumN20HgRpifFhBj51lImSYBisaru8GymvoPDEYT6L9z-Olk1f5vERZsRRi9EiJsXtmIAh4jfM1c1j_kyatfXEVpI_r-EuNGI2NiLkI0_gMT8BaX8lAqdj5AoXZ9X_wGuz0=",
+      "note": "Diretta TV. Disponibile anche in streaming su RaiPlay.",
+      "fonte": "Sportface TV, Calcio in tv oggi, 5 luglio 2026: Brasile-Norvegia e le altre sfide del giorno - Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Gara: GP Gran Bretagna (Differita)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm5Xj66SWEKti1qXJ1dEyTIOohRz52FqdeUnoSrN_V99mM3gjwz-X1t6sIasQvzN14XIh4FJbVbfd0LmNJ4RtuBRf_Ttdubq5s2fQpth1a3872y5XpZEFvtk2NHJD9BRmYaqJIsuMbZ8vR2KdydmqpDevaTs133JhwbCP37_bHwgIuHf3NaRqR0xTUmHjAl9oUJh9G2BvatbPmx0ezFkKC2ts4Dz4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS1dX7XzBr9_RFDCLOEvLe6aj2HkQBTiMeRAVqB2b0t1NVr1TMmUCrTpm1iGuIRyXXv3q-Tmqfug7c_wZxX_ZnQgk522_JNZlXlZPMqjELZYN3WzO1eLwSC0NZPfd_-UNaOfo2kxr6gA42Ab_1KSo0PE8xV5r0B5RqDHsk97D9hZ82trk0tNRpUP_cMyBovcHVg84seMr7qaH7_OL_A2dftMmRm5lOpg7o93zKR3md8w9Lma1aIi0QWEMAIvgOUaN6acqN5zYY_mh3cD0WmM5QX4xbOYOPIUcDUCIuP_4c95hCFTaLonarPdU6MahyiGTQbh7Z_XED",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:20",
-      "evento": "F1 Paddock Live Post Gara",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXSPYswc59AtK1_4VWbib8eUL7ohNAt1DdeF7fxvS4pPdJERfx9afCuXkhqwmwzbIjxJxTc9tfwY9v6bIwUXW5gj8RoL_iB9aRZdery6hhhu_yNTEfjJSAtJisPmUTGS35xQZe71WeR_JHmJkI2DaWMh5dx670jAQfLSdkK8o=",
+      "evento": "Formula 1 - GP Gran Bretagna: Gara (Replica/Differita)",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "TV8 HD",
+      "note": "Differita TV in chiaro. Disponibile anche in streaming su tv8.it.",
+      "fonte": "Sportface TV, Formula 1 2026, Gp Gran Bretagna: orari tv e diretta streaming - L'Automobile - ACI, F1, il GP di Silverstone batterà tutti i record di pubblico. In pista sarà show? Verstappen e Hamilton sono i più dubbiosi - Il Fatto Quotidiano, F1 in tv oggi: dove vedere GP di Gran Bretagna in diretta e streaming - Superscommesse",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Mondiali 2026: Brasile-Norvegia",
-      "competizione": "Calcio - Mondiali 2026 (Ottavi di Finale)",
+      "evento": "Calcio - Mondiali 2026: Brasile-Norvegia (Ottavi di Finale)",
+      "competizione": "FIFA World Cup 2026",
       "canale": "Rai 1, DAZN",
-      "note": "Diretta streaming su Rai Play e DAZN. Partita giocata al Meadowlands Stadium di East Rutherford, New Jersey (USA).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_bmvx0_yJGw2Ns8m3fPUqOVFQjCLzGE5yWrgNkdk-9Agx3q6oNjvw_To0MEgw5BtCHW08a5ENpSqpLKtJI1HfqLmh8XC9p0Jd2VkPnitea6AW93lkesMHCjjJViFj-88hn3TEBYDJ6R_Mla2qZ_Up_mlLW1mW-3aHnzv9HIqfvOIBpp_eTvmOmGlsJYnmcWI8gmWWBF8i5B_TFKCCFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHck-V5BUmUW-W6idjhyVtscY0wBolb9wxGqeu1HB3BDKw4iBzT8WTnMPNCsqj92_7ltyxgu05B1wrSWlNgsup1NEocMYWRvU3_P-7bDPn0VfeZDkcDvobBFYHY3ny6v7jp34rsWRJLcH7yveB6eTsh1ea6oYfSgWlqrlqXXYVHON9WDqzPMhk5TNNaVCufbRWP03RRhMdmNBJtouRrAA4OJNjYKu1N4HRNOycBBMMb3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ0KmPv5OlUgNde86aXox2nFpbqgFDOmEVaLUizHJ81aClIoRwiucwWgf6N3ldo77WyaSNuVsyo8NLBcAXuCrenXL6SRCPE2r3QfuukQoTz7MwB8rUEFiBEKAqqjQJCypj7FMrt1u66F_1My5Z8My94E9pxxBm44oGcfUoC1oaqtsjGUrQgmcDAeJ07TFVs0Kes4yg5WXjpBdiubpQ7HtIAx6WjJb4sdb3H_dFWTtBRe0FCHvFx3w=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0q6OyvmTc5O-2Sb8aPPUOUYIes0t2CHuDOcjEeNl0lNJRDMDaN_KttGW-Flzk-66lbNi3nxnW0wi699TSaMk-ER7oh9dj9Xkb71UHnarD_AfG8Fiu-1cJvSvpt3G6YjxKkGMav83zI4IuhaTdj6oPcNXbnoo4QEb4obcjJfuetAKqWq6v1KIbKuUB-QOvyFAYrQOVb2kCEPE1JB0dE-BdjDW6TlEyXU9sxqtwi_zT2ixrTgRfRLqk-wj9N5YgpyEioMv6PDElw7OoHusvwezkqVLPLlnlMDM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnWh_bzyF1RdO3DI83PC6yHvu2X5MtUf1-BAKI1DnLGWK1YDUwnNKtOb28q_jXzLNxtmPCM6tJmTdybG5g_efgVamzz5AzGe9VCPapxzN-wer1d4-y_lUbXu3_UCKCx5kWKxtvBS4vv8EbcnGlVpZuObYTgRH88KQzd_7zCM5FJ4H7N9ggErbVTA6MU4cTJ0ZqavS_yAZL6SjLVwD0v0-JxUx5h_n_n2d7NmcYXOeixBDMc=",
+      "note": "Diretta TV. Disponibile anche in streaming su RaiPlay e DAZN.",
+      "fonte": "Calendario Mondiali calcio 2026 in tv: orari partite di oggi (domenica 5 luglio), canali, streaming - OA Sport, Mondiali, oggi Brasile-Norvegia: orario, probabili formazioni e dove vederla in tv (in chiaro) - Adnkronos, Programma completo dello sport in tv e streaming per domenica 5 luglio 2026 - Notizie.it, Mondiali Calcio FIFA 2026 Diretta DAZN | Ottavi - Programma Telecronisti (4 - 7 Luglio), Calcio in tv oggi, 5 luglio 2026: Brasile-Norvegia e le altre sfide del giorno - Calciomagazine, I programmi TV di oggi 5 luglio 2026: calcio, fiction e film - L'Opinionista, Mondiali, iniziano gli ottavi: tabellone, calendario e dove vedere tutte le partite - Sassari Notizie",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:00",
-      "evento": "Mondiali 2026: Messico-Inghilterra",
-      "competizione": "Calcio - Mondiali 2026 (Ottavi di Finale)",
+      "evento": "Calcio - Mondiali 2026: Messico-Inghilterra (Ottavi di Finale)",
+      "competizione": "FIFA World Cup 2026",
       "canale": "DAZN",
-      "note": "Partita del 6 luglio, rientra nel palinsesto notturno fino alle 06:00 CET. La vincente affronterà ai quarti la vincente tra Brasile e Norvegia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_bmvx0_yJGw2Ns8m3fPUqOVFQjCLzGE5yWrgNkdk-9Agx3q6oNjvw_To0MEgw5BtCHW08a5ENpSqpLKtJI1HfqLmh8XC9p0Jd2VkPnitea6AW93lkesMHCjjJViFj-88hn3TEBYDJ6R_Mla2qZ_Up_mlLW1mW-3aHnzv9HIqfvOIBpp_eTvmOmGlsJYnmcWI8gmWWBF8i5B_TFKCCFA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnWh_bzyF1RdO03DI83PC6yHvu2X5MtUf1-BAKI1DnLGWK1YDUwnNKtOb28q_jXzLNxtmPCM6tJmTdybG5g_efgVamzz5AzGe9VCPapxzN-wer1d4-y_lUbXu3_UCKCx5kWKxtvBS4vv8EbcnGlVpZuObYTgRH88KQzd_7zCM5FJ4H7N9ggErbVTA6MU4cTJ0ZqavS_yAZL6SjLVwD0v0-JxUx5h_n_n2d7NmcYXOeixBDMc=",
+      "note": "Diretta streaming (già 6 luglio CET).",
+      "fonte": "Calendario Mondiali calcio 2026 in tv: orari partite di oggi (domenica 5 luglio), canali, streaming - OA Sport, Programma completo dello sport in tv e streaming per domenica 5 luglio 2026 - Notizie.it, Programmazione DAZN Italia: il calendario di tutti gli eventi e cosa vedere oggi, Mondiali Calcio FIFA 2026 Diretta DAZN | Ottavi - Programma Telecronisti (4 - 7 Luglio), Mondiali, iniziano gli ottavi: tabellone, calendario e dove vedere tutte le partite - Sassari Notizie",
       "accuratezza_orario": "esatto"
     }
   ]
