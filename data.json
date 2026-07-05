@@ -1,148 +1,58 @@
 {
-  "last_updated": "2026-07-04T20:53:37.959729+02:00",
+  "last_updated": "2026-07-05T10:38:30.005773+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Mondiali di Calcio 2026: Ottavi di Finale - Argentina vs Capo Verde",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "OA Sport, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:30",
-      "evento": "Mondiali di Calcio 2026: Ottavi di Finale - Colombia vs Ghana",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Wimbledon 2026: Doppio Uomini - Simone Bolelli / Andrea Vavassori vs Jesper de Jong / Valentin Royer",
-      "competizione": "Grande Slam (Wimbledon)",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Arena (204), Sky Sport Mix (211), Sky Sport Wimbledon 1-6 (251-256)",
-      "note": "",
-      "fonte": "Olympics.com, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Formula 1: GP Gran Bretagna - Sprint Race",
-      "competizione": "Campionato del Mondo FIA Formula 1 2026",
-      "canale": "Sky Sport, TV8",
-      "note": "",
-      "fonte": "OA Sport, Lo Slalom, Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30*",
-      "evento": "Wimbledon 2026: Singolare Uomini (3° Turno) - Flavio Cobolli vs Karen Khachanov",
-      "competizione": "Grande Slam (Wimbledon)",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Arena (204), Sky Sport Mix (211), Sky Sport Wimbledon 1-6 (251-256)",
-      "note": "Orario stimato (non prima delle 13:30 CET)",
-      "fonte": "Olympics.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Formula 1: Paddock Live Post Sprint",
-      "competizione": "Campionato del Mondo FIA Formula 1 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "14:30*",
-      "evento": "Wimbledon 2026: Singolare Donne (3° Turno) - Jasmine Paolini vs Maria Sakkari",
-      "competizione": "Grande Slam (Wimbledon)",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Arena (204), Sky Sport Mix (211), Sky Sport Wimbledon 1-6 (251-256)",
-      "note": "Orario stimato (non prima delle 14:30 CET)",
-      "fonte": "Olympics.com, Sky Sport",
+      "evento": "Jannik Sinner vs Shintaro Mochizuki",
+      "competizione": "Wimbledon 2026 - Ottavi di finale",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 4K",
+      "note": "Terzo match sul Campo Centrale, dopo Safiullin-Djokovic e Sabalenka-Osaka. Orario stimato.",
+      "fonte": "Adnkronos, OA Sport, Tennis Magazine Italia, CronacaPop, Notizie.it, Calcio e Sport in Tv oggi",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "15:00*",
-      "evento": "Wimbledon 2026: Doppio Misto (1° Turno) - Sara Errani / Andrea Vavassori vs David Stevenson / Jodie Burrage",
-      "competizione": "Grande Slam (Wimbledon)",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Arena (204), Sky Sport Mix (211), Sky Sport Wimbledon 1-6 (251-256)",
-      "note": "Orario stimato (non prima delle 15:00 CET)",
-      "fonte": "Olympics.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Wimbledon 2026: Singolare Uomini (3° Turno) - Lorenzo Sonego vs Taylor Fritz",
-      "competizione": "Grande Slam (Wimbledon)",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Arena (204), Sky Sport Mix (211), Sky Sport Wimbledon 1-6 (251-256)",
-      "note": "Orario stimato (non prima delle 16:00 CET)",
-      "fonte": "Olympics.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:30",
-      "evento": "Formula 1: Paddock Live Pre Qualifiche",
-      "competizione": "Campionato del Mondo FIA Formula 1 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno",
+      "orario": "16:00",
+      "evento": "GP Gran Bretagna - Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Diretta tv e streaming.",
+      "fonte": "Adnkronos, OA Sport, Fanpage, Notizie.it, Calcio e Sport in Tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Formula 1: GP Gran Bretagna - Qualifiche",
-      "competizione": "Campionato del Mondo FIA Formula 1 2026",
-      "canale": "Sky Sport",
+      "evento": "Ucraina-Italia",
+      "competizione": "Europei Under 19",
+      "canale": "Rai Sport",
       "note": "",
-      "fonte": "OA Sport, Lo Slalom",
+      "fonte": "Goal.com Italia, Notizie.it, Calcio e Sport in Tv oggi",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:30*",
-      "evento": "Wimbledon 2026: Singolare Uomini (3° Turno) - Matteo Berrettini vs Grigor Dimitrov",
-      "competizione": "Grande Slam (Wimbledon)",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Sport Arena (204), Sky Sport Mix (211), Sky Sport Wimbledon 1-6 (251-256)",
-      "note": "Orario stimato (non prima delle 17:30 CET sul Centrale, o 19:00 su Sky Sport)",
-      "fonte": "Olympics.com, Sky Sport",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "19:00",
-      "evento": "Mondiali di Calcio 2026: Ottavi di Finale - Canada vs Marocco",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:35",
-      "evento": "Notti Mondiali",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "Rai 1",
-      "note": "Analisi, commenti e approfondimenti sulle partite dei Mondiali",
-      "fonte": "Libero",
+      "evento": "GP Gran Bretagna - Gara",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Differita della gara.",
+      "fonte": "OA Sport, FormulaPassion, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Sky Tennis Show",
-      "competizione": "Tennis",
-      "canale": "Sky Sport 1",
-      "note": "Magazine sui tornei con analisi e highlights",
-      "fonte": "Libero",
+      "evento": "Brasile-Norvegia",
+      "competizione": "Mondiali 2026 - Ottavi di finale",
+      "canale": "Rai 1, DAZN",
+      "note": "",
+      "fonte": "OA Sport, Goal.com Italia, Adnkronos, ProgrammiTV, Notizie.it, Calcio e Sport in Tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Mondiali di Calcio 2026: Ottavi di Finale - Paraguay vs Francia",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "OA Sport, Guida TV",
+      "orario": "02:00",
+      "evento": "Messico-Inghilterra",
+      "competizione": "Mondiali 2026 - Ottavi di finale",
+      "canale": "DAZN",
+      "note": "Nella notte tra il 5 e il 6 luglio.",
+      "fonte": "OA Sport, Goal.com Italia, Notizie.it, Calcio e Sport in Tv oggi",
       "accuratezza_orario": "esatto"
     }
   ]
