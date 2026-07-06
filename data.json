@@ -1,130 +1,49 @@
 {
-  "last_updated": "2026-07-06T16:54:45.521786+02:00",
+  "last_updated": "2026-07-06T21:38:10.119655+02:00",
   "events": [
     {
-      "orario": "08:00",
-      "evento": "Nations Championship 2026 - Giappone vs Italia",
-      "competizione": "Rugby Nations Championship",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "Sky Sport Arena : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:10",
-      "evento": "Tour de France - Terza Tappa (partenza)",
-      "competizione": "Ciclismo - Tour de France",
-      "canale": "Rai 2, Rai Sport, Eurosport",
-      "note": "Arrivo previsto intorno alle 16:54",
-      "fonte": "Tour de France, oggi terza tappa. Orari, percorso e dove vederla in tv in chiaro - Adnkronos",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "14:00",
-      "evento": "Tennis - Flavio Cobolli vs Alex de Minaur",
-      "competizione": "Wimbledon 2026 - Ottavi di Finale",
-      "canale": "Sky Sport, NOW, Sky Go",
-      "note": "Ottavo di finale maschile, primo match sul Court 1",
-      "fonte": "Cobolli vs De Minaur oggi a Wimbledon 2026: orario, dove vederla in TV e streaming - Tom's Hardware",
+      "evento": "Flavio Cobolli (ITA) vs Alex de Minaur (AUS)",
+      "competizione": "Tennis - Wimbledon (Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K, SkyGo, NOW",
+      "note": "Ottavi di finale maschili. Primo match sul Campo 1.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm0KVX1F9b0tRHAeltmiaR89L4VV2vI7dY_64wryAGsAXeyh3Y60HOW3PJUwGC9Pzm9bIrDU6DBXDXzhtwZHeucOmIFBA6gWgNcPoW1KSa85FIjhEfh0-zDU0pmwmomf8gwhlEc_gkGEMX9FxSJltwJT0a2ir8FqGSNEyPD8fwylaeWFZZtjCd-dCC9R8iq1AWU6SmGIL-rpR6l9J93mtwmXJk3MfkMGRo3owlJR-L6Y_a",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:30",
-      "evento": "Tennis - Jasmine Paolini vs Alexandra Eala",
-      "competizione": "Wimbledon 2026 - Ottavi donne",
-      "canale": "Sky Sport Tennis, Sky Sport 4K, NOW, Sky Go",
-      "note": "Primo match sul Centre Court",
-      "fonte": "Il tennis in TV oggi 6 luglio: sette azzurri in campo tra singolare e doppio, Wimbledon 2026 oggi (6 luglio): orari partite, tv, streaming, italiani in campo, canali",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Tennis - Simone Bolelli / Andrea Vavassori vs Austin Krajicek / Nikola Mektic",
-      "competizione": "Wimbledon 2026 - Doppio maschile, Terzo Turno",
-      "canale": "Sky Sport, NOW, Sky Go",
-      "note": "Terzo match su un campo che inizia le partite alle 12:00 CET.",
-      "fonte": "Italiani in Campo (ATP-WTA-Challenger-compreso Wimbledon): I risultati completi con il dettaglio del 06 Luglio 2026 | LiveTennis.it, Wimbledon 2026 oggi (6 luglio): orari partite, tv, streaming, italiani in campo, canali",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Formula 1 - GP Gran Bretagna (Gara)",
-      "competizione": "Formula 1 - Campionato del Mondo 2026",
-      "canale": "TV8",
-      "note": "Differita della gara di domenica 5 luglio.",
-      "fonte": "Orari TV GP Gran Bretagna 2026: diretta su Sky, differita su TV8 - FormulaPassion, Formula 1, Gp di Gran Bretagna 2026: orari diretta tv e streaming - alVolante.it",
+      "evento": "Jasmine Paolini (ITA) vs Alexandra Eala (PHI)",
+      "competizione": "Tennis - Wimbledon (Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K, SkyGo, NOW",
+      "note": "Ottavi di finale femminili. Primo match sul Centre Court.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhVsAc2ia3Fgq18kPay7E85s-2IQ04THX4VLlBy46KwX7ptG7p3tN8msEedsTemnZ4bTvUOvU5u-WWwjJuE4UpdzqKrQiuN7PtKQU1g4p-Yq23LwsexNBlzA9QC2purc2taa2THT_UCc1miNb2fmXPVbp3CnzFulzTZmRs2D7mUWkHR7Hvr_lfOPZKWQeFv5K09OArZiiucUbAJs8pIDsRMffAOcZcDTCc6JLwGq5ybw",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Formula 1 - Gran Bretagna",
-      "competizione": "Formula 1 - Campionato del Mondo 2026",
-      "canale": "Sky Sport F1",
-      "note": "Analisi del Gran Premio disputato.",
-      "fonte": "Oggi in tv su Sky sport f1 hd - Guida TV",
-      "accuratezza_orario": "esatto"
+      "orario": "15:00*",
+      "evento": "Simone Bolelli (ITA)/Andrea Vavassori (ITA) vs Austin Krajicek/Nikola Mektic",
+      "competizione": "Tennis - Wimbledon (Doppio Maschile, Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K, SkyGo, NOW",
+      "note": "Ottavi di finale doppio maschile. Terzo match sul Court 12.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6tnq_LtLYzR__XSzSUi749p2KqUmAxBVfnpy8I8E6XGh6x_iFWBOKydqbXVTY9BERXzrrHMHG97jqSiSalxQGOfHMP4xuc2BSxUvxxFml_B0-Cc5Ao0Iv6er-k1CLy_86HCjc9ROey5-487I7FJ_-Hj3iDnNH2aP_miOOggvXN6JvNFpqT131SLCJH4cyXI6W9jKahA4l5OhHGtYtmtM6FqqVEbB2uiC6KeKVlNJlmWLaGXxFBaEzkHOmKFUw0aZi9ryE5Et3-TAgF4IlNLLsizNElCnu",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Calcio - Portogallo vs Spagna",
-      "competizione": "Mondiali Calcio 2026 - Ottavi di Finale",
+      "evento": "Portogallo-Spagna",
+      "competizione": "Calcio - Mondiali 2026 (Ottavi di Finale)",
       "canale": "Rai 1 HD, Rai Play, DAZN",
-      "note": "",
-      "fonte": "Calendario Mondiali calcio 2026 in tv: orari partite di oggi (6 luglio), canali, streaming, Quale partita sulla RAI oggi, Mondiali calcio 2026: orario lunedì 6 luglio, canale, streaming, I programmi TV di oggi 6 luglio 2026: calcio e film della sera",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Formula 1 - F1 Paddock Live Pre Gara",
-      "competizione": "Formula 1 - Campionato del Mondo 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica dell'avvicinamento al Gran Premio.",
-      "fonte": "Oggi in tv su Sky sport f1 hd - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Formula 1 - GP Gran Bretagna: Gara",
-      "competizione": "Formula 1 - Campionato del Mondo 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica integrale della gara di domenica 5 luglio.",
-      "fonte": "Oggi in tv su Sky sport f1 hd - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:30",
-      "evento": "Formula 1 - F1 Debriefing",
-      "competizione": "Formula 1 - Campionato del Mondo 2026",
-      "canale": "Sky Sport F1",
-      "note": "Analisi post-gara.",
-      "fonte": "Oggi in tv su Sky sport f1 hd - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Formula 1 - Gran Bretagna",
-      "competizione": "Formula 1 - Campionato del Mondo 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica dell'analisi del Gran Premio.",
-      "fonte": "Oggi in tv su Sky sport f1 hd - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Formula 1 - GP Gran Bretagna: Gara",
-      "competizione": "Formula 1 - Campionato del Mondo 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica integrale della gara di domenica 5 luglio.",
-      "fonte": "Oggi in tv su Sky sport f1 hd - Guida TV",
+      "note": "Partita valida per gli ottavi di finale dei Mondiali 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPdKZdCQb-tfOeGPiymCKO52S_rpVqC8351aHoo5JQcroaFplF2o5ewAj_0F-pIcqRYApIVSCe7cPx40fG7r-AMBNYiHORtSWh6FY81CTJtSlMSxd7ORzZBHQB9gLkGXIIgHDINx9Ygd1PgPFh-ghvNn-IhmShVcTOU7nMlSV-nEKsHvgw4WyEwF8_nSxGO-wDCtZ8i-p_MLsWoHnO",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:00",
-      "evento": "Calcio - Stati Uniti vs Belgio",
-      "competizione": "Mondiali Calcio 2026 - Ottavi di Finale",
+      "evento": "Stati Uniti-Belgio",
+      "competizione": "Calcio - Mondiali 2026 (Ottavi di Finale)",
       "canale": "DAZN",
-      "note": "Inizio il 7 luglio 2026.",
-      "fonte": "Calendario Mondiali calcio 2026 in tv: orari partite di oggi (6 luglio), canali, streaming",
+      "note": "Partita valida per gli ottavi di finale dei Mondiali 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPdKZdCQb-tfOeGPiymCKO52S_rpVqC8351aHoo5JQcroaFplF2o5ewAj_0F-pIcqRYApIVSCe7cPx40fG7r-AMBNYiHORtSWh6FY81CTJtSlMSxd7ORzZBHQB9gLkGXIIgHDINx9Ygd1PgPFh-ghvNn-IhmShVcTOU7nMlSV-nEKsHvgw4WyEwF8_nSxGO-wDCtZ8i-p_MLsWoHnO",
       "accuratezza_orario": "esatto"
     }
   ]
