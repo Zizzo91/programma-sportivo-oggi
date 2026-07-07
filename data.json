@@ -1,157 +1,49 @@
 {
-  "last_updated": "2026-07-07T03:56:43.568305+02:00",
+  "last_updated": "2026-07-07T11:20:58.271983+02:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "Mondiali FIFA 2026 - Ottavi di finale: Stati Uniti vs Belgio",
-      "competizione": "FIFA World Cup 2026",
-      "canale": "DAZN, RaiPlay",
-      "note": "",
-      "fonte": "Calciomagazine, Virgilio Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "The Insider Wimbledon",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "Sky Tennis Show",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Grande Slam 2026 - Wimbledon: 8a giornata",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Probabile replica/highlights",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Grande Slam 2026 - Wimbledon: 8a giornata",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Probabile replica/highlights",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:30",
-      "evento": "The Insider Wimbledon",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:45",
-      "evento": "Highlights Show Wimbledon",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Sky Tennis Show",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:30",
-      "evento": "Sky Tennis Show",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:45",
-      "evento": "Studio Tennis",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00*",
-      "evento": "Tennis ATP Wimbledon 2026 - Quarti di finale: Jannik Sinner vs Jan-Lennard Struff",
-      "competizione": "Wimbledon 2026",
-      "canale": "Sky Sport (canali da definire), Sky Go, NOW",
-      "note": "Orario stimato, il match si giocherà sul Campo No.1 dopo le 14:00 CET.",
-      "fonte": "OA Sport, Olympics.com",
+      "orario": "12:00*",
+      "evento": "Pistola (ITA) / Popa (ROU) vs Lin (TPE) / Qu (CHN)",
+      "competizione": "Wimbledon - Doppio Maschile R16",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Wimbledon 1-6",
+      "note": "Quarto incontro sul campo, orario stimato.",
+      "fonte": "LiveTennis.it, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
+      "orario": "14:00",
+      "evento": "Jannik Sinner (ITA) vs Jan-Lennard Struff (GER)",
+      "competizione": "Wimbledon - Quarti di finale singolare maschile",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport 251 (Wimbledon 1), NOW",
+      "note": "Match sul No.1 Court. Diretta streaming su Sky Go e NOW.",
+      "fonte": "OA Sport, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "18:00",
-      "evento": "Mondiali FIFA 2026 - Ottavi di finale: Argentina vs Egitto",
-      "competizione": "FIFA World Cup 2026",
+      "evento": "Argentina - Egitto",
+      "competizione": "Mondiali FIFA 2026 - Ottavi di finale",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Campionati Italiani Under 20",
-      "competizione": "Atletica Leggera",
-      "canale": "Rai Sport",
-      "note": "Da Rieti",
-      "fonte": "Stasera in tv, Sport Sera - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Pre-partita Mondiali FIFA 2026",
-      "competizione": "FIFA World Cup 2026",
-      "canale": "Rai 1, Rai 4K",
-      "note": "",
-      "fonte": "Dituttounpop.it, Digital-News.it",
+      "note": "Diretta streaming.",
+      "fonte": "DAZN News IT, Fanpage, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Mondiali FIFA 2026 - Ottavi di finale: Svizzera vs Colombia",
-      "competizione": "FIFA World Cup 2026",
-      "canale": "Rai 1, Rai 4K, DAZN",
-      "note": "",
-      "fonte": "Calciomagazine, Sky Sport, Calcio e Finanza, Dituttounpop.it, Digital-News.it",
+      "evento": "Svizzera - Colombia",
+      "competizione": "Mondiali FIFA 2026 - Ottavi di finale",
+      "canale": "Rai 1, DAZN",
+      "note": "Diretta TV e streaming.",
+      "fonte": "OA Sport, DAZN News IT, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:15",
-      "evento": "Coppa del Mondo 2026 - Finale Fossa Olimpica femminile",
-      "competizione": "Tiro a Volo",
-      "canale": "Rai Sport HD",
-      "note": "Da Lonato del Garda",
-      "fonte": "Sport Sera - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00 (08/07)",
-      "evento": "Notti Mondiali",
-      "competizione": "FIFA World Cup 2026",
-      "canale": "Rai 1",
-      "note": "Studio post-partita Mondiali FIFA 2026",
-      "fonte": "Dituttounpop.it, RAI Ufficio Stampa, Digital-News.it",
+      "orario": "02:00",
+      "evento": "USA - Belgio",
+      "competizione": "Mondiali FIFA 2026 - Ottavi di finale",
+      "canale": "DAZN",
+      "note": "Diretta streaming. Evento del 8 luglio 2026 (CET).",
+      "fonte": "DAZN News IT, DAZN",
       "accuratezza_orario": "esatto"
     }
   ]
