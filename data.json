@@ -1,49 +1,157 @@
 {
-  "last_updated": "2026-07-06T21:38:10.119655+02:00",
+  "last_updated": "2026-07-07T03:56:43.568305+02:00",
   "events": [
     {
-      "orario": "14:00",
-      "evento": "Flavio Cobolli (ITA) vs Alex de Minaur (AUS)",
-      "competizione": "Tennis - Wimbledon (Ottavi di Finale)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K, SkyGo, NOW",
-      "note": "Ottavi di finale maschili. Primo match sul Campo 1.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm0KVX1F9b0tRHAeltmiaR89L4VV2vI7dY_64wryAGsAXeyh3Y60HOW3PJUwGC9Pzm9bIrDU6DBXDXzhtwZHeucOmIFBA6gWgNcPoW1KSa85FIjhEfh0-zDU0pmwmomf8gwhlEc_gkGEMX9FxSJltwJT0a2ir8FqGSNEyPD8fwylaeWFZZtjCd-dCC9R8iq1AWU6SmGIL-rpR6l9J93mtwmXJk3MfkMGRo3owlJR-L6Y_a",
+      "orario": "02:00",
+      "evento": "Mondiali FIFA 2026 - Ottavi di finale: Stati Uniti vs Belgio",
+      "competizione": "FIFA World Cup 2026",
+      "canale": "DAZN, RaiPlay",
+      "note": "",
+      "fonte": "Calciomagazine, Virgilio Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Jasmine Paolini (ITA) vs Alexandra Eala (PHI)",
-      "competizione": "Tennis - Wimbledon (Ottavi di Finale)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K, SkyGo, NOW",
-      "note": "Ottavi di finale femminili. Primo match sul Centre Court.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhVsAc2ia3Fgq18kPay7E85s-2IQ04THX4VLlBy46KwX7ptG7p3tN8msEedsTemnZ4bTvUOvU5u-WWwjJuE4UpdzqKrQiuN7PtKQU1g4p-Yq23LwsexNBlzA9QC2purc2taa2THT_UCc1miNb2fmXPVbp3CnzFulzTZmRs2D7mUWkHR7Hvr_lfOPZKWQeFv5K09OArZiiucUbAJs8pIDsRMffAOcZcDTCc6JLwGq5ybw",
+      "orario": "01:00",
+      "evento": "The Insider Wimbledon",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00*",
-      "evento": "Simone Bolelli (ITA)/Andrea Vavassori (ITA) vs Austin Krajicek/Nikola Mektic",
-      "competizione": "Tennis - Wimbledon (Doppio Maschile, Ottavi di Finale)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K, SkyGo, NOW",
-      "note": "Ottavi di finale doppio maschile. Terzo match sul Court 12.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6tnq_LtLYzR__XSzSUi749p2KqUmAxBVfnpy8I8E6XGh6x_iFWBOKydqbXVTY9BERXzrrHMHG97jqSiSalxQGOfHMP4xuc2BSxUvxxFml_B0-Cc5Ao0Iv6er-k1CLy_86HCjc9ROey5-487I7FJ_-Hj3iDnNH2aP_miOOggvXN6JvNFpqT131SLCJH4cyXI6W9jKahA4l5OhHGtYtmtM6FqqVEbB2uiC6KeKVlNJlmWLaGXxFBaEzkHOmKFUw0aZi9ryE5Et3-TAgF4IlNLLsizNElCnu",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Portogallo-Spagna",
-      "competizione": "Calcio - Mondiali 2026 (Ottavi di Finale)",
-      "canale": "Rai 1 HD, Rai Play, DAZN",
-      "note": "Partita valida per gli ottavi di finale dei Mondiali 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPdKZdCQb-tfOeGPiymCKO52S_rpVqC8351aHoo5JQcroaFplF2o5ewAj_0F-pIcqRYApIVSCe7cPx40fG7r-AMBNYiHORtSWh6FY81CTJtSlMSxd7ORzZBHQB9gLkGXIIgHDINx9Ygd1PgPFh-ghvNn-IhmShVcTOU7nMlSV-nEKsHvgw4WyEwF8_nSxGO-wDCtZ8i-p_MLsWoHnO",
+      "orario": "01:30",
+      "evento": "Sky Tennis Show",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:00",
-      "evento": "Stati Uniti-Belgio",
-      "competizione": "Calcio - Mondiali 2026 (Ottavi di Finale)",
+      "evento": "Grande Slam 2026 - Wimbledon: 8a giornata",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Probabile replica/highlights",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Grande Slam 2026 - Wimbledon: 8a giornata",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Probabile replica/highlights",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:30",
+      "evento": "The Insider Wimbledon",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:45",
+      "evento": "Highlights Show Wimbledon",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "Sky Tennis Show",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:30",
+      "evento": "Sky Tennis Show",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:45",
+      "evento": "Studio Tennis",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Tennis ATP Wimbledon 2026 - Quarti di finale: Jannik Sinner vs Jan-Lennard Struff",
+      "competizione": "Wimbledon 2026",
+      "canale": "Sky Sport (canali da definire), Sky Go, NOW",
+      "note": "Orario stimato, il match si giocherà sul Campo No.1 dopo le 14:00 CET.",
+      "fonte": "OA Sport, Olympics.com",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Mondiali FIFA 2026 - Ottavi di finale: Argentina vs Egitto",
+      "competizione": "FIFA World Cup 2026",
       "canale": "DAZN",
-      "note": "Partita valida per gli ottavi di finale dei Mondiali 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPdKZdCQb-tfOeGPiymCKO52S_rpVqC8351aHoo5JQcroaFplF2o5ewAj_0F-pIcqRYApIVSCe7cPx40fG7r-AMBNYiHORtSWh6FY81CTJtSlMSxd7ORzZBHQB9gLkGXIIgHDINx9Ygd1PgPFh-ghvNn-IhmShVcTOU7nMlSV-nEKsHvgw4WyEwF8_nSxGO-wDCtZ8i-p_MLsWoHnO",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Campionati Italiani Under 20",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport",
+      "note": "Da Rieti",
+      "fonte": "Stasera in tv, Sport Sera - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Pre-partita Mondiali FIFA 2026",
+      "competizione": "FIFA World Cup 2026",
+      "canale": "Rai 1, Rai 4K",
+      "note": "",
+      "fonte": "Dituttounpop.it, Digital-News.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Mondiali FIFA 2026 - Ottavi di finale: Svizzera vs Colombia",
+      "competizione": "FIFA World Cup 2026",
+      "canale": "Rai 1, Rai 4K, DAZN",
+      "note": "",
+      "fonte": "Calciomagazine, Sky Sport, Calcio e Finanza, Dituttounpop.it, Digital-News.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:15",
+      "evento": "Coppa del Mondo 2026 - Finale Fossa Olimpica femminile",
+      "competizione": "Tiro a Volo",
+      "canale": "Rai Sport HD",
+      "note": "Da Lonato del Garda",
+      "fonte": "Sport Sera - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00 (08/07)",
+      "evento": "Notti Mondiali",
+      "competizione": "FIFA World Cup 2026",
+      "canale": "Rai 1",
+      "note": "Studio post-partita Mondiali FIFA 2026",
+      "fonte": "Dituttounpop.it, RAI Ufficio Stampa, Digital-News.it",
       "accuratezza_orario": "esatto"
     }
   ]
