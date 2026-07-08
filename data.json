@@ -1,50 +1,41 @@
 {
-  "last_updated": "2026-07-08T10:05:36.084926+02:00",
+  "last_updated": "2026-07-08T15:26:47.322996+02:00",
   "events": [
     {
       "orario": "10:00",
-      "evento": "Mondiale Formula 1 2026 - Gp Gran Bretagna: Gara (Replica)",
-      "competizione": "Formula 1",
+      "evento": "Replica Gara GP Gran Bretagna",
+      "competizione": "Formula 1 - Mondiale 2026",
       "canale": "Sky Sport Arena",
-      "note": "Replica della gara del Gran Premio di Gran Bretagna svoltasi il 5 luglio.",
-      "fonte": "GuidaTV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGekC9GwbcG7JL2km5aF5QypM_hZ8DVrcqzSWRcuIpmBfZi4Z73v0sEgXsxPTEu2u-HuqYi06wpHIFSpa0baJ5EjQt3i_DggzZZ3dXE2vFnBpzUc5Z2YxU2ABzXx2qChQ7vxhNknNibh7CZnbv58u2f2hl7zyNnoP6xbe5jw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:30",
-      "evento": "Wimbledon 2026 - Quarti di finale (Jasmine Paolini vs Marta Kostyuk)",
-      "competizione": "Grande Slam - Wimbledon",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K",
-      "note": "Inizio programmazione con il match di Jasmine Paolini.",
-      "fonte": "sportface.it, Sky Sport",
+      "evento": "Quarti di finale - Jasmine Paolini vs Marta Kostyuk",
+      "competizione": "Tennis - Wimbledon",
+      "canale": "Sky Sport",
+      "note": "Match sul campo centrale. Trasmissione su diversi canali Sky Sport (Tennis, Uno, Arena, Mix, 4K, Wimbledon 1-3).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfNga1S4Wr12w_RhCQt3TE7NgU6sftCvMb83XcBsw5XyIQxx8-BECj2_u-81o6GaoeiHzThi5cieI1Pk5XLNXmXowLfvvx75tIiJ_WPQGcFvay1cfBwetCeAG3EE0kE9FPNnbaaaNq26k4BBbnXCbxVf14apxOYaDRCjaq4D-QfbGWKSpHJwV8gpAK522HZT6EOQ2t0V2SkA2qQd6qMJsCW8S-3rMojppAW56p8-9rbs0==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30*",
-      "evento": "Wimbledon 2026 - Quarti di finale (Flavio Cobolli vs Arthur Fery)",
-      "competizione": "Grande Slam - Wimbledon",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K",
-      "note": "Secondo match sul campo centrale, orario stimato dopo Paolini-Kostyuk.",
-      "fonte": "sportface.it, Sky Sport",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "15:00",
-      "evento": "Europei U19 - Italia vs Danimarca (playoff quinto posto per qualificazione Mondiali U20)",
-      "competizione": "Europei U19",
-      "canale": "RaiSportHD",
-      "note": "Partita valida per il playoff del quinto posto e la qualificazione ai Mondiali U20.",
-      "fonte": "sportface.it",
+      "evento": "Danimarca vs Italia",
+      "competizione": "Calcio - Europei Under 19",
+      "canale": "Rai Sport + HD",
+      "note": "Partita valida per il playoff del quinto posto per la qualificazione ai Mondiali Under 20.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFfNga1S4Wr12w_RhCQt3TE7NgU6sftCvMb83XcBsw5XyIQxx8-BECj2_u-81o6GaoeiHzThi5cieI1Pk5XLNXmXowLfvvx75tIiJ_WPQGcFvay1cfBwetCeAG3EE0kE9FPNnbaaaNq26k4BBbnXCbxVf14apxOYaDRCjaq4D-QfbGWKSpHJwV8gpAK522HZT6EOQ2t0V2SkA2qQd6qJJsCW8S-3rMojppAW56p8-9rbs0==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:00 (09/07)",
-      "evento": "Grande Slam 2026-Wimbledon: 10a giornata (Replica)",
-      "competizione": "Grande Slam - Wimbledon",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della decima giornata di Wimbledon.",
-      "fonte": "GuidaTV",
-      "accuratezza_orario": "esatto"
+      "orario": "TBA",
+      "evento": "Quarti di finale - Flavio Cobolli vs Arthur Fery",
+      "competizione": "Tennis - Wimbledon",
+      "canale": "Sky Sport",
+      "note": "Secondo match sul campo centrale, a seguire Paolini-Kostyuk. Trasmissione su diversi canali Sky Sport (Tennis, Uno, Arena, Mix, 4K, Wimbledon 1-3).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfNga1S4Wr12w_RhCQt3TE7NgU6sftCvMb83XcBsw5XyIQxx8-BECj2_u-81o6GaoeiHzThi5cieI1Pk5XLNXmXowLfvvx75tIiJ_WPQGcFvay1cfBwetCeAG3EE0kE9FPNnbaaaNq26k4BBbnXCbxVf14apxOYaDRCjaq4D-QfbGWKSpHJwV8gpAK522HZT6EOQ2t0V2SkA2qQd6qJJsCW8S-3rMojppAW56p8-9rbs0==",
+      "accuratezza_orario": "tba"
     }
   ]
 }
