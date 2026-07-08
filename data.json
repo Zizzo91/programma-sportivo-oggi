@@ -1,31 +1,58 @@
 {
-  "last_updated": "2026-07-07T21:38:12.756956+02:00",
+  "last_updated": "2026-07-08T03:27:12.863307+02:00",
   "events": [
     {
+      "orario": "08:45",
+      "evento": "Highlights Show Wimbledon",
+      "competizione": "Grande Slam - Wimbledon",
+      "canale": "Sky Sport Uno",
+      "note": "Sintesi degli incontri salienti della giornata precedente.",
+      "fonte": "Sky Sport Uno Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Mondiale Formula 1 2026 - Gp Gran Bretagna: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara disputata tra il 3 e il 5 luglio.",
+      "fonte": "Guida TV, Sky Sport Arena Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Wimbledon - 10a giornata",
+      "competizione": "Grande Slam - Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport 1",
+      "note": "Copertura live degli incontri del torneo. Jasmine Paolini in campo nel pomeriggio.",
+      "fonte": "Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "14:00",
-      "evento": "Jannik Sinner vs Jan-Lennard Struff",
-      "competizione": "Tennis - Wimbledon (Quarti di finale)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
-      "note": "Match di singolare maschile. Quarti di finale.",
-      "fonte": "https://www.lapresse.it/sport/tennis/sinner-e-djokovic-oggi-in-campo-a-wimbledon-2026-orario-e-dove-vederli-in-tv/, https://www.oasport.it/2026/07/wimbledon-2026-oggi-martedi-7-luglio-orari-partite-tv-streaming-italiani-in-campo/, https://www.adnkronos.com/wimbledon-il-programma-di-oggi-da-sinner-a-djokovic-tutti-i-match-e-dove-vederli_6Ld4YJk4N3g8K9qJ6zZ0aF/",
+      "evento": "Wimbledon - 10a giornata",
+      "competizione": "Grande Slam - Wimbledon",
+      "canale": "Sky Sport Arena",
+      "note": "Copertura live degli incontri del torneo. Jasmine Paolini in campo.",
+      "fonte": "Calcio e Sport in Tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Argentina vs Egitto",
-      "competizione": "Calcio - Mondiali FIFA 2026 (Ottavi di finale)",
-      "canale": "DAZN",
-      "note": "Partita valida per gli ottavi di finale dei Mondiali 2026.",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-7-luglio-2026-usa-belgio-e-le-altre-sfide-del-giorno-563852.html, https://www.dazn.com/it-IT/news/calcio/programmazione-dazn-italia-il-calendario-di-tutti-gli-eventi-e-cosa-vedere-oggi/5o7076g9s8qg1d6s7z7w9c3t, https://sport.sky.it/calcio/mondiali/2026/date-orari-partita-mondiali-2026",
+      "orario": "14:30",
+      "evento": "Wimbledon - Quarto di finale singolare femminile (Jasmine Paolini vs Marta Kostyuk)",
+      "competizione": "Grande Slam - Wimbledon",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 4K",
+      "note": "Jasmine Paolini, giocatrice italiana, affronta Marta Kostyuk. Orario di inizio sul Campo Centrale. I canali esatti potrebbero essere definiti in mattinata.",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Svizzera vs Colombia",
-      "competizione": "Calcio - Mondiali FIFA 2026 (Ottavi di finale)",
-      "canale": "DAZN, Rai Uno",
-      "note": "Partita valida per gli ottavi di finale dei Mondiali 2026.",
-      "fonte": "https://www.calciomagazine.net/calcio-tv-oggi-7-luglio-2026-usa-belgio-e-le-altre-sfide-del-giorno-563852.html, https://www.dazn.com/it-IT/news/calcio/programmazione-dazn-italia-il-calendario-di-tutti-gli-eventi-e-cosa-vedere-oggi/5o7076g9s8qg1d6s7z7w9c3t, https://sport.sky.it/calcio/mondiali/2026/date-orari-partita-mondiali-2026, https://www.guidatv.info/stasera-in-tv-martedi-7-luglio-2026",
+      "orario": "22:15",
+      "evento": "Hl Show Wimbledon 2026 Ep.10",
+      "competizione": "Grande Slam - Wimbledon",
+      "canale": "Sky Sport Tennis (205)",
+      "note": "Sintesi degli incontri più interessanti della giornata sui campi in erba del torneo di Wimbledon.",
+      "fonte": "Guida.tv",
       "accuratezza_orario": "esatto"
     }
   ]
