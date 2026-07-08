@@ -1,41 +1,41 @@
 {
-  "last_updated": "2026-07-08T15:26:47.322996+02:00",
+  "last_updated": "2026-07-08T21:03:54.654552+02:00",
   "events": [
     {
       "orario": "10:00",
-      "evento": "Replica Gara GP Gran Bretagna",
-      "competizione": "Formula 1 - Mondiale 2026",
+      "evento": "Mondiale Formula 1 2026 - GP Gran Bretagna: Gara (Replica)",
+      "competizione": "Formula 1",
       "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGekC9GwbcG7JL2km5aF5QypM_hZ8DVrcqzSWRcuIpmBfZi4Z73v0sEgXsxPTEu2u-HuqYi06wpHIFSpa0baJ5EjQt3i_DggzZZ3dXE2vFnBpzUc5Z2YxU2ABzXx2qChQ7vxhNknNibh7CZnbv58u2f2hl7zyNnoP6xbe5jw==",
+      "note": "Replica della gara del GP di Gran Bretagna.",
+      "fonte": "Sky Sport Arena : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:30",
-      "evento": "Quarti di finale - Jasmine Paolini vs Marta Kostyuk",
-      "competizione": "Tennis - Wimbledon",
-      "canale": "Sky Sport",
-      "note": "Match sul campo centrale. Trasmissione su diversi canali Sky Sport (Tennis, Uno, Arena, Mix, 4K, Wimbledon 1-3).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfNga1S4Wr12w_RhCQt3TE7NgU6sftCvMb83XcBsw5XyIQxx8-BECj2_u-81o6GaoeiHzThi5cieI1Pk5XLNXmXowLfvvx75tIiJ_WPQGcFvay1cfBwetCeAG3EE0kE9FPNnbaaaNq26k4BBbnXCbxVf14apxOYaDRCjaq4D-QfbGWKSpHJwV8gpAK522HZT6EOQ2t0V2SkA2qQd6qMJsCW8S-3rMojppAW56p8-9rbs0==",
+      "evento": "Tennis - Wimbledon: Quarti di finale (Jasmine Paolini vs Marta Kostyuk)",
+      "competizione": "WTA Tour",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Go, NOW",
+      "note": "Match di singolare femminile sul Campo Centrale.",
+      "fonte": "Wimbledon 2026 oggi (mercoledì 8 luglio): orari partite, tv, streaming, italiani in campo",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Danimarca vs Italia",
-      "competizione": "Calcio - Europei Under 19",
-      "canale": "Rai Sport + HD",
-      "note": "Partita valida per il playoff del quinto posto per la qualificazione ai Mondiali Under 20.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFfNga1S4Wr12w_RhCQt3TE7NgU6sftCvMb83XcBsw5XyIQxx8-BECj2_u-81o6GaoeiHzThi5cieI1Pk5XLNXmXowLfvvx75tIiJ_WPQGcFvay1cfBwetCeAG3EE0kE9FPNnbaaaNq26k4BBbnXCbxVf14apxOYaDRCjaq4D-QfbGWKSpHJwV8gpAK522HZT6EOQ2t0V2SkA2qQd6qJJsCW8S-3rMojppAW56p8-9rbs0==",
-      "accuratezza_orario": "esatto"
+      "orario": "16:00*",
+      "evento": "Tennis - Wimbledon: Quarti di finale (Flavio Cobolli vs Arthur Fery)",
+      "competizione": "ATP Tour",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Go, NOW",
+      "note": "Secondo match sul Campo Centrale, orario stimato dopo l'incontro di Jasmine Paolini.",
+      "fonte": "Wimbledon 2026 oggi (mercoledì 8 luglio): orari partite, tv, streaming, italiani in campo",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Quarti di finale - Flavio Cobolli vs Arthur Fery",
-      "competizione": "Tennis - Wimbledon",
-      "canale": "Sky Sport",
-      "note": "Secondo match sul campo centrale, a seguire Paolini-Kostyuk. Trasmissione su diversi canali Sky Sport (Tennis, Uno, Arena, Mix, 4K, Wimbledon 1-3).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfNga1S4Wr12w_RhCQt3TE7NgU6sftCvMb83XcBsw5XyIQxx8-BECj2_u-81o6GaoeiHzThi5cieI1Pk5XLNXmXowLfvvx75tIiJ_WPQGcFvay1cfBwetCeAG3EE0kE9FPNnbaaaNq26k4BBbnXCbxVf14apxOYaDRCjaq4D-QfbGWKSpHJwV8gpAK522HZT6EOQ2t0V2SkA2qQd6qJJsCW8S-3rMojppAW56p8-9rbs0==",
-      "accuratezza_orario": "tba"
+      "orario": "04:45",
+      "evento": "Europei U19 2026 - Ucraina vs Italia",
+      "competizione": "Europei Under 19 (Calcio)",
+      "canale": "Sport Notte",
+      "note": "Replica o differita della partita valida per gli Europei Under 19, trasmessa nelle prime ore del 9 luglio.",
+      "fonte": "Sport Notte - Guida TV",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
