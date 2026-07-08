@@ -1,58 +1,49 @@
 {
-  "last_updated": "2026-07-08T03:27:12.863307+02:00",
+  "last_updated": "2026-07-08T10:05:36.084926+02:00",
   "events": [
-    {
-      "orario": "08:45",
-      "evento": "Highlights Show Wimbledon",
-      "competizione": "Grande Slam - Wimbledon",
-      "canale": "Sky Sport Uno",
-      "note": "Sintesi degli incontri salienti della giornata precedente.",
-      "fonte": "Sky Sport Uno Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "10:00",
       "evento": "Mondiale Formula 1 2026 - Gp Gran Bretagna: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport Arena",
-      "note": "Replica della gara disputata tra il 3 e il 5 luglio.",
-      "fonte": "Guida TV, Sky Sport Arena Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Wimbledon - 10a giornata",
-      "competizione": "Grande Slam - Wimbledon",
-      "canale": "Sky Sport Tennis, Sky Sport 1",
-      "note": "Copertura live degli incontri del torneo. Jasmine Paolini in campo nel pomeriggio.",
-      "fonte": "Calcio e Sport in Tv oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Wimbledon - 10a giornata",
-      "competizione": "Grande Slam - Wimbledon",
-      "canale": "Sky Sport Arena",
-      "note": "Copertura live degli incontri del torneo. Jasmine Paolini in campo.",
-      "fonte": "Calcio e Sport in Tv oggi",
+      "note": "Replica della gara del Gran Premio di Gran Bretagna svoltasi il 5 luglio.",
+      "fonte": "GuidaTV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:30",
-      "evento": "Wimbledon - Quarto di finale singolare femminile (Jasmine Paolini vs Marta Kostyuk)",
+      "evento": "Wimbledon 2026 - Quarti di finale (Jasmine Paolini vs Marta Kostyuk)",
       "competizione": "Grande Slam - Wimbledon",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 4K",
-      "note": "Jasmine Paolini, giocatrice italiana, affronta Marta Kostyuk. Orario di inizio sul Campo Centrale. I canali esatti potrebbero essere definiti in mattinata.",
-      "fonte": "OA Sport",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K",
+      "note": "Inizio programmazione con il match di Jasmine Paolini.",
+      "fonte": "sportface.it, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:15",
-      "evento": "Hl Show Wimbledon 2026 Ep.10",
+      "orario": "14:30*",
+      "evento": "Wimbledon 2026 - Quarti di finale (Flavio Cobolli vs Arthur Fery)",
       "competizione": "Grande Slam - Wimbledon",
-      "canale": "Sky Sport Tennis (205)",
-      "note": "Sintesi degli incontri più interessanti della giornata sui campi in erba del torneo di Wimbledon.",
-      "fonte": "Guida.tv",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport 251-256, Sky Sport 4K",
+      "note": "Secondo match sul campo centrale, orario stimato dopo Paolini-Kostyuk.",
+      "fonte": "sportface.it, Sky Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Europei U19 - Italia vs Danimarca (playoff quinto posto per qualificazione Mondiali U20)",
+      "competizione": "Europei U19",
+      "canale": "RaiSportHD",
+      "note": "Partita valida per il playoff del quinto posto e la qualificazione ai Mondiali U20.",
+      "fonte": "sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00 (09/07)",
+      "evento": "Grande Slam 2026-Wimbledon: 10a giornata (Replica)",
+      "competizione": "Grande Slam - Wimbledon",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della decima giornata di Wimbledon.",
+      "fonte": "GuidaTV",
       "accuratezza_orario": "esatto"
     }
   ]
