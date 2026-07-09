@@ -1,40 +1,31 @@
 {
-  "last_updated": "2026-07-08T21:03:54.654552+02:00",
+  "last_updated": "2026-07-09T11:17:56.537271+02:00",
   "events": [
     {
       "orario": "10:00",
-      "evento": "Mondiale Formula 1 2026 - GP Gran Bretagna: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara del GP di Gran Bretagna.",
-      "fonte": "Sky Sport Arena : Programmi TV e Palinsesto",
+      "evento": "Europei U19 2026 - Ucraina - Italia",
+      "competizione": "Calcio - Campionati Europei U19",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://guida.tv/palinsesto/rai-sport-hd",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Tennis - Wimbledon: Quarti di finale (Jasmine Paolini vs Marta Kostyuk)",
-      "competizione": "WTA Tour",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Go, NOW",
-      "note": "Match di singolare femminile sul Campo Centrale.",
-      "fonte": "Wimbledon 2026 oggi (mercoledì 8 luglio): orari partite, tv, streaming, italiani in campo",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00*",
-      "evento": "Tennis - Wimbledon: Quarti di finale (Flavio Cobolli vs Arthur Fery)",
-      "competizione": "ATP Tour",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Go, NOW",
-      "note": "Secondo match sul Campo Centrale, orario stimato dopo l'incontro di Jasmine Paolini.",
-      "fonte": "Wimbledon 2026 oggi (mercoledì 8 luglio): orari partite, tv, streaming, italiani in campo",
+      "orario": "12:00",
+      "evento": "Wimbledon 2026 - Undicesima giornata (semifinali singolare femminile, doppi)",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
+      "note": "Possibile partecipazione di giocatori italiani (e.g., Jasmine Paolini se qualificata alle semifinali di singolare femminile). Orario di inizio della copertura. Orario esatto dei singoli match TBA.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdSIF-w-1FFJ0kR6IxnlyfWxh_GYEYZDxZ-dcoNMkBS3BNuv7dp7L0O3q6r3GuGOvMi01K1cMfuKSZkDjKvTa6V6fPVHZzUJriu6cZmiAoHyvTnjGbw9uhP8jPbw_ZC9_dv-lR9Lbsk3ilUV5C1s3WiANkEJ4VZgQ0XXeaecEpDeJN61masXDX8r9t4FryfN0EW0TFWqadlUU12myBfhRHKmpYcFrts81w7p_8N38CNWQtFeRrHo8o7D65Aw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbrPZ8NLUe4pCRF1HuohPhO0sBhC5ebqkdE9cEumXmd8Aw-hJcaBYB6IGTdLagGjbU3uc2j9tg9xTl8p9IkSj5P28IzAuX9EZFAczgXOdUTHk1pfuSVIegUWgHP6AR56NQHZMqjTaDO9X-Gw==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "04:45",
-      "evento": "Europei U19 2026 - Ucraina vs Italia",
-      "competizione": "Europei Under 19 (Calcio)",
-      "canale": "Sport Notte",
-      "note": "Replica o differita della partita valida per gli Europei Under 19, trasmessa nelle prime ore del 9 luglio.",
-      "fonte": "Sport Notte - Guida TV",
+      "orario": "22:00",
+      "evento": "FIFA World Cup 2026 - Quarti di finale: Francia - Marocco",
+      "competizione": "Calcio - Coppa del Mondo",
+      "canale": "Rai 1, DAZN",
+      "note": "Partita valida per i quarti di finale del Mondiale 2026.",
+      "fonte": "https://www.eurosport.it/calcio/mondiali/2026/calendario-risultati-e-partite-mondiali-2026_sto9639775/story.shtml, https://www.oasport.it/2026/07/quale-partita-sulla-rai-oggi-mondiali-calcio-2026-orario-giovedi-9-giugno-canale-streaming/",
       "accuratezza_orario": "esatto"
     }
   ]
