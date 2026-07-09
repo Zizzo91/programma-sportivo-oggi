@@ -1,31 +1,13 @@
 {
-  "last_updated": "2026-07-09T11:17:56.537271+02:00",
+  "last_updated": "2026-07-09T16:27:35.959570+02:00",
   "events": [
     {
-      "orario": "10:00",
-      "evento": "Europei U19 2026 - Ucraina - Italia",
-      "competizione": "Calcio - Campionati Europei U19",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://guida.tv/palinsesto/rai-sport-hd",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Wimbledon 2026 - Undicesima giornata (semifinali singolare femminile, doppi)",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena, Sky Sport Mix, Sky Sport 4K, Sky Sport Wimbledon 1-6",
-      "note": "Possibile partecipazione di giocatori italiani (e.g., Jasmine Paolini se qualificata alle semifinali di singolare femminile). Orario di inizio della copertura. Orario esatto dei singoli match TBA.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdSIF-w-1FFJ0kR6IxnlyfWxh_GYEYZDxZ-dcoNMkBS3BNuv7dp7L0O3q6r3GuGOvMi01K1cMfuKSZkDjKvTa6V6fPVHZzUJriu6cZmiAoHyvTnjGbw9uhP8jPbw_ZC9_dv-lR9Lbsk3ilUV5C1s3WiANkEJ4VZgQ0XXeaecEpDeJN61masXDX8r9t4FryfN0EW0TFWqadlUU12myBfhRHKmpYcFrts81w7p_8N38CNWQtFeRrHo8o7D65Aw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbrPZ8NLUe4pCRF1HuohPhO0sBhC5ebqkdE9cEumXmd8Aw-hJcaBYB6IGTdLagGjbU3uc2j9tg9xTl8p9IkSj5P28IzAuX9EZFAczgXOdUTHk1pfuSVIegUWgHP6AR56NQHZMqjTaDO9X-Gw==",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "22:00",
-      "evento": "FIFA World Cup 2026 - Quarti di finale: Francia - Marocco",
-      "competizione": "Calcio - Coppa del Mondo",
+      "evento": "Francia - Marocco (Quarti di finale)",
+      "competizione": "Mondiali FIFA 2026",
       "canale": "Rai 1, DAZN",
-      "note": "Partita valida per i quarti di finale del Mondiale 2026.",
-      "fonte": "https://www.eurosport.it/calcio/mondiali/2026/calendario-risultati-e-partite-mondiali-2026_sto9639775/story.shtml, https://www.oasport.it/2026/07/quale-partita-sulla-rai-oggi-mondiali-calcio-2026-orario-giovedi-9-giugno-canale-streaming/",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECLvAWrfstn9lYVCZMKuHJtFDn_KQeQwyi6Es2KUWRUzUXxWvid-t-gebsmO2gEiekrrbugdgg-mDfHE6uXPIt06LZf7coRP_SEWchVaMCMDH34uCdumByCaN5BG9dcWE8Ms7dJHuivafNTfU9ghjsdeMN6HmCO-3ifn-vQQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWaVvypBcgITO2dcQgPT0fjvMSJrbDVlihemcoemM3cphzprTlNqoOrlA_Ti7VyXaGE0aPJids2UbpOYn8cxRuvvGqP6zqf8B7sJPE0DfNTbAHDT5IupJiJkubhTwOWc226q2c, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcyBhzICZooMgL347mf1e7YDu_7cMT8iuULj6_1iqwFgDd29yI1UCN6mPKsC6VubsWGngyj4vllc59V5BGawAETxhzfjd5ZrQwqTkf6UCYv7yvaWM0eTq5zTp2m012uLgvDuLNmUtiGVEFQm5P24G0IHQ5WagEqOg5Wl-yvyHsjc7U_ixdAqOFLGb_hGnD, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPjJ-rffO4qt75RYaA-o8GdjCgiiaJ0kML6nqhIpBz-uFBB5ez_VMSMN4ijIAyjj3HynefunpcZgH-FXHKYg9mEoepnvlSAF284ABaEHcsA8h30ysgjJaagc_zBKcZ2xVMP5gWXAThEXBgKL0ExVYprd8Cz2oUVTPVKFZ7-Ns5xzrZSOSXe6pxcfuwcag_PURMm3tIjEap3Wnbs1UQucgnQ9eUSEJgWxsquw9nxrCv45TtXrwNsIk5gQVs8xs8r3ztexgIhgDyb89Z, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKE3dY8gJnMySss0zC68CQiSRm0aGi0jeAzbnCk2l9rGrKQqv1HXA0sfoOaw3fdkZZh9ASkwsadspIZNQjx4VTWLyUzsk0c13aa4wyS_KwAW9atOz5Aito8PxBGNNRf2Jl8ZmNdtLbEp3THejDF3vXpAv6fu0SvBwMkZBGajYFhQBeA0mE2yTA-oLwhuiCpEBTH9ruykil3tlufteVbyY=",
       "accuratezza_orario": "esatto"
     }
   ]
