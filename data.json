@@ -1,77 +1,77 @@
 {
-  "last_updated": "2026-07-10T15:54:14.292487+02:00",
+  "last_updated": "2026-07-10T21:13:43.888615+02:00",
   "events": [
     {
       "orario": "09:00",
-      "evento": "Prove Libere 1 Moto3",
-      "competizione": "MotoGP, GP di Germania (Sachsenring)",
-      "canale": "Sky Sport MotoGP HD",
+      "evento": "Prove Libere 1",
+      "competizione": "Moto3 - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
       "note": "",
-      "fonte": "Moto.it",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-orari-tv-sky-now-tv8-gran-premio-germania/10492802/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:50",
-      "evento": "Prove Libere 1 Moto2",
-      "competizione": "MotoGP, GP di Germania (Sachsenring)",
-      "canale": "Sky Sport MotoGP HD",
+      "evento": "Prove Libere 1",
+      "competizione": "Moto2 - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "Moto.it",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-orari-tv-sky-now-tv8-gran-premio-germania/10492802/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:45",
-      "evento": "Prove Libere 1 MotoGP",
-      "competizione": "MotoGP, GP di Germania (Sachsenring)",
-      "canale": "Sky Sport MotoGP HD",
+      "evento": "Prove Libere 1",
+      "competizione": "MotoGP - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
       "note": "",
-      "fonte": "Moto.it",
+      "fonte": "https://www.oasport.it/2026/07/motogp-oggi-in-tv-gp-germania-2026-orari-prove-libere-streaming-programma-10-luglio/, https://www.motorsport.com/motogp/news/motogp-orari-tv-sky-now-tv8-gran-premio-germania/10492802/, https://www.nowtv.it/sport/motogp, https://sport.sky.it/motogp/programmazione-tv",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:15",
-      "evento": "Pre-qualifiche Moto3",
-      "competizione": "MotoGP, GP di Germania (Sachsenring)",
-      "canale": "Sky Sport MotoGP HD",
+      "evento": "Prove",
+      "competizione": "Moto3 - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "Moto.it",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-orari-tv-sky-now-tv8-gran-premio-germania/10492802/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:05",
-      "evento": "Pre-qualifiche Moto2",
-      "competizione": "MotoGP, GP di Germania (Sachsenring)",
-      "canale": "Sky Sport MotoGP HD",
+      "evento": "Prove",
+      "competizione": "Moto2 - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "Moto.it",
+      "fonte": "https://www.motorsport.com/motogp/news/motogp-orari-tv-sky-now-tv8-gran-premio-germania/10492802/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Pre-qualifiche MotoGP",
-      "competizione": "MotoGP, GP di Germania (Sachsenring)",
-      "canale": "Sky Sport MotoGP HD",
+      "evento": "Prove",
+      "competizione": "MotoGP - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "Moto.it",
+      "fonte": "https://www.oasport.it/2026/07/motogp-oggi-in-tv-gp-germania-2026-orari-prove-libere-streaming-programma-10-luglio/, https://www.motorsport.com/motogp/news/motogp-orari-tv-sky-now-tv8-gran-premio-germania/10492802/, https://www.nowtv.it/sport/motogp, https://sport.sky.it/motogp/programmazione-tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Jannik Sinner (ITA) vs Novak Djokovic (SRB) - 2a Semifinale Maschile",
-      "competizione": "Tennis, Grande Slam Wimbledon",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Match a seguire dopo la prima semifinale.",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "tba"
+      "orario": "18:00*",
+      "evento": "Semifinale Maschile: Jannik Sinner (ITA) vs Novak Djokovic (SRB)",
+      "competizione": "Tennis - Wimbledon",
+      "canale": "TV8, Sky Sport Uno, Sky Sport Tennis, Sky Sport 4K",
+      "note": "Secondo match sul Centre Court, a seguire dopo Zverev-Fery.",
+      "fonte": "https://sport.sky.it/tennis/2026/07/10/wimbledon-2026-programma-oggi-partite-orari, https://www.oasport.it/2026/07/a-che-ora-sinner-djokovic-su-tv8-oggi-wimbledon-2026-programma-preciso-e-streaming/, https://www.hdblog.it/2026/07/10/wimbledon-2026-programma-orari-partite-oggi-10-luglio/, https://www.adnkronos.com/sport/wimbledon-oggi-semifinale-sinner-djokovic-orario-precedenti-e-dove-vederla-in-chiaro_6Qx8h9L7X9B8Q0G4Q2E5N7C1L8A7L",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Spagna vs Belgio - Quarto di finale",
-      "competizione": "Calcio, FIFA World Cup 2026",
-      "canale": "Rai 1",
-      "note": "Orario stimato per la trasmissione in prima serata italiana. La partita si svolge a Inglewood, USA, con un fuso orario di -9 ore rispetto al CET. Un calcio d'inizio locale alle 12:00 PT corrisponderebbe alle 21:00 CET.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
+      "evento": "Spagna vs Belgio",
+      "competizione": "Calcio - Mondiali 2026 (Quarti di Finale)",
+      "canale": "Rai 1, DAZN",
+      "note": "",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-10-luglio-2026-spagna-belgio-in-primo-piano-825597.html, https://www.canale10.it/2026/07/10/guida-tv-10-luglio-programmi-di-stasera-in-chiaro-e-su-sky/, https://www.tuttosport.com/s/calcio-in-tv/partita-in-tv-oggi, https://sport.sky.it/calcio/mondiali/2026/07/10/mondiali-2026-calendario-oggi-spagna-belgio",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
