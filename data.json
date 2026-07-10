@@ -1,356 +1,77 @@
 {
-  "last_updated": "2026-07-10T03:47:30.924552+02:00",
+  "last_updated": "2026-07-10T15:54:14.292487+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "ReTour",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "ProgrammiTV.com / Rai Sport +HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Sky Tennis Show",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:30",
-      "evento": "The Insider Wimbledon",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:45",
-      "evento": "Radiocorsa",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "ProgrammiTV.com / Rai Sport +HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:15",
-      "evento": "Reparto Corse",
-      "competizione": "Rubrica sportiva",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "ProgrammiTV.com / Rai Sport +HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:45",
-      "evento": "Meeting Sport Solidarietà Lignano Sabbiadoro 2026",
-      "competizione": "Atletica",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "ProgrammiTV.com / Rai Sport +HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:40",
-      "evento": "The Insider Wimbledon",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "09:00",
-      "evento": "Moto3 - GP Germania: Prove libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP (208), Sky Sport 1 (201)",
+      "evento": "Prove Libere 1 Moto3",
+      "competizione": "MotoGP, GP di Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP HD",
       "note": "",
-      "fonte": "inSella.it, OA Sport, F1inGenerale.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:45",
-      "evento": "Pool Finale Campionati Italiani 2026 - da Treviso",
-      "competizione": "Biliardo",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "ProgrammiTV.com / Rai Sport +HD",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:50",
-      "evento": "Moto2 - GP Germania: Prove libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP (208)",
+      "evento": "Prove Libere 1 Moto2",
+      "competizione": "MotoGP, GP di Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP HD",
       "note": "",
-      "fonte": "inSella.it, F1inGenerale.com",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:45",
-      "evento": "MotoGP - GP Germania: Prove libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP (208)",
+      "evento": "Prove Libere 1 MotoGP",
+      "competizione": "MotoGP, GP di Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP HD",
       "note": "",
-      "fonte": "inSella.it, F1inGenerale.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:45",
-      "evento": "Campionati Mondiali 2026: Quarti di Finale",
-      "competizione": "Calcio",
-      "canale": "Rai Sport +HD",
-      "note": "Replay/Sintesi",
-      "fonte": "GuidaTV.com, ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "The Insider Wimbledon",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Premier League Stories",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "L'uomo della Domenica",
-      "competizione": "Rubrica sportiva",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:15",
-      "evento": "Moto3 - GP Germania: Pre-qualifiche",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP (208)",
+      "evento": "Pre-qualifiche Moto3",
+      "competizione": "MotoGP, GP di Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP HD",
       "note": "",
-      "fonte": "inSella.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:45",
-      "evento": "The Insider Wimbledon",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:50",
-      "evento": "Ciclismo MTB. Finali World Series La Thuile: Cross Country Donne Elite",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Dribbling Mondiali",
-      "competizione": "Calcio",
-      "canale": "RaiDue",
-      "note": "",
-      "fonte": "GuidaTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Sky Tennis Show",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:05",
-      "evento": "Moto2 - GP Germania: Pre-qualifiche",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP (208)",
+      "evento": "Pre-qualifiche Moto2",
+      "competizione": "MotoGP, GP di Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP HD",
       "note": "",
-      "fonte": "inSella.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Grande Slam 2026 - Wimbledon: 1a Semifinale Maschile (Fery - Zverev)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport 4K, NOW",
-      "note": "Match che precede Sinner-Djokovic",
-      "fonte": "OA Sport, Key4biz, Quotidiano Nazionale / Sky Sport Uno",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "MotoGP - GP Germania: Pre-qualifiche",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP (208)",
+      "evento": "Pre-qualifiche MotoGP",
+      "competizione": "MotoGP, GP di Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP HD",
       "note": "",
-      "fonte": "inSella.it",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:30*",
-      "evento": "Grande Slam 2026 - Wimbledon: 2a Semifinale Maschile (Sinner - Djokovic)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport 4K, TV8, NOW, tv8.it",
-      "note": "Orario stimato, non prima delle 17:30 CET, dipende dalla durata del match precedente Fery-Zverev.",
-      "fonte": "OA Sport, Key4biz, Sky TG24, Quotidiano Nazionale / Sky Sport Uno",
+      "orario": "TBA",
+      "evento": "Jannik Sinner (ITA) vs Novak Djokovic (SRB) - 2a Semifinale Maschile",
+      "competizione": "Tennis, Grande Slam Wimbledon",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Match a seguire dopo la prima semifinale.",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Spagna vs Belgio - Quarto di finale",
+      "competizione": "Calcio, FIFA World Cup 2026",
+      "canale": "Rai 1",
+      "note": "Orario stimato per la trasmissione in prima serata italiana. La partita si svolge a Inglewood, USA, con un fuso orario di -9 ore rispetto al CET. Un calcio d'inizio locale alle 12:00 PT corrisponderebbe alle 21:00 CET.",
+      "fonte": "OA Sport",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Diamond League",
-      "competizione": "Atletica",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Campionato saudita: Al Khallej-Al Ahli",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Wimbledon 2022 (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Replica",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Mondiali di calcio 2026: Quarti di finale (Spagna - Belgio)",
-      "competizione": "Calcio",
-      "canale": "Rai 1",
-      "note": "",
-      "fonte": "ProgrammiTV.com, Calciomagazine.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Tour de France",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "River Plate - Rosario Central",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:15",
-      "evento": "Notti Mondiali",
-      "competizione": "Calcio",
-      "canale": "Rai 1",
-      "note": "Rubrica",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:45",
-      "evento": "Italia's Got Padel",
-      "competizione": "Padel",
-      "canale": "SuperTennis",
-      "note": "Rubrica",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Tour de France",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Manchester City-Aston Villa",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "WTA 500 Londra (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Replica",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Calciomercato - L'originale",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "GuidaTV.com, Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "The Insider Wimbledon",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:15",
-      "evento": "Sky Tennis Show",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Quotidiano Nazionale / Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:24",
-      "evento": "Sport Mediaset - La giornata",
-      "competizione": "Rubrica sportiva",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "QuestaseraTv.it",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
