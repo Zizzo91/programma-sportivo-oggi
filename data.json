@@ -1,103 +1,85 @@
 {
-  "last_updated": "2026-07-12T03:28:27.997828+02:00",
+  "last_updated": "2026-07-12T14:52:26.659782+02:00",
   "events": [
     {
       "orario": "03:00",
-      "evento": "FIFA World Cup 2026 - Quarti di finale: Argentina vs Svizzera",
-      "competizione": "FIFA World Cup 2026",
+      "evento": "Argentina - Svizzera",
+      "competizione": "Mondiali FIFA 2026 - Quarti di finale",
       "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "note": "Partita terminata prima dell'ora corrente. Include fuso orario fino alle 06:00 del giorno successivo.",
+      "fonte": "DAZN News IT, Calciomagazine, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00",
-      "evento": "MotoGP 2026 - GP Germania: Gara (Grand Prix)",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "Orario stimato per la gara live, basato su orari generali dei GP domenicali. Potrebbe essere trasmessa in diretta.",
-      "fonte": "MotoGP.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "07:00",
-      "evento": "MotoGP 2026 - GP Germania: Sprint Race",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della Sprint Race del sabato.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:45",
-      "evento": "MotoGP Paddock Live Show",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:35",
-      "evento": "MotoGP Warm Up",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Moto GP Rider Fan Parade",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Sport Mattina - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "MotoGP Paddock Live",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Sport Mattina - Guida TV",
+      "orario": "07:10",
+      "evento": "Nuova Zelanda - Italia",
+      "competizione": "Nations Championship di Rugby",
+      "canale": "Sky Sport Uno, Sky Sport Arena, TV8, NOW, SkyGo, tv8.it",
+      "note": "Partita terminata prima dell'ora corrente.",
+      "fonte": "Rugby.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:00",
-      "evento": "Moto3 2026 - GP Germania: Gara",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno, TV8",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8, Sky Go, NOW",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Sport Mattina - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "MotoGP Paddock Live",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Sport Mattina - Guida TV",
+      "fonte": "Sky Sport, FormulaPassion, Guida TV, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:15",
-      "evento": "Moto2 2026 - GP Germania: Gara",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno, TV8",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8, Sky Go, NOW",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Sport Mattina - Guida TV",
+      "fonte": "Sky Sport, FormulaPassion, Guida TV, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Campionato argentino: River Plate-Belgrano",
-      "competizione": "Campionato argentino",
-      "canale": "Sportitalia",
+      "orario": "14:00",
+      "evento": "Gara MotoGP",
+      "competizione": "MotoGP - GP Germania (Sachsenring)",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8, Sky Go, NOW",
       "note": "",
-      "fonte": "Sport in TV domenica 12 luglio 2026 in seconda serata - Programmi TV",
+      "fonte": "Sky Sport, FormulaPassion, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Finale Singolare Maschile - Jannik Sinner vs Alexander Zverev",
+      "competizione": "Tennis - Wimbledon",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW",
+      "note": "Presenza italiana (Jannik Sinner).",
+      "fonte": "LiveTennis.it, OA Sport, LiveTennis.it, Olympics.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Sky Tennis Show",
+      "competizione": "Tennis",
+      "canale": "Sky Sport 1",
+      "note": "Approfondimento e analisi sui tornei.",
+      "fonte": "Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "MotoGP: Eventi/Highlights",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport 1",
+      "note": "Appuntamenti con gli eventi della massima categoria del Motomondiale.",
+      "fonte": "Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:30",
+      "evento": "Race Anatomy MotoGP",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport (generico)",
+      "note": "Approfondimento del post-GP con analisi ed esperti.",
+      "fonte": "Libero",
       "accuratezza_orario": "esatto"
     }
   ]
