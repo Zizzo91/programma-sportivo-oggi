@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-13T10:44:25.009075+02:00",
+  "last_updated": "2026-07-13T21:09:12.137197+02:00",
   "events": [
     {
-      "orario": "08:00",
-      "evento": "Gara (Replica)",
-      "competizione": "MotoGP 2026 - GP Germania",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara.",
-      "fonte": "Sky Sport Uno",
+      "orario": "10:30",
+      "evento": "Tennis: Lorenzo Sonego (ITA) vs Joel Schwaerzler (AUT)",
+      "competizione": "ATP 250 Gstaad - 1° Turno",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Match sul campo centrale, orario esatto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQjMD3PgtARCbmpSVe8E71Jd9GJ8OkJHtM3a4LV-83kN4UK1CaB1wwxUVOF-BBqZeDt563s46BGbrwcIk9jbIF633BMhPfvqOcaiLu2mTaHFdvW4DhLWafUS5T9aQcmQKNI9uSr1fNEfcLKgEbKJUxb9p6zTdfML3vt6c7JGxSJS5lLTd_YDPPfMGCvz2clYs4Y-n5N_mnr1scUIvfbFEfviquvku7rZQuNiBY28qpEgvNVwYC04aVusa_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_0dCosNnTqTCrCVQY6p6t_F7_mOV0QIgZicJVgJDhIZC8iQs3B253BK1i-F64csu8SsgMrfudP-4xnC2qIBcTTe_F6bg-NTSE4jEvV9N1vXQ7zjRb4eKoR-mFA2_Jm-J5frGGtU05tw5l0UjG1CUkN18rPqeB_pkqUF5X1kXZYL9NtY7-qgi8G42s8FO8Zv6CljWURRYRJigDnXU2ea3LW_hMqirb3iELaWtl0pzbv_qeejgoPLiqwv9wusVjDg89rXHzE3CrdwCVeFvZECK8CUyij_YBHXcQTvJIMev-yVJqULvC0_Flb84Kaa34fS7u_4=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:30",
-      "evento": "Lorenzo Sonego (ITA) vs. Mikael Ymer (SWE)",
-      "competizione": "ATP 250 Gstaad, 1° turno",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Sport Mix (211)",
-      "note": "Match di tennis con giocatore italiano. [cite: 2, first set of snippets]",
-      "fonte": "Sport in tv oggi (lunedì 13 luglio): orari e programma completo. Come vedere gli eventi in streaming",
+      "orario": "12:00",
+      "evento": "Tennis: Johnson/Zielinski vs Andrea Pellegrino (ITA)/Andrea Vavassori (ITA)",
+      "competizione": "ATP 250 Bastad - Doppio, Ottavi di Finale",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_0dCosNnTqTCrCVQY6p6t_F7_mOV0QIgZicJVgJDhIZC8iQs3B253BK1i-F64csu8SsgMrfudP-4xnC2qIBcTTe_F6bg-NTSE4jEvV9N1vXQ7zjRb4eKoR-mFA2_Jm-J5frGGtU05tw5l0UjG1CUkN18rPqeB_pkqUF5X1kXZYL9NtY7-qgi8G42s8FO8Zv6CljWURRYRJigDnXU2ea3LW_hMqirb3iELaWtl0pzbv_qeejgoPLiqwv9wusVjDg89rXHzE3CrdwCVeFvZECK8CUyij_YBHXcQTvJIMev-yVJqULvC0_Flb84Kaa34fS7u_4=",
       "accuratezza_orario": "esatto"
     }
   ]
