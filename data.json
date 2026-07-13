@@ -1,58 +1,22 @@
 {
-  "last_updated": "2026-07-12T20:47:36.366835+02:00",
+  "last_updated": "2026-07-13T10:44:25.009075+02:00",
   "events": [
     {
-      "orario": "09:40",
-      "evento": "Warm-up",
-      "competizione": "MotoGP GP Germania",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport, Sport in tv oggi (domenica 12 luglio): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP GP Germania",
-      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Diretta gratis e in chiaro su TV8",
-      "fonte": "OA Sport, Sport Mattina - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP GP Germania",
-      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Diretta gratis e in chiaro su TV8",
-      "fonte": "OA Sport, Sport Mattina - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP GP Germania",
-      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Diretta gratis e in chiaro su TV8",
-      "fonte": "OA Sport, Sport Sera - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Finale Singolare Maschile",
-      "competizione": "Wimbledon 2026",
+      "orario": "08:00",
+      "evento": "Gara (Replica)",
+      "competizione": "MotoGP 2026 - GP Germania",
       "canale": "Sky Sport Uno",
-      "note": "Jannik Sinner in campo",
-      "fonte": "Sport in tv oggi (domenica 12 luglio): orari e programma. Dove vedere gli eventi in streaming, Eventi di sport nell'estate 2026 su Sky: F1, MotoGp, Wimbledon, volley, basket",
-      "accuratezza_orario": "stimato"
+      "note": "Replica della gara.",
+      "fonte": "Sky Sport Uno",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Finale Campionati Europei CEV Under 18 femminili: Italia vs Turchia",
-      "competizione": "Volley Europeo Under 18 femminile",
-      "canale": "N/A",
-      "note": "Anita Tessariol (settore giovanile Vero Volley Monza) in campo. Possibile streaming online su piattaforme CEV/federazioni.",
-      "fonte": "Italia in finale all'Europeo U18 femminile con Anita Tessariol protagonista: 14 punti contro la Francia - Vero Volley",
+      "orario": "10:30",
+      "evento": "Lorenzo Sonego (ITA) vs. Mikael Ymer (SWE)",
+      "competizione": "ATP 250 Gstaad, 1° turno",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Sport Mix (211)",
+      "note": "Match di tennis con giocatore italiano. [cite: 2, first set of snippets]",
+      "fonte": "Sport in tv oggi (lunedì 13 luglio): orari e programma completo. Come vedere gli eventi in streaming",
       "accuratezza_orario": "esatto"
     }
   ]
