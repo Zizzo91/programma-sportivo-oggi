@@ -1,49 +1,13 @@
 {
-  "last_updated": "2026-07-14T03:19:03.872223+02:00",
+  "last_updated": "2026-07-14T09:44:53.689287+02:00",
   "events": [
     {
-      "orario": "13:15",
-      "evento": "MotoGP Paddock Live Gara (Replica)",
-      "competizione": "MotoGP GP Germania 2026",
-      "canale": "TV8",
-      "note": "Replica del Gran Premio di Germania 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0ffdbq43FcuF5hPBoq5ou46bc1iZ7QegpLGwFjKyszYiozLBcdZ_BhFzF5nzviRqZ4miXPIYYDZd8L2rTr7DPdj3t98gm6yJDpdkOF_FBrcu_1BkRhP-bC2Spxw3mrqYfJGw7f1MCu28wFnm6jh3b60U",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "MotoGP Grid (Replica)",
-      "competizione": "MotoGP GP Germania 2026",
-      "canale": "TV8",
-      "note": "Replica del Gran Premio di Germania 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0ffdbq43FcuF5hPBoq5ou46bc1iZ7QegpLGwFjKyszYiozLBcdZ_BhFzF5nzviRqZ4miXPIYYDZd8L2rTr7DPdj3t98gm6yJDpdkOF_FBrcu_1BkRhP-bC2Spxw3mrUfJGw7f1MCu28wFnm6jh3b60U",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP (Replica)",
-      "competizione": "MotoGP GP Germania 2026",
-      "canale": "TV8",
-      "note": "Replica della gara del Gran Premio di Germania 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0ffdbq43FcuF5hPBoq5ou46bc1iZ7QegpLGwFjKyszYiozLBcdZ_BhFzF5nzviRqZ4miXPIYYDZd8L2rTr7DPdj3t98gm6yJDpdkOF_FBrcu_1BkRhP-bC2Spxw3mrUfJGw7f1MCu28wFnm6jh3b60U",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "MotoGP Zona Rossa (Replica)",
-      "competizione": "MotoGP GP Germania 2026",
-      "canale": "TV8",
-      "note": "Replica del Gran Premio di Germania 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0ffdbq43FcuF5hPBoq5ou46bc1iZ7QegpLGwFjKyszYiozLBcdZ_BhFzF5nzviRqZ4miXPIYYDZd8L2rTr7DPdj3t98gm6yJDpdkOF_FBrcu_1BkRhP-bC2Spxw3mrUfJGw7f1MCu28wFnm6jh3b60U",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "21:00",
-      "evento": "Francia - Spagna",
-      "competizione": "Semifinale Mondiali",
-      "canale": "DAZN, Rai 1",
-      "note": "Partita di calcio valida per le semifinali dei Mondiali.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAaiHNreiosmOdeQeM3naDUnjmOQmBn5rP-g6S9ajUwWnITRCdhj__2hHmqC4czbeCsadk4-zoezPvg_G76p39Sc3McaCkO_cNAfq-3zV8IdzZ-h8kJThivhUPPIQl18bgkQ6i_6EwFZXghh8J44KDJ5Ob4EcffLs-elyKt6oblw",
+      "evento": "Calcio, Mondiali 2026 - Semifinale: Francia vs Spagna",
+      "competizione": "Mondiali di Calcio 2026",
+      "canale": "Rai 1, DAZN",
+      "note": "Streaming disponibile su Rai Play e DAZN. Partita giocata a Dallas.",
+      "fonte": "adnkronos.com, oasport.it, calcioetv.it, skysport.it",
       "accuratezza_orario": "esatto"
     }
   ]
