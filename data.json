@@ -1,31 +1,13 @@
 {
-  "last_updated": "2026-07-14T15:03:28.978734+02:00",
+  "last_updated": "2026-07-14T20:59:27.994894+02:00",
   "events": [
     {
       "orario": "21:00",
-      "evento": "Mondiali 2026 - Semifinale: Francia vs Spagna",
-      "competizione": "Calcio",
-      "canale": "Rai 1 HD, RaiPlay, DAZN",
-      "note": "Semifinale della Coppa del Mondo FIFA 2026.",
-      "fonte": "Sportface.it, kisskiss.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Sky Tennis Club",
-      "competizione": "Rubrica Sportiva (Tennis)",
-      "canale": "Sky Sport 1",
-      "note": "Analisi e approfondimenti sui tornei di tennis.",
-      "fonte": "Libero.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:15",
-      "evento": "Motociclismo, MotoGP",
-      "competizione": "Rubrica Sportiva (MotoGP)",
-      "canale": "Sky Sport 1",
-      "note": "Focus su gare, protagonisti e chiavi tecniche del weekend (non replay di gara).",
-      "fonte": "Libero.it",
+      "evento": "Mondiali FIFA 2026: Francia vs Spagna",
+      "competizione": "Coppa del Mondo FIFA 2026 (Semifinale)",
+      "canale": "Rai 1, DAZN",
+      "note": "",
+      "fonte": "Digital-News.it, Sky Sport, DAZN News IT, kisskiss.it, OA Sport, Stasera in TV, Napolike, Libero Magazine, OA Sport",
       "accuratezza_orario": "esatto"
     }
   ]
