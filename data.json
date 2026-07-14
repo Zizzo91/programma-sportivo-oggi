@@ -1,22 +1,49 @@
 {
-  "last_updated": "2026-07-13T21:09:12.137197+02:00",
+  "last_updated": "2026-07-14T03:19:03.872223+02:00",
   "events": [
     {
-      "orario": "10:30",
-      "evento": "Tennis: Lorenzo Sonego (ITA) vs Joel Schwaerzler (AUT)",
-      "competizione": "ATP 250 Gstaad - 1° Turno",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Match sul campo centrale, orario esatto",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQjMD3PgtARCbmpSVe8E71Jd9GJ8OkJHtM3a4LV-83kN4UK1CaB1wwxUVOF-BBqZeDt563s46BGbrwcIk9jbIF633BMhPfvqOcaiLu2mTaHFdvW4DhLWafUS5T9aQcmQKNI9uSr1fNEfcLKgEbKJUxb9p6zTdfML3vt6c7JGxSJS5lLTd_YDPPfMGCvz2clYs4Y-n5N_mnr1scUIvfbFEfviquvku7rZQuNiBY28qpEgvNVwYC04aVusa_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_0dCosNnTqTCrCVQY6p6t_F7_mOV0QIgZicJVgJDhIZC8iQs3B253BK1i-F64csu8SsgMrfudP-4xnC2qIBcTTe_F6bg-NTSE4jEvV9N1vXQ7zjRb4eKoR-mFA2_Jm-J5frGGtU05tw5l0UjG1CUkN18rPqeB_pkqUF5X1kXZYL9NtY7-qgi8G42s8FO8Zv6CljWURRYRJigDnXU2ea3LW_hMqirb3iELaWtl0pzbv_qeejgoPLiqwv9wusVjDg89rXHzE3CrdwCVeFvZECK8CUyij_YBHXcQTvJIMev-yVJqULvC0_Flb84Kaa34fS7u_4=",
+      "orario": "13:15",
+      "evento": "MotoGP Paddock Live Gara (Replica)",
+      "competizione": "MotoGP GP Germania 2026",
+      "canale": "TV8",
+      "note": "Replica del Gran Premio di Germania 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0ffdbq43FcuF5hPBoq5ou46bc1iZ7QegpLGwFjKyszYiozLBcdZ_BhFzF5nzviRqZ4miXPIYYDZd8L2rTr7DPdj3t98gm6yJDpdkOF_FBrcu_1BkRhP-bC2Spxw3mrqYfJGw7f1MCu28wFnm6jh3b60U",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:00",
-      "evento": "Tennis: Johnson/Zielinski vs Andrea Pellegrino (ITA)/Andrea Vavassori (ITA)",
-      "competizione": "ATP 250 Bastad - Doppio, Ottavi di Finale",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_0dCosNnTqTCrCVQY6p6t_F7_mOV0QIgZicJVgJDhIZC8iQs3B253BK1i-F64csu8SsgMrfudP-4xnC2qIBcTTe_F6bg-NTSE4jEvV9N1vXQ7zjRb4eKoR-mFA2_Jm-J5frGGtU05tw5l0UjG1CUkN18rPqeB_pkqUF5X1kXZYL9NtY7-qgi8G42s8FO8Zv6CljWURRYRJigDnXU2ea3LW_hMqirb3iELaWtl0pzbv_qeejgoPLiqwv9wusVjDg89rXHzE3CrdwCVeFvZECK8CUyij_YBHXcQTvJIMev-yVJqULvC0_Flb84Kaa34fS7u_4=",
+      "orario": "13:30",
+      "evento": "MotoGP Grid (Replica)",
+      "competizione": "MotoGP GP Germania 2026",
+      "canale": "TV8",
+      "note": "Replica del Gran Premio di Germania 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0ffdbq43FcuF5hPBoq5ou46bc1iZ7QegpLGwFjKyszYiozLBcdZ_BhFzF5nzviRqZ4miXPIYYDZd8L2rTr7DPdj3t98gm6yJDpdkOF_FBrcu_1BkRhP-bC2Spxw3mrUfJGw7f1MCu28wFnm6jh3b60U",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Gara MotoGP (Replica)",
+      "competizione": "MotoGP GP Germania 2026",
+      "canale": "TV8",
+      "note": "Replica della gara del Gran Premio di Germania 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0ffdbq43FcuF5hPBoq5ou46bc1iZ7QegpLGwFjKyszYiozLBcdZ_BhFzF5nzviRqZ4miXPIYYDZd8L2rTr7DPdj3t98gm6yJDpdkOF_FBrcu_1BkRhP-bC2Spxw3mrUfJGw7f1MCu28wFnm6jh3b60U",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "MotoGP Zona Rossa (Replica)",
+      "competizione": "MotoGP GP Germania 2026",
+      "canale": "TV8",
+      "note": "Replica del Gran Premio di Germania 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0ffdbq43FcuF5hPBoq5ou46bc1iZ7QegpLGwFjKyszYiozLBcdZ_BhFzF5nzviRqZ4miXPIYYDZd8L2rTr7DPdj3t98gm6yJDpdkOF_FBrcu_1BkRhP-bC2Spxw3mrUfJGw7f1MCu28wFnm6jh3b60U",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Francia - Spagna",
+      "competizione": "Semifinale Mondiali",
+      "canale": "DAZN, Rai 1",
+      "note": "Partita di calcio valida per le semifinali dei Mondiali.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAaiHNreiosmOdeQeM3naDUnjmOQmBn5rP-g6S9ajUwWnITRCdhj__2hHmqC4czbeCsadk4-zoezPvg_G76p39Sc3McaCkO_cNAfq-3zV8IdzZ-h8kJThivhUPPIQl18bgkQ6i_6EwFZXghh8J44KDJ5Ob4EcffLs-elyKt6oblw",
       "accuratezza_orario": "esatto"
     }
   ]
