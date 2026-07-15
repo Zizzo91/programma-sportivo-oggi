@@ -1,13 +1,76 @@
 {
-  "last_updated": "2026-07-14T20:59:27.994894+02:00",
+  "last_updated": "2026-07-15T09:48:13.615600+02:00",
   "events": [
     {
+      "orario": "10:30",
+      "evento": "ATP Gstaad - Ottavi di finale: Lorenzo Sonego vs Raphael Collignon",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Ottavi di finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuqa3tthhHq947SLTrbaYJO1WCIEflJCFPvbvU9l7dRu7AZCiyWtZnQ_TPQnfrCSyCpHaIrb2XLuz_2K3jJV8pIK_DAbxnmZnv1t0sR6i4PyjTObbMSrC53ABsggc0McGJDnAAhrN3jkRbKfv9RjMKXxpFCpIOiLid5oak1KktQG1J2SMyu86dihZtZDWsYNBsJkJiKh0or2dhGkpNzJ6I-EMiHPEgfsscOrmFBs6tYwN9tC9s4qQMX0vEHH88kQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00*",
+      "evento": "ATP Bastad - Ottavi di finale: Luciano Darderi vs Daniel Altmaier",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Quarto match sul centrale, a seguire Travaglia-Navone",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuqa3tthhHq947SLTrbaYJO1WCIEflJCFPvbvU9l7dRu7AZCiyWtZnQ_TPQnfrCSyCpHaIrb2XLuz_2K3jJV8pIK_DAbxnmZnv1t0sR6i4PyjTObbMSrC53ABsggc0McGJDnAAhrN3jkRbKfv9RjMKXxpFCpIOiLid5oak1KktQG1J2SMyu86dihZtZDWsYNBsJkJiKh0or2dhGkpNzJ6I-EMiHPEgfsscOrmFBs6tYwN9tC9s4qQMX0vEHH88kQ==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "ATP Umago - Ottavi di finale: Matteo Arnaldi vs avversario TBA",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Mix",
+      "note": "L'avversario è stato precedentemente indicato come Gomez",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuqa3tthhHq947SLTrbaYJO1WCIEflJCFPvbvU9l7dRu7AZCiyWtZnQ_TPQnfrCSyCpHaIrb2XLuz_2K3jJV8pIK_DAbxnmZnv1t0sR6i4PyjTObbMSrC53ABsggc0McGJDnAAhrN3jkRbKfv9RjMKXxpFCpIOiLid5oak1KktQG1J2SMyu86dihZtZDWsYNBsJkJiKh0or2dhGkpNzJ6I-EMiHPEgfsscOrmFBs6tYwN9tC9s4qQMX0vEHH88kQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00*",
+      "evento": "ATP Umago - Ottavi di finale: Flavio Cobolli vs Burruchaga",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Mix",
+      "note": "Non prima delle 18:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuqa3tthhHq947SLTrbaYJO1WCIEflJCFPvbvU9l7dRu7AZCiyWtZnQ_TPQnfrCSyCpHaIrb2XLuz_2K3jJV8pIK_DAbxnmZnv1t0sR6i4PyjTObbMSrC53ABsggc0McGJDnAAhrN3jkRbKfv9RjMKXxpFCpIOiLid5oak1KktQG1J2SMyu86dihZtZDWsYNBsJkJiKh0or2dhGkpNzJ6I-EMiHPEgfsscOrmFBs6tYwN9tC9s4qQMX0vEHH88kQ==",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "21:00",
-      "evento": "Mondiali FIFA 2026: Francia vs Spagna",
-      "competizione": "Coppa del Mondo FIFA 2026 (Semifinale)",
+      "evento": "Mondiali di Calcio 2026: Semifinale Inghilterra-Argentina",
+      "competizione": "Calcio - Coppa del Mondo FIFA 2026",
       "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "Digital-News.it, Sky Sport, DAZN News IT, kisskiss.it, OA Sport, Stasera in TV, Napolike, Libero Magazine, OA Sport",
+      "note": "Semifinale in diretta dal MetLife Stadium di New Jersey, USA",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhOnBU7-vqBw3jgZNEuqFGEv8FNCihSLmQdfCM1_Ocz1CCOoysoIsJy1cNGRnmde3dvNzOCDV5F1C0iho0zdEmFLSoAsUnl85EkDQgNnN86va4dEMLtCF59s0NYqTHdZRJ_iZJcBx3Qdjp_1ji6LN-QyRC3DEA91TKnzNg3rM",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "Notti Mondiali",
+      "competizione": "Calcio - Rubrica",
+      "canale": "Rai 1",
+      "note": "Rubrica post-partita sui Mondiali 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBDzn0toi9cYRDN3WwJiEAKC2KmTy3ZtO8WXWAwJAWZq1GTJAzlGugAhWyJQNi916skrnn6Bhl3QrIqcMr6TD25M_NOZq1P0Xw6wyUI3B6WNTK7PmbTp6HekiNj-32gu8SA0Svio=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:59",
+      "evento": "Notti Mondiali",
+      "competizione": "Calcio - Rubrica",
+      "canale": "Rai 1",
+      "note": "Rubrica post-partita sui Mondiali 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBDzn0toi9cYRDN3WwJiEAKC2KmTy3ZtO8WXWAwJAWZq1GTJAzlGugAhWyJQNi916skrnn6Bhl3QrIqcMr7TD25M_NOZq1P0Xw6wyUI3B6WNTK7PmbTp6HekiNj-32gu8SA0Svio=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:45",
+      "evento": "MotoGP 2026 - GP Germania: Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del Gran Premio di Germania, tenutosi il 12 luglio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3IVl21kFlzv6eFCv4aWnRHJoRwrgiwSz8KhbV6J9n2jzz-uXzCXj-AFWDxIWhqrgYw97kes668RNWwZ7YZvanPMzNgnIvD9afABbsuloxF6Ecateduy2aDqdk4FnFjS5TmQ08-jj4Gi5lGMAD1R4X_xJN",
       "accuratezza_orario": "esatto"
     }
   ]
