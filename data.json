@@ -1,76 +1,58 @@
 {
-  "last_updated": "2026-07-15T09:48:13.615600+02:00",
+  "last_updated": "2026-07-15T15:07:08.215358+02:00",
   "events": [
     {
       "orario": "10:30",
-      "evento": "ATP Gstaad - Ottavi di finale: Lorenzo Sonego vs Raphael Collignon",
-      "competizione": "Tennis ATP 250",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Ottavi di finale",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuqa3tthhHq947SLTrbaYJO1WCIEflJCFPvbvU9l7dRu7AZCiyWtZnQ_TPQnfrCSyCpHaIrb2XLuz_2K3jJV8pIK_DAbxnmZnv1t0sR6i4PyjTObbMSrC53ABsggc0McGJDnAAhrN3jkRbKfv9RjMKXxpFCpIOiLid5oak1KktQG1J2SMyu86dihZtZDWsYNBsJkJiKh0or2dhGkpNzJ6I-EMiHPEgfsscOrmFBs6tYwN9tC9s4qQMX0vEHH88kQ==",
+      "evento": "ATP 250 Gstaad: Lorenzo Sonego (ITA) vs Raphael Collignon (BEL)",
+      "competizione": "Tennis - ATP 250 Gstaad (Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
+      "note": "Ottavo di finale. Primo match sul centrale.",
+      "fonte": "https://www.oasport.it/2026/07/sport-in-tv-oggi-mercoledi-15-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://sport.sky.it/tennis/2026/07/15/tennis-oggi-programma-atp-wta-15-luglio, https://www.ubitennis.com/blog/2026/07/15/italiani-in-campo-mercoledi-15-luglio-cobolli-arnaldi-darderi-e-sonego-a-che-ora-e-dove-vederli/, https://www.livetennis.it/post/410118/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-15-luglio-2026/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:00*",
-      "evento": "ATP Bastad - Ottavi di finale: Luciano Darderi vs Daniel Altmaier",
-      "competizione": "Tennis ATP 250",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "Quarto match sul centrale, a seguire Travaglia-Navone",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuqa3tthhHq947SLTrbaYJO1WCIEflJCFPvbvU9l7dRu7AZCiyWtZnQ_TPQnfrCSyCpHaIrb2XLuz_2K3jJV8pIK_DAbxnmZnv1t0sR6i4PyjTObbMSrC53ABsggc0McGJDnAAhrN3jkRbKfv9RjMKXxpFCpIOiLid5oak1KktQG1J2SMyu86dihZtZDWsYNBsJkJiKh0or2dhGkpNzJ6I-EMiHPEgfsscOrmFBs6tYwN9tC9s4qQMX0vEHH88kQ==",
+      "orario": "14:00*",
+      "evento": "ATP 250 Bastad: Andrea Vavassori/Andrea Pellegrino (ITA) vs V. Kirkov/B. Stevens",
+      "competizione": "Tennis - ATP 250 Bastad (Quarti di Finale Doppio)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
+      "note": "Quarto di finale di doppio, sul Court 1. Orario stimato (3° incontro non prima delle 11:00).",
+      "fonte": "https://www.ubitennis.com/blog/2026/07/15/italiani-in-campo-mercoledi-15-luglio-cobolli-arnaldi-darderi-e-sonego-a-che-ora-e-dove-vederli/, https://www.livetennis.it/post/410118/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-15-luglio-2026/",
       "accuratezza_orario": "stimato"
     },
     {
+      "orario": "TBA",
+      "evento": "ATP 250 Bastad: Luciano Darderi (ITA) vs Daniel Altmaier (GER)",
+      "competizione": "Tennis - ATP 250 Bastad (Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
+      "note": "Ottavo di finale. Orario da definire (4° incontro sul centrale, dopo l'inizio delle 11:00).",
+      "fonte": "https://www.oasport.it/2026/07/sport-in-tv-oggi-mercoledi-15-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://sport.sky.it/tennis/2026/07/15/tennis-oggi-programma-atp-wta-15-luglio, https://www.ubitennis.com/blog/2026/07/15/italiani-in-campo-mercoledi-15-luglio-cobolli-arnaldi-darderi-e-sonego-a-che-ora-e-dove-vederli/, https://www.livetennis.it/post/410118/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-15-luglio-2026/",
+      "accuratezza_orario": "tba"
+    },
+    {
       "orario": "16:00",
-      "evento": "ATP Umago - Ottavi di finale: Matteo Arnaldi vs avversario TBA",
-      "competizione": "Tennis ATP 250",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Mix",
-      "note": "L'avversario è stato precedentemente indicato come Gomez",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuqa3tthhHq947SLTrbaYJO1WCIEflJCFPvbvU9l7dRu7AZCiyWtZnQ_TPQnfrCSyCpHaIrb2XLuz_2K3jJV8pIK_DAbxnmZnv1t0sR6i4PyjTObbMSrC53ABsggc0McGJDnAAhrN3jkRbKfv9RjMKXxpFCpIOiLid5oak1KktQG1J2SMyu86dihZtZDWsYNBsJkJiKh0or2dhGkpNzJ6I-EMiHPEgfsscOrmFBs6tYwN9tC9s4qQMX0vEHH88kQ==",
+      "evento": "ATP 250 Umago: Matteo Arnaldi (ITA) vs Federico Agustin Gomez (ARG)",
+      "competizione": "Tennis - ATP 250 Umago (Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
+      "note": "Ottavo di finale. Primo match sul centrale.",
+      "fonte": "https://www.oasport.it/2026/07/sport-in-tv-oggi-mercoledi-15-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://sport.sky.it/tennis/2026/07/15/tennis-oggi-programma-atp-wta-15-luglio, https://www.ubitennis.com/blog/2026/07/15/italiani-in-campo-mercoledi-15-luglio-cobolli-arnaldi-darderi-e-sonego-a-che-ora-e-dove-vederli/, https://www.livetennis.it/post/410118/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-15-luglio-2026/, https://www.supertennis.tv/notizie/atp/cobolli-e-arnaldi-debuttano-a-umago/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00*",
-      "evento": "ATP Umago - Ottavi di finale: Flavio Cobolli vs Burruchaga",
-      "competizione": "Tennis ATP 250",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Mix",
-      "note": "Non prima delle 18:00",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuqa3tthhHq947SLTrbaYJO1WCIEflJCFPvbvU9l7dRu7AZCiyWtZnQ_TPQnfrCSyCpHaIrb2XLuz_2K3jJV8pIK_DAbxnmZnv1t0sR6i4PyjTObbMSrC53ABsggc0McGJDnAAhrN3jkRbKfv9RjMKXxpFCpIOiLid5oak1KktQG1J2SMyu86dihZtZDWsYNBsJkJiKh0or2dhGkpNzJ6I-EMiHPEgfsscOrmFBs6tYwN9tC9s4qQMX0vEHH88kQ==",
+      "evento": "ATP 250 Umago: Flavio Cobolli (ITA) vs Roman Andres Burruchaga (ARG)",
+      "competizione": "Tennis - ATP 250 Umago (Ottavi di Finale)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix, Sky Go, NOW, Tennis TV",
+      "note": "Ottavo di finale. Orario stimato (non prima delle 18:00 sul Goran Ivanisevic Stadion).",
+      "fonte": "https://www.oasport.it/2026/07/sport-in-tv-oggi-mercoledi-15-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://sport.sky.it/tennis/2026/07/15/tennis-oggi-programma-atp-wta-15-luglio, https://www.ubitennis.com/blog/2026/07/15/italiani-in-campo-mercoledi-15-luglio-cobolli-arnaldi-darderi-e-sonego-a-che-ora-e-dove-vederli/, https://www.livetennis.it/post/410118/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-15-luglio-2026/, https://www.sisal.it/news/tennis/atp-umago-cobolli-barruchaga-data-orario-pronostico-e-dove-vedere, https://www.supertennis.tv/notizie/atp/cobolli-e-arnaldi-debuttano-a-umago/",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Mondiali di Calcio 2026: Semifinale Inghilterra-Argentina",
+      "evento": "Mondiali di Calcio 2026: Semifinale - Inghilterra vs Argentina",
       "competizione": "Calcio - Coppa del Mondo FIFA 2026",
       "canale": "Rai 1, DAZN",
-      "note": "Semifinale in diretta dal MetLife Stadium di New Jersey, USA",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhOnBU7-vqBw3jgZNEuqFGEv8FNCihSLmQdfCM1_Ocz1CCOoysoIsJy1cNGRnmde3dvNzOCDV5F1C0iho0zdEmFLSoAsUnl85EkDQgNnN86va4dEMLtCF59s0NYqTHdZRJ_iZJcBx3Qdjp_1ji6LN-QyRC3DEA91TKnzNg3rM",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:15",
-      "evento": "Notti Mondiali",
-      "competizione": "Calcio - Rubrica",
-      "canale": "Rai 1",
-      "note": "Rubrica post-partita sui Mondiali 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBDzn0toi9cYRDN3WwJiEAKC2KmTy3ZtO8WXWAwJAWZq1GTJAzlGugAhWyJQNi916skrnn6Bhl3QrIqcMr6TD25M_NOZq1P0Xw6wyUI3B6WNTK7PmbTp6HekiNj-32gu8SA0Svio=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:59",
-      "evento": "Notti Mondiali",
-      "competizione": "Calcio - Rubrica",
-      "canale": "Rai 1",
-      "note": "Rubrica post-partita sui Mondiali 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBDzn0toi9cYRDN3WwJiEAKC2KmTy3ZtO8WXWAwJAWZq1GTJAzlGugAhWyJQNi916skrnn6Bhl3QrIqcMr7TD25M_NOZq1P0Xw6wyUI3B6WNTK7PmbTp6HekiNj-32gu8SA0Svio=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:45",
-      "evento": "MotoGP 2026 - GP Germania: Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara del Gran Premio di Germania, tenutosi il 12 luglio",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3IVl21kFlzv6eFCv4aWnRHJoRwrgiwSz8KhbV6J9n2jzz-uXzCXj-AFWDxIWhqrgYw97kes668RNWwZ7YZvanPMzNgnIvD9afABbsuloxF6Ecateduy2aDqdk4FnFjS5TmQ08-jj4Gi5lGMAD1R4X_xJN",
+      "note": "Seconda semifinale dei Mondiali di Calcio 2026.",
+      "fonte": "https://www.programmitv.com/programmi-tv-sport/mercoledi-15-luglio-2026/, https://www.oasport.it/2026/07/sport-in-tv-oggi-mercoledi-15-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.dazn.com/it-IT/news/calcio/mondiali-2026-semifinali-programma-telecronisti-14-15-luglio/3w81w3n23n8p1e8y8o9e349g7, https://www.digital-news.it/news/dazn/59935/mondiali-calcio-fifa-2026-diretta-dazn-semifinali-programma-e-telecronisti-14-15-luglio, https://www.dazn.com/it-IT/news/calcio/mondiali-2026-risultati-date-orari-stadi-diretta-streaming/17q3i16n3niz41t5w54q9b17x3, https://www.gazzetta.it/calcio/mondiali/2026/07/14/calcio-in-tv-oggi-15-luglio-2026-argentina-inghilterra-in-primo-piano-430987.shtml, https://www.libero.it/magazine/storie/stasera-in-tv-non-solo-mondiali-calcio-alessandro-borghese-arbitra-celebrity-chef-102552636",
       "accuratezza_orario": "esatto"
     }
   ]
