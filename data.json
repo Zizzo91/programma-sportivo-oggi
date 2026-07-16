@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-07-16T03:25:12.809654+02:00",
-  "events": []
+  "last_updated": "2026-07-16T09:53:30.060144+02:00",
+  "events": [
+    {
+      "orario": "18:00*",
+      "evento": "ATP 250 Umag - Quarti di finale: Matteo Arnaldi vs Damir Dzumhur",
+      "competizione": "ATP 250 Umag",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Mix",
+      "note": "Orario stimato, il match inizierà non prima delle 18:00 a seconda degli incontri precedenti.",
+      "fonte": "OA Sport, Sky Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "23:30",
+      "evento": "ATP & WTA 2026 (copertura notturna)",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis",
+      "note": "Proseguimento della copertura dei tornei ATP e WTA.",
+      "fonte": "Guida.tv",
+      "accuratezza_orario": "esatto"
+    }
+  ]
 }
