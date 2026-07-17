@@ -1,50 +1,113 @@
 {
-  "last_updated": "2026-07-17T15:00:11.235373+02:00",
+  "last_updated": "2026-07-17T20:51:28.848475+02:00",
   "events": [
     {
+      "orario": "09:55",
+      "evento": "Prove Libere F3",
+      "competizione": "Formula 3 - GP Belgio",
+      "canale": "Sky Sport F1",
+      "note": "Diretta",
+      "fonte": "https://www.formulapassion.it/f1/f1-orari-tv/gp-belgio-2026-spa-in-diretta-su-sky-differita-su-tv8-745499.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "ATP Bastad: Quarti di finale: Stefano Travaglia vs Adolfo Daniel Vallejo",
+      "competizione": "ATP 250 Bastad",
+      "canale": "Sky Sport Tennis (Canale 203)",
+      "note": "Diretta. Streaming su Sky Go, NOW, Tennis TV",
+      "fonte": "https://www.ubitennis.com/blog/2026/07/17/italiani-in-campo-venerdi-17-luglio-travaglia-e-darderi-a-caccia-della-semifinale-a-che-ora-e-dove-vederli/, https://www.skysport.it/tennis/2026/07/17/tennis-oggi-programma-17-luglio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:05",
+      "evento": "Prove Libere F2",
+      "competizione": "Formula 2 - GP Belgio",
+      "canale": "Sky Sport F1",
+      "note": "Diretta",
+      "fonte": "https://www.formulapassion.it/f1/f1-orari-tv/gp-belgio-2026-spa-in-diretta-su-sky-differita-su-tv8-745499.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "12:30*",
-      "evento": "ATP Bastad: QF - Borges vs Darderi",
-      "competizione": "Tennis ATP 250",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Secondo match sul campo centrale, orario stimato",
-      "fonte": "https://www.ubitennis.com/blog/2026/07/17/italiani-in-campo-venerdi-17-luglio-travaglia-e-darderi-a-caccia-della-semifinale-a-che-ora-e-dove-vederli/",
+      "evento": "ATP Bastad: Quarti di finale: Luciano Darderi vs Nuno Borges",
+      "competizione": "ATP 250 Bastad",
+      "canale": "Sky Sport Tennis (Canale 203)",
+      "note": "Diretta. Secondo match sul Centre Court. Streaming su Sky Go, NOW, Tennis TV",
+      "fonte": "https://www.ubitennis.com/blog/2026/07/17/italiani-in-campo-venerdi-17-luglio-travaglia-e-darderi-a-caccia-della-semifinale-a-che-ora-e-dove-vederli/, https://www.skysport.it/tennis/2026/07/17/tennis-oggi-programma-17-luglio",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "13:30",
-      "evento": "F1 GP Belgio: Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "https://www.oasport.it/2026/07/f1-oggi-in-tv-gp-belgio-2026-orari-prove-libere-programma-17-luglio-streaming/",
+      "evento": "Prove Libere 1 F1",
+      "competizione": "Formula 1 - GP Belgio",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Diretta. Streaming su NOW e SkyGO",
+      "fonte": "https://www.oasport.it/2026/07/f1-oggi-in-tv-gp-belgio-2026-orari-prove-libere-programma-17-luglio-streaming/, https://www.formulapassion.it/f1/f1-orari-tv/gp-belgio-2026-spa-in-diretta-su-sky-differita-su-tv8-745499.html, https://www.alvolante.it/news/formula-1-gp-belgio-2026-orari-tv-streaming-379659",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Qualifiche F3",
+      "competizione": "Formula 3 - GP Belgio",
+      "canale": "Sky Sport F1",
+      "note": "Diretta",
+      "fonte": "https://www.formulapassion.it/f1/f1-orari-tv/gp-belgio-2026-spa-in-diretta-su-sky-differita-su-tv8-745499.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:55",
+      "evento": "Qualifiche F2",
+      "competizione": "Formula 2 - GP Belgio",
+      "canale": "Sky Sport F1",
+      "note": "Diretta",
+      "fonte": "https://www.formulapassion.it/f1/f1-orari-tv/gp-belgio-2026-spa-in-diretta-su-sky-differita-su-tv8-745499.html",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "F1 GP Belgio: Prove Libere 2",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "https://www.oasport.it/2026/07/f1-oggi-in-tv-gp-belgio-2026-orari-prove-libere-programma-17-luglio-streaming/",
+      "evento": "Prove Libere 2 F1",
+      "competizione": "Formula 1 - GP Belgio",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Diretta. Streaming su NOW e SkyGO",
+      "fonte": "https://www.oasport.it/2026/07/f1-oggi-in-tv-gp-belgio-2026-orari-prove-libere-programma-17-luglio-streaming/, https://www.formulapassion.it/f1/f1-orari-tv/gp-belgio-2026-spa-in-diretta-su-sky-differita-su-tv8-745499.html, https://www.alvolante.it/news/formula-1-gp-belgio-2026-orari-tv-streaming-379659",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00*",
-      "evento": "WTA 125 Roma: QF - Trevisan vs Yaneva",
-      "competizione": "Tennis WTA 125",
-      "canale": "SuperTennis, SuperTenniX",
-      "note": "Orario stimato, match 'in serata'",
-      "fonte": "https://www.tennistalker.it/2026/07/17/il-tennis-in-tv-oggi-17-luglio-cinque-azzurri-nei-quarti-di-finale/",
-      "accuratezza_orario": "stimato"
+      "orario": "22:30",
+      "evento": "WTA 250 Iasi (replica)",
+      "competizione": "Tennis WTA",
+      "canale": "SuperTennis",
+      "note": "Replica",
+      "fonte": "https://www.tvpertutti.it/palinsesto/super-tennis/2026-07-17",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
-      "evento": "WTA 125 Roma: QF - Chiesa vs Bronzetti",
-      "competizione": "Tennis WTA 125",
-      "canale": "SuperTennis, SuperTenniX",
-      "note": "Orario stimato, match 'in serata', derby italiano",
-      "fonte": "https://www.tennistalker.it/2026/07/17/il-tennis-in-tv-oggi-17-luglio-cinque-azzurri-nei-quarti-di-finale/",
-      "accuratezza_orario": "stimato"
+      "orario": "01:00",
+      "evento": "WTA 250 Atene (replica)",
+      "competizione": "Tennis WTA",
+      "canale": "SuperTennis",
+      "note": "Replica",
+      "fonte": "https://www.tvpertutti.it/palinsesto/super-tennis/2026-07-17",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "WTA 250 Atene (replica)",
+      "competizione": "Tennis WTA",
+      "canale": "SuperTennis",
+      "note": "Replica",
+      "fonte": "https://www.tvpertutti.it/palinsesto/super-tennis/2026-07-17",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "WTA 250 Iasi (replica)",
+      "competizione": "Tennis WTA",
+      "canale": "SuperTennis",
+      "note": "Replica",
+      "fonte": "https://www.tvpertutti.it/palinsesto/super-tennis/2026-07-17",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
