@@ -1,59 +1,50 @@
 {
-  "last_updated": "2026-07-17T09:50:12.817362+02:00",
+  "last_updated": "2026-07-17T15:00:11.235373+02:00",
   "events": [
     {
       "orario": "12:30*",
-      "evento": "Borges (Por) vs DARDERI (Ita)",
-      "competizione": "Tennis - ATP 250 Bastad, Quarti di finale",
-      "canale": "Sky Sport Tennis (203), NOW, Sky Sport Plus, Extra Match",
-      "note": "Orario stimato, a seguire il match precedente.",
-      "fonte": "Sky Sport",
+      "evento": "ATP Bastad: QF - Borges vs Darderi",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport Tennis, NOW",
+      "note": "Secondo match sul campo centrale, orario stimato",
+      "fonte": "https://www.ubitennis.com/blog/2026/07/17/italiani-in-campo-venerdi-17-luglio-travaglia-e-darderi-a-caccia-della-semifinale-a-che-ora-e-dove-vederli/",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "12:45",
-      "evento": "GP Ungheria: Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica di un Gran Premio precedente.",
-      "fonte": "Guida TV Sky Sport MotoGP",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "13:30",
-      "evento": "Formula 1 - Prove Libere 1",
-      "competizione": "F1 - GP Belgio (Spa-Francorchamps)",
-      "canale": "Sky Sport F1, Sky Go, NOW",
+      "evento": "F1 GP Belgio: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
       "note": "",
-      "fonte": "Sky Sport F1",
+      "fonte": "https://www.oasport.it/2026/07/f1-oggi-in-tv-gp-belgio-2026-orari-prove-libere-programma-17-luglio-streaming/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Formula 1 - Prove Libere 2",
-      "competizione": "F1 - GP Belgio (Spa-Francorchamps)",
-      "canale": "Sky Sport F1, Sky Go, NOW",
+      "evento": "F1 GP Belgio: Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
       "note": "",
-      "fonte": "Sky Sport F1",
+      "fonte": "https://www.oasport.it/2026/07/f1-oggi-in-tv-gp-belgio-2026-orari-prove-libere-programma-17-luglio-streaming/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "GP Ungheria: Sprint Race (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica di un Gran Premio precedente.",
-      "fonte": "Guida TV Sky Sport MotoGP",
-      "accuratezza_orario": "esatto"
+      "orario": "18:00*",
+      "evento": "WTA 125 Roma: QF - Trevisan vs Yaneva",
+      "competizione": "Tennis WTA 125",
+      "canale": "SuperTennis, SuperTenniX",
+      "note": "Orario stimato, match 'in serata'",
+      "fonte": "https://www.tennistalker.it/2026/07/17/il-tennis-in-tv-oggi-17-luglio-cinque-azzurri-nei-quarti-di-finale/",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:45",
-      "evento": "GP Ungheria: Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica di un Gran Premio precedente.",
-      "fonte": "Guida TV Sky Sport MotoGP",
-      "accuratezza_orario": "esatto"
+      "orario": "20:00*",
+      "evento": "WTA 125 Roma: QF - Chiesa vs Bronzetti",
+      "competizione": "Tennis WTA 125",
+      "canale": "SuperTennis, SuperTenniX",
+      "note": "Orario stimato, match 'in serata', derby italiano",
+      "fonte": "https://www.tennistalker.it/2026/07/17/il-tennis-in-tv-oggi-17-luglio-cinque-azzurri-nei-quarti-di-finale/",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
