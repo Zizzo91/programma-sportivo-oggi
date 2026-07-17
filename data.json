@@ -1,14 +1,122 @@
 {
-  "last_updated": "2026-07-16T15:15:43.206989+02:00",
+  "last_updated": "2026-07-17T03:28:17.402530+02:00",
   "events": [
     {
-      "orario": "18:00*",
-      "evento": "Dzumhur (BIH) vs Arnaldi (ITA)",
-      "competizione": "ATP 250 Umago",
-      "canale": "Sky Sport Tennis",
-      "note": "Quarti di finale",
-      "fonte": "Sky Sport, CronacaPop",
+      "orario": "09:55",
+      "evento": "Prove Libere",
+      "competizione": "Formula 3 - GP Belgio",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "https://www.skysport.it/formula-1/2026/07/16/f1-gp-belgio-orari-tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Quarti di finale",
+      "competizione": "Premier Padel Malaga P1",
+      "canale": "Sky Sport Max, Sky Sport Mix",
+      "note": "Sessione mattutina",
+      "fonte": "https://sportface.it/altri-sport/padel/premier-padel-in-tv-malaga-p1-su-sky-e-now-domenica-le-finali-su-sky-sport-max/2069279",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:05",
+      "evento": "Prove Libere",
+      "competizione": "Formula 2 - GP Belgio",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "https://www.skysport.it/formula-1/2026/07/16/f1-gp-belgio-orari-tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00*",
+      "evento": "A. Vallejo vs S. Travaglia (primo match, segue Darderi-Borges)",
+      "competizione": "ATP 250 Bastad - Quarti di finale",
+      "canale": "Sky Sport Tennis, Sky Sport Mix",
+      "note": "L'orario indicato è l'inizio della sessione sul Campo Centrale. Il match di Darderi seguirà il primo incontro.",
+      "fonte": "https://www.oasport.it/2026/07/dove-vedere-in-tv-darderi-borges-atp-bastad-2026-orario-programma-streaming/",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Luciano Darderi vs Nuno Borges",
+      "competizione": "ATP 250 Bastad - Quarti di finale",
+      "canale": "Sky Sport Tennis, Sky Sport Mix",
+      "note": "Il match seguirà A. Vallejo vs S. Travaglia.",
+      "fonte": "https://www.oasport.it/2026/07/dove-vedere-in-tv-darderi-borges-atp-bastad-2026-orario-programma-streaming/",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1 - GP Belgio",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "https://www.skysport.it/formula-1/2026/07/16/f1-gp-belgio-orari-tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Qualifiche",
+      "competizione": "Formula 3 - GP Belgio",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "https://www.skysport.it/formula-1/2026/07/16/f1-gp-belgio-orari-tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:55",
+      "evento": "Qualifiche",
+      "competizione": "Formula 2 - GP Belgio",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "https://www.skysport.it/formula-1/2026/07/16/f1-gp-belgio-orari-tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Quarti di finale",
+      "competizione": "Premier Padel Malaga P1",
+      "canale": "Sky Sport Mix",
+      "note": "Sessione pomeridiana, fino alle 22:00",
+      "fonte": "https://sportface.it/altri-sport/padel/premier-padel-in-tv-malaga-p1-su-sky-e-now-domenica-le-finali-su-sky-sport-max/2069279",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1 - GP Belgio",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "https://www.skysport.it/formula-1/2026/07/16/f1-gp-belgio-orari-tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Al Nassr-Al Ahli",
+      "competizione": "Campionato Saudita",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://www.programmitv.com/sport/sport-in-tv-venerdi-17-luglio-2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "River Plate-Belgrano",
+      "competizione": "Campionato Argentino",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://www.programmitv.com/sport/sport-in-tv-venerdi-17-luglio-2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Manchester City-Liverpool",
+      "competizione": "Calcio",
+      "canale": "Sportitalia",
+      "note": "Evento trasmesso il 18 luglio 2026 (dopo la mezzanotte)",
+      "fonte": "https://www.programmitv.com/sport/sport-in-tv-venerdi-17-luglio-2026.html",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
