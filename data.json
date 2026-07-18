@@ -1,49 +1,112 @@
 {
-  "last_updated": "2026-07-18T14:46:40.374620+02:00",
+  "last_updated": "2026-07-18T20:43:54.304793+02:00",
   "events": [
     {
-      "orario": "13:00",
-      "evento": "ATP 250 Bastad, Semifinale: Luciano Darderi (ITA) vs Daniel Vallejo (PAR)",
-      "competizione": "Tennis - ATP 250 Bastad",
-      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis Tv",
+      "orario": "10:00",
+      "evento": "Gara Sprint F3 (GP Belgio)",
+      "competizione": "Formula 3",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Sportface.it, LiveTennis.it, OA Sport",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Prove Libere 3 F1 (GP Belgio)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion, Automoto.it, Motorsport.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Semifinale: Luciano Darderi vs Daniel Vallejo",
+      "competizione": "ATP 250 Bastad",
+      "canale": "Sky Sport Tennis, Sky Go, NOW",
+      "note": "Luciano Darderi è un giocatore italiano.",
+      "fonte": "Sportface.it, TennisTalker Magazine, Sky Sport, Italiani in Campo, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:15",
+      "evento": "Gara Sprint F2 (GP Belgio)",
+      "competizione": "Formula 2",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:30",
-      "evento": "Basilea vs Juventus (Amichevole)",
-      "competizione": "Calcio - Amichevole Internazionale",
+      "evento": "Amichevole: Basilea vs Juventus",
+      "competizione": "Calcio Amichevole",
       "canale": "Sky Sport Calcio, Sky Go, NOW, DAZN",
-      "note": "",
-      "fonte": "Libero, Sportface.it, DAZN News IT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Mondiale Formula 1 2026 - GP Belgio: Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, Sky Go, NOW",
-      "note": "",
-      "fonte": "Sky Sport, Sportface.it, Quotidiano Nazionale",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Mondiale Formula 1 2026 - GP Belgio: Qualifiche (Differita)",
-      "competizione": "Formula 1",
-      "canale": "TV8, tv8.it",
       "note": "",
       "fonte": "Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
+      "orario": "16:00",
+      "evento": "Qualifiche F1 (GP Belgio)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "Diretta.",
+      "fonte": "FormulaPassion, Automoto.it, Motorsport.com, Sportface.it, alVolante.it, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30*",
+      "evento": "Semifinale: Bondioli vs Fuele",
+      "competizione": "CH 75 Cordenons",
+      "canale": "Streaming (TBA)",
+      "note": "Bondioli è un giocatore italiano. Orario stimato (non prima delle 17:30). Canale TV non specificato, probabile solo streaming.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Qualifiche F1 (GP Belgio)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Differita.",
+      "fonte": "FormulaPassion, Automoto.it, Motorsport.com, Sportface.it, alVolante.it, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Semifinale: Lucia Bronzetti vs Nuria Brancaccio",
+      "competizione": "WTA 125 Roma",
+      "canale": "SuperTennis",
+      "note": "Derby italiano.",
+      "fonte": "TennisTalker Magazine",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Semifinale: Martina Trevisan vs Francesca Jones",
+      "competizione": "WTA 125 Roma",
+      "canale": "SuperTennis",
+      "note": "Martina Trevisan è una giocatrice italiana.",
+      "fonte": "TennisTalker Magazine",
+      "accuratezza_orario": "tba"
+    },
+    {
       "orario": "23:00",
-      "evento": "Mondiali Calcio FIFA 2026 - Finale 3°/4° posto: Francia vs Inghilterra",
-      "competizione": "Calcio - Mondiale FIFA 2026",
-      "canale": "Rai 1, DAZN",
+      "evento": "Finale 3°/4° posto: Francia vs Inghilterra",
+      "competizione": "FIFA World Cup 2026",
+      "canale": "Rai 1, Rai 4K, RaiPlay, DAZN",
       "note": "",
-      "fonte": "ProgrammiTV.com, Sportface.it, Libero, Digital-News.it, DAZN News IT",
+      "fonte": "Sportface.it, Digital-News.it, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Qualificazioni World Cup 2027: Islanda vs Italia",
+      "competizione": "Basket FIBA World Cup 2027 Qualificazioni",
+      "canale": "Sky Sport Arena",
+      "note": "Partita della nazionale italiana.",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
