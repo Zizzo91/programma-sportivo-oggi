@@ -1,31 +1,40 @@
 {
-  "last_updated": "2026-07-19T14:49:31.469049+02:00",
+  "last_updated": "2026-07-19T20:46:47.793668+02:00",
   "events": [
     {
       "orario": "15:00",
-      "evento": "GP Belgio - Gara",
-      "competizione": "Mondiale Formula 1",
-      "canale": "Sky Sport F1, Sky Sport 1",
-      "note": "Kimi Antonelli in pole position.",
-      "fonte": "OA Sport, Calcio e Sport in Tv",
+      "evento": "Gara F1 GP Belgio",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, Sky Go, NOW",
+      "note": "Andrea Kimi Antonelli (italiano) in pole position.",
+      "fonte": "OA Sport, FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Gara F1 GP Belgio (Differita)",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "TV8, tv8.it",
+      "note": "Differita della gara del Gran Premio del Belgio.",
+      "fonte": "OA Sport, FormulaPassion, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "Non prima delle 14:00",
+      "evento": "Finale ATP 250 Bastad: Luciano Darderi vs Andrey Rublev",
+      "competizione": "ATP Tour 250",
+      "canale": "Sky Sport Tennis (203), Sky Sport Mix (211), Sky Sport Uno (201), Sky Go, NOW, Tennis TV",
+      "note": "Luciano Darderi è un giocatore italiano. In precedenza, alle 11:30 CET, si disputa la finale di doppio.",
+      "fonte": "OA Sport, bet365 News Team, Ubitennis",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Finale Spagna - Argentina",
-      "competizione": "Coppa del Mondo FIFA 2026",
-      "canale": "Rai Uno, DAZN",
-      "note": "Finale del Mondiale.",
-      "fonte": "Calciomagazine, DAZN News IT, Live Soccer TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "GP Belgio - Gara (Replica)",
-      "competizione": "Mondiale Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara.",
-      "fonte": "Super Guida TV",
+      "evento": "Finale Mondiali 2026: Spagna-Argentina",
+      "competizione": "Mondiali FIFA 2026",
+      "canale": "Rai 1, DAZN",
+      "note": "La finale si gioca al New York Stadium.",
+      "fonte": "Libero, Digital-News, Sky Sport, Sportface.it",
       "accuratezza_orario": "esatto"
     }
   ]
