@@ -1,58 +1,31 @@
 {
-  "last_updated": "2026-07-19T03:26:20.115335+02:00",
+  "last_updated": "2026-07-19T14:49:31.469049+02:00",
   "events": [
     {
-      "orario": "14:00*",
-      "evento": "ATP 250 Bastad - Finale (Luciano Darderi vs Andrey Rublev)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis (203), Sky Sport Mix (211)",
-      "note": "Luciano Darderi è un giocatore italiano.",
-      "fonte": "OA Sport, Dtti.it, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "15:00",
-      "evento": "Formula 1 - GP Belgio 2026 - Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 (207), Sky Sport Uno (201), Sky Sport 4K (213), NOW",
-      "note": "",
-      "fonte": "OA Sport, Fanpage, alVolante.it, NOW, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Formula 1 - GP Belgio 2026 - Gara (Differita)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Fanpage, FormulaPassion",
+      "evento": "GP Belgio - Gara",
+      "competizione": "Mondiale Formula 1",
+      "canale": "Sky Sport F1, Sky Sport 1",
+      "note": "Kimi Antonelli in pole position.",
+      "fonte": "OA Sport, Calcio e Sport in Tv",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Mondiali di Calcio 2026 - Finale: Spagna - Argentina",
-      "competizione": "Calcio",
-      "canale": "Rai 1, DAZN",
-      "note": "",
-      "fonte": "ProgrammiTV.com, OA Sport, Calciomagazine, ComingSoon.it",
+      "evento": "Finale Spagna - Argentina",
+      "competizione": "Coppa del Mondo FIFA 2026",
+      "canale": "Rai Uno, DAZN",
+      "note": "Finale del Mondiale.",
+      "fonte": "Calciomagazine, DAZN News IT, Live Soccer TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:40",
-      "evento": "Notti Mondiali",
-      "competizione": "Calcio",
-      "canale": "Rai 1",
-      "note": "Rubrica di approfondimento sui Mondiali.",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:10",
-      "evento": "Notti Mondiali",
-      "competizione": "Calcio",
-      "canale": "Rai 1",
-      "note": "Rubrica di approfondimento sui Mondiali.",
-      "fonte": "ProgrammiTV.com",
+      "orario": "02:30",
+      "evento": "GP Belgio - Gara (Replica)",
+      "competizione": "Mondiale Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara.",
+      "fonte": "Super Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
