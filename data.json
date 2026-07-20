@@ -1,41 +1,149 @@
 {
-  "last_updated": "2026-07-19T20:46:47.793668+02:00",
+  "last_updated": "2026-07-20T03:52:11.901801+02:00",
   "events": [
     {
-      "orario": "15:00",
-      "evento": "Gara F1 GP Belgio",
-      "competizione": "Mondiale Formula 1 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, Sky Go, NOW",
-      "note": "Andrea Kimi Antonelli (italiano) in pole position.",
-      "fonte": "OA Sport, FormulaPassion, Sky Sport",
+      "orario": "06:30",
+      "evento": "Mondiale Formula 1 2026-GP Belgio: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Gara del GP del Belgio svoltasi il 19 luglio 2026.",
+      "fonte": "https://www.quotidiano.net/guidatv/sky-sport-uno/2026-07-20/mattina",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:30",
+      "evento": "Race Anatomy F1 (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Approfondimento sul GP del Belgio.",
+      "fonte": "https://www.quotidiano.net/guidatv/sky-sport-uno/2026-07-20/mattina",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "ATP 250 Umago 2025: Luciano Darderi (ITA) vs Carlos Taberner (ESP) (Replica)",
+      "competizione": "Tennis ATP 250 Umago",
+      "canale": "SuperTennis",
+      "note": "Partita di tennis con un giocatore italiano (Luciano Darderi), replica del 2025.",
+      "fonte": "https://www.staseraintv.com/programmi_supertennis_lunedi_20_luglio_2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Coppa del Mondo FIFA 2026 - Finalissima (Replica)",
+      "competizione": "Calcio - Mondiale 2026",
+      "canale": "Rai Sport +HD",
+      "note": "Replica della finale del Mondiale 2026 (Spagna - TBD) svoltasi il 19 luglio 2026.",
+      "fonte": "https://www.guidatv.net/palinsesti/sport/2026-07-20/mattina/rai-sport-hd",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Tennis ATP & WTA 2026",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Mix, Sky Sport 1, Sky Sport Tennis",
+      "note": "Copertura generica dei tornei ATP e WTA.",
+      "fonte": "https://www.calcioesportintv.it/calcio-e-sport-in-tv-oggi-dove-vedere-in-televisione.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "WTA 250 Iasi",
+      "competizione": "Tennis WTA 250 Iasi",
+      "canale": "SuperTennis",
+      "note": "Sessione live del torneo WTA di Iasi.",
+      "fonte": "https://www.staseraintv.com/programmi_supertennis_lunedi_20_luglio_2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "WTA 250 Iasi",
+      "competizione": "Tennis WTA 250 Iasi",
+      "canale": "SuperTennis",
+      "note": "Sessione live del torneo WTA di Iasi.",
+      "fonte": "https://www.staseraintv.com/programmi_supertennis_lunedi_20_luglio_2026.html",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Gara F1 GP Belgio (Differita)",
-      "competizione": "Mondiale Formula 1 2026",
-      "canale": "TV8, tv8.it",
-      "note": "Differita della gara del Gran Premio del Belgio.",
-      "fonte": "OA Sport, FormulaPassion, Fanpage",
+      "evento": "WTA 250 Iasi",
+      "competizione": "Tennis WTA 250 Iasi",
+      "canale": "SuperTennis",
+      "note": "Sessione live del torneo WTA di Iasi.",
+      "fonte": "https://www.staseraintv.com/programmi_supertennis_lunedi_20_luglio_2026.html",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "Non prima delle 14:00",
-      "evento": "Finale ATP 250 Bastad: Luciano Darderi vs Andrey Rublev",
-      "competizione": "ATP Tour 250",
-      "canale": "Sky Sport Tennis (203), Sky Sport Mix (211), Sky Sport Uno (201), Sky Go, NOW, Tennis TV",
-      "note": "Luciano Darderi è un giocatore italiano. In precedenza, alle 11:30 CET, si disputa la finale di doppio.",
-      "fonte": "OA Sport, bet365 News Team, Ubitennis",
+      "orario": "18:00",
+      "evento": "Lazio-Lazio Primavera (Amichevole)",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "Prima amichevole stagionale della Lazio.",
+      "fonte": "https://www.goal.com/it/liste/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-tv-e-streaming/blte21d9165b632906d691",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "WTA 250 Atene",
+      "competizione": "Tennis WTA 250 Atene",
+      "canale": "SuperTennis",
+      "note": "Sessione live del torneo WTA di Atene.",
+      "fonte": "https://www.staseraintv.com/programmi_supertennis_lunedi_20_luglio_2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "WTA Palermo Ladies Open: Sedicesimi di finale",
+      "competizione": "Tennis WTA Palermo Ladies Open",
+      "canale": "Rai Sport",
+      "note": null,
+      "fonte": "https://www.calcioesportintv.it/calcio-e-sport-in-tv-oggi-dove-vedere-in-televisione.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "WTA 250 Atene",
+      "competizione": "Tennis WTA 250 Atene",
+      "canale": "SuperTennis",
+      "note": "Sessione live del torneo WTA di Atene.",
+      "fonte": "https://www.staseraintv.com/programmi_supertennis_lunedi_20_luglio_2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "ATP & WTA 2026",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis",
+      "note": "Copertura di tornei internazionali di tennis, con attenzione ai tennisti italiani.",
+      "fonte": "https://www.guida.tv/2026-07-20/2026-in-tv-orario-e-repliche/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:30",
+      "evento": "WTA 250 Iasi (Replica)",
+      "competizione": "Tennis WTA 250 Iasi",
+      "canale": "SuperTennis",
+      "note": "Replica del torneo WTA di Iasi.",
+      "fonte": "https://www.staseraintv.com/programmi_supertennis_lunedi_20_luglio_2026.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30*",
+      "evento": "Coppa del Mondo FIFA 2026 - Finalissima (Replica)",
+      "competizione": "Calcio - Mondiale 2026",
+      "canale": "Rai Sport +HD",
+      "note": "Replica della finale del Mondiale 2026 (Spagna - TBD) svoltasi il 19 luglio 2026.",
+      "fonte": "https://www.staseraintv.com/programmi_rai_sport_hd_lunedi_20_luglio_2026.html",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:00",
-      "evento": "Finale Mondiali 2026: Spagna-Argentina",
-      "competizione": "Mondiali FIFA 2026",
-      "canale": "Rai 1, DAZN",
-      "note": "La finale si gioca al New York Stadium.",
-      "fonte": "Libero, Digital-News, Sky Sport, Sportface.it",
-      "accuratezza_orario": "esatto"
+      "orario": "04:00*",
+      "evento": "WTA 250 Atene (Replica)",
+      "competizione": "Tennis WTA 250 Atene",
+      "canale": "SuperTennis",
+      "note": "Replica del torneo WTA di Atene.",
+      "fonte": "https://www.staseraintv.com/programmi_supertennis_lunedi_20_luglio_2026.html",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
