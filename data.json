@@ -1,49 +1,22 @@
 {
-  "last_updated": "2026-07-20T21:22:36.559930+02:00",
+  "last_updated": "2026-07-21T03:25:45.578215+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1 (Analisi GP Belgio)",
-      "canale": "Sky Sport Uno",
-      "note": "Programma di analisi post-gara del Gran Premio del Belgio 2026.",
-      "fonte": "Guida TV",
+      "orario": "18:30",
+      "evento": "WTA 125 Palermo - 1° Turno (Ilary Pistola vs Lucia Bronzetti)",
+      "competizione": "WTA 125 Palermo",
+      "canale": "SuperTennis",
+      "note": "Entrambe le giocatrici sono italiane.",
+      "fonte": "tennisitaliano.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1 (Analisi GP Belgio)",
-      "canale": "Sky Sport Arena",
-      "note": "Programma di analisi post-gara del Gran Premio del Belgio 2026.",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "FIFA World Cup 2026 - Finale (Replica)",
-      "competizione": "Calcio - Coppa del Mondo FIFA",
-      "canale": "Raisport HD",
-      "note": "Replica della finale della Coppa del Mondo FIFA 2026, svoltasi il 19 luglio.",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "FIFA World Cup 2026 - Finale (Replica)",
-      "competizione": "Calcio - Coppa del Mondo FIFA",
-      "canale": "Raisport HD",
-      "note": "Replica della finale della Coppa del Mondo FIFA 2026, svoltasi il 19 luglio.",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "ATP/WTA Tour (Highlights/Repliche con tennisti italiani)",
-      "competizione": "Tennis - ATP/WTA Tour",
+      "orario": "21:45",
+      "evento": "ATP & WTA (Match in corso o highlights dei tornei internazionali con attenzione ai tennisti italiani)",
+      "competizione": "ATP & WTA Tour",
       "canale": "Sky Sport Tennis (205)",
-      "note": "Programmazione dedicata ai tornei internazionali di tennis con particolare attenzione ai tennisti italiani. Comprende match del circuito maschile ATP e femminile WTA. La trasmissione si estende fino alle 02:00 del giorno successivo.",
-      "fonte": "Guida.tv",
+      "note": "Programmazione dedicata ai tornei di tennis ATP e WTA con focus sui tennisti italiani. La trasmissione si estende fino alle 02:00 del 22 luglio.",
+      "fonte": "guida.tv",
       "accuratezza_orario": "esatto"
     }
   ]
