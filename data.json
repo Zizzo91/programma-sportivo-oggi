@@ -1,77 +1,86 @@
 {
-  "last_updated": "2026-07-21T10:05:27.643528+02:00",
+  "last_updated": "2026-07-21T15:13:27.730119+02:00",
   "events": [
     {
-      "orario": "18:30",
-      "evento": "Ilary Pistola vs Lucia Bronzetti",
-      "competizione": "WTA 125 Palermo - Primo Turno",
-      "canale": "Rai Sport, Sky Sport Tennis",
-      "note": "Match con giocatrici italiane",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu1q9GNFWIbzJAS1m4CWdRY7pEwlZHrEjvxhclgzm-3OOLIeBggg2YYY47001VY2BbR_r4kZfpegQC4o5IFO6dC8NRsi0UlCz-OcxPVzMBX9_bihLqzU0p7ya1hND73L5k6UKIIe4_8r-OZ6nSvoEXQDlS7WZm9YxhoQjnTpwMVHPkbuoBpotgse2VST1cIh9Ln6RIeji0vq9LeWcsrA6lPwRLzijf5IaW3fKsVboOXEhXYclzRnZ8Iio",
+      "orario": "00:45",
+      "evento": "Tennis: WTA Palermo Ladies Open (Sedicesimi di Finale)",
+      "competizione": "WTA 125",
+      "canale": "Rai Sport HD",
+      "note": "Probabile partecipazione di giocatrici italiane. Orario del blocco di trasmissione.",
+      "fonte": "Guida.tv / Raisport HD",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "07:20",
+      "evento": "Tennis: WTA Palermo Ladies Open (Sedicesimi di Finale)",
+      "competizione": "WTA 125",
+      "canale": "Rai Sport HD",
+      "note": "Probabile partecipazione di giocatrici italiane. Orario del blocco di trasmissione.",
+      "fonte": "Raisport HD",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "11:50",
+      "evento": "Tennis: WTA Palermo Ladies Open (Sedicesimi di Finale)",
+      "competizione": "WTA 125",
+      "canale": "Rai Sport",
+      "note": "Probabile partecipazione di giocatrici italiane. Orario del blocco di trasmissione.",
+      "fonte": "Guida.tv",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Calcio: FIFA World Cup 2026 - Finalissima (speciale/replay)",
+      "competizione": "Coppa del Mondo FIFA",
+      "canale": "Rai Sport +HD",
+      "note": "Programma speciale/replica della finale del Mondiale 2026.",
+      "fonte": "Stasera in TV / Raisport Hd",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:20",
-      "evento": "GP Belgio: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara del Gran Premio del Belgio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAHWJ4aA0qnEXIgIlCbCyZictTiyYX95w2u8kBR_TodzrdYZsiIWFXp-B3zAx7DglCc9C4NEAqkaaZeq_qdJMD4FR99IpLd4e2sqFwEYZqh5QxLZRtFytOs-Byr3vSZD_V1Kmkvw==",
-      "accuratezza_orario": "esatto"
+      "orario": "16:55",
+      "evento": "Tennis: WTA Palermo Ladies Open (Sedicesimi di Finale)",
+      "competizione": "WTA 125",
+      "canale": "Rai Sport HD",
+      "note": "Probabile partecipazione di giocatrici italiane. Orario del blocco di trasmissione.",
+      "fonte": "Guida.tv / Raisport HD",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:00",
-      "evento": "GP Spagna: Sprint Race (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della Sprint Race del Gran Premio di Spagna 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71XxBU2m98rrRIfL489vd1DAlajZ2xwfg3e8NaExZb9Ldc-Gv3qTFTsfKhVlv0HokJHRyed64kiyrjApKD1tNv3j_VvsQK0NHe7CPIi7DcXBU8hhatXoAsFeQY97-wfAO4nRPLXY=",
-      "accuratezza_orario": "esatto"
+      "orario": "19:55",
+      "evento": "Tennis: WTA Palermo Ladies Open (Sedicesimi di Finale)",
+      "competizione": "WTA 125",
+      "canale": "Rai Sport",
+      "note": "Probabile partecipazione di giocatrici italiane. Orario del blocco di trasmissione.",
+      "fonte": "Guida.tv",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:45",
-      "evento": "GP Spagna: Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara del Gran Premio di Spagna 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71XxBU2m98rrRIfL489vd1DAlajZ2xwfg3e8NaExZb9Ldc-GGv3qTFTsfKhVlv0HokJHRyed64kiyrjApKD1tNv3j_VvsQK0NHe7CPIi7DcXBU8hhatXoAsFeQY97-wfAO4nRPLXY=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:50",
-      "evento": "GP Belgio: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara del Gran Premio del Belgio 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAHWJ4aA0qnEXIgIlCbCyZictTiyYX95w2u8kBR_TodzrdYZsiIWFXp-B3zAx7DglCc9C4NEAqkaaZeq_qdJMD4FR99IpLd4e2sqFwEYZqh5QxLZRtFytOs-Byr3vSZD_V1Kmkvw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "GP Stati Uniti: Sprint Race (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della Sprint Race del Gran Premio degli Stati Uniti 2026 (già nel palinsesto notturno del 22/07)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71XxBU2m98rrRIfL489vd1DAlajZ2xwfg3e8NaExZb9Ldc-Gv3qTFTsfKhVlv0HokJHRyed64kiyrjApKD1tNv3j_VvsQK0NHe7CPIi7DcXBU8hhatXoAsFeQY97-wfAO4nRPLXY=",
+      "evento": "Programma Tennis ATP/WTA",
+      "competizione": "Tennis internazionale",
+      "canale": "Sky Sport Tennis",
+      "note": "Programma con attenzione ai tennisti italiani.",
+      "fonte": "Guida.tv",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:45",
-      "evento": "GP Stati Uniti: Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara del Gran Premio degli Stati Uniti 2026 (già nel palinsesto notturno del 22/07)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71XxBU2m98rrRIfL489vd1DAlajZ2xwfg3e8NaExZb9Ldc-Gv3qTFTsfKhVlv0HokJHRyed64kiyrjApKD1tNv3j_VvsQK0NHe7CPIi7DcXBU8hhatXoAsFeQY97-wfAO4nRPLXY=",
-      "accuratezza_orario": "esatto"
+      "evento": "Tennis: WTA Palermo Ladies Open (Sedicesimi di Finale)",
+      "competizione": "WTA 125",
+      "canale": "Rai Sport HD",
+      "note": "Probabile partecipazione di giocatrici italiane. Orario del blocco di trasmissione. Evento del 22 luglio, entro le 06:00 CET.",
+      "fonte": "Guida.tv / Raisport HD",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "02:10",
-      "evento": "GP Belgio: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara del Gran Premio del Belgio 2026 (già nel palinsesto notturno del 22/07)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAHWJ4aA0qnEXIgIlCbCyZictTiyYX95w2u8kBR_TodzrdYZsiIWFXp-B3zAx7DglCc9C4NEAqkaaZeq_qdJMD4FR99IpLd4e2sqFwEYZqh5QxLZRtFytOs-Byr3vSZD_V1Kmkvw==",
-      "accuratezza_orario": "esatto"
+      "orario": "01:15",
+      "evento": "Tennis: WTA Palermo Ladies Open (Sedicesimi di Finale)",
+      "competizione": "WTA 125",
+      "canale": "Rai Sport",
+      "note": "Probabile partecipazione di giocatrici italiane. Orario del blocco di trasmissione. Evento del 22 luglio, entro le 06:00 CET.",
+      "fonte": "Guida.tv",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
