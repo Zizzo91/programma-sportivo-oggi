@@ -1,22 +1,76 @@
 {
-  "last_updated": "2026-07-21T03:25:45.578215+02:00",
+  "last_updated": "2026-07-21T10:05:27.643528+02:00",
   "events": [
     {
       "orario": "18:30",
-      "evento": "WTA 125 Palermo - 1° Turno (Ilary Pistola vs Lucia Bronzetti)",
-      "competizione": "WTA 125 Palermo",
-      "canale": "SuperTennis",
-      "note": "Entrambe le giocatrici sono italiane.",
-      "fonte": "tennisitaliano.it",
+      "evento": "Ilary Pistola vs Lucia Bronzetti",
+      "competizione": "WTA 125 Palermo - Primo Turno",
+      "canale": "Rai Sport, Sky Sport Tennis",
+      "note": "Match con giocatrici italiane",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu1q9GNFWIbzJAS1m4CWdRY7pEwlZHrEjvxhclgzm-3OOLIeBggg2YYY47001VY2BbR_r4kZfpegQC4o5IFO6dC8NRsi0UlCz-OcxPVzMBX9_bihLqzU0p7ya1hND73L5k6UKIIe4_8r-OZ6nSvoEXQDlS7WZm9YxhoQjnTpwMVHPkbuoBpotgse2VST1cIh9Ln6RIeji0vq9LeWcsrA6lPwRLzijf5IaW3fKsVboOXEhXYclzRnZ8Iio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:20",
+      "evento": "GP Belgio: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del Gran Premio del Belgio 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAHWJ4aA0qnEXIgIlCbCyZictTiyYX95w2u8kBR_TodzrdYZsiIWFXp-B3zAx7DglCc9C4NEAqkaaZeq_qdJMD4FR99IpLd4e2sqFwEYZqh5QxLZRtFytOs-Byr3vSZD_V1Kmkvw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "GP Spagna: Sprint Race (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della Sprint Race del Gran Premio di Spagna 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71XxBU2m98rrRIfL489vd1DAlajZ2xwfg3e8NaExZb9Ldc-Gv3qTFTsfKhVlv0HokJHRyed64kiyrjApKD1tNv3j_VvsQK0NHe7CPIi7DcXBU8hhatXoAsFeQY97-wfAO4nRPLXY=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:45",
-      "evento": "ATP & WTA (Match in corso o highlights dei tornei internazionali con attenzione ai tennisti italiani)",
-      "competizione": "ATP & WTA Tour",
-      "canale": "Sky Sport Tennis (205)",
-      "note": "Programmazione dedicata ai tornei di tennis ATP e WTA con focus sui tennisti italiani. La trasmissione si estende fino alle 02:00 del 22 luglio.",
-      "fonte": "guida.tv",
+      "evento": "GP Spagna: Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara del Gran Premio di Spagna 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71XxBU2m98rrRIfL489vd1DAlajZ2xwfg3e8NaExZb9Ldc-GGv3qTFTsfKhVlv0HokJHRyed64kiyrjApKD1tNv3j_VvsQK0NHe7CPIi7DcXBU8hhatXoAsFeQY97-wfAO4nRPLXY=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:50",
+      "evento": "GP Belgio: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del Gran Premio del Belgio 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAHWJ4aA0qnEXIgIlCbCyZictTiyYX95w2u8kBR_TodzrdYZsiIWFXp-B3zAx7DglCc9C4NEAqkaaZeq_qdJMD4FR99IpLd4e2sqFwEYZqh5QxLZRtFytOs-Byr3vSZD_V1Kmkvw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "GP Stati Uniti: Sprint Race (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della Sprint Race del Gran Premio degli Stati Uniti 2026 (già nel palinsesto notturno del 22/07)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71XxBU2m98rrRIfL489vd1DAlajZ2xwfg3e8NaExZb9Ldc-Gv3qTFTsfKhVlv0HokJHRyed64kiyrjApKD1tNv3j_VvsQK0NHe7CPIi7DcXBU8hhatXoAsFeQY97-wfAO4nRPLXY=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:45",
+      "evento": "GP Stati Uniti: Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara del Gran Premio degli Stati Uniti 2026 (già nel palinsesto notturno del 22/07)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71XxBU2m98rrRIfL489vd1DAlajZ2xwfg3e8NaExZb9Ldc-Gv3qTFTsfKhVlv0HokJHRyed64kiyrjApKD1tNv3j_VvsQK0NHe7CPIi7DcXBU8hhatXoAsFeQY97-wfAO4nRPLXY=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:10",
+      "evento": "GP Belgio: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara del Gran Premio del Belgio 2026 (già nel palinsesto notturno del 22/07)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAHWJ4aA0qnEXIgIlCbCyZictTiyYX95w2u8kBR_TodzrdYZsiIWFXp-B3zAx7DglCc9C4NEAqkaaZeq_qdJMD4FR99IpLd4e2sqFwEYZqh5QxLZRtFytOs-Byr3vSZD_V1Kmkvw==",
       "accuratezza_orario": "esatto"
     }
   ]
