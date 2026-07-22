@@ -1,76 +1,40 @@
 {
-  "last_updated": "2026-07-22T15:18:37.375455+02:00",
+  "last_updated": "2026-07-22T20:55:19.133033+02:00",
   "events": [
     {
-      "orario": "10:00",
-      "evento": "WTA 250 Amburgo (Sedicesimi e ottavi di finale)",
-      "competizione": "Tennis WTA",
+      "orario": "07:45",
+      "evento": "Incontro Amichevole: FC Basilea - Juventus",
+      "competizione": "Calcio - Amichevole",
       "canale": "Sky Sport Uno",
-      "note": "Presenza di giocatrici italiane da verificare.",
-      "fonte": "OA Sport, Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "ATP & WTA 2026",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Programmazione generica di tennis, possibile copertura di incontri con italiani.",
+      "note": "",
       "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Bologna-Heidenheim",
+      "evento": "Amichevole: Bologna - Heidenheim",
       "competizione": "Calcio - Amichevole",
       "canale": "DAZN",
-      "note": "Amichevole estiva.",
-      "fonte": "Sport in tv oggi (mercoledì 22 luglio): orari e programma. Dove vedere gli eventi in streaming, Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina, Serie A, il programma e i risultati delle amichevoli di oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "WTA 125 Palermo (Secondo turno)",
-      "competizione": "Tennis WTA",
-      "canale": "RaiSportHD, Rai Play",
-      "note": "Diretta tv di un incontro su RaiSportHD. Presenza di giocatrici italiane da verificare.",
-      "fonte": "Sport in tv oggi (mercoledì 22 luglio): orari e programma. Dove vedere gli eventi in streaming, Oggi in TV - Programmi Rai Sport +HD mercoledi 22 luglio 2026, Sport Pomeriggio - Guida TV",
+      "note": "",
+      "fonte": "Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina - Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Napoli-Arezzo",
+      "evento": "Amichevole: Napoli - Arezzo",
       "competizione": "Calcio - Amichevole",
       "canale": "DAZN, Sky Sport 251, NOW",
-      "note": "Amichevole estiva. Diretta in pay-per-view su Sky Primafila (Sky Sport 251).",
-      "fonte": "Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina, Serie A, il programma e i risultati delle amichevoli di oggi",
+      "note": "",
+      "fonte": "Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina - Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Fiorentina-Gubbio",
+      "evento": "Amichevole: Fiorentina - Gubbio",
       "competizione": "Calcio - Amichevole",
       "canale": "DAZN",
-      "note": "Amichevole estiva.",
-      "fonte": "Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina, Serie A, il programma e i risultati delle amichevoli di oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "ATP & WTA 2026",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Programmazione generica di tennis, possibile copertura di incontri con italiani.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "ATP & WTA 2026",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Programmazione generica di tennis (palinsesto notturno del 22/07/2026 che si estende al 23/07/2026). Possibile copertura di incontri con italiani.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "",
+      "fonte": "Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina - Libero",
       "accuratezza_orario": "esatto"
     }
   ]
