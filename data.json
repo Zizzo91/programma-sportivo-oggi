@@ -1,67 +1,76 @@
 {
-  "last_updated": "2026-07-22T10:06:23.902727+02:00",
+  "last_updated": "2026-07-22T15:18:37.375455+02:00",
   "events": [
     {
-      "orario": "16:00",
-      "evento": "Amichevole: Bologna-Heidenheim",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqTU91d80um5b20rSg1XXS0bZMjdCBFNBFSorU7_pu9girdw1lfqTPoOmxqMjONjEs3YneuXyAmmbdTcCpGS49xrgsa4WZi1FjzDDVhyMcOucjEMlJMxWFzlQdXJjmrOhp-KFFvF_O51qptllqu82bDhR9uMxeF1ZOEe3qwW0BFw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Sorteggio calendario Serie B",
-      "competizione": "Serie B",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqTU91d80um5b20rSg1XXS0bZMjdCBFNBFSorU7_pu9girdw1lfqTPoOmxqMjONjEs3YneuXyAmmbdTcCpGS49xrgsa4WZi1FjzDDVhyMcOucjEMlJMxWFzlQdXJjmrOhp-KFFvF_O51qptllqu82bDhR9uMxeF1ZOEe3qwW0BFw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Amichevole: Napoli-Arezzo",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN, Sky Sport 251 (ppv), NOW, OneFootball",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqTU91d80um5b20rSg1XXS0bZMjdCBFNBFSorU7_pu9girdw1lfqTPoOmxqMjONjEs3YneuXyAmmbdTcCpGS49xrgsa4WZi1FjzDDVhyMcOucjEMlJMxWFzlQdXJjmrOhp-KFFvF_O51qptllqu82bDhR9uMxeF1ZOEe3qwW0BFw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Amichevole: Fiorentina-Gubbio",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqTU91d80um5b20rSg1XXS0bZMjdCBFNBFSorU7_pu9girdw1lfqTPoOmxqMjONjEs3YneuXyAmmbdTcCpGS49xrgsa4WZi1FjzDDVhyMcOucjEMlJMxWFzlQdXJjmrOhp-KFFvF_O51qptllqu82bDhR9uMxeF1ZOEe3qwW0BFw==",
+      "orario": "10:00",
+      "evento": "WTA 250 Amburgo (Sedicesimi e ottavi di finale)",
+      "competizione": "Tennis WTA",
+      "canale": "Sky Sport Uno",
+      "note": "Presenza di giocatrici italiane da verificare.",
+      "fonte": "OA Sport, Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:00",
-      "evento": "ATP 250 Kitzbühel / Estoril, WTA 250 Amburgo - Copertura generale con attenzione a giocatori italiani",
+      "evento": "ATP & WTA 2026",
       "competizione": "Tennis",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
-      "note": "La copertura televisiva inizierà alle 11:00, con possibile partecipazione di Federico Cinà, Lorenzo Giustino, Michele Ribecai nelle qualificazioni dell'ATP 250 Kitzbühel, Andrea Pellegrino nelle qualificazioni dell'ATP 250 Estoril e Jessica Pieri nelle qualificazioni del WTA 250 Amburgo. Luciano Darderi, ammesso al tabellone principale dell'ATP 250 Estoril, potrebbe non giocare il primo turno se ha un bye. Gli orari specifici dei singoli match dipendono dall'ordine di gioco.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdkYShGBoJt1ZdT_yxhYHNZM9GYwBRKEflk_ZvwMgzYZjioM3N5eaoMgEKu_9whMHKlpYGqQj5ZeSgfgEB8BtUxl6AjW8eXBb8SCE9AGWaL_nC7Swow0TJsEW2i92CvZKgIlF__ZADs1vxTXnAzxmwUvrs4bbWvgKZvz8FMw_wyO4fW6u48BC-NvmSNEHh5sGp8Q6y9XOXN1MOBsC9GEpla08Cfdb_ow==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgjTZ4WBaW0pP8swbKTz5an2TcIQReR85OHOzvAvtZj0gFMqga9nMj8UuB7e2XLsyPZv00PCtqjPwiKovw6PXyLFxTZu1roaw8Tx30BLoKHiobWCpSh5TBs1V8SjUVROJHg3YcvEESM3g6OhQOqXmhdMF-NbWZ84ZyoikwX10lSrXSqJu3jqHFmvywYK0qhvsa9g0poqnurrI8tuEeYyUIMvsxYvs0z-7euFTtgiJeDw==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00",
-      "evento": "WTA 125 Palermo, secondo turno",
-      "competizione": "Tennis",
-      "canale": "RaiSportHD",
-      "note": "Diretta tv di un incontro, con possibile partecipazione dell'italiana Federica Urgesi.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG94ZZhfhKytYpDJB_F-NBLcFU9p0bFE1CnHDtj9moMsaZbiv-BQBCRTkJCNu9D6-inRDegH3XRK51vSXEd1MkQE4sS0-js3p5yTLaTSei9XTriiS7MtMAm-6JHrleUxGgMoGAWPJayUklyxc1BDOXzWfiNLQ3eNK_jf2yy_yhzWpoHMcOsoAw8nSewoaRxcV_8MViUFGNkjSnm0mKke9UZ0QHsY5X9nHAzYhwxMERFXLC5OqXcxqPgbVV_cPn, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67EKbP-LvzhEIppfeLb2QfjFbzgYT5QOL_ODiP_Fuop1bcTBnNBNqvj2uZQnJ5H_El46OiQbewAygXzqJaSI5x4XUXl30d00-W2igpE7ld8ZObUGZO611P-GNi7Gk8o2eSBxzwx3RIruhAU0aGkXkRZowEKt1Uh6ZNl96FBF4a61oRtlrySG1nycie718r1FKGWok6bszojsTXTBeOVjDj2H_b9hVlEzXb4kikhK5ps4ExVnhvwRl57_yROLE",
+      "canale": "Sky Sport Uno",
+      "note": "Programmazione generica di tennis, possibile copertura di incontri con italiani.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "WTA 250 Amburgo",
+      "orario": "16:00",
+      "evento": "Bologna-Heidenheim",
+      "competizione": "Calcio - Amichevole",
+      "canale": "DAZN",
+      "note": "Amichevole estiva.",
+      "fonte": "Sport in tv oggi (mercoledì 22 luglio): orari e programma. Dove vedere gli eventi in streaming, Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina, Serie A, il programma e i risultati delle amichevoli di oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "WTA 125 Palermo (Secondo turno)",
+      "competizione": "Tennis WTA",
+      "canale": "RaiSportHD, Rai Play",
+      "note": "Diretta tv di un incontro su RaiSportHD. Presenza di giocatrici italiane da verificare.",
+      "fonte": "Sport in tv oggi (mercoledì 22 luglio): orari e programma. Dove vedere gli eventi in streaming, Oggi in TV - Programmi Rai Sport +HD mercoledi 22 luglio 2026, Sport Pomeriggio - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Napoli-Arezzo",
+      "competizione": "Calcio - Amichevole",
+      "canale": "DAZN, Sky Sport 251, NOW",
+      "note": "Amichevole estiva. Diretta in pay-per-view su Sky Primafila (Sky Sport 251).",
+      "fonte": "Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina, Serie A, il programma e i risultati delle amichevoli di oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Fiorentina-Gubbio",
+      "competizione": "Calcio - Amichevole",
+      "canale": "DAZN",
+      "note": "Amichevole estiva.",
+      "fonte": "Il calcio in TV oggi (22 luglio): tempo di amichevoli per Napoli, Bologna e Fiorentina, Serie A, il programma e i risultati delle amichevoli di oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "ATP & WTA 2026",
       "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Possibile partecipazione dell'italiana Jessica Pieri nelle qualificazioni.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECcJJAM_uWmiabVMjLqKNbG98bJKTDwFj5E123CFNO8pm9ggp_ms2RRWKwwlZRnTTzhIeJiQiRjpLhzmoglwx8h2rugas8vqgnQ7-C-XT55jcPgLG_racwx5KMv07tJHaUzpsoew==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgjTZ4WBaW0pP8swbKTz5an2TcIQReR85OHOzvAvtZj0gFMqga9nMj8UuB7e2XLsyPZv00PCtqjPwiKovw6PXyLFxTZu1roaw8Tx30BLoKHiobWCpSh5TBs1V8SjUVROJHg3YcvEESM3g6OhQOqXmhdMF-NbWZ84ZyoikwX10lSrXSqJu3jqHFmvywYK0qhvsa9g0poqnurrI8tuEeYyUIMvsxYvs0z-7euFTtgiJeDw==",
+      "canale": "Sky Sport Uno",
+      "note": "Programmazione generica di tennis, possibile copertura di incontri con italiani.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "ATP & WTA 2026",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
+      "note": "Programmazione generica di tennis (palinsesto notturno del 22/07/2026 che si estende al 23/07/2026). Possibile copertura di incontri con italiani.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     }
   ]
