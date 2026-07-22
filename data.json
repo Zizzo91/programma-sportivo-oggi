@@ -1,4 +1,86 @@
 {
-  "last_updated": "2026-07-21T21:01:31.536457+02:00",
-  "events": []
+  "last_updated": "2026-07-22T03:24:45.802161+02:00",
+  "events": [
+    {
+      "orario": "07:45",
+      "evento": "Incontro amichevole - FC Basilea - Juventus",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sky Sport Uno",
+      "note": "Amichevole precampionato, coinvolge una squadra italiana.",
+      "fonte": "Sky Sport Uno: Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Quarti di finale - Italia - Paesi Bassi",
+      "competizione": "Volleyball Nations League (VNL) Femminile Finals",
+      "canale": "DAZN",
+      "note": "Include giocatrici della Vero Volley Monza (Anna Danesi, Paola Egonu, Eleonora Fersino).",
+      "fonte": "Guida DAZN | Programmazione | DAZN IT, Continua la corsa di Anna Danesi, Paola Egonu, Eleonora Fersino e Yoshino Sato in VNL: mercoledì 22 luglio al via le Finals - Vero Volley",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Bologna - Heidenheim",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "Amichevole precampionato.",
+      "fonte": "Calcio in tv oggi, 22 luglio 2026: sorteggio calendario Serie B e amichevoli, Dazn, le amichevoli estive di luglio e agosto ancora più ricche - Tuttosport, Guida DAZN | Programmazione | DAZN IT",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "Torino - Alcione Milano",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "Amichevole precampionato, visibile anche in modalità free.",
+      "fonte": "Dazn, le amichevoli estive di luglio e agosto ancora più ricche - Tuttosport, Guida DAZN | Programmazione | DAZN IT",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Napoli - Arezzo",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, SKY SPORT 251 (ppv), NOW, OneFootball",
+      "note": "Amichevole precampionato.",
+      "fonte": "Calcio in tv oggi, 22 luglio 2026: sorteggio calendario Serie B e amichevoli, Dazn, le amichevoli estive di luglio e agosto ancora più ricche - Tuttosport, Guida DAZN | Programmazione | DAZN IT",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Sorteggio Calendari Serie BKT 2026/2027",
+      "competizione": "Serie BKT",
+      "canale": "DAZN",
+      "note": "Evento di presentazione del calendario della Serie B italiana.",
+      "fonte": "Calcio in tv oggi, 22 luglio 2026: sorteggio calendario Serie B e amichevoli, Guida DAZN | Programmazione | DAZN IT",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Fiorentina - Gubbio",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "Amichevole precampionato, in diretta dal Viola Park.",
+      "fonte": "Programmi tv domani, 22 luglio: Dazn - Super Guida TV, Calcio in tv oggi, 22 luglio 2026: sorteggio calendario Serie B e amichevoli, Dazn, le amichevoli estive di luglio e agosto ancora più ricche - Tuttosport, Guida DAZN | Programmazione | DAZN IT",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Copertura tornei ATP/WTA con focus su tennisti italiani",
+      "competizione": "Tennis ATP/WTA Tour",
+      "canale": "Sky Sport Tennis (205)",
+      "note": "Programma dedicato ai tornei internazionali di tennis con particolare attenzione ai tennisti italiani.",
+      "fonte": "22/07/2026 (2026) in TV – Orario e repliche | Guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00*",
+      "evento": "ATP & WTA 2026",
+      "competizione": "Tennis ATP/WTA Tour",
+      "canale": "Sky Sport Uno",
+      "note": "Programmazione notturna di tennis, probabile replica o sintesi con focus su incontri rilevanti che potrebbero includere italiani.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "stimato"
+    }
+  ]
 }
