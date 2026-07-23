@@ -1,23 +1,32 @@
 {
-  "last_updated": "2026-07-23T10:08:54.113826+02:00",
+  "last_updated": "2026-07-23T15:21:09.543293+02:00",
   "events": [
     {
       "orario": "17:00",
-      "evento": "Amichevole: Cagliari - Sampdoria",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
+      "evento": "Cagliari-Sampdoria",
+      "competizione": "Amichevole",
+      "canale": "Dazn",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZqKaJJaczR4pw4HDWA0L7srtjsNP7-Hss96PpvI4MBYZ2ULWkfhqzfzGRg6YBB1S5GF087HJxie5zShtEXdLOEIJcuweDnX8ZH5l1FPz2rh2Z6JnlxLZmlnEiI1gpWmvcvRq2vEjWtO9bF5Io-yJPxs7-qszNKxdW33ZCszvU1yI [3]",
+      "fonte": "calciosport.tv",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00*",
-      "evento": "ATP 250 Estoril: Luciano Darderi vs Pedro Martinez",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis (203), NOW",
-      "note": "Quarto match del programma, non prima delle 18:00 CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_uCMrAT-TevuHcBDDtdm72TvRdyAgkYQtjF9N4-mbT_HzJViPr5gRPU8bKSG9cyGohnL2mvPS-JUvvzoWQmWbDQmCLoT8o6tUPm_8wlfNzBcsP-lf9rBqtxjKo7-oyRQZRUl6ztuxADU1kNGrGNo8uY7yRvkAzLEfFrhU5whnPA869QT8TJgneEV6bX6B [20], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlo6SfLvhbsF5in1h2no2XsizdLdzYvdejADyfgNee6krCScwwjsL4iV47bz2EAp3H-RHIyMsTjaeCW4XTDqVBOzqxk0W6GyJdNQ7YHEkFE3BGefC2xjvxLVPzFZYO2LUp1vzsKRbdYkGWyYt7vvsOiZWcuj_JgMikc40d9nAHC3pQKwFu16oDVJUI_K_ImLbDGJ7hL6aaS3iMpEKOslKIWFfrbTMxvPTXZXQ7HqJXfc9ox9Q_RCrEPTXTRh8 [2]",
+      "evento": "Luciano Darderi (ITA) vs Pedro Martinez (ESP)",
+      "competizione": "ATP 250 Estoril - Quarti di finale",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Mix",
+      "note": "Quarto match del programma che inizia alle 13:00",
+      "fonte": "livetennis.it, oasport.it",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Spiteri (ITA) vs Bronzetti (ITA)",
+      "competizione": "WTA Palermo Ladies Open - Ottavi di finale",
+      "canale": "Rai Sport HD, SuperTennis, Sky Sport Mix, Sky Sport Tennis",
+      "note": "",
+      "fonte": "livetennis.it, oasport.it, staseraintv.com, calciosport.tv",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
