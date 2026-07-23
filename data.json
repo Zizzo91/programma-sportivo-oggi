@@ -1,103 +1,22 @@
 {
-  "last_updated": "2026-07-23T03:44:28.960347+02:00",
+  "last_updated": "2026-07-23T10:08:54.113826+02:00",
   "events": [
     {
-      "orario": "00:30",
-      "evento": "FIA World Rally Championship 2026 - Estonia Live Stage 5",
-      "competizione": "WRC",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIBrLJxd1CpnA02XEJtNR0rqAL4k_cAlIPMh0abvln1oUYz1Sa-83OFYgLpO85resY6KNqFWoE53IecUoo0Lk523Wd00PhZaZTtrrcJ6ihEKl1W4gvDIMYKqBXfxJ-SUOAEBajNbJVMIqclilw3_EH7p_a",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIBrLJxd1CpnA02XEJtNR0rqAL4k_cAlIPMh0abvln1oUYz1Sa-83OFYgLpO85resY6KNqFWoE53IecUoo0Lk523Wd00PhZaZTtrrcJ6ihEKl1W4gvDIMYKqBXfxJ-SUOAEBajNbJVMIqclilw3_EH7p_a",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ-BegaHaPXnBuhEjTBGZZQ2RG405WzvMNStaWNcYmM9vjB8QoL6rIVfuyIlUObgRqAL5tiqTVAxgNzyTBDvT5ajSMuuy8ZaXP0LPeCqmJJjPQ_L9nUjK7EW3ess-YKxApC3lKo9UrhUU2NAtuZv7jgw==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ-BegaHaPXnBuhEjTBGZZQ2RG405WzvMNStaWNcYmM9vjB8QoL6rIVfuyIlUObgRqAL5tiqTVAxgNzyTBDvT5ajSMuuy8ZaXP0LPeCqmJJjPQ_L9nUjK7EW3ess-YKxApC3lKo9UrhUU2NAtuZv7jgw==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Mix, Sky Sport Tennis, Sky Sport 1",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE5IUsG1iHdF8JrIm22SW4taaqDhR6xfczNP2_Vl4yFtGayHjKT5G6KywM29uze8k_vpinoWGi914aOokDzLIC-BDs6VMwHnyolblPkNURgFcwVYiqJ_RwoTESTZuJ",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "17:00",
-      "evento": "Calcio: Amichevole Cagliari-Sampdoria",
-      "competizione": "Amichevole Calcio",
+      "evento": "Amichevole: Cagliari - Sampdoria",
+      "competizione": "Calcio Amichevole",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuOG2n3uvyGUU64Vt-j2RF2-8V1PZMYv5nKB3QF0PN3WzTb60eHqvB4FeBdh4fZDKGFB1CFa70_bj4f11r8kZu9WnqKZiWqrrF-eQWcYLXzrn93sb2QWJnsmHXY_adnFQQY6obu117WeKIY5u20OwKQ2qFmQPBk_7wlptpw8Q00nE=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZqKaJJaczR4pw4HDWA0L7srtjsNP7-Hss96PpvI4MBYZ2ULWkfhqzfzGRg6YBB1S5GF087HJxie5zShtEXdLOEIJcuweDnX8ZH5l1FPz2rh2Z6JnlxLZmlnEiI1gpWmvcvRq2vEjWtO9bF5Io-yJPxs7-qszNKxdW33ZCszvU1yI [3]",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
+      "orario": "18:00*",
+      "evento": "ATP 250 Estoril: Luciano Darderi vs Pedro Martinez",
       "competizione": "Tennis",
-      "canale": "Sky Sport Tennis",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGarHRJ5DlbaDfz78xTG4p_Ff8O6WANHPJTVj8dbYitzQzk6_JuZZAUhhDEmgd3SML46BecBtncojYFbGXPWMSsqvSWBaaqCY_DGKYQJ7sAO6BGMPrXore0tqPlULC1H47vn4sr1uI=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGarHRJ5DlbaDfz78xTG4p_Ff8O6WANHPJTVj8dbYitzQzk6_JuZZAUhhDEmgd3SML46BecBtncojYFbGXPWMSsqvSWBaaqCY_DGKYQJ7sAO6BGMPrXore0tqPlULC1H47vn4sr1uI=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "23:40",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGarHRJ5DlbaDfz78xTG4p_Ff8O6WANHPJTVj8dbYitzQzk6_JuZZAUhhDEmgd3SML46BecBtncojYFbGXPWMSsqvSWBaaqCY_DGKYQJ7sAO6BGMPrXore0tqPlULC1H47vn4sr1uI=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani, fino alle 06:00 CET del giorno successivo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIBrLJxd1CpnA02XEJtNR0rqAL4k_cAlIPMh0abvln1oUYz1Sa-83OFYgLpO85resY6KNqFWoE53IecUoo0Lk523Wd00PhZaZTtrrcJ6ihEKl1W4gvDIMYKqBXfxJ-SUOAEBajNbJVMIqclilw3_EH7p_a",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Tennis: ATP & WTA (con focus su giocatori italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis",
-      "note": "Programmazione generica di tornei ATP e WTA con attenzione ai tennisti italiani, fino alle 06:00 CET del giorno successivo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGarHRJ5DlbaDfz78xTG4p_Ff8O6WANHPJTVj8dbYitzQzk6_JuZZAUhhDEmgd3SML46BecBtncojYFbGXPWMSsqvSWBaaqCY_DGKYQJ7sAO6BGMPrXore0tqPlULC1H47vn4sr1uI=",
+      "canale": "Sky Sport Tennis (203), NOW",
+      "note": "Quarto match del programma, non prima delle 18:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_uCMrAT-TevuHcBDDtdm72TvRdyAgkYQtjF9N4-mbT_HzJViPr5gRPU8bKSG9cyGohnL2mvPS-JUvvzoWQmWbDQmCLoT8o6tUPm_8wlfNzBcsP-lf9rBqtxjKo7-oyRQZRUl6ztuxADU1kNGrGNo8uY7yRvkAzLEfFrhU5whnPA869QT8TJgneEV6bX6B [20], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlo6SfLvhbsF5in1h2no2XsizdLdzYvdejADyfgNee6krCScwwjsL4iV47bz2EAp3H-RHIyMsTjaeCW4XTDqVBOzqxk0W6GyJdNQ7YHEkFE3BGefC2xjvxLVPzFZYO2LUp1vzsKRbdYkGWyYt7vvsOiZWcuj_JgMikc40d9nAHC3pQKwFu16oDVJUI_K_ImLbDGJ7hL6aaS3iMpEKOslKIWFfrbTMxvPTXZXQ7HqJXfc9ox9Q_RCrEPTXTRh8 [2]",
       "accuratezza_orario": "stimato"
     }
   ]
