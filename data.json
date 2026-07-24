@@ -1,121 +1,49 @@
 {
-  "last_updated": "2026-07-24T10:05:18.780686+02:00",
+  "last_updated": "2026-07-24T21:09:34.153859+02:00",
   "events": [
     {
-      "orario": "09:55",
-      "evento": "Prove Libere",
-      "competizione": "Formula 3 - GP Ungheria",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDwL7LEFuVVPbx76IWJdMhdpvHO_taQymesVwI2aD5m3hAPUxG7c0lpnqPGAoFegST2yelRRZTfgKk32voTDrArga8ulaZSTAwjleVXYjrbIwLvXzGgZt0KIm6eyaOR1h52oEe5T0GglwV2gt8am2kzemAhwAnVh8oApuoDmi7Y_nHbXZ4O7q0l9JcjbaL2TrFmu_YCOxDuoUGrIW76IL58nD5L16deubVn37nVVu94S4ITYsPS1G0DaRpP6X6JxSCkzhpV1wYGLmFlAynzvHYBhuAE1XfdNty3HfZMzQYL0bY42uDbrCrxG2dJrU0Wvf3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFyKlr0vDUb-Sili7NB1iFGfCPowqKpff_YhXrJ3X4DKf9qNaJ5w-kgZgrzYe9D8e5tMva86ogEQAc2sQGV5wxTUs-qixAz0KjoxARCe_4T3JDdZlcRKGgkZf64yMuwjQuWCUGb9KigEo1kv5dIjj27XmEVTDUEOm1AHtMpJ_Etr8EMLn3WW7H1TPb9wI=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:05",
-      "evento": "Prove Libere",
-      "competizione": "Formula 2 - GP Ungheria",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDwL7LEFuVVPbx76IWJdMhdpvHO_taQymesVwI2aD5m3hAPUxG7c0lpnqPGAoFegST2yelRRZTfgKk32voTDrArga8ulaZSTAwjleVXYjrbIwLvXzGgZt0KIm6eyaOR1h52oEe5T0GglwV2gt8am2kzemAhwAnVh8oApuoDmi7Y_nHbXZ4O7q0l9JcjbaL2TrFmu_YCOxDuoUGrIW76IL58nD5L16deubVn37nVVu94S4ITYsPS1G0DaRpP6X6JxSCkzhpV1wYGLmFlAynzvHYBhuAE1XfdNty3HfZMzQYL0bY42uDbrCrxG2dJrU0Wvf3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFyKlr0vDUb-Sili7NB1iFGfCPowqKpff_YhXrJ3X4DKf9qNaJ5w-kgZgrzYe9D8e5tMva86ogEQAc2sQGV5wxTUs-qixAz0KjoxARCe_4T3JDdZlcRKGgkZf64yMuwjQuWCUGb9KigEo1kv5dIjj27XmEVTDUEOm1AHtMpJ_Etr8EMLn3WW7H1TPb9wI=",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "13:30",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4k",
+      "evento": "Formula 1 - GP Ungheria 2026: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLzYdHs8u7X5_krSHO3pYskKLsT6VVsPsVUlTA48BIr-SWigctHSW9iaoY4tAoWxQFwf8qnwUuez7H7PQrnCIiB5iTD7skpUB3D39QANa8VtxOadOOXkwrLYYEVat6tVj2RwTyVH-oX3eiMPhhtwAqMiYdPYsnIXJ7FaDKSD-KY_dgjCj2dwupnNOZBjMY7O8L9Ciy5Wtrw2sqXdJLxgyD18EUju_9_TyVoqBbZvycNwY84LKxRt_q3xqKMfQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGflcWjr8QYLPAZoJFIqmHrSa3KQ5YVgFFODx96KqKsI7Iaco9lxYvQXPvTJCpaHNyfjc3oJWLSgK9B5ligS3TgtbRzKhVA2phc1bjgpXq3hFxLZRnEG0tbZb39NHD5R0UhUHz8Cs8iyf6XZ41jZELuc2PhwGc2MlpLSGkhvoSSEBsI353fERPuypdcv4_axvYYA45pwoppJvqZyb16SUkG, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDwL7LEFuVVPbx76IWJdMhdpvHO_taQymesVwI2aD5m3hAPUxG7c0lpnqPGAoFegST2yelRRZTfgKk32voTDrArga8ulaZSTAwjleVXYjrbIwLvXzGgZt0KIm6eyaOR1h52oEe5T0GglwV2gt8am2kzemAhwAnVh8oApuoDmi7Y_nHbXZ4O7q0l9JcjbaL2TrFmu_YCOxDuoUGrIW76IL58nD5L16deubVn37nVVu94S4ITYsPS1G0DaRpP6X6JxSCkzhpV1wYGLmFlAynzvHYBhuAE1XfdNty3HfZMzQYL0bY42uDbrCrxG2dJrU0Wvf3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPiYVRqAiKh8cVTxDMtWTvyRBaboTVaItm7PxfGrqDvvkKbF8UQUbCjhH6G0K2s_D7QY1byv1VBKua8V3Axo8zPWZ1lW-M0uXQUtY-iEtVsOMvzrq1mFbXr11m1LgDW11ihuwVKM62qBfkMseFN36TWV_UIQa1-57mlU4xy5XQ4xhmjNa_LK8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFob-VYbbxF138WMnB2xyipaaMb4brexkM-23qh9J0Vi53D3DXwi6GYjsp_7tyQVn_xlhzs3ljPTQnPoc2N3FmNRiJssnvW7nlSE5cBF74sZcsYhjG35OKB5nR6kpElQapflRcMUejbQUbsURfy2dfZ4J8cUfrHy2Azhz5GBjbrvN_KaFUJyPxX7V1zr_gACtiBJAZCe3hKXw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFyKlr0vDUb-Sili7NB1iFGfCPowqKpff_YhXrJ3X4DKf9qNaJ5w-kgZgrzYe9D8e5tMva86ogEQAc2sQGV5wxTUs-qixAz0KjoxARCe_4T3JDdZlcRKGgkZf64yMuwjQuWCUGb9KigEo1kv5dIjj27XmEVTDUEOm1AHtMpJ_Etr8EMLn3WW7H1TPb9wI=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:55",
-      "evento": "Ottavo di Finale",
-      "competizione": "Tennis - WTA Ladies Open Palermo",
-      "canale": "Rai Sport +HD",
-      "note": "Potenziale presenza di giocatrici italiane",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp07cuXZupVfS4DgDLoFA7BoSomZSFzFdYOfV7g-sN92HnIBZlnu2jAXquwz8wlUQNHTX_BrlDj6Mrj5UphHSEC2VxwQXqKpzYXj2PMH5UBu1jt0tFmixZanaXyr_Plo7UTpVgx-WfGI4d2q7FQSzVBMUvGRmE5HOkBu0Pvr3g2qZVC8K9C-5CYg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Qualifiche",
-      "competizione": "Formula 3 - GP Ungheria",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDwL7LEFuVVPbx76IWJdMhdpvHO_taQymesVwI2aD5m3hAPUxG7c0lpnqPGAoFegST2yelRRZTfgKk32voTDrArga8ulaZSTAwjleVXYjrbIwLvXzGgZt0KIm6eyaOR1h52oEe5T0GglwV2gt8am2kzemAhwAnVh8oApuoDmi7Y_nHbXZ4O7q0l9JcjbaL2TrFmu_YCOxDuoUGrIW76IL58nD5L16deubVn37nVVu94S4ITYsPS1G0DaRpP6X6JxSCkzhpV1wYGLmFlAynzvHYBhuAE1XfdNty3HfZMzQYL0bY42uDbrCrxG2dJrU0Wvf3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFyKlr0vDUb-Sili7NB1iFGfCPowqKpff_YhXrJ3X4DKf9qNaJ5w-kgZgrzYe9D8e5tMva86ogEQAc2sQGV5wxTUs-qixAz0KjoxARCe_4T3JDdZlcRKGgkZf64yMuwjQuWCUGb9KigEo1kv5dIjj27XmEVTDUEOm1AHtMpJ_Etr8EMLn3WW7H1TPb9wI=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:05",
-      "evento": "Qualifiche",
-      "competizione": "Formula 2 - GP Ungheria",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDwL7LEFuVVPbx76IWJdMhdpvHO_taQymesVwI2aD5m3hAPUxG7c0lpnqPGAoFegST2yelRRZTfgKk32voTDrArga8ulaZSTAwjleVXYjrbIwLvXzGgZt0KIm6eyaOR1h52oEe5T0GglwV2gt8am2kzemAhwAnVh8oApuoDmi7Y_nHbXZ4O7q0l9JcjbaL2TrFmu_YCOxDuoUGrIW76IL58nD5L16deubVn37nVVu94S4ITYsPS1G0DaRpP6X6JxSCkzhpV1wYGLmFlAynzvHYBhuAE1XfdNty3HfZMzQYL0bY42uDbrCrxG2dJrU0Wvf3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFyKlr0vDUb-Sili7NB1iFGfCPowqKpff_YhXrJ3X4DKf9qNaJ5w-kgZgrzYe9D8e5tMva86ogEQAc2sQGV5wxTUs-qixAz0KjoxARCe_4T3JDdZlcRKGgkZf64yMuwjQuWCUGb9KigEo1kv5dIjj27XmEVTDUEOm1AHtMpJ_Etr8EMLn3WW7H1TPb9wI=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhyPjDkyqOVr2zSFHvhAOi7h9tw41Gk17sT_UZl7vq3JuvhNpKZ4eKoqX75aZ173oRU8HM7mhR5bzTOSwFPM13_NGbwO3aeFYEFjFeOChLxwWMZQy005j99H2tG7YH0KJVee1xZXd87BzdZFcbPArDAgLFzr4hy7Y7ctNxgnK6Bh7uEkQMymo=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Prove Libere 2",
-      "competizione": "Formula 1 - GP Ungheria",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4k",
+      "evento": "Formula 1 - GP Ungheria 2026: Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLzYdHs8u7X5_krSHO3pYskKLsT6VVsPsVUlTA48BIr-SWigctHSW9iaoY4tAoWxQFwf8qnwUuez7H7PQrnCIiB5iTD7skpUB3D39QANa8VtxOadOOXkwrLYYEVat6tVj2RwTyVH-oX3eiMPhhtwAqMiYdPYsnIXJ7FaDKSD-KY_dgjCj2dwupnNOZBjMY7O8L9Ciy5Wtrw2sqXdJLxgyD18EUju_9_TyVoqBbZvycNwY84LKxRt_q3xqKMfQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGflcWjr8QYLPAZoJFIqmHrSa3KQ5YVgFFODx96KqKsI7Iaco9lxYvQXPvTJCpaHNyfjc3oJWLSgK9B5ligS3TgtbRzKhVA2phc1bjgpXq3hFxLZRnEG0tbZb39NHD5R0UhUHz8Cs8iyf6XZ41jZELuc2PhwGc2MlpLSGkhvoSSEBsI353fERPuypdcv4_axvYYA45pwoppJvqZyb16SUkG, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDwL7LEFuVVPbx76IWJdMhdpvHO_taQymesVwI2aD5m3hAPUxG7c0lpnqPGAoFegST2yelRRZTfgKk32voTDrArga8ulaZSTAwjleVXYjrbIwLvXzGgZt0KIm6eyaOR1h52oEe5T0GglwV2gt8am2kzemAhwAnVh8oApuoDmi7Y_nHbXZ4O7q0l9JcjbaL2TrFmu_YCOxDuoUGrIW76IL58nD5L16deubVn37nVVu94S4ITYsPS1G0DaRpP6X6JxSCkzhpV1wYGLmFlAynzvHYBhuAE1XfdNty3HfZMzQYL0bY42uDbrCrxG2dJrU0Wvf3g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPiYVRqAiKh8cVTxDMtWTvyRBaboTVaItm7PxfGrqDvvkKbF8UQUbCjhH6G0K2s_D7QY1byv1VBKua8V3Axo8zPWZ1lW-M0uXQUtY-iEtVsOMvzrq1mFbXr11m1LgDW11ihuwVKM62qBfkMseFN36TWV_UIQa1-57mlU4xy5XQ4xhmjNa_LK8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFob-VYbbxF138WMnB2xyipaaMb4brexkM-23qh9J0Vi53D3DXwi6GYjsp_7tyQVn_xlhzs3ljPTQnPoc2N3FmNRiJssnvW7nlSE5cBF74sZcsYhjG35OKB5nR6kpElQapflRcMUejbQUbsURfy2dfZ4J8cUfrHy2Azhz5GBjbrvN_KaFUJyPxX7V1zr_gACtiBJAZCe3hKXw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFyKlr0vDUb-Sili7NB1iFGfCPowqKpff_YhXrJ3X4DKf9qNaJ5w-kgZgrzYe9D8e5tMva86ogEQAc2sQGV5wxTUs-qixAz0KjoxARCe_4T3JDdZlcRKGgkZf64yMuwjQuWCUGb9KigEo1kv5dIjj27XmEVTDUEOm1AHtMpJ_Etr8EMLn3WW7H1TPb9wI=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhyPjDkyqOVr2zSFHvhAOi7h9tw41Gk17sT_UZl7vq3JuvhNpKZ4eKoqX75aZ173oRU8HM7mhR5bzTOSwFPM13_NGbwO3aeFYEFjFeOChLxwWMZQy005j99H2tG7YH0KJVee1xZXd87BzdZFcbPArDAgLFzr4hy7Y7ctNxgnK6Bh7uEkQMymo=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "GP Catalogna: Gara",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlcUyu0le217WLNfi_zAcqedm9ZfS4ttJ3CbNlWACjZoIvt1OjWqVUWC679uoiRXCCJKLp4Z1kgDAzMj8wcH5Rue7cm7rTraMg3Wskdcud8nArFS0kFCrwMXm9Dt8RwOE_wXwWCj4=",
-      "accuratezza_orario": "esatto"
+      "orario": "20:00*",
+      "evento": "Tennis - ATP Estoril 2026: Quarti di finale (Luciano Darderi vs Jaime Faria)",
+      "competizione": "ATP 250 Estoril",
+      "canale": "Sky Sport Tennis, Sky Sport Arena",
+      "note": "Quarto match in programma dopo le ore 13:00, con un match precedente non prima delle 18:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj-CtVHhwBp8yvo0IYLFEBnQdViQ1QsEBl5Q1ra1_-RklNx_xMSxsTov0dXErCN_5wWHOaZEhwXiyXakk7k-iQNrPQHq86h1OrCjazZ8W434siFRx04ZPcE0gCNg75YV7H_1sSAvBMxaO43noRT89CczO1ZENot8iNQHaku9heKYNG0BurhDcw9TXV12xFVCzAsSZeJB65ofhCmEbPWZJvfd5-pFf2",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:30",
-      "evento": "Cechia: Gara 2",
-      "competizione": "World Superbike",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlcUyu0le217WLNfi_zAcqedm9ZfS4ttJ3CbNlWACjZoIvt1OjWqVUWC679uoiRXCCJKLp4Z1kgDAzMj8wcH5Rue7cm7rTraMg3Wskdcud8nArFS0kFCrwMXm9Dt8RwOE_wXwWCj4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:15",
-      "evento": "Repubblica Ceca: Gara Superpole",
-      "competizione": "World Superbike",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlcUyu0le217WLNfi_zAcqedm9ZfS4ttJ3CbNlWACjZoIvt1OjWqVUWC679uoiRXCCJKLp4Z1kgDAzMj8wcH5Rue7cm7rTraMg3Wskdcud8nArFS0kFCrwMXm9Dt8RwOE_wXwWCj4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "GP Francia: Gara",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlcUyu0le217WLNfi_zAcqedm9ZfS4ttJ3CbNlWACjZoIvt1OjWqVUWC679uoiRXCCJKLp4Z1kgDAzMj8wcH5Rue7cm7rTraMg3Wskdcud8nArFS0kFCrwMXm9Dt8RwOE_wXwWCj4=",
+      "orario": "20:00",
+      "evento": "Calcio - Amichevole: Galatasaray vs Monza",
+      "competizione": "Amichevole pre-campionato",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHneVblxg5KoimVzmMNJbNhTX058M-ilxH-Pbz2CdSzqXXjjjnALmceBZJooxkw475Lo-RmB65CNOJoIShwnUxGY7kYcvMyiq0wzKuqmZb4boTVZ-nguv8fzow_COivtT7-U6g1dgHryVySaAw3ONU1u7_VWKq_URTRuGZoGpmm_wg=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:45",
-      "evento": "Quarto di Finale",
-      "competizione": "Tennis - WTA Ladies Open Palermo",
-      "canale": "Rai Sport +HD",
-      "note": "Potenziale presenza di giocatrici italiane",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp07cuXZupVfS4DgDLoFA7BoSomZSFzFdYOfV7g-sN92HnIBZlnu2jAXquwz8wlUQNHTX_BrlDj6Mrj5UphHSEC2VxwQXqKpzYXj2PMH5UBu1jt0tFmixZanaXyr_Plo7UTpVgx-WfGI4d2q7FQSzVBMUvGRmE5HOkBu0Pvr3g2qZVC8K9C-5CYg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:15",
-      "evento": "GP Catalogna: Sprint Race",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlcUyu0le217WLNfi_zAcqedm9ZfS4ttJ3CbNlWACjZoIvt1OjWqVUWC679uoiRXCCJKLp4Z1kgDAzMj8wcH5Rue7cm7rTraMg3Wskdcud8nArFS0kFCrwMXm9Dt8RwOE_wXwWCj4=",
+      "evento": "Formula 1 - GP Ungheria 2026: Prove Libere 2 (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFywti195fyPRhzB_wo9KZ1K7AtMlkOkdlxlNIsM2dwY_hebXP0tr-UVUhkRF6MnwElEYNxP8TWcAOxyXS4oCPPmcmjC80LHtf_Ivcq7HQTrxLzW1rucGmsG1I8GwexFYgnCmRz-rLLOKQrU4fkdrD06df2PRccihnDmNhsQuA8EfUBeBDONA==",
       "accuratezza_orario": "esatto"
     }
   ]
