@@ -1,67 +1,58 @@
 {
-  "last_updated": "2026-07-23T20:56:35.336702+02:00",
+  "last_updated": "2026-07-24T03:28:41.986459+02:00",
   "events": [
     {
-      "orario": "07:00",
-      "evento": "World Cup, Quarti di finale: Italia-Georgia",
-      "competizione": "Pallanuoto World Cup",
-      "canale": "Rai Sport HD, Rai Play, Eurovision Sport",
+      "orario": "13:30",
+      "evento": "Mondiale Formula 1 2026: GP Ungheria - Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW",
       "note": "",
-      "fonte": "sportface.it, calciotoday.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Conferenza stampa piloti",
-      "competizione": "F1 GP Ungheria 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, skysport.it (streaming)",
-      "note": "Pre-evento",
-      "fonte": "skysport.it",
+      "fonte": "FormulaPassion, alVolante.it, Virgilio, FuoriTraiettoria",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Amichevole: Cagliari-Sampdoria",
-      "competizione": "Amichevole Club",
-      "canale": "DAZN",
-      "note": "Disponibile anche in modalità free su DAZN",
-      "fonte": "calciotoday.it, calciomagazine.net, dazn.com, skysport.it",
+      "evento": "Mondiale Formula 1 2026: GP Ungheria - Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "FormulaPassion, alVolante.it, Virgilio, FuoriTraiettoria",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:45",
-      "evento": "Paddock Live Pit Walk",
-      "competizione": "F1 GP Ungheria 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Pre-evento",
-      "fonte": "skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30*",
-      "evento": "ATP 250 Estoril: Luciano Darderi vs Pedro Martinez",
+      "orario": "19:30",
+      "evento": "Tennis ATP 250 Estoril 2026: Quarti di finale - Faria vs Darderi",
       "competizione": "ATP 250 Estoril",
-      "canale": "Sky Sport Tennis (203), Sky Go, NOW, Tennis TV",
-      "note": "Ottavi di finale. L'incontro è il quarto del programma, che inizia alle 13:00 CET.",
-      "fonte": "ubitennis.com, oasport.it, tiebreaktennis.it",
+      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Sport Mix, NOW, Tennis TV",
+      "note": "Match di Luciano Darderi (italiano). Orario stimato 'non prima delle 19:30'.",
+      "fonte": "OA Sport, Eurosport, Lottomatica.Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00*",
-      "evento": "WTA Palermo Ladies Open: Dalila Spiteri vs Lucia Bronzetti",
-      "competizione": "WTA 250 Palermo Ladies Open",
-      "canale": "Rai Sport HD, Sky Sport (via Sky Sport Plus), NOW",
-      "note": "Ottavi di finale. Derby italiano.",
-      "fonte": "ubitennis.com, calciotoday.it",
-      "accuratezza_orario": "stimato"
+      "orario": "20:00",
+      "evento": "Calcio Amichevole: Monza-Galatasaray",
+      "competizione": "Amichevole Club",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:15",
-      "evento": "WTA Palermo Ladies Open - Ottavi di Finale",
-      "competizione": "WTA 250 Palermo Ladies Open",
-      "canale": "Rai Sport HD",
-      "note": "Repliche/Highlights",
-      "fonte": "guidatv.quotidiano.net",
+      "orario": "00:30",
+      "evento": "Mondiale Formula 1 2026: GP Ungheria - Prove Libere 2 (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica delle Prove Libere 2 del GP Ungheria.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:45",
+      "evento": "Paddock Live Show",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento Formula 1.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     }
   ]
