@@ -1,49 +1,220 @@
 {
-  "last_updated": "2026-07-24T21:09:34.153859+02:00",
+  "last_updated": "2026-07-25T03:29:05.418904+02:00",
   "events": [
     {
-      "orario": "13:30",
-      "evento": "Formula 1 - GP Ungheria 2026: Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "orario": "00:00*",
+      "evento": "Racing-Gimnasia La Plata",
+      "competizione": "Campionato Argentino",
+      "canale": "Sportitalia, Como TV",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhyPjDkyqOVr2zSFHvhAOi7h9tw41Gk17sT_UZl7vq3JuvhNpKZ4eKoqX75aZ173oRU8HM7mhR5bzTOSwFPM13_NGbwO3aeFYEFjFeOChLxwWMZQy005j99H2tG7YH0KJVee1xZXd87BzdZFcbPArDAgLFzr4hy7Y7ctNxgnK6Bh7uEkQMymo=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Formula 1 - GP Ungheria 2026: Prove Libere 2",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhyPjDkyqOVr2zSFHvhAOi7h9tw41Gk17sT_UZl7vq3JuvhNpKZ4eKoqX75aZ173oRU8HM7mhR5bzTOSwFPM13_NGbwO3aeFYEFjFeOChLxwWMZQy005j99H2tG7YH0KJVee1xZXd87BzdZFcbPArDAgLFzr4hy7Y7ctNxgnK6Bh7uEkQMymo=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00*",
-      "evento": "Tennis - ATP Estoril 2026: Quarti di finale (Luciano Darderi vs Jaime Faria)",
-      "competizione": "ATP 250 Estoril",
-      "canale": "Sky Sport Tennis, Sky Sport Arena",
-      "note": "Quarto match in programma dopo le ore 13:00, con un match precedente non prima delle 18:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj-CtVHhwBp8yvo0IYLFEBnQdViQ1QsEBl5Q1ra1_-RklNx_xMSxsTov0dXErCN_5wWHOaZEhwXiyXakk7k-iQNrPQHq86h1OrCjazZ8W434siFRx04ZPcE0gCNg75YV7H_1sSAvBMxaO43noRT89CczO1ZENot8iNQHaku9heKYNG0BurhDcw9TXV12xFVCzAsSZeJB65ofhCmEbPWZJvfd5-pFf2",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00",
-      "evento": "Calcio - Amichevole: Galatasaray vs Monza",
-      "competizione": "Amichevole pre-campionato",
-      "canale": "Sportitalia",
+      "orario": "00:00",
+      "evento": "ReTour",
+      "competizione": "Sport Generale",
+      "canale": "Raisport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHneVblxg5KoimVzmMNJbNhTX058M-ilxH-Pbz2CdSzqXXjjjnALmceBZJooxkw475Lo-RmB65CNOJoIShwnUxGY7kYcvMyiq0wzKuqmZb4boTVZ-nguv8fzow_COivtT7-U6g1dgHryVySaAw3ONU1u7_VWKq_URTRuGZoGpmm_wg=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1YUhF0jYfiqMd-foDDD2BWIQZfpf0xqGIui9Y0NCR-6mhQ0_IO4PR6WK9A_uURq6HCDDH1pPvA3snWwxB8hEWpEGBzU7K-KYPyjt_aHpEjTIdfg3KZhsIu44or8S1Hhq-Gn8JoDu1CnF7CesX2d7_A==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:45",
-      "evento": "Formula 1 - GP Ungheria 2026: Prove Libere 2 (Replica)",
-      "competizione": "Formula 1",
+      "orario": "01:55",
+      "evento": "Formula E FIA Championship 2026 - Giappone - Gara 1",
+      "competizione": "Formula E",
+      "canale": "Italia 1",
+      "note": "Da Tokyo",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1YUhF0jYfiqMd-foDDD2BWIQZfpf0xqGIui9Y0NCR-6mhQ0_IO4PR6WK9A_uURq6HCDDH1pPvA3snWwxB8hEWpEGBzU7K-KYPyjt_aHpEjTIdfg3KZhsIu44or8S1Hhq-Gn8JoDu1CnF7CesX2d7_A==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Giappone - Italia",
+      "competizione": "Nations Championship 2026 (Rugby)",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1YUhF0jYfiqMd-foDDD2BWIQZfpf0xqGIui9Y0NCR-6mhQ0_IO4PR6WK9A_uURq6HCDDH1pPvA3snWwxB8hEWpEGBzU7K-KYPyjt_aHpEjTIdfg3KZhsIu44or8S1Hhq-Gn8JoDu1CnF7CesX2d7_A==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Tuffi: Campionati Italiani Estivi - Finali 2a giornata",
+      "competizione": "Tuffi",
+      "canale": "Raisport HD",
+      "note": "Da Roma",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1YUhF0jYfiqMd-foDDD2BWIQZfpf0xqGIui9Y0NCR-6mhQ0_IO4PR6WK9A_uURq6HCDDH1pPvA3snWwxB8hEWpEGBzU7K-KYPyjt_aHpEjTIdfg3KZhsIu44or8S1Hhq-Gn8JoDu1CnF7CesX2d7_A==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr_gpYY2k87CePexSWfbYtTuT4srcfpV5JvGpOrFctfLJstO6bUXYqsti5r4e7D631lscXKlh40uG6QpgQgXA1IIhvdvjCvEWiyU8In2b6H_z_ehWjbovwJ56vnZNTES3DXGeKT2lXW6ROyRTo025gV9fa0UvbTR-ZJsRI-K5NVMOhB3jX-56c",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "UEFA Champions League 2025/2026 - PSG - Arsenal (Finale)",
+      "competizione": "Calcio (replay)",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFywti195fyPRhzB_wo9KZ1K7AtMlkOkdlxlNIsM2dwY_hebXP0tr-UVUhkRF6MnwElEYNxP8TWcAOxyXS4oCPPmcmjC80LHtf_Ivcq7HQTrxLzW1rucGmsG1I8GwexFYgnCmRz-rLLOKQrU4fkdrD06df2PRccihnDmNhsQuA8EfUBeBDONA==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2p-FAEDkaxQ5lCWvSAwu1E_ywuKssXmLl9UqsGfKqPN7oDxWZKpkiZsBJWAvW1UKJ8dqdURc9aclwKwQkn812j8GFDyG9kTmclZiR2U0N3A15SAnzPdYY4TRnnp8kLWVhPI9t_tEQ1Zmq5zhw8i7-B2jeopujn743JLI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5NQM296RbrHEjv_QHp9jA3RvbJfSosP7_55VgKEMCae9dgEHf3TxEFFS7KwY2Kn2nhtEWdESx0jhY5eh9ZcRCE02mtC1bKwcxN1OsKH0Cy888Or0c1ZWE5pfPwaNzEELaI-y7H93Ua6GnK4iGHRGcX7zl",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "Speciale Rugby Italia Down Under - Il Tour 2026 degli Azzurri",
+      "competizione": "Speciale Rugby",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2p-FAEDkaxQ5lCWvSAwu1E_ywuKssXmLl9UqsGfKqPN7oDxWZKpkiZsBJWAvW1UKJ8dqdURc9aclwKwQkn812j8GFDyG9kTmclZiR2U0N3A15SAnzPdYY4TRnnp8kLWVhPI9t_tEQ1Zmq5zhw8i7-B2jeopujn743JLI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5NQM296RbrHEjv_QHp9jA3RvbJfSosP7_55VgKEMCae9dgEHf3TxEFFS7KwY2Kn2nhtEWdESx0jhY5eh9ZcRCE02mtC1bKwcxN1OsKH0Cy888Or0c1ZWE5pfPwaNzEELaI-y7H93Ua6GnK4iGHRGcX7zl",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:05",
+      "evento": "Mondiale Formula 3 2026 - GP Ungheria: Sprint Race",
+      "competizione": "Formula 3",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYGcCSTzZvLpe0T9dRYkhbC0hICWSmuwW9UjrP2dQ_t75LrmIK-NSIvKGf--l2Sz8Gh_sSeKO15CeePWQgAqN6-2BtKnkMKH-qTcYoXEt_crHmle1hwGfTVcU3eYTKb_oiJeCxVspBe1y-hycR2KZT3UgQvFq-hQGLR362FA8i7G1ZA93hPpbhlt0H5Rx133n9JLm1Yir9wrB6ZNnc4gHZvYrAKjFBm5RBk1kWZNmgS7f0ukyShOZB4QFTJfchiYaR7437-Rsl6-_e5w6s_m4nIjhu3u_n0uqL-ULvq25TOlOoUOSYwaWRaMpiOBiAOfWosA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:15",
+      "evento": "Porsche Supercup 2026 - GP Ungheria: qualifiche",
+      "competizione": "Porsche Supercup",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2p-FAEDkaxQ5lCWvSAwu1E_ywuKssXmLl9UqsGfKqPN7oDxWZKpkiZsBJWAvW1UKJ8dqdURc9aclwKwQkn812j8GFDyG9kTmclZiR2U0N3A15SAnzPdYY4TRnnp8kLWVhPI9t_tEQ1Zmq5zhw8i7-B2jeopujn743JLI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Formula 1 2026 - GP Ungheria: Prove Libere 3",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYGcCSTzZvLpe0T9dRYkhbC0hICWSmuwW9UjrP2dQ_t75LrmIK-NSIvKGf--l2Sz8Gh_sSeKO15CeePWQgAqN6-2BtKnkMKH-qTcYoXEt_crHmle1hwGfTVcU3eYTKb_oiJeCxVspBe1y-hycR2KZT3UgQvFq-hQGLR362FA8i7G1ZA93hPpbhlt0H5Rx133n9JLm1Yir9wrB6ZNnc4gHZvYrAKjFBm5RBk1kWZNmgS7f0ukyShOZB4QFTJfchiYaR7437-Rsl6-_e5w6s_m4nIjhu3u_n0uqL-ULvq25TOlOoUOSYwaWRaMpiOBiAOfWosA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvpWh_nFt_vSHaetwev6GjDItzTj1gnOx9hwfPQOVnp2kWeVFDV6JRHMvj04z8cM1chUdT0ZkKpocpNdcxRjS-JddjAMZtrdP0k8xbyhwR_DBa0vSDCK6fF1S6XwBsocebJb79OpIebdM3joP-kA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Fortuna Düsseldorf-Borussia Dortmund",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "OneFootball",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Offenbacher Kickers-Bayer Leverkusen",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "OneFootball",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Bolton-Everton",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "OneFootball",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:15",
+      "evento": "Formula 2 2026 - GP Ungheria: Gara Sprint",
+      "competizione": "Formula 2",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYGcCSTzZvLpe0T9dRYkhbC0hICWSmuwW9UjrP2dQ_t75LrmIK-NSIvKGf--l2Sz8Gh_sSeKO15CeePWQgAqN6-2BtKnkMKH-qTcYoXEt_crHmle1hwGfTVcU3eYTKb_oiJeCxVspBe1y-hycR2KZT3UgQvFq-hQGLR362FA8i7G1ZA93hPpbhlt0H5Rx133n9JLm1Yir9wrB6ZNnc4gHZvYrAKjFBm5RBk1kWZNmgS7f0ukyShOZB4QFTJfchiYaR7437-Rsl6-_e5w6s_m4nIjhu3u_n0uqL-ULvq25TOlOoUOSYwaWRaMpiOBiAOfWosA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Celtic-Milan",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "DAZN, Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Bologna-Iraklis",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "DAZN",
+      "note": "In contemporanea con Celtic-Milan",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "QPR-Fiorentina",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "DAZN",
+      "note": "In contemporanea con Celtic-Milan",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Formula 1 2026 - GP Ungheria: Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYGcCSTzZvLpe0T9dRYkhbC0hICWSmuwW9UjrP2dQ_t75LrmIK-NSIvKGf--l2Sz8Gh_sSeKO15CeePWQgAqN6-2BtKnkMKH-qTcYoXEt_crHmle1hwGfTVcU3eYTKb_oiJeCxVspBe1y-hycR2KZT3UgQvFq-hQGLR362FA8i7G1ZA93hPpbhlt0H5Rx133n9JLm1Yir9wrB6ZNnc4gHZvYrAKjFBm5RBk1kWZNmgS7f0ukyShOZB4QFTJfchiYaR7437-Rsl6-_e5w6s_m4nIjhu3u_n0uqL-ULvq25TOlOoUOSYwaWRaMpiOBiAOfWosA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1F73WV8iM8ww_uGT3Wh659BuzClu2XukuVEn8R9KEvBljMtuYfx_W-upMLJrtmiAXpyJkSPJcAFvQ-eJssumSALy2SiXrA09ZMmekb0wupIcycbaqXqHBeRLbjTFU8YjCKYg7GW9yc0y07b4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvpWh_nFt_vSHaetwev6GjDItzTj1gnOx9hwfPQOVnp2kWeVFDV6JRHMvj04z8cM1chUdT0ZkKpocpNdcxRjS-JddjAMZtrdP0k8xbyhwR_DBa0vSDCK6fF1S6XwBsocebJb79OpIebdM3joP-kA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30",
+      "evento": "Wrexham-Leeds",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "OneFootball",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00*",
+      "evento": "Torino-Cittadella",
+      "competizione": "Calcio (Amichevole)",
+      "canale": "DAZN, Torino.TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jLLjSxGfAb9-ReIqlaIBEmX2JeSxCqZSCiC3XC77d339GtP6BNEFtfxDEZiq7aoybNVM3sXDlVBBLCSOQTnPq4SFBoyJvt5Rg6MRlJeGkPH94ThIo43gkxJ3Syat_BErFAATeKw3Ijgnw1L6_sP1xg30s2gxeSyiw9dSeyB0z_4",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Formula 1 2026 - GP Ungheria: Qualifiche (differita)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYGcCSTzZvLpe0T9dRYkhbC0hICWSmuwW9UjrP2dQ_t75LrmIK-NSIvKGf--l2Sz8Gh_sSeKO15CeePWQgAqN6-2BtKnkMKH-qTcYoXEt_crHmle1hwGfTVcU3eYTKb_oiJeCxVspBe1y-hycR2KZT3UgQvFq-hQGLR362FA8i7G1ZA93hPpbhlt0H5Rx133n9JLm1Yir9wrB6ZNnc4gHZvYrAKjFBm5RBk1kWZNmgS7f0ukyShOZB4QFTJfchiYaR7437-Rsl6-_e5w6s_m4nIjhu3u_n0uqL-ULvq25TOlOoUOSYwaWRaMpiOBiAOfWosA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Campionati Italiani Atletica 2026 (varie gare)",
+      "competizione": "Atletica Leggera",
+      "canale": "RaiSportHD",
+      "note": "Da Firenze",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZVKHH12ZPKERH0rHyTtUzBjM1pbQzIX1YUSACbU5IscB6_UyiN6vm-SleyIHT_UGmmniD3M312jhTZwKdZGxWM9aEgGkI8p9Ls-SCtMWDlDRFrD2MeDrwbjV4t0aHwC6CqrT8XeHMbzLK_wPE44a9DoYwUnMCBCz2wtt0ejIXbDea6jTbsvjP88imVghYsv454T4tgrpspeGKgIp4vNm4Eg9LgMECGHj_O-U4Q6UJeQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Kayak Cross Maschile, batterie",
+      "competizione": "Mondiali Canoa/Kayak",
+      "canale": "RaiSport, RaiPlay",
+      "note": "Da Oklahoma",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0bLd0bs--5I9lTWyYoK3J3y-IF0cgQX7wL3owRMPIp1mmF0fzMVcFDcbb4CUrs7azmz90sFpNR3dZqMdz5ML6mim3pet-If8iBAXEhP2JSaPIhPMTOS9y8W00-pFoLj5ABg96Fbtzt5knxyCcXwkqSOvJ2OA0KWM=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Finali Kayak Cross Maschile e Femminile",
+      "competizione": "Mondiali Canoa/Kayak",
+      "canale": "RaiSport, RaiPlay",
+      "note": "Da Oklahoma",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0bLd0bs--5I9lTWyYoK3J3y-IF0cgQX7wL3owRMPIp1mmF0fzMVcFDcbb4CUrs7azmz90sFpNR3dZqMdz5ML6mim3pet-If8iBAXEhP2JSaPIhPMTOS9y8W00-pFoLj5ABg96Fbtzt5knxyCcXwkqSOvJ2OA0KWM=",
       "accuratezza_orario": "esatto"
     }
   ]
