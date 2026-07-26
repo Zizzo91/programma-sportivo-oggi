@@ -1,68 +1,113 @@
 {
-  "last_updated": "2026-07-26T14:54:40.231068+02:00",
+  "last_updated": "2026-07-26T20:53:47.060676+02:00",
   "events": [
     {
-      "orario": "06:30",
-      "evento": "Qualifiche (Replica)",
-      "competizione": "Mondiale Formula 1 - GP Ungheria",
-      "canale": "Sky Sport Uno",
-      "note": "Replica delle qualifiche di sabato 25 luglio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKJRIEhr3e-UsgtE3PiNGMcWQonJ9WNCfVEz5kCjwtE9kqnFw5bt0AKjN4auJkCEid-HLTj1JrIuvlGhsPwWbImKlkj7k1A9n_wAQBZ-D7FgZRpFLFFubVNF1uHpLqGM3q-0jDtkxfyYRWHYk2hjs1Uqg=",
+      "orario": "08:35",
+      "evento": "Formula 3 - GP Ungheria: Feature Race",
+      "competizione": "Campionato del Mondo Formula 3 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:05",
+      "evento": "Porsche Supercup - GP Ungheria: Gara",
+      "competizione": "Porsche Supercup 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:20",
+      "evento": "Formula 2 - GP Ungheria: Feature Race",
+      "competizione": "Campionato del Mondo Formula 2 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Formula 1 - GP Ungheria: Pre Gara",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Gara",
-      "competizione": "Mondiale Formula 1 - GP Ungheria",
+      "evento": "Formula 1 - GP Ungheria: Gara",
+      "competizione": "Campionato del Mondo Formula 1 2026",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELJMWN2Bea91e71Z1OyQj6aRdBt6gIkZKQKABMlb2KObuZ-N2WaSxi9rtss1a0oX9fR8oow3D6rmUZrz6ev0gTFwNi76RTk3Lp6LKkjK4vTpS2-PuRyCfS6Mqtg-1uocVQMJds30cfIM_HNXaMonx5MAZPQRZmnVagYr6SdwvJsrWa6fmOGEIjXYJjjtzCTkfjYjgE2yrXjHDLtnjaxwTHacikcX4JTlzYyDhtMQCg0Hp_Jyeol4ZxOmNsf3o=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:30",
-      "evento": "Amichevole",
-      "competizione": "Calcio Amichevole",
-      "canale": "Dazn, Sky Sport Calcio",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3t2Xq8K3fuNNjt-Bpcu0CoNjS2sDTfYVX5xkwi24giCr-40XcoX_e3v7C6FZ_ow_JgoFmsKp-aRu7eEXVGHxYK0_pRddpcRzl17fj4_c1LNvyYOcQL_FGJw8o698=",
+      "note": "Diretta esclusiva",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:30",
-      "evento": "Amichevole",
-      "competizione": "Calcio Amichevole",
-      "canale": "Dazn",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3t2Xq8K3fuNNjt-Bpcu0CoNjS2sDTfYVX5xkwi24giCr-40XcoX_e3v7C6FZ_ow_JgoFmsKp-aRu7eEXVGHxYK0_pRddpcRzl17fj4_c1LNvyYOcQL_FGJw8o698=",
+      "evento": "Formula 1 - GP Ungheria: Debriefing (Post Gara)",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:50",
-      "evento": "Gara (Differita)",
-      "competizione": "Mondiale Formula 1 - GP Ungheria",
-      "canale": "TV8 HD, tv8.it",
-      "note": "Orario della differita, potrebbe subire leggere variazioni.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELJMWN2Bea91e71Z1OyQj6aRdBt6gIkZKQKABMlb2KObuZ-N2WaSxi9rtss1a0oX9fR8oow3D6rmUZrz6ev0gTFwNi76RTk3Lp6LKkjK4vTpS2-PuRyCfS6Mqtg-1uocVQMJds30cfIM_HNXaMonx5MAZPQRZmnVagYr6SdwvJsrWa6fmOGEIjXYJjjtzCTkfjYjgE2yrXjHDLtnjaxwTHacikcX4JTlzYyDhtMQCg0Hp_Jyeol4ZxOmNsf3o=",
-      "accuratezza_orario": "stimato"
+      "orario": "18:00",
+      "evento": "Formula 1 - GP Ungheria: Gara",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "FormulaPassion, alVolante.it, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:15",
+      "evento": "Formula 1 - GP Ungheria: Race Anatomy",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "Gara (Replica integrale)",
-      "competizione": "Mondiale Formula 1 - GP Ungheria",
+      "evento": "Formula 1 - GP Ungheria: Gara (Replica)",
+      "competizione": "Campionato del Mondo Formula 1 2026",
       "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqaFpeA0Tynq2YMLkYdi59dhRp1AeJ7JliVp5plepODtdsc8Yys67Icig_qhpAxfyXjxaIP_WIi6QLLWf5CtHeOaIzz-z3DmJzjPgyui6B6zHcsOyeYjpUACEcm83OFecQfsFTXxsJJHgUcjiZ2nJJNpSGHZtPSwoeVgakTrPi4Rk9P6zg5iYnm8rOFIlIBV7eyQWqMuvf8SndCu_kX5O_FQ==",
+      "note": "Primo passaggio replica",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Gara (Replica integrale)",
-      "competizione": "Mondiale Formula 1 - GP Ungheria",
+      "evento": "Formula 1 - GP Ungheria: Gara (Replica)",
+      "competizione": "Campionato del Mondo Formula 1 2026",
       "canale": "Sky Sport F1",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqaFpeA0Tynq2YMLkYdi59dhRp1AeJ7JliVp5plepODtdsc8Yys67Icig_qhpAxfyXjxaIP_WIi6QLLWf5CtHeOaIzz-z3DmJzjPgyui6B6zHcsOyeYjpUACEcm83OFecQfsFTXxsJJHgUcjiZ2nJJNpSGHZtPSwoeVgakTrPi4Rk9P6zg5iYnm8rOFIlIBV7eyQWqMuvf8SndCu_kX5O_FQ==",
+      "note": "Secondo passaggio replica",
+      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Formula 1 - GP Ungheria: Race Anatomy F1 (Replica)",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport Arena",
+      "note": "Del 27 Luglio",
+      "fonte": "GuidaTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Calcio - Amichevole Karlsruhe-Inter",
+      "competizione": "Amichevole Estiva",
+      "canale": "Sky Sport",
+      "note": "Orario non specificato, data confermata",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "tba"
     }
   ]
 }
