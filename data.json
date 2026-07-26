@@ -1,67 +1,67 @@
 {
-  "last_updated": "2026-07-26T10:05:02.216112+02:00",
+  "last_updated": "2026-07-26T14:54:40.231068+02:00",
   "events": [
     {
+      "orario": "06:30",
+      "evento": "Qualifiche (Replica)",
+      "competizione": "Mondiale Formula 1 - GP Ungheria",
+      "canale": "Sky Sport Uno",
+      "note": "Replica delle qualifiche di sabato 25 luglio.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKJRIEhr3e-UsgtE3PiNGMcWQonJ9WNCfVEz5kCjwtE9kqnFw5bt0AKjN4auJkCEid-HLTj1JrIuvlGhsPwWbImKlkj7k1A9n_wAQBZ-D7FgZRpFLFFubVNF1uHpLqGM3q-0jDtkxfyYRWHYk2hjs1Uqg=",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "15:00",
-      "evento": "Formula 1 - Gran Premio d'Ungheria (Gara)",
-      "competizione": "Campionato del Mondo di Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Gara del Gran Premio",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUn7DxzjSWbvXd0FDE0COX6Mli8NdScP4zDhmOpNDe6UM2iEfGb33DYTuDyMqYvL3Z0fmNXK-vkgtgpsF4-0M8wPimV39yCxa9fBgV4FEtbyHSYZsZVuRAIHLiL2oJTJGIWTzuymS9IwcGHVMgntwbffB4tPmSGfvPlFifFqtYQnkefIog5bpKRaw4Ei7JCS4nVkDbQItVt6h2AMt-dBva2dHFeR66yci0evHsR56_m_oGm-17liS_5I3cMZdM",
+      "evento": "Gara",
+      "competizione": "Mondiale Formula 1 - GP Ungheria",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELJMWN2Bea91e71Z1OyQj6aRdBt6gIkZKQKABMlb2KObuZ-N2WaSxi9rtss1a0oX9fR8oow3D6rmUZrz6ev0gTFwNi76RTk3Lp6LKkjK4vTpS2-PuRyCfS6Mqtg-1uocVQMJds30cfIM_HNXaMonx5MAZPQRZmnVagYr6SdwvJsrWa6fmOGEIjXYJjjtzCTkfjYjgE2yrXjHDLtnjaxwTHacikcX4JTlzYyDhtMQCg0Hp_Jyeol4ZxOmNsf3o=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:30",
-      "evento": "Calcio - Inter vs Karlsruhe",
-      "competizione": "Amichevole Pre-Campionato",
-      "canale": "DAZN, Sky Sport Calcio, NOW, Inter TV",
-      "note": "Amichevole di preparazione",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFuK2D-gsgaNCWkLlcarmWKHlESKpndu7xSyGv2QXVtxzqlak4vZETlFBUQ2RB7-pWajQuttlgP6InK9jn35Ch08SU0uMkSBW5nw2hMCQAqkNcSOyqOvpF3fw7ltlKZdvSpi3FE5QkeILrQvtSnZ3Xl11mklp_yTjCDJlFOJvNDaI=",
+      "evento": "Amichevole",
+      "competizione": "Calcio Amichevole",
+      "canale": "Dazn, Sky Sport Calcio",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3t2Xq8K3fuNNjt-Bpcu0CoNjS2sDTfYVX5xkwi24giCr-40XcoX_e3v7C6FZ_ow_JgoFmsKp-aRu7eEXVGHxYK0_pRddpcRzl17fj4_c1LNvyYOcQL_FGJw8o698=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:30",
-      "evento": "Calcio - Roma vs Cannes",
-      "competizione": "Amichevole Pre-Campionato",
-      "canale": "non specificato, probabile Sky Sport/DAZN",
-      "note": "Amichevole di preparazione",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFuK2D-gsgaNCWkLlcarmWKHlESKpndu7xSyGv2QXVtxzqlak4vZETlFBUQ2RB7-pWajQuttlgP6InK9jn35Ch08SU0uMkSBW5nw2hMCQAqkNcSOyqOvpF3fw7ltlKZdvSpi3FE5QkeILrQvtSnZ3Xl11mklp_yTjCDJlFOJvNDaI=",
+      "evento": "Amichevole",
+      "competizione": "Calcio Amichevole",
+      "canale": "Dazn",
+      "note": null,
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3t2Xq8K3fuNNjt-Bpcu0CoNjS2sDTfYVX5xkwi24giCr-40XcoX_e3v7C6FZ_ow_JgoFmsKp-aRu7eEXVGHxYK0_pRddpcRzl17fj4_c1LNvyYOcQL_FGJw8o698=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Calcio - Napoli vs Carrarese",
-      "competizione": "Amichevole Pre-Campionato",
-      "canale": "DAZN, Sky, OneFootball",
-      "note": "Amichevole di preparazione",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFuK2D-gsgaNCWkLlcarmWKHlESKpndu7xSyGv2QXVtxzqlak4vZETlFBUQ2RB7-pWajQuttlgP6InK9jn35Ch08SU0uMkSBW5nw2hMCQAqkNcSOyqOvpF3fw7ltlKZdvSpi3FE5QkeILrQvtSnZ3Xl11mklp_yTjCDJlFOJvNDaI=",
+      "orario": "17:50",
+      "evento": "Gara (Differita)",
+      "competizione": "Mondiale Formula 1 - GP Ungheria",
+      "canale": "TV8 HD, tv8.it",
+      "note": "Orario della differita, potrebbe subire leggere variazioni.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELJMWN2Bea91e71Z1OyQj6aRdBt6gIkZKQKABMlb2KObuZ-N2WaSxi9rtss1a0oX9fR8oow3D6rmUZrz6ev0gTFwNi76RTk3Lp6LKkjK4vTpS2-PuRyCfS6Mqtg-1uocVQMJds30cfIM_HNXaMonx5MAZPQRZmnVagYr6SdwvJsrWa6fmOGEIjXYJjjtzCTkfjYjgE2yrXjHDLtnjaxwTHacikcX4JTlzYyDhtMQCg0Hp_Jyeol4ZxOmNsf3o=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Gara (Replica integrale)",
+      "competizione": "Mondiale Formula 1 - GP Ungheria",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqaFpeA0Tynq2YMLkYdi59dhRp1AeJ7JliVp5plepODtdsc8Yys67Icig_qhpAxfyXjxaIP_WIi6QLLWf5CtHeOaIzz-z3DmJzjPgyui6B6zHcsOyeYjpUACEcm83OFecQfsFTXxsJJHgUcjiZ2nJJNpSGHZtPSwoeVgakTrPi4Rk9P6zg5iYnm8rOFIlIBV7eyQWqMuvf8SndCu_kX5O_FQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Calcio - Lazio vs Flaminia Civita Castellana",
-      "competizione": "Amichevole Pre-Campionato",
-      "canale": "DAZN",
-      "note": "Amichevole di preparazione",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFuK2D-gsgaNCWkLlcarmWKHlESKpndu7xSyGv2QXVtxzqlak4vZETlFBUQ2RB7-pWajQuttlgP6InK9jn35Ch08SU0uMkSBW5nw2hMCQAqkNcSOyqOvpF3fw7ltlKZdvSpi3FE5QkeILrQvtSnZ3Xl11mklp_yTjCDJlFOJvNDaI=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Formula 1 - Gran Premio d'Ungheria (Differita Gara)",
-      "competizione": "Campionato del Mondo di Formula 1 2026",
-      "canale": "TV8",
-      "note": "Replica/Differita della gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi1ho1JCy4aUEAY2Rxv9JCkNicCfnqqENegLA2j5O6rJqXzXqylVg8GSlDGVYw8aD-nK5XdSom9cFljJAaXcFzYHHtooJXYMsHd51poXQp8HFw0UswumhGwDBxf8_puNgJS1zgjR3u0IxokcZHWcedZpyAV8bTOtLUsYzZIsAdGeluPjfAcvXYWXVo9dQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Programma di approfondimento Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "Programma post-gara (notte tra 26 e 27 luglio)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDAN4N4dM3uKrkVA6kosVvHXB-PSzBLGozVDuyMGLymEaMX0c9wflnUSBWhMCnmv_OC2qvBNb9Wz4q6-9cq037xZXwVdp9PeHm963IWbUpDEEtia9MoDdyYoXTpZbXKQk1mPdQODHW2P8ln_n_AxT2g==",
+      "orario": "22:00",
+      "evento": "Gara (Replica integrale)",
+      "competizione": "Mondiale Formula 1 - GP Ungheria",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqaFpeA0Tynq2YMLkYdi59dhRp1AeJ7JliVp5plepODtdsc8Yys67Icig_qhpAxfyXjxaIP_WIi6QLLWf5CtHeOaIzz-z3DmJzjPgyui6B6zHcsOyeYjpUACEcm83OFecQfsFTXxsJJHgUcjiZ2nJJNpSGHZtPSwoeVgakTrPi4Rk9P6zg5iYnm8rOFIlIBV7eyQWqMuvf8SndCu_kX5O_FQ==",
       "accuratezza_orario": "esatto"
     }
   ]
