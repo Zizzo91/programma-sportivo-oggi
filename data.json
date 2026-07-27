@@ -1,229 +1,49 @@
 {
-  "last_updated": "2026-07-27T03:49:49.094305+02:00",
+  "last_updated": "2026-07-27T11:25:43.120714+02:00",
   "events": [
     {
-      "orario": "05:00",
-      "evento": "Campionati Italiani Rimini",
-      "competizione": "Pattinaggio Artistico",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Mondiale Formula 1 2026",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica/Contenuto generico F1",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Tour de France 2026 - Re - Tour",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV, Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Programma di analisi",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "Campionati Italiani 2026-da Firenze",
-      "competizione": "Atletica Leggera",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto, Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:15",
-      "evento": "Karlsruhe - Inter",
-      "competizione": "Calcio - Amichevole",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "GP Ungheria: Gara",
-      "competizione": "Formula 1 - Mondiale Formula 1 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Campionati Italiani Estivi 2026 - Finali 3a giornata (da Roma)",
-      "competizione": "Sport Acquatici (stimato)",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Programma di analisi",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Mondiali 2026 - Semifinali e Finali: Fioretto femminile; Sciabola maschile (da Hong Kong)",
-      "competizione": "Scherma",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Karlsruhe - Inter",
-      "competizione": "Calcio - Amichevole",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:35",
-      "evento": "Finale: Spagna - Argentina",
-      "competizione": "Calcio - FIFA World Cup 2026",
-      "canale": "Raisport HD",
-      "note": "Replica della finale",
-      "fonte": "Sport Pomeriggio - Guida TV, Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "GP Ungheria: Gara",
-      "competizione": "Formula 1 - Mondiale Formula 1 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Programma di analisi",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Coppa del Mondo Hyundai Madrid - 4a prova",
-      "competizione": "Tiro con l'Arco",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "20:00",
-      "evento": "Galatasaray - Venezia",
+      "evento": "Galatasaray - Venezia (Amichevole)",
       "competizione": "Calcio - Amichevole",
       "canale": "DAZN",
-      "note": "Giocata all'Hofmann Personal Stadion di Linz, Austria",
-      "fonte": "Calcio in tv oggi, 27 luglio 2026: Galatasaray-Venezia in primo piano, Dazn, le amichevoli estive di luglio e agosto ancora più ricche - Tuttosport, Amichevoli Serie A su DAZN: calendario completo, partite e dove vedere il precampionato",
+      "note": "",
+      "fonte": "Sportface.it, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Sei giorni di Pordenone",
-      "competizione": "Ciclismo su Pista",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
+      "orario": "00:00*",
+      "evento": "ATP 500 Washington - 1° Turno: Matteo Arnaldi vs Lorenzo Musetti",
+      "competizione": "Tennis - Mubadala DC Open",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Derby italiano. Orario stimato per l'inizio del match, che si svolgerà nella sessione serale americana (quindi notte fonda o prime ore del mattino in Italia del 28/07). L'orario esatto dipenderà dalla programmazione.",
+      "fonte": "Sportface.it, Olympics.com, Sport in tv oggi (lunedì 27 luglio), Sky Sport Uno",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:45",
-      "evento": "Scherma",
-      "competizione": "Scherma",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Lunedi su Rai Sport - Tutti i programmi di Rai Sport del 27-07-2026 - ProgrammiTV",
-      "accuratezza_orario": "esatto"
+      "orario": "00:00*",
+      "evento": "WTA 500 Washington - 1° Turno: Elisabetta Cocciaretto",
+      "competizione": "Tennis - Mubadala DC Open",
+      "canale": "Sky Sport Tennis, SuperTennis",
+      "note": "Match di primo turno. Orario stimato per l'inizio del match, che si svolgerà nella sessione serale americana (quindi notte fonda o prime ore del mattino in Italia del 28/07). L'orario esatto dipenderà dalla programmazione.",
+      "fonte": "Sportface.it, Olympics.com, Sport in tv oggi (lunedì 27 luglio)",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:00",
-      "evento": "Campionato Italiano Cross Country",
-      "competizione": "Ciclismo MTB",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Pattinaggio artistico",
-      "competizione": "Pattinaggio Artistico",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Lunedi su Rai Sport - Tutti i programmi di Rai Sport del 27-07-2026 - ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:25",
-      "evento": "Canottaggio",
-      "competizione": "Canottaggio",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Lunedi su Rai Sport - Tutti i programmi di Rai Sport del 27-07-2026 - ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Giro di Castelbuono",
-      "competizione": "Atletica",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:50",
-      "evento": "Scherma",
-      "competizione": "Scherma",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "Lunedi su Rai Sport - Tutti i programmi di Rai Sport del 27-07-2026 - ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Camp. Mondiali Hong Kong 2026: Finali a Squadre: Sciabola femminile",
-      "competizione": "Scherma",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
+      "orario": "01:00*",
+      "evento": "ATP 500 Washington - Doppio 1° Turno: Simone Bolelli / Andrea Vavassori",
+      "competizione": "Tennis - Mubadala DC Open",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Match di doppio. Orario stimato per l'inizio del match, che si svolgerà nella sessione serale americana (quindi notte fonda o prime ore del mattino in Italia del 28/07). L'orario esatto dipenderà dalla programmazione.",
+      "fonte": "Sportface.it, Olympics.com, Sport in tv oggi (lunedì 27 luglio), Sky Sport Uno",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "01:00",
-      "evento": "ATP & WTA 2026",
+      "evento": "Tennis ATP & WTA",
       "competizione": "Tennis",
       "canale": "Sky Sport Uno",
-      "note": "Programmazione generica, non è specificata la presenza di giocatori italiani in singoli match.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Copertura delle partite in corso dai tornei ATP/WTA negli Stati Uniti (es. Washington).",
+      "fonte": "Sky Sport Uno",
       "accuratezza_orario": "esatto"
     },
     {
@@ -231,8 +51,8 @@
       "evento": "Mondiale Formula 1 2026",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica/Contenuto generico F1 (del 28 luglio)",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Programmazione legata alla Formula 1. Potrebbe essere una replica o un approfondimento post-gara del GP d'Ungheria disputatosi il 26 luglio.",
+      "fonte": "Sky Sport Uno",
       "accuratezza_orario": "esatto"
     }
   ]
