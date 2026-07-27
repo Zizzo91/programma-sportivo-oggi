@@ -1,113 +1,239 @@
 {
-  "last_updated": "2026-07-26T20:53:47.060676+02:00",
+  "last_updated": "2026-07-27T03:49:49.094305+02:00",
   "events": [
     {
-      "orario": "08:35",
-      "evento": "Formula 3 - GP Ungheria: Feature Race",
-      "competizione": "Campionato del Mondo Formula 3 2026",
-      "canale": "Sky Sport F1",
+      "orario": "05:00",
+      "evento": "Campionati Italiani Rimini",
+      "competizione": "Pattinaggio Artistico",
+      "canale": "Rai Sport +HD",
       "note": "",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:05",
-      "evento": "Porsche Supercup - GP Ungheria: Gara",
-      "competizione": "Porsche Supercup 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "orario": "06:00",
+      "evento": "Mondiale Formula 1 2026",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica/Contenuto generico F1",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:20",
-      "evento": "Formula 2 - GP Ungheria: Feature Race",
-      "competizione": "Campionato del Mondo Formula 2 2026",
-      "canale": "Sky Sport F1",
+      "orario": "06:00",
+      "evento": "Tour de France 2026 - Re - Tour",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport +HD",
       "note": "",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV, Raisport Hd : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Formula 1 - GP Ungheria: Pre Gara",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "orario": "07:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di analisi",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Campionati Italiani 2026-da Firenze",
+      "competizione": "Atletica Leggera",
+      "canale": "Raisport HD",
       "note": "",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto, Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:15",
+      "evento": "Karlsruhe - Inter",
+      "competizione": "Calcio - Amichevole",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "GP Ungheria: Gara",
+      "competizione": "Formula 1 - Mondiale Formula 1 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Campionati Italiani Estivi 2026 - Finali 3a giornata (da Roma)",
+      "competizione": "Sport Acquatici (stimato)",
+      "canale": "Raisport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di analisi",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Mondiali 2026 - Semifinali e Finali: Fioretto femminile; Sciabola maschile (da Hong Kong)",
+      "competizione": "Scherma",
+      "canale": "Raisport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "Karlsruhe - Inter",
+      "competizione": "Calcio - Amichevole",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:35",
+      "evento": "Finale: Spagna - Argentina",
+      "competizione": "Calcio - FIFA World Cup 2026",
+      "canale": "Raisport HD",
+      "note": "Replica della finale",
+      "fonte": "Sport Pomeriggio - Guida TV, Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Formula 1 - GP Ungheria: Gara",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Diretta esclusiva",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "evento": "GP Ungheria: Gara",
+      "competizione": "Formula 1 - Mondiale Formula 1 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:30",
-      "evento": "Formula 1 - GP Ungheria: Debriefing (Post Gara)",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport F1",
+      "orario": "16:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di analisi",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Coppa del Mondo Hyundai Madrid - 4a prova",
+      "competizione": "Tiro con l'Arco",
+      "canale": "Rai Sport +HD",
       "note": "",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Formula 1 - GP Ungheria: Gara",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "FormulaPassion, alVolante.it, Il Fatto Quotidiano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:15",
-      "evento": "Formula 1 - GP Ungheria: Race Anatomy",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "Formula 1 - GP Ungheria: Gara (Replica)",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Primo passaggio replica",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "evento": "Galatasaray - Venezia",
+      "competizione": "Calcio - Amichevole",
+      "canale": "DAZN",
+      "note": "Giocata all'Hofmann Personal Stadion di Linz, Austria",
+      "fonte": "Calcio in tv oggi, 27 luglio 2026: Galatasaray-Venezia in primo piano, Dazn, le amichevoli estive di luglio e agosto ancora più ricche - Tuttosport, Amichevoli Serie A su DAZN: calendario completo, partite e dove vedere il precampionato",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Formula 1 - GP Ungheria: Gara (Replica)",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Secondo passaggio replica",
-      "fonte": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "orario": "20:00",
+      "evento": "Sei giorni di Pordenone",
+      "competizione": "Ciclismo su Pista",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "Formula 1 - GP Ungheria: Race Anatomy F1 (Replica)",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport Arena",
-      "note": "Del 27 Luglio",
-      "fonte": "GuidaTV",
+      "orario": "20:45",
+      "evento": "Scherma",
+      "competizione": "Scherma",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Lunedi su Rai Sport - Tutti i programmi di Rai Sport del 27-07-2026 - ProgrammiTV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Calcio - Amichevole Karlsruhe-Inter",
-      "competizione": "Amichevole Estiva",
-      "canale": "Sky Sport",
-      "note": "Orario non specificato, data confermata",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "tba"
+      "orario": "21:00",
+      "evento": "Campionato Italiano Cross Country",
+      "competizione": "Ciclismo MTB",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Pattinaggio artistico",
+      "competizione": "Pattinaggio Artistico",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Lunedi su Rai Sport - Tutti i programmi di Rai Sport del 27-07-2026 - ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:25",
+      "evento": "Canottaggio",
+      "competizione": "Canottaggio",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Lunedi su Rai Sport - Tutti i programmi di Rai Sport del 27-07-2026 - ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Giro di Castelbuono",
+      "competizione": "Atletica",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:50",
+      "evento": "Scherma",
+      "competizione": "Scherma",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Lunedi su Rai Sport - Tutti i programmi di Rai Sport del 27-07-2026 - ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Camp. Mondiali Hong Kong 2026: Finali a Squadre: Sciabola femminile",
+      "competizione": "Scherma",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "Programmi Rai Sport +HD lunedi 27 luglio 2026 - Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "ATP & WTA 2026",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
+      "note": "Programmazione generica, non è specificata la presenza di giocatori italiani in singoli match.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Mondiale Formula 1 2026",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica/Contenuto generico F1 (del 28 luglio)",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
