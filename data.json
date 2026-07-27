@@ -1,76 +1,94 @@
 {
-  "last_updated": "2026-07-27T16:08:04.118415+02:00",
+  "last_updated": "2026-07-27T21:09:16.022944+02:00",
   "events": [
     {
       "orario": "08:15",
       "evento": "Amichevole: Karlsruhe - Inter",
       "competizione": "Calcio Amichevole",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlsQK6wI_JQJk826GlgEvK8OGbCaXDi5XLL6F5tQaMFvaLkKPxyz40oAQCvdHUzwbMX9xTGekgtQ71zY0jYVRLAN8EIatQt702O6IUcbsNA9fr7-tOXW8P13aTfZ9mNUAi8_xDvx-9EkrGMw2smTrSJL3aAESbs-oTkQ5JW0v92ifV3krJGIIJEz0ZLKd-CXTJVsjeu1WgzWrPkmxu_wpXZMmvXIGSxrl2K8fVVLoeuycx4ZpIJcjMob",
+      "note": "Amichevole pre-stagionale dell'Inter.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:00",
-      "evento": "Mondiale Formula 1 2026: GP Ungheria - Gara (Replica)",
+      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara",
       "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1",
-      "note": "Replica della gara del GP Ungheria",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlsQK6wI_JQJk826GlgEvK8OGbCaXDi5XLD2DooMC5ZzXb8C_M9alHZwSR_R34WxdbiUSyWs7xCyshW0406vxp31FiH0SmajyTJ2O86o81whd6qrLcecnmgQaj469N44ylz4JGOa9RZGHzg_ogQL9akO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTU99b-glztlCWPmlObyZqL100J_3biOqF5XFoKXhAXDpK91X5_epx9HIo4b1m-bmwul1tCq3VOOWz76QwXmu0HkgAi5Ope3JD_Zja4TzADMGkbCgJBXdeMHEFqk3dcmbrbgy2N3Q4kfVEgXG4j0d3WKkZ1HKMRWaZqCUiwr37w21hw6Er0DuCCBRgW-VEayKb7-QN, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsjH5V3GPCf7efiWQBXu_exoSYAbt2rNb4H7wJJAvFMzRBGmBlXYPdtAJ-qkD_GC405E3lcAVl2Ru9_plNpjzrMKHX6ED238vNFp2E9XEnmlz5zH4065XnSurkL2Gv9d69NkRTu2WFp0FEr8k9XNCGzMp6zml6W5VK1ZRdDQZLWvdMO0qYSRa5ZEzzoJ05AQ7UBAbDDudV-idHZ3B6BmwX",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara disputata domenica 26 luglio.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:15",
-      "evento": "Amichevole: Karlsruhe - Inter (Replica)",
+      "evento": "Amichevole: Karlsruhe - Inter",
       "competizione": "Calcio Amichevole",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlsQK6wI_JQJk826GlgEvK8OGbCaXDi5XLD2DooMC5ZzXb8C_M9alHZwSR_R34WxdbiUSyWs7xCyshW0406vxp31FiH0SmajyTJ2O86o81whd6qrLcecnmgQaj469N44ylz4JGOa9RZGHzg_ogQL9akO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTU99b-glztlCWPmlObyZqL100J_3biOqF5XFoKXhAXDpK91X5_epx9HIo4b1m-bmwul1tCq3VOOWz76QwXmu0HkgAi5Ope3JD_Zja4TzADMGkbCgJBXdeMHEFqk3dcmbrbgy2N3Q4kfVEgXG4j0d3WKkZ1HKMRWaZqCUiwr37w21hw6Er0DuCCBRgW-VEayKb7-QN",
+      "note": "Replica dell'amichevole pre-stagionale dell'Inter.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:55",
+      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica della gara disputata domenica 26 luglio.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9s56AMCs3pqAH_XEHd147TPxKgfkrCpg5hMW4c5wHRY5qFt3OuKbWDaCLj50ZT3XSZC3P41neIQf5toFyPRSIw9JhZalvu3GuNgHQmckwJhx-ayECZkespzDAnqAKiKHzwcfO5BMJskVneP-oonPnlXSBYWaCCoY=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Mondiale Formula 1 2026: GP Ungheria - Gara (Replica)",
+      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara",
       "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1",
-      "note": "Replica della gara del GP Ungheria",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlsQK6wI_JQJk826GlgEvK8OGbCaXDi5XLD2DooMC5ZzXb8C_M9alHZwSR_R34WxdbiUSyWs7xCyshW0406vxp31FiH0SmajyTJ2O86o81whd6qrLcecnmgQaj469N44ylz4JGOa9RZGHzg_ogQL9akO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepNUbW8Fq47LMCLAO9v6lC2fK5kVb8JbdIgTusUBKtjDc77oWL_3fAa8BLC7e_edyc0zDMNhdVqFTo7FyiojvXA1W8Gy72sXWL_FWcBVZEaNkEd0Jp7NLoaRytIkHs1XA6ukSsn3sNjuBxNHtk5wyuk7HsI5HirQvTAy1i9qd5baG0AgB7dpBhG7FxFBiayd2YOR8UmMKulGObY1ylQ_D-xlu8JI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsjH5V3GPCf7efiWQBXu_exoSYAbt2rNb4H7wJJAvFMzRBGmBlXYPdtAJ-qkD_GC405E3lcAVl2Ru9_plNpjzrMKHX6ED238vNFp2E9XEnmlz5zH4065XnSurkL2Gv9d69NkRTu2WFp0FEr8k9XNCGzMp6zml6W5VK1ZRdDQZLWvdMO0qYSRa5ZEzzoJ05AQ7UBAbDDudV-idHZ3B6BmwX",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara disputata domenica 26 luglio.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "WTA 500 Washington: Elisabetta Cocciaretto vs Clara Tauson (1° turno)",
-      "competizione": "Tennis WTA 500",
-      "canale": "Sky Sport Tennis, SuperTennis, SuperTenniX",
-      "note": "Orario italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZIiZCtD2LLkpSkaOVIKExuWUM-6lBaQYtkJMvBEZi1gYtZsZ4L13PNZtk-r0LAeJu-csRVKsEI6LjfYSuk9QC6q_eSZ_Gj1-3HixzZZo-pNnplUYL04y7wS5RV4AD8Jhn8qkspClz_RsBJDc7fOzCUCAQ945pDk0bKw-Ze3GX7VMucW8IVYA3Lx7RXANRCQmNHvgByPlsRJl4A1fBP-tBIYoknyDgjEB-29sqPUepBS0H7qWrh6GqH-56Hc_79cLhNxKEbk8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "ATP & WTA Washington / Los Cabos / Memphis",
+      "evento": "ATP & WTA 2026: Inizio programmazione Washington Open",
       "competizione": "Tennis",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Copertura generale dei tornei con attenzione ai giocatori italiani",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHayegxhW-u5vDsioxrTgmMU5PEPy9J5BncpnpVxbYoVjnfxMUdUNdmuw2K4xo6xz7qPSOfp8idh7hGe7AMtmkyg4BnaS-MXIFZ6IEjiIajapZnmBwuCyhy1wXDK_eCqfp4EOXizNHMJFEpXEevCC5OzeYPCBvMZt-jc5z8BpMLL4RIp9Iq1KgNRNWaREQxS35-Pv2vrPWrN8fMevlXjeMk74o6KSyJv6lSUsxB6L9S9bTdj61238RxmAfljnsnDtI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwmGKBwui_k6GLVd-6-JkU1fnt4-L0D5dhawoHQ1JO5NulSREiONnEOlOLJOIgJ_6YtrtvPZRpkh7gDQPtbwsYYUBt95NeEX5nv31cAHdDsfs9YBV7rlcxs12LncOeeR0L6ZQIfSbHiP-XZ2mk9l2Wvsw=",
+      "canale": "Sky Sport Tennis, Sky Sport 1, NOW",
+      "note": "Inizio della copertura del torneo di Washington con match ATP e WTA, inclusi giocatori italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzItE_WC1Ap33t9odOZk5fUs0XjZxJzDoKJo0ud1J25-mxSRXL76_ltF2tK_-C6yup0TA5W20o6NGTMgQTo00BUNR2ET9BHMgt44TR1D8uiMgyFavvruj1zTeGKjM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30*",
-      "evento": "ATP 500 Washington: Lorenzo Musetti vs Matteo Arnaldi (1° turno)",
+      "orario": "17:00*",
+      "evento": "ATP 500 Washington: Lorenzo Musetti vs Matteo Arnaldi",
       "competizione": "Tennis ATP 500",
-      "canale": "Sky Sport, NOW, TennisTv",
-      "note": "Derby italiano, orario stimato italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8-IGJ-C4PzgNOqkMWTYZKUG6GBQcc6WsRFMAlk8ChOW4RmgVh-7hy5r8NJRbIIH2boSOl4BLECCJrBaxtZrGH9YmT7duB3gFR8JFyTtCsQERCylXJKkzgRZ9OUaXGl529xV6ydTxAvtkvC2sVp-PWskOz4v66FEzGH2PBVkq16AxUOPntr4ZHisOPdmAKKioLuCG4LiQdUhWwZTcp6wOfV8cmnV8DuA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZIiZCtD2LLkpSkaOVIKExuWUM-6lBaQYtkJMvBEZi1gYtZsZ4L13PNZtk-r0LAeJu-csRVKsEI6LjfYSuk9QC6q_eSZ_Gj1-3HixzZZo-pNnplUYL04y7wS5RV4AD8Jhn8qkspClz_RsBJDc7fOzCUCAQ945pDk0bKw-Ze3GX7VMucW8IVYA3Lx7RXANRCQmNHvgByPlsRJl4A1fBP-tBIYoknyDgjEB-29sqPUepBS0H7qWrh6GqH-56Hc_79cLhNxKEbk8=",
+      "canale": "Sky Sport Tennis, Sky Sport 1, NOW",
+      "note": "Derby italiano di singolare maschile (secondo incontro sul campo).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9DUbcV4WrK4qyz5QLgrpobnX2svG2C02UbucBgwYxs_NfgQBMsxRBJc1w1Tolll_SYJxJ6ORpDN4ICqaQ8EXYhf3HDUdABx7yEbN7AyL02ymPCi88fWpPDs8k6dZBi39d5pPf_KC2z6T-PrmwPca2_e5WRYZsjsoo-v3AQJZiw1WF5RiGObQBA85a3lAxKIxrLNs7L5AZ3fvgl8Z7UDYP3m7GQBknPLQCyQtGKhFrfFpEMvTFVvBvKgMgmmFygg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_RboKtsK8Wade5LenhsXa5oIqJSQPrazmf38QLT05vd9V5_pWr1qWPhAzkB_mC9X_KGP45d8qjhzalJsmEaMOCJc_vMjB62rbC2p6B4ViyDXGzsHUEU9GELX8kBxqXfNqJahYVi95AzCr5j-ZmNxq-7y9iodZ1paNUJCydj7s5BEEUJxt5k1-i_Bp9RHFVbtlWvMFD6iOsHKYkZBm3FFqgP9v17FiIsnbbM0njJkoSwHX6_erfFgT6xmYNhgU8Pr8gbIrA=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00*",
-      "evento": "ATP 500 Washington: Simone Bolelli / Andrea Vavassori vs Julian Cash / Alexander Erler (doppio)",
+      "orario": "17:00*",
+      "evento": "ATP 500 Washington: Doppio (Bolelli/Vavassori)",
       "competizione": "Tennis ATP 500",
-      "canale": "Sky Sport, NOW",
-      "note": "Orario stimato italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZIiZCtD2LLkpSkaOVIKExuWUM-6lBaQYtkJMvBEZi1gYtZsZ4L13PNZtk-r0LAeJu-csRVKsEI6LjfYSuk9QC6q_eSZ_Gj1-3HixzZZo-pNnplUYL04y7wS5RV4AD8Jhn8qkspClz_RsBJDc7fOzCUCAQ945pDk0bKw-Ze3GX7VMucW8IVYA3Lx7RXANRCQmNHvgByPlsRJl4A1fBP-tBIYoknyDgjEB-29sqPUepBS0H7qWrh6GqH-56Hc_79cLhNxKEbk8=",
+      "canale": "Sky Sport Tennis, Sky Sport 1, NOW",
+      "note": "Match di doppio con Simone Bolelli e Andrea Vavassori (terzo incontro sul campo).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9DUbcV4WrK4qyz5QLgrpobnX2svG2C02UbucBgwYxs_NfgQBMsxRBJc1w1Tolll_SYJxJ6ORpDN4ICqaQ8EXYhf3HDUdABx7yEbN7AyL02ymPCi88fWpPDs8k6dZBi39d5pPf_KC2z6T-PrmwPca2_e5WRYZsjsoo-v3AQJZiw1WF5RiGObQBA85a3lAxKIxrLNs7L5AZ3fvgl8Z7UDYP3m7GQBknPLQCyQtGKhFrfFpEMvTFVvBvKgMgmmFygg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_RboKtsK8Wade5LenhsXa5oIqJSQPrazmf38QLT05vd9V5_pWr1qWPhAzkB_mC9X_KGP45d8qjhzalJsmEaMOCJc_vMjB62rbC2p6B4ViyDXGzsHUEU9GELX8kBxqXfNqJahYVi95AzCr5j-ZmNxq-7y9iodZ1paNUJCydj7s5BEEUJxt5k1-i_Bp9RHFVbtlWvMFD6iOsHKYkZBm3FFqgP9v17FiIsnbbM0njJkoSwHX6_erfFgT6xmYNhgU8Pr8gbIrA=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "WTA 500 Washington: Elisabetta Cocciaretto (Singolo)",
+      "competizione": "Tennis WTA 500",
+      "canale": "Sky Sport Tennis, Sky Sport 1, SuperTennis, SuperTennix, NOW",
+      "note": "Match di singolare femminile con giocatrice italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQEx_RboKtsK8Wade5LenhsXa5oIqJSQPrazmf38QLT05vd9V5_pWr1qWPhAzkB_mC9X_KGP45d8qjhzalJsmEaMOCJc_vMjB62rbC2p6B4ViyDXGzsHUEU9GELX8kBxqXfNqJahYVi95AzCr5j-ZmNxq-7y9iodZ1paNUJCydj7s5BEEUJxt5k1-i_Bp9RHFVbtlWvMFD6iOsHKYkZBm3FFqgP9v17FiIsnbbM0njJkoSwHX6_erfFgT6xmYNhgU8Pr8gbIrA=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "WTA 500 Washington: Doppio (Sara Errani)",
+      "competizione": "Tennis WTA 500",
+      "canale": "Sky Sport Tennis, Sky Sport 1, NOW",
+      "note": "Match di doppio femminile con giocatrice italiana (con Nicole Melichar).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsESEjCGYPGUH4lxc1UVlij6hRj53nYgjO4J5Nuf24FZRds_Jvo4xINpfaDp5fgwuv1OrG-jP-uDukI5jRh09a6sk9Bj1s-1E-RLVXi7N-L4M9DVKJrW8-Fic33pvstgDmhMEfMiZTnc0UdCj5XaIzk0GasZI-3djN-L1SgVuBKpCt31F-1FB4oTXVHXZT2Sx5fNTV5TF88mPROM3apm1Sf9_ymwG8PZUa6VoerYVVDZQL=",
       "accuratezza_orario": "stimato"
     },
     {
@@ -78,17 +96,17 @@
       "evento": "ATP & WTA 2026",
       "competizione": "Tennis",
       "canale": "Sky Sport Uno",
-      "note": "Copertura tornei internazionali di tennis",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlsQK6wI_JQJk826GlgEvK8OGbCaXDi5XLD2DooMC5ZzXb8C_M9alHZwSR_R34WxdbiUSyWs7xCyshW0406vxp31FiH0SmajyTJ2O86o81whd6qrLcecnmgQaj469N44ylz4JGOa9RZGHzg_ogQL9akO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTU99b-glztlCWPmlObyZqL100J_3biOqF5XFoKXhAXDpK91X5_epx9HIo4b1m-bmwul1tCq3VOOWz76QwXmu0HkgAi5Ope3JD_Zja4TzADMGkbCgJBXdeMHEFqk3dcmbrbgy2N3Q4kfVEgXG4j0d3WKkZ1HKMRWaZqCUiwr37w21hw6Er0DuCCBRgW-VEayKb7-QN",
+      "note": "Programmazione notturna di tennis (Washington Open).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "ATP & WTA 2026",
+      "evento": "ATP & WTA",
       "competizione": "Tennis",
       "canale": "Sky Sport Tennis",
-      "note": "Copertura tornei internazionali di tennis (fino alle 06:00 del 28/07)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHayegxhW-u5vDsioxrTgmMU5PEPy9J5BncpnpVxbYoVjnfxMUdUNdmuw2K4xo6xz7qPSOfp8idh7hGe7AMtmkyg4BnaS-MXIFZ6IEjiIajapZnmBwuCyhy1wXDK_eCqfp4EOXizNHMJFEpXEevCC5OzeYPCBvMZt-jc5z8BpMLL4RIp9Iq1KgNRNWaREQxS35-Pv2vrPWrN8fMevlXjeMk74o6KSyJv6lSUsxB6L9S9bTdj61238RxmAfljnsnDtI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwmGKBwui_k6GLVd-6-JkU1fnt4-L0D5dhawoHQ1JO5NulSREiONnEOlOLJOIgJ_6YtrtvPZRpkh7gDQPtbwsYYUBt95NeEX5nv31cAHdDsfs9YBV7rlcxs12LncOeeR0L6ZQIfSbHiP-XZ2mk9l2Wvsw=",
+      "note": "Programmazione mattutina di tennis (Washington Open).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzItE_WC1Ap33t9odOZk5fUs0XjZxJzDoKJo0ud1J25-mxSRXL76_ltF2tK_-C6yup0TA5W20o6NGTMgQTo00BUNR2ET9BHMgt44TR1D8uiMgyFavvruj1zTeGKjM=",
       "accuratezza_orario": "esatto"
     }
   ]
