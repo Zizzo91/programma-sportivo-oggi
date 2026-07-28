@@ -1,13 +1,22 @@
 {
-  "last_updated": "2026-07-28T10:11:54.380919+02:00",
+  "last_updated": "2026-07-28T15:27:36.330080+02:00",
   "events": [
     {
       "orario": "06:00",
-      "evento": "Incontro amichevole - Celtic - Milan",
-      "competizione": "Amichevole di Club",
+      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara del GP d'Ungheria.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Amichevole: Celtic - Milan",
+      "competizione": "Calcio Amichevole",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sky Sport Uno Stamattina: Programmi TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
       "accuratezza_orario": "esatto"
     },
     {
@@ -15,8 +24,8 @@
       "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara di Domenica 26 luglio",
-      "fonte": "Sky Sport Uno Stamattina: Programmi TV",
+      "note": "Replica della gara del GP d'Ungheria.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
       "accuratezza_orario": "esatto"
     },
     {
@@ -24,8 +33,8 @@
       "evento": "Race Anatomy F1",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Approfondimento sul GP Ungheria",
-      "fonte": "Sky Sport Uno Stamattina: Programmi TV",
+      "note": "Analisi post-gara del GP d'Ungheria.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
       "accuratezza_orario": "esatto"
     },
     {
@@ -33,8 +42,8 @@
       "evento": "Reparto Corse F1",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Approfondimento sul GP Ungheria",
-      "fonte": "Sky Sport Uno Stamattina: Programmi TV",
+      "note": "Approfondimento sulla Formula 1.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
       "accuratezza_orario": "esatto"
     },
     {
@@ -42,8 +51,8 @@
       "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara di Domenica 26 luglio",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Replica della gara del GP d'Ungheria.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjJzZFs89TUEhkKirxVq3CP0B2f-jmY87_-U5t_7LHp1iOZq_yLfO7OWyQa0FX-eq4M_tXmb-RHbiAKCOcHKJB8jfiKINpW2kZzshdhv33Kt77YteXBtmg20_u0EQvTQhYN01FTtC_LE397tTHACvuasDg-gwbyC_Pg6CQY0=",
       "accuratezza_orario": "esatto"
     },
     {
@@ -51,8 +60,8 @@
       "evento": "Race Anatomy F1",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Approfondimento sul GP Ungheria",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Analisi post-gara del GP d'Ungheria.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjJzZFs89TUEhkKirxVq3CP0B2f-jmY87_-U5t_7LHp1iOZq_yLfO7OWyQa0FX-eq4M_tXmb-RHbiAKCOcHKJB8jfiKINpW2kZzshdhv33Kt77YteXBtmg20_u0EQvTQhYN01FTtC_LE397tTHACvuasDg-gwbyC_Pg6CQY0=",
       "accuratezza_orario": "esatto"
     },
     {
@@ -60,54 +69,45 @@
       "evento": "Reparto Corse F1",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Approfondimento sul GP Ungheria",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Approfondimento sulla Formula 1.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjJzZFs89TUEhkKirxVq3CP0B2f-jmY87_-U5t_7LHp1iOZq_yLfO7OWyQa0FX-eq4M_tXmb-RHbiAKCOcHKJB8jfiKINpW2kZzshdhv33Kt77YteXBtmg20_u0EQvTQhYN01FTtC_LE397tTHACvuasDg-gwbyC_Pg6CQY0=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:15",
-      "evento": "Incontro amichevole - Standard Liegi - Juventus",
-      "competizione": "Amichevole di Club",
+      "evento": "Amichevole: Standard Liegi - Juventus",
+      "competizione": "Calcio Amichevole",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjJzZFs89TUEhkKirxVq3CP0B2f-jmY87_-U5t_7LHp1iOZq_yLfO7OWyQa0FX-eq4M_tXmb-RHbiAKCOcHKJB8jfiKINpW2kZzshdhv33Kt77YteXBtmg20_u0EQvTQhYN01FTtC_LE397tTHACvuasDg-gwbyC_Pg6CQY0=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Amichevole - Cagliari-Modena",
-      "competizione": "Amichevole di Club",
+      "evento": "Amichevole: Cagliari - Modena",
+      "competizione": "Calcio Amichevole",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Zo3F1xZ60xtjOgUhmxed1OVspAyNvpwgDV5S84It0R0w0sZeZx-iRyDgrx9vWERfPoywapkbrc0EVwppr2iHNYDGpzXBfXPXMYWistvvYp0q1iOAGEjOUq-8B5BP",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "ATP/WTA Washington (con Musetti, Cocciaretto)",
-      "competizione": "Tennis ATP 500 / WTA 500",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Primo turno. Lorenzo Musetti e Elisabetta Cocciaretto in campo.",
-      "fonte": "Sport in tv oggi (martedì 28 luglio): orari e programma; DC Open ATP Day One Round-Up; Fritz takes 250th hardcourt win in ATP Washington opener; Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "orario": "21:30",
+      "evento": "WTA Washington - Doppio: Sara Errani / Nicole Melichar (ITA/USA) vs Katie Boulter / Polina Iatcenko (GBR/RUS)",
+      "competizione": "WTA 500 Mubadala DC Open",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Match di doppio con la partecipazione di un'italiana. Ora stimata (non prima delle 21:30 CET).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqnIZqPk3pSnFK-6ACQEswVfKI9AgyteZDEHZV9U_BbktGZ7lHBOgNZMkIJuBAo-i-z8swiFVIWvykJ4do7Z1JxbwUMWL0PHDHQyEWl5_fySpgBtCOsFZ6RhD1dRzWZ2oltWNnel8B09Car7W996y9BnSBEbdrQn33BIgGAAEU1uqy2XEQPjRwsziKZBsH4xR0uu6pnz9vJ_SxauWXmkYlAEVFPSe0xIApNvPzHzDbAHSWdtIyvDsP2ReAwXlpUFJMwr2SkBVRrGYytHocpQyKZVpuS9s8OaumbwwQ",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "03:00",
-      "evento": "ATP Los Cabos (con Darderi)",
-      "competizione": "Tennis ATP 250",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Primo turno. Luciano Darderi in campo. Orario CET del 29 luglio.",
-      "fonte": "Sport in tv oggi (martedì 28 luglio): orari e programma; Los Cabos 2026 • ATP 250 • TennisTemple",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "06:00",
-      "evento": "ATP/WTA (possibilmente Los Cabos o Washington)",
-      "competizione": "Tennis ATP/WTA",
-      "canale": "Sky Sport Tennis",
-      "note": "Copertura delle partite notturne o prime ore del mattino. Orario CET del 29 luglio.",
-      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "stimato"
+      "orario": "02:15",
+      "evento": "Liga Profesional: Rosario Central - Racing",
+      "competizione": "Calcio Liga Profesional (Argentina)",
+      "canale": "Sportitalia",
+      "note": "Partita in onda il 29 luglio (CET).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Zo3F1xZ60xtjOgUhmxed1OVspAyNvpwgDV5S84It0R0w0sZeZx-iRyDgrx9vWERfPoywapkbrc0EVwppr2iHNYDGpzXBfXPXMYWistvvYp0q1iOAGEjOUq-8B5BP",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
