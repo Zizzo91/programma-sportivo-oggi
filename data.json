@@ -1,112 +1,67 @@
 {
-  "last_updated": "2026-07-27T21:09:16.022944+02:00",
+  "last_updated": "2026-07-28T03:24:32.624611+02:00",
   "events": [
     {
-      "orario": "08:15",
-      "evento": "Amichevole: Karlsruhe - Inter",
-      "competizione": "Calcio Amichevole",
+      "orario": "01:00",
+      "evento": "ATP & WTA: Washington (ATP 500 & WTA 500), Los Cabos (ATP 250), Memphis (WTA 250) - Con Italiani in campo",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Include match con Lorenzo Musetti, Matteo Arnaldi, Luciano Darderi, Simone Bolelli, Andrea Vavassori, Elisabetta Cocciaretto, Sara Errani e Lucrezia Stefanini. Orario di inizio trasmissione, i match specifici possono variare.",
+      "fonte": "Sky Sport Uno - Guida TV, LiveTennis.it, Sportface.it, Olympics.com, Circuito ATP e WTA: tutti gli italiani in campo dal 27 luglio al 2 agosto 2026",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Amichevole: Celtic - Milan",
+      "competizione": "Calcio Amichevole Estiva",
       "canale": "Sky Sport Uno",
-      "note": "Amichevole pre-stagionale dell'Inter.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
+      "note": "Partita amichevole pre-stagionale del Milan.",
+      "fonte": "Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:00",
+      "orario": "07:45",
       "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara disputata domenica 26 luglio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
+      "note": "Replica della gara del Gran Premio d'Ungheria, disputato il 26 luglio 2026.",
+      "fonte": "Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:15",
-      "evento": "Amichevole: Karlsruhe - Inter",
-      "competizione": "Calcio Amichevole",
-      "canale": "Sky Sport Uno",
-      "note": "Replica dell'amichevole pre-stagionale dell'Inter.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:55",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara disputata domenica 26 luglio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9s56AMCs3pqAH_XEHd147TPxKgfkrCpg5hMW4c5wHRY5qFt3OuKbWDaCLj50ZT3XSZC3P41neIQf5toFyPRSIw9JhZalvu3GuNgHQmckwJhx-ayECZkespzDAnqAKiKHzwcfO5BMJskVneP-oonPnlXSBYWaCCoY=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
+      "orario": "13:00",
       "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara disputata domenica 26 luglio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
+      "note": "Replica della gara del Gran Premio d'Ungheria, disputato il 26 luglio 2026.",
+      "fonte": "Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:15",
+      "evento": "Amichevole: Standard Liegi - Juventus",
+      "competizione": "Calcio Amichevole Estiva",
+      "canale": "Sky Sport Uno",
+      "note": "Partita amichevole pre-stagionale della Juventus.",
+      "fonte": "Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "ATP & WTA 2026: Inizio programmazione Washington Open",
+      "evento": "ATP & WTA: Washington (ATP 500 & WTA 500), Los Cabos (ATP 250), Memphis (WTA 250) - Con Italiani in campo",
       "competizione": "Tennis",
-      "canale": "Sky Sport Tennis, Sky Sport 1, NOW",
-      "note": "Inizio della copertura del torneo di Washington con match ATP e WTA, inclusi giocatori italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzItE_WC1Ap33t9odOZk5fUs0XjZxJzDoKJo0ud1J25-mxSRXL76_ltF2tK_-C6yup0TA5W20o6NGTMgQTo00BUNR2ET9BHMgt44TR1D8uiMgyFavvruj1zTeGKjM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "ATP 500 Washington: Lorenzo Musetti vs Matteo Arnaldi",
-      "competizione": "Tennis ATP 500",
-      "canale": "Sky Sport Tennis, Sky Sport 1, NOW",
-      "note": "Derby italiano di singolare maschile (secondo incontro sul campo).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9DUbcV4WrK4qyz5QLgrpobnX2svG2C02UbucBgwYxs_NfgQBMsxRBJc1w1Tolll_SYJxJ6ORpDN4ICqaQ8EXYhf3HDUdABx7yEbN7AyL02ymPCi88fWpPDs8k6dZBi39d5pPf_KC2z6T-PrmwPca2_e5WRYZsjsoo-v3AQJZiw1WF5RiGObQBA85a3lAxKIxrLNs7L5AZ3fvgl8Z7UDYP3m7GQBknPLQCyQtGKhFrfFpEMvTFVvBvKgMgmmFygg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_RboKtsK8Wade5LenhsXa5oIqJSQPrazmf38QLT05vd9V5_pWr1qWPhAzkB_mC9X_KGP45d8qjhzalJsmEaMOCJc_vMjB62rbC2p6B4ViyDXGzsHUEU9GELX8kBxqXfNqJahYVi95AzCr5j-ZmNxq-7y9iodZ1paNUJCydj7s5BEEUJxt5k1-i_Bp9RHFVbtlWvMFD6iOsHKYkZBm3FFqgP9v17FiIsnbbM0njJkoSwHX6_erfFgT6xmYNhgU8Pr8gbIrA=",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Include match con Lorenzo Musetti, Matteo Arnaldi, Luciano Darderi, Simone Bolelli, Andrea Vavassori, Elisabetta Cocciaretto, Sara Errani e Lucrezia Stefanini. Orario di inizio trasmissione, i match specifici possono variare.",
+      "fonte": "Sky Sport Uno - Guida TV, LiveTennis.it, Sportface.it, Olympics.com, Circuito ATP e WTA: tutti gli italiani in campo dal 27 luglio al 2 agosto 2026",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "17:00*",
-      "evento": "ATP 500 Washington: Doppio (Bolelli/Vavassori)",
-      "competizione": "Tennis ATP 500",
-      "canale": "Sky Sport Tennis, Sky Sport 1, NOW",
-      "note": "Match di doppio con Simone Bolelli e Andrea Vavassori (terzo incontro sul campo).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9DUbcV4WrK4qyz5QLgrpobnX2svG2C02UbucBgwYxs_NfgQBMsxRBJc1w1Tolll_SYJxJ6ORpDN4ICqaQ8EXYhf3HDUdABx7yEbN7AyL02ymPCi88fWpPDs8k6dZBi39d5pPf_KC2z6T-PrmwPca2_e5WRYZsjsoo-v3AQJZiw1WF5RiGObQBA85a3lAxKIxrLNs7L5AZ3fvgl8Z7UDYP3m7GQBknPLQCyQtGKhFrfFpEMvTFVvBvKgMgmmFygg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_RboKtsK8Wade5LenhsXa5oIqJSQPrazmf38QLT05vd9V5_pWr1qWPhAzkB_mC9X_KGP45d8qjhzalJsmEaMOCJc_vMjB62rbC2p6B4ViyDXGzsHUEU9GELX8kBxqXfNqJahYVi95AzCr5j-ZmNxq-7y9iodZ1paNUJCydj7s5BEEUJxt5k1-i_Bp9RHFVbtlWvMFD6iOsHKYkZBm3FFqgP9v17FiIsnbbM0njJkoSwHX6_erfFgT6xmYNhgU8Pr8gbIrA=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "WTA 500 Washington: Elisabetta Cocciaretto (Singolo)",
-      "competizione": "Tennis WTA 500",
-      "canale": "Sky Sport Tennis, Sky Sport 1, SuperTennis, SuperTennix, NOW",
-      "note": "Match di singolare femminile con giocatrice italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQEx_RboKtsK8Wade5LenhsXa5oIqJSQPrazmf38QLT05vd9V5_pWr1qWPhAzkB_mC9X_KGP45d8qjhzalJsmEaMOCJc_vMjB62rbC2p6B4ViyDXGzsHUEU9GELX8kBxqXfNqJahYVi95AzCr5j-ZmNxq-7y9iodZ1paNUJCydj7s5BEEUJxt5k1-i_Bp9RHFVbtlWvMFD6iOsHKYkZBm3FFqgP9v17FiIsnbbM0njJkoSwHX6_erfFgT6xmYNhgU8Pr8gbIrA=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "WTA 500 Washington: Doppio (Sara Errani)",
-      "competizione": "Tennis WTA 500",
-      "canale": "Sky Sport Tennis, Sky Sport 1, NOW",
-      "note": "Match di doppio femminile con giocatrice italiana (con Nicole Melichar).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsESEjCGYPGUH4lxc1UVlij6hRj53nYgjO4J5Nuf24FZRds_Jvo4xINpfaDp5fgwuv1OrG-jP-uDukI5jRh09a6sk9Bj1s-1E-RLVXi7N-L4M9DVKJrW8-Fic33pvstgDmhMEfMiZTnc0UdCj5XaIzk0GasZI-3djN-L1SgVuBKpCt31F-1FB4oTXVHXZT2Sx5fNTV5TF88mPROM3apm1Sf9_ymwG8PZUa6VoerYVVDZQL=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "01:00",
-      "evento": "ATP & WTA 2026",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Programmazione notturna di tennis (Washington Open).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtCMimTtyN7obK-egwC07CCIWpAVY5ORWJza2oMViNY8QTNq-JTnu5Wr4SAEBCSfM1UaflPZ4L4khGorJz74aZBecDqPGqvQeNTyZsWZBW4OOG-Y_7a6ienqa6LNO8X-QBP2w5cu_BjFj8VZNVt8wer8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "ATP & WTA",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis",
-      "note": "Programmazione mattutina di tennis (Washington Open).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzItE_WC1Ap33t9odOZk5fUs0XjZxJzDoKJo0ud1J25-mxSRXL76_ltF2tK_-C6yup0TA5W20o6NGTMgQTo00BUNR2ET9BHMgt44TR1D8uiMgyFavvruj1zTeGKjM=",
+      "orario": "17:30",
+      "evento": "Amichevole: Cagliari - Modena",
+      "competizione": "Calcio Amichevole Estiva",
+      "canale": "DAZN",
+      "note": "Partita amichevole pre-stagionale del Cagliari.",
+      "fonte": "Calciomagazine, Sky Sport, DAZN",
       "accuratezza_orario": "esatto"
     }
   ]
