@@ -1,68 +1,113 @@
 {
-  "last_updated": "2026-07-28T03:24:32.624611+02:00",
+  "last_updated": "2026-07-28T10:11:54.380919+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "ATP & WTA: Washington (ATP 500 & WTA 500), Los Cabos (ATP 250), Memphis (WTA 250) - Con Italiani in campo",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Include match con Lorenzo Musetti, Matteo Arnaldi, Luciano Darderi, Simone Bolelli, Andrea Vavassori, Elisabetta Cocciaretto, Sara Errani e Lucrezia Stefanini. Orario di inizio trasmissione, i match specifici possono variare.",
-      "fonte": "Sky Sport Uno - Guida TV, LiveTennis.it, Sportface.it, Olympics.com, Circuito ATP e WTA: tutti gli italiani in campo dal 27 luglio al 2 agosto 2026",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "06:00",
-      "evento": "Amichevole: Celtic - Milan",
-      "competizione": "Calcio Amichevole Estiva",
+      "evento": "Incontro amichevole - Celtic - Milan",
+      "competizione": "Amichevole di Club",
       "canale": "Sky Sport Uno",
-      "note": "Partita amichevole pre-stagionale del Milan.",
-      "fonte": "Sky Sport Uno - Guida TV",
+      "note": "",
+      "fonte": "Sky Sport Uno Stamattina: Programmi TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "07:45",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara",
+      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara del Gran Premio d'Ungheria, disputato il 26 luglio 2026.",
-      "fonte": "Sky Sport Uno - Guida TV",
+      "note": "Replica della gara di Domenica 26 luglio",
+      "fonte": "Sky Sport Uno Stamattina: Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:45",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Approfondimento sul GP Ungheria",
+      "fonte": "Sky Sport Uno Stamattina: Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:45",
+      "evento": "Reparto Corse F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Approfondimento sul GP Ungheria",
+      "fonte": "Sky Sport Uno Stamattina: Programmi TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara",
+      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara del Gran Premio d'Ungheria, disputato il 26 luglio 2026.",
-      "fonte": "Sky Sport Uno - Guida TV",
+      "note": "Replica della gara di Domenica 26 luglio",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Approfondimento sul GP Ungheria",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Reparto Corse F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Approfondimento sul GP Ungheria",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:15",
-      "evento": "Amichevole: Standard Liegi - Juventus",
-      "competizione": "Calcio Amichevole Estiva",
+      "evento": "Incontro amichevole - Standard Liegi - Juventus",
+      "competizione": "Amichevole di Club",
       "canale": "Sky Sport Uno",
-      "note": "Partita amichevole pre-stagionale della Juventus.",
-      "fonte": "Sky Sport Uno - Guida TV",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "ATP & WTA: Washington (ATP 500 & WTA 500), Los Cabos (ATP 250), Memphis (WTA 250) - Con Italiani in campo",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Include match con Lorenzo Musetti, Matteo Arnaldi, Luciano Darderi, Simone Bolelli, Andrea Vavassori, Elisabetta Cocciaretto, Sara Errani e Lucrezia Stefanini. Orario di inizio trasmissione, i match specifici possono variare.",
-      "fonte": "Sky Sport Uno - Guida TV, LiveTennis.it, Sportface.it, Olympics.com, Circuito ATP e WTA: tutti gli italiani in campo dal 27 luglio al 2 agosto 2026",
+      "evento": "Amichevole - Cagliari-Modena",
+      "competizione": "Amichevole di Club",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "ATP/WTA Washington (con Musetti, Cocciaretto)",
+      "competizione": "Tennis ATP 500 / WTA 500",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Primo turno. Lorenzo Musetti e Elisabetta Cocciaretto in campo.",
+      "fonte": "Sport in tv oggi (martedì 28 luglio): orari e programma; DC Open ATP Day One Round-Up; Fritz takes 250th hardcourt win in ATP Washington opener; Calcio e Sport in Tv oggi: dove vedere in Televisione",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "17:30",
-      "evento": "Amichevole: Cagliari - Modena",
-      "competizione": "Calcio Amichevole Estiva",
-      "canale": "DAZN",
-      "note": "Partita amichevole pre-stagionale del Cagliari.",
-      "fonte": "Calciomagazine, Sky Sport, DAZN",
-      "accuratezza_orario": "esatto"
+      "orario": "03:00",
+      "evento": "ATP Los Cabos (con Darderi)",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Primo turno. Luciano Darderi in campo. Orario CET del 29 luglio.",
+      "fonte": "Sport in tv oggi (martedì 28 luglio): orari e programma; Los Cabos 2026 • ATP 250 • TennisTemple",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "06:00",
+      "evento": "ATP/WTA (possibilmente Los Cabos o Washington)",
+      "competizione": "Tennis ATP/WTA",
+      "canale": "Sky Sport Tennis",
+      "note": "Copertura delle partite notturne o prime ore del mattino. Orario CET del 29 luglio.",
+      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
