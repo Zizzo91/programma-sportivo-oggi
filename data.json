@@ -1,113 +1,86 @@
 {
-  "last_updated": "2026-07-28T15:27:36.330080+02:00",
+  "last_updated": "2026-07-28T21:04:35.988896+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara del GP d'Ungheria.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
+      "orario": "03:00",
+      "evento": "Tennis: ATP Los Cabos 2026 - 1° turno (con Luciano Darderi)",
+      "competizione": "ATP 250 Los Cabos",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Luciano Darderi è l'unico italiano in tabellone. Orario di inizio copertura televisiva, l'orario del singolo match di Darderi è stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG2RBUPsYweTKTchejH1z4CLw_ezrxP6PHmvhjGTghfu8LWLY1CTMo1mPHdjnX4L70fJhYaKud5s-G63tMoP1Xbrg3f0lGocXzwyY-TtNpllS2-q0rwf6EFFRo_gzZqRq3EzGKWT1GBE0m-x2pzE5-kSyQFcloZ9dgevn8rUAB-qp74_NG2mTye-aczHMKrp5x7HcVKA70_vi_ZHXHmCCvr4Uu5DRyO0U9RcWfKR1NqZwrYZqxqSd4kcPmOg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJz-z6wZ8tYTEWGr0bOTzPWIj8JdaqeXK5iX2N_TMXg5vDvAyYfvNh70Kr42YiCKkJvZVNP9d7XE1pe7qgYPlhZgDQR9yiPUkdCEhNJZ63zNb7pc-pjyPEe0IdBoGUpE978SydeWB-ShwcN8CRoDY_G1vozY84ONoPdB1bMplGb7Cstem2DjH-R0FmeNyvZMMGyyH8ZcmOvHowLxlv2bYawWo==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6ZjlQ_14IbfLBgGO5jvRbUM-gp4IsdAYgNM3eI4TSsW2zbTSe9Uu90vMtNGKd9nEqwiTb-5-rgjLJw3g_8GjIyO7qtEF6d014tEOaT08Q_LILyXYRAkzl6Grpk2Kxh5yvYKB5jE0RVN7_8bMeV1PO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDihwNVCeFDqX5WPilQXnXGcef4sb9zNlHYXa7M_ES_HHYqO-nCDbhx7XqzhL7uGdYs72ZrrbM35h75NNIVkQUcErU50H_UqpQhHOMr3uLH2yip7cVQpPwVjoqDBsr1yceM_Xsykob6eCihURh8QFEyETpm3MSsATyuQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTlIi9L4SfFEkxjBfXdgrnuDgoijbxScmdu_TwOHoVvVpVRImaoQBD_J90DEnAPiJMI8kslkxY7GDZ4KeVLS2SJguAGO6OYxv3oMyRjdpZPyUijmhqGD9KmqtDg0zLv6rNEdwgSmSK3hQ8qtzJy25h4ddBRxg_3HVPei-ktQymexv2ug==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Calcio: Finale Mondiali FIFA 2026 - Spagna vs Argentina (Replica)",
+      "competizione": "Coppa del Mondo FIFA",
+      "canale": "Rai Sport + HD",
+      "note": "Replica della finale giocata il 19 luglio 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3Xrr477X2fsHpe4O_9RcZvi3wVnvXNDoTNndAqYXFgORFlQTzjnc6gTaPz6HLeQw8cKJ9bE7okJmXEuI0QHw9l7vhOvbj-ySKKu9K5ylUZl5d_z-f5diDIIV_ccKeGsOKcBziBzPwZbtjskvUFjuqNWoM9foz5-_3OMLGKorREFQcANGC-64j, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELcb_ppxSUaynJFgESTkXyDHp6kOuN5OMDfVskKtNDBbEbsOJ2kidtJpI_h_RsyxtcoHFKb6Sc5GIBUG_Swx3CWUh8sD3b2ytE9wT6Xr9RF91Vc33sXRaNUciGNZQYe-buldyU9qGac7bZtMjlNEsb",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Amichevole: Celtic - Milan",
-      "competizione": "Calcio Amichevole",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:45",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara del GP d'Ungheria.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:45",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara del GP d'Ungheria.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:45",
-      "evento": "Reparto Corse F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Approfondimento sulla Formula 1.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPPiORSXwa8P59IiGLmorEy94PGooNZDjs4Onex0WJfdmDfz-ECbsOaz3rhLri1CxJnbYh_-q7eYIYCSNaAbjwozabSc9Xetrs4gXkRTfn4bHfiaCQGBUB0sXMQx_xi4E2_ktq2He8DJn-x8Rf9Gx3NOMJY8Fz2KTpXo=",
+      "orario": "11:00",
+      "evento": "Scherma: Campionati Mondiali Hong Kong 2026 - Fioretto maschile a squadre / Spada femminile a squadre",
+      "competizione": "Campionati Mondiali di Scherma",
+      "canale": "Rai Sport HD",
+      "note": "Diretta tv delle fasi finali a squadre.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG2RBUPsYweTKTchejH1z4CLw_ezrxP6PHmvhjGTghfu8LWLY1CTMo1mPHdjnX4L70fJhYaKud5s-G63tMoP1Xbrg3f0lGocXzwyY-TtNpllS2-q0rwf6EFFRo_gzZqRq3EzGKWT1GBE0m-x2pzE5-kSyQFcloZ9dgevn8rUAB-qp74_NG2mTye-aczHMKrp5x7HcVKA70_vi_ZHXHmCCvr4Uu5DRyO0U9RcWfKR1NqZwrYZqxqSd4kcPmOg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELcb_ppxSUaynJFgESTkXyDHp6kOuN5OMDfVskKtNDBbEbsOJ2kidtJpI_h_RsyxtcoHFKb6Sc5GIBUG_Swx3CWUh8sD3b2ytE9wT6Xr9RF91Vc33sXRaNUciGNZQYe-buldyU9qGac7bZtMjlNEsb",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
+      "evento": "Formula 1: Mondiale F1 2026 - GP Ungheria: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara del GP d'Ungheria.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjJzZFs89TUEhkKirxVq3CP0B2f-jmY87_-U5t_7LHp1iOZq_yLfO7OWyQa0FX-eq4M_tXmb-RHbiAKCOcHKJB8jfiKINpW2kZzshdhv33Kt77YteXBtmg20_u0EQvTQhYN01FTtC_LE397tTHACvuasDg-gwbyC_Pg6CQY0=",
+      "note": "Replica della gara del Gran Premio d'Ungheria 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVnyDyZJzocR4_XGknj5gW_EfOBz1_0kN7K24WAxgVAfzpUTFTLDrOMC2z-RLG92KcBysjEIpvsE5IaRIWfeHk5-nLqFqat7hiCb8EKfhfmCDX8EKfhfmCDX8NR7dXoohB4LGVhG4LQ2WXpZVkkS0AWMHsn75uaamqM-911osYQPD--4bA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2JkNjP0KaqexS3-lKSxfFAoL_-M82uoEbMSX6OyavCCe9V9aq-bG8Jay4MlKu6mmEfDAohRdx2i8KFFnAWgXlSiqEB2Vz7mWnw_saF13vT4C9G8iMYeIoi3rmQgIcR-Bq6KP_0VLoRPvv6A66JUPZXq8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGiN0oveO14NgfqdRefbWsOjbcfRPKrf2zHFuO7y61qn1tDLsBGkQmzILWHlz870xwiPkooXu_ay_ivCQDjVmKq6vfnYz-1VhTlpwPiLrGre2LAWR1PAAZltN7L4e-yyiFQw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESn3PSTgkS5JkS8KvH5VZHyY5zqbEDO6ntSeYzr7SWIceMCTAS4tfMWjCERlihnMfzZWBrF4_YYKem3eFOccMju95oPHCnwEP-SAkfZVur69Cw5RF2d8JAMPxTSmKdWFrzwUw5j0scFrgqpuczp7vb6f1_c8DWDti2MSn1NbAUoqQN0H1WQSJ1ayh8OOAGbQS5D4LFFDr3moDyU9kdjEAxbJgl9-5jc0RJhRpKRpVsDXmvTvc=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
+      "evento": "Formula 1: Race Anatomy F1",
+      "competizione": "Approfondimento Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara del GP d'Ungheria.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjJzZFs89TUEhkKirxVq3CP0B2f-jmY87_-U5t_7LHp1iOZq_yLfO7OWyQa0FX-eq4M_tXmb-RHbiAKCOcHKJB8jfiKINpW2kZzshdhv33Kt77YteXBtmg20_u0EQvTQhYN01FTtC_LE397tTHACvuasDg-gwbyC_Pg6CQY0=",
+      "note": "Analisi post-gara del GP Ungheria.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVnyDyZJzocR4_XGknj5gW_EfOBz1_0kN7K24WAxgVAfzpUTFTLDrOMC2z-RLG92KcBysjEIpvsE5IaRIWfeHk5-nLqFqat7hiCb8EKfhfmCDX8NR7dXoohB4LGVhG4LQ2WXpZVkkS0AWMHsn75uaamqM-911osYQPD--4bA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2JkNjP0KaqexS3-lKSxfFAoL_-M82uoEbMSX6OyavCCe9V9aq-bG8Jay4MlKu6mmEfDAohRdx2i8KFFnAWgXlSiqEB2Vz7mWnw_saF13vT4C9G8iMYeIoi3rmQgIcR-Bq6KP_0VLoRPvv6A66JUPZXq8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Reparto Corse F1",
-      "competizione": "Formula 1",
+      "evento": "Formula 1: Reparto Corse F1",
+      "competizione": "Approfondimento Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Approfondimento sulla Formula 1.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjJzZFs89TUEhkKirxVq3CP0B2f-jmY87_-U5t_7LHp1iOZq_yLfO7OWyQa0FX-eq4M_tXmb-RHbiAKCOcHKJB8jfiKINpW2kZzshdhv33Kt77YteXBtmg20_u0EQvTQhYN01FTtC_LE397tTHACvuasDg-gwbyC_Pg6CQY0=",
+      "note": "Analisi e retroscena dal mondo della Formula 1.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVnyDyZJzocR4_XGknj5gW_EfOBz1_0kN7K24WAxgVAfzpUTFTLDrOMC2z-RLG92KcBysjEIpvsE5IaRIWfeHk5-nLqFqat7hiCb8EKfhfmCDX8NR7dXoohB4LGVhG4LQ2WXpZVkkS0AWMHsn75uaamqM-911osYQPD--4bA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2JkNjP0KaqexS3-lKSxfFAoL_-M82uoEbMSX6OyavCCe9V9aq-bG8Jay4MlKu6mmEfDAohRdx2i8KFFnAWgXlSiqEB2Vz7mWnw_saF13vT4C9G8iMYeIoi3rmQgIcR-Bq6KP_0VLoRPvv6A66JUPZXq8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:15",
-      "evento": "Amichevole: Standard Liegi - Juventus",
-      "competizione": "Calcio Amichevole",
+      "evento": "Calcio: Amichevole - Standard Liegi vs Juventus",
+      "competizione": "Amichevole Club",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjJzZFs89TUEhkKirxVq3CP0B2f-jmY87_-U5t_7LHp1iOZq_yLfO7OWyQa0FX-eq4M_tXmb-RHbiAKCOcHKJB8jfiKINpW2kZzshdhv33Kt77YteXBtmg20_u0EQvTQhYN01FTtC_LE397tTHACvuasDg-gwbyC_Pg6CQY0=",
+      "note": "Partita amichevole pre-stagionale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVnyDyZJzocR4_XGknj5gW_EfOBz1_0kN7K24WAxgVAfzpUTFTLDrOMC2z-RLG92KcBysjEIpvsE5IaRIWfeHk5-nLqFqat7hiCb8EKfhfmCDX8NR7dXoohB4LGVhG4LQ2WXpZVkkS0AWMHsn75uaamqM-911osYQPD--4bA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2JkNjP0KaqexS3-lKSxfFAoL_-M82uoEbMSX6OyavCCe9V9aq-bG8Jay4MlKu6mmEfDAohRdx2i8KFFnAWgXlSiqEB2Vz7mWnw_saF13vT4C9G8iMYeIoi3rmQgIcR-Bq6KP_0VLoRPvv6A66JUPZXq8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Amichevole: Cagliari - Modena",
-      "competizione": "Calcio Amichevole",
+      "evento": "Calcio: Amichevole - Cagliari vs Modena",
+      "competizione": "Amichevole Club",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Zo3F1xZ60xtjOgUhmxed1OVspAyNvpwgDV5S84It0R0w0sZeZx-iRyDgrx9vWERfPoywapkbrc0EVwppr2iHNYDGpzXBfXPXMYWistvvYp0q1iOAGEjOUq-8B5BP",
+      "note": "Partita amichevole pre-stagionale. Diretta streaming su piattaforma DAZN.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG2RBUPsYweTKTchejH1z4CLw_ezrxP6PHmvhjGTghfu8LWLY1CTMo1mPHdjnX4L70fJhYaKud5s-G63tMoP1Xbrg3f0lGocXzwyY-TtNpllS2-q0rwf6EFFRo_gzZqRq3EzGKWT1GBE0m-x2pzE5-kSyQFcloZ9dgevn8rUAB-qp74_NG2mTye-aczHMKrp5x7HcVKA70_vi_ZHXHmCCvr4Uu5DRyO0U9RcWfKR1NqZwrYZqxqSd4kcPmOg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:30",
-      "evento": "WTA Washington - Doppio: Sara Errani / Nicole Melichar (ITA/USA) vs Katie Boulter / Polina Iatcenko (GBR/RUS)",
-      "competizione": "WTA 500 Mubadala DC Open",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Match di doppio con la partecipazione di un'italiana. Ora stimata (non prima delle 21:30 CET).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqnIZqPk3pSnFK-6ACQEswVfKI9AgyteZDEHZV9U_BbktGZ7lHBOgNZMkIJuBAo-i-z8swiFVIWvykJ4do7Z1JxbwUMWL0PHDHQyEWl5_fySpgBtCOsFZ6RhD1dRzWZ2oltWNnel8B09Car7W996y9BnSBEbdrQn33BIgGAAEU1uqy2XEQPjRwsziKZBsH4xR0uu6pnz9vJ_SxauWXmkYlAEVFPSe0xIApNvPzHzDbAHSWdtIyvDsP2ReAwXlpUFJMwr2SkBVRrGYytHocpQyKZVpuS9s8OaumbwwQ",
+      "orario": "17:00",
+      "evento": "Tennis: WTA Washington 2026 - 2° turno (con Elisabetta Cocciaretto, Sara Errani in doppio)",
+      "competizione": "WTA 500 Washington",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis",
+      "note": "Elisabetta Cocciaretto ha vinto il suo match di primo turno il 27 luglio. Sara Errani partecipa in doppio. Orario di inizio copertura televisiva, l'orario dei singoli match è stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG2RBUPsYweTKTchejH1z4CLw_ezrxP6PHmvhjGTghfu8LWLY1CTMo1mPHdjnX4L70fJhYaKud5s-G63tMoP1Xbrg3f0lGocXzwyY-TtNpllS2-q0rwf6EFFRo_gzZqRq3EzGKWT1GBE0m-x2pzE5-kSyQFcloZ9dgevn8rUAB-qp74_NG2mTye-aczHMKrp5x7HcVKA70_vi_ZHXHmCCvr4Uu5DRyO0U9RcWfKR1NqZwrYZqxqSd4kcPmOg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVnyDyZJzocR4_XGknj5gW_EfOBz1_0kN7K24WAxgVAfzpUTFTLDrOMC2z-RLG92KcBysjEIpvsE5IaRIWfeHk5-nLqFqat7hiCb8EKfhfmCDX8NR7dXoohB4LGVhG4LQ2WXpZVkkS0AWMHsn75uaamqM-911osYQPD--4bA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDihwNVCeFDqX5WPilQXnXGcef4sb9zNlHYXa7M_ES_HHYqO-nCDbhx7XqzhL7uGdYs72ZrrbM35h75NNIVkQUcErU50H_UqpQhHOMr3uLH2yip7cVQpPwVjoqDBsr1yceM_Xsykob6eCihURh8QFEyETpm3MSsATyuQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvQGblYbs-DK_KqnYR_at5Y9OXH3pygpQc03AyEnS6f5KmFcB5ToWDI_T69f8JZr2FVEMo-qTc-0M6g6qU8iKK321AF8hAwp2Z-_cT97GCDVY6d2tc-Q42gU7X7IyAdoY-USQmnyQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLCi_Hq_PtdXZNGaS6ayJRIeYNChQsDQ5syN78W_rlRZgjSrj8SECFEOseFANocuw11Umvf2tJwNxbCfnm1vC1Ro6yrLb7JMBbsllxzIeoe8Gpyf5r-mV6ArPtVaq3lgXNt7WTfc-ze1VV2Hy70VkmH4_43df6PaGj_Z_26pK_wQy5ONHFzKIFrRjn8sve2qFhNF3i1UTdIH3a57ejp1YYpgrTDqJ2eIWRpVE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNB4UnSrpo7s32pb2LZTDM-ScLChklCjp5uaKntpbygVDAtTu7MjssAqdcToV77NN7NltxPgBzCpdEQws9UCWcrac9P2hUXc5wXKKWQ3E7Lby0PqaEHI6bHJZjWk9S5po4E7a-MDaPojhupFv2iz70q2pxDHclaq6WdHWmaqzyWDfit5W02kbmxVHnFOrrYBY5sPs=",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "02:15",
-      "evento": "Liga Profesional: Rosario Central - Racing",
-      "competizione": "Calcio Liga Profesional (Argentina)",
-      "canale": "Sportitalia",
-      "note": "Partita in onda il 29 luglio (CET).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Zo3F1xZ60xtjOgUhmxed1OVspAyNvpwgDV5S84It0R0w0sZeZx-iRyDgrx9vWERfPoywapkbrc0EVwppr2iHNYDGpzXBfXPXMYWistvvYp0q1iOAGEjOUq-8B5BP",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
