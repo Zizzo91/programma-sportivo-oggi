@@ -1,31 +1,58 @@
 {
-  "last_updated": "2026-07-29T10:15:56.780930+02:00",
+  "last_updated": "2026-07-29T15:42:20.019888+02:00",
   "events": [
     {
-      "orario": "16:00",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGUCHyRwYFstIsY5TPCqUErpsy-SM4aHGqxvtL86_Ri2fyNOv9VrNM66FjFPo_-WyBhlw50B8HRzfnr7u_sdLWqN8J6jzgyRzHK2AyJPAQ3oTd5VqWFCRRjByUTPliqtsxnQaFujDxWvXQYbTF6VnKkDfOFew=",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "19:00*",
-      "evento": "Tennis - ATP Washington: Vukic (Aus) vs Musetti (Ita)",
-      "competizione": "ATP 500 Washington",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Non prima delle 19:00",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9lK66ChVSJgKw7wdtPxeZqfUm2X0c7AH4ulUSd51u9UM2ndtctyQL1OQY78idDU66YoTG0WQpvDbpV46f4s9Qfy_Y3szyDNzHH7vYwDSo_nnSarPVgmRl8w_e5SECgmBdtckmy74N_Vb1PAviFnpXjv5V6CMvt_aNBKGvrzChbRdboC_aLmxiF2pLXA=",
+      "evento": "ATP 500 Washington: Aleksandar Vukic (AUS) vs Lorenzo Musetti (ITA)",
+      "competizione": "Tennis - ATP 500 Washington",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW",
+      "note": "Orario stimato, il match è il secondo sul campo John Harris.",
+      "fonte": "Sky Sport, Ubitennis, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:00*",
-      "evento": "Tennis - WTA Washington: Navarro (Usa) vs Cocciaretto (Ita)",
-      "competizione": "WTA 500 Washington",
-      "canale": "Sky Sport Tennis",
-      "note": "Non prima delle 20:00",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9lK66ChVSJgKw7wdtPxeZqfUm2X0c7AH4ulUSd51u9UM2ndtctyQL1OQY78idDU66YoTG0WQpvDbpV46f4s9Qfy_Y3szyDNzHH7vYwDSo_nnSarPVgmRl8w_e5SECgmBdtckmy74N_Vb1PAviFnpXjv5V6CMvt_aNBKGvrzChbRdboC_aLmxiF2pLXA=",
+      "evento": "WTA 500 Washington: Emma Navarro (USA) vs Elisabetta Cocciaretto (ITA)",
+      "competizione": "Tennis - WTA 500 Washington",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Go, NOW, SuperTennis, SuperTenniX",
+      "note": "Orario stimato, a seguire del match di Musetti.",
+      "fonte": "Sky Sport, Ubitennis, Datasport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Amichevole: Como vs AlUla SC",
+      "competizione": "Calcio - Como Cup",
+      "canale": "Sportitalia, Como TV",
+      "note": "",
+      "fonte": "CalcioMagazine, Libero Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Amichevole: Watford vs Fiorentina",
+      "competizione": "Calcio - Amichevole Internazionale",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "CalcioMagazine, Libero Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Amichevole: Villarreal vs Como",
+      "competizione": "Calcio - Como Cup",
+      "canale": "Sportitalia, Como TV",
+      "note": "A seguire del match Como-AlUla SC.",
+      "fonte": "CalcioMagazine, Libero Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00*",
+      "evento": "ATP 250 Los Cabos: Dalibor Svrcina (CZE) vs Luciano Darderi (ITA)",
+      "competizione": "Tennis - ATP 250 Los Cabos",
+      "canale": "Sky Sport Tennis, Sky Go, NOW",
+      "note": "Orario stimato, non prima delle 6:00 CET del 30 luglio. Il match fa parte del palinsesto notturno/prime ore del mattino del 30 luglio.",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "stimato"
     }
   ]
