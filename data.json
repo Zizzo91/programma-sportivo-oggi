@@ -1,67 +1,31 @@
 {
-  "last_updated": "2026-07-29T03:25:16.933055+02:00",
+  "last_updated": "2026-07-29T10:15:56.780930+02:00",
   "events": [
     {
-      "orario": "02:15",
-      "evento": "Rosario Central-Racing",
-      "competizione": "Liga Profesional (Calcio Argentino)",
-      "canale": "Sportitalia",
-      "note": "Partita di campionato argentino.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6T_guoI-HpttPuS_o92SHXX078gBgA0pTI5YFyG-MeQQUutQ4NO-CuhZG0gRLYtvMhKGBqiD3WBw7YVoWibmAH7-7xTN2ibENYDkbnnyu4bxlxwSNiOfsLQ8KwBeQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "ATP & WTA 2026 (inclusi incontri ATP 500 Washington e WTA 500 Washington con italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Copertura dei tornei di Washington (ATP/WTA) e Los Cabos (ATP) dove sono presenti giocatori italiani. Gli incontri del secondo turno di Washington iniziano localmente alle 17:00 (23:00 CET).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVpyL-LXEwYGVw9eFhLfJdjWSDUQWpP6n2nFsvOxJnONUEcT4fQEproymVJk3hG_MsMOZAG4IboSFxh8VL0JVHUTWovlUQsEyR5h0S2rpoi_8JZP5iaVcNgleI-UHyDfwWp6aIjiaQjGNUPelDTVebReD1, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQuCHLMKDq9OUVbyBDVBhSIF5yRxrY3u0_8lhjNeCcRBAy_u3gwVxEeiqnwxSjaNrXnGRLqV4kRTbDpTLj2TkTxsZ1yBxiWk7snOHln6jKFC1qtEMe7R61yRr8mwSzsL9CqkZ3-bbUM-yP2TIEt5m3vLtZlpzUC3dh_kykPMkarIqvuQCzIhuyrbOoJ8020wu2-gUIC8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe3I5wGfRg-yQdoZgD9uneTsA4rkNwLgGjWFk7zszMlhiCzqAWqpaGs0REXc290yTOcan1VCUnWnuSSvCpDFWUb69k_GnOvW9DRBRDOGXLTafSGwdx8SbQN_egsS1L9-rjiMNzS7T-ZA0X0NVuH7dyHP0-c6e0MC1cMJEvU0FIqw1OLm4SU--w4pv3i8tsl3mjW3Ej9_Nl6MTc",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00",
+      "orario": "16:00",
       "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport Arena",
-      "note": "Replica della gara del Gran Premio d'Ungheria disputata il 26 luglio 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgKGkDS88-X3HkvZRCAy7OCmUVYwqkzO9Yvl4wgJE3cPvC96xP4u_naYospryTorUjLHpcDMkhYmsABQPxSzO72HkteQKR5HZaEp2QgQdHDHFvZ8sVwDjGpxKp7E2CA9U_iley55A8uifflI-ab9yIPtZiaYI=",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGUCHyRwYFstIsY5TPCqUErpsy-SM4aHGqxvtL86_Ri2fyNOv9VrNM66FjFPo_-WyBhlw50B8HRzfnr7u_sdLWqN8J6jzgyRzHK2AyJPAQ3oTd5VqWFCRRjByUTPliqtsxnQaFujDxWvXQYbTF6VnKkDfOFew=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Watford-Fiorentina",
-      "competizione": "Amichevole Internazionale (Calcio)",
-      "canale": "DAZN",
-      "note": "Amichevole pre-campionato che vede protagonista una squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6T_guoI-HpttPuS_o92SHXX078gBgA0pTI5YFyG-MeQQUutQ4NO-CuhZG0gRLYtvMhKGBqiD3WBw7YVoWibmAH7-7xTN2ibENYDkbnnyu4bxlxwSNiOfsLQ8KwBeQ",
-      "accuratezza_orario": "esatto"
+      "orario": "19:00*",
+      "evento": "Tennis - ATP Washington: Vukic (Aus) vs Musetti (Ita)",
+      "competizione": "ATP 500 Washington",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Non prima delle 19:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9lK66ChVSJgKw7wdtPxeZqfUm2X0c7AH4ulUSd51u9UM2ndtctyQL1OQY78idDU66YoTG0WQpvDbpV46f4s9Qfy_Y3szyDNzHH7vYwDSo_nnSarPVgmRl8w_e5SECgmBdtckmy74N_Vb1PAviFnpXjv5V6CMvt_aNBKGvrzChbRdboC_aLmxiF2pLXA=",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:30",
-      "evento": "Como-AlUla SC",
-      "competizione": "Como Cup (Calcio)",
-      "canale": "Sportitalia",
-      "note": "Partita del torneo estivo Como Cup.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESeIhlXj3fjylHfOFRjx42mRy5JyZBZZmptxNulZeL_qQ6-gV4yVakQZqIQ4382GR-JkNt8IKKeKRouKajbbT-BejvNWgPvjZo9XywTzwkPw4GpIPY99cjNWDOnJgVRkOdTDcN_w2UwBwlr6uls6d5bIPNCeCzJjiM4WZR8Sbyn-Q",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Villarreal-Como",
-      "competizione": "Como Cup (Calcio)",
-      "canale": "Sportitalia",
-      "note": "Partita del torneo estivo Como Cup.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESeIhlXj3fjylHfOFRjx42mRy5JyZBZZmptxNulZeL_qQ6-gV4yVakQZqIQ4382GR-JkNt8IKKeKRouKajbbT-BejvNWgPvjZo9XywTzwkPw4GpIPY99cjNWDOnJgVRkOdTDcN_w2UwBwlr6uls6d5bIPNCeCzJjiM4WZR8Sbyn-Q",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00*",
-      "evento": "ATP & WTA 2026 (inclusi incontri ATP 250 Los Cabos con italiani)",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Copertura dei tornei ATP/WTA. Gli incontri del secondo turno di Los Cabos (UTC-6) iniziano localmente alle 17:00, corrispondente alle 01:00 CET del giorno successivo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVpyL-LXEwYGVw9eFhLfJdjWSDUQWpP6n2nFsvOxJnONUEcT4fQEproymVJk3hG_MsMOZAG4IboSFxh8VL0JVHUTWovlUQsEyR5h0S2rpoi_8JZP5iaVcNgleI-UHyDfwWp6aIjiaQjGNUPelDTVebReD1, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQuCHLMKDq9OUVbyBDVBhSIF5yRxrY3u0_8lhjNeCcRBAy_u3gwVxEeiqnwxSjaNrXnGRLqV4kRTbDpTLj2TkTxsZ1yBxiWk7snOHln6jKFC1qtEMe7R61yRr8mwSzsL9CqkZ3-bbUM-yP2TIEt5m3vLtZlpzUC3dh_kykPMkarIqvuQCzIhuyrbOoJ8020wu2-gUIC8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe3I5wGfRg-yQdoZgD9uneTsA4rkNwLgGjWFk7zszMlhiCzqAWqpaGs0REXc290yTOcan1VCUnWnuSSvCpDFWUb69k_GnOvW9DRBRDOGXLTafSGwdx8SbQN_egsS1L9-rjiMNzS7T-ZA0X0NVuH7dyHP0-c6e0MC1cMJEvU0FIqw1OLm4SU--w4pv3i8tsl3mjW3Ej9_Nl6MTc",
+      "orario": "20:00*",
+      "evento": "Tennis - WTA Washington: Navarro (Usa) vs Cocciaretto (Ita)",
+      "competizione": "WTA 500 Washington",
+      "canale": "Sky Sport Tennis",
+      "note": "Non prima delle 20:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9lK66ChVSJgKw7wdtPxeZqfUm2X0c7AH4ulUSd51u9UM2ndtctyQL1OQY78idDU66YoTG0WQpvDbpV46f4s9Qfy_Y3szyDNzHH7vYwDSo_nnSarPVgmRl8w_e5SECgmBdtckmy74N_Vb1PAviFnpXjv5V6CMvt_aNBKGvrzChbRdboC_aLmxiF2pLXA=",
       "accuratezza_orario": "stimato"
     }
   ]
