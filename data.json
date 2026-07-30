@@ -1,67 +1,22 @@
 {
-  "last_updated": "2026-07-30T15:23:33.610172+02:00",
+  "last_updated": "2026-07-30T21:06:55.463453+02:00",
   "events": [
     {
-      "orario": "02:30",
-      "evento": "Scherma - Mondiali: Fioretto femminile a squadre, tabellone principale e fasi finali",
-      "competizione": "Campionati Mondiali di Scherma Hong Kong 2026",
-      "canale": "Fencing TV (streaming)",
-      "note": "Fasi finali. Azioni con Martina Batini, Martina Favaretto, Arianna Errigo, Anna Cristino.",
-      "fonte": "Sportface.it, OA Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "06:00*",
+      "evento": "Tennis - Luciano Darderi (ITA) vs Dalibor Svrcina (CZE)",
+      "competizione": "ATP 250 Los Cabos (Ottavi di Finale)",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Incontro non prima delle 06:00 CET, terzo match del programma che si apre alle 03:00 CET sull'Estadio Alejandro Burillo.",
+      "fonte": "sportface.it",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "02:30",
-      "evento": "Scherma - Mondiali: Sciabola maschile a squadre, tabellone principale e fasi finali",
-      "competizione": "Campionati Mondiali di Scherma Hong Kong 2026",
-      "canale": "Fencing TV (streaming)",
-      "note": "Fasi finali. Azioni con Pietro Torre, Michele Gallo, Cosimo Bertini, Matteo Neri.",
-      "fonte": "Sportface.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Scherma - Mondiali: Fioretto femminile a squadre, fasi finali",
-      "competizione": "Campionati Mondiali di Scherma Hong Kong 2026",
-      "canale": "Rai Sport HD, RaiPlay",
-      "note": "Replica/Sintesi delle fasi finali. Azioni con Martina Batini, Martina Favaretto, Arianna Errigo, Anna Cristino.",
-      "fonte": "Sportface.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Scherma - Mondiali: Sciabola maschile a squadre, fasi finali",
-      "competizione": "Campionati Mondiali di Scherma Hong Kong 2026",
-      "canale": "Rai Sport HD, RaiPlay",
-      "note": "Replica/Sintesi delle fasi finali. Azioni con Pietro Torre, Michele Gallo, Cosimo Bertini, Matteo Neri.",
-      "fonte": "Sportface.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:15",
-      "evento": "Scherma - Mondiali: Fioretto femminile e Sciabola maschile a squadre, fasi finali",
-      "competizione": "Campionati Mondiali di Scherma Hong Kong 2026",
-      "canale": "Eurosport 2 HD, Discovery+, HBO Max, DAZN",
-      "note": "Replica/Sintesi delle fasi finali. Include atleti italiani.",
-      "fonte": "Sportface.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Tennis WTA 500 Washington: Quarti di finale Doppio",
-      "competizione": "WTA 500 Washington D.C.",
-      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, SuperTenniX",
-      "note": "Sara Errani (ITA)/Nicole Melichar-Martinez (USA) vs Andreja Klepac (SLO)/Makoto Ninomiya (JPN). Primo match sul John Harris court.",
-      "fonte": "Sportface.it, Lottomatica.Sport, TennisTemple, Mubadala DC Open Order of Play",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:30*",
-      "evento": "Tennis ATP 500 Washington: Quarti di finale Doppio",
-      "competizione": "ATP 500 Washington D.C.",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW",
-      "note": "Simone Bolelli (ITA)/Andrea Vavassori (ITA) vs Ariel Behar (URU)/Anirudh Chandrasekar (IND). Non prima delle 22:30 sul John Harris court.",
-      "fonte": "Lottomatica.Sport, Mubadala DC Open Order of Play",
+      "orario": "19:00*",
+      "evento": "Tennis - Bolelli/Vavassori (ITA) vs Behar/Chandrasekar",
+      "competizione": "ATP 500 Washington (Quarti di Finale Doppio)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Secondo incontro della sessione. La programmazione su Sky Sport Uno inizia con il simulcast di Sky Sport Tennis alle 17:00 CET, con il match di doppio a seguire.",
+      "fonte": "livetennis.it, Sky Sport",
       "accuratezza_orario": "stimato"
     }
   ]
