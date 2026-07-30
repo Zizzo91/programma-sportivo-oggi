@@ -1,67 +1,22 @@
 {
-  "last_updated": "2026-07-29T20:53:33.232363+02:00",
+  "last_updated": "2026-07-30T03:18:04.578502+02:00",
   "events": [
     {
-      "orario": "01:00*",
-      "evento": "Tennis - ATP 500 Washington: Ottavi di finale (Musetti vs Vukic)",
-      "competizione": "ATP 500 Washington",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Plus",
-      "note": "Lorenzo Musetti in campo. Orario stimato per l'inizio della sessione notturna italiana, l'orario esatto del match dipende dai precedenti incontri.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHBUaJzTX6YCeraULzYp6lG5lzyAvjb1hdoH-PNDKDXC22QRU2uItQHYF2QMgSB4ApW7DjfX4N53WBIiYitFfbUwZCmj1T1DZprJwDFPfIfY-68N4BczjNQVWo9j2MLEKVzm8VAOb8m0rSpgZ9drMqdQP1cjliQf0UViCLY-TSJNm-g6gX-lDylg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi5Uq2qRcbfHs-GtRgIHA5zHx8inhNvufPLBD0F6ftnw6eiJFHk27wCWxpDcHQ0TECmA69Jrn62j6CkwWPOJrYPsIij3fXvNLuzmrSdC_76luXbpZ1aMFUBJsk-y3OTX8kb3LEQq9AjUwAf0tkWGkmDySQJ_udi6Lemh4WRWA9QT3HXpaswy5tIu8yLA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8l_PAIk3ESCdtSGvNsAckt0F4d-cLkatkvK7EyeZ-J64HkZciWDkOY-wiJd5ftBizEnLke5o7QIw8_CI4BFjly5F-J4L39A50ZKYzUa4gNN_Hzqrpi6HnjU2ydWUf6FMDLlkjHCogYvo2I_GOs5TAnAxI",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "01:00*",
-      "evento": "Tennis - WTA 500 Washington: Torneo femminile (Cocciaretto vs Navarro)",
-      "competizione": "WTA 500 Washington",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Plus",
-      "note": "Elisabetta Cocciaretto in campo. Orario stimato per l'inizio della sessione notturna italiana, l'orario esatto del match dipende dai precedenti incontri.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHBUaJzTX6YCeraULzYp6lG5lzyAvjb1hdoH-PNDKDXC22QRU2uItQHYF2QMgSB4ApW7DjfX4N53WBIiYitFfbUwZCmj1T1DZprJwDFPfIfY-68N4BczjNQVWo9j2MLEKVzm8VAOb8m0rSpgZ9drMqdQP1cjliQf0UViCLY-TSJNm-g6gX-lDylg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi5Uq2qRcbfHs-GtRgIHA5zHx8inhNvufPLBD0F6ftnw6eiJFHk27wCWxpDcHQ0TECmA69Jrn62j6CkwWPOJrYPsIij3fXvNLuzmrSdC_76luXbpZ1aMFUBJsk-y3OTX8kb3LEQq9AjUwAf0tkWGkmDySQJ_udi6Lemh4WRWA9QT3HXpaswy5tIu8yLA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8l_PAIk3ESCdtSGvNsAckt0F4d-cLkatkvK7EyeZ-J64HkZciWDkOY-wiJd5ftBizEnLke5o7QIw8_CI4BFjly5F-J4L39A50ZKYzUa4gNN_Hzqrpi6HnjU2ydWUf6FMDLlkjHCogYvo2I_GOs5TAnAxI",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "01:00*",
-      "evento": "Tennis - ATP 500 Washington: Doppio (Bolelli/Vavassori)",
-      "competizione": "ATP 500 Washington",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Plus",
-      "note": "Simone Bolelli e Andrea Vavassori in campo. Orario stimato per l'inizio della sessione notturna italiana, l'orario esatto del match dipende dai precedenti incontri.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHBUaJzTX6YCeraULzYp6lG5lzyAvjb1hdoH-PNDKDXC22QRU2uItQHYF2QMgSB4ApW7DjfX4N53WBIiYitFfbUwZCmj1T1DZprJwDFPfIfY-68N4BczjNQVWo9j2MLEKVzm8VAOb8m0rSpgZ9drMqdQP1cjliQf0UViCLY-TSJNm-g6gX-lDylg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8l_PAIk3ESCdtSGvNsAckt0F4d-cLkatkvK7EyeZ-J64HkZciWDkOY-wiJd5ftBizEnLke5o7QIw8_CI4BFjly5F-J4L39A50ZKYzUa4gNN_Hzqrpi6HnjU2ydWUf6FMDLlkjHCogYvo2I_GOs5TAnAxI",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "05:00*",
-      "evento": "Tennis - ATP 250 Los Cabos: Sedicesimi di finale (Darderi vs Svrcina)",
-      "competizione": "ATP 250 Los Cabos",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Plus",
-      "note": "Luciano Darderi in campo. Orario stimato basato sulla menzione di debutto 'all'alba di giovedì' CET, l'orario esatto del match dipende dai precedenti incontri.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFLCJKNVcC1By4f5iKW0YTKwm_ndd4MkRWqyMnO5pdZdcLFQiez7EtyGdadpNYb1jEsSHV3o0DvIYcxqVgM_V1xWG12M5JwwCPNz5WoGG2aldzE57ZlnYYD3jv-LIOTz4nCgMgOKQx2NBNl1y4ugGf2jn_JGGi59J_cu3rIuDW7Hub4yr5kkfjn9xyS8gSulIGvvrW7OkvmvrdZ-D-1NL7YJ_JtqnaATgC6OgAVAWzawxrOXiMuWxW4l_p79jyFOh_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi5Uq2qRcbfHs-GtRgIHA5zHx8inhNvufPLBD0F6ftnw6eiJFHk27wCWxpDcHQ0TECmA69Jrn62j6CkwWPOJrYPsIij3fXvNLuzmrSdC_76luXbpZ1aMFUBJsk-y3OTX8kb3LEQq9AjUwAf0tkWGkmDySQJ_udi6Lemh4WRWA9QT3HXpaswy5tIu8yLA==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Raisport HD",
-      "note": "Replica della gara disputata il 26 luglio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2U3wN4CeXAYm1OgAA5Kv5b2JnrXzk5YjWi7jUgB9exoGftA0b-ID9x0qHTOkrluGXUY1DY9ilUkadOgdpZhv3Rehi6jhiH01ULVeCKRX95lab5fXalbb6hrddh9xQkJtOZ5bspRivH0RPpw==",
+      "orario": "08:30",
+      "evento": "Grande Slam 2026 - Wimbledon Finale Singolare Maschile: Sinner - Zverev",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
+      "note": "Replica. Include un giocatore italiano.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-LhMJ7T7TkY_AfN81Onh1y8avJ_-84ix61Q5Sxr7amFg8w1H4a07oH66JjIeLWU6x1rJU2vtwcW0KMWpoOZfMwNbIL-fd_idJ1y2qb3kILyQ6PxYzAATtp4DzevXwV8TZal6j4BP8CeXU3Pjgl0OVhQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "Mondiale Formula 1 2026 - GP Ungheria: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara disputata il 26 luglio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvKK3l8EkmwIrqSq8xtnntoHoG6fUyd7FSDpaWe-LoBS98gRs-qIiKiBrIbLbjKb3o8fPtey16ywxtWGnsXkldEc4TDiI-W28tjVISEc5YS6gMGyVp55SSZk4UOuONiepM4NeanVgZKeh6h6-dUgdSuVlFW4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Conferenza Stampa: Roberto Mancini e Claudio Ranieri (CT e DT Nazionale italiana)",
-      "competizione": "Calcio Nazionale Italiana",
-      "canale": "Rai, Sky Sport",
-      "note": "Presentazione dei nuovi Commissario Tecnico e Direttore Tecnico della Nazionale italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyEbMc_bRdCjV--4-2hmqGtkG3fBhnjfVomCQ11uaucIobIUlJqBlOuc_5JuSj5wV9sid_P-ePze1yZJb61E2n-mWCGL8N3nObmE-5GMd90wpQX_I3iGUqCSSseVZlzqDtHiwed7JcYitV4c7ButOkr6qzH5aKSCXcBJf1nugxKPsFL0X1MDosfADZgQ7CDrmQKKTTC9iKVjvR7Q6PzW17msnWatmpkifA24FaEL8b012t2nk=",
+      "orario": "14:00",
+      "evento": "UEFA Champions League 2025/2026",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Programma generico, probabilmente highlights o partita storica. Non specificato se coinvolge squadre italiane in diretta.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-LhMJ7T7TkY_AfN81Onh1y8avJ_-84ix61Q5Sxr7amFg8w1H4a07oH66JjIeLWU6x1rJU2vtwcW0KMWpoOZfMwNbIL-fd_idJ1y2qb3kILyQ6PxYzAATtp4DzevXwV8TZal6j4BP8CeXU3Pjgl0OVhQ==",
       "accuratezza_orario": "esatto"
     }
   ]
