@@ -1,22 +1,40 @@
 {
-  "last_updated": "2026-07-30T03:18:04.578502+02:00",
+  "last_updated": "2026-07-30T10:04:47.783911+02:00",
   "events": [
     {
-      "orario": "08:30",
-      "evento": "Grande Slam 2026 - Wimbledon Finale Singolare Maschile: Sinner - Zverev",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Replica. Include un giocatore italiano.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-LhMJ7T7TkY_AfN81Onh1y8avJ_-84ix61Q5Sxr7amFg8w1H4a07oH66JjIeLWU6x1rJU2vtwcW0KMWpoOZfMwNbIL-fd_idJ1y2qb3kILyQ6PxYzAATtp4DzevXwV8TZal6j4BP8CeXU3Pjgl0OVhQ==",
+      "orario": "06:00*",
+      "evento": "ATP 250 Los Cabos - Secondo Turno: Luciano Darderi vs Dalibor Svrcina",
+      "competizione": "ATP 250 Los Cabos",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Go, NOW, Tennis TV",
+      "note": "Terzo match del programma, non prima delle 06:00 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVtWU69LjRppMPXYWmP1uL7UHN27wgxLm4uhZHE-kInzG8hVfyvaP8v1GlnpYKX0HvzWcpGu-sHdEOuMKWEhl4vMXGQp-b5-l8DlYqQFK4bbYGSu5OQJrz5mrGPFBlFcJXyrt93qqTqLO_ZEAlGq353_FFsh33QCKS6gLM-8HthBLaMNuqedq_JIEthoee3Eo967yYp45I-WuRuTUjyHjWA2RFJqgAvPLu1_4X-7UHQVBMAd3XkVVS8lMFtytmBA==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "10:00",
+      "evento": "LPGA Tour: British Open - 1° giro",
+      "competizione": "Golf - LPGA Tour",
+      "canale": "Sky Sport Golf, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVtWU69LjRppMPXYWmP1uL7UHN27wgxLm4uhZHE-kInzG8hVfyvaP8v1GlnpYKX0HvzWcpGu-sHdEOuMKWEhl4vMXGQp-b5-l8DlYqQFK4bbYGSu5OQJrz5mrGPFBlFcJXyrt93qqTqLO_ZEAlGq353_FFsh33QCKS6gLM-8HthBLaMNuqedq_JIEthoee3Eo967yYp45I-WuRuTUjyHjWA2RFJqgAvPLu1_4X-7UHQVBMAd3XkVVS8lMFtytmBA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "UEFA Champions League 2025/2026",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": "Programma generico, probabilmente highlights o partita storica. Non specificato se coinvolge squadre italiane in diretta.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-LhMJ7T7TkY_AfN81Onh1y8avJ_-84ix61Q5Sxr7amFg8w1H4a07oH66JjIeLWU6x1rJU2vtwcW0KMWpoOZfMwNbIL-fd_idJ1y2qb3kILyQ6PxYzAATtp4DzevXwV8TZal6j4BP8CeXU3Pjgl0OVhQ==",
+      "orario": "17:00*",
+      "evento": "ATP Washington - Secondo Turno: Bolelli/Vavassori vs Behar/Chandrasekar",
+      "competizione": "ATP Washington",
+      "canale": "Sky Sport Uno, Sky Sport Tennis (simulcast), Sky Go, NOW",
+      "note": "Inizio programma ore 17:00, match a seguire",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqUXACr4-6JlJFY-oo_tcl2xWqTzZk7y3tNuQoQZVO8HCkfApBqe2rVoukf6Ng-CNxfdwEHp-QgUH3lzPulGkw0X_wTIJhW8EC7M7YrKATcRZbzrGX2erUdMyM8VUBq_PbYAP11_dchjtI-ybPxXQhDWQ8DZC7jMaE7GchUgsKHAwbQOHyUOfPdn1yag==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIEh3DvvKvX71bW7lHSyrVI4p0uwhzf6vitHTjRzHTpZhC9fF131RxetekomppANZ2ie9aZA95Ulk14XdUU9MHzvYOd6BGd4LhlxUEYaiSYSuzkzW2M92kRbptl7gW7vO4UAu8zIK34eU7CUvwNCZKNrtE",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:05",
+      "evento": "WRC, Rally Finlandia 2026 - SS1 Harju 1",
+      "competizione": "Mondiale Rally (WRC)",
+      "canale": "Sky Sport Arena, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyrwvYL-T3lpncFJ6Ccv3tcO96l0dnua9LfUfSCmRMDvKnMyqHxREgIr5yC9lgdQEM00qZweqAVyX0hCmK6eFVNkQRY2NdAGKuFSjmXQ4g379vDtP7lrtzcsoUxkkinvHbq0fv5kqpVYvPlpToQfXHueAcRWwbyadlE78u2CKIMIKjh8B7YlNL6XGpti0zyo84ubKWi-VvTQ==",
       "accuratezza_orario": "esatto"
     }
   ]
