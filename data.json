@@ -1,49 +1,67 @@
 {
-  "last_updated": "2026-07-31T15:28:18.840024+02:00",
+  "last_updated": "2026-07-31T21:05:00.737229+02:00",
   "events": [
     {
       "orario": "18:00",
-      "evento": "Juventus vs Nizza",
-      "competizione": "Calcio - Amichevole",
-      "canale": "DAZN1, Sky Sport Calcio (202)",
-      "note": "Anche in streaming su SkyGo, NOW e DAZN.",
-      "fonte": "OA Sport, Sky Sport, Libero",
+      "evento": "Juventus vs OGC Nizza (Amichevole)",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, DAZN 1 (Sky), Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "OA Sport, Libero, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Como vs FC Famalicao",
-      "competizione": "Calcio - Amichevole (Como Cup)",
+      "competizione": "Como Cup (Amichevole)",
       "canale": "Sportitalia",
       "note": "",
-      "fonte": "Libero",
+      "fonte": "Libero, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Sassuolo vs Folgore Caratese (Amichevole)",
+      "competizione": "Calcio Amichevole",
+      "canale": "SOLOCALCIO",
+      "note": "",
+      "fonte": "Calciomagazine, Calcio e Finanza",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Rally Finlandia (TV Stage 2)",
+      "competizione": "FIA World Rally Championship 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "MotoriNoLimits",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "Elisabetta Cocciaretto vs Naomi Osaka (Quarti di finale)",
+      "competizione": "WTA Washington 2026",
+      "canale": "SuperTennis HD, Sky Sport Tennis (203), SkyGo, NOW, SuperTennix",
+      "note": "Non prima delle 20:00 italiane",
+      "fonte": "OA Sport, Ubitennis, Sky Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Club Brugge vs Union SG",
+      "competizione": "Supercoppa Belga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00*",
-      "evento": "Lorenzo Musetti (ITA) vs Rafael Jodar (ESP)",
-      "competizione": "Tennis - ATP Washington 2026 (Quarti di finale)",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
-      "note": "Non prima della mezzanotte italiana. Anche in streaming su SkyGo, NOW e Tennis Tv. (Partita del 1° agosto)",
-      "fonte": "OA Sport, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "02:00*",
-      "evento": "Elisabetta Cocciaretto (ITA) vs Naomi Osaka (JPN)",
-      "competizione": "Tennis - WTA Washington 2026 (Quarti di finale)",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
-      "note": "Orario convertito da 20:00 EDT (Washington) a CET. Anche in streaming su SkyGo, NOW e SuperTenniX. (Partita del 1° agosto)",
-      "fonte": "OA Sport, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "Lucia Bronzetti (ITA) vs Sara Sorribes Tormo (ESP)",
-      "competizione": "Tennis - WTA Targu Mures 125 2026 (Quarti di finale)",
-      "canale": "SuperTennis",
-      "note": "Orario convertito da 16:00 EEST (Targu Mures) a CET. Anche in streaming su SuperTenniX.",
-      "fonte": "LiveTennis.it, OA Sport",
+      "evento": "Lorenzo Musetti vs Rafael Jodar (Quarti di finale)",
+      "competizione": "ATP Washington 2026",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
+      "note": "Non prima della mezzanotte italiana (01/08)",
+      "fonte": "OA Sport, Ubitennis, Olympics.com, Sky Sport, Tennis Magazine Italia",
       "accuratezza_orario": "stimato"
     }
   ]
