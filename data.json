@@ -1,40 +1,58 @@
 {
-  "last_updated": "2026-07-31T03:44:36.706249+02:00",
+  "last_updated": "2026-07-31T10:31:03.873623+02:00",
   "events": [
     {
       "orario": "18:00",
-      "evento": "Amichevole: Juventus-Nizza",
-      "competizione": "Calcio Amichevole Estiva",
-      "canale": "DAZN, DAZN 1 (Sky), Sky Sport Calcio, NOW",
-      "note": "Squadra italiana presente (Juventus)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9EmVf2nDMzCOOthb1E65sJ2f2Xbb9Vul4JXwcJNTUHTCBsXLaogEBfXMjB7tYdIZQlLn9RmAIqME5oi1l3KJWyIvdt-eWTqNqFF6uUIrirWGWR83V5o_JpkfYCTHmdbvMPecxbiKsOcXOcNAFwzwlkyZv9hIicGK24ov-tQyM25I, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX0EHx-fuFtr4HH6U_5o3oByhaByWzduxP-x2RjsOHcJ_sYLEk-e00ipcRLsQ-E1YKbSIzuoEe_hpNKYY2ebzWZPh_4gfurD9jkj0NtzN0LS_v9_qOhQb74O72iuTFpAb8iftn5ww-lNPpNGdyOUYRWhenuTFJZ26xe66FKZE15moL01vuXwUg0Me8jA1GKaAFYAyiezsPKL_qgHe5PQk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu6yv2cSWqRA7osLnrCt1ZDy2-ZErOHccQVpRs6h7jCwpKgujRuJoXkPUWiT3TQs0w1Sl0j52f3OJKE_MKmSLtXdTDxkszBVUINOOUi9NTg8tL2jZXuscSAmH-Q2Pz4WYJG0sAnC1hnpmarUgUbfYIXmL56jbXhuNBOL7aCTURShtDDf1pq4Ql8x-q2gv9VizWEhiEHLTdZaprZVleCjZcTGebjVoTmjXmz6IROMdgwW_D2DuVp54_xmZcWE1a70QJe-Y, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP2jOtTl7exUN64oxc5ydLI8spaGmDI3YQFrmxhX-Z1fKoO5pJ22uMcdkYRdrRCi3tdJHuM8WrwNRDSM4VI3WhUdbstznVn2-oPVgXOhO-s236V3gukjqMeKH5qYkq0uQPHHksgVSiSKZWH8BMLsZXE102QgL6H_5yjr77U_iFA4kZ8J-x2C39-9AvqrS-MYNUAEisDwzN9m2AAgW-1P890OSQvgXew6ywSjcvC7OQTKs5JYo",
+      "evento": "Amichevole: Juventus vs Nizza",
+      "competizione": "Calcio - Amichevole pre-campionato",
+      "canale": "DAZN, DAZN 1 (214 Sky), Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-venerdi-31-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.calciomagazine.net/calcio-in-tv-oggi-30-luglio-2026-liverpool-wrexham-e-le-altre-sfide-del-giorno/, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-venerdi-31-luglio-amichevoli-per-juventus-e-como-45923",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00",
-      "evento": "Amichevole: Sassuolo-Folgore Caratese",
-      "competizione": "Calcio Amichevole Estiva",
-      "canale": "SOLOCALCIO",
-      "note": "Squadra italiana presente (Sassuolo)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9EmVf2nDMzCOOthb1E65sJ2f2Xbb9Vul4JXwcJNTUHTCBsXLaogEBfXMjB7tYdIZQlLn9RmAIqME5oi1l3KJWyIvdt-eWTqNqFF6uUIrirWGWR83V5o_JpkfYCTHmdbvMPecxbiKsOcXOcNAFwzwlkyZv9hIicGK24ov-tQyM25I, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAScyx0W1-_HhnB-02YRcXp-CdjW2p31YgywmsPaEqYG5a_GNYCbMXix1657q7LBp7m5ikRWNHRtk0TblxhWe1BycYAsTgzZKu4sb7RiR1CJIuDg9m8AWGZ26FaxXkGB9wqNKNRBX-XkfibNICZCp1XWl5uEgD5p96rvLEqkm5NMn",
+      "orario": "18:00",
+      "evento": "Amichevole: Como vs FC Famalicao",
+      "competizione": "Calcio - Como Cup",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-venerdi-31-luglio-amichevoli-per-juventus-e-como-45923",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00*",
-      "evento": "ATP 500 Washington: Quarto di finale Lorenzo Musetti vs Rafael Jodar",
-      "competizione": "Tennis ATP 500 Washington",
-      "canale": "Sky Sport (Sky Sport Tennis, Sky Sport Uno), NOW Tv, Tennis Tv",
-      "note": "Orario stimato. Inizio quarti di finale alle 18:00 ora locale (00:00 CET del 1/8). Match di Lorenzo Musetti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGoSTCqCkRewjC_PraHpCE3k89Eg5bz9ImLhihZz7L2Py2NeCZNizl-nY6PMy6aGch73JQu3mUkB2wQje28ZiIzLOO-_viAjyvrIXeVm67OcF2X-Nn-T-UtC79BIYp8_cWB2DUQSfE2RotsP4Xz29TpwLAFEJxwGqezZdUJEipC1M5896_YcYZglstXMgoRuyov0rztt0DzTOJpaiSl_ibfXk1TApQ7kIXhYe5wQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFN945jrkhcn5q6MWF3t62k--vYjRFsHGKJv-9pxGwox2QdtgA5FFs1LpJ-SAgjUWgYQBuPynfZ5SywHoT-xD6kyqgcBfTiNrMKt9ZynsmV0wugAxN1Yx9sEq8qXtIm4VuYJNgk82EaVby9wF11IyeoJWQJ_oLAAhjRfCN8Gp7J5Op6sibWo3hY3UyTNO5fuw_eUN8rQRajJ_E2KxNzaMPB-9BZdiFpExLs_3lFNZ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXV2WW6hch3tFQ5hZG60K-FOsvLtpqzU7AQbXGf6sOEcdRqHGd0mtIrXqOuYgH0Z9UEedQ1PAHPae5FrfvtKaXNfe-npNMVgfYSppSOvV4PFwVOlG1i-5qIMFUQoe0ETc7IGY0F0D2VcYnrgRjU3DtvbsgE5b3aJ0O6vaofSM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1jrqpR_2-0BBp5vwEos8NypOv0PSRGsWIQlo78RTRTDTCKFBnyR1URGam_LX30sbfQzI8KoGD15X2K-tGaH2rBDLmjq5dMlO9ETwq30kDU0hVY-lw36fBk07i6UyetTqXCoddUC6ODp89yrVppH1zkoLjycOKUQhsk37VWq_u5PwvY6rYjudC6DO3zhBvYgil3VVBd08",
+      "orario": "18:00",
+      "evento": "WTA 500 Washington: Quarti di finale",
+      "competizione": "Tennis - WTA Tour",
+      "canale": "SuperTennis HD, Sky Sport Tennis (203), SkyGo, NOW, supertennis.tv, SuperTennix",
+      "note": "Con Elisabetta Cocciaretto. L'orario indicato è l'inizio della sessione, il match specifico di Cocciaretto potrebbe variare.",
+      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-venerdi-31-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "04:30",
-      "evento": "ATP 500 Washington: 1a Semifinale",
-      "competizione": "Tennis ATP 500 Washington",
-      "canale": "Sky Sport Uno, NOW Tv",
-      "note": "Possibile presenza di giocatore italiano in caso di vittoria nei quarti di finale. Trasmissione della prima semifinale del torneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaz785XggN9aCjsWOkNA-udlFtj_oBbt4M58C9ceQEcNF0c0dI8w1URqxX8xUtlDduIhP9EB6BBWzYrod7WsmsN4e_N_0X0E-7irmGbPF-gUx9Q9J5Nj7BvvGRGRDUQaji3TOQKNcBFWLDhx8Gss1XLA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxgWhPplTyOd4UpsCHTv4yoZfk7GUuXFPmiXKfH4gTS7f_5jrsVGDOvQtdYAim2s-ZpEHDoElPQsrM8r51WmrDrYLqDeJks_JkgUjg2n3acSpgmWkipG3a3bGrjLJfY9vZyfzMGBDJicMbkzOgtBgjur4e",
+      "orario": "18:00",
+      "evento": "ATP 500 Washington: Quarti di finale",
+      "competizione": "Tennis - ATP Tour",
+      "canale": "Sky Sport Uno (palinsesto generico ATP & WTA), servizi streaming tennis",
+      "note": "Con Lorenzo Musetti. L'orario indicato è l'inizio della sessione, il match specifico di Musetti potrebbe variare. Il palinsesto specifico ATP non è dettagliato come per la WTA, ma il torneo è in corso e l'italiano è indicato come partecipante ai quarti.",
+      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-venerdi-31-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.skysport.it/guidatv/palinsesto/sky-sport-uno/2026-07-31",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "WTA Memphis: Quarti di finale",
+      "competizione": "Tennis - WTA Tour",
+      "canale": "SuperTennis HD, Sky Sport Plus, SkyGo, NOW, supertennis.tv, SuperTennix",
+      "note": "Possibile presenza di giocatrici italiane. L'orario indicato è l'inizio della sessione, i match specifici potrebbero variare.",
+      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-venerdi-31-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Amichevole: Sassuolo vs Folgore Caratese",
+      "competizione": "Calcio - Amichevole pre-campionato",
+      "canale": "SOLOCALCIO",
+      "note": "",
+      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-30-luglio-2026-liverpool-wrexham-e-le-altre-sfide-del-giorno/",
       "accuratezza_orario": "esatto"
     }
   ]
