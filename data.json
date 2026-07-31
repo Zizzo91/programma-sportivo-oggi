@@ -1,59 +1,50 @@
 {
-  "last_updated": "2026-07-31T10:31:03.873623+02:00",
+  "last_updated": "2026-07-31T15:28:18.840024+02:00",
   "events": [
     {
       "orario": "18:00",
-      "evento": "Amichevole: Juventus vs Nizza",
-      "competizione": "Calcio - Amichevole pre-campionato",
-      "canale": "DAZN, DAZN 1 (214 Sky), Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-venerdi-31-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.calciomagazine.net/calcio-in-tv-oggi-30-luglio-2026-liverpool-wrexham-e-le-altre-sfide-del-giorno/, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-venerdi-31-luglio-amichevoli-per-juventus-e-como-45923",
+      "evento": "Juventus vs Nizza",
+      "competizione": "Calcio - Amichevole",
+      "canale": "DAZN1, Sky Sport Calcio (202)",
+      "note": "Anche in streaming su SkyGo, NOW e DAZN.",
+      "fonte": "OA Sport, Sky Sport, Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Amichevole: Como vs FC Famalicao",
-      "competizione": "Calcio - Como Cup",
+      "evento": "Como vs FC Famalicao",
+      "competizione": "Calcio - Amichevole (Como Cup)",
       "canale": "Sportitalia",
       "note": "",
-      "fonte": "https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-venerdi-31-luglio-amichevoli-per-juventus-e-como-45923",
+      "fonte": "Libero",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "WTA 500 Washington: Quarti di finale",
-      "competizione": "Tennis - WTA Tour",
-      "canale": "SuperTennis HD, Sky Sport Tennis (203), SkyGo, NOW, supertennis.tv, SuperTennix",
-      "note": "Con Elisabetta Cocciaretto. L'orario indicato è l'inizio della sessione, il match specifico di Cocciaretto potrebbe variare.",
-      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-venerdi-31-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "orario": "00:00*",
+      "evento": "Lorenzo Musetti (ITA) vs Rafael Jodar (ESP)",
+      "competizione": "Tennis - ATP Washington 2026 (Quarti di finale)",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
+      "note": "Non prima della mezzanotte italiana. Anche in streaming su SkyGo, NOW e Tennis Tv. (Partita del 1° agosto)",
+      "fonte": "OA Sport, Sky Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "ATP 500 Washington: Quarti di finale",
-      "competizione": "Tennis - ATP Tour",
-      "canale": "Sky Sport Uno (palinsesto generico ATP & WTA), servizi streaming tennis",
-      "note": "Con Lorenzo Musetti. L'orario indicato è l'inizio della sessione, il match specifico di Musetti potrebbe variare. Il palinsesto specifico ATP non è dettagliato come per la WTA, ma il torneo è in corso e l'italiano è indicato come partecipante ai quarti.",
-      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-venerdi-31-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/, https://www.skysport.it/guidatv/palinsesto/sky-sport-uno/2026-07-31",
+      "orario": "02:00*",
+      "evento": "Elisabetta Cocciaretto (ITA) vs Naomi Osaka (JPN)",
+      "competizione": "Tennis - WTA Washington 2026 (Quarti di finale)",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
+      "note": "Orario convertito da 20:00 EDT (Washington) a CET. Anche in streaming su SkyGo, NOW e SuperTenniX. (Partita del 1° agosto)",
+      "fonte": "OA Sport, Sky Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "WTA Memphis: Quarti di finale",
-      "competizione": "Tennis - WTA Tour",
-      "canale": "SuperTennis HD, Sky Sport Plus, SkyGo, NOW, supertennis.tv, SuperTennix",
-      "note": "Possibile presenza di giocatrici italiane. L'orario indicato è l'inizio della sessione, i match specifici potrebbero variare.",
-      "fonte": "https://oasport.it/2026/07/sport-in-tv-oggi-venerdi-31-luglio-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "orario": "15:00*",
+      "evento": "Lucia Bronzetti (ITA) vs Sara Sorribes Tormo (ESP)",
+      "competizione": "Tennis - WTA Targu Mures 125 2026 (Quarti di finale)",
+      "canale": "SuperTennis",
+      "note": "Orario convertito da 16:00 EEST (Targu Mures) a CET. Anche in streaming su SuperTenniX.",
+      "fonte": "LiveTennis.it, OA Sport",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Amichevole: Sassuolo vs Folgore Caratese",
-      "competizione": "Calcio - Amichevole pre-campionato",
-      "canale": "SOLOCALCIO",
-      "note": "",
-      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-30-luglio-2026-liverpool-wrexham-e-le-altre-sfide-del-giorno/",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
