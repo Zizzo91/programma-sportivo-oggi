@@ -1,49 +1,40 @@
 {
-  "last_updated": "2026-08-01T14:52:56.347694+02:00",
+  "last_updated": "2026-08-01T20:52:01.296236+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Lazio - Avellino",
-      "competizione": "Amichevole precampionato",
-      "canale": "DAZN",
+      "orario": "09:30",
+      "evento": "Amichevole: Lazio - Avellino",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, Sky Sport (non specificato), Lazio Style TV",
       "note": "",
-      "fonte": "Libero, Calciomagazine",
+      "fonte": "Adnkronos, Calcio e Finanza, Libero, Lazialità, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:30",
-      "evento": "Manchester City - Inter",
-      "competizione": "Amichevole precampionato",
-      "canale": "Sky Sport 1, Sky Sport Calcio, DAZN, NOW",
+      "evento": "Amichevole: Manchester City - Inter",
+      "competizione": "Calcio Amichevole (Hong Kong Football Festival)",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, DAZN",
       "note": "",
-      "fonte": "Libero, Calciomagazine, Fanpage",
+      "fonte": "Movieplayer.it, Libero, Inter.it, Sky Sport, Pazzi di Fanta",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Cardiff City - Roma",
-      "competizione": "Amichevole precampionato",
-      "canale": "DAZN, OneFootball",
-      "note": "Differita su NOVE",
-      "fonte": "Libero, Calciomagazine",
+      "evento": "Amichevole: Cardiff City - Roma",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Libero, Sky Sport, Pazzi di Fanta",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Real Madrid - Fiorentina",
-      "competizione": "Amichevole precampionato",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "St. Etienne - Venezia",
-      "competizione": "Amichevole precampionato",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "evento": "Amichevole: Real Madrid - Fiorentina",
+      "competizione": "Calcio Amichevole",
+      "canale": "Non specificato (Sky Sport menzionato per amichevoli in generale)",
+      "note": "La fonte Sky Sport menziona la partita ma non specifica il canale esatto per questa singola amichevole, ma la include nel contesto di 'amichevoli su Sky'.",
+      "fonte": "Sky Sport, Pazzi di Fanta",
       "accuratezza_orario": "esatto"
     }
   ]
