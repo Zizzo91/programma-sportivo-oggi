@@ -1,68 +1,194 @@
 {
-  "last_updated": "2026-07-31T21:05:00.737229+02:00",
+  "last_updated": "2026-08-01T03:46:06.824339+02:00",
   "events": [
     {
-      "orario": "18:00",
-      "evento": "Juventus vs OGC Nizza (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN, DAZN 1 (Sky), Sky Sport Calcio, NOW",
+      "orario": "06:00",
+      "evento": "38ª America's Cup - Regata Sardegna 3a Giornata Preliminari",
+      "competizione": "Vela",
+      "canale": "Sky Sport Arena",
       "note": "",
-      "fonte": "OA Sport, Libero, Calciomagazine",
+      "fonte": "Sky Sport Arena : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Radiocorsa - Speciale Tour 2026",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale a Squadre Miste",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "FIA World Rally Championship 2026 - Finlandia. Stage 2",
+      "competizione": "Rally",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "Sky Sport Arena : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:55",
+      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Prelim. Solo Femminile (prog. Libero)",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:55",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Prelim. 1m Uomini",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:55",
+      "evento": "European Aquatics Parigi 2026 - Finali Nuoto Artistico: Duo Misto + Duo Femminile (prog. Liberi)",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Cardiff – Roma",
+      "competizione": "Calcio - Amichevole",
+      "canale": "DAZN, ONEFOOTBALL",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 1 agosto 2026: Manchester City-Inter e le altre afide del giorno",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Como vs FC Famalicao",
-      "competizione": "Como Cup (Amichevole)",
-      "canale": "Sportitalia",
+      "evento": "Real Madrid – Fiorentina",
+      "competizione": "Calcio - Amichevole",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
       "note": "",
-      "fonte": "Libero, Calciomagazine",
+      "fonte": "Calcio in tv oggi, 1 agosto 2026: Manchester City-Inter e le altre afide del giorno",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00",
-      "evento": "Sassuolo vs Folgore Caratese (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "SOLOCALCIO",
+      "orario": "18:00",
+      "evento": "St. Etienne – Venezia",
+      "competizione": "Calcio - Amichevole",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine, Calcio e Finanza",
+      "fonte": "Calcio in tv oggi, 1 agosto 2026: Manchester City-Inter e le altre afide del giorno",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Rally Finlandia (TV Stage 2)",
-      "competizione": "FIA World Rally Championship 2026",
-      "canale": "Sky Sport F1",
+      "orario": "19:10",
+      "evento": "Radiocorsa - Speciale Tour 2026",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "MotoriNoLimits",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
-      "evento": "Elisabetta Cocciaretto vs Naomi Osaka (Quarti di finale)",
-      "competizione": "WTA Washington 2026",
-      "canale": "SuperTennis HD, Sky Sport Tennis (203), SkyGo, NOW, SuperTennix",
-      "note": "Non prima delle 20:00 italiane",
-      "fonte": "OA Sport, Ubitennis, Sky Sport",
-      "accuratezza_orario": "stimato"
+      "orario": "20:00",
+      "evento": "LIVE WTA 500 Washington",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Potenziale partecipazione italiana (Sara Errani in doppio).",
+      "fonte": "Sport in TV sabato 01 agosto 2026 - Programmi TV, Circuito ATP e WTA: tutti gli italiani in campo dal 27 luglio al 2 agosto 2026",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "Club Brugge vs Union SG",
-      "competizione": "Supercoppa Belga",
-      "canale": "DAZN",
+      "evento": "European Aquatics Parigi 2026 - Finali Tuffi: 10m Sincro Donne + 1m Uomini",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00*",
-      "evento": "Lorenzo Musetti vs Rafael Jodar (Quarti di finale)",
-      "competizione": "ATP Washington 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), SkyGo, NOW, Tennis Tv",
-      "note": "Non prima della mezzanotte italiana (01/08)",
-      "fonte": "OA Sport, Ubitennis, Olympics.com, Sky Sport, Tennis Magazine Italia",
-      "accuratezza_orario": "stimato"
+      "orario": "20:45",
+      "evento": "Campionato Italiano Sparco 2026 - Rally Regione Piemonte",
+      "competizione": "Rally",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:20",
+      "evento": "European Aquatics Championship - Tuffi: Donne 10m Piattaforma Sincro Finale",
+      "competizione": "Nuoto",
+      "canale": "Rai 2, Sky Sport Uno",
+      "note": "",
+      "fonte": "Sport in TV sabato 01 agosto 2026 - Programmi TV, Sky Sport Uno Stasera: Programmi Prima Serata",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Cardiff – Roma (Differita)",
+      "competizione": "Calcio - Amichevole",
+      "canale": "NOVE",
+      "note": "",
+      "fonte": "Calcio in tv oggi, 1 agosto 2026: Manchester City-Inter e le altre afide del giorno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:45",
+      "evento": "Radiocorsa",
+      "competizione": "Ciclismo - Rubrica",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Sport in TV sabato 01 agosto 2026 - Programmi TV, Sabato su Rai Sport - Tutti i programmi di Rai Sport del 01-08-2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "WTA 250 Memphis (Differita)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Potenziale partecipazione italiana (Lucrezia Stefanini in doppio).",
+      "fonte": "Sport in TV sabato 01 agosto 2026 - Programmi TV, Circuito ATP e WTA: tutti gli italiani in campo dal 27 luglio al 2 agosto 2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:40",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Uomini 1m Trampolino Finale",
+      "competizione": "Nuoto",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno Stasera: Programmi Prima Serata",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:55",
+      "evento": "Atletica",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Sport in TV sabato 01 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:30",
+      "evento": "WTA 250 Memphis (Differita)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Potenziale partecipazione italiana (Lucrezia Stefanini in doppio).",
+      "fonte": "Sport in TV sabato 01 agosto 2026 - Programmi TV, Circuito ATP e WTA: tutti gli italiani in campo dal 27 luglio al 2 agosto 2026",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
