@@ -1,73 +1,37 @@
 {
-  "last_updated": "2026-08-01T10:00:41.812061+02:00",
+  "last_updated": "2026-08-01T14:52:56.347694+02:00",
   "events": [
     {
-      "orario": "00:15",
-      "evento": "Gimnasia La Plata – River Plate",
-      "competizione": "Amichevole Club",
-      "canale": "Sportitalia, Como TV",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "New York City – Toronto",
-      "competizione": "MLS",
-      "canale": "Apple TV",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Nuoto Artistico: Donne Solo Libero Preliminari",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Prevedibile partecipazione italiana nell'evento generale.",
-      "fonte": "Sky Sport Uno Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "11:00",
-      "evento": "Lazio – Avellino",
-      "competizione": "Amichevole Club",
+      "evento": "Lazio - Avellino",
+      "competizione": "Amichevole precampionato",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "Libero, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:30",
-      "evento": "Manchester City – Inter",
-      "competizione": "Amichevole Club",
-      "canale": "DAZN, Sky, NOW",
+      "evento": "Manchester City - Inter",
+      "competizione": "Amichevole precampionato",
+      "canale": "Sky Sport 1, Sky Sport Calcio, DAZN, NOW",
       "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "Libero, Calciomagazine, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Cardiff – Roma",
-      "competizione": "Amichevole Club",
-      "canale": "DAZN, OneFootball (differita NOVE)",
-      "note": "",
-      "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Amburgo – Everton",
-      "competizione": "Amichevole Club",
-      "canale": "OneFootball",
-      "note": "",
-      "fonte": "Calciomagazine",
+      "evento": "Cardiff City - Roma",
+      "competizione": "Amichevole precampionato",
+      "canale": "DAZN, OneFootball",
+      "note": "Differita su NOVE",
+      "fonte": "Libero, Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Real Madrid – Fiorentina",
-      "competizione": "Amichevole Club",
+      "evento": "Real Madrid - Fiorentina",
+      "competizione": "Amichevole precampionato",
       "canale": "DAZN",
       "note": "",
       "fonte": "Calciomagazine",
@@ -75,56 +39,11 @@
     },
     {
       "orario": "18:00",
-      "evento": "St. Etienne – Venezia",
-      "competizione": "Amichevole Club",
+      "evento": "St. Etienne - Venezia",
+      "competizione": "Amichevole precampionato",
       "canale": "DAZN",
       "note": "",
       "fonte": "Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Tuffi: Donne 10m Piattaforma Sincro Finale",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Rai Sport HD, Sky Sport Uno, Sky Sport Max",
-      "note": "Prevedibile partecipazione italiana.",
-      "fonte": "OA Sport, Quotidiano Nazionale",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Real Madrid - Manchester City",
-      "competizione": "Amichevole Club",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Programmi TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:20",
-      "evento": "Tuffi: Uomini 1m Trampolino Finale",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Rai Sport HD, Sky Sport Uno, Sky Sport Max",
-      "note": "Lorenzo Marsaglia e Matteo Santoro hanno partecipato alle eliminatorie.",
-      "fonte": "OA Sport, Quotidiano Nazionale",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "River Plate - Barracas Central",
-      "competizione": "Amichevole Club",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Programmi TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Manchester City - Manchester Utd",
-      "competizione": "Amichevole Club",
-      "canale": "Sportitalia",
-      "note": "Evento trasmesso il 2 agosto, entro le 06:00 CET.",
-      "fonte": "Programmi TV",
       "accuratezza_orario": "esatto"
     }
   ]
