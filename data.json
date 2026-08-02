@@ -1,41 +1,158 @@
 {
-  "last_updated": "2026-08-01T20:52:01.296236+02:00",
+  "last_updated": "2026-08-02T03:30:55.963286+02:00",
   "events": [
     {
-      "orario": "09:30",
-      "evento": "Amichevole: Lazio - Avellino",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN, Sky Sport (non specificato), Lazio Style TV",
+      "orario": "06:00",
+      "evento": "Campionato Italiano Sparco 2026 - Rally Regione Piemonte - gara 1",
+      "competizione": "Rally",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "Adnkronos, Calcio e Finanza, Libero, Lazialità, Sky Sport",
+      "fonte": "ProgrammiTV, Super Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Amichevole: Manchester City - Inter",
-      "competizione": "Calcio Amichevole (Hong Kong Football Festival)",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, DAZN",
+      "orario": "08:55",
+      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Prelim. Squadre (prog. Libero)",
+      "competizione": "Europei di Nuoto",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "Movieplayer.it, Libero, Inter.it, Sky Sport, Pazzi di Fanta",
+      "fonte": "ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Team Libero (Preliminari)",
+      "competizione": "Europei di Nuoto",
+      "canale": "Sky",
+      "note": "",
+      "fonte": "Nuoto.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Trampolino 1 m Femminile (Preliminari)",
+      "competizione": "Europei di Nuoto",
+      "canale": "Sky",
+      "note": "",
+      "fonte": "Nuoto.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Amichevole: Union Berlino - Cagliari",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine, Streaming calcio in diretta e palinsesto TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Prelim. 1m Donne",
+      "competizione": "Europei di Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Amichevole: Feyenoord - Atalanta",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine, Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:55",
+      "evento": "European Aquatics Parigi 2026 - Finale Nuoto Artistico: Duo Misto (prog. Tecnico)",
+      "competizione": "Europei di Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "ProgrammiTV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Amichevole: Cardiff City - Roma",
+      "evento": "Amichevole: Burnley - Torino",
       "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "Libero, Sky Sport, Pazzi di Fanta",
+      "fonte": "Calciomagazine, Calcio e Sport in Tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Amichevole: Real Madrid - Fiorentina",
-      "competizione": "Calcio Amichevole",
-      "canale": "Non specificato (Sky Sport menzionato per amichevoli in generale)",
-      "note": "La fonte Sky Sport menziona la partita ma non specifica il canale esatto per questa singola amichevole, ma la include nel contesto di 'amichevoli su Sky'.",
-      "fonte": "Sky Sport, Pazzi di Fanta",
+      "orario": "16:00",
+      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Duo Tecnico Misto (Finale)",
+      "competizione": "Europei di Nuoto",
+      "canale": "Sky",
+      "note": "",
+      "fonte": "Nuoto.com",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "ATP Masters 1000 Montreal / WTA 1000 Toronto",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis, Sky Sport Arena",
+      "note": "Match con giocatori italiani: L. Musetti, F. Cobolli, L. Darderi, M. Arnaldi, M. Bellucci, M. Berrettini, L. Sonego, E. Cocciaretto",
+      "fonte": "Sportface.it, Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Campionato Italiano Sparco 2026 - Rally Regione Piemonte - gara 2",
+      "competizione": "Rally",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Trampolino 3 m Sincro Misto (Finale)",
+      "competizione": "Europei di Nuoto",
+      "canale": "Sky",
+      "note": "",
+      "fonte": "Nuoto.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Amichevole: Ascoli - Lazio",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "Calciomagazine, Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:55",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Trampolino 1 m Femminile (Finale)",
+      "competizione": "Europei di Nuoto",
+      "canale": "Sky",
+      "note": "",
+      "fonte": "Nuoto.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Europei di nuoto",
+      "competizione": "Nuoto",
+      "canale": "Rai 2",
+      "note": "",
+      "fonte": "ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "WTA 1000 Toronto",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Match con giocatrici italiane (es. E. Cocciaretto)",
+      "fonte": "ProgrammiTV",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
