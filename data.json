@@ -1,94 +1,49 @@
 {
-  "last_updated": "2026-08-02T10:02:31.054509+02:00",
+  "last_updated": "2026-08-02T20:52:20.008170+02:00",
   "events": [
     {
-      "orario": "01:00*",
-      "evento": "ATP Montreal 2026 - 1° Turno: BERRETTINI (Ita) vs Navone (Arg)",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Tennis",
-      "note": "Match stimato, secondo incontro sul Center Court dopo le 17:00 locali (23:00 CET), l'orario 01:00* è stimato per l'Italia considerando la differenza di fuso orario con Montreal che è di -6 ore. Il primo match Kovacevic (Usa) vs Borges (Por) inizia alle 17:00 locali (23:00 CET).",
-      "fonte": "skysport.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "03:00*",
-      "evento": "WTA Toronto 2026 - 1° Turno: STEFANINI (Ita) vs Osorio (Col)",
-      "competizione": "WTA 1000 Toronto",
-      "canale": "Sky Sport Tennis",
-      "note": "Match stimato, a seguire dopo Berrettini vs Navone. L'orario 03:00* è stimato per l'Italia considerando la differenza di fuso orario con Toronto che è di -6 ore.",
-      "fonte": "skysport.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "04:30*",
-      "evento": "WTA Toronto 2026 - 1° Turno: Gibson (Aus) vs COCCIARETTO (Ita)",
-      "competizione": "WTA 1000 Toronto",
-      "canale": "Sky Sport Tennis",
-      "note": "Match stimato, a seguire dopo Jones vs Tararudee (non prima delle 22:00 locali, cioè non prima delle 04:00 CET).",
-      "fonte": "skysport.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "14:00",
-      "evento": "Calcio - Amichevole: Union Berlino vs Cagliari",
-      "competizione": "Amichevole precampionato",
-      "canale": "DAZN",
+      "evento": "Union Berlino - Cagliari",
+      "competizione": "Amichevole Club",
+      "canale": "DAZN Italia",
       "note": "",
-      "fonte": "calciomagazine.net",
+      "fonte": "https://calciomagazine.net/partite-oggi-domenica-2-agosto-2026-amichevoli-in-primo-piano/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Calcio - Amichevole: Feyenoord vs Atalanta",
-      "competizione": "De Kuip Cup / Amichevole precampionato",
-      "canale": "DAZN",
+      "evento": "Feyenoord - Atalanta",
+      "competizione": "Amichevole Club",
+      "canale": "DAZN Italia",
       "note": "",
-      "fonte": "calciomagazine.net",
+      "fonte": "https://calciomagazine.net/partite-oggi-domenica-2-agosto-2026-amichevoli-in-primo-piano/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Calcio - Amichevole: Burnley vs Torino",
-      "competizione": "Amichevole precampionato",
-      "canale": "Sky Sport Calcio, NOW",
+      "evento": "Burnley - Torino",
+      "competizione": "Amichevole Club",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "calciomagazine.net",
+      "fonte": "https://calciomagazine.net/partite-oggi-domenica-2-agosto-2026-amichevoli-in-primo-piano/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Tennis - ATP Montreal & WTA Toronto",
-      "competizione": "ATP Masters 1000 Montreal & WTA 1000 Toronto",
+      "orario": "19:00*",
+      "evento": "Matteo Berrettini (Italia) vs Mariano Navone (Argentina)",
+      "competizione": "ATP Masters 1000 Montreal (Canada Open) - Primo Turno",
       "canale": "Sky Sport Tennis, Sky Sport Arena",
-      "note": "Diretta dalle ore 17:00 con vari match, inclusi quelli degli italiani Berrettini, Cocciaretto e Stefanini.",
-      "fonte": "skysport.it",
-      "accuratezza_orario": "esatto"
+      "note": "Secondo match dal programma che inizia alle 17:00 CET.",
+      "fonte": "https://sport.sky.it/tennis/2026/08/02/atp-montreal-2026-dove-vedere-canada-open-tv-streaming",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Amichevole: Ascoli vs Lazio",
-      "competizione": "Amichevole precampionato",
-      "canale": "DAZN, DAZN 1",
+      "evento": "Ascoli - Lazio",
+      "competizione": "Amichevole Club",
+      "canale": "DAZN Italia, DAZN 1",
       "note": "",
-      "fonte": "calciomagazine.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Tennis - WTA 1000 Toronto",
-      "competizione": "WTA 1000 Toronto",
-      "canale": "SuperTennis",
-      "note": "Diretta del torneo femminile.",
-      "fonte": "programmitv.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Tennis - WTA 1000 Toronto",
-      "competizione": "WTA 1000 Toronto",
-      "canale": "SuperTennis",
-      "note": "Diretta del torneo femminile.",
-      "fonte": "programmitv.com",
+      "fonte": "https://calciomagazine.net/partite-oggi-domenica-2-agosto-2026-amichevoli-in-primo-piano/",
       "accuratezza_orario": "esatto"
     }
   ]
