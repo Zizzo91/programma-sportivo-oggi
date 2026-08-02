@@ -1,158 +1,95 @@
 {
-  "last_updated": "2026-08-02T03:30:55.963286+02:00",
+  "last_updated": "2026-08-02T10:02:31.054509+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Campionato Italiano Sparco 2026 - Rally Regione Piemonte - gara 1",
-      "competizione": "Rally",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "ProgrammiTV, Super Guida TV",
-      "accuratezza_orario": "esatto"
+      "orario": "01:00*",
+      "evento": "ATP Montreal 2026 - 1° Turno: BERRETTINI (Ita) vs Navone (Arg)",
+      "competizione": "ATP Masters 1000 Montreal",
+      "canale": "Sky Sport Tennis",
+      "note": "Match stimato, secondo incontro sul Center Court dopo le 17:00 locali (23:00 CET), l'orario 01:00* è stimato per l'Italia considerando la differenza di fuso orario con Montreal che è di -6 ore. Il primo match Kovacevic (Usa) vs Borges (Por) inizia alle 17:00 locali (23:00 CET).",
+      "fonte": "skysport.it",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "08:55",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Prelim. Squadre (prog. Libero)",
-      "competizione": "Europei di Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "ProgrammiTV",
-      "accuratezza_orario": "esatto"
+      "orario": "03:00*",
+      "evento": "WTA Toronto 2026 - 1° Turno: STEFANINI (Ita) vs Osorio (Col)",
+      "competizione": "WTA 1000 Toronto",
+      "canale": "Sky Sport Tennis",
+      "note": "Match stimato, a seguire dopo Berrettini vs Navone. L'orario 03:00* è stimato per l'Italia considerando la differenza di fuso orario con Toronto che è di -6 ore.",
+      "fonte": "skysport.it",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "09:00",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Team Libero (Preliminari)",
-      "competizione": "Europei di Nuoto",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "Nuoto.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Trampolino 1 m Femminile (Preliminari)",
-      "competizione": "Europei di Nuoto",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "Nuoto.com",
-      "accuratezza_orario": "esatto"
+      "orario": "04:30*",
+      "evento": "WTA Toronto 2026 - 1° Turno: Gibson (Aus) vs COCCIARETTO (Ita)",
+      "competizione": "WTA 1000 Toronto",
+      "canale": "Sky Sport Tennis",
+      "note": "Match stimato, a seguire dopo Jones vs Tararudee (non prima delle 22:00 locali, cioè non prima delle 04:00 CET).",
+      "fonte": "skysport.it",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "14:00",
-      "evento": "Amichevole: Union Berlino - Cagliari",
-      "competizione": "Calcio Amichevole",
+      "evento": "Calcio - Amichevole: Union Berlino vs Cagliari",
+      "competizione": "Amichevole precampionato",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine, Streaming calcio in diretta e palinsesto TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Prelim. 1m Donne",
-      "competizione": "Europei di Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "ProgrammiTV",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Amichevole: Feyenoord - Atalanta",
-      "competizione": "Calcio Amichevole",
+      "evento": "Calcio - Amichevole: Feyenoord vs Atalanta",
+      "competizione": "De Kuip Cup / Amichevole precampionato",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine, Calcio e Sport in Tv oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:55",
-      "evento": "European Aquatics Parigi 2026 - Finale Nuoto Artistico: Duo Misto (prog. Tecnico)",
-      "competizione": "Europei di Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "ProgrammiTV",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Amichevole: Burnley - Torino",
-      "competizione": "Calcio Amichevole",
-      "canale": "Sky Sport Calcio",
+      "evento": "Calcio - Amichevole: Burnley vs Torino",
+      "competizione": "Amichevole precampionato",
+      "canale": "Sky Sport Calcio, NOW",
       "note": "",
-      "fonte": "Calciomagazine, Calcio e Sport in Tv oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Duo Tecnico Misto (Finale)",
-      "competizione": "Europei di Nuoto",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "Nuoto.com",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "ATP Masters 1000 Montreal / WTA 1000 Toronto",
-      "competizione": "Tennis",
+      "evento": "Tennis - ATP Montreal & WTA Toronto",
+      "competizione": "ATP Masters 1000 Montreal & WTA 1000 Toronto",
       "canale": "Sky Sport Tennis, Sky Sport Arena",
-      "note": "Match con giocatori italiani: L. Musetti, F. Cobolli, L. Darderi, M. Arnaldi, M. Bellucci, M. Berrettini, L. Sonego, E. Cocciaretto",
-      "fonte": "Sportface.it, Calcio e Sport in Tv oggi",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Campionato Italiano Sparco 2026 - Rally Regione Piemonte - gara 2",
-      "competizione": "Rally",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Trampolino 3 m Sincro Misto (Finale)",
-      "competizione": "Europei di Nuoto",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "Nuoto.com",
+      "note": "Diretta dalle ore 17:00 con vari match, inclusi quelli degli italiani Berrettini, Cocciaretto e Stefanini.",
+      "fonte": "skysport.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Amichevole: Ascoli - Lazio",
-      "competizione": "Calcio Amichevole",
+      "evento": "Calcio - Amichevole: Ascoli vs Lazio",
+      "competizione": "Amichevole precampionato",
       "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "Calciomagazine, Calcio e Sport in Tv oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:55",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Trampolino 1 m Femminile (Finale)",
-      "competizione": "Europei di Nuoto",
-      "canale": "Sky",
-      "note": "",
-      "fonte": "Nuoto.com",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Europei di nuoto",
-      "competizione": "Nuoto",
-      "canale": "Rai 2",
-      "note": "",
-      "fonte": "ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "WTA 1000 Toronto",
-      "competizione": "Tennis",
+      "evento": "Tennis - WTA 1000 Toronto",
+      "competizione": "WTA 1000 Toronto",
       "canale": "SuperTennis",
-      "note": "Match con giocatrici italiane (es. E. Cocciaretto)",
-      "fonte": "ProgrammiTV",
-      "accuratezza_orario": "stimato"
+      "note": "Diretta del torneo femminile.",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Tennis - WTA 1000 Toronto",
+      "competizione": "WTA 1000 Toronto",
+      "canale": "SuperTennis",
+      "note": "Diretta del torneo femminile.",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
