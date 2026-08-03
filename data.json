@@ -1,49 +1,67 @@
 {
-  "last_updated": "2026-08-02T20:52:20.008170+02:00",
+  "last_updated": "2026-08-03T03:44:38.351477+02:00",
   "events": [
     {
+      "orario": "06:00",
+      "evento": "Incontro amichevole: Manchester City - Inter",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYbqUmI8DXXw9fgEk29QagV_5dwXVAsKh08P2fLOWsjdDrW40obR7Qhl8st4m_nmfUKgTVZQn6Eq7fBgRy3CA351PxJlZPuMaW1QWfqfjJqSyB7ocrGNmL_bJ3eV3Iky04BBt1kdead1Df33fcgFAniA9y6c7-gF-L35Q=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:40",
+      "evento": "ATP & WTA 1000 Toronto & Montreal 2026 - 1a giornata",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
+      "note": "Include giocatori italiani (7 ATP, Elisabetta Cocciaretto WTA)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYbqUmI8DXXw9fgEk29QagV_5dwXVAsKh08P2fLOWsjdDrW40obR7Qhl8st4m_nmfUKgTVZQn6Eq7fBgRy3CA351PxJlZPuMaW1QWfqfjJqSyB7ocrGNmL_bJ3eV3Iky04BBt1kdead1Df33fcgFAniA9y6c7-gF-L35Q=",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "14:00",
-      "evento": "Union Berlino - Cagliari",
-      "competizione": "Amichevole Club",
-      "canale": "DAZN Italia",
-      "note": "",
-      "fonte": "https://calciomagazine.net/partite-oggi-domenica-2-agosto-2026-amichevoli-in-primo-piano/",
+      "evento": "Sorteggio Spareggi",
+      "competizione": "UEFA Conference League 2026/27",
+      "canale": "Sky Sport 24 / UEFA.com",
+      "note": "L'Atalanta conoscerà la sua avversaria. Dalla 08:30 saranno definiti i gruppi delle possibili avversarie.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsJ_cMF20t9ewnpq9ehR2CDH508DFRTPa_lel97O22PxEPd_-b4069ijkRDsDFI7WMaLxD3BIysxrLI2LoFNdcetyPPaVM1IKVCk_ontuctIpHFg8lu_NQc_z__obYIvpWZ0QcVmyk-peykFmbyoRBhoBfLb47pj75JlftIwa2TCXwxlN4YRO3zQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM2LIY5IyXOM1NsGl1Vu5xm1ayXkzBwN-ggVjrOm6vyqghx0YrYxqxewWMXYaNAtqQm7NOPGPEf6sr7cDxAecEFmozP-bVlsH3xHvXPm2FyWETzSIZAu7-pCLtJStPUNL-eC2PCdwsVSVXYbiHaR1Siy-NHTk=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Feyenoord - Atalanta",
-      "competizione": "Amichevole Club",
-      "canale": "DAZN Italia",
-      "note": "",
-      "fonte": "https://calciomagazine.net/partite-oggi-domenica-2-agosto-2026-amichevoli-in-primo-piano/",
+      "orario": "14:40",
+      "evento": "ATP & WTA 1000 Toronto & Montreal 2026 - 1a giornata",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
+      "note": "Include giocatori italiani (7 ATP, Elisabetta Cocciaretto WTA)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9kFy9dthebpaTG0pEDHgSF9E6I9ftls42x6O-DSrj1h6ei_RE3Fjmfk9nUtUyO0QsOexTnVdImr-bHOSFWdq1yKE4E7dJNzxP9LdahM3Wcxg_acmhseGDd5vordXj-OdrcjBYpCEnH_UjH6QYv_bxaMY_",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "Burnley - Torino",
-      "competizione": "Amichevole Club",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "https://calciomagazine.net/partite-oggi-domenica-2-agosto-2026-amichevoli-in-primo-piano/",
+      "orario": "17:00",
+      "evento": "ATP & WTA 1000 Toronto & Montreal 2026 - 2a giornata",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena",
+      "note": "Live. Include giocatori italiani (7 ATP, Elisabetta Cocciaretto WTA)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9kFy9dthebpaTG0pEDHgSF9E6I9ftls42x6O-DSrj1h6ei_RE3Fjmfk9nUtUyO0QsOexTnVdImr-bHOSFWdq1yKE4E7dJNzxP9LdahM3Wcxg_acmhseGDd5vordXj-OdrcjBYpCEnH_UjH6QYv_bxaMY_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8JVk_YWFpq_87d7AWMj6_eg-t9uxC18Klp2VojEy23LUkXuEj83yT4fVo6ikx96bSPn1efaR3doIG62g2hKnz08xEBzH0MrxcBvPhTBmeAeGzUA5U46m6XgYNVosaU06UFfA=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00*",
-      "evento": "Matteo Berrettini (Italia) vs Mariano Navone (Argentina)",
-      "competizione": "ATP Masters 1000 Montreal (Canada Open) - Primo Turno",
-      "canale": "Sky Sport Tennis, Sky Sport Arena",
-      "note": "Secondo match dal programma che inizia alle 17:00 CET.",
-      "fonte": "https://sport.sky.it/tennis/2026/08/02/atp-montreal-2026-dove-vedere-canada-open-tv-streaming",
-      "accuratezza_orario": "stimato"
+      "orario": "21:00",
+      "evento": "LIVE WTA 1000 Toronto",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Include giocatrici italiane (Elisabetta Cocciaretto WTA)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8JVk_YWFpq_87d7AWMj6_eg-t9uxC18Klp2VojEy23LUkXuEj83yT4fVo6ikx96bSPn1efaR3doIG62g2hKnz08xEBzH0MrxcBvPhTBmeAeGzUA5U46m6XgYNVosaU06UFfA=",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Ascoli - Lazio",
-      "competizione": "Amichevole Club",
-      "canale": "DAZN Italia, DAZN 1",
-      "note": "",
-      "fonte": "https://calciomagazine.net/partite-oggi-domenica-2-agosto-2026-amichevoli-in-primo-piano/",
+      "orario": "23:00",
+      "evento": "LIVE WTA 1000 Toronto",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Include giocatrici italiane (Elisabetta Cocciaretto WTA)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8JVk_YWFpq_87d7AWMj6_eg-t9uxC18Klp2VojEy23LUkXuEj83yT4fVo6ikx96bSPn1efaR3doIG62g2hKnz08xEBzH0MrxcBvPhTBmeAeGzUA5U46m6XgYNVosaU06UFfA=",
       "accuratezza_orario": "esatto"
     }
   ]
