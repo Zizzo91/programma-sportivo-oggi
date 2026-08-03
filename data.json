@@ -1,113 +1,86 @@
 {
-  "last_updated": "2026-08-03T16:12:04.070631+02:00",
+  "last_updated": "2026-08-03T21:16:29.055395+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Europei Nuoto Artistico: Finale Solo Libero Donne",
-      "competizione": "European Aquatics Championships Paris 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Con Enrica Piccoli (Italia)",
-      "fonte": "OA Sport, ProgrammiTV, Sky Sport",
+      "orario": "19:55",
+      "evento": "Formula 1 - GP Ungheria: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQCOc0wER5fntEanixEvdSVIBw8YQOuLxfIkaXeCNILCACa4lNlLribLvIyeTgigt4rnrWEUljdWpq4rPrQm2CnDwY2dIa45sW8qRbNB8hwaN5g7fQj_qqk5wl1UHdmlCJI-LvEA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:15",
-      "evento": "Europei Nuoto Artistico: Finale Solo Libero Uomini",
-      "competizione": "European Aquatics Championships Paris 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Con Filippo Pelati (Italia)",
-      "fonte": "OA Sport, ProgrammiTV, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Ciclismo: Giro di Polonia, 1a tappa",
-      "competizione": "Giro di Polonia",
-      "canale": "Eurosport 2, DAZN",
-      "note": "Tappa Gdynia-Koszalin",
-      "fonte": "OA Sport, CyclingPro.Net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Europei Tuffi: Preliminari Piattaforma 10m Femminile",
-      "competizione": "European Aquatics Championships Paris 2026",
-      "canale": "Sky Sport Uno, Sky Sport Max, RaiPlay Sport 1 (streaming)",
-      "note": "Con Sarah Jodoin Di Maria, Matilde Marzetti (Italia)",
-      "fonte": "OA Sport, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:25",
-      "evento": "Ciclismo: Tour de France Femmes, 3a tappa",
-      "competizione": "Tour de France Femmes",
-      "canale": "Eurosport 1, DAZN",
-      "note": "Tappa Ginevra-Poligny",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Europei Nuoto Artistico: Finale Team Free",
-      "competizione": "European Aquatics Championships Paris 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Con squadra italiana",
-      "fonte": "OA Sport, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Tennis: ATP Masters 1000 Montreal, 1° Turno",
+      "orario": "23:00*",
+      "evento": "Tennis - ATP Montreal: M. Berrettini vs M. Navone",
       "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena",
-      "note": "Matteo Berrettini (ITA) vs Mariano Navone (ARG)",
-      "fonte": "Sky Sport, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Tennis: ATP Masters 1000 Montreal, 1° Turno",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena",
-      "note": "Lorenzo Sonego (ITA) vs Tallon Griekspoor (NED) - 6° match dalle 17:00",
-      "fonte": "Sky Sport, OA Sport",
+      "canale": "Sky Sport, NOW",
+      "note": "Orario stimato. Partita rinviata per pioggia, con ulteriori ritardi previsti a Montreal.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEZxZfi3fnyvXlLqIkrwohLGc5iBFuVQWTxLm3iAwTY4IrBB__xHNnYd7hv89-UpZofX96U0fYTQKUv0O_-NPygaBWDd8ciVRwEJ0CcmGKidHdDeyokfZEl5Rv_bSRQ8leERzJfKA4wyAxskA-U-R8DEhLU3Z-CL_OSwVGHFZxZT3vD6RPQuX8vaWs7zBbdIqSW29GqVIbhPu6Xd2BJuU93i_h43PWXafbOZI77MzrAEhN3s8FnAUuBOFOgogrnBbkcEPakNMc8eo, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTVB2v4mm2wmFxs6qm0BiVGb-aRMyWgluGxvJYDnzA_O8swRKsaOcpuKUDI5gZpsXqlGj-jO8x61uQ2w_WgxngBS3WvbV3u1F--zCR1J4Yk-w8tUiuSa2x1yXKIIRgyrtGapNJtAmgV3x9-6oLP_uRqE5NLWHQ8_0zeT6MdD3pPXvUnvCj9qJEFqUOtZ50yJek12TpxddPpqBOUlCjVbOCi12FuiswaBs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_CazQ2RMmKfGB-Ord3VhfyxDiyWPDc2jdnkg-RoBiaW6mEBDCrxFYCRD6pSXlE4pD5JygUiBBgqcp2JpsgJbZKw8S9YGp505OLKj3LOrACscfLuHcR8-nrY4dQa5hsENLS2Lj7_ApBSYubh2DscaOUp9srMH9zMkv3EiAmt35nPzMWcLKJmeVhsGJrBtaBPZLb5tZjj4rlc6gauLhkCrGIf5LoliqyhoxYXFDMqZXtVN4pD4s2ee57wpw8w4igAJuO1Vh6QJvVcZfg37_LZZh5c3Ws41gfpFqtljbD90SGfd18Bh5by96Jg==",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:30*",
-      "evento": "Tennis: WTA 1000 Toronto, 1° Turno",
-      "competizione": "WTA 1000 Toronto",
-      "canale": "Sky Sport Tennis, Sky Sport Arena",
-      "note": "Elisabetta Cocciaretto (ITA) vs Talia Gibson (AUS) - Non prima delle 18:30",
-      "fonte": "Sky Sport, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Europei Tuffi: Finale Sincro 3m Maschile",
-      "competizione": "European Aquatics Championships Paris 2026",
-      "canale": "Rai 2, Rai Sport, Sky Sport Uno, Sky Sport Max",
-      "note": "Con Matteo Santoro, Stefano Belotti (Italia)",
-      "fonte": "OA Sport, Sky Sport, ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:15",
-      "evento": "Europei Tuffi: Finale Piattaforma 10m Femminile",
-      "competizione": "European Aquatics Championships Paris 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Eventualmente con Sarah Jodoin Di Maria, Matilde Marzetti (Italia)",
-      "fonte": "OA Sport, Sky Sport, ProgrammiTV",
-      "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Europei Tuffi: Finale Piattaforma 10m Femminile",
-      "competizione": "European Aquatics Championships Paris 2026",
-      "canale": "RaiSport HD",
-      "note": "Replay o trasmissione ritardata",
-      "fonte": "Tv Zam Widget",
+      "evento": "Formula 1 - GP Belgio: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQCOc0wER5fntEanixEvdSVIBw8YQOuLxfIkaXeCNILCACa4lNlLribLvIyeTgigt4rnrWEUljdWpq4rPrQm2CnDwY2dIa45sW8qRbNB8hwaN5g7fQj_qqk5wl1UHdmlCJI-LvEA==",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30*",
+      "evento": "Tennis - WTA Toronto: E. Cocciaretto vs T. Gibson",
+      "competizione": "WTA 1000 Toronto",
+      "canale": "Sky Sport, NOW, SuperTennis",
+      "note": "Orario stimato, secondo match sul Court 1 a Toronto.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEZxZfi3fnyvXlLqIkrwohLGc5iBFuVQWTxLm3iAwTY4IrBB__xHNnYd7hv89-UpZofX96U0fYTQKUv0O_-NPygaBWDd8ciVRwEJ0CcmGKidHdDeyokfZEl5Rv_bSRQ8leERzJfKA4wyAxskA-U-R8DEhLU3Z-CL_OSwVGHFZxZT3vD6RPQuX8vaWs7zBbdIqSW29GqVIbhPu6Xd2BJuU93i_h43PWXafbOZI77MzrAEhN3s8FnAUuBOFOgogrnBbkcEPakNMc8eo",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:45",
+      "evento": "MotoGP - Replica",
+      "competizione": "MotoGP (evento non specificato)",
+      "canale": "Sky Sport MotoGP HD",
+      "note": "Programmazione generica 'sport'.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB6t8l3djy3MbO_N1mgJxvUvnsxHci276OfhUPiI9CNNgsxCTv63EFWxWajzQYA5LKG52-6cSqqxL2tEUo8YInYKCsvtNHlVxChfk_jAwM21Ec_ijt-4EpqBnrZPI8nUp8pPvg0p_1lJN0FnOwHXr6MOXGbUQQ4dPwF7bz",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Formula 1 - GP Ungheria: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQCOc0wER5fntEanixEvdSVIBw8YQOuLxfIkaXeCNILCACa4lNlLribLvIyeTgigt4rnrWEUljdWpq4rPrQm2CnDwY2dIa45sW8qRbNB8hwaN5g7fQj_qqk5wl1UHdmlCJI-LvEA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "MotoGP - Sprint (Replica)",
+      "competizione": "MotoGP (evento non specificato)",
+      "canale": "Sky Sport MotoGP HD",
+      "note": "Replica di una Sprint della MotoGP (riferimento a 'Austin, in Texas').",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB6t8l3djy3MbO_N1mgJxvUvnsxHci276OfhUPiI9CNNgsxCTv63EFWxWajzQYA5LKG52-6cSqqxL2tEUo8YInYKCsvtNHlVxChfk_jAwM21Ec_ijt-4EpqBnrZPI8nUp8pPvg0p_1lJN0FnOwHXr6MOXGbUQQ4dPwF7bz",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:40",
+      "evento": "MotoGP - Gara (Replica)",
+      "competizione": "MotoGP (evento non specificato)",
+      "canale": "Sky Sport MotoGP HD",
+      "note": "Replica di una gara della MotoGP (riferimento a 'Austin, in Texas').",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB6t8l3djy3MbO_N1mgJxvUvnsxHci276OfhUPiI9CNNgsxCTv63EFWxWajzQYA5LKG52-6cSqqxL2tEUo8YInYKCsvtNHlVxChfk_jAwM21Ec_ijt-4EpqBnrZPI8nUp8pPvg0p_1lJN0FnOwHXr6MOXGbUQQ4dPwF7bz",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:45*",
+      "evento": "Tennis - ATP Montreal: L. Sonego vs T. Griekspoor",
+      "competizione": "ATP Masters 1000 Montreal",
+      "canale": "Sky Sport, NOW",
+      "note": "Orario stimato. Partita rinviata per pioggia, con ulteriori ritardi previsti a Montreal.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEZxZfi3fnyvXlLqIkrwohLGc5iBFuVQWTxLm3iAwTY4IrBB__xHNnYd7hv89-UpZofX96U0fYTQKUv0O_-NPygaBWDd8ciVRwEJ0CcmGKidHdDeyokfZEl5Rv_bSRQ8leERzJfKA4wyAxskA-U-R8DEhLU3Z-CL_OSwVGHFZxZT3vD6RPQuX8vaWs7zBbdIqSW29GqVIbhPu6Xd2BJuU93i_h43PWXafbOZI77MzrAEhN3s8FnAUuBOFOgogrnBbkcEPakNMc8eo, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTVB2v4mm2wmFxs6qm0BiVGb-aRMyWgluGxvJYDnzA_O8swRKsaOcpuKUDI5gZpsXqlGj-jO8x61uQ2w_WgxngBS3WvbV3u1F--zCR1J4Yk-w8tUiuSa2x1yXKIIRgyrtGapNJtAmgV3x9-6oLP_uRqE5NLWHQ8_0zeT6MdD3pPXvUnvCj9qJEFqUOtZ50yJek12TpxddPpqBOUlCjVbOCi12FuiswaBs=",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
