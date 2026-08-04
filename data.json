@@ -1,4 +1,113 @@
 {
-  "last_updated": "2026-08-04T03:20:48.099467+02:00",
-  "events": []
+  "last_updated": "2026-08-04T15:43:12.746734+02:00",
+  "events": [
+    {
+      "orario": "09:00",
+      "evento": "Europei Nuoto Artistico 2026: Finale Solo Tecnico Donne",
+      "competizione": "Europei degli sport acquatici Parigi 2026",
+      "canale": "Rai 2 HD, Sky Sport Max (206)",
+      "note": "Partecipazione italiana",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Europei Nuoto di Fondo 2026: 10 km Maschile",
+      "competizione": "Europei degli sport acquatici Parigi 2026",
+      "canale": "Rai 2 HD, Sky Sport Uno (201)",
+      "note": "Con Gregorio Paltrinieri",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Europei Tuffi 2026: Preliminari Trampolino 3 Metri Femminile",
+      "competizione": "Europei degli sport acquatici Parigi 2026",
+      "canale": "Rai 2 HD (fino alle 13:00), Rai Sport (dalle 13:00), Sky Sport Max (206)",
+      "note": "Con Chiara Pellacani ed Elisa Pizzini",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30",
+      "evento": "Europei Nuoto di Fondo 2026: 10 km Femminile",
+      "competizione": "Europei degli sport acquatici Parigi 2026",
+      "canale": "Rai 2 HD, Sky Sport Uno (201)",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio Amichevole: Monza vs Milan Futuro",
+      "competizione": "Amichevole pre-campionato",
+      "canale": "",
+      "note": "Partita del Monza (calcio)",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Calcio Amichevole: Newport County vs Roma",
+      "competizione": "Amichevole pre-campionato",
+      "canale": "DAZN",
+      "note": "Pre-campionato della Roma",
+      "fonte": "Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "Tennis ATP Montreal 2026: Lorenzo Sonego vs Tallon Griekspoor (1° turno)",
+      "competizione": "ATP Masters 1000 Montreal",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Match di un giocatore italiano; orario stimato (terzo match sul campo 5)",
+      "fonte": "Adnkronos",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Europei Tuffi 2026: Finale Sincro 10 Metri Uomini",
+      "competizione": "Europei degli sport acquatici Parigi 2026",
+      "canale": "Rai Sport HD, Sky Sport Uno, Sky Sport Max",
+      "note": "Con Raffaele Pelligra e Simone Conte",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:15",
+      "evento": "Europei Tuffi 2026: Finale Trampolino 3 Metri Femminile",
+      "competizione": "Europei degli sport acquatici Parigi 2026",
+      "canale": "Rai 2 HD, Rai Sport HD, Sky Sport Uno, Sky Sport Max",
+      "note": "Con Chiara Pellacani ed Elisa Pizzini (canali inferiti dalla copertura generale tuffi)",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00 (05/08)",
+      "evento": "Calcio: Vélez Sarsfield vs Independiente",
+      "competizione": "Campionato Argentino (Liga Profesional)",
+      "canale": "Sportitalia, Como TV",
+      "note": "Partita del campionato argentino",
+      "fonte": "Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:30* (05/08)",
+      "evento": "Tennis ATP Montreal 2026: Flavio Cobolli vs Yannick Hanfmann (2° turno)",
+      "competizione": "ATP Masters 1000 Montreal",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Match di un giocatore italiano; orario stimato (secondo match serale)",
+      "fonte": "Adnkronos",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "02:30* (05/08)",
+      "evento": "Tennis ATP Montreal 2026: Luciano Darderi vs Gabriel Diallo (2° turno)",
+      "competizione": "ATP Masters 1000 Montreal",
+      "canale": "Sky Sport Tennis",
+      "note": "Match di un giocatore italiano; orario stimato (non prima delle 03:00 italiane)",
+      "fonte": "Adnkronos",
+      "accuratezza_orario": "stimato"
+    }
+  ]
 }
