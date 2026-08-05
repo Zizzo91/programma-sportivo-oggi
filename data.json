@@ -1,68 +1,77 @@
 {
-  "last_updated": "2026-08-05T10:13:33.982277+02:00",
+  "last_updated": "2026-08-05T15:39:25.915714+02:00",
   "events": [
     {
       "orario": "13:00",
-      "evento": "Milan - Inter",
-      "competizione": "Amichevole estiva",
-      "canale": "Sky Sport Uno, DAZN, DAZN 1 (Sky 214), NOW, Inter TV, OneFootball",
-      "note": "Da Perth, Australia",
-      "fonte": "Sky Sport, DAZN, Tuttomercatoweb.com",
+      "evento": "Milan-Inter",
+      "competizione": "Amichevole pre-campionato",
+      "canale": "DAZN, Sky Sport Uno, NOW, Inter TV, OneFootball",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUKUk3ktlciMFjxYOyeHBDmGl0g6MGZH_lhOwCzlpOVERJnGFpVqW1fdfehlPS72QTVEsyy9dIRXi2uJ_6FxOX8I3kMvfIizRX7OLR1D5exmVb0jB2tu1UMGrFZei5VaaNkCUOREF_zAa8bYvQUMSgevv7O603Jc5ZSNFQrfY8zlVTJKuynoQI9mzmlIQsPbPVLbNfZsvZxeojjA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLJJ5-d4nB-U0NL5KEQ4EO4KFX9PS21XcI9QGFoPx5oxTht7gvyKk0hqfys0lX-Njr55A_cGuufAavG5AkVT5DF5q4NviHgYTiojhP3vnMd1-qrrCjaaV0LW0yC1Oyd97SGTu5puvksnWhdwmClm2OlzdJVBJq6QOT98egWgXU",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:30",
-      "evento": "Chelsea - Juventus",
-      "competizione": "Amichevole estiva (Herbalgy Trophy)",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, DAZN, NOW, Juventus TV",
-      "note": "Da Hong Kong",
-      "fonte": "Sky Sport, DAZN, Tuttomercatoweb.com",
+      "evento": "Chelsea-Juventus",
+      "competizione": "Amichevole pre-campionato (Herbalgy Trophy)",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, NOW, Juventus TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUKUk3ktlciMFjxYOyeHBDmGl0g6MGZH_lhOwCzlpOVERJnGFpVqW1fdfehlPS72QTVEsyy9dIRXi2uJ_6FxOX8I3kMvfIizRX7OLR1D5exmVb0jB2tu1UMGrFZei5VaaNkCUOREF_zAa8bYvQUMSgevv7O603Jc5ZSNFQrfY8zlVTJKuynoQI9mzmlIQsPbPVLbNfZsvZxeojjA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLJJ5-d4nB-U0NL5KEQ4EO4KFX9PS21XcI9QGFoPx5oxTht7gvyKk0hqfys0lX-Njr55A_cGuufAavG5AkVT5DF5q4NviHgYTiojhP3vnMd1-qrrCjaaV0LW0yC1Oyd97SGTu5puvksnWhdwmClm2OlzdJVBJq6QOT98egWgXU",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Lorenzo Musetti vs Nicolas Mejia",
-      "competizione": "ATP Masters 1000 Montreal (2° turno)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Giocatore italiano in campo",
-      "fonte": "Sky Sport, LiveTennis.it, Ubitennis",
+      "evento": "Tennis - Lorenzo Musetti vs Nicolás Mejía",
+      "competizione": "ATP Masters 1000 Montreal (Secondo turno)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Plus, NOW, Tennis Tv",
+      "note": "Match con giocatore italiano.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKIwVjFVeGm7OJABrNTaGf7Nh-5iNc64NW6iHyzHTf5k4bikR1vklC-FTJF57oEXUdGbMYdQaoj4s7WZzj8hDImSZ3e28Bievpu_Z11Z58dpljGo9tDE5-ez3Ix7YHSsc3-nu-L3GWZR5paJm9SafnExmnD3cOp7pQ3fXjz3UsPUqTgeotjsiDqK5IbXemhDgJV8m4eYK7Pxtnbl6kZk4KuNMqxnAsgUiZnD-NJuxOVA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSa5pn_n_STtQGEKW-UcrxhrqQjOOfpfkxlBrWdLgwNSF-k0cgUasIBilhBnhsXEc9rjb7Xan8pqy21NikC4tuWPO6yq-6x4xVPK8YX-sCWbem49V49mcRVoxrdLZgZoKRrmR1bA2daWz2DujdwLq60TAs6G-ZJZAy0c-Fh5Ulajk5JTUyy_9n85yNlE4yg9SHeguTcTD1kRsUR9DCMXfiaGgmCyyx2Jc5xzh1nKW_MqIpECDCEM4RPKQSO-ym-aa0AcA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPDUCHUNsbY72e2hAgteIjoNf428gPppVSQZiYw2SUgDVBHjqP23GggU9qYd1Sibq6l2dPCn_JIk0iy-OtLsF4NTkU_3SkidmejTLyFq8QWUQ93z4Pv9HTosgVQTtE_EfLuu8xmkCLVwhIsICzqZxfTeKLHXmwMA52sXdaPYOlnb5VZz17FJ_aPDiCQEOqFPlANNCgqF2wmpCDVmJz2qZVwfr8eGI2vfySn2nvsMs2-Tg4QXBWOzHCJwo5Xk==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYbPx0Nwm70INF0hoYpup_d46pHCHIaCs_JFjc6Be5R6YdIXg_Op7uVP3loxXsHpZjlaSIY_4ip04tH0zzVwJJoWdcdcij8ZCvB08RuF5cu8Rj-LnVdVEejnbcpz2Q0TaQd9rvStIHiEdSnZIhmNW0LdPyLN1Fv21rXnKAkkMuemzOhCDicDfKwANQVssgnKF2yMQQyN0dBCnZerh7MPiWUyvbiGF1fiqrptWTY_C-5L_iOeemfdCqytlm2itqsFYOvq4WB2gE0E_I",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Lazio - Ostiamare",
-      "competizione": "Amichevole estiva",
+      "evento": "Lazio-Ostiamare",
+      "competizione": "Amichevole pre-campionato",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Tuttomercatoweb.com",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPDUCHUNsbY72e2hAgteIjoNf428gPppVSQZiYw2SUgDVBHjqP23GggU9qYd1Sibq6l2dPCn_JIk0iy-OtLsF4NTkU_3SkidmejTLyFq8QWUQ93z4Pv9HTosgVQTtE_EfLuu8xmkCLVwhIsICzqZxfTeKLHXmwMA52sXdaPYOlnb5VZz17FJ_aPDiCQEOqFPlANNCgqF2wmpCDVmJz2qZVwfr8eGI2vfySn2nvsMs2-Tg4QXBWOzHCJwo5Xk==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUKUk3ktlciMFjxYOyeHBDmGl0g6MGZH_lhOwCzlpOVERJnGFpVqW1fdfehlPS72QTVEsyy9dIRXi2uJ_6FxOX8I3kMvfIizRX7OLR1D5exmVb0jB2tu1UMGrFZei5VaaNkCUOREF_zAa8bYvQUMSgevv7O603Jc5ZSNFQrfY8zlVTJKuynoQI9mzmlIQsPbPVLbNfZsvZxeojjA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Napoli - Osasuna",
-      "competizione": "Amichevole estiva",
-      "canale": "DAZN (Pay-per-view), Sky Sport (canale 251), NOW, OneFootball",
+      "evento": "Napoli-Osasuna",
+      "competizione": "Amichevole pre-campionato",
+      "canale": "DAZN (pay per view), Sky Sport (canale 251), NOW, OneFootball",
       "note": "",
-      "fonte": "Sky Sport, DAZN, Tuttomercatoweb.com",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPDUCHUNsbY72e2hAgteIjoNf428gPppVSQZiYw2SUgDVBHjqP23GggU9qYd1Sibq6l2dPCn_JIk0iy-OtLsF4NTkU_3SkidmejTLyFq8QWUQ93z4Pv9HTosgVQTtE_EfLuu8xmkCLVwhIsICzqZxfTeKLHXmwMA52sXdaPYOlnb5VZz17FJ_aPDiCQEOqFPlANNCgqF2wmpCDVmJz2qZVwfr8eGI2vfySn2nvsMs2-Tg4QXBWOzHCJwo5Xk==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUKUk3ktlciMFjxYOyeHBDmGl0g6MGZH_lhOwCzlpOVERJnGFpVqW1fdfehlPS72QTVEsyy9dIRXi2uJ_6FxOX8I3kMvfIizRX7OLR1D5exmVb0jB2tu1UMGrFZei5VaaNkCUOREF_zAa8bYvQUMSgevv7O603Jc5ZSNFQrfY8zlVTJKuynoQI9mzmlIQsPbPVLbNfZsvZxeojjA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVVA2tNqlswZBFbB9Sh1mt0hATSw_qeGD_NIdNMb2FzUsZd4G-97nM9Z5ggCsz6RXzTadURIisM-yVMIy4_zvMUTNTsJQJp4c77FZ9WP3vQ5ZJkFioj1pfsNXrjx9WZaOq8n2ps-3deHdnCl7Q87Kakr4yCf7qkekArRuZUK_SuelXYRwRo8lqcipJ1wyvGAiBooimek1sC05nbqjragCowW04s1W-aLmFDN4-zz5hoC-UYwxO6FU==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:30",
-      "evento": "Chelsea - Juventus",
-      "competizione": "Amichevole estiva (Herbalgy Trophy)",
-      "canale": "NOVE",
-      "note": "Differita",
-      "fonte": "Tuttomercatoweb.com",
+      "orario": "21:00",
+      "evento": "Calcio Femminile - Juventus Women vs SCU Torreense",
+      "competizione": "UEFA Women's Champions League Qualificazioni (Mini Tournament Semifinale)",
+      "canale": "Juventus Play, YouTube Juventus",
+      "note": "Fase di qualificazione per la UEFA Women's Champions League.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhmXB35CLVxPL_0cWDGT4O3SJiqWsX7rePmwmSM97NZ6tomEWEx4X606xX5OCV8lCPV31_iLjvx_6vffFULzN5WOkQHYSFILt3CIrfTXKNv7h-DJki_ztmfhqKdnxVh9wTNtGbqoI-zmm6MLvLJdcz1J0NaLl2cqKkrXxlBxapE7OI0vZ_wSEBnexS1Fc2DNevGX0DNK75yOTw",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:30*",
-      "evento": "Matteo Arnaldi vs Fabian Marozsan",
-      "competizione": "ATP Masters 1000 Montreal (2° turno)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Giocatore italiano in campo. Orario non prima delle 21:30 CET.",
-      "fonte": "Sky Sport, LiveTennis.it, Ubitennis",
+      "evento": "Tennis - Matteo Arnaldi vs Fabian Marozsan",
+      "competizione": "ATP Masters 1000 Montreal (Secondo turno)",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, Sky Sport Plus, NOW, Tennis Tv",
+      "note": "Orario stimato, non prima delle 21:30. Match con giocatore italiano.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKIwVjFVeGm7OJABrNTaGf7Nh-5iNc64NW6iHyzHTf5k4bikR1vklC-FTJF57oEXUdGbMYdQaoj4s7WZzj8hDImSZ3e28Bievpu_Z11Z58dpljGo9tDE5-ez3Ix7YHSsc3-nu-L3GWZR5paJm9SafnExmnD3cOp7pQ3fXjz3UsPUqTgeotjsiDqK5IbXemhDgJV8m4eYK7Pxtnbl6kZk4KuNMqxnAsgUiZnD-NJuxOVA==, https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQHSa5pn_n_STtQGEKW-UcrxhrqQjOOfpfkxlBrWdLgwNSF-k0cgUasIBilhBnhsXEc9rjb7Xan8pqy21NikC4tuWPO6yq-6x4xVPK8YX-sCWbem49V49mcRVoxrdLZgZoKRrmR1bA2daWz2DujdwLq60TAs6G-ZJZAy0c-Fh5Ulajk5JTUyy_9n85yNlE4yg9SHeguTcTD1kRsUR9DCMXfiaGgmCyyx2Jc5xzh1nKW_MqIpECDCEM4RPKQSO-ym-aa0AcA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPDUCHUNsbY72e2hAgteIjoNf428gPppVSQZiYw2SUgDVBHjqP23GggU9qYd1Sibq6l2dPCn_JIk0iy-OtLsF4NTkU_3SkidmejTLyFq8QWUQ93z4Pv9HTosgVQTtE_EfLuu8xmkCLVwhIsICzqZxfTeKLHXmwMA52sXdaPYOlnb5VZz17FJ_aPDiCQEOqFPlANNCgqF2wmpCDVmJz2qZVwfr8eGI2vfySn2nvsMs2-Tg4QXBWOzHCJwo5Xk==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYbPx0Nwm70INF0hoYpup_d46pHCHIaCs_JFjc6Be5R6YdIXg_Op7uVP3loxXsHpZjlaSIY_4ip04tH0zzVwJJoWdcdcij8ZCvB08RuF5cu8Rj-LnVdVEejnbcpz2Q0TaQd9rvStIHiEdSnZIhmNW0LdPyLN1Fv21rXnKAkkMuemzOhCDicDfKwANQVssgnKF2yMQQyN0dBCnZerh7MPiWUyvbiGF1fiqrptWTY_C-5L_iOeemfdCqytlm2itqsFYOvq4WB2gE0E_I",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Chelsea-Juventus",
+      "competizione": "Amichevole pre-campionato (Herbalgy Trophy)",
+      "canale": "Nove",
+      "note": "Replica/Differita.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUKUk3ktlciMFjxYOyeHBDmGl0g6MGZH_lhOwCzlpOVERJnGFpVqW1fdfehlPS72QTVEsyy9dIRXi2uJ_6FxOX8I3kMvfIizRX7OLR1D5exmVb0jB2tu1UMGrFZei5VaaNkCUOREF_zAa8bYvQUMSgevv7O603Jc5ZSNFQrfY8zlVTJKuynoQI9mzmlIQsPbPVLbNfZsvZxeojjA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLJJ5-d4nB-U0NL5KEQ4EO4KFX9PS21XcI9QGFoPx5oxTht7gvyKk0hqfys0lX-Njr55A_cGuufAavG5AkVT5DF5q4NviHgYTiojhP3vnMd1-qrrCjaaV0LW0yC1Oyd97SGTu5puvksnWhdwmClm2OlzdJVBJq6QOT98egWgXU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF62JRB907th8HWMvheft9g81VzO6C40n_ZkapjgOJqWXsbuJiRFY-LjVeJbqVtZ_7z4LVLuMdbJAyJbi7sABqZpW4Nfnc6PAyPXrioJaoZSnkdAhGtmzxsh1aij1R8CvWwH2-vHgJlJN2OztVfxo17xZjGuGoG-5-Zz45M28jbw7mnn6UVH_rFkyFrHg==",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
