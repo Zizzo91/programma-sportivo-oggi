@@ -1,32 +1,149 @@
 {
-  "last_updated": "2026-08-04T21:17:10.257071+02:00",
+  "last_updated": "2026-08-05T03:25:46.013789+02:00",
   "events": [
     {
-      "orario": "17:00",
-      "evento": "ATP Montreal 2026: Primo e Secondo Turno",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204), Sky Sport Uno (201)",
-      "note": "Incontri con protagonisti italiani (Mattia Bellucci, Lorenzo Sonego, Luciano Darderi, Flavio Cobolli)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVW_XhK2DuE8wtQmIGPRCaCVZFpYPYlZdA-x5Ryfmrap8uUsd_-IVOMlyy-MPjo4cwRkQHlulA5XdItoNqL-cJFUk54qCUK23WpUNUXUFOOb4ALTIKFVu4GceCep9CEprxJ5iUBOYVAyB3Zde2pSGZ1gVSqaB8Q05B4cp1hpm2XKhle9F7TgcF_a3yqAZVWjkbLAgbgBVAWC7dbh0uRjb3FNLa-ddH-_7jcp_Tn0FeynPgLuON5n_P0cFo7JUFa-, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgNX3GE5ttWrVRkEjesOPY_hP0AAfc1FrIcegDr7HKuK1WSsXA35FJKALTrESwYMkiS84gSEK3J7o1tp9RRpyxDvPlEfyUCocgq6fJKk5J0xb7NHGyHF-W46jcs0M2jR8tH_PpvPCTr9IevgsjQDCDZCOhLd8S2JKeTvKPg61XPW7HxH50nA==",
+      "orario": "10:00",
+      "evento": "5 km maschile",
+      "competizione": "European Aquatics Championships - Nuoto acque libere",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "OA Sport, Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00 (05/08)",
-      "evento": "Tennis: Cobolli - Hanfmann (secondo match sessione serale)",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204), Sky Sport Uno (201)",
-      "note": "Match del primo o secondo turno con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgNX3GE5ttWrVRkEjesOPY_hP0AAfc1FrIcegDr7HKuK1WSsXA35FJKALTrESwYMkiS84gSEK3J7o1tp9RRpyxDvPlEfyUCocgq6fJKk5J0xb7NHGyHF-W46jcs0M2jR8tH_PpvPCTr9IevgsjQDCDZCOhLd8S2JKeTvKPg61XPW7HxH50nA==",
-      "accuratezza_orario": "stimato"
+      "orario": "11:30",
+      "evento": "Studio Europei Nuoto",
+      "competizione": "European Aquatics Championships",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00 (05/08)",
-      "evento": "Tennis: Darderi - Diallo (secondo match sessione serale)",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Tennis (203), Sky Sport Arena (204), Sky Sport Uno (201)",
-      "note": "Match del primo o secondo turno con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgNX3GE5ttWrVRkEjesOPY_hP0AAfc1FrIcegDr7HKuK1WSsXA35FJKALTrESwYMkiS84gSEK3J7o1tp9RRpyxDvPlEfyUCocgq6fJKk5J0xb7NHGyHF-W46jcs0M2jR8tH_PpvPCTr9IevgsjQDCDZCOhLd8S2JKeTvKPg61XPW7HxH50nA==",
-      "accuratezza_orario": "stimato"
+      "orario": "13:00",
+      "evento": "Milan - Inter",
+      "competizione": "Amichevole estiva Serie A",
+      "canale": "Sky Sport Uno",
+      "note": "Derby di Milano a Perth",
+      "fonte": "Amichevoli estive di Serie A: calendario partite e risultati | Sky Sport, Amichevoli, ad agosto 2026 prove generali in vista della Serie A: dove vederle in tv, Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Chelsea - Juventus",
+      "competizione": "Amichevole estiva Serie A",
+      "canale": "Sky Sport Calcio",
+      "note": "Herbalgy Trophy a Hong Kong",
+      "fonte": "Amichevoli estive di Serie A: calendario partite e risultati | Sky Sport, Amichevoli, ad agosto 2026 prove generali in vista della Serie A: dove vederle in tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30",
+      "evento": "5 km femminile",
+      "competizione": "European Aquatics Championships - Nuoto acque libere",
+      "canale": "Rai 2 HD, Sky Sport Uno, Sky Sport Max, Sky Sport Arena",
+      "note": "",
+      "fonte": "Calendario Europei nuoto di fondo 2026: orari, programma, tv, streaming - OA Sport, Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Nuoto artistico: Acrobatic Routine Final",
+      "competizione": "European Aquatics Championships",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Napoli - Osasuna",
+      "competizione": "Amichevole estiva Serie A",
+      "canale": "Primafila",
+      "note": "",
+      "fonte": "Amichevoli estive di Serie A: calendario partite e risultati | Sky Sport, Amichevoli, ad agosto 2026 prove generali in vista della Serie A: dove vederle in tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Al Shabab - Al Nassr",
+      "competizione": "Campionato saudita di calcio",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:15",
+      "evento": "European Aquatics Championships",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Tiro a volo",
+      "competizione": "Evento sportivo",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "River Plate - Barracas Central",
+      "competizione": "Campionato argentino di calcio",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "Rally",
+      "competizione": "Evento sportivo",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:45",
+      "evento": "Tg Sport",
+      "competizione": "Notiziario sportivo",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:58",
+      "evento": "Sport Mediaset - La giornata",
+      "competizione": "Rubrica sportiva",
+      "canale": "TGCOM24",
+      "note": "",
+      "fonte": "Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Manchester City-Crystal Palace",
+      "competizione": "Campionato inglese di calcio",
+      "canale": "Sportitalia",
+      "note": "Nella notte tra il 5 e il 6 agosto",
+      "fonte": "Sport in TV mercoledi 05 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Nuoto Artistico: Finale squadra Tecnico",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Raisport HD",
+      "note": "Nella mattina del 6 agosto",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
