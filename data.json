@@ -1,59 +1,50 @@
 {
-  "last_updated": "2026-08-05T21:11:31.458414+02:00",
+  "last_updated": "2026-08-06T10:12:36.583784+02:00",
   "events": [
     {
-      "orario": "13:00",
-      "evento": "Milan - Inter (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN, DAZN 1 (Sky 214), Sky Sport Uno, NOW, Inter TV, OneFootball",
-      "note": "Derby di Milano amichevole estiva",
-      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-5-agosto-2026-milan-inter-e-le-altre-sfide-del-giorno-243831.html, https://www.liberomagazine.it/il-calcio-in-tv-oggi-mercoledi-5-agosto-2026-prima-milan-inter-poi-juventus-lazio-e-napoli-280806, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6kAmYMc1pR1cKkyPzsoE_Eg4XE2wjext79_jz5bsJsYjhXSDBBMk-RiUbewF8MAP13Wf_nPOC2kOuxyi48vAjCx4fImzfSxRBNB-XrK7tv6otoS3gwQ7HVO-7StGHblLNVV5VsQPqGIjUEEF7-pkUB8o",
+      "orario": "12:00",
+      "evento": "Conferenza Stampa Piloti",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Chelsea - Juventus (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, NOW, Juventus TV",
-      "note": "Disponibile anche in differita su Nove alle 21:30",
-      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-5-agosto-2026-milan-inter-e-le-altre-sfide-del-giorno-243831.html, https://www.liberomagazine.it/il-calcio-in-tv-oggi-mercoledi-5-agosto-2026-prima-milan-inter-poi-juventus-lazio-e-napoli-280806",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Tennis: Lorenzo Musetti vs Nicolas Mejia",
-      "competizione": "ATP Masters 1000 Montreal, 2° turno",
-      "canale": "Sky Sport (vari canali), NOW",
-      "note": "Match con giocatore italiano",
-      "fonte": "https://www.livetennis.it/post/455353/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-05-agosto-2026/, https://www.sportface.it/tennis/il-tennis-in-tv-oggi-5-agosto-e-il-giorno-di-musetti-e-arnaldi-a-montreal/2526564, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6kAmYMc1pR1cKkyPzsoE_Eg4XE2wjext79_jz5bsJsYjhXSDBBMk-RiUbewF8MAP13Wf_nPOC2kOuxyi48vAjCx4fImzfSxRBNB-XrK7tv6otoS3gwQ7HVO-7StGHblLNVV5VsQPpGIjUEEF7-pkUB8o, https://www.lottomatica.sport/tennis/atp-masters-1000-montreal-2026-il-programma-di-mercoledi-5-agosto-ecco-quando-giocano-musetti-e-arnaldi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Lazio - Ostiamare (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
-      "note": "Amichevole estiva",
-      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-5-agosto-2026-milan-inter-e-le-altre-sfide-del-giorno-243831.html, https://www.liberomagazine.it/il-calcio-in-tv-oggi-mercoledi-5-agosto-2026-prima-milan-inter-poi-juventus-lazio-e-napoli-280806",
+      "orario": "14:15",
+      "evento": "Paddock Pass",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Napoli - Osasuna (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN, Sky Sport (251), NOW, OneFootball",
-      "note": "Amichevole estiva",
-      "fonte": "https://www.calciomagazine.net/calcio-in-tv-oggi-5-agosto-2026-milan-inter-e-le-altre-sfide-del-giorno-243831.html, https://www.liberomagazine.it/il-calcio-in-tv-oggi-mercoledi-5-agosto-2026-prima-milan-inter-poi-juventus-lazio-e-napoli-280806",
+      "evento": "Tennis: Darderi L. vs Shang J. (R32)",
+      "competizione": "ATP Masters 1000 Montreal",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Italiano in campo",
+      "fonte": "Sky Sport, LiveTennis.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:30",
-      "evento": "Tennis: Matteo Arnaldi vs Fabian Marozsan",
-      "competizione": "ATP Masters 1000 Montreal, 2° turno",
-      "canale": "Sky Sport (vari canali), NOW",
-      "note": "Match con giocatore italiano. Orario 'Non prima di', potrebbe slittare.",
-      "fonte": "https://www.livetennis.it/post/455353/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-05-agosto-2026/, https://www.sportface.it/tennis/il-tennis-in-tv-oggi-5-agosto-e-il-giorno-di-musetti-e-arnaldi-a-montreal/2526564, https://www.lottomatica.sport/tennis/atp-masters-1000-montreal-2026-il-programma-di-mercoledi-5-agosto-ecco-quando-giocano-musetti-e-arnaldi",
+      "orario": "01:00*",
+      "evento": "Tennis: Jodar R. vs Musetti L. (R32)",
+      "competizione": "ATP Masters 1000 Montreal",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Non prima dell'01:00 CET. Italiano in campo.",
+      "fonte": "Sky Sport, LiveTennis.it",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis: Heliovaara/Patten vs Buse/Cobolli (R32)",
+      "competizione": "ATP Masters 1000 Montreal - Doppio",
+      "canale": "Sky Sport Plus",
+      "note": "Italiano in campo (Cobolli). Orario dipendente dai match precedenti.",
+      "fonte": "LiveTennis.it, Sky Sport",
+      "accuratezza_orario": "tba"
     }
   ]
 }
