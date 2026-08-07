@@ -1,212 +1,77 @@
 {
-  "last_updated": "2026-08-07T08:58:37.379501+02:00",
+  "last_updated": "2026-08-07T20:37:41.147162+02:00",
   "events": [
     {
-      "orario": "00:45",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale 3m Sincro femminile + Finale 3m Maschile",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Rai Sport + HD",
+      "orario": "11:00",
+      "evento": "Prove Libere 1",
+      "competizione": "Moto3 - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP (208), NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2slrbgO9_cNhcsHQ4tQZPhe_aGXoAxLEjOV_Py5ffZU1YAaOAqweN-kz-TUmJgsh55yarVcEXPJgshs5C_NHjwmyJaWBf16_WXYQEqZoxzUKbWe-Enao0IbngZ0kj4I2uypWdpHdVNRNRfAFtfW9suKqP9a0HxivaH9NuboryIGqU1N7jhquq_CTz4puGkDkFQQv-mLEIA==",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "Mondiale Motocross 2026 - GP Fiandre: MX2 - gara 2",
-      "competizione": "Mondiale Motocross",
-      "canale": "Rai Sport + HD",
+      "orario": "12:45",
+      "evento": "Prove Libere 1",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP (208), NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2slrbgO9_cNhcsHQ4tQZPhe_aGXoAxLEjOV_Py5ffZU1YAaOAqweN-kz-TUmJgsh55yarVcEXPJgshs5C_NHjwmyJaWBf16_WXYQEqZoxzUKbWe-Enao0IbngZ0kj4I2uypWdpHdVNRNRfAFtfW9suKqP9a0HxivaH9NuboryIGqU1N7jhquq_CTz4puGkDkFQQv-mLEIA==",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00",
-      "evento": "Mondiale Motocross 2026 - GP Fiandre: MXGP - gara 2",
-      "competizione": "Mondiale Motocross",
-      "canale": "Rai Sport + HD",
+      "orario": "16:05",
+      "evento": "Pre-Qualifiche",
+      "competizione": "Moto2 - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP (208), NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2slrbgO9_cNhcsHQ4tQZPhe_aGXoAxLEjOV_Py5ffZU1YAaOAqweN-kz-TUmJgsh55yarVcEXPJgshs5C_NHjwmyJaWBf16_WXYQEqZoxzUKbWe-Enao0IbngZ0kj4I2uypWdpHdVNRNRfAFtfW9suKqP9a0HxivaH9NuboryIGqU1N7jhquq_CTz4puGkDkFQQv-mLEIA==",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Giro di Castelbuono 2026",
-      "competizione": "Atletica Leggera",
-      "canale": "Rai Sport + HD",
+      "orario": "17:00",
+      "evento": "Prove (Pomeriggio)",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP (208), NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2slrbgO9_cNhcsHQ4tQZPhe_aGXoAxLEjOV_Py5ffZU1YAaOAqweN-kz-TUmJgsh55yarVcEXPJgshs5C_NHjwmyJaWBf16_WXYQEqZoxzUKbWe-Enao0IbngZ0kj4I2uypWdpHdVNRNRfAFtfW9suKqP9a0HxivaH9NuboryIGqU1N7jhquq_CTz4puGkDkFQQv-mLEIA==",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "FIA Karting European Championship 2026 - Sarno",
-      "competizione": "Karting",
-      "canale": "Sky Sport Arena",
+      "orario": "18:30",
+      "evento": "Matteo Arnaldi vs Tallon Griekspoor",
+      "competizione": "ATP Masters 1000 Canadian Open (Montreal) - Terzo Turno",
+      "canale": "Sky Sport Tennis, Sky Sport Uno (201), NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDibhlKmTkOXsN7niO34Jr0PgJHs6Q4_lhQFLP7D1UmKWdlnvAkn1T1O3ggK9BsCjfSPPDnNZ_A2h7dqQ672UaD9bZOsTU60_CW0otcOdFJNaYfA77xlVRkcQNv_H2in4iRdDZ5ygWJ__duqTmyvt4Rw1DBB8=",
+      "fonte": "Sky Sport, TennisTalker Magazine, LaPresse",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "07:30",
-      "evento": "Mondiali U20 2026 - Finali 2a giornata (da Eugene)",
-      "competizione": "Atletica Leggera",
-      "canale": "Rai Sport HD",
+      "orario": "18:30",
+      "evento": "Simone Bolelli/Andrea Vavassori vs Orlando Luz/Rafael Matos",
+      "competizione": "ATP Masters 1000 Canadian Open (Montreal) - Doppio",
+      "canale": "Sky Sport Arena, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1A6e_33vGD8PqY9efZp_LdR64OhCtjN47NDDHkt96OXp6NQOi4fNNXwK3iUCkgYtvy_6YXobVKegR42ee1HUXmrbJwtabZ8Yh0AJd1Jr_wMJd6u34VWzH5YSTzjc0Yc-v52ZzJEls55iw1rmp1rI1RQ==",
+      "fonte": "Sky Sport, TennisTalker Magazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "08:00",
-      "evento": "Diamond League 2026 - Londra",
-      "competizione": "Atletica Leggera",
-      "canale": "Sky Sport Arena",
+      "orario": "20:30",
+      "evento": "Sara Errani/Nicole Melichar Martinez vs McCartney Kessler/Jessica Pegula",
+      "competizione": "WTA 1000 Canadian Open (Toronto) - Doppio",
+      "canale": "SuperTennis, Sky Sport Uno (201), Sky Sport Tennis (203), NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDibhlKmTkOXsN7niO34Jr0PgJHs6Q4_lhQFLP7D1UmKWdlnvAkn1T1O3ggK9BsCjfSPPDnNZ_A2h7dqQ672UaD9bZOsTU60_CW0otcOdFJNaYfA77xlVRkcQNv_H2in4iRdDZ5ygWJ__duqTmyvt4Rw1DBB8=",
+      "fonte": "TennisTalker Magazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:00",
-      "evento": "FIA World Rally Championship 2026 - Finlandia Live Stage 6",
-      "competizione": "Rally",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDibhlKmTkOXsN7niO34Jr0PgJHs6Q4_lhQFLP7D1UmKWdlnvAkn1T1O3ggK9BsCjfSPPDnNZ_A2h7dqQ672UaD9bZOsTU60_CW0otcOdFJNaYfA77xlVRkcQNv_H2in4iRdDZ5ygWJ__duqTmyvt4Rw1DBB8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Campionati Italiani 2026 - 2a giornata (da Firenze)",
-      "competizione": "Atletica Leggera",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1A6e_33vGD8PqY9efZp_LdR64OhCtjN47NDDHkt96OXp6NQOi4fNNXwK3iUCkgYtvy_6YXobVKegR42ee1HUXmrbJwtabZ8Yh0AJd1Jr_wMJd6u34VWzH5YSTzjc0Yc-v52ZzJEls55iw1rmp1rI1RQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:30",
-      "evento": "FIA Karting European Championship 2026 - Sarno",
-      "competizione": "Karting",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDibhlKmTkOXsN7niO34Jr0PgJHs6Q4_lhQFLP7D1UmKWdlnvAkn1T1O3ggK9BsCjfSPPDnNZ_A2h7dqQ672UaD9bZOsTU60_CW0otcOdFJNaYfA77xlVRkcQNv_H2in4iRdDZ5ygWJ__duqTmyvt4Rw1DBB8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "European Aquatics Parigi 2026 - Tuffi Grandi Altezze Women's 20m R1-R2",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-QeAGWLK4FZpCRH9hay9aiJ6ZGPGbJEa62IfH6-WaNwDAJSikYlQzp2zuysrpzN1XTbLfmr7TzRoe-EY5jWFn0ViVC3uK1gDvDwjhQZx3-xBLvL59K_X51gAj7IS00V2jG9qni4fIBJtHSqFtytJ2IEgzli00ZFwZnvvKu-w=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:15",
-      "evento": "Mondiali U20 2026 - Finali 2a giornata (da Eugene)",
-      "competizione": "Atletica Leggera",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1A6e_33vGD8PqY9efZp_LdR64OhCtjN47NDDHkt96OXp6NQOi4fNNXwK3iUCkgYtvy_6YXobVKegR42ee1HUXmrbJwtabZ8Yh0AJd1Jr_wMJd6u34VWzH5YSTzjc0Yc-v52ZzJEls55iw1rmp1rI1RQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "European Aquatics Parigi 2026 - Tuffi Grandi Altezze Men's 20m R1-R2",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-QeAGWLK4FZpCRH9hay9aiJ6ZGPGbJEa62IfH6-WaNwDAJSikYlQzp2zuysrpzN1XTbLfmr7TzRoe-EY5jWFn0ViVC3uK1gDvDwjhQZx3-xBLvL59K_X51gAj7IS00V2jG9qni4fIBJtHSqFtytJ2IEgzli00ZFwZnvvKu-w=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "MotoGP GP Gran Bretagna 2026 - Prove Libere",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Eventi principali del GP dal 7 al 9 agosto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPpIzshkngiqaLFrlfk7BvTmoNmtuG0jXEuLtwO9iaK7BuTlZVcGIUwBqcv6PwZAWBlItQS2S2paZfOFwYzzV0xTP4idasLo6bVhpKnDVT5LSOCwDQQDrlUYnKbdCIL7fwb8y7aBQPqmB_1gdIQO9OTZLMhIAfbRW895AmX2KbUKkQDPIlNwUll0J5u5OCB6PckfLF063oYDmGp9nm5TsrV5_rQa32ruSrs6N1Jw==",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "QPR - Fiorentina (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl-4O8BZk-Uvy-lkdWINBOKGfneKgkZNrXQry4gso0_W6zWFw78dcyt62q-lXUpt-2JEu5N7K2_6mDUcs0nsM7fF8wGbTXYTpne3hpLwftD82ECe6N3hB6ETE=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Napoli - Arezzo (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl-4O8BZk-Uvy-lkdWINBOKGfneKgkZNrXQry4gso0_W6zWFw78dcyt62q-lXUpt-2JEu5N7K2_6mDUcs0nsM7fF8wGbTXYTpne3hpLwftD82ECe6N3hB6ETE=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "SV Aasen 1928 - Inter (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl-4O8BZk-Uvy-lkdWINBOKGfneKgkZNrXQry4gso0_W6zWFw78dcyt62q-lXUpt-2JEu5N7K2_6mDUcs0nsM7fF8wGbTXYTpne3hpLwftD82ECe6N3hB6ETE=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Frosinone - Lazio (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl-4O8BZk-Uvy-lkdWINBOKGfneKgkZNrXQry4gso0_W6zWFw78dcyt62q-lXUpt-2JEu5N7K2_6mDUcs0nsM7fF8wGbTXYTpne3hpLwftD82ECe6N3hB6ETE=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Borussia Dortmund Women - Roma (Amichevole)",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl-4O8BZk-Uvy-lkdWINBOKGfneKgkZNrXQry4gso0_W6zWFw78dcyt62q-lXUpt-2JEu5N7K2_6mDUcs0nsM7fF8wGbTXYTpne3hpLwftD82ECe6N3hB6ETE=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Coppa del Mondo 2026 - Skeet (da Hangzhou)",
-      "competizione": "Tiro a Volo",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1A6e_33vGD8PqY9efZp_LdR64OhCtjN47NDDHkt96OXp6NQOi4fNNXwK3iUCkgYtvy_6YXobVKegR42ee1HUXmrbJwtabZ8Yh0AJd1Jr_wMJd6u34VWzH5YSTzjc0Yc-v52ZzJEls55iw1rmp1rI1RQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "LIV Golf New York - Day 1",
-      "competizione": "Golf",
-      "canale": "Eurosport*",
-      "note": "Orario stimato in base alla fascia oraria indicata per Eurosport. Sarà trasmesso anche su DAZN.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNrzRvl3e2qUaPr0A6KLCnV-nVp5IxO39mFE7uGma1LNvj0fAXe8BpHY_4bkHYEBsZFOHs-26KLJARPhrcS2JJQfWwBA3kqSbsJdN-UmGphiDKJgqvyGSNhnZzX9vLycQUrcxfhJvOg-rSY-beOu8jLngK9AYmsAlasLjLRDhACnEjshBCsCdw==",
+      "orario": "20:30*",
+      "evento": "Lorenzo Musetti/Matteo Arnaldi vs Karen Khachanov/Andrey Rublev",
+      "competizione": "ATP Masters 1000 Canadian Open (Montreal) - Doppio",
+      "canale": "Sky Sport Arena, NOW",
+      "note": "A seguire dopo Bolelli/Vavassori.",
+      "fonte": "Sky Sport, TennisTalker Magazine",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "22:30",
-      "evento": "Coppa del Mondo 2026 - Trap Misto (da Hangzhou)",
-      "competizione": "Tiro a Volo",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1A6e_33vGD8PqY9efZp_LdR64OhCtjN47NDDHkt96OXp6NQOi4fNNXwK3iUCkgYtvy_6YXobVKegR42ee1HUXmrbJwtabZ8Yh0AJd1Jr_wMJd6u34VWzH5YSTzjc0Yc-v52ZzJEls55iw1rmp1rI1RQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Coppa del Mondo 2026 - Fossa Olimpica (da Hangzhou)",
-      "competizione": "Tiro a Volo",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1A6e_33vGD8PqY9efZp_LdR64OhCtjN47NDDHkt96OXp6NQOi4fNNXwK3iUCkgYtvy_6YXobVKegR42ee1HUXmrbJwtabZ8Yh0AJd1Jr_wMJd6u34VWzH5YSTzjc0Yc-v52ZzJEls55iw1rmp1rI1RQ==",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
