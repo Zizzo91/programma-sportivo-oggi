@@ -1,86 +1,77 @@
 {
-  "last_updated": "2026-08-07T01:48:23.366264+02:00",
+  "last_updated": "2026-08-07T04:02:31.910727+02:00",
   "events": [
     {
-      "orario": "13:30",
-      "evento": "European Aquatics Parigi 2026 - Tuffi Grandi Altezze Women's 20m R1-R2",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Sky Sport Uno",
+      "orario": "11:00",
+      "evento": "Prove Libere 1 Moto3",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAVxYBGF5VOEu05VqAdjwP8lZCXapkJTGSloRsdDmJn-ilEAB9ECjFYjiEmjKFAxPAP8lxixzwSfuAeujXYV0jz-7x4fdlvyOOVy08LPOYFv9-_Ac0bQngDLMB7uFHjBUdYcl9jnhSvUlJ8bajiiqClNzdrEkGiPjE_mH7xoc=",
+      "fonte": "https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-gran-bretagna-2026-diretta-su-sky-differita-su-tv8-silverstone-69634.html, https://www.motograndprix.it/motogp-orari-tv-sky-e-tv8-del-gp-di-gran-bretagna-2026-a-silverstone/, https://sport.sky.it/motogp/2026/08/06/motogp-gp-silverstone-orari-tv-gara-gran-bretagna",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "European Aquatics Parigi 2026 - Tuffi Grandi Altezze Men's 20m R1-R2",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Sky Sport Uno",
+      "orario": "11:50",
+      "evento": "Prove Libere 1 Moto2",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAVxYBGF5VOEu05VqAdjwP8lZCXapkJTGSloRsdDmJn-ilEAB9ECjFYjiEmjKFAxPAP8lxixzwSfuAeujXYV0jz-7x4fdlvyOOVy08LPOYFv9-_Ac0bQngDLMB7uFHjBUdYcl9jnhSvUlJ8bajiiqClNzdrEkGiPjE_mH7xoc=",
+      "fonte": "https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-gran-bretagna-2026-diretta-su-sky-differita-su-tv8-silverstone-69634.html, https://www.motograndprix.it/motogp-orari-tv-sky-e-tv8-del-gp-di-gran-bretagna-2026-a-silverstone/, https://sport.sky.it/motogp/2026/08/06/motogp-gp-silverstone-orari-tv-gara-gran-bretagna",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:15",
-      "evento": "FIFA World Cup 2026 - Finale: Spagna - Argentina (Replica)",
-      "competizione": "FIFA World Cup 2026",
-      "canale": "Rai Sport HD",
-      "note": "Replica della finale del Mondiale di calcio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYYfYPF0JAzPF5hszsEImF_W_CyA4Wq5vdfDvNq6iwWbpsBHdD4YbmezGXDkokIlDqWmHAlt0rSMuexqd1fjQQ6vklnwHbTJ1sO8jJ0O1Ot101Kw8Es4w353Iz0kaPkr2DQl3mIAv9V3KCvdIFZUD_rK4Op0SrjzE-ErFM",
+      "orario": "12:45",
+      "evento": "Prove Libere 1 MotoGP",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-gran-bretagna-2026-diretta-su-sky-differita-su-tv8-silverstone-69634.html, https://www.motograndprix.it/motogp-orari-tv-sky-e-tv8-del-gp-di-gran-bretagna-2026-a-silverstone/, https://sport.sky.it/motogp/2026/08/06/motogp-gp-silverstone-orari-tv-gara-gran-bretagna",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:15",
+      "evento": "Prove 1 Moto3",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-gran-bretagna-2026-diretta-su-sky-differita-su-tv8-silverstone-69634.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:05",
+      "evento": "Prove 1 Moto2",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-gran-bretagna-2026-diretta-su-sky-differita-su-tv8-silverstone-69634.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Prove / Pre-qualifiche MotoGP",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "https://www.formulapassion.it/motorsport/motogp/orari-tv-gp-gran-bretagna-2026-diretta-su-sky-differita-su-tv8-silverstone-69634.html, https://sport.sky.it/motogp/2026/08/06/motogp-gp-silverstone-orari-tv-gara-gran-bretagna",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Tennis (ATP Montreal): Matteo Arnaldi (ITA) vs Tallon Griekspoor (NED) - Terzo turno singolare",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Sport Uno",
-      "note": "6a giornata del torneo. Orario convertito da EDT (Montreal) a CET. Copertura generale del torneo a partire dalle 18:30.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXIPr7ZOxgBk8vwihpppNepSrXtYob9xRaCQ-1oaJDRVhGGtXPebAQXkXDRxFT264y0VB-2FmtVei4wRuehcNEkETGNVSNtrzJg75iUnwqPNajb7k9g6Fw7vMkqKUYHyYEAFkT0HGDOa1uhmHU4OtqL5fFmDd-cUH_4fmq_zOzv3xvPGNJ4FB1tklkIIzeiwk4VdPKzA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkBDHkeacUCZlX0oSNJhYOjw3mphONPllLtoJuqEi7GkMuOIxzmd_lvwhkcP94efCXCx5nceBZg94N-FOV-dRTSpguvoWU7vYXv_4hPah8BUGQaZnNNwp1Rs840HYQWxrTBSiV6wVCrTFTRv7scuLp-PT14iKoquQ91HFn2dZZaAerjzwtCRQlwjImauX70HoZlMTwb8AlBmUCg18oUge6PaTlrN7zWQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtzXNp-w0zRjv1tsGJimytwZ2hHPiy9z76Oj5Ej1Jdw91KIhcvhBKowVCnnsekD0MawQAaPlOsV52ah4lC04iOheLLVXfmY0ayl-7N0PpYZAzK3s6klbArJfCq24QeZ04wp2J9zqhjemJa6UgWDwBo9vKbipe8pvSxm5mrG8Vj28qIdxLEnnT8a9PqEg6RG2-8OsSML9Goy6ADYsVDsWGIvulfh7bEjoVmYsr7ILuipnh4",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Tennis (ATP Montreal): Simone Bolelli (ITA) / Andrea Vavassori (ITA) vs Orlando Luz / Rafael Matos (BRA) - Doppio",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Sport Uno",
-      "note": "6a giornata del torneo. Orario convertito da EDT (Montreal) a CET. Copertura generale del torneo a partire dalle 18:30.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXIPr7ZOxgBk8vwihpppNepSrXtYob9xRaCQ-1oaJDRVhGGtXPebAQXkXDRxFT264y0VB-2FmtVei4wRuehcNEkETGNVSNtrzJg75iUnwqPNajb7k9g6Fw7vMkqKUYHyYEAFkT0HGDOa1uhmHU4OtqL5fFmDd-cUH_4fmq_zOzv3xvPGNJ4FB1tklkIIzeiwk4VdPKzA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtzXNp-w0zRjv1tsGJimytwZ2hHPiy9z76Oj5Ej1Jdw91KIhcvhBKowVCnnsekD0MawQAaPlOsV52ah4lC04iOheLLVXfmY0ayl-7N0PpYZAzK3s6klbArJfCq24QeZ04wp2J9zqhjemJa6UgWDwBo9vKbipe8pvSxm5mrG8Vj28qIdxLEnnT8a9PqEg6RG2-8OsSML9Goy6ADYsVDsWGIvulfh7bEjoVmYsr7ILuipnh4",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00*",
-      "evento": "Tennis (ATP Montreal): Lorenzo Musetti (ITA) vs Jodar (ESP) - Terzo turno singolare",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Sport Uno",
-      "note": "Orario stimato ('non prima delle') per l'inizio del match nella notte tra il 7 e l'8 agosto. Orario convertito da EDT (Montreal) a CET. Copertura generale del torneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVs6jOFyWLEu9Op-AjvZ4jjbruTe5hg7i9eVQ2CErBrc2VBjnPDRjgNWlRCQ_OPLjhgqsUXXwB_Jd4rNObIzFrDp3N2p4ze79QK3IoWQqaBLSFU87J21znG56n3cPgACVqvEvJi_0_EnO1NtnNWgDjxtkkjlCJ8ApQlxJ7NblR3dRBTg4Wjc60NIHe7gO5lGmai6kKR_ie5ziJyW8qnW6EDqpS6czzMoGx_9bdmpqOI6ZaA8QHQR1qNPV6nJhSiJ8=",
+      "evento": "ATP/WTA 1000 Toronto & Montreal - Terzo turno singolare (uomini e donne)",
+      "competizione": "Tennis - Canadian Open 2026",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Arena",
+      "note": "Con diversi giocatori italiani in campo (es. Lorenzo Musetti, Flavio Cobolli, Luciano Darderi, Matteo Arnaldi, Mattia Bellucci, Matteo Berrettini, Lorenzo Sonego, Elisabetta Cocciaretto).",
+      "fonte": "https://sport.sky.it/tennis/2026/08/01/tennis-tv-atp-montreal-wta-toronto-sky-now, https://www.olympics.com/it/notizie/lorenzo-musetti-rafael-jodar-canadian-open-2026-quando-gioca-montreal-orario-dove-vedere, https://www.olympics.com/it/notizie/tabellone-montreal-2026-chi-gioca-lorenzo-musetti-italiani-canadian-open-tennis, https://www.superguidatv.it/sky-sport-uno/programmi-tv-palinsesto/venerdi-7-agosto/",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "00:45",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale 3m Sincro femminile + Finale 3m Maschile",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Rai Sport +HD",
-      "note": "Nella notte tra il 7 e l'8 agosto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63Y3kUAU0DianGqi-ZW1tUPbb3r7pa9Fp44ghwrpAJSd-075kohzygD-PSNP6trgVOTTCLiIUekAQERsfE8uK1A_Bc0hsW_sfNAp1FfQ1fODV9fcTm5RcCZj-_yaM2IR87dX2IbF9PIEUuOmkXkVsIGfplxMXeyZuPjdvvpqbw7_OXgWeiVamYA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Mondiale Motocross 2026 - GP Fiandre: MX2 - gara 2",
-      "competizione": "Mondiale Motocross 2026",
-      "canale": "Rai Sport +HD",
-      "note": "Replica/Differita. Nella notte tra il 7 e l'8 agosto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63Y3kUAU0DianGqi-ZW1tUPbb3r7pa9Fp44ghwrpAJSd-075kohzygD-PSNP6trgVOTTCLiIUekAQERsfE8uK1A_Bc0hsW_sfNAp1FfQ1fODV9fcTm5RcCZj-_yaM2IR87dX2IbF9PIEUuOmkXkVsIGfplxMXeyZuPjdvvpqbw7_OXgWeiVamYA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Mondiale Motocross 2026 - GP Fiandre: MXGP - gara 2",
-      "competizione": "Mondiale Motocross 2026",
-      "canale": "Rai Sport +HD",
-      "note": "Replica/Differita. Nella notte tra il 7 e l'8 agosto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63Y3kUAU0DianGqi-ZW1tUPbb3r7pa9Fp44ghwrpAJSd-075kohzygD-PSNP6trgVOTTCLiIUekAQERsfE8uK1A_Bc0hsW_sfNAp1FfQ1fODV9fcTm5RcCZj-_yaM2IR87dX2IbF9PIEUuOmkXkVsIGfplxMXeyZuPjdvvpqbw7_OXgWeiVamYA==",
-      "accuratezza_orario": "esatto"
+      "orario": "01:00*",
+      "evento": "Lorenzo Musetti vs Rafael Jodar - Terzo turno singolare",
+      "competizione": "Tennis - ATP Masters 1000 Montreal 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "L'incontro non inizierà prima dell'orario indicato.",
+      "fonte": "https://www.oasport.it/2026/08/musetti-jodar-oggi-atp-montreal-programma-orario-dinizio-tv-streaming/, https://www.olympics.com/it/notizie/lorenzo-musetti-rafael-jodar-canadian-open-2026-quando-gioca-montreal-orario-dove-vedere",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
