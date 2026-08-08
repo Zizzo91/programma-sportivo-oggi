@@ -1,77 +1,329 @@
 {
-  "last_updated": "2026-08-07T20:37:41.147162+02:00",
+  "last_updated": "2026-08-08T08:32:45.387214+02:00",
   "events": [
     {
+      "orario": "03:00",
+      "evento": "Amichevole: Juventus - Inter",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, Sky Sport Uno, Inter TV, Juventus TV, OneFootball",
+      "note": "Giocata a Perth, orario italiano indicato dalla fonte.",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale 3m Sincro femminile + Finale 3m Maschile",
+      "competizione": "Tuffi",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:30",
+      "evento": "Mondiali U20 2026 - Finali 3a giornata (da Eugene)",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Campionati Italiani Assoluti Firenze 2026 - 2a giornata",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "11:00",
-      "evento": "Prove Libere 1",
-      "competizione": "Moto3 - GP Gran Bretagna",
-      "canale": "Sky Sport MotoGP (208), NOW",
-      "note": "",
-      "fonte": "OA Sport",
+      "evento": "FIFA World Cup 2026 (Speciale/Replica)",
+      "competizione": "Calcio",
+      "canale": "Rai Sport HD",
+      "note": "Speciale o replica sul Mondiale 2026.",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:45",
-      "evento": "Prove Libere 1",
-      "competizione": "MotoGP - GP Gran Bretagna",
-      "canale": "Sky Sport MotoGP (208), NOW",
+      "orario": "12:10",
+      "evento": "GP Gran Bretagna: Prove Libere 3",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion",
+      "fonte": "Calendario MotoGP 2026: date e orari Gp - Sky Sport, MotoGP 2026: Calendario e Orari, dirette TV Sky e TV8 - FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:05",
-      "evento": "Pre-Qualifiche",
-      "competizione": "Moto2 - GP Gran Bretagna",
-      "canale": "Sky Sport MotoGP (208), NOW",
+      "orario": "12:50",
+      "evento": "GP Gran Bretagna: Qualifiche",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "OA Sport",
+      "fonte": "Calendario MotoGP 2026: date e orari Gp - Sky Sport, MotoGP 2026: Calendario e Orari, dirette TV Sky e TV8 - FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "European Aquatics Parigi 2026 - Tuffi da grandi altezze",
+      "competizione": "Tuffi",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Amichevole: Chelsea - Milan",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, Sky Sport Calcio, NOW",
+      "note": "Giocata a Jakarta, orario italiano indicato dalla fonte.",
+      "fonte": "Calciomagazine, Amichevoli estive su DAZN, Amichevoli, ad agosto 2026 prove generali in vista della Serie A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Mondiali U20 Eugene 2026 - Finali 2a giornata",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Amichevole: Brighton - Roma",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine, Streaming calcio in diretta e palinsesto TV: Sabato 8 agosto, 2026, Amichevoli estive su DAZN, Amichevoli, ad agosto 2026 prove generali in vista della Serie A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:55",
+      "evento": "GP Gran Bretagna: Sprint Race",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta su TV8.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Calendario MotoGP 2026: date e orari Gp - Sky Sport, MotoGP 2026: Calendario e Orari, dirette TV Sky e TV8 - FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Prove (Pomeriggio)",
-      "competizione": "MotoGP - GP Gran Bretagna",
-      "canale": "Sky Sport MotoGP (208), NOW",
+      "evento": "Amichevole: Schalke 04 - Atalanta",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "FormulaPassion",
+      "fonte": "Calciomagazine, Streaming calcio in diretta e palinsesto TV: Sabato 8 agosto, 2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:15",
+      "evento": "Italian Bowl",
+      "competizione": "Football Americano",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:45",
+      "evento": "MotoGP Paddock Live Show",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:25",
+      "evento": "Mondiali 2026 - Finale: Spagna-Argentina (Replica)",
+      "competizione": "Calcio",
+      "canale": "Rai Sport",
+      "note": "Replica della finale del Mondiale 2026.",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Matteo Arnaldi vs Tallon Griekspoor",
-      "competizione": "ATP Masters 1000 Canadian Open (Montreal) - Terzo Turno",
-      "canale": "Sky Sport Tennis, Sky Sport Uno (201), NOW",
+      "evento": "Amichevole: Brest - Venezia",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN Italia",
       "note": "",
-      "fonte": "Sky Sport, TennisTalker Magazine, LaPresse",
+      "fonte": "Calciomagazine, Streaming calcio in diretta e palinsesto TV: Sabato 8 agosto, 2026",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Simone Bolelli/Andrea Vavassori vs Orlando Luz/Rafael Matos",
-      "competizione": "ATP Masters 1000 Canadian Open (Montreal) - Doppio",
-      "canale": "Sky Sport Arena, NOW",
+      "orario": "20:00",
+      "evento": "Amichevole: Udinese - Nottingham Forest",
+      "competizione": "Calcio Amichevole (Friuli Venezia Giulia Cup)",
+      "canale": "",
       "note": "",
-      "fonte": "Sky Sport, TennisTalker Magazine",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "Sara Errani/Nicole Melichar Martinez vs McCartney Kessler/Jessica Pegula",
-      "competizione": "WTA 1000 Canadian Open (Toronto) - Doppio",
-      "canale": "SuperTennis, Sky Sport Uno (201), Sky Sport Tennis (203), NOW",
+      "evento": "Amichevole: Genoa - Deportivo La Coruña",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN Italia",
       "note": "",
-      "fonte": "TennisTalker Magazine",
+      "fonte": "Calciomagazine, Streaming calcio in diretta e palinsesto TV: Sabato 8 agosto, 2026",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30*",
-      "evento": "Lorenzo Musetti/Matteo Arnaldi vs Karen Khachanov/Andrey Rublev",
-      "competizione": "ATP Masters 1000 Canadian Open (Montreal) - Doppio",
-      "canale": "Sky Sport Arena, NOW",
-      "note": "A seguire dopo Bolelli/Vavassori.",
-      "fonte": "Sky Sport, TennisTalker Magazine",
-      "accuratezza_orario": "stimato"
+      "orario": "20:30",
+      "evento": "Amichevole: Avellino - Torino",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Calciomagazine, Streaming calcio in diretta e palinsesto TV: Sabato 8 agosto, 2026",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Amichevole: Cagliari - Nizza",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine, Amichevoli estive su DAZN",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Coppa del Mondo - Hangzhou: Skeet",
+      "competizione": "Tiro a Volo",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it, Sabato su Rai Sport - Tutti i programmi di Rai Sport del 08-08-2026 - ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Amichevole: Napoli - Celta Vigo",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, Sky (Pay Per View)",
+      "note": "",
+      "fonte": "Calciomagazine, Amichevoli estive su DAZN",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Amichevole: Barcellona - Nottingham Forest",
+      "competizione": "Calcio Amichevole (Friuli Venezia Giulia Cup)",
+      "canale": "",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "WTA 1000 Toronto (Replica)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Non è confermata la presenza di giocatrici italiane.",
+      "fonte": "Sport in TV sabato 08 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Amichevole: Chelsea - Milan (Differita)",
+      "competizione": "Calcio Amichevole",
+      "canale": "Nove",
+      "note": "Differita della partita delle 14:00.",
+      "fonte": "Calciomagazine, Sport in TV sabato 08 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Amichevole: Udinese - Barcellona",
+      "competizione": "Calcio Amichevole (Friuli Venezia Giulia Cup)",
+      "canale": "",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "River Plate - Barracas Central",
+      "competizione": "Calcio (Argentina)",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Sport in TV sabato 08 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:30",
+      "evento": "Coppa del Mondo - Hangzhou: Trap Misto",
+      "competizione": "Tiro a Volo",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Coppa del Mondo - Hangzhou: Fossa olimpica",
+      "competizione": "Tiro a Volo",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it, Sabato su Rai Sport - Tutti i programmi di Rai Sport del 08-08-2026 - ProgrammiTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "WTA 1000 Toronto (LIVE)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Non è confermata la presenza di giocatrici italiane.",
+      "fonte": "Sport in TV sabato 08 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "West Ham - Manchester City",
+      "competizione": "Calcio (Carabao Cup)",
+      "canale": "Sportitalia",
+      "note": "Match valevole per la Carabao Cup. Orario per 09/08/2026.",
+      "fonte": "Sport in TV sabato 08 agosto 2026 - Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:45",
+      "evento": "European Aquatics Parigi 2026 - Tuffi",
+      "competizione": "Tuffi",
+      "canale": "Rai Sport",
+      "note": "Orario per 09/08/2026.",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Meeting Internazionale Silandro 2026 - Salto con l'Asta",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport HD",
+      "note": "Orario per 09/08/2026.",
+      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Motocross: GP Fiandre MX2 - Gara 2",
+      "competizione": "Motocross",
+      "canale": "Rai Sport",
+      "note": "Orario per 09/08/2026.",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Motocross: GP Fiandre MXGP - Gara 2",
+      "competizione": "Motocross",
+      "canale": "Rai Sport",
+      "note": "Orario per 09/08/2026.",
+      "fonte": "Rai Sport guida programmi Tv - ComingSoon.it",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
