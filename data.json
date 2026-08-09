@@ -1,257 +1,104 @@
 {
-  "last_updated": "2026-08-09T02:49:15.626904+02:00",
+  "last_updated": "2026-08-09T08:36:03.405554+02:00",
   "events": [
-    {
-      "orario": "01:15",
-      "evento": "Argentinos Jr. - Racing",
-      "competizione": "Liga Profesional (Calcio)",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "06:00",
       "evento": "Milan - Chelsea",
-      "competizione": "Incontro Amichevole (Calcio)",
+      "competizione": "Amichevole Calcio",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XExVo2Epq0FgrbIAEYg9mNSXdNn38wwGrYm1JIK-v_j9mkpt-t69TMYA9OFKQG_krHgQgbQn-9GzmMeM-szQxxGeESRkuvlPedV3tuz4ALwkM5atFxsfocwKemf9ek9paW51H3YI8KgfqPvVHuMTgt50UbT18bl77qgPuI=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "La Domenica Sportiva Mercato",
-      "competizione": "Rubrica Sportiva",
-      "canale": "Raisport HD",
+      "orario": "10:40",
+      "evento": "Warm Up Moto3, Moto2, MotoGP",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Memory",
-      "competizione": "Rubrica Sportiva",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:30",
-      "evento": "Mondiali U20 2026 - Finali 4a giornata (da Eugene)",
-      "competizione": "Atletica",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Rai Sport guida programmi Tv, Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:45",
-      "evento": "Juventus - Inter",
-      "competizione": "Incontro Amichevole (Calcio)",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Acque Libere",
-      "competizione": "Nuoto",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuD4lJ-KEG6beJEse_IO4iAvLWYsBjyS5fgpkmpqNHrdzjtKuTmoWfbkAUx8zVn3s9bge9UCxbzYeV2rG9mczT9u-fw8TqJdSv4xaJhMEz0EfIlFhrNGVChPlw39GqUI_AIApwra_-DtsJ6UiAteH71n0h8EDiy7nL87E8WCamzo_9vuTL49-NRnbUIEfbL9dgtVZhFFe8WeB0zO6fEpXeQfsIfODE8GqKo6YHF3WVr2k_FOjJm7MXikD56Nh-Q=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:15",
-      "evento": "Gara Moto2 - GP Gran Bretagna",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Mix, Sky Sport 1",
+      "evento": "Gara Moto2 (17 giri)",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "MotoGP, orari GP Silverstone: dove vedere gara in Gran Bretagna in tv e streaming su Sky, Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "FC St. Pauli - Greuther Furth",
-      "competizione": "Bundesliga 2 (Calcio)",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP - GP Gran Bretagna",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Mix, Sky Sport 1",
-      "note": "",
-      "fonte": "MotoGP, orari GP Silverstone: dove vedere gara in Gran Bretagna in tv e streaming su Sky, Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:15",
-      "evento": "Differita Gara Moto2 - GP Gran Bretagna",
-      "competizione": "MotoGP (Replica)",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "MotoGP, orari GP Silverstone: dove vedere gara in Gran Bretagna in tv e streaming su Sky",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuD4lJ-KEG6beJEse_IO4iAvLWYsBjyS5fgpkmpqNHrdzjtKuTmoWfbkAUx8zVn3s9bge9UCxbzYeV2rG9mczT9u-fw8TqJdSv4xaJhMEz0EfIlFhrNGVChPlw39GqUI_AIApwra_-DtsJ6UiAteH71n0h8EDiy7nL87E8WCamzo_9vuTL49-NRnbUIEfbL9dgtVZhFFe8WeB0zO6fEpXeQfsIfODE8GqKo6YHF3WVr2k_FOjJm7MXikD56Nh-Q=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:30",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Finale a Squadre",
-      "competizione": "Nuoto Artistico",
-      "canale": "Raisport HD",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "Gara Moto3 - GP Gran Bretagna",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Mix, Sky Sport 1",
-      "note": "",
-      "fonte": "MotoGP, orari GP Silverstone: dove vedere gara in Gran Bretagna in tv e streaming su Sky, Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:45",
-      "evento": "Tour de France Femmes: 9a tappa",
-      "competizione": "Ciclismo Femminile",
-      "canale": "Eurosport",
-      "note": "",
-      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-xgPO3kJPgjR5nWUdYf_w--W1y6lpk75q1B32EDtV7saWuQ0UWn1Qla3RgJ7eCo0GV05TlUSDBAwJ1ZIASWqootJXpJ_ABdvaMcqxpzXaiR9Ul_x_x2XGLNikEgolL73RcSKo62gcmZZb9fcUR8lhRW59A3onQq6uz7p3QTFvb6dAsoUucloFnOO7ssTbEbmXYUQkat4GaxLmDE3xxaOgjTJ35cbqdd5DV4s3ht98fOD4kNstbtvv5xJgAs9Vo2ThDvL5anVkMIeizbSowu9LdYDASit",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:30",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Programma Acrobatico",
-      "competizione": "Nuoto Artistico",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
+      "evento": "MotoGP Grid",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "TV8",
+      "note": "Pre-gara",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XExVo2Epq0FgrbIAEYg9mNSXdNn38wwGrYm1JIK-v_j9mkpt-t69TMYA9OFKQG_krHgQgbQn-9GzmMeM-szQxxGeESRkuvlPedV3tuz4ALwkM5atFxsfocwKemf9ek9paW51H3YI8KgfqPvVHuMTgt50UbT18bl77qgPuI=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Differita Gara MotoGP - GP Gran Bretagna",
-      "competizione": "MotoGP (Replica)",
-      "canale": "TV8",
+      "evento": "Gara MotoGP (20 giri)",
+      "competizione": "MotoGP - GP Gran Bretagna",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "MotoGP, orari GP Silverstone: dove vedere gara in Gran Bretagna in tv e streaming su Sky",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuD4lJ-KEG6beJEse_IO4iAvLWYsBjyS5fgpkmpqNHrdzjtKuTmoWfbkAUx8zVn3s9bge9UCxbzYeV2rG9mczT9u-fw8TqJdSv4xaJhMEz0EfIlFhrNGVChPlw39GqUI_AIApwra_-DtsJ6UiAteH71n0h8EDiy7nL87E8WCamzo_9vuTL49-NRnbUIEfbL9dgtVZhFFe8WeB0zO6fEpXeQfsIfODE8GqKo6YHF3WVr2k_FOjJm7MXikD56Nh-Q=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Serie A femminile: Finale",
-      "competizione": "Beach Soccer LND",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale 10 mt Sincro Maschile",
-      "competizione": "Tuffi",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Serie A maschile: Finale",
-      "competizione": "Beach Soccer LND",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Differita Gara Moto3 - GP Gran Bretagna",
-      "competizione": "MotoGP (Replica)",
+      "evento": "Gara MotoGP (Differita)",
+      "competizione": "MotoGP - GP Gran Bretagna",
       "canale": "TV8",
       "note": "",
-      "fonte": "MotoGP, orari GP Silverstone: dove vedere gara in Gran Bretagna in tv e streaming su Sky",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Real Madrid - Manchester City",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Sport domenica 09 agosto 2026 - ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale 3 mt trampolino Femminile",
-      "competizione": "Tuffi",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "San Lorenzo - Huracan",
-      "competizione": "Liga Profesional (Calcio)",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Calcio in tv oggi, 9 agosto 2026: Manchester City-Atletico Madrid e le altre sfide del giorno, Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4H8sPRaWQeTnxcgBvRvclOZZNMqN4gKVCMn7edA1IYhXBY4X7dz5SrBFSSjn8M5EgVyiamJMuRG_irKwn77agKB7_u6wAKDEPDCKmYJJe067k7CS-vHnpw7Kf3vBno8BCdKSxnK8h_qRUEoPxZUrxBybIkRDVRYtAqJor0RTuhxmr4MQAYzStMIZeH_2K8_hqsE4fnNVkcOc-ic9rSRKVQ__XnSshfI1RC0wYCBwaR9-Wyxkzg=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Frosinone - Lazio",
-      "competizione": "Amichevole (Calcio)",
+      "competizione": "Amichevole Calcio",
       "canale": "DAZN, DAZN 1 (214 Sky)",
       "note": "",
-      "fonte": "Calcio in tv oggi, 9 agosto 2026: Manchester City-Atletico Madrid e le altre sfide del giorno, Amichevoli estive su DAZN: tutte le partite di agosto delle squadre italiane",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLvEOy8P6tiee31tbe5sYZs9_DJKVL0u7CF16B8GkF-4niUjg8x5H0u9uTSynVErSLzs1vQTYl2Tl4XxwdKoBEjO4P54KIuYUCzURt4Wd6FA9hr3Nen8Sc2IpjxLl5bsf2nio4RAFT_RrRtCGFq2LuAd5ZY7F0OygSdZod7-2IYA=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:30",
-      "evento": "Meeting Internazionale Silandro 2026 - Salto con l'Asta",
-      "competizione": "Atletica",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
+      "orario": "22:00*",
+      "evento": "Tennis WTA 1000 Toronto - Sara Errani/N. Melichar-Martinez vs E. Perez/D. Schuurs (Quarti di finale doppio)",
+      "competizione": "WTA 1000 Toronto",
+      "canale": "Sky Sport",
+      "note": "Non prima delle 22:00 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuD4lJ-KEG6beJEse_IO4iAvLWYsBjyS5fgpkmpqNHrdzjtKuTmoWfbkAUx8zVn3s9bge9UCxbzYeV2rG9mczT9u-fw8TqJdSv4xaJhMEz0EfIlFhrNGVChPlw39GqUI_AIApwra_-DtsJ6UiAteH71n0h8EDiy7nL87E8WCamzo_9vuTL49-NRnbUIEfbL9dgtVZhFFe8WeB0zO6fEpXeQfsIfODE8GqKo6YHF3WVr2k_FOjJm7MXikD56Nh-Q=",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "22:00",
-      "evento": "Mondiali U20 2026 - Finali 4a giornata (da Eugene)",
-      "competizione": "Atletica",
-      "canale": "Raisport HD",
+      "orario": "TBA",
+      "evento": "Arezzo - Union Brescia",
+      "competizione": "Coppa Italia - Turno Preliminare",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "Raisport Hd : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRbpB-Qn0Wg-F-TE5Zc3vtWjtAfdP6AY2spQO2wy9va457kbURjn5HrbuhzcyGUj7Bes13yvLdvKabYR6MHSh3LjPpYkDoMFo30DbGt-GJOzACqukXXwI5Jvt2Yi_L8y3xp5oceL3IM8XMKe7X2Iec_SuM3SRHLt0GFUBoKTMj3sDY7ec=",
+      "accuratezza_orario": "tba"
     },
     {
-      "orario": "22:00",
-      "evento": "River Plate - Barracas Central",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
+      "orario": "TBA",
+      "evento": "Benevento - Ravenna",
+      "competizione": "Coppa Italia - Turno Preliminare",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "Sport domenica 09 agosto 2026 - ProgrammiTV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:58",
-      "evento": "Sport Mediaset - La giornata",
-      "competizione": "Rubrica Sportiva",
-      "canale": "TGCOM24",
-      "note": "",
-      "fonte": "Sport domenica 09 agosto 2026 - ProgrammiTV, Sport Mediaset - La giornata su Italia 1, 09/08/2026. Scheda, orario, video e trailer",
-      "accuratezza_orario": "esatto"
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRbpB-Qn0Wg-F-TE5Zc3vtWjtAfdP6AY2spQO2wy9va457kbURjn5HrbuhzcyGUj7Bes13yvLdvKabYR6MHSh3LjPpYkDoMFo30DbGt-GJOzACqukXXwI5Jvt2Yi_L8y3xp5oceL3IM8XMKe7X2Iec_SuM3SRHLt0GFUBoKTMj3sDY7ec=",
+      "accuratezza_orario": "tba"
     }
   ]
 }
