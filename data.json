@@ -1,104 +1,158 @@
 {
-  "last_updated": "2026-08-09T08:36:03.405554+02:00",
+  "last_updated": "2026-08-09T14:25:26.800734+02:00",
   "events": [
     {
       "orario": "06:00",
-      "evento": "Milan - Chelsea",
-      "competizione": "Amichevole Calcio",
+      "evento": "Incontro amichevole - Milan - Chelsea",
+      "competizione": "Calcio Amichevole",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XExVo2Epq0FgrbIAEYg9mNSXdNn38wwGrYm1JIK-v_j9mkpt-t69TMYA9OFKQG_krHgQgbQn-9GzmMeM-szQxxGeESRkuvlPedV3tuz4ALwkM5atFxsfocwKemf9ek9paW51H3YI8KgfqPvVHuMTgt50UbT18bl77qgPuI=",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1u9a_QK8tOGlCbuasg7ZFaKCRUITATl00JFfj9Rsi_8Xn_WMeFpTB8mj6_Z5nEqtKZRchZrlQJ2A2PAI8UbDLuhieDxX7OFejOHbTZPNVLGhrqqlORYknPkRrhhaAf2G8ZNcYa-h4tQxICKDI1nFascD7",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:30",
+      "evento": "Atletica: Mondiali U20 Eugene - Finali 4a giornata",
+      "competizione": "Mondiali U20 Atletica",
+      "canale": "Rai Sport HD, Rai Play",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4q3Za3hQQY0B-60t28iss5RYyixmrgaO-wjav9uSsRXFQN4zyHbURwXUGg7Lpctjs7ofbEwTGZPWdXj1Ld6iUwx1-sGg7kUrABi4Tk6VBVgcgGSCJatlfQy-hPKiLmeMGCymKpdffSW6TW3VNytLJj3WzBEvK4wqmXqMz51wp0LzAS-QU_IXDHxHkNH7DfFNC_0ieYeJhgS-2hgp0lts7fvyDLfxR5Gi033Z89eEjbXlzXkdoK2jd8RwPeuYXlA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrpHDJWw9WRfW36TUm3QN4DZasTKsA83sd9eLYypB3jeUro_IhUPYJ0y4NlEKUxCqBmRhX-X-C52vC-SVACJyXsVwcmsjqaBQOiqPeGfKeArVQO8PYGFEYQjhC36XTm3O8OFAuSf8IVEE63YUGWNbhyK5jSxV6ZrG8h6yrtJ_o5LZ-idt3x4ZZ_u8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:45",
+      "evento": "Incontro amichevole - Juventus - Inter",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1u9a_QK8tOGlCbuasg7ZFaKCRUITATl00JFfj9Rsi_8Xn_WMeFpTB8mj6_Z5nEqtKZRchZrlQJ2A2PAI8UbDLuhieDxX7OFejOHbTZPNVLGhrqqlORYknPkRrhhaAf2G8ZNcYa-h4tQxICKDI1nFascD7",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:40",
-      "evento": "Warm Up Moto3, Moto2, MotoGP",
-      "competizione": "MotoGP - GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "evento": "MotoGP: GP Gran Bretagna - Warm up",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuD4lJ-KEG6beJEse_IO4iAvLWYsBjyS5fgpkmpqNHrdzjtKuTmoWfbkAUx8zVn3s9bge9UCxbzYeV2rG9mczT9u-fw8TqJdSv4xaJhMEz0EfIlFhrNGVChPlw39GqUI_AIApwra_-DtsJ6UiAteH71n0h8EDiy7nL87E8WCamzo_9vuTL49-NRnbUIEfbL9dgtVZhFFe8WeB0zO6fEpXeQfsIfODE8GqKo6YHF3WVr2k_FOjJm7MXikD56Nh-Q=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4q3Za3hQQY0B-60t28iss5RYyixmrgaO-wjav9uSsRXFQN4zyHbURwXUGg7Lpctjs7ofbEwTGZPWdXj1Ld6iUwx1-sGg7kUrABi4Tk6VBVgcgGSCJatlfQy-hPKiLmeMGCymKpdffSW6TW3VNytLJj3WzBEvK4wqmXqMz51wp0LzAS-QU_IXDHxHkNH7DfFNC_0ieYeJhgS-2hgp0lts7fvyDLfxR5Gi033Z89eEjbXlzXkdoK2jd8RwPeuYXlA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:15",
-      "evento": "Gara Moto2 (17 giri)",
-      "competizione": "MotoGP - GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "evento": "Moto2: GP Gran Bretagna - Gara",
+      "competizione": "Moto2",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuD4lJ-KEG6beJEse_IO4iAvLWYsBjyS5fgpkmpqNHrdzjtKuTmoWfbkAUx8zVn3s9bge9UCxbzYeV2rG9mczT9u-fw8TqJdSv4xaJhMEz0EfIlFhrNGVChPlw39GqUI_AIApwra_-DtsJ6UiAteH71n0h8EDiy7nL87E8WCamzo_9vuTL49-NRnbUIEfbL9dgtVZhFFe8WeB0zO6fEpXeQfsIfODE8GqKo6YHF3WVr2k_FOjJm7MXikD56Nh-Q=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4q3Za3hQQY0B-60t28iss5RYyixmrgaO-wjav9uSsRXFQN4zyHbURwXUGg7Lpctjs7ofbEwTGZPWdXj1Ld6iUwx1-sGg7kUrABi4Tk6VBVgcgGSCJatlfQy-hPKiLmeMGCymKpdffSW6TW3VNytLJj3WzBEvK4wqmXqMz51wp0LzAS-QU_IXDHxHkNH7DfFNC_0ieYeJhgS-2hgp0lts7fvyDLfxR5Gi033Z89eEjbXlzXkdoK2jd8RwPeuYXlA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3O87cFxytczTjG-nduvTqKU-kpg5fgz2hjn87DO3PwVzlW_m3NNUvlbz9LWW7kaitwFlADZvsv8LLo1BbWoiNTawlQN1x3Dyzk6-XRrO1u0OXgL4YhSp3RZITdzxBWhBL6FFnYWBnLmK0kJ3D",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "MotoGP: GP Gran Bretagna - Gara",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3O87cFxytczTjG-nduvTqKU-kpg5fgz2hjn87DO3PwVzlW_m3NNUvlbz9LWW7kaitwFlADZvsv8LLo1BbWoiNTawlQN1x3Dyzk6-XRrO1u0OXgL4YhSp3RZITdzxBWhBL6FFnYWBnLmK0kJ3D",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:30",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP - GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "evento": "Moto3: GP Gran Bretagna - Gara",
+      "competizione": "Moto3",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-xgPO3kJPgjR5nWUdYf_w--W1y6lpk75q1B32EDtV7saWuQ0UWn1Qla3RgJ7eCo0GV05TlUSDBAwJ1ZIASWqootJXpJ_ABdvaMcqxpzXaiR9Ul_x_x2XGLNikEgolL73RcSKo62gcmZZb9fcUR8lhRW59A3onQq6uz7p3QTFvb6dAsoUucloFnOO7ssTbEbmXYUQkat4GaxLmDE3xxaOgjTJ35cbqdd5DV4s3ht98fOD4kNstbtvv5xJgAs9Vo2ThDvL5anVkMIeizbSowu9LdYDASit",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3O87cFxytczTjG-nduvTqKU-kpg5fgz2hjn87DO3PwVzlW_m3NNUvlbz9LWW7kaitwFlADZvsv8LLo1BbWoiNTawlQN1x3Dyzk6-XRrO1u0OXgL4YhSp3RZITdzxBWhBL6FFnYWBnLmK0kJ3D",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:30",
-      "evento": "MotoGP Grid",
-      "competizione": "MotoGP - GP Gran Bretagna",
-      "canale": "TV8",
-      "note": "Pre-gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XExVo2Epq0FgrbIAEYg9mNSXdNn38wwGrYm1JIK-v_j9mkpt-t69TMYA9OFKQG_krHgQgbQn-9GzmMeM-szQxxGeESRkuvlPedV3tuz4ALwkM5atFxsfocwKemf9ek9paW51H3YI8KgfqPvVHuMTgt50UbT18bl77qgPuI=",
+      "orario": "20:00",
+      "evento": "Calcio: Real Madrid-Manchester City",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-7BCBX-1HxlQmxvVgysnTq2SL_EcBSCzJFc4EPs0FxwOgqCNTwnFUQR_TSj5icZjNYuIvjioEmOkxJsgeXIgJoY4NUSzFp3tbRzuN0I6kpQCpjHxcMGWYLZrj_B_x1dghdL2UfA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Gara MotoGP (20 giri)",
-      "competizione": "MotoGP - GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "orario": "20:00",
+      "evento": "Nuoto: European Aquatics Parigi 2026 - Tuffi: Finale 3 mt trampolino Femminile",
+      "competizione": "European Aquatics",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuD4lJ-KEG6beJEse_IO4iAvLWYsBjyS5fgpkmpqNHrdzjtKuTmoWfbkAUx8zVn3s9bge9UCxbzYeV2rG9mczT9u-fw8TqJdSv4xaJhMEz0EfIlFhrNGVChPlw39GqUI_AIApwra_-DtsJ6UiAteH71n0h8EDiy7nL87E8WCamzo_9vuTL49-NRnbUIEfbL9dgtVZhFFe8WeB0zO6fEpXeQfsIfODE8GqKo6YHF3WVr2k_FOjJm7MXikD56Nh-Q=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Gara MotoGP (Differita)",
-      "competizione": "MotoGP - GP Gran Bretagna",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4H8sPRaWQeTnxcgBvRvclOZZNMqN4gKVCMn7edA1IYhXBY4X7dz5SrBFSSjn8M5EgVyiamJMuRG_irKwn77agKB7_u6wAKDEPDCKmYJJe067k7CS-vHnpw7Kf3vBno8BCdKSxnK8h_qRUEoPxZUrxBybIkRDVRYtAqJor0RTuhxmr4MQAYzStMIZeH_2K8_hqsE4fnNVkcOc-ic9rSRKVQ__XnSshfI1RC0wYCBwaR9-Wyxkzg=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Lf1hTCAtUg8fpsy0vNPXVHGtJqHqJIplYGnAR1CDPnz042Nay0FQY23530xyZzxE-xFikwCAuKXnshRoAAVBSTG1WuUfDaS7L5oM7Bb_cJmBDJY1VX4e6J-N_hRdEroWhhxNBjboxq4PksIjwERr",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Frosinone - Lazio",
-      "competizione": "Amichevole Calcio",
+      "evento": "Calcio: Frosinone – Lazio",
+      "competizione": "Calcio Amichevole",
       "canale": "DAZN, DAZN 1 (214 Sky)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLvEOy8P6tiee31tbe5sYZs9_DJKVL0u7CF16B8GkF-4niUjg8x5H0u9uTSynVErSLzs1vQTYl2Tl4XxwdKoBEjO4P54KIuYUCzURt4Wd6FA9hr3Nen8Sc2IpjxLl5bsf2nio4RAFT_RrRtCGFq2LuAd5ZY7F0OygSdZod7-2IYA=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEggOs8T1AFAy7GbXPi_366L1dNm9lh61sgcMN3p2RNuUINfXZ7usIeqicMl-BgCrk9Nz4_P3dGRS31SNGoX3V_NcwOBWbTZ0pS-IAnm6uAtVUevA2StC_yCXuvSCke4Y4brIkrz8gNXH0VCImVO83ZBuTjVJ1io4xphTySz6deFw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Atletica",
+      "competizione": "Atletica",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-7BCBX-1HxlQmxvVgysnTq2SL_EcBSCzJFc4EPs0FxwOgqCNTwnFUQR_TSj5icZjNYuIvjioEmOkxJsgeXIgJoY4NUSzFp3tbRzuN0I6kpQCpjHxcMGWYLZrj_B_x1dghdL2UfA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Atletica: Mondiali U20 2026 - Finali 4a giornata (da Eugene)",
+      "competizione": "Mondiali U20 Atletica",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Lf1hTCAtUg8fpsy0vNPXVHGtJqHqJIplYGnAR1CDPnz042Nay0FQY23530xyZzxE-xFikwCAuKXnshRoAAVBSTG1WuUfDaS7L5oM7Bb_cJmBDJY1VX4e6J-N_hRdEroWhhxNBjboxq4PksIjwERr",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00*",
-      "evento": "Tennis WTA 1000 Toronto - Sara Errani/N. Melichar-Martinez vs E. Perez/D. Schuurs (Quarti di finale doppio)",
-      "competizione": "WTA 1000 Toronto",
-      "canale": "Sky Sport",
-      "note": "Non prima delle 22:00 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuD4lJ-KEG6beJEse_IO4iAvLWYsBjyS5fgpkmpqNHrdzjtKuTmoWfbkAUx8zVn3s9bge9UCxbzYeV2rG9mczT9u-fw8TqJdSv4xaJhMEz0EfIlFhrNGVChPlw39GqUI_AIApwra_-DtsJ6UiAteH71n0h8EDiy7nL87E8WCamzo_9vuTL49-NRnbUIEfbL9dgtVZhFFe8WeB0zO6fEpXeQfsIfODE8GqKo6YHF3WVr2k_FOjJm7MXikD56Nh-Q=",
+      "evento": "Tennis: WTA 1000 Toronto - Sara Errani (doppio)",
+      "competizione": "WTA 1000",
+      "canale": "SuperTennis",
+      "note": "Incontro del WTA 1000 di Toronto. Inizio non prima delle 22:00 ora italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4q3Za3hQQY0B-60t28iss5RYyixmrgaO-wjav9uSsRXFQN4zyHbURwXUGg7Lpctjs7ofbEwTGZPWdXj1Ld6iUwx1-sGg7kUrABi4Tk6VBVgcgGSCJatlfQy-hPKiLmeMGCymKpdffSW6TW3VNytLJj3WzBEvK4wqmXqMz51wp0LzAS-QU_IXDHxHkNH7DfFNC_0ieYeJhgS-2hgp0lts7fvyDLfxR5Gi033Z89eEjbXlzXkdoK2jd8RwPeuYXlA==",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Arezzo - Union Brescia",
-      "competizione": "Coppa Italia - Turno Preliminare",
-      "canale": "Sky Sport",
+      "orario": "22:00",
+      "evento": "Calcio: River Plate - Barracas Central",
+      "competizione": "Calcio",
+      "canale": "Sportitalia",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRbpB-Qn0Wg-F-TE5Zc3vtWjtAfdP6AY2spQO2wy9va457kbURjn5HrbuhzcyGUj7Bes13yvLdvKabYR6MHSh3LjPpYkDoMFo30DbGt-GJOzACqukXXwI5Jvt2Yi_L8y3xp5oceL3IM8XMKe7X2Iec_SuM3SRHLt0GFUBoKTMj3sDY7ec=",
-      "accuratezza_orario": "tba"
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-7BCBX-1HxlQmxvVgysnTq2SL_EcBSCzJFc4EPs0FxwOgqCNTwnFUQR_TSj5icZjNYuIvjioEmOkxJsgeXIgJoY4NUSzFp3tbRzuN0I6kpQCpjHxcMGWYLZrj_B_x1dghdL2UfA==",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Benevento - Ravenna",
-      "competizione": "Coppa Italia - Turno Preliminare",
-      "canale": "Sky Sport",
+      "orario": "23:00",
+      "evento": "Tennis: LIVE WTA 1000 Toronto",
+      "competizione": "WTA 1000",
+      "canale": "SuperTennis",
+      "note": "Diretta del torneo, potenzialmente include il match di Sara Errani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-7BCBX-1HxlQmxvVgysnTq2SL_EcBSCzJFc4EPs0FxwOgqCNTwnFUQR_TSj5icZjNYuIvjioEmOkxJsgeXIgJoY4NUSzFp3tbRzuN0I6kpQCpjHxcMGWYLZrj_B_x1dghdL2UfA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30 (10/08)",
+      "evento": "Atletica: Camp. Mondiali U20 Eugene 2026 - Finali 5a giornata",
+      "competizione": "Mondiali U20 Atletica",
+      "canale": "Rai Sport +HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRbpB-Qn0Wg-F-TE5Zc3vtWjtAfdP6AY2spQO2wy9va457kbURjn5HrbuhzcyGUj7Bes13yvLdvKabYR6MHSh3LjPpYkDoMFo30DbGt-GJOzACqukXXwI5Jvt2Yi_L8y3xp5oceL3IM8XMKe7X2Iec_SuM3SRHLt0GFUBoKTMj3sDY7ec=",
-      "accuratezza_orario": "tba"
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrpHDJWw9WRfW36TUm3QN4DZasTKsA83sd9eLYypB3jeUro_IhUPYJ0y4NlEKUxCqBmRhX-X-C52vC-SVACJyXsVwcmsjqaBQOiqPeGfKeArVQO8PYGFEYQjhC36XTm3O8OFAuSf8IVEE63YUGWNbhyK5jSxV6Zrj_B_x1dghdL2UfA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:30 (10/08)",
+      "evento": "Nuoto: European Aquatics Parigi 2026 - Nuoto Acque Libere Finale 10 km Femminile",
+      "competizione": "European Aquatics",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrpHDJWw9WRfW36TUm3QN4DZasTKsA83sd9eLYypB3jeUro_IhUPYJ0y4NlEKUxCqBmRhX-X-C52vC-SVACJyXsVwcmsjqaBQOiqPeGfKeArVQO8PYGFEYQjhC36XTm3O8OFAuSf8IVEE63YUGWNbhyK5jSxV6Zrj_B_x1dghdL2UfA==",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
