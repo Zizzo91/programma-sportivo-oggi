@@ -1,104 +1,176 @@
 {
-  "last_updated": "2026-08-09T20:22:50.649221+02:00",
+  "last_updated": "2026-08-10T14:41:17.234174+02:00",
   "events": [
     {
-      "orario": "10:35",
-      "evento": "MotoGP Warm Up",
-      "competizione": "GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
+      "orario": "06:00",
+      "evento": "European Aquatics Parigi 2026 - Tuffi Grandi Altezze: 20 mt Maschile",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcFGi_8ixiz8_3bHTtrC7DNZKKPEHj-M4DMVPxdQwA2XTCcOYr0FKYubolWjteVnBUeHKDFY9UNDkdg5nkvcJpSvx3SvqivqCxGdk1OVg2Agsix6G9b_42PjGxbf_DKhCAW0K923SpHbsjT4fNhP6jWT-4H7794zlX9F0cTeyy175dGXGVMZNJo-b0Oq7kzNJspzXvuge0 [8]",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV8oUkRWu8VAWj2QDywV7y-5K0ccp5mfYkrxp23ipnlv1SxRuiVmKY6JBfGAn_zIY2XyaG6O1jKy1xh0l8WcXtciwoXNEYYJnUxF_nMNcBm1-_xj-kwj28HryZm2jrrSQrWSOC8E6lgtr50qnsd0-hcCHd6TfvlaKQD-_D9v4S6bjt8ZK8dM80TOWU2qsXat5dtEBIJM9scTHKjMRiiZ_8hYZYF4WSO0k9GmhzkV8n3YczMc2pG8o2q0JxqyYL9mHfaM0-eN3qliVEf-CJiB1IiNvuzdulqjlWgATW-6Tk",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:15",
-      "evento": "Gara Moto2",
-      "competizione": "GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcFGi_8ixiz8_3bHTtrC7DNZKKPEHj-M4DMVPxdQwA2XTCcOYr0FKYubolWjteVnBUeHKDFY9UNDkdg5nkvcJpSvx3SvqivqCxGdk1OVg2Agsix6G9b_42PjGxbf_DKhCAW0K923SpHbsjT4fNhP6jWT-4H7794zlX9F0cTeyy175dGXGVMZNJo-b0Oq7kzNJspzXvuge0 [8]",
+      "orario": "07:30",
+      "evento": "Incontro amichevole - Juventus - Inter",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sky Sport Uno",
+      "note": "Replay o highlights.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:03",
-      "evento": "Sport Mediaset 2026",
+      "orario": "09:30",
+      "evento": "European Aquatics Parigi 2026 - Nuoto 1a giornata: batterie",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
+      "note": "Streaming su Rai Play, Sky Go, NOW. Include Alberto Razzetti (400 misti) e italiane nei 100 stile libero.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale 10m Sincro Uomini",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZXFCJ6arg9Ym2EOipEOKpV0tyGnWviupjcVPSe1Rscd9uWE31Wr_cxVLBBw-3fJTal9g8PVqkmIU1A12-vRlmxO-pTG0Y2TvjVEzGEJFpWj23P62zJ-KxYDJ3qxI-EQVOPIoJ4Ke6CMk4YAnhSIm3Q==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:35",
+      "evento": "Atletica Europei 2026 - 1a giornata: sessione mattutina",
+      "competizione": "Campionati Europei di Atletica Leggera",
+      "canale": "Rai 2 (fino alle 13:00), Rai Sport HD (dalle 13:00), Sky Sport Uno, Sky Sport Arena",
+      "note": "Streaming su Rai Play, Sky Go, NOW, Discovery Plus, HBO Max, Eurosport 1, DAZN. Include qualificazioni peso uomini con Leonardo Fabbri e Zane Weir. Batterie 100m F con Gloria Hooper.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Finale a Squadre - programma Tecnico",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZXFCJ6arg9Ym2EOipEOKpV0tyGnWviupjcVPSe1Rscd9uWE31Wr_cxVLBBw-3fJTal9g8PVqkmIU1A12-vRlmxO-pTG0Y2TvjVEzGEJFpWj23P62zJ-KxYDJ3qxI-EQVOPIoJ4Ke6CMk4YAnhSIm3Q==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:05",
+      "evento": "Sport Mediaset",
       "competizione": "Notiziario Sportivo",
       "canale": "Italia 1",
-      "note": "Approfondimento quotidiano sul mondo del calcio e dello sport.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoVRMpYrMycEKNT2LQwd738wEAllB08yBCtBN2juJIMqIi6fKDeIFTkVSdZ2lUeVmjeXtMTmR3FTMJv22JkDf28qX7Nb6843lOjedaFsfX_DdTWwYWccvGwG_1crYRNAs6YQEh35aS_dEIWyiLGsaLaTW3PQwrH_mHXqviKto4bLUa [9]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP",
-      "competizione": "GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcFGi_8ixiz8_3bHTtrC7DNZKKPEHj-M4DMVPxdQwA2XTCcOYr0FKYubolWjteVnBUeHKDFY9UNDkdg5nkvcJpSvx3SvqivqCxGdk1OVg2Agsix6G9b_42PjGxbf_DKhCAW0K923SpHbsjT4fNhP6jWT-4H7794zlX9F0cTeyy175dGXGVMZNJo-b0Oq7kzNJspzXvuge0 [8]",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtzNJLAX2A2yejsuVLdpUHSJgoIJNAg__5BWb6quVGMzcy2tK7UODLWXzV0sl-dEw_-UQGPkF1y8GDXiWo7ReDmDVgGOly0op19hgjSKjIE6p2IX80VA_bj_zSp2wtTljgNHjZOZkR4Bwy_o6CAr0ApQVgz50aDB0CHw==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:15",
-      "evento": "Gara Moto2 (Differita)",
-      "competizione": "GP Gran Bretagna",
-      "canale": "TV8",
+      "orario": "13:50",
+      "evento": "Sport Mediaset Extra",
+      "competizione": "Notiziario Sportivo",
+      "canale": "Italia 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcFGi_8ixiz8_3bHTtrC7DNZKKPEHj-M4DMVPxdQwA2XTCcOYr0FKYubolWjteVnBUeHKDFY9UNDkdg5nkvcJpSvx3SvqivqCxGdk1OVg2Agsix6G9b_42PjGxbf_DKhCAW0K923SpHbsjT4fNhP6jWT-4H7794zlX9F0cTeyy175dGXGVMZNJo-b0Oq7kzNJspzXvuge0 [8]",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtzNJLAX2A2yejsuVLdpUHSJgoIJNAg__5BWb6quVGMzcy2tK7UODLWXzV0sl-dEw_-UQGPkF1y8GDXiWo7ReDmDVgGOly0op19hgjSKjIE6p2IX80VA_bj_zSp2wtTljgNHjZOZkR4Bwy_o6CAr0ApQVgz50aDB0CHw==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:30",
-      "evento": "Gara Moto3",
-      "competizione": "GP Gran Bretagna",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcFGi_8ixiz8_3bHTtrC7DNZKKPEHj-M4DMVPxdQwA2XTCcOYr0FKYubolWjteVnBUeHKDFY9UNDkdg5nkvcJpSvx3SvqivqCxGdk1OVg2Agsix6G9b_42PjGxbf_DKhCAW0K923SpHbsjT4fNhP6jWT-4H7794zlX9F0cTeyy175dGXGVMZNJo-b0Oq7kzNJspzXvuge0 [8]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Gara MotoGP (Differita)",
-      "competizione": "GP Gran Bretagna",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcFGi_8ixiz8_3bHTtrC7DNZKKPEHj-M4DMVPxdQwA2XTCcOYr0FKYubolWjteVnBUeHKDFY9UNDkdg5nkvcJpSvx3SvqivqCxGdk1OVg2Agsix6G9b_42PjGxbf_DKhCAW0K923SpHbsjT4fNhP6jWT-4H7794zlX9F0cTeyy175dGXGVMZNJo-b0Oq7kzNJspzXvuge0 [8]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:35",
-      "evento": "Gara Moto3 (Differita)",
-      "competizione": "GP Gran Bretagna",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcFGi_8ixiz8_3bHTtrC7DNZKKPEHj-M4DMVPxdQwA2XTCcOYr0FKYubolWjteVnBUeHKDFY9UNDkdg5nkvcJpSvx3SvqivqCxGdk1OVg2Agsix6G9b_42PjGxbf_DKhCAW0K923SpHbsjT4fNhP6jWT-4H7794zlX9F0cTeyy175dGXGVMZNJo-b0Oq7kzNJspzXvuge0 [8]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Frosinone - Lazio",
-      "competizione": "Amichevole di Calcio",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkduMASWjqtIqPFGg9r-fOEDyfKHOlfYf9oUZSamsoh6PDKmEJm_Fptq-3KTUKA-TF38UehoOnnMkDy5sGT1ORK1f7uQPvFplm-pepXskOCRsI8mDHUntnnsFJ_s9i8Ok3_wqM0HIhavFOGlELKMGe_Ig8kOOCTPwapHf6DapLhRCuv7OM_ymgpdLSlxuTXofHv9qRtSGXFoZ7tNSWvS80VQ0Ff15rFhKhZczinbZj1dg== [12]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00*",
-      "evento": "Sara Errani (Italia) - WTA 1000 Toronto (doppio, quarti di finale)",
-      "competizione": "Tennis - WTA 1000 Toronto",
-      "canale": "Sky Sport Uno, Sky Sport Arena",
-      "note": "Match non prima delle 22:00 CET, all'interno della sessione serale (inizia 01:00* del 10/08)",
-      "fonte": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQHLYDC69SsrJYg9I71W1EGxPfCe8osewXN79VQAlGp0iesWaZ8oXZFyOViW5qN4BgYWTHv5ATba2_5zJYnuZ2iaOhmljKu5FlnYsVk3VkM8FLzNSlJ9Kfwdz9NU5cqBDw3M5RDt7xI1RfJUaZoznuzTaDfA6V3WCKPyZudRBuVD9l3P5K9_lDfRK4GsB1l2Czm7ZJ5PV3J5ptaFFbUy7I6bo1_wPa6pITqfbbWFZQ_nWI7sEOtU1fbdBou07aCMR4w== [2]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2YJkBILaNtY9VIf0mpuEA1FNpTuZ1LkyqLBEbscHIKitrYGaORuUNjsByZA43Yqnzn20boVp_rMcpl3RqVapt3H5hN4N2yHr8T02ZXqJZHGKug3qwPmIpMqdQl9e1_owmmtlipoIuXs-D9DquQUqaLeq18KpkzwWm [11, 13, 17, 22]",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Milan - Chelsea",
-      "competizione": "Incontro Amichevole di Calcio",
+      "orario": "14:45",
+      "evento": "ATP & WTA 1000 Toronto & Montreal 2026 - 8a giornata",
+      "competizione": "ATP/WTA 1000 Canada Open",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2YJkBILaNtY9VIf0mpuEA1FNpTuZ1LkyqLBEbscHIKitrYGaORuUNjsByZA43Yqnzn20boVp_rMcpl3RqVapt3H5hN4N2yHr8T02ZXqJZHGKug3qwPmIpMqdQl9e1_owmmtlipoIuXs-D9DquQUqaLeq18KpkzwWm [11, 13, 17]",
+      "note": "Repliche o highlights. Quarti di finale del Canada Open in programma.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:45",
+      "evento": "Incontro amichevole - Juventus - Inter",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sky Sport Uno",
+      "note": "Replay o highlights.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "European Aquatics Parigi 2026 - Nuoto 1a giornata: semifinali e finali",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
+      "note": "Streaming su Rai Play, Sky Go, NOW. Include Alberto Razzetti nella finale dei 400 misti uomini.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:03",
+      "evento": "Atletica Europei 2026 - 1a giornata: sessione serale",
+      "competizione": "Campionati Europei di Atletica Leggera",
+      "canale": "Rai 2 (dalle 20:05), Rai Sport HD (dalle 20:30), Sky Sport Uno, Sky Sport Arena",
+      "note": "Streaming su Rai Play, Sky Go, NOW, Discovery Plus, HBO Max, Eurosport 1, DAZN. Include semifinali 100m F (con Zaynab Dosso), finale peso uomini (con Leonardo Fabbri e Zane Weir), finale 5000m M, finale 4x400m mista, finale 100m F.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Diretta Stadio",
+      "competizione": "Approfondimento Calcio",
+      "canale": "Italia 7 Gold",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqUiSCIVoRI9HJwlvch9uA3HewpDMvoQf0h-KAHMRyvGp6mcLUfqb-7CaoFBcD1ei0o0uhXMb6N7tu3Wfe8fA7RHKQzNT0YFtDiyC-Lkxa0cvnX1n5iFdoQ1CkPlKHDjLukuvExc5Dz4I7c7-giuoj74ACA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Qui studio a voi stadio",
+      "competizione": "Approfondimento Calcio",
+      "canale": "Telelombardia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqUiSCIVoRI9HJwlvch9uA3HewpDMvoQf0h-KAHMRyvGp6mcLUfqb-7CaoFBcD1ei0o0uhXMb6N7tu3Wfe8fA7RHKQzNT0YFtDiyC-Lkxa0cvnX1n5iFdoQ1CkPlKHDjLukuvExc5Dz4I7c7-giuoj74ACA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:15",
+      "evento": "ATP & WTA 1000 Toronto & Montreal 2026 - 8a giornata",
+      "competizione": "ATP/WTA 1000 Canada Open",
+      "canale": "Sky Sport Uno",
+      "note": "Repliche o highlights. Quarti di finale del Canada Open in programma.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:30",
+      "evento": "Calcissimo",
+      "competizione": "Approfondimento Calcio",
+      "canale": "Italia 7 Gold",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqUiSCIVoRI9HJwlvch9uA3HewpDMvoQf0h-KAHMRyvGp6mcLUfqb-7CaoFBcD1ei0o0uhXMb6N7tu3Wfe8fA7RHKQzNT0YFtDiyC-Lkxa0cvnX1n5iFdoQ1CkPlKHDjLukuvExc5Dz4I7c7-giuoj74ACA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:35",
+      "evento": "European Aquatics Parigi 2026 - Nuoto: Semifinali e finali",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "Prosegue fino all'1:35 CET del giorno successivo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZXFCJ6arg9Ym2EOipEOKpV0tyGnWviupjcVPSe1Rscd9uWE31Wr_cxVLBBw-3fJTal9g8PVqkmIU1A12-vRlmxO-pTG0Y2TvjVEzGEJFpWj23P62zJ-KxYDJ3qxI-EQVOPIoJ4Ke6CMk4YAnhSIm3Q==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "ATP 1000 Montreal 2026 - 1° Quarto di Finale",
+      "competizione": "ATP 1000 Canada Open",
+      "canale": "Sky Sport Uno",
+      "note": "Probabile presenza di Luciano Darderi contro Brandon Nakashima. Orario live convertito da EDT a CEST.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExqR3ZzhiOm11iBp0kXnscwzznjNs84pxlbOY3osnWB9tswhvWLfGrcFOOSZJQObwYEVg8rPlkZHn5sjtwSIQd3Ph3m4px0SMzg6diCFmJGpeLaEEE7po2TYSoijKUsKl5MXZKcq4-dPli0ayw4FF699jzBAUAacOG",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:35",
+      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Programma Acrobatico",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "Prosegue dal palinsesto precedente, con orario di fine stimato entro le 06:00 CET del giorno successivo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZXFCJ6arg9Ym2EOipEOKpV0tyGnWviupjcVPSe1Rscd9uWE31Wr_cxVLBBw-3fJTal9g8PVqkmIU1A12-vRlmxO-pTG0Y2TvjVEzGEJFpWj23P62zJ-KxYDJ3qxI-EQVOPIoJ4Ke6CMk4YAnhSIm3Q==",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
