@@ -1,175 +1,58 @@
 {
-  "last_updated": "2026-08-10T14:41:17.234174+02:00",
+  "last_updated": "2026-08-10T20:40:48.113323+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "European Aquatics Parigi 2026 - Tuffi Grandi Altezze: 20 mt Maschile",
-      "competizione": "Campionati Europei di Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV8oUkRWu8VAWj2QDywV7y-5K0ccp5mfYkrxp23ipnlv1SxRuiVmKY6JBfGAn_zIY2XyaG6O1jKy1xh0l8WcXtciwoXNEYYJnUxF_nMNcBm1-_xj-kwj28HryZm2jrrSQrWSOC8E6lgtr50qnsd0-hcCHd6TfvlaKQD-_D9v4S6bjt8ZK8dM80TOWU2qsXat5dtEBIJM9scTHKjMRiiZ_8hYZYF4WSO0k9GmhzkV8n3YczMc2pG8o2q0JxqyYL9mHfaM0-eN3qliVEf-CJiB1IiNvuzdulqjlWgATW-6Tk",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:30",
-      "evento": "Incontro amichevole - Juventus - Inter",
-      "competizione": "Calcio Amichevole",
-      "canale": "Sky Sport Uno",
-      "note": "Replay o highlights.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "09:30",
-      "evento": "European Aquatics Parigi 2026 - Nuoto 1a giornata: batterie",
-      "competizione": "Campionati Europei di Nuoto",
+      "evento": "Europei Nuoto 2026: Prima giornata, sessione mattutina (Batterie)",
+      "competizione": "European Aquatics Parigi 2026",
       "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Streaming su Rai Play, Sky Go, NOW. Include Alberto Razzetti (400 misti) e italiane nei 100 stile libero.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale 10m Sincro Uomini",
-      "competizione": "Campionati Europei di Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZXFCJ6arg9Ym2EOipEOKpV0tyGnWviupjcVPSe1Rscd9uWE31Wr_cxVLBBw-3fJTal9g8PVqkmIU1A12-vRlmxO-pTG0Y2TvjVEzGEJFpWj23P62zJ-KxYDJ3qxI-EQVOPIoJ4Ke6CMk4YAnhSIm3Q==",
+      "note": "Include 400 misti uomini (Razzetti), 100 stile libero donne (Curtis), 50 farfalla uomini (Ceccon), 100 rana uomini (Martinenghi), 4x200 stile libero donne e uomini.",
+      "fonte": "OA Sport, Sky Sport, Quotidiano Nazionale",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:35",
-      "evento": "Atletica Europei 2026 - 1a giornata: sessione mattutina",
-      "competizione": "Campionati Europei di Atletica Leggera",
+      "evento": "Europei Atletica 2026: Prima giornata, sessione mattutina (Qualificazioni)",
+      "competizione": "Europei Atletica Birmingham 2026",
       "canale": "Rai 2 (fino alle 13:00), Rai Sport HD (dalle 13:00), Sky Sport Uno, Sky Sport Arena",
-      "note": "Streaming su Rai Play, Sky Go, NOW, Discovery Plus, HBO Max, Eurosport 1, DAZN. Include qualificazioni peso uomini con Leonardo Fabbri e Zane Weir. Batterie 100m F con Gloria Hooper.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Finale a Squadre - programma Tecnico",
-      "competizione": "Campionati Europei di Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZXFCJ6arg9Ym2EOipEOKpV0tyGnWviupjcVPSe1Rscd9uWE31Wr_cxVLBBw-3fJTal9g8PVqkmIU1A12-vRlmxO-pTG0Y2TvjVEzGEJFpWj23P62zJ-KxYDJ3qxI-EQVOPIoJ4Ke6CMk4YAnhSIm3Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:05",
-      "evento": "Sport Mediaset",
-      "competizione": "Notiziario Sportivo",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtzNJLAX2A2yejsuVLdpUHSJgoIJNAg__5BWb6quVGMzcy2tK7UODLWXzV0sl-dEw_-UQGPkF1y8GDXiWo7ReDmDVgGOly0op19hgjSKjIE6p2IX80VA_bj_zSp2wtTljgNHjZOZkR4Bwy_o6CAr0ApQVgz50aDB0CHw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:50",
-      "evento": "Sport Mediaset Extra",
-      "competizione": "Notiziario Sportivo",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtzNJLAX2A2yejsuVLdpUHSJgoIJNAg__5BWb6quVGMzcy2tK7UODLWXzV0sl-dEw_-UQGPkF1y8GDXiWo7ReDmDVgGOly0op19hgjSKjIE6p2IX80VA_bj_zSp2wtTljgNHjZOZkR4Bwy_o6CAr0ApQVgz50aDB0CHw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:45",
-      "evento": "ATP & WTA 1000 Toronto & Montreal 2026 - 8a giornata",
-      "competizione": "ATP/WTA 1000 Canada Open",
-      "canale": "Sky Sport Uno",
-      "note": "Repliche o highlights. Quarti di finale del Canada Open in programma.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "note": "Include qualificazioni salto in lungo (Furlani, Inzoli), getto del peso (Fabbri, Weir, Ponzio), 100m F (Dosso), 4x400m mista.",
+      "fonte": "OA Sport, Sky Sport, Quotidiano Nazionale, Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:45",
-      "evento": "Incontro amichevole - Juventus - Inter",
-      "competizione": "Calcio Amichevole",
+      "evento": "Calcio: Incontro Amichevole Juventus - Inter",
+      "competizione": "Amichevole Club",
       "canale": "Sky Sport Uno",
-      "note": "Replay o highlights.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "European Aquatics Parigi 2026 - Nuoto 1a giornata: semifinali e finali",
-      "competizione": "Campionati Europei di Nuoto",
+      "evento": "Europei Nuoto 2026: Prima giornata, sessione serale (Semifinali e Finali)",
+      "competizione": "European Aquatics Parigi 2026",
       "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Streaming su Rai Play, Sky Go, NOW. Include Alberto Razzetti nella finale dei 400 misti uomini.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "note": "Include semifinali 50 farfalla uomini, 100 stile libero donne, 200 dorso donne, 100 rana uomini; finali 400 misti uomini (Razzetti), 4x200 stile libero donne e uomini.",
+      "fonte": "OA Sport, Sky Sport, Quotidiano Nazionale",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:03",
-      "evento": "Atletica Europei 2026 - 1a giornata: sessione serale",
-      "competizione": "Campionati Europei di Atletica Leggera",
-      "canale": "Rai 2 (dalle 20:05), Rai Sport HD (dalle 20:30), Sky Sport Uno, Sky Sport Arena",
-      "note": "Streaming su Rai Play, Sky Go, NOW, Discovery Plus, HBO Max, Eurosport 1, DAZN. Include semifinali 100m F (con Zaynab Dosso), finale peso uomini (con Leonardo Fabbri e Zane Weir), finale 5000m M, finale 4x400m mista, finale 100m F.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
+      "orario": "20:05",
+      "evento": "Europei Atletica 2026: Prima giornata, sessione serale (Semifinali e Finali)",
+      "competizione": "Europei Atletica Birmingham 2026",
+      "canale": "Rai 2 (dalle 21:00), Rai Sport HD (dalle 20:30), Sky Sport Uno",
+      "note": "Include semifinali 100m F (Dosso), finali getto del peso M (Fabbri, Weir, Ponzio), 5000m M, 4x400m mista.",
+      "fonte": "OA Sport, Sky Sport, Quotidiano Nazionale, Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Diretta Stadio",
-      "competizione": "Approfondimento Calcio",
-      "canale": "Italia 7 Gold",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqUiSCIVoRI9HJwlvch9uA3HewpDMvoQf0h-KAHMRyvGp6mcLUfqb-7CaoFBcD1ei0o0uhXMb6N7tu3Wfe8fA7RHKQzNT0YFtDiyC-Lkxa0cvnX1n5iFdoQ1CkPlKHDjLukuvExc5Dz4I7c7-giuoj74ACA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Qui studio a voi stadio",
-      "competizione": "Approfondimento Calcio",
-      "canale": "Telelombardia",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqUiSCIVoRI9HJwlvch9uA3HewpDMvoQf0h-KAHMRyvGp6mcLUfqb-7CaoFBcD1ei0o0uhXMb6N7tu3Wfe8fA7RHKQzNT0YFtDiyC-Lkxa0cvnX1n5iFdoQ1CkPlKHDjLukuvExc5Dz4I7c7-giuoj74ACA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:15",
-      "evento": "ATP & WTA 1000 Toronto & Montreal 2026 - 8a giornata",
-      "competizione": "ATP/WTA 1000 Canada Open",
-      "canale": "Sky Sport Uno",
-      "note": "Repliche o highlights. Quarti di finale del Canada Open in programma.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-r7ZP_oQ5HkU8oPn-Ujd12DPpcRtpu2LOSLCtC6hLYFcJcA7jvEbwr8eUPH0RLCJM59dOTHv0fwZ-_530KXrOHzl-WIAoQ2C5V45yYcd8ZSJc-_QHY5uv-MuZdU1kv5GdIr7qT5V3MZgh34tVlpv4pSWrpJe0BywJM6FLwvoJtA_lobOyFkQ13tw9yjVPZbbpSJqpupA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:30",
-      "evento": "Calcissimo",
-      "competizione": "Approfondimento Calcio",
-      "canale": "Italia 7 Gold",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqUiSCIVoRI9HJwlvch9uA3HewpDMvoQf0h-KAHMRyvGp6mcLUfqb-7CaoFBcD1ei0o0uhXMb6N7tu3Wfe8fA7RHKQzNT0YFtDiyC-Lkxa0cvnX1n5iFdoQ1CkPlKHDjLukuvExc5Dz4I7c7-giuoj74ACA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:35",
-      "evento": "European Aquatics Parigi 2026 - Nuoto: Semifinali e finali",
-      "competizione": "Campionati Europei di Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "Prosegue fino all'1:35 CET del giorno successivo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZXFCJ6arg9Ym2EOipEOKpV0tyGnWviupjcVPSe1Rscd9uWE31Wr_cxVLBBw-3fJTal9g8PVqkmIU1A12-vRlmxO-pTG0Y2TvjVEzGEJFpWj23P62zJ-KxYDJ3qxI-EQVOPIoJ4Ke6CMk4YAnhSIm3Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "ATP 1000 Montreal 2026 - 1° Quarto di Finale",
-      "competizione": "ATP 1000 Canada Open",
-      "canale": "Sky Sport Uno",
-      "note": "Probabile presenza di Luciano Darderi contro Brandon Nakashima. Orario live convertito da EDT a CEST.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExqR3ZzhiOm11iBp0kXnscwzznjNs84pxlbOY3osnWB9tswhvWLfGrcFOOSZJQObwYEVg8rPlkZHn5sjtwSIQd3Ph3m4px0SMzg6diCFmJGpeLaEEE7po2TYSoijKUsKl5MXZKcq4-dPli0ayw4FF699jzBAUAacOG",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:35",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Programma Acrobatico",
-      "competizione": "Campionati Europei di Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "Prosegue dal palinsesto precedente, con orario di fine stimato entro le 06:00 CET del giorno successivo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZXFCJ6arg9Ym2EOipEOKpV0tyGnWviupjcVPSe1Rscd9uWE31Wr_cxVLBBw-3fJTal9g8PVqkmIU1A12-vRlmxO-pTG0Y2TvjVEzGEJFpWj23P62zJ-KxYDJ3qxI-EQVOPIoJ4Ke6CMk4YAnhSIm3Q==",
+      "orario": "01:00*",
+      "evento": "Tennis: ATP Masters 1000 Montreal, Quarti di Finale - Darderi (ITA) vs Nakashima (USA)",
+      "competizione": "ATP Masters 1000 Canadian Open Montreal",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Plus",
+      "note": "Secondo match a seguire Jodar (SPA) vs Fils (FRA), che inizia alle 00:00 (CET). Ora stimata in CET per Darderi vs Nakashima.",
+      "fonte": "Sky Sport, LiveTennis.it, TennisTalker Magazine",
       "accuratezza_orario": "stimato"
     }
   ]
