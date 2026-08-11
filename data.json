@@ -1,85 +1,31 @@
 {
-  "last_updated": "2026-08-11T14:38:13.726185+02:00",
+  "last_updated": "2026-08-11T20:44:23.886813+02:00",
   "events": [
     {
-      "orario": "09:30",
-      "evento": "Europei di Nuoto 2026 - Batterie",
-      "competizione": "European Aquatics Championships 2026",
-      "canale": "Rai 2 HD, Sky Sport Uno, Sky Sport Max",
-      "note": "Diverse specialità con atleti italiani",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGk7r5Se7ghbDWAKD_r1ytuDnbrMjoiCf5NsrlntRN2dv-qHPDbuBs__gc5-JK_4c4PSl8Oyl45McBBKrGrV7HdxKta_uBnQLgz79tf0SweFjSO7dvg0g1PB4PPiiOOp-VgxddbXGKLOmJ8-pPK7mHTFOi-2dgbbb1pmEN2PFMrT_sHwUWGSfwK1wIWjPf1q68M0mBTsqQ7oefBsmrjRdL-s-4HkOCUrmkkgbaANFE3MTdx8eKDJoLgIVmO90I, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2UW_2FFT0anplJk5FI-gTwXse82b7LEMgJVdWulg-ssp5x-lqP7eGyw1BiFpE-XXo3IDGAK3eyNosRwGzTDRnu4DiM2NkIgNLGli5dSEtefaK34ogEngyQWqXJkOERpUsOw7PUBV7iQbQH1Wwqw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDPQWqZ_nz9W_nStPUVwQDOxD8qR7aFi8LihvFog1eU_rObI81Pg8H_Vywy5LHDWd0c7KK8NKEf6jEwvnFpyeoDAt63ilxSDJ2_CwghAfWXNAxk8939KGppOZw5Twqdl6UHykAPcdjmXO73tR65Zvf2C5p4GCaj8FkzD5SQzJXzZ3rCt7z7mSgTGRZa7wKJoS6FpDD4jbuG6mQ0muqSMWGMN-IOniiXfU=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:33",
-      "evento": "Europei di Atletica 2026 - Sessione diurna",
-      "competizione": "European Athletics Championships 2026",
-      "canale": "Rai 2 HD (fino 13:00), Rai Sport HD (da 13:00), Sky Sport Uno, Sky Sport Arena",
-      "note": "Qualificazioni Salto in alto (Tamberi, Sioli, Falocchi, Stronati), Lancio del disco, 400 ostacoli F/M, 110 ostacoli M, 800 F",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGk7r5Se7ghbDWAKD_r1ytuDnbrMjoiCf5NsrlntRN2dv-qHPDbuBs__gc5-JK_4c4PSl8Oyl45McBBKrGrV7HdxKta_uBnQLgz79tf0SweFjSO7dvg0g1PB4PPiiOOp-VgxddbXGKLOmJ8-pPK7mHTFOi-2dgbbb1pmEN2PFMrT_sHwUWGSfwK1wIWjPf1q68M0mBTsqQ7oefBsmrjRdL-s-4HkOCUrmkkgbaANFE3MTdx8eKDJoLgIVmO90I, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5avR86YCYOlJduDWh3JGy1QpdzPkUWz8YDFdckeeO4i8QsVuAcqi03BP65TP9PWTLYixlo9BoZjf8dVs8Ndc8XEvDkUzUca09hz8NmvHLd8b2wO0_YJ6TDK2MONLSS7GP32bybMpAy7tgWvwKfFfoRwfDJQbjSJIVD5EitYiaaeUrB1G1m4erD7ua_mAoYLQqcCdJIWbCDsg6wsxKeX_ok2QN0nVqVaKiiAQBW8E-huKjT-WMO24-z_iuVqdoOX8o6nif0nFkug==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb7GdGVYcfAQQBwSvjW-3HNEFadD1oe1ul3hXfrZzbwLPVQKMNvDtq0MUIBaDDkyuZTsgfhkiMbtsXu1URTdxJnX3bGX37btf0IW6w6zRGvK8edgmU5IM2EVO0Yltrj3Xg1wuBXHujHJCMSrZlaywQ6skwhNOGvIxPFD8-R7LMr5BtcwSn0ikavO-aY2MC_XuDTR_dmGoHRSboz0oDBlG3ih0=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:10",
-      "evento": "Amichevole: Juventus vs Palermo",
-      "competizione": "Calcio Amichevole",
-      "canale": "Sky Sport Calcio",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGk7r5Se7ghbDWAKD_r1ytuDnbrMjoiCf5NsrlntRN2dv-qHPDbuBs__gc5-JK_4c4PSl8Oyl45McBBKrGrV7HdxKta_uBnQLgz79tf0SweFjSO7dvg0g1PB4PPiiOOp-VgxddbXGKLOmJ8-pPK7mHTFOi-2dgbbb1pmEN2PFMrT_sHwUWGSfwK1wIWjPf1q68M0mBTsqQ7oefBsmrjRdL-s-4HkOCUrmkkgbaANFE3MTdx8eKDJoLgIVmO90I",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:03",
-      "evento": "Sport Mediaset",
-      "competizione": "Informazione sportiva",
-      "canale": "Italia 1",
-      "note": "Approfondimento quotidiano in diretta sul mondo del calcio e dello sport",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxJolTZFnOnaE2n-8fMqeoIpxJ0lWQ0lmMFjGvElyTSi8zVCH_IDA3t_TsKfsJTum8Mi6t77_MSux7VvmyZHF2mRBAIKGtPPl3BYv_Ay4_vM1Yl0FbSZusq_3GOHCivz6W1ruVeBzGEpQncvyI2u8Ca-bUMa2QmHuD3s0pFQfM4ZA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:50",
-      "evento": "Sport Mediaset Extra",
-      "competizione": "Informazione sportiva",
-      "canale": "Italia 1",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbDfaZT7-HwNdVpdajhzTHBCRjFhF8632ovm6vesxe77tveI-9O-T179soEPBDGGDBmyup5SYN0xNEeR2DrKrdf0qYt9cDmdJXVzMkIfc8WgOchBGJ4kbDmghc1tpgeCSyuDwui199Upg93q6Uqhayyxgx2AI=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:25",
-      "evento": "Europei di Nuoto 2026 - Semifinali e Finali",
-      "competizione": "European Aquatics Championships 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Con atleti italiani tra cui Thomas Ceccon (Finale 50 farfalla M), Sara Curtis (Finale 100 stile libero D), Nicolò Martinenghi, Simone Cerasuolo (Finale 100 rana M), Simona Quadarella (Finale 800 stile libero D)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2UW_2FFT0anplJk5FI-gTwXse82b7LEMgJVdWulg-ssp5x-lqP7eGyw1BiFpE-XXo3IDGAK3eyNosRwGzTDRnu4DiM2NkIgNLGli5dSEtefaK34ogEngyQWqXJkOERpUsOw7PUBV7iQbQH1Wwqw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbDfaZT7-HwNdVpdajhzTHBCRjFhF8632ovm6vesxe77tveI-9O-T179soEPBDGGDBmyup5SYN0xNEeR2DrKrdf0qYt9cDmdJXVzMkIfc8WgOchBGJ4kbDmghc1tpgeCSyuDwui199Upg93q6Uqhayyxgx2AI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDPQWqZ_nz9W_nStPUVwQDOxD8qR7aFi8LihvFog1eU_rObI81Pg8H_Vywy5LHDWd0c7KK8NKEf6jEwvnFpyeoDAt63ilxSDJ2_CwghAfWXNAxk8939KGppOZw5Twqdl6UHykAPcdjmXO73tR65Zvf2C5p4GCaj8FkzD5SQzJXzZ3rCt7z7mSgTGRZa7wKJoS6FpDD4jbuG6mQ0muqSMWGMN-IOniiXfU=",
+      "orario": "12:00",
+      "evento": "Calcio Amichevole: Juventus vs Palermo",
+      "competizione": "Amichevole",
+      "canale": "Sky Sport Calcio (202), SkyGo, NOW, Juventus Tv, DAZN",
+      "note": "Amichevole precampionato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmn0XEmf0Y47bhBc5WwbXhl3rmNV9gCv0ou3iGB2-lXbZ7qcFCCliTVGBDP8uyvoh2C3YE11o2BFR9KTmhn9lcsmqeEMWX_xwzpLZWL__AcLfNDg8rmbuK8alw9xK0piDH0MiVb68Vks786o53GAErU_qksR39xTQIt3IlFL7vA4ssyUPgGrpWU4M6OcYXbOb6p4uDeZVWcuSfPCh0Dwbw5lEP35z9GgGJ17HfWADyqtFwyF4lQQ8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Tennis - ATP Montreal Quarti di finale: Luciano Darderi vs Brandon Nakashima",
+      "evento": "Tennis ATP Montreal: Quarti di finale - Luciano Darderi vs Brandon Nakashima",
       "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport, NOW",
-      "note": "Match rinviato per pioggia",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgzKzmRysJd9MXWE2qM5x5_6yqueGBsVF06SARTrRpO2ayhrLiruMvaja03IYj4rqWEIjjK7JfgypwMtWm7qPVK4pHtqd7cWcpENYKwtBsSht4uX55n9-uT3KAB9PUA60S4O0b-m0i5WC7mVnA3n5xPVyGKCPrJVIsH-5lZCTguGba27Afrfn9MDs6zYUztoB5sgKHaD5yptoTLXFMwIt4YroxCTY9I0m9v8CCJP5ESTY0_ip9r0vUjMoahPsLt8eCypUNoLLiniaMdMB5, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKnF-XikQV-rxR8SxlQJMXLgpzj1pssTzHQJgDeunG8pboxeLslpElK_xBEAh_4VEbupRQGfeuaBaT6VU6Y02lbyfWj80W2jyBlZVT700tefJV1C29NfdGGOTq1UoldiYiIhkLYhe72UU0-Lnchf3KsNLBMCJx2nCW9iFq6WQBmKjQvP09PChdG29hzFnazIgKcdn83DXKE_dVBgruNTPI2n9WTJ2gOWRqlFWF7kx0VYIkb8jOg3-C0OG3JEQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNFOj6NuE9T8HcM47BGxqTZlXKLeuahKNzehEOxk9RSilk8Ww6H43jLjogFt8UnZl5NZEx2uZHCG9Uq9IBdwEZC3M69vkuHvatT1aPUJcKNh4VjyPUibyLbmazrNEyDEoDdwYrMvl0KBYkJjQmUrIMhPARi55ZDFF0SXCJr-OmRtI60GsHh9e2jg==",
+      "canale": "Sky Sport, NOW, Tennis Tv",
+      "note": "Giocatore italiano in campo: Luciano Darderi.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCLbLeyhj930ioxZ8xgCJyZ0F7C8ZOLmCFcP2Of0mfcn5ml2-hIFw3nbWDSxDLMlaYnF9NVb_raL3ugwqXLbnldehUMChmfUp-6FArOz2mXQetDYpBxN9KHF9gTQNqyrcy64eIEkyDO-5pNRLkDBslSvL_P8U3PVrhVYaYCOyaVCrVbFIEwUw3eg=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:05",
-      "evento": "Europei di Atletica 2026 - Sessione serale",
-      "competizione": "European Athletics Championships 2026",
-      "canale": "Rai 2 HD (20:00-20:30, 21:00-fine), Rai Sport HD (20:30-21:00), Sky Sport Uno, Sky Sport Arena",
-      "note": "Include la finale dei 5000m (Battocletti), finale del lungo (Inzoli) e finale dei 100m (Jacobs)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5avR86YCYOlJduDWh3JGy1QpdzPkUWz8YDFdckeeO4i8QsVuAcqi03BP65TP9PWTLYixlo9BoZjf8dVs8Ndc8XEvDkUzUca09hz8NmvHLd8b2wO0_YJ6TDK2MONLSS7GP32bybMpAy7tgWvwKfFfoRwfDJQbjSJIVD5EitYiaaeUrB1G1m4erD7ua_mAoYLQqcCdJIWbCDsg6wsxKeX_ok2QN0nVqVaKiiAQBW8E-huKjT-WMO24-z_iuVqdoOX8o6nif0nFkug==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpA_8FcAuNt3A1XOFtgDJspkrsnDzgaIwKLkMSeu9sjHx1aIIYgbyIw3wH005F1KJiSMGRqmzJtsoRZR4-zsGGjGG2u_cujv9cSBVzxpqAabvzt95zxCyFs6RUPSNjP3-Ho5HlGKJ2bOpE3BdIaeg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJZHex1JqxSrvXiKS-Crig6mIX0J7GjhFx1YW_OYwkust7BOXTtINaJ_KNWKOH6bTchZ8VzCWYvB4y23NucDee18Q3SuqmjTpLoh6qN4qYVXxv8-xbu-yGTKsb8rN3tCYlDfdnY1KJmfA7MVTjVvIaJyzAVL9UwG-3Yz5NJc6s5qTDG30qNoQSqQpl-hs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb7GdGVYcfAQQBwSvjW-3HNEFadD1oe1ul3hXfrZzbwLPVQKMNvDtq0MUIBaDDkyuZTsgfhkiMbtsXu1URTdxJnX3bGX37btf0IW6w6zRGvK8edgmU5IM2EVO0Yltrj3Xg1wuBXHujHJCMSrZlaywQ6skwhNOGvIxPFD8-R7LMr5BtcwSn0ikavO-aY2MC_XuDTR_dmGoHRSboz0oDBlG3ih0=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:30",
-      "evento": "Tennis - WTA Toronto Semifinale Doppio: Sara Errani/Nicole Melichar-Martinez vs Su-wei Hsieh/Jelena Ostapenko",
-      "competizione": "WTA 1000 Toronto",
-      "canale": "Sky Sport, SuperTennis",
-      "note": "Primo head-to-head",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgzKzmRysJd9MXWE2qM5x5_6yqueGBsVF06SARTrRpO2ayhrLiruMvaja03IYj4rqWEIjjK7JfgypwMtWm7qPVK4pHtqd7cWcpENYKwtBsSht4uX55n9-uT3KAB9PUA60S4O0b-m0i5WC7mVnA3n5xPVyGKCPrJVIsH-5lZCTguGba27Afrfn9MDs6zYUztoB5sgKHaD5yptoTLXFMwIt4YroxCTY9I0m9v8CCJP5ESTY0_ip9r0vUjMoahPsLt8eCypUNoLLiniaMdMB5, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaQctpUYSEy2z8oJZaeD1pjGl_xLhTWXmnPOX9OYO2SE5GATcgjBGpm8eXewye_aUaflctvcOYyzT4EA-6VyMuNUuZCwqY6afEkwqdh21wSY0xgZ3ElloxBvIwpHLc03hTDmYmSxDduYgRzWKtSxvYBsu0Y1QeIZWSdzdNJuWGsVSsiFjiG6p0LQbj289e61XFKIIYPx6YluYOgIJJ-wcK9tBVoEN1Qci63XUyHRt6lQMa_Qs2CxZUn0-WajljD5UMRdnSbMWpnid6Qobnww==",
+      "orario": "19:30",
+      "evento": "Calcio Amichevole: Juventus vs Palermo",
+      "competizione": "Amichevole",
+      "canale": "TV8",
+      "note": "Differita della partita giocata alle 12:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmn0XEmf0Y47bhBc5WwbXhl3rmNV9gCv0ou3iGB2-lXbZ7qcFCCliTVGBDP8uyvoh2C3YE11o2BFR9KTmhn9lcsmqeEMWX_xwzpLZWL__AcLfNDg8rmbuK8alw9xK0piDH0MiVb68Vks786o53GAErU_qksR39xTQIt3IlFL7vA4ssyUPgGrpWU4M6OcYXbOb6p4uDeZVWcuSfPCh0Dwbw5lEP35z9GgGJ17HfWADyqtFwyF4lQQ8=",
       "accuratezza_orario": "esatto"
     }
   ]
