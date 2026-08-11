@@ -1,59 +1,212 @@
 {
-  "last_updated": "2026-08-10T20:40:48.113323+02:00",
+  "last_updated": "2026-08-11T02:51:38.340252+02:00",
   "events": [
     {
-      "orario": "09:30",
-      "evento": "Europei Nuoto 2026: Prima giornata, sessione mattutina (Batterie)",
+      "orario": "04:30",
+      "evento": "Tuffi Grandi Altezze 20 mt Maschile",
       "competizione": "European Aquatics Parigi 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Include 400 misti uomini (Razzetti), 100 stile libero donne (Curtis), 50 farfalla uomini (Ceccon), 100 rana uomini (Martinenghi), 4x200 stile libero donne e uomini.",
-      "fonte": "OA Sport, Sky Sport, Quotidiano Nazionale",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7vc2PmtHNExKtgk59N0e9IsmbQDPGbj58Sz1RI_kI0P-xxwFCIKG76CCEfbf9pd0r_WL3WbKttLADPqyogUFRwqLcvP0N2lXx5H04VTqZGQGXlLM3hj4xBkkVmFfaMIDP9WVwLKKRQXRjjC2c0BH_cJBpUypuvHMlFWyQErkIYEB0dGfr6-HyRQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Semifinali e finali Nuoto",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Rai Sport +HD, RaiDue, Sky Sport Uno",
+      "note": "Potrebbe essere una replica o un evento del giorno precedente.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7vc2PmtHNExKtgk59N0e9IsmbQDPGbj58Sz1RI_kI0P-xxwFCIKG76CCEfbf9pd0r_WL3WbKttLADPqyogUFRwqLcvP0N2lXx5H04VTqZGQGXlLM3hj4xBkkVmFfaMIDP9WVwLKKRQXRjjC2c0BH_cJBpUypuvHMlFWyQErkIYEB0dGfr6-HyRQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtk6ry6pHrnB1VfTCJ1Fladq0GsW7s3X9k-cGmxOIO-JIYXpOghinTsiR-IXXQ0hNs6uEAZHzRUobPw-duw8gZkyQ2DwJgrAhxz3xjDz-b3hnu0Ka1v48L2DReHO5DMTMPKeNlKmYC_rbZDPGqW7c=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWeF5_ViVp7S1-xVY7rQLShtf4nF0a04_Zkv2opbHGAUUwheOimhrdx5uSWs3wZf-djH7L7Ji6VL7XcF0xzipWVbzzhKvHx4WfhYc1EdhxsiDb1ijJt80UHrY4bIsYDn87QKV70qTc40797Sil8m16iCr0hqBPLeMg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSMz5HNxpz1AZGds2Hq5J_vur2ElPJWjGSEx3pbxMK6Dg8JD_8Pyyl-VktdMrn24PlUlumP0yEr9TaxwHxNWBVR7xeDxbivrD2NN1pJaiMyB33DdUwkQnYpNOt3el7Tyvb3nSx752FcKTplF583Uy_QA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlVVoeedhvuQiEoxFzEM8xSqnha9JwoK86v0l8hPtwmmzhcGjnuf5OfMkvYH13dDMZxHoqP0KdQYT2PS4bJ7iR_hY8MdlLHIQrckzpv0Onp-bI1p7Y9Y1XydM7tr3ln2DSEHrtUxP8_wndnmWQ2aWnWVKi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00*",
+      "evento": "2° Quarto di Finale",
+      "competizione": "ATP Masters 1000 Canadian Open Montreal",
+      "canale": "Sky Sport Uno",
+      "note": "Presenza di un giocatore italiano (Darderi) indicata per Montreal oggi.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlVVoeedhvuQiEoxFzEM8xSqnha9JwoK86v0l8hPtwmmzhcGjnuf5OfMkvYH13dDMZxHoqP0KdQYT2PS4bJ7iR_hY8MdlLHIQrckzpv0Onp-bI1p7Y9Y1XydM7tr3ln2DSEHrtUxP8_wndnmWQ2aWnWVKi",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "09:30",
+      "evento": "Nuoto - Batterie 2a giornata",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtk6ry6pHrnB1VfTCJ1Fladq0GsW7s3X9k-cGmxOIO-JIYXpOghinTsiR-IXXQ0hNs6uEAZHzRUobPw-duw8gZkyQ2DwJgrAhxz3xjDz-b3hnu0Ka1v48L2DReHO5DMTMPKeNlKmYC_rbZDPGqW7c=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWeF5_ViVp7S1-xVY7rQLShtf4nF0a04_Zkv2opbHGAUUwheOimhrdx5uSWs3wZf-djH7L7Ji6VL7XcF0xzipWVbzzhKvHx4WfhYc1EdhxsiDb1ijJt80UHrY4bIsYDn87QKV70qTc40797Sil8m16iCr0hqBPLeMg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlVVoeedhvuQiEoxFzEM8xSqnha9JwoK86v0l8hPtwmmzhcGjnuf5OfMkvYH13dDMZxHoqP0KdQYT2PS4bJ7iR_hY8MdlLHIQrckzpv0Onp-bI1p7Y9Y1XydM7tr3ln2DSEHrtUxP8_wndnmWQ2aWnWVKi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:33",
+      "evento": "Salto in alto (M) Qualificazioni (FALOCCHI, SIOLI, STRONATI, TAMBERI)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynqNGSdxlg8KdNlgl5xo3SwPmNjPDHkNm4ZdwsKcXGgH1qJHJY7fECKSs34_RP3-5aqO7R8HtGrqjvDnvuNxCytL8cQvG6nyQqP3dbEciutwcBrQW_3VLJ3AACEAD6TDckx8IOCu2yOgOx8CmzYqp9PSQvvCu9POsbwouLEkdVdwlTlDzqnnZKcDxbnXLPxFCk4LklFfX0pKzA1EvR4HKHfv0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:35",
-      "evento": "Europei Atletica 2026: Prima giornata, sessione mattutina (Qualificazioni)",
-      "competizione": "Europei Atletica Birmingham 2026",
-      "canale": "Rai 2 (fino alle 13:00), Rai Sport HD (dalle 13:00), Sky Sport Uno, Sky Sport Arena",
-      "note": "Include qualificazioni salto in lungo (Furlani, Inzoli), getto del peso (Fabbri, Weir, Ponzio), 100m F (Dosso), 4x400m mista.",
-      "fonte": "OA Sport, Sky Sport, Quotidiano Nazionale, Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:45",
-      "evento": "Calcio: Incontro Amichevole Juventus - Inter",
-      "competizione": "Amichevole Club",
-      "canale": "Sky Sport Uno",
+      "evento": "Lancio del disco (M) Qualificazioni (MANNUCCI, C. MUSCI, SACCOMANO)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
       "note": "",
-      "fonte": "Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynqNGSdxlg8KdNlgl5xo3SwPmNjPDHkNm4ZdwsKcXGgH1qJHJY7fECKSs34_RP3-5aqO7R8HtGrqjvDnvuNxCytL8cQvG6nyQqP3dbEciutwcBrQW_3VLJ3AACEAD6TDckx8IOCu2yOgOx8CmzYqp9PSQvvCu9POsbwouLEkdVdwlTlDzqnnZKcDxbnXLPxFCk4LklFfX0pKzA1EvR4HKHfv0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Europei Nuoto 2026: Prima giornata, sessione serale (Semifinali e Finali)",
+      "orario": "11:45",
+      "evento": "400m Ostacoli (F) Semifinali (FOLORUNSO, MURARO, SARTORI)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynqNGSdxlg8KdNlgl5xo3SwPmNjPDHkNm4ZdwsKcXGgH1qJHJY7fECKSs34_RP3-5aqO7R8HtGrqjvDnvuNxCytL8cQvG6nyQqP3dbEciutwcBrQW_3VLJ3AACEAD6TDckx8IOCu2yOgOx8CmzYqp9PSQvvCu9POsbwouLEkdVdwlTlDzqnnZKcDxbnXLPxFCk4LklFfX0pKzA1EvR4HKHfv0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:10",
+      "evento": "Juventus - Palermo (Amichevole)",
+      "competizione": "Amichevoli Club",
+      "canale": "DAZN, Sky Sport Calcio, NOW, Juventus TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo8JYAYZ_nAfE36eueDBp9Kziw4cyqY4R_9X3PYbkAcXQdo_dgCX2jyxOjTlqnG9NczViBXoBFUiXrosYnp0GXzE3HkqlVrvQPKNI25JqLcuktnYSinFegOiXbiMr1ZrbDdztuX6qIHo0-KbgiBQ9AvXS0NYeSM_o-raF7QRruupk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DJyBzpSlzYWyVqII-F7rqpmilUpYF34cR0fU4UxeqcszZKXTXOotbcDwBeOv_Tj5g0XhLkQpOftYhsYiPVvU_kuh2y4gWXdFBxCwdRa-j-qDKtAqYpknIR1q75IL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpwNp_LLm34yfGYPkCA94NkpZhXcGAY_Mw6ltjLPqeuKmsWOLF0xNn0-LF0NmUhqqixt41ha-ZDorRTbzhozc5AktL_R-99zIhUUJ2iEWDXvwcXolLA6zauz9iLb5l",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "100 metri (M) Batterie (CECCARELLI, RANDAZZO)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynqNGSdxlg8KdNlgl5xo3SwPmNjPDHkNm4ZdwsKcXGgH1qJHJY7fECKSs34_RP3-5aqO7R8HtGrqjvDnvuNxCytL8cQvG6nyQqP3dbEciutwcBrQW_3VLJ3AACEAD6TDckx8IOCu2yOgOx8CmzYqp9PSQvvCu9POsbwouLEkdVdwlTlDzqnnZKcDxbnXLPxFCk4LklFfX0pKzA1EvR4HKHfv0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:40",
+      "evento": "110 metri ostacoli (M) Batterie (MULAS)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynqNGSdxlg8KdNlgl5xo3SwPmNjPDHkNm4ZdwsKcXGgH1qJHJY7fECKSs34_RP3-5aqO7R8HtGrqjvDnvuNxCytL8cQvG6nyQqP3dbEciutwcBrQW_3VLJ3AACEAD6TDckx8IOCu2yOgOx8CmzYqp9PSQvvCu9POsbwouLEkdVdwlTlDzqnnZKcDxbnXLPxFCk4LklFfX0pKzA1EvR4HKHfv0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:05",
+      "evento": "800 metri (F) Batterie (COIRO)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynqNGSdxlg8KdNlgl5xo3SwPmNjPDHkNm4ZdwsKcXGgH1qJHJY7fECKSs34_RP3-5aqO7R8HtGrqjvDnvuNxCytL8cQvG6nyQqP3dbEciutwcBrQW_3VLJ3AACEAD6TDckx8IOCu2yOgOx8CmzYqp9PSQvvCu9POsbwouLEkdVdwlTlDzqnnZKcDxbnXLPxFCk4LklFfX0pKzA1EvR4HKHfv0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:40",
+      "evento": "400m Ostacoli (M) Batterie (BERTONCELLI, SOMMACAL)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynqNGSdxlg8KdNlgl5xo3SwPmNjPDHkNm4ZdwsKcXGgH1qJHJY7fECKSs34_RP3-5aqO7R8HtGrqjvDnvuNxCytL8cQvG6nyQqP3dbEciutwcBrQW_3VLJ3AACEAD6TDckx8IOCu2yOgOx8CmzYqp9PSQvvCu9POsbwouLEkdVdwlTlDzqnnZKcDxbnXLPxFCk4LklFfX0pKzA1EvR4HKHfv0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Tuffi - Finale Trampolino 3 mt Sincro Femminile",
       "competizione": "European Aquatics Parigi 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Include semifinali 50 farfalla uomini, 100 stile libero donne, 200 dorso donne, 100 rana uomini; finali 400 misti uomini (Razzetti), 4x200 stile libero donne e uomini.",
-      "fonte": "OA Sport, Sky Sport, Quotidiano Nazionale",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSMz5HNxpz1AZGds2Hq5J_vur2ElPJWjGSEx3pbxMK6Dg8JD_8Pyyl-VktdMrn24PlUlumP0yEr9TaxwHxNWBVR7xeDxbivrD2NN1pJaiMyB33DdUwkQnYpNOt3el7Tyvb3nSx752FcKTplF583Uy_QA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:05",
-      "evento": "Europei Atletica 2026: Prima giornata, sessione serale (Semifinali e Finali)",
-      "competizione": "Europei Atletica Birmingham 2026",
-      "canale": "Rai 2 (dalle 21:00), Rai Sport HD (dalle 20:30), Sky Sport Uno",
-      "note": "Include semifinali 100m F (Dosso), finali getto del peso M (Fabbri, Weir, Ponzio), 5000m M, 4x400m mista.",
-      "fonte": "OA Sport, Sky Sport, Quotidiano Nazionale, Stasera in TV",
+      "orario": "14:55",
+      "evento": "Tuffi - Finale Piattaforma 10 mt Maschile",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSMz5HNxpz1AZGds2Hq5J_vur2ElPJWjGSEx3pbxMK6Dg8JD_8Pyyl-VktdMrn24PlUlumP0yEr9TaxwHxNWBVR7xeDxbivrD2NN1pJaiMyB33DdUwkQnYpNOt3el7Tyvb3nSx752FcKTplF583Uy_QA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00*",
-      "evento": "Tennis: ATP Masters 1000 Montreal, Quarti di Finale - Darderi (ITA) vs Nakashima (USA)",
-      "competizione": "ATP Masters 1000 Canadian Open Montreal",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Plus",
-      "note": "Secondo match a seguire Jodar (SPA) vs Fils (FRA), che inizia alle 00:00 (CET). Ora stimata in CET per Darderi vs Nakashima.",
-      "fonte": "Sky Sport, LiveTennis.it, TennisTalker Magazine",
-      "accuratezza_orario": "stimato"
+      "orario": "16:00",
+      "evento": "Nuoto Artistico - Programma Acrobatico",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSMz5HNxpz1AZGds2Hq5J_vur2ElPJWjGSEx3pbxMK6Dg8JD_8Pyyl-VktdMrn24PlUlumP0yEr9TaxwHxNWBVR7xeDxbivrD2NN1pJaiMyB33DdUwkQnYpNOt3el7Tyvb3nSx752FcKTplF583Uy_QA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Tuffi Grandi Altezze - 20 mt Maschile",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSMz5HNxpz1AZGds2Hq5J_vur2ElPJWjGSEx3pbxMK6Dg8JD_8Pyyl-VktdMrn24PlUlumP0yEr9TaxwHxNWBVR7xeDxbivrD2NN1pJaiMyB33DdUwkQnYpNOt3el7Tyvb3nSx752FcKTplF583Uy_QA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:25",
+      "evento": "Nuoto - Semifinali e finali 2a giornata",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Rai 2, Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtk6ry6pHrnB1VfTCJ1Fladq0GsW7s3X9k-cGmxOIO-JIYXpOghinTsiR-IXXQ0hNs6uEAZHzRUobPw-duw8gZkyQ2DwJgrAhxz3xjDz-b3hnu0Ka1v48L2DReHO5DMTMPKeNlKmYC_rbZDPGqW7c=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Nuoto Artistico - Finale a Squadre - programma Tecnico",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Rai Sport +HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSMz5HNxpz1AZGds2Hq5J_vur2ElPJWjGSEx3pbxMK6Dg8JD_8Pyyl-VktdMrn24PlUlumP0yEr9TaxwHxNWBVR7xeDxbivrD2NN1pJaiMyB33DdUwkQnYpNOt3el7Tyvb3nSx752FcKTplF583Uy_QA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Juventus - Palermo (Amichevole)",
+      "competizione": "Amichevoli Club",
+      "canale": "Canale 8",
+      "note": "Differita.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo8JYAYZ_nAfE36eueDBp9Kziw4cyqY4R_9X3PYbkAcXQdo_dgCX2jyxOjTlqnG9NczViBXoBFUiXrosYnp0GXzE3HkqlVrvQPKNI25JqLcuktnYSinFegOiXbiMr1ZrbDdztuX6qIHo0-KbgiBQ9AvXS0NYeSM_o-raF7QRruupk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:10",
+      "evento": "Lancio del martello maschile, finale",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:25",
+      "evento": "5000 metri femminile, finale (Nadia Battocletti, Federica Del Buono, Micol Majori)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:55",
+      "evento": "100 ostacoli, semifinali",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:16",
+      "evento": "Salto in lungo maschile, finale (Francesco Inzoli)",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, DAZN",
+      "note": "Francesco Inzoli si è qualificato con la miglior misura.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynqNGSdxlg8KdNlgl5xo3SwPmNjPDHkNm4ZdwsKcXGgH1qJHJY7fECKSs34_RP3-5aqO7R8HtGrqjvDnvuNxCytL8cQvG6nyQqP3dbEciutwcBrQW_3VLJ3AACEAD6TDckx8IOCu2yOgOx8CmzYqp9PSQvvCu9POsbwouLEkdVdwlTlDzqnnZKcDxbnXLPxFCk4LklFfX0pKzA1EvR4HKHfv0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG14j0tMafsmiJ3s8DWtVjRN-RRmu4vFISflG-kcgDi2TTQwMz8FhRQdbPi7hcmnrQXJsfZU0JNafeje7ok1I1cmensWrFIjl4vk71Uigo02-7EwS1yN4MjiBoiWCwTncN4qQGF9m_fFgycNZztTxqa94EggORzLmUma3CTVU_LchZ7fF-KINdH6XP0d3WZgUE-dZmm4uCyogGjDNWRFHiExBeL900CClOwuHjFen8KBTjNa2DcDV7lNsmdtKk-d2VbL_ZMBH_6bH4yJOpnuk6lxrdFBumWrWu5Kf_7rUIu",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
