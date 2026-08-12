@@ -1,112 +1,22 @@
 {
-  "last_updated": "2026-08-12T09:05:38.003256+02:00",
+  "last_updated": "2026-08-12T14:40:59.945134+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "European Aquatics Parigi 2026 - Nuoto Semifinali e finali",
-      "competizione": "European Aquatics Championships 2026",
-      "canale": "Rai Sport HD",
-      "note": "Replica delle semifinali e finali della giornata precedente",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpsMDUPrKEpJl7AREAfe2eywwEr5oeG-DP4cZqWDr-pHUU1P8jj4oMjTgopn2bFZCIEftt-972w5rbBbHOKniDUbsTNo85T2Qwibl7gqwyZLTTgM8pGqR7IQJRvCYKneHA4B0qBQg5Qc0lEPB1-o, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLpq7Lplcfn5pGlSQ7rKymFo5zK7cwh9eTONsQt4kK4MlOGvbbJA5j71G1nIz4AfFopZ4o2Vm8lZmC_QNVs6gbSslOKtD_PEFqmqh68Ozn8wPAvaSwiWSgD1VWuc7EpKuyrD1B-p",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Europei Atletica 2026 - 2a giornata: sessione serale",
-      "competizione": "Europei Atletica 2026",
-      "canale": "Rai Sport HD",
-      "note": "Replica della sessione serale della 2a giornata (da Birmingham)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpsMDUPrKEpJl7AREAfe2eywwEr5oeG-DP4cZqWDr-pHUU1P8jj4oMjTgopn2bFZCIEftt-972w5rbBbHOKniDUbsTNo85T2Qwibl7gqwyZLTTgM8pGqR7IQJRvCYKneHA4B0qBQg5Qc0lEPB1-o",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:30",
-      "evento": "European Aquatics Parigi 2026 - Nuoto 3a giornata: batterie",
-      "competizione": "European Aquatics Championships 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Batterie con italiani in vasca",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtZcht2fO1feBkoLUYwtSCtlyrayfq9e66FVcsJiR95j4S5vkFTCQpR3ofKq5IJ8uXAFZwSoaO21WsTL0IkCppgi0OLDE-yKbNzBSwaQR38xJQgU7nvjjXA1caEXkwcTYMYB7Qne4pAXWVhBFrd6qIS_MwnQVm3OzPRaLOaRoLsZYPyR_vcJ8XXtJsuXc3_EW8ix5HHGZ9DM_XiIgYuz7EpYvChDl4_1yKMa2QdJ9lrt4lclfIk-lWZUduoOD80WJ2, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpsMDUPrKEpJl7AREAfe2eywwEr5oeG-DP4cZqWDr-pHUU1P8jj4oMjTgopn2bFZCIEftt-972w5rbBbHOKniDUbsTNo85T2Qwibl7gqwyZLTTgM8pGqR7IQJRvCYKneHA4B0qBQg5Qc0lEPB1-o, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs-rhQKtRv9MxAdlbGF8pxGHBim-YtK4PpSsmrs3HYOGEo7UXeYa55Dl7udfkS-eNh5mzvKcUKBINPAP88TwOXfidY6gfjn5Qu2MKczsY-2tePWxNbYdH-3xaZUt6VoWbBDc-3dc4KPw-kq8sBs0ltqwevoLEVgcPZMw_s_mzIRSM64EFbYIKOpgfhM84ANoA6rsDiwk59LUCrjs-UPT_FgtECEgIGSfPfgp89LUqV9UsktjPUCSk3QsiZ_7zJGGzQP9WyOA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:30",
-      "evento": "Europei Atletica 2026 - 3a giornata: sessione mattutina",
-      "competizione": "Europei Atletica 2026",
-      "canale": "Rai 2 HD, Sky Sport Uno, Sky Sport Arena",
-      "note": "Da Birmingham, con italiani in gara (es. Decathlon, Qualificazioni Disco F, Batterie 400 F, Batterie 200 F, Semifinali 800 M, Semifinali 400 hs M)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2eJpmqJ5fORY6QMjVbe2lSIWPKY5Nee-2fUc4AGQY0bwZhlLZbVMZ8uD3qlOB8iFfASGemVNoCxdIPFhLsoVi4r7WuZ62EKwYDWLyEF3xcPQPi4P6RbuKj1p_r0akUE3uV5uVof1gegKSmZV9h6aL36ugJf7pTwFvoYjflA12SBmw3AkQLEkteN19-o4cK-jo5CbZ7h3jCFgSNbhTbYw1gO68smeVQo5aWPq2Zls8dZPXjljv5YTuHah7y2_K, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpsMDUPrKEpJl7AREAfe2eywwEr5oeG-DP4cZqWDr-pHUU1P8jj4oMjTgopn2bFZCIEftt-972w5rbBbHOKniDUbsTNo85T2Qwibl7gqwyZLTTgM8pGqR7IQJRvCYKneHA4B0qBQg5Qc0lEPB1-o, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb_uLdgGgZwsJ8RAnYYt3bsQnF2lwn0FGoxE2xAjINHMELfnqDgfpM-w9hwAQ2b8sMHNpzM1RCZ51fWSUAhVowtPTxA6lCisNeB5Q8Q984svPPyOWkJGhVar_Mal0SF3uV5uVof1gegKSmZV9h6aL36ugJf7pTwFvoYjflA12SBmw3AkQLEkteN19-o4cK-jo5CbZ7h3jCFgSNbhTbYw1gO68smeVQo5aWPq2Zls8dZPXjljv5YTuHah7y2_K, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg5SdnfNbcTx01B-NV065zwhR_j0xnwz1WiBMS02OFnYV2k2hZgVE1qNrHQQefQnpQqBbZwusgkWchkpti7koWAB8NZPuMr3DHiDGW1Xj6zriSDTOYiIbknA-hWI_-FwPFwsZK8A6K2sbLMTtIfvV8cOU61aa-cwC9MPQ1SwRBhrKDRfJj-df82vKBKHzX99W4l92eWTBPerbAizc",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:25",
-      "evento": "European Aquatics Parigi 2026 - Nuoto 3a giornata: semifinali e finali",
-      "competizione": "European Aquatics Championships 2026",
-      "canale": "Rai 2, Sky Sport Uno, Sky Sport Max",
-      "note": "Da Parigi, con italiani in vasca (es. finale 200m dorso, semifinale 100m farfalla, finale 4x100 stile libero femminile)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpsMDUPrKEpJl7AREAfe2eywwEr5oeG-DP4cZqWDr-pHUU1P8jj4oMjTgopn2bFZCIEftt-972w5rbBbHOKniDUbsTNo85T2Qwibl7gqwyZLTTgM8pGqR7IQJRvCYKneHA4B0qBQg5Qc0lEPB1-o, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs-rhQKtRv9MxAdlbGF8pxGHBim-YtK4PpSsmrs3HYOGEo7UXeYa55Dl7udfkS-eNh5mzvKcUKBINPAP88TwOXfidY6gfjn5Qu2MKczsY-2tePWxNbYdH-3xaZUt6VoWbBDc-3dc4KPw-kq8sBs0ltqwevoLEVgcPZMw_s_mzIRSM64EFbYIKOpgfhM84ANoA6rsDiwk59LUCrjs-UPT_FgtECEgIGSfPfgp89LUqV9UsktjPUCSk3QsiZ_7zJGGzQP9WyOA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Al Nassr-Al Ahli",
-      "competizione": "Campionato Saudita",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryy9c8G9Y5lL--q_-q3DfcPutkPl7vxQy0fvMAoXn1rEkCecZsi8zDLLk9JgJPOj3LVjgdnB3kH-bjT_eeoAJkznoRToK3z78lAxzpykv4bWBgFy62YXV7zaeurIkOE71clam3nQ=",
+      "orario": "21:00",
+      "evento": "PSG vs Aston Villa",
+      "competizione": "UEFA Super Cup",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, NOW",
+      "note": "Finale di Supercoppa Europea.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQaMarUHdLdiSs4ITC91wDSnzHpWm0r-j4H_ytdE3NXpRE95ibfgOWw0XmQUZCcHt08wuPuz7OGO3NFCjmAYQ_l8bt14cU14GNxcUwC62OOpxRpQm5vfkbaBoTZQbeMyq8rrvdi56XpZ28PQmABitZD28zglpHAhUawhMvKF5dEP45ULC7m7kXanc4Fdzr7mmGpg1qy37aNsfNSf3_Zm-lIkPCXGLPGSCZ_AfbThyL67acV3nEjEOY8",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "PSG-Aston Villa",
-      "competizione": "Supercoppa Europea",
-      "canale": "Sky Sport Calcio, Sky Sport 4K",
-      "note": "In palio il primo trofeo continentale dell'anno",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHgNU5plEFOF38NekfvFgSxRs6LK57whad6Ou4L8J9rEaudteQ2zJIZTcAMG9LpN8buE-Y2KmJ9BaM0YyZC1jfEVaGK6jPDlB6uKcdmf4y2Ikz13dmTE-8T5Uvwyex69IdWt4xCg0WLZz3nf4SfTcB_eIWBu4HJ0b1_g4jkVJGPP1-VZXML2hvBvX-otmZUVrvIg3QTWs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEae_LdnmCrwV7RR62DlPDYyHBWV1m79rEdybX0rNCi6QvWH7vBnCuYpDMnNYEEVoIcTMJyAxxylp-ls9GtfW1Js5T5ZMRREzP2K41aqU6WtEihHWptnbWApO8pr52WU0gJyNTg6vMjs82pno7VHVSSDwh9b8UGqQbTywJUBcIEo8nVuSayrhU5S-ZmUT9LnyFNpCXvPkk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Napoli-Aris",
-      "competizione": "Amichevole di Calcio",
-      "canale": "DAZN, Sky Sport, OneFootball (pay-per-view)",
-      "note": "Ultimo test dell'estate per il Napoli",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHgNU5plEFOF38NekfvFgSxRs6LK57whad6Ou4L8J9rEaudteQ2zJIZTcAMG9LpN8buE-Y2KmJ9BaM0YyZC1jfEVaGK6jPDlB6uKcdmf4y2Ikz13dmTE-8T5Uvwyex69IdWt4xCg0WLZz3nf4SfTcB_eIWBu4HJ0b1_g4jkVJGPP1-VZXML2hvBvX-otmZUVrvIg3QTWs=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Europei Atletica 2026 - 3a giornata: sessione serale",
-      "competizione": "Europei Atletica 2026",
-      "canale": "Rai 2 HD, Sky Sport Uno, Sky Sport Arena",
-      "note": "Da Birmingham, Finali e Semifinali con italiani in gara (es. Martello F Finale, 400 hs F Finale, Salto Triplo M Qual.)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpsMDUPrKEpJl7AREAfe2eywwEr5oeG-DP4cZqWDr-pHUU1P8jj4oMjTgopn2bFZCIEftt-972w5rbBbHOKniDUbsTNo85T2Qwibl7gqwyZLTTgM8pGqR7IQJRvCYKneHA4B0qBQg5Qc0lEPB1-o, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb_uLdgGgZwsJ8RAnYYt3bsQnF2lwn0FGoxE2xAjINHMELfnqDgfpM-w9hwAQ2b8sMHNpzM1RCZ51fWSUAhVowtPTxA6lCisNeB5Q8Q984svPPyOWkJGhVar_Mal0SF3uV5uVof1gegKSmZV9h6aL36ugJf7pTwFvoYjflA12SBmw3AkQLEkteN19-o4cK-jo5CbZ7h3jCFgSNbhTbYw1gO68smeVQo5aWPq2Zls8dZPXjljv5YTuHah7y2_K, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryy9c8G9Y5lL--q_-q3DfcPutkPl7vxQy0fvMAoXn1rEkCecZsi8zDLLk9JgJPOj3LVjgdnB3kH-bjT_eeoAJkznoRToK3z78lAxzpykv4bWBgFy62YXV7zaeurIkOE71clam3nQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg5SdnfNbcTx01B-NV065zwhR_j0xnwz1WiBMS02OFnYV2k2hZgVE1qNrHQQefQnpQqBbZwusgkWchkpti7koWAB8NZPuMr3DHiDGW1Xj6zriSDTOYiIbknA-hWI_-FwPFwsZK8A6K2sbLMTtIfvV8cOU61aa-cwC9MPQ1SwRBhrKDRfJj-df82vKBKHzX99W4l92eWTBPerbAizc",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:05",
-      "evento": "European Aquatics Championships - Nuoto",
-      "competizione": "European Aquatics Championships 2026",
-      "canale": "Rai Sport",
-      "note": "Vari eventi di nuoto",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryy9c8G9Y5lL--q_-q3DfcPutkPl7vxQy0fvMAoXn1rEkCecZsi8zDLLk9JgJPOj3LVjgdnB3kH-bjT_eeoAJkznoRToK3z78lAxzpykv4bWBgFy62YXV7zaeurIkOE71clam3nQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "River Plate - Barracas Central",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryy9c8G9Y5lL--q_-q3DfcPutkPl7vxQy0fvMAoXn1rEkCecZsi8zDLLk9JgJPOj3LVjgdnB3kH-bjT_eeoAJkznoRToK3z78lAxzpykv4bWBgFy62YXV7zaeurIkOE71clam3nQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "West Ham-Manchester City",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryy9c8G9Y5lL--q_-q3DfcPutkPl7vxQy0fvMAoXn1rEkCecZsi8zDLLk9JgJPOj3LVjgdnB3kH-bjT_eeoAJkznoRToK3z78lAxzpykv4bWBgFy62YXV7zaeurIkOE71clam3nQ=",
+      "evento": "Napoli vs Aris Salonicco",
+      "competizione": "Amichevole Calcio",
+      "canale": "Sky Primafila, DAZN, Sky Sport (canale 251), NOW, ONEFOOTBALL",
+      "note": "Ultimo test del precampionato del Napoli.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExitL30EO04FF1qG8RABnatvXv3u9DxX9vI5TLPm0zZxEcZfh-ogOxlOZLRMSH1VsTdz9cTiX2h4_ZV4NVloHhYZOox8TpKpK1pTp-PiOsNfJ5LUrbo1U-7i7hA344UdyyceONqJ45_JoBJVw0xR3c5ZOb3dUTe9Pm5aHb57WZJ3BnwFjrsFT5_t6VtNJM74U94XEqi2Xz08Z5RpVNZc55JwPutEwzL35QjNOrtJqQZkCzgRBg_Ln2",
       "accuratezza_orario": "esatto"
     }
   ]
