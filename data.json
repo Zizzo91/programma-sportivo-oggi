@@ -1,31 +1,238 @@
 {
-  "last_updated": "2026-08-11T20:44:23.886813+02:00",
+  "last_updated": "2026-08-12T02:58:09.778399+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "Calcio Amichevole: Juventus vs Palermo",
-      "competizione": "Amichevole",
-      "canale": "Sky Sport Calcio (202), SkyGo, NOW, Juventus Tv, DAZN",
-      "note": "Amichevole precampionato.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmn0XEmf0Y47bhBc5WwbXhl3rmNV9gCv0ou3iGB2-lXbZ7qcFCCliTVGBDP8uyvoh2C3YE11o2BFR9KTmhn9lcsmqeEMWX_xwzpLZWL__AcLfNDg8rmbuK8alw9xK0piDH0MiVb68Vks786o53GAErU_qksR39xTQIt3IlFL7vA4ssyUPgGrpWU4M6OcYXbOb6p4uDeZVWcuSfPCh0Dwbw5lEP35z9GgGJ17HfWADyqtFwyF4lQQ8=",
+      "orario": "00:00",
+      "evento": "Fluminense vs Independiente Rivadavia",
+      "competizione": "Copa Libertadores",
+      "canale": "COMO TV",
+      "note": "Match del 13 agosto (primo mattino)",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Tennis ATP Montreal: Quarti di finale - Luciano Darderi vs Brandon Nakashima",
-      "competizione": "ATP Masters 1000 Montreal",
-      "canale": "Sky Sport, NOW, Tennis Tv",
-      "note": "Giocatore italiano in campo: Luciano Darderi.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCLbLeyhj930ioxZ8xgCJyZ0F7C8ZOLmCFcP2Of0mfcn5ml2-hIFw3nbWDSxDLMlaYnF9NVb_raL3ugwqXLbnldehUMChmfUp-6FArOz2mXQetDYpBxN9KHF9gTQNqyrcy64eIEkyDO-5pNRLkDBslSvL_P8U3PVrhVYaYCOyaVCrVbFIEwUw3eg=",
+      "orario": "00:00",
+      "evento": "Boca Juniors vs Recoleta",
+      "competizione": "Copa Sudamericana",
+      "canale": "COMO TV",
+      "note": "Match del 13 agosto (primo mattino)",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:30",
-      "evento": "Calcio Amichevole: Juventus vs Palermo",
-      "competizione": "Amichevole",
-      "canale": "TV8",
-      "note": "Differita della partita giocata alle 12:00 CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmn0XEmf0Y47bhBc5WwbXhl3rmNV9gCv0ou3iGB2-lXbZ7qcFCCliTVGBDP8uyvoh2C3YE11o2BFR9KTmhn9lcsmqeEMWX_xwzpLZWL__AcLfNDg8rmbuK8alw9xK0piDH0MiVb68Vks786o53GAErU_qksR39xTQIt3IlFL7vA4ssyUPgGrpWU4M6OcYXbOb6p4uDeZVWcuSfPCh0Dwbw5lEP35z9GgGJ17HfWADyqtFwyF4lQQ8=",
+      "orario": "00:00",
+      "evento": "West Ham vs Manchester City",
+      "competizione": "Calcio Amichevole",
+      "canale": "SPORTITALIA",
+      "note": "Match del 13 agosto (primo mattino)",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:50",
+      "evento": "Atletica Europei 2026 - 3a giornata - sessione mattutina (da Birmingham)",
+      "competizione": "Campionati Europei di Atletica",
+      "canale": "Rai Sport HD",
+      "note": "Replica",
+      "fonte": "guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Estudiantes vs Universidad Católica",
+      "competizione": "Copa Libertadores",
+      "canale": "COMO TV",
+      "note": "Match del 13 agosto (primo mattino)",
+      "fonte": "calciomagazine.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Bolívar vs San Paolo",
+      "competizione": "Copa Sudamericana",
+      "canale": "COMO TV",
+      "note": "Match del 13 agosto (primo mattino)",
+      "fonte": "calciomagazine.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:10",
+      "evento": "Atletica Europei 2026 - 3a giornata - sessione serale (da Birmingham)",
+      "competizione": "Campionati Europei di Atletica",
+      "canale": "Rai Sport HD",
+      "note": "Replica",
+      "fonte": "guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "European Aquatics Championships Parigi 2026 - Nuoto: Semifinali e finali",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport HD",
+      "note": null,
+      "fonte": "stasera.in.tv, guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:30",
+      "evento": "European Aquatics Championships Parigi 2026 - Tuffi Grandi Altezze: 20 mt Maschile",
+      "competizione": "Campionati Europei di Tuffi",
+      "canale": "Rai Sport HD",
+      "note": null,
+      "fonte": "guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Europei Atletica 2026 - 3a giornata - sessione mattutina (da Birmingham)",
+      "competizione": "Campionati Europei di Atletica",
+      "canale": "Rai Sport HD",
+      "note": null,
+      "fonte": "guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:20",
+      "evento": "European Aquatics Championships Parigi 2026 - Tuffi: Finale Piattaforma 10 mt Maschile",
+      "competizione": "Campionati Europei di Tuffi",
+      "canale": "Rai Sport HD",
+      "note": null,
+      "fonte": "guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "European Aquatics Championships Parigi 2026 - Nuoto Artistico: Programma Acrobatico",
+      "competizione": "Campionati Europei di Nuoto Artistico",
+      "canale": "Rai Sport HD",
+      "note": null,
+      "fonte": "guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Campionato Saudita: Al Nassr vs Al Ahli",
+      "competizione": "Saudi League",
+      "canale": "SPORTITALIA",
+      "note": null,
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Europei Atletica 2026 - 3a giornata - sessione serale (da Birmingham)",
+      "competizione": "Campionati Europei di Atletica",
+      "canale": "Rai Sport HD",
+      "note": null,
+      "fonte": "guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "ATP Masters 1000 Cincinnati 2026 - Sorteggio tabellone principale",
+      "competizione": "Tennis ATP Masters 1000",
+      "canale": "Sky Sport",
+      "note": "Jannik Sinner (n.1 ATP) accreditato come prima testa di serie. Il torneo inizia il 13 agosto.",
+      "fonte": "oasport.it, puntodebreak.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Arsenal vs Como",
+      "competizione": "Calcio Amichevole",
+      "canale": "SPORTITALIA, COMO TV",
+      "note": null,
+      "fonte": "calciomagazine.net, sportitalia.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Supercup: Paris Saint-Germain vs Aston Villa (Finale)",
+      "competizione": "UEFA Super Cup",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, NOW",
+      "note": "Da Red Bull Arena, Salisburgo",
+      "fonte": "tvsorrisi.it, calciomagazine.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Napoli vs Aris Salonicco",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, Sky Sport (canale 251), NOW, ONEFOOTBALL",
+      "note": null,
+      "fonte": "calciomagazine.net",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Europei di atletica",
+      "competizione": "Campionati Europei di Atletica Birmingham 2026",
+      "canale": "Rai 2",
+      "note": null,
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:05",
+      "evento": "European Aquatics Championships Parigi 2026 - Nuoto Artistico: Finale a Squadre - programma Tecnico",
+      "competizione": "Campionati Europei di Nuoto Artistico",
+      "canale": "Rai Sport HD",
+      "note": null,
+      "fonte": "guidatv.eu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:05",
+      "evento": "European Aquatics Championships",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport",
+      "note": null,
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "River Plate vs Barracas Central",
+      "competizione": "Copa Sudamericana",
+      "canale": "SPORTITALIA",
+      "note": null,
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:05",
+      "evento": "European Aquatics Championships",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport",
+      "note": null,
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Europei di atletica",
+      "competizione": "Campionati Europei di Atletica",
+      "canale": "Rai Sport",
+      "note": "Replica",
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:30",
+      "evento": "European Aquatics Championships",
+      "competizione": "Campionati Europei di Nuoto",
+      "canale": "Rai Sport",
+      "note": null,
+      "fonte": "programmitv.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:58",
+      "evento": "Sport Mediaset - La giornata",
+      "competizione": "Rubrica Sportiva",
+      "canale": "TGCOM24",
+      "note": null,
+      "fonte": "programmitv.com",
       "accuratezza_orario": "esatto"
     }
   ]
