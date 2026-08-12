@@ -1,22 +1,58 @@
 {
-  "last_updated": "2026-08-12T14:40:59.945134+02:00",
+  "last_updated": "2026-08-12T20:45:30.520759+02:00",
   "events": [
     {
-      "orario": "21:00",
-      "evento": "PSG vs Aston Villa",
-      "competizione": "UEFA Super Cup",
-      "canale": "Sky Sport Calcio, Sky Sport 4K, NOW",
-      "note": "Finale di Supercoppa Europea.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQaMarUHdLdiSs4ITC91wDSnzHpWm0r-j4H_ytdE3NXpRE95ibfgOWw0XmQUZCcHt08wuPuz7OGO3NFCjmAYQ_l8bt14cU14GNxcUwC62OOpxRpQm5vfkbaBoTZQbeMyq8rrvdi56XpZ28PQmABitZD28zglpHAhUawhMvKF5dEP45ULC7m7kXanc4Fdzr7mmGpg1qy37aNsfNSf3_Zm-lIkPCXGLPGSCZ_AfbThyL67acV3nEjEOY8",
+      "orario": "09:30",
+      "evento": "Batterie (Nuoto, con Matilde Biagiotti, Alessandra Mao, Anna Chiara Mascolo, Bianca Nannucci; Michele Busa, Thomas Ceccon, Lorenzo Gargani, Alberto Razzetti; Costanza Cocconcelli, Sara Curtis, Federica Toma; Christian Mantegazza; Giada Alzetta, Anna Pirovano; Italia 4x100m stile libero donne)",
+      "competizione": "European Aquatics Championships Parigi 2026",
+      "canale": "Rai 2 HD, Sky Sport Uno, Sky Sport Max, Rai Play, Sky Go, NOW, European Aquatics TV",
+      "note": "",
+      "fonte": "ProgrammiTV, OA Sport, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:35",
+      "evento": "Sessione mattutina (Atletica, con Dario Dester, Alberto Nonino; Benedetta Benedetti, Emily Conte, Daisy Osakue; Alessandra Bonora, Alice Mangione; Elena Cambiolo, Vittoria Fontana, Dalia Kaddari; Giovanni Lazzaro, Francesco Pernici; Alessandro Sibilio, Giacomo Bertonelli, Alessio Sommacal)",
+      "competizione": "European Athletics Championships Birmingham 2026",
+      "canale": "Rai 2 HD, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, Sky Sport 252, Rai Play, Sky Go, NOW, Eurosport 1 HD, Discovery Plus, HBO Max, DAZN",
+      "note": "",
+      "fonte": "ProgrammiTV, OA Sport, Adnkronos",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Semifinali e Finali (Nuoto, con Thomas Ceccon, Silvia Di Pietro, Carlos D'Ambrosio, Benedetta Pilato, Lisa Angiolini, Luca De Tullio, Italia 4x100m stile libero donne; Bianca Nannucci, Anna Chiara Mascolo; Alberto Razzetti, Michele Busa; Sara Curtis, Costanza Cocconcelli; Christian Mantegazza; Giada Alzetta, Anna Pirovano)",
+      "competizione": "European Aquatics Championships Parigi 2026",
+      "canale": "Rai 2 HD, Sky Sport Uno, Sky Sport Max, Rai Play, Sky Go, NOW, European Aquatics TV",
+      "note": "",
+      "fonte": "ProgrammiTV, OA Sport, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:40",
+      "evento": "Sessione serale (Atletica, con Sara Fantini; Ayomide Folorunso; Simone Biasutti, Andrea Dallavalle, Andy Diaz; Edoardo Scotti; Elena Cambiolo, Vittoria Fontana, Dalia Kaddari; Dario Dester, Alberto Nonino)",
+      "competizione": "European Athletics Championships Birmingham 2026",
+      "canale": "Rai 2 HD, Rai Sport HD, Sky Sport Uno, Sky Sport Arena, Sky Sport 252, Rai Play, Sky Go, NOW, Eurosport 1 HD, Discovery Plus, HBO Max, DAZN",
+      "note": "",
+      "fonte": "ProgrammiTV, OA Sport, Adnkronos",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Napoli vs Aris Salonicco",
-      "competizione": "Amichevole Calcio",
-      "canale": "Sky Primafila, DAZN, Sky Sport (canale 251), NOW, ONEFOOTBALL",
-      "note": "Ultimo test del precampionato del Napoli.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExitL30EO04FF1qG8RABnatvXv3u9DxX9vI5TLPm0zZxEcZfh-ogOxlOZLRMSH1VsTdz9cTiX2h4_ZV4NVloHhYZOox8TpKpK1pTp-PiOsNfJ5LUrbo1U-7i7hA344UdyyceONqJ45_JoBJVw0xR3c5ZOb3dUTe9Pm5aHb57WZJ3BnwFjrsFT5_t6VtNJM74U94XEqi2Xz08Z5RpVNZc55JwPutEwzL35QjNOrtJqQZkCzgRBg_Ln2",
+      "evento": "Supercoppa Europea: Paris Saint-Germain vs Aston Villa",
+      "competizione": "Calcio",
+      "canale": "Sky",
+      "note": "",
+      "fonte": "Digital-News.it, Sky Sport, Le partite di oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Amichevole: Napoli - Aris Salonicco",
+      "competizione": "Calcio",
+      "canale": "Sky Primafila (PPV)",
+      "note": "",
+      "fonte": "Digital-News.it",
       "accuratezza_orario": "esatto"
     }
   ]
