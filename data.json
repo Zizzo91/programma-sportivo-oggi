@@ -1,58 +1,112 @@
 {
-  "last_updated": "2026-08-13T14:41:51.196648+02:00",
+  "last_updated": "2026-08-13T20:45:29.964934+02:00",
   "events": [
     {
-      "orario": "15:00",
-      "evento": "GP Giappone: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 (207)",
+      "orario": "13:00",
+      "evento": "Europei 2026 - 4a giornata: sessione mattutina",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "guida.tv",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdooGxD1B8yUAs_lqbncy7XW5Y0gSWFzBqbI89bWts5i21cVswyy8Q88g1ucN-IcBx7g4vX8rm23gVhPc2MsZVKVwqAkOaFPHfh2MqONPLiTHOV2F5cXjukNX3-yUzUHQgmCNxHUBpQe2S70nB3RCnyg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:50",
+      "evento": "Nuoto Artistico: Programma Acrobatico",
+      "competizione": "European Aquatics Championships Parigi 2026",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdooGxD1B8yUAs_lqbncy7XW5Y0gSWFzBqbI89bWts5i21cVswyy8Q88g1ucN-IcBx7g4vX8rm23gVhPc2MsZVKVwqAkOaFPHfh2MqONPLiTHOV2F5cXjukNX3-yUzUHQgmCNxHUBpQe2S70nB3RCnyg==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Masters 1000 & WTA 1000 Cincinnati - 1a giornata",
-      "competizione": "Tennis ATP/WTA 1000",
+      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 1a giornata",
+      "competizione": "Tennis ATP/WTA Cincinnati Open",
       "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport 251",
-      "note": "Con diversi giocatori italiani in campo (es. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Elisabetta Cocciaretto).",
-      "fonte": "Il Tennis Italiano, Sky Sport",
-      "accuratezza_orario": "stimato"
+      "note": "Con italiani in campo: Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini (ATP); Elisabetta Cocciaretto (WTA).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEe6TI4Ikje2eZG1Na9xUWIeY35u0pIASLbECxoCKjUT_1aCFFGshJZS11GvPPeXUwQgYIcnWTFU8iAwKSMrKbksERASpQrfaikyyuKpL1DvwUexT6cjkGotdsCw60EwV4ED_HJWG75JRgIvuacBMuanVA9CvgnPnsmOt7L7m_z90oerqZ_cXcCFW5ADuJUW1tkvuew78-OjioRn4dqnBlnYw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPVoG43eicMFUqs4JNgrE0HUcGr6HiA6NaNjbGsbiWiT8LZFfbCWdIZheGhy8wwhmkv-4i2N0Vzh29igAbtIkTU80T90mdr3RCxzsgUMb5OaAPDV2ZaliRZXOoDzvquxWu1ePkt3yoRyB-eiSJ05gncRuk",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "Reggina vs Sanremese",
+      "competizione": "Amichevole di Calcio",
+      "canale": "Non specificato (non televisivo, solo info match)",
+      "note": "Allenamento congiunto/test match giocato a Pinerolo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvP4sFdLzx5U79G58FOS6DnUEvJxUj11H3GCabugjNinAA5p55VI4SSqgHtDDBaebvl7ezGLOfFsO2Lqogu1s9M3MIkn5hf6N5rggdL1Th9oCSXxWOqzX5KgE4aB2_7fmPv4F09KuUFJpn-h_9IrssypfazEcPUIDrYpUm05YnA9aFmhM4fY0NNg5p-E9O69lkZCxAi5R14VBj_rUb10Y8zsmk3A==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Nuoto 4a giornata: Semifinali e Finali",
+      "competizione": "European Aquatics Championships Parigi 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPVoG43eicMFUqs4JNgrE0HUcGr6HiA6NaNjbGsbiWiT8LZFfbCWdIZheGhy8wwhmkv-4i2N0Vzh29igAbtIkTU80T90mdr3RCxzsgUMb5OaAPDV2ZaliRZXOoDzvquxWu1ePkt3yoRyB-eiSJ05gncRuk",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:50",
+      "evento": "Nuoto Artistico: Finale a Squadre - programma Libero",
+      "competizione": "European Aquatics Championships Parigi 2026",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdooGxD1B8yUAs_lqbncy7XW5Y0gSWFzBqbI89bWts5i21cVswyy8Q88g1ucN-IcBx7g4vX8rm23gVhPc2MsZVKVwqAkOaFPHfh2MqONPLiTHOV2F5cXjukNX3-yUzUHQgmCNxHUBpQe2S70nB3RCnyg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Europei 2026 - 4a giornata: sessione serale",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdooGxD1B8yUAs_lqbncy7XW5Y0gSWFzBqbI89bWts5i21cVswyy8Q88g1ucN-IcBx7g4vX8rm23gVhPc2MsZVKVwqAkOaFPHfh2MqONPLiTHOV2F5cXjukNX3-yUzUHQgmCNxHUBpQe2S70nB3RCnyg==",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Tennis WTA - 1000 Cincinnati",
-      "competizione": "Tennis WTA 1000",
-      "canale": "SuperTennis",
-      "note": "Con giocatrici italiane in campo (es. Elisabetta Cocciaretto).",
-      "fonte": "Stasera in TV, Ubitennis",
+      "evento": "Europei di Atletica",
+      "competizione": "Campionati Europei di Atletica Leggera Birmingham 2026",
+      "canale": "Rai 2",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtU2RUC_7DB5rHojiecZCKCYM5epHTh0p8pWPnB_i4oSvFfiL3QA5ChJxiVrUtcmYxliQjXl26yQ7BGI-RbEpUyVO_j9tKBpvm7J7INeI2AwzG9JmB0UzSv3bcZopxmBTDArNGTVcFCMonTuq6VfKyBb59J41I8T7O8DnyMmgKHnnPAZSU0ZYjuT3ZYw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:05",
+      "evento": "Nuoto Artistico: Programma Acrobatico",
+      "competizione": "European Aquatics Championships Parigi 2026",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtU2RUC_7DB5rHojiecZCKCYM5epHTh0p8pWPnB_i4oSvFfiL3QA5ChJxiVrUtcmYxliQjXl26yQ7BGI-RbEpUyVO_j9tKBpvm7J7INeI2AwzG9JmB0UzSv3bcZopxmBTDArNGTVcFCMonTuq6VfKyBb59J41I8T7O8DnyMmgKHnnPAZSU0ZYjuT3ZYw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "23:00",
-      "evento": "Masters 1000 & WTA 1000 Cincinnati - 1a giornata",
-      "competizione": "Tennis ATP/WTA 1000",
-      "canale": "Sky Sport Uno, Sky Sport Arena",
-      "note": "Con diversi giocatori italiani in campo (es. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Elisabetta Cocciaretto).",
-      "fonte": "Sky Sport Uno Guida TV, Il Tennis Italiano",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "00:00",
-      "evento": "WTA 1000 Toronto 2026 - Finale",
-      "competizione": "Tennis WTA 1000",
-      "canale": "Sky Sport Uno, SuperTennis",
-      "note": "Finale di doppio con Sara Errani.",
-      "fonte": "Sky Sport Uno Guida TV, Stasera in TV, Ubitennis",
+      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 1a giornata",
+      "competizione": "Tennis ATP/WTA Cincinnati Open",
+      "canale": "Sky Sport Uno",
+      "note": "Con italiani in campo: Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini (ATP); Elisabetta Cocciaretto (WTA).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPVoG43eicMFUqs4JNgrE0HUcGr6HiA6NaNjbGsbiWiT8LZFfbCWdIZheGhy8wwhmkv-4i2N0Vzh29igAbtIkTU80T90mdr3RCxzsgUMb5OaAPDV2ZaliRZXOoDzvquxWu1ePkt3yoRyB-eiSJ05gncRuk",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "WTA 1000 Toronto 2026 - Finale (Replica)",
-      "competizione": "Tennis WTA 1000",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della finale di doppio con Sara Errani.",
-      "fonte": "Sky Sport Uno Guida TV",
+      "orario": "05:00",
+      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 1a giornata",
+      "competizione": "Tennis ATP/WTA Cincinnati Open",
+      "canale": "Sky Sport Arena",
+      "note": "Con italiani in campo: Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini (ATP); Elisabetta Cocciaretto (WTA).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlmu_7H8JYUsqe5scGoLBI-8egkCQ5YexslICFY0VgqRVOzN9IvLaZgXF7eh44VRQKIaQKmquH4-rTVqpRRkhxC104WuszYhyzGPApzYOTNDLz1k6cudqTWGrPf2vunR5YNTba8FMCTrDgUt2z4OYYGJHy8gtbxtVJCbSTu3-tVdzckZtntw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Nuoto: Semifinali e finali (Replica)",
+      "competizione": "European Aquatics Championships Parigi 2026",
+      "canale": "Rai Sport HD",
+      "note": "Replica della giornata precedente.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKcM2oPOp4NRW2-Za5rghrDZhEhl8JCGNqJ-jSxllNLRV0khRQiNd62rKGML_r7u0Hd8mbwLsCx0donmqesfqn2tLlImugL2xIBBhpi_xWwyUXBgDY6s_eqmZ8HNmrRQuyfjo3o9Xhi3RNroOcZtQ==",
       "accuratezza_orario": "esatto"
     }
   ]
