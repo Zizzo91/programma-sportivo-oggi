@@ -1,139 +1,58 @@
 {
-  "last_updated": "2026-08-13T02:59:44.990545+02:00",
+  "last_updated": "2026-08-13T14:41:51.196648+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "ATP 1000 Montreal 2026 - 2a semifinale",
-      "competizione": "Tennis ATP",
-      "canale": "Sky Sport Uno",
-      "note": "Replica. Italiani presenti nel torneo (es. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Lorenzo Sonego, Mattia Bellucci).",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:45",
-      "evento": "ATP 1000 Montreal 2026 - 1a semifinale",
-      "competizione": "Tennis ATP",
-      "canale": "Sky Sport Uno",
-      "note": "Replica. Italiani presenti nel torneo (es. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Lorenzo Sonego, Mattia Bellucci).",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "15:00",
-      "evento": "GP Giappone: Gara (2026)",
+      "evento": "GP Giappone: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport F1 (207)",
-      "note": "Replica.",
-      "fonte": "GP Giappone: Gara (2026) in TV – Orario e repliche | Guida.tv",
+      "note": "",
+      "fonte": "guida.tv",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 1a giornata",
-      "competizione": "Tennis ATP/WTA",
-      "canale": "Sky Sport Uno / Sky Sport Tennis / Sky Sport 251",
-      "note": "Diretta. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Elisabetta Cocciaretto sono qualificati al main draw. La presenza in specifici match e i relativi orari esatti dipenderanno dal programma della giornata.",
-      "fonte": "Cincinnati Open - la programmazione su Sky: in diretta da giovedì 13 agosto - Il Tennis Italiano, Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "WTA 1000 Cincinnati",
-      "competizione": "Tennis WTA",
-      "canale": "SuperTennis",
-      "note": "Diretta. Italiane presenti nel torneo (Elisabetta Cocciaretto). La presenza in specifici match e i relativi orari esatti dipenderanno dal programma della giornata.",
-      "fonte": "Oggi in TV - Programmi SuperTennis giovedi 13 agosto 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "WTA 1000 Cincinnati",
-      "competizione": "Tennis WTA",
-      "canale": "SuperTennis",
-      "note": "Diretta. Italiane presenti nel torneo (Elisabetta Cocciaretto). La presenza in specifici match e i relativi orari esatti dipenderanno dal programma della giornata.",
-      "fonte": "Oggi in TV - Programmi SuperTennis giovedi 13 agosto 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
+      "evento": "Masters 1000 & WTA 1000 Cincinnati - 1a giornata",
+      "competizione": "Tennis ATP/WTA 1000",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport 251",
+      "note": "Con diversi giocatori italiani in campo (es. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Elisabetta Cocciaretto).",
+      "fonte": "Il Tennis Italiano, Sky Sport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "WTA 1000 Cincinnati",
-      "competizione": "Tennis WTA",
+      "evento": "Tennis WTA - 1000 Cincinnati",
+      "competizione": "Tennis WTA 1000",
       "canale": "SuperTennis",
-      "note": "Diretta. Italiane presenti nel torneo (Elisabetta Cocciaretto). La presenza in specifici match e i relativi orari esatti dipenderanno dal programma della giornata.",
-      "fonte": "Oggi in TV - Programmi SuperTennis giovedi 13 agosto 2026 - Stasera in TV",
+      "note": "Con giocatrici italiane in campo (es. Elisabetta Cocciaretto).",
+      "fonte": "Stasera in TV, Ubitennis",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "23:00",
-      "evento": "GP Miami: Gara (2026)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 (207)",
-      "note": "Replica.",
-      "fonte": "GP Miami: Gara (2026) in TV – Orario e repliche | Guida.tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 1a giornata",
-      "competizione": "Tennis ATP/WTA",
-      "canale": "Sky Sport Uno / Sky Sport Arena",
-      "note": "Diretta. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Elisabetta Cocciaretto sono qualificati al main draw. La presenza in specifici match e i relativi orari esatti dipenderanno dal programma della giornata.",
-      "fonte": "Cincinnati Open - la programmazione su Sky: in diretta da giovedì 13 agosto - Il Tennis Italiano, Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
+      "evento": "Masters 1000 & WTA 1000 Cincinnati - 1a giornata",
+      "competizione": "Tennis ATP/WTA 1000",
+      "canale": "Sky Sport Uno, Sky Sport Arena",
+      "note": "Con diversi giocatori italiani in campo (es. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Elisabetta Cocciaretto).",
+      "fonte": "Sky Sport Uno Guida TV, Il Tennis Italiano",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "00:00",
       "evento": "WTA 1000 Toronto 2026 - Finale",
-      "competizione": "Tennis WTA",
-      "canale": "Sky Sport Uno / SuperTennis",
-      "note": "Diretta (ora del 14/08). Italiane presenti nel torneo (Elisabetta Cocciaretto, Lucrezia Stefanini). Non si conferma la presenza di un'italiana in finale.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Oggi in TV - Programmi SuperTennis giovedi 13 agosto 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "ATP 1000 Montreal 2026 - Finale",
-      "competizione": "Tennis ATP",
-      "canale": "Sky Sport Uno",
-      "note": "Diretta (ora del 14/08). Italiani presenti nel torneo (es. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Lorenzo Sonego, Mattia Bellucci). Non si conferma la presenza di un italiano in finale.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "WTA 1000 Cincinnati",
-      "competizione": "Tennis WTA",
-      "canale": "SuperTennis",
-      "note": "Diretta (ora del 14/08). Italiane presenti nel torneo (Elisabetta Cocciaretto). La presenza in specifici match e i relativi orari esatti dipenderanno dal programma della giornata.",
-      "fonte": "Oggi in TV - Programmi SuperTennis giovedi 13 agosto 2026 - Stasera in TV",
+      "competizione": "Tennis WTA 1000",
+      "canale": "Sky Sport Uno, SuperTennis",
+      "note": "Finale di doppio con Sara Errani.",
+      "fonte": "Sky Sport Uno Guida TV, Stasera in TV, Ubitennis",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00",
-      "evento": "WTA 1000 Toronto 2026 - Finale",
-      "competizione": "Tennis WTA",
+      "evento": "WTA 1000 Toronto 2026 - Finale (Replica)",
+      "competizione": "Tennis WTA 1000",
       "canale": "Sky Sport Uno",
-      "note": "Replica (ora del 14/08). Italiane presenti nel torneo (Elisabetta Cocciaretto, Lucrezia Stefanini). Non si conferma la presenza di un'italiana in finale.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "WTA 1000 Cincinnati",
-      "competizione": "Tennis WTA",
-      "canale": "SuperTennis",
-      "note": "Replica (ora del 14/08). Italiane presenti nel torneo (Elisabetta Cocciaretto). La presenza in specifici match e i relativi orari esatti dipenderanno dal programma della giornata.",
-      "fonte": "Oggi in TV - Programmi SuperTennis giovedi 13 agosto 2026 - Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "ATP 1000 Montreal 2026 - 2a semifinale",
-      "competizione": "Tennis ATP",
-      "canale": "Sky Sport Uno",
-      "note": "Replica (ora del 14/08). Italiani presenti nel torneo (es. Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Lorenzo Sonego, Mattia Bellucci).",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "note": "Replica della finale di doppio con Sara Errani.",
+      "fonte": "Sky Sport Uno Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
