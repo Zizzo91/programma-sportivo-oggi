@@ -1,94 +1,67 @@
 {
-  "last_updated": "2026-08-14T14:37:51.794863+02:00",
+  "last_updated": "2026-08-14T20:38:53.778100+02:00",
   "events": [
     {
-      "orario": "09:30",
-      "evento": "Europei 2026 - Nuoto, 5a giornata: batterie",
-      "competizione": "Europei di Nuoto 2026",
-      "canale": "Rai 2 HD, Sky Sport Uno, Sky Sport Max",
-      "note": "",
-      "fonte": "OA Sport, Sky Sport Uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:30",
-      "evento": "Europei 2026 - Atletica Leggera, 5a giornata: sessione diurna",
-      "competizione": "Europei di Atletica Leggera 2026",
-      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena",
-      "note": "",
-      "fonte": "OA Sport, Sky Sport Uno, CronacaPop",
+      "orario": "17:00",
+      "evento": "Elisabetta Cocciaretto (ITA) vs Lucrezia Stefanini (ITA)",
+      "competizione": "WTA 1000 Cincinnati - Primo turno",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, SuperTennis",
+      "note": "Derby italiano",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyHyqfETqaMwEGR4a5PKII-SOnNzOkXQw_NXcZs70OwWAau7_rn1Hia7te7CFFQqtRY36NlN-MNi5Rky-RexTJmpGvLRQOmYI88iOzodINJwUwSkjPt8x_lf9cnQ199hTZHyXLvD7PRGzbtvG4kH0-W7yOkxc6yY54pgBau21q3FYGPRXmKYWWmVduOW7lUscFhHgwbFcSTFv3n5hlaRT6qm4lxzXNBqnIVlxCMdlt9ea9qiFZ-E_StrYJ3n07A==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Parma – Catania",
-      "competizione": "Coppa Italia 2026/2027 (32esimi di finale)",
+      "evento": "Parma vs Catania",
+      "competizione": "Coppa Italia 2026/2027 - Trentaduesimi di finale",
       "canale": "Canale 20",
       "note": "",
-      "fonte": "Calciomagazine, TV Sorrisi e Canzoni",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoyTXzhghtS0hXAFqnkwBWSk8kf34B_tlBfrvwh7pC30lR5lEEdj8TUQOl0T_wkRhuw6jqNpEuB4gHAg5-7Y9xlcZqg0BjM58QR5-TD8OAJkYcvbbgL6frhqB4DrylPhJEbQ2fD4cR7aVM34D2-uryaVO7GmC42HV3ttP_pTi6E9K3FiKBT_-zaZ6_rQV7Vq8F1OCOy_fs4Ybt5e3iSOfysW1e1Q8tPwS-BPwu8ex70IiYT73cQ0yPCVT_B1-KazpPvp5j12lX9PU==",
       "accuratezza_orario": "esatto"
     },
     {
+      "orario": "18:10*",
+      "evento": "Matteo Berrettini (ITA) vs Droguet (FRA)",
+      "competizione": "ATP Masters 1000 Cincinnati - Primo turno",
+      "canale": "Sky Sport Tennis, Sky Sport Arena",
+      "note": "Non prima delle 18:10 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyHyqfETqaMwEGR4a5PKII-SOnNzOkXQw_NXcZs70OwWAau7_rn1Hia7te7CFFQqtRY36NlN-MNi5Rky-RexTJmpGvLRQOmYI88iOzodINJwUwSkjPt8x_lf9cnQ199hTZHyXLvD7PRGzbtvG4kH0-W7yOkxc6yY54pgBau21q3FYGPRXmKYWWmVduOW7lUscFhHgwbFcSTFv3n5hlaRT6qm4lxzXNBqnIVlxCMdlt9ea9qiFZ-E_StrYJ3n07A==",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "18:30",
-      "evento": "Cagliari – Arezzo",
-      "competizione": "Coppa Italia 2026/2027 (32esimi di finale)",
+      "evento": "Cagliari vs Arezzo",
+      "competizione": "Coppa Italia 2026/2027 - Trentaduesimi di finale",
       "canale": "Italia 1",
       "note": "",
-      "fonte": "Calciomagazine, TV Sorrisi e Canzoni",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyTXzhghtS0hXAFqnkwBWSk8kf34B_tlBfrvwh7pC30lR5lEEdj8TUQOl0T_wkRhuw6jqNpEuB4gHAg5-7Y9xlcZqg0BjM58QR5-TD8OAJkYcvbbgL6frhqB4DrylPhJEbQ2fD4cR7aVM34D2-uryaVO7GmC42HV3ttP_pTi6E9K3FiKBT_-zaZ6_rQV7Vq8F1OCOy_fs4Ybt5e3iSOfysW1e1Q8tPwS-BPwu8ex70IiYT73cQ0yPCVT_B1-KazpPvp5j12lX9PU==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Europei 2026 - Nuoto, 5a giornata: Semifinali e Finali",
-      "competizione": "Europei di Nuoto 2026",
-      "canale": "Rai 2 HD, Sky Sport Uno, Sky Sport Max",
-      "note": "",
-      "fonte": "Sky Sport Uno, OA Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "19:20*",
+      "evento": "Lorenzo Sonego (ITA) vs Shang (CHN)",
+      "competizione": "ATP Masters 1000 Cincinnati - Primo turno",
+      "canale": "Sky Sport Tennis, Sky Sport Arena",
+      "note": "Non prima delle 19:20 CET",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyHyqfETqaMwEGR4a5PKII-SOnNzOkXQw_NXcZs70OwWAau7_rn1Hia7te7CFFQqtRY36NlN-MNi5Rky-RexTJmpGvLRQOmYI88iOzodINJwUwSkjPt8x_lf9cnQ199hTZHyXLvD7PRGzbtvG4kH0-W7yOkxc6yY54pgBau21q3FYGPRXmKYWWmVduOW7lUscFhHgwbFcSTFv3n5hlaRT6qm4lxzXNBqnIVlxCMdlt9ea9qiFZ-E_StrYJ3n07A==",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Monza – Avellino",
-      "competizione": "Coppa Italia 2026/2027 (32esimi di finale)",
+      "evento": "Monza vs Avellino",
+      "competizione": "Coppa Italia 2026/2027 - Trentaduesimi di finale",
       "canale": "Canale 20",
       "note": "",
-      "fonte": "Calciomagazine, CronacaPop, TV Sorrisi e Canzoni, Tuttosport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Atalanta – Athletic Bilbao",
-      "competizione": "Trofeo Bortolotti 2026",
-      "canale": "Sky Sport, TV8, NOW",
-      "note": "",
-      "fonte": "OA Sport, Calciomagazine, CronacaPop",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:50",
-      "evento": "Europei 2026 - Atletica Leggera, 5a giornata: sessione serale",
-      "competizione": "Europei di Atletica Leggera 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Include la finale del salto in alto maschile con Tamberi",
-      "fonte": "Sky Sport Uno, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Europei 2026 - Atletica Leggera: Salto in alto maschile, Finale",
-      "competizione": "Europei di Atletica Leggera 2026",
-      "canale": "Rai 2, Rai Sport HD, Sky Sport Uno, Sky Sport Arena",
-      "note": "Con Gianmarco Tamberi",
-      "fonte": "OA Sport, Tamberi in finale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyTXzhghtS0hXAFqnkwBWSk8kf34B_tlBfrvwh7pC30lR5lEEdj8TUQOl0T_wkRhuw6jqNpEuB4gHAg5-7Y9xlcZqg0BjM58QR5-TD8OAJkYcvbbgL6frhqB4DrylPhJEbQ2fD4cR7aVM34D2-uryaVO7GmC42HV3ttP_pTi6E9K3FiKBT_-zaZ6_rQV7Vq8F1OCOy_fs4Ybt5e3iSOfysW1e1Q8tPwS-BPwu8ex70IiYT73cQ0yPCVT_B1-KazpPvp5j12lX9PU==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:15",
-      "evento": "Fiorentina – Benevento",
-      "competizione": "Coppa Italia 2026/2027 (32esimi di finale)",
+      "evento": "Fiorentina vs Benevento",
+      "competizione": "Coppa Italia 2026/2027 - Trentaduesimi di finale",
       "canale": "Italia 1",
       "note": "",
-      "fonte": "OA Sport, Calciomagazine, CronacaPop, TV Sorrisi e Canzoni",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyHyqfETqaMwEGR4a5PKII-SOnNzOkXQw_NXcZs70OwWAau7_rn1Hia7te7CFFQqtRY36NlN-MNi5Rky-RexTJmpGvLRQOmYI88iOzodINJwUwSkjPt8x_lf9cnQ199hTZHyXLvD7PRGzbtvG4kH0-W7yOkxc6yY54pgBau21q3FYGPRXmKYWWmVduOW7lUscFhHgwbFcSTFv3n5hlaRT6qm4lxzXNBqnIVlxCMdlt9ea9qiFZ-E_StrYJ3n07A==",
       "accuratezza_orario": "esatto"
     }
   ]
