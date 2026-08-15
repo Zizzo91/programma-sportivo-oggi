@@ -1,68 +1,203 @@
 {
-  "last_updated": "2026-08-14T20:38:53.778100+02:00",
+  "last_updated": "2026-08-15T14:15:16.745669+02:00",
   "events": [
     {
+      "orario": "08:30",
+      "evento": "Europei di Atletica 2026 - 6a giornata: sessione diurna",
+      "competizione": "Europei di Atletica",
+      "canale": "Rai 2, RaiPlay, RaiSport, Sky Sport Uno, Sky Sport Arena",
+      "note": "Marcia, maratona, mezza maratona, sessione mattutina. Incluse qualificazioni e batterie con italiani (es. Mezza maratona di marcia maschile/femminile, Eptathlon, Salto in lungo femminile, 1500 metri femminili, 4x100 femminile/maschile).",
+      "fonte": "Napolike.it, OA Sport, LaPresse, Sky Sport Uno Palinsesto, RaiSport HD Palinsesto, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:25",
+      "evento": "European Aquatics Parigi 2026 - Nuoto 6a giornata: batterie",
+      "competizione": "Europei di Nuoto",
+      "canale": "Rai 2, RaiSport, Sky Sport",
+      "note": "Batterie di nuoto.",
+      "fonte": "Napolike.it, OA Sport, RaiSport HD Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "European Aquatics Parigi 2026 - Tuffi: Finale Piattaforma 10 mt Maschile",
+      "competizione": "Europei di Nuoto",
+      "canale": "RaiSport",
+      "note": "",
+      "fonte": "RaiSport HD Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Amichevole: Brighton-Bologna",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Napolike.it, Libero Magazine, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:45",
+      "evento": "Amichevole: Manchester United-Milan",
+      "competizione": "Calcio Amichevole",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, DAZN",
+      "note": "",
+      "fonte": "Napolike.it, Abbonamenti.it, Sky Sport Uno Palinsesto, Libero Magazine, Libero.it, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "17:00",
-      "evento": "Elisabetta Cocciaretto (ITA) vs Lucrezia Stefanini (ITA)",
-      "competizione": "WTA 1000 Cincinnati - Primo turno",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Arena, SuperTennis",
-      "note": "Derby italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyHyqfETqaMwEGR4a5PKII-SOnNzOkXQw_NXcZs70OwWAau7_rn1Hia7te7CFFQqtRY36NlN-MNi5Rky-RexTJmpGvLRQOmYI88iOzodINJwUwSkjPt8x_lf9cnQ199hTZHyXLvD7PRGzbtvG4kH0-W7yOkxc6yY54pgBau21q3FYGPRXmKYWWmVduOW7lUscFhHgwbFcSTFv3n5hlaRT6qm4lxzXNBqnIVlxCMdlt9ea9qiFZ-E_StrYJ3n07A==",
+      "evento": "Tennis ATP 1000 Cincinnati - Secondo turno: F. Cobolli vs M. Kecmanovic",
+      "competizione": "ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Tennis, Sky Sport 252, Sky Sport Uno (dalle 23:00), NOW, Tennis Tv",
+      "note": "Match con giocatore italiano. Partita sul Grandstand.",
+      "fonte": "Sky Sport, Ubitennis, OA Sport, CronacaPop",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Tennis ATP 1000 Cincinnati - Secondo turno: M. Arnaldi vs M. Landaluce",
+      "competizione": "ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Tennis, Sky Sport 252, Sky Sport Uno (dalle 23:00), NOW, Tennis Tv",
+      "note": "Match con giocatore italiano. Partita sul Campo 10.",
+      "fonte": "Sky Sport, Ubitennis, OA Sport, CronacaPop",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Programma Acrobatico",
+      "competizione": "Europei di Nuoto",
+      "canale": "RaiSport",
+      "note": "",
+      "fonte": "RaiSport HD Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "Amichevole: Borussia Dortmund-Roma",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Napolike.it, Libero Magazine, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Parma vs Catania",
-      "competizione": "Coppa Italia 2026/2027 - Trentaduesimi di finale",
-      "canale": "Canale 20",
+      "evento": "Coppa Italia - Trentaduesimi di finale: Catanzaro-Sudtirol",
+      "competizione": "Coppa Italia",
+      "canale": "Canale 20, Mediaset Infinity",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoyTXzhghtS0hXAFqnkwBWSk8kf34B_tlBfrvwh7pC30lR5lEEdj8TUQOl0T_wkRhuw6jqNpEuB4gHAg5-7Y9xlcZqg0BjM58QR5-TD8OAJkYcvbbgL6frhqB4DrylPhJEbQ2fD4cR7aVM34D2-uryaVO7GmC42HV3ttP_pTi6E9K3FiKBT_-zaZ6_rQV7Vq8F1OCOy_fs4Ybt5e3iSOfysW1e1Q8tPwS-BPwu8ex70IiYT73cQ0yPCVT_B1-KazpPvp5j12lX9PU==",
+      "fonte": "Napolike.it, Libero Magazine, TUTTOmercatoWEB, OA Sport",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:10*",
-      "evento": "Matteo Berrettini (ITA) vs Droguet (FRA)",
-      "competizione": "ATP Masters 1000 Cincinnati - Primo turno",
-      "canale": "Sky Sport Tennis, Sky Sport Arena",
-      "note": "Non prima delle 18:10 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyHyqfETqaMwEGR4a5PKII-SOnNzOkXQw_NXcZs70OwWAau7_rn1Hia7te7CFFQqtRY36NlN-MNi5Rky-RexTJmpGvLRQOmYI88iOzodINJwUwSkjPt8x_lf9cnQ199hTZHyXLvD7PRGzbtvG4kH0-W7yOkxc6yY54pgBau21q3FYGPRXmKYWWmVduOW7lUscFhHgwbFcSTFv3n5hlaRT6qm4lxzXNBqnIVlxCMdlt9ea9qiFZ-E_StrYJ3n07A==",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:30",
-      "evento": "Cagliari vs Arezzo",
-      "competizione": "Coppa Italia 2026/2027 - Trentaduesimi di finale",
-      "canale": "Italia 1",
+      "evento": "European Aquatics Parigi 2026 - Nuoto 6a giornata: Semifinali e Finali",
+      "competizione": "Europei di Nuoto",
+      "canale": "Rai 2, RaiSport, Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyTXzhghtS0hXAFqnkwBWSk8kf34B_tlBfrvwh7pC30lR5lEEdj8TUQOl0T_wkRhuw6jqNpEuB4gHAg5-7Y9xlcZqg0BjM58QR5-TD8OAJkYcvbbgL6frhqB4DrylPhJEbQ2fD4cR7aVM34D2-uryaVO7GmC42HV3ttP_pTi6E9K3FiKBT_-zaZ6_rQV7Vq8F1OCOy_fs4Ybt5e3iSOfysW1e1Q8tPwS-BPwu8ex70IiYT73cQ0yPCVT_B1-KazpPvp5j12lX9PU==",
+      "fonte": "Napolike.it, OA Sport, Sky Sport Uno Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:20*",
-      "evento": "Lorenzo Sonego (ITA) vs Shang (CHN)",
-      "competizione": "ATP Masters 1000 Cincinnati - Primo turno",
-      "canale": "Sky Sport Tennis, Sky Sport Arena",
-      "note": "Non prima delle 19:20 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyHyqfETqaMwEGR4a5PKII-SOnNzOkXQw_NXcZs70OwWAau7_rn1Hia7te7CFFQqtRY36NlN-MNi5Rky-RexTJmpGvLRQOmYI88iOzodINJwUwSkjPt8x_lf9cnQ199hTZHyXLvD7PRGzbtvG4kH0-W7yOkxc6yY54pgBau21q3FYGPRXmKYWWmVduOW7lUscFhHgwbFcSTFv3n5hlaRT6qm4lxzXNBqnIVlxCMdlt9ea9qiFZ-E_StrYJ3n07A==",
-      "accuratezza_orario": "stimato"
+      "orario": "18:30",
+      "evento": "Coppa Italia - Trentaduesimi di finale: Udinese-Padova",
+      "competizione": "Coppa Italia",
+      "canale": "Italia 1, Mediaset Infinity",
+      "note": "",
+      "fonte": "Napolike.it, Libero Magazine, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Amichevole: Inter-Real Betis",
+      "competizione": "Calcio Amichevole",
+      "canale": "DAZN, Sky Sport Calcio, TV8",
+      "note": "",
+      "fonte": "Napolike.it, Libero Magazine",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Monza vs Avellino",
-      "competizione": "Coppa Italia 2026/2027 - Trentaduesimi di finale",
-      "canale": "Canale 20",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyTXzhghtS0hXAFqnkwBWSk8kf34B_tlBfrvwh7pC30lR5lEEdj8TUQOl0T_wkRhuw6jqNpEuB4gHAg5-7Y9xlcZqg0BjM58QR5-TD8OAJkYcvbbgL6frhqB4DrylPhJEbQ2fD4cR7aVM34D2-uryaVO7GmC42HV3ttP_pTi6E9K3FiKBT_-zaZ6_rQV7Vq8F1OCOy_fs4Ybt5e3iSOfysW1e1Q8tPwS-BPwu8ex70IiYT73cQ0yPCVT_B1-KazpPvp5j12lX9PU==",
+      "evento": "Europei di Atletica 2026 - 6a giornata: sessione serale",
+      "competizione": "Europei di Atletica",
+      "canale": "Rai 2, RaiPlay, RaiSport, Sky Sport Uno, Sky Sport Arena",
+      "note": "Finali di diverse discipline, incluse quelle con italiani (es. Giavellotto maschile, Salto in alto femminile, Salto triplo maschile, 10.000 metri maschili, 1500 metri maschili, 4x100 maschile/femminile).",
+      "fonte": "Napolike.it, OA Sport, LaPresse, Sky Sport Uno Palinsesto, RaiSport HD Palinsesto, ProgrammiTV, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:15",
-      "evento": "Fiorentina vs Benevento",
-      "competizione": "Coppa Italia 2026/2027 - Trentaduesimi di finale",
-      "canale": "Italia 1",
+      "orario": "20:45",
+      "evento": "Coppa Italia - Trentaduesimi di finale: Venezia-Modena",
+      "competizione": "Coppa Italia",
+      "canale": "Canale 20, Mediaset Infinity",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyHyqfETqaMwEGR4a5PKII-SOnNzOkXQw_NXcZs70OwWAau7_rn1Hia7te7CFFQqtRY36NlN-MNi5Rky-RexTJmpGvLRQOmYI88iOzodINJwUwSkjPt8x_lf9cnQ199hTZHyXLvD7PRGzbtvG4kH0-W7yOkxc6yY54pgBau21q3FYGPRXmKYWWmVduOW7lUscFhHgwbFcSTFv3n5hlaRT6qm4lxzXNBqnIVlxCMdlt9ea9qiFZ-E_StrYJ3n07A==",
+      "fonte": "Napolike.it, Libero Magazine, ProgrammiTV, TUTTOmercatoWEB",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Tennis WTA 1000 Cincinnati (in diretta)",
+      "competizione": "WTA 1000 Cincinnati",
+      "canale": "SuperTennis",
+      "note": "Copertura live degli incontri.",
+      "fonte": "Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:05",
+      "evento": "European Aquatics Parigi 2026 - Nuoto Artistico: Finale a Squadre - programma Tecnico",
+      "competizione": "Europei di Nuoto",
+      "canale": "RaiSport",
+      "note": "",
+      "fonte": "RaiSport HD Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00*",
+      "evento": "Tennis ATP 1000 Cincinnati - Secondo turno: L. Darderi vs R. Hijikata",
+      "competizione": "ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Tennis, Sky Sport 252, Sky Sport Uno (dalle 23:00), NOW, Tennis Tv",
+      "note": "Match con giocatore italiano. Terzo match sul Campo 4.",
+      "fonte": "Ubitennis, OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "21:15",
+      "evento": "Coppa Italia - Trentaduesimi di finale: Torino-Carrarese",
+      "competizione": "Coppa Italia",
+      "canale": "Italia 1, Mediaset Infinity",
+      "note": "",
+      "fonte": "Napolike.it, ProgrammiTV, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Tennis ATP/WTA 1000 Cincinnati - Live coverage",
+      "competizione": "ATP/WTA Masters 1000 Cincinnati",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport 252, SuperTennis, NOW, Tennis Tv, supertennis.tv, SuperTenniX",
+      "note": "Diretta della 3a giornata del torneo. Include match con giocatori italiani.",
+      "fonte": "Sky Sport, Sky Sport Uno Palinsesto, Stasera in TV, OA Sport, CronacaPop",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00*",
+      "evento": "Tennis ATP 1000 Cincinnati - Secondo turno: J. Lehecka vs M. Berrettini",
+      "competizione": "ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport 252, NOW, Tennis Tv",
+      "note": "Match con giocatore italiano. Quarto match sul Tony Tabert Stadium 3.",
+      "fonte": "Ubitennis, OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:00*",
+      "evento": "Tennis WTA 1000 Cincinnati (in diretta)",
+      "competizione": "WTA 1000 Cincinnati",
+      "canale": "SuperTennis",
+      "note": "Copertura live degli incontri (fino alle 06:00 del 16/08).",
+      "fonte": "Stasera in TV",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
