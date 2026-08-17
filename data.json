@@ -1,131 +1,95 @@
 {
-  "last_updated": "2026-08-17T02:35:07.179122+02:00",
+  "last_updated": "2026-08-17T08:31:04.893772+02:00",
   "events": [
     {
-      "orario": "10:30",
-      "evento": "Manchester United - Milan",
-      "competizione": "Calcio - Amichevole",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5wCcAvVI8L2VQpYBiYaZqhDO0yQZqVuif9jjRc9tA9vXmb5fClR09ueOYUT2vOtjwmNLHKFEfI8a1R_CEOAaGRBkUQNg6rAkjjSA0jg_DyD1NP7pD_XkXbFxs8aOqV9BqKM1sLgKyM83LTuKZY0XrezY",
+      "orario": "08:00",
+      "evento": "ATP & WTA Cincinnati Open 2026",
+      "competizione": "Tennis",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Copertura del torneo. Si assume la presenza di giocatori italiani data la rilevanza del torneo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-C4Tsy2qDeiFEt3ordC_38wfEHikGv4ze-Dr8m8VO5u6GGQ2nZmJeqIDTtT-Rjh1FeIeeVaHl-DvO-Gr_f67vNFH7FTLeYsnsLmYkYuIToCidV66O4LRMJdSgBX_7vBwi7pJ54VvArvskbHW-9ZfyQfRGyeU",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:30",
+      "evento": "ATP & WTA Cincinnati Open 2026",
+      "competizione": "Tennis",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Copertura del torneo. Si assume la presenza di giocatori italiani data la rilevanza del torneo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-C4Tsy2qDeiFEt3ordC_38wfEHikGv4ze-Dr8m8VO5u6GGQ2nZmJeqIDTtT-Rjh1FeIeeVaHl-DvO-Gr_f67vNFH7FTLeYsnsLmYkYuIToCidV66O4LRMJdSgBX_7vBwi7pJ54VvArvskbHW-9ZfyQfRGyeU",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "ATP & WTA Cincinnati Open 2026",
+      "competizione": "Tennis",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Copertura del torneo. Si assume la presenza di giocatori italiani data la rilevanza del torneo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-C4Tsy2qDeiFEt3ordC_38wfEHikGv4ze-Dr8m8VO5u6GGQ2nZmJeqIDTtT-Rjh1FeIeeVaHl-DvO-Gr_f67vNFH7FTLeYsnsLmYkYuIToCidV66O4LRMJdSgBX_7vBwi7pJ54VvArvskbHW-9ZfyQfRGyeU",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30",
+      "evento": "ATP & WTA Cincinnati Open 2026",
+      "competizione": "Tennis",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Copertura del torneo. Si assume la presenza di giocatori italiani data la rilevanza del torneo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-C4Tsy2qDeiFEt3ordC_38wfEHikGv4ze-Dr8m8VO5u6GGQ2nZmJeqIDTtT-Rjh1FeIeeVaHl-DvO-Gr_f67vNFH7FTLeYsnsLmYkYuIToCidV66O4LRMJdSgBX_7vBwi7pJ54VvArvskbHW-9ZfyQfRGyeU",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "ATP & WTA Cincinnati Open 2026 LIVE",
+      "competizione": "Tennis",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Diretta del torneo. Si assume la presenza di giocatori italiani data la rilevanza del torneo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-C4Tsy2qDeiFEt3ordC_38wfEHikGv4ze-Dr8m8VO5u6GGQ2nZmJeqIDTtT-Rjh1FeIeeVaHl-DvO-Gr_f67vNFH7FTLeYsnsLmYkYuIToCidV66O4LRMJdSgBX_7vBwi7pJ54VvArvskbHW-9ZfyQfRGyeU",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Juventus - Juventus Next Gen",
-      "competizione": "Calcio - Amichevole",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5wCcAvVI8L2VQpYBiYaZqhDO0yQZqVuif9jjRc9tA9vXmb5fClR09ueOYUT2vOtjwmNLHKFEfI8a1R_CEOAaGRBkUQNg6rAkjjSA0jg_DyD1NP7pD_XkXbFxs8aOqV9BqKM1sLgKyM83LTuKZY0XrezY",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Pisa - Empoli",
-      "competizione": "Calcio - Coppa Italia (32esimi di finale)",
+      "evento": "Pisa-Empoli",
+      "competizione": "Coppa Italia - Trentaduesimi di finale",
       "canale": "Canale 20",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtKCjBwX95k4T_7NnFJl1MANUSoOSTDuZcT0PrG-Ua1bkV_12Qi0LGsOuEsb_l5X2rm8ygJ1wHJFVFXWAY-WuyppBl3euvz658Okdajj73G4wXdgiIkb0l_0QtzWoQykG3AsgNlXsTuAGBzI3VZP5R1yWieKfI4tLhYHEHYoXM0Dc=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU1vPWTH_O3gXIn7CXEPqpZEUqFH7Kse3bZqUtj5FYp9S2A2WLGu3UStleHKFO9khYi1pou-xcDlgrGYDUFV6WSYeLgthmogStLMfb_W9Jfl0lhF0-DFznpArRk7eB4VS2IvkXQ2KLHsL6FbNih0O-aj9FdmRcyxZpzLp8588RUdw=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:15",
-      "evento": "Sassuolo - Cesena",
-      "competizione": "Calcio - Coppa Italia (32esimi di finale)",
+      "evento": "Sassuolo-Cesena",
+      "competizione": "Coppa Italia - Trentaduesimi di finale",
       "canale": "Italia 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtKCjBwX95k4T_7NnFJl1MANUSoOSTDuZcT0PrG-Ua1bkV_12Qi0LGsOuEsb_l5X2rm8ygJ1wHJFVFXWAY-WuyppBl3euvz658Okdajj73G4wXdgiIkb0l_0QtzWoQykG3AsgNlXsTuAGBzI3VZP5R1yWieKfI4tLhYHEHYoXM0Dc=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU1vPWTH_O3gXIn7CXEPqpZEUqFH7Kse3bZqUtj5FYp9S2A2WLGu3UStleHKFO9khYi1pou-xcDlgrGYDUFV6WSYeLgthmogStLMfb_W9Jfl0lhF0-DFznpArRk7eB4VS2IvkXQ2KLHsL6FbNih0O-aj9FdmRcyxZpzLp8588RUdw=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Venezia - Modena",
-      "competizione": "Calcio - Coppa Italia (32esimi di finale)",
+      "orario": "20:30",
+      "evento": "Cremonese-Sampdoria",
+      "competizione": "Coppa Italia - Trentaduesimi di finale",
       "canale": "Canale 20",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoJ7vUgek_cMKHBjV1qQ2clWxmEGWu-enq4o8AMh8C42mt1nNQe7CmLc69kjJbH9nbDUZQ1oa26OdpLuSszmlrdC4tBcI1mLmz8nPpJw9xaouROVKgZHDGCFKFiVugHuEijY0cttRwzSP26W37AvLa3RaaYtrUg4kX_5cL8gAzLkSemy3H_AbkeIkmXIOKdtoZND36R2EtKLKzASWyjBu6sr22uiEKwmt2a60=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:10",
-      "evento": "Cremonese - Sampdoria",
-      "competizione": "Calcio - Coppa Italia (32esimi di finale)",
-      "canale": "Canale 20",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnyLqqMzFZIQZoGcl6uLNQiv9O7UUlaPINeL8OpoFpxzB-DP2kj0zuRgNDwJJO_Gx_l20KxfdsV2aLkZ-7ETyFB43C5v8eQofwucW-1n9LwkFgrCFwgcF4VgvejD-7_73LiGlihV2RdoBlj2JtfgUjMebRzTNK9VlHxrw5il9O0HL6WDcuDrB7YLlO7GeeY78=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU1vPWTH_O3gXIn7CXEPqpZEUqFH7Kse3bZqUtj5FYp9S2A2WLGu3UStleHKFO9khYi1pou-xcDlgrGYDUFV6WSYeLgthmogStLMfb_W9Jfl0lhF0-DFznpArRk7eB4VS2IvkXQ2KLHsL6FbNih0O-aj9FdmRcyxZpzLp8588RUdw=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:15",
-      "evento": "Torino - Carrarese",
-      "competizione": "Calcio - Coppa Italia (32esimi di finale)",
+      "evento": "Palermo-Lecce",
+      "competizione": "Coppa Italia - Trentaduesimi di finale",
       "canale": "Italia 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoJ7vUgek_cMKHBjV1qQ2clWxmEGWu-enq4o8AMh8C42mt1nNQe7CmLc69kjJbH9nbDUZQ1oa26OdpLuSszmlrdC4tBcI1mLmz8nPpJw9xaouROVKgZHDGCFKFiVugHuEijY0cttRwzSP26W37AvLa3RaaYtrUg4kX_5cL8gAzLkSemy3H_AbkeIkmXIOKdtoZND36R2EtKLKzASWyjBu6sr22uiEKwmt2a60=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU1vPWTH_O3gXIn7CXEPqpZEUqFH7Kse3bZqUtj5FYp9S2A2WLGu3UStleHKFO9khYi1pou-xcDlgrGYDUFV6WSYeLgthmogStLMfb_W9Jfl0lhF0-DFznpArRk7eB4VS2IvkXQ2KLHsL6FbNih0O-aj9FdmRcyxZpzLp8588RUdw=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 4a giornata",
+      "orario": "00:00",
+      "evento": "ATP & WTA Cincinnati Open 2026 LIVE",
       "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Italiani in campo (ATP): Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Lorenzo Sonego, Mattia Bellucci. Italiana in campo (WTA): Elisabetta Cocciaretto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5wCcAvVI8L2VQpYBiYaZqhDO0yQZqVuif9jjRc9tA9vXmb5fClR09ueOYUT2vOtjwmNLHKFEfI8a1R_CEOAaGRBkUQNg6rAkjjSA0jg_DyD1NP7pD_kXbFxs8aOqV9BqKM1sLgKyM83LTuKZY0XrezY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC955_nj3nd0a26Kr0xYaTzmo6GJMJwA4u6ep6_09GU1TeWoPO4IoIT92kue5E0iPFFufI77_LcTFcB6TFh0Ef_n17uZjRydwNK-jH605Woo2CaJ99GX8_h-iC3-ZhUGaK2eEwCTPoatXXbOl29rR28XHt9bkfAYAfOnc_0Z2sxZ462Kn7NGs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5LhI5uPXS2FhkOP_hCjyWyuDB-QbZrSoXomCXOp8YGo1Xnh2WDqPYy1Damfae-cf2XKSBgzKnjyEoWTBLamD-JJYbCBMIRaNHX5DtMDvOmoLgKEQ4Ewn42Crg9frIrnRxH58ScrjC8-r62u_GWG1yrdgRUHW-RLah-bPlnOa5XAICHKD5emJUTa38Eit-lfnUDJ9_3SmPRDS0uvF3iiJeMqQOL3uKHLy34xeyr4J1z_Dw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoeiCdD54_IMsUNI1q-QnSX34lYaFaJYLXBk8tVlMu-HwZucVIf1wEU0cowmAfyOOHsEArsS7lD2ul5E0eKtaVUDx-TTsfm2m4vXkOAlIMnwzu4cRHhD22VfcMWSENWBIJvygO6Giw9RxPhw-d7zbngmU3ofOiy6VFBpsjalFnrgZusJ8EPZGuX-TzyxxibHrNEscUN24ubA0UCKii_Vij3xDscfjFUg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzqWCD8zv8YM7nOrTBSjZTVdc6T3Bs-YlBD-caQW0Nk0YMg-_Fw9nBWjNpQA64lAFLjAd-Nw68uqkJWMK-bOFEUFnmhgxoqIEJFIuzVpM9twOaU1cdTkUr5DS5oOKTJNXYJXhhnni35NHkL15zFOFYTtA3p82yILw-3VJ_PEmRFACqvpvs64hj5oba6Qso9DkLNoPQpjS8goKMQC8RM9ZBzPmizcEG7h8Rodqyq5ScXAYIvg1DQ4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuwVumOJJVb9qPrjIj0LyKtNGAZmau3Qz4PNCV-1hmzhK44G7haGvlzwn2Xvq9jE9BXPMsoYjJdYqNx8YfGpOxK0MF2NV_y1oLX-STgh5d02XRfRjknqeTvukx9AKBWPlOrC88XN_hUjxREjId58QMfHelFz5QTfNjFaQzZGCvNgoy, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvoz-tg4XMaC5mCCygPvw3C4K8BcxIPDzpcxETnwW5njIotinpAfBiYMKugITHjjHlVxtvCoNK_kaYTynlxNnM4fKGx2-2LRWftdVLmHp7jmgaNoElgQ7-ruPE08kWyej1FJsS-Wght9Qd0S7XmuVIFMfFJbFnGUJVu1VIb4XSw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKoqibZgK2p7xreHUcmXlCIY65v4bJeLYlzFtZXvium_WxZCkkqbTRNezVisevobhdxrkRp8cEBxysnrz9hZ-Df7dfAbIIs1IkVWGNQEC673RIQEkiLzfkbj-zs8NZlHU7zS7lNkccPNE1ZV7OMG7HVumvj2eHyTF2STg23JHWQUNPzHeSg3ieQ7u5CXkJCLo9KifwFquYVEWnNCIfC4xNdXPSaR3aEnIpXpG8PcjKy8yAbwXl6LGCRMaR7V29Zg==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 5a giornata",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Italiani in campo (ATP): Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Lorenzo Sonego, Mattia Bellucci. Italiana in campo (WTA): Elisabetta Cocciaretto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5wCcAvVI8L2VQpYBiYaZqhDO0yQZqVuif9jjRc9tA9vXmb5fClR09ueOYUT2vOtjwmNLHKFEfI8a1R_CEOAaGRBkUQNg6rAkjjSA0jg_DyD1NP7pD_kXbFxs8aOqV9BqKM1sLgKyM83LTuKZY0XrezY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC955_nj3nd0a26Kr0xYaTzmo6GJMJwA4u6ep6_09GU1TeWoPO4IoIT92kue5E0iPFFufI77_LcTFcB6TFh0Ef_n17uZjRydwNK-jH605Woo2CaJ99GX8_h-iC3-ZhUGaK2eEwCTPoatXXbOl29rR28XHt9bkfAYAfOnc_0Z2sxZ462Kn7NGs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5LhI5uPXS2FhkOP_hCjyWyuDB-QbZrSoXomCXOp8YGo1Xnh2WDqPYy1Damfae-cf2XKSBgzKnjyEoWTBLamD-JJYbCBMIRaNHX5DtMDvOmoLgKEQ4Ewn42Crg9frIrnRxH58ScrjC8-r62u_GWG1yrdgRUHW-RLah-bPlnOa5XAICHKD5emJUTa38Eit-fUDJ9_3SmPRDS0uvF3iiJeMqQOL3uKHLy34xeyr4J1z_Dw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoeiCdD54_IMsUNI1q-QnSX34lYaFaJYLXBk8tVlMu-HwZucVIf1wEU0cowmAfyOOHsEArsS7lD2ul5E0eKtaVUDx-TTsfm2m4vXkOAlIMnwzu4cRHhD22VfcMWSENWBIJvygO6Giw9RxPhw-d7zbngmU3ofOiy6VFBpsjalFnrgZusJ8EPZGuX-TzyxxibHrNEscUN24ubA0UCKii_Vij3xDscfjFUg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzqWCD8zv8YM7nOrTBSjZTVdc6T3Bs-YlBD-caQW0Nk0YMg-_Fw9nBWjNpQA64lAFLjAd-Nw68uqkJWMK-bOFEUFnmhgxoqIEJFIuzVpM9twOaU1cdTkUr5DS5oOKTJNXYJXhhnni35NHkL15zFOFYTtA3p82yILw-3VJ_PEmRFACqvpvs64hj5oba6Qso9DkLNoPQpjS8goKMQC8RM9ZBzPmizcEG7h8Rodqyq5ScXAYIvg1DQ4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuwVumOJJVb9qPrjIj0LyKtNGAZmau3Qz4PNCV-1hmzhK44G7haGvlzwn2Xvq9jE9BXPMsoYjJdYqNx8YfGpOxK0MF2NV_y1oLX-STgh5d02XRfRjknqeTvukx9AKBWPlOrC88XN_hUjxREjId58QMfHelFz5QTfNjFaQzZGCvNgoy, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvoz-tg4XMaC5mCCygPvw3C4K8BcxIPDzpcxETnwW5njIotinpAfBiYMKugITHjjHlVxtvCoNK_kaYTynlxNnM4fKGx2-2LRWftdVLmHp7jmgaNoElgQ7-ruPE08kWyej1FJsS-Wght9Qd0S7XmuVIFMfFJbFnGUJVu1VIb4XSw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKoqibZgK2p7xreHUcmXlCIY65v4bJeLYlzFtZXvium_WxZCkkqbTRNezVisevobhdxrkRp8cEBxysnrz9hZ-Df7dfAbIIs1IkVWGNQEC673RIQEkiLzfkbj-zs8NZlHU7zS7lNkccPNE1ZV7OMG7HVumvj2eHyTF2STg23JHWQUNPzHeSg3ieQ7u5CXkJCLo9KifwFquYVEWnNCIfC4xNdXPSaR3aEnIpXpG8PcjKy8yAbwXl6LGCRMaR7V29Zg==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "03:00 (18/08)",
-      "evento": "GP Thailandia: Sprint Race MotoGP (replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZIk65TY8ePnzfVxWx7-HB-A7SX-nOQBnSkNG9G4YSV63PcdwCfwQJkDw4R4jYv8_Zlph_RI63wqKoSSmyPoQEjjIelZ0_kE8ys97MvwgcrsFAleKcU5ZOrFS2nfnS9eIkwXlNQ8yGpGW0HxDSJ9gxWQ-9kk5pjtZvCOcPWs_45kRCqSnylG2KDghluBWyv1QpjLN_azoSfs30uD4NcdtsF7dhrSVFXU4H",
+      "canale": "Sky Sports Tennis HD",
+      "note": "Programmazione fino alle 06:00 del giorno successivo. Si assume la presenza di giocatori italiani data la rilevanza del torneo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-C4Tsy2qDeiFEt3ordC_38wfEHikGv4ze-Dr8m8VO5u6GGQ2nZmJeqIDTtT-Rjh1FeIeeVaHl-DvO-Gr_f67vNFH7FTLeYsnsLmYkYuIToCidV66O4LRMJdSgBX_7vBwi7pJ54VvArvskbHW-9ZfyQfRGyeU",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:45 (18/08)",
-      "evento": "GP Thailandia: Gara MotoGP (replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZIk65TY8ePnzfVxWx7-HB-A7SX-nOQBnSkNG9G4YSV63PcdwCfwQJkDw4R4jYv8_Zlph_RI63wqKoSSmyPoQEjjIelZ0_kE8ys97MvwgcrsFAleKcU5ZOrFS2nfnS9eIkwXlNQ8yGpGW0HxDSJ9gxWQ-9kk5pjtZvCOcPWs_45kRCqSnylG2KDghluBWyv1QpjLN_azoSfs30uD4NcdtsF7dhrSVFXU4H",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00 (18/08)",
-      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 5a giornata",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Italiani in campo (ATP): Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Lorenzo Sonego, Mattia Bellucci. Italiana in campo (WTA): Elisabetta Cocciaretto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5wCcAvVI8L2VQpYBiYaZqhDO0yQZqVuif9jjRc9tA9vXmb5fClR09ueOYUT2vOtjwmNLHKFEfI8a1R_CEOAaGRBkUQNg6rAkjjSA0jg_DyD1NP7pD_kXbFxs8aOqV9BqKM1sLgKyM83LTuKZY0XrezY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC955_nj3nd0a26Kr0xYaTzmo6GJMJwA4u6ep6_09GU1TeWoPO4IoIT92kue5E0iPFFufI77_LcTFcB6TFh0Ef_n17uZjRydwNK-jH605Woo2CaJ99GX8_h-iC3-ZhUGaK2eEwCTPoatXXbOl29rR28XHt9bkfAYAfOnc_0Z2sxZ462Kn7NGs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5LhI5uPXS2FhkOP_hCjyWyuDB-QbZrSoXomCXOp8YGo1Xnh2WDqPYy1Damfae-cf2XKSBgzKnjyEoWTBLamD-JJYbCBMIRaNHX5DtMDvOmoLgKEQ4Ewn42Crg9frIrnRxH58ScrjC8-r62u_GWG1yrdgRUHW-RLah-bPlnOa5XAICHKD5emJUTa38Eit-fUDJ9_3SmPRDS0uvF3iiJeMqQOL3uKHLy34xeyr4J1z_Dw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoeiCdD54_IMsUNI1q-QnSX34lYaFaJYLXBk8tVlMu-HwZucVIf1wEU0cowmAfyOOHsEArsS7lD2ul5E0eKtaVUDx-TTsfm2m4vXkOAlIMnwzu4cRHhD22VfcMWSENWBIJvygO6Giw9RxPhw-d7zbngmU3ofOiy6VFBpsjalFnrgZusJ8EPZGuX-TzyxxibHrNEscUN24ubA0UCKii_Vij3xDscfjFUg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzqWCD8zv8YM7nOrTBSjZTVdc6T3Bs-YlBD-caQW0Nk0YMg-_Fw9nBWjNpQA64lAFLjAd-Nw68uqkJWMK-bOFEUFnmhgxoqIEJFIuzVpM9twOaU1cdTkUr5DS5oOKTJNXYJXhhnni35NHkL15zFOFYTtA3p82yILw-3VJ_PEmRFACqvpvs64hj5oba6Qso9DkLNoPQpjS8goKMQC8RM9ZBzPmizcEG7h8Rodqyq5ScXAYIvg1DQ4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuwVumOJJVb9qPrjIj0LyKtNGAZmau3Qz4PNCV-1hmzhK44G7haGvlzwn2Xvq9jE9BXPMsoYjJdYqNx8YfGpOxK0MF2NV_y1oLX-STgh5d02XRfRjknqeTvukx9AKBWPlOrC88XN_hUjxREjId58QMfHelFz5QTfNjFaQzZGCvNgoy, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvoz-tg4XMaC5mCCygPvw3C4K8BcxIPDzpcxETnwW5njIotinpAfBiYMKugITHjjHlVxtvCoNK_kaYTynlxNnM4fKGx2-2LRWftdVLmHp7jmgaNoElgQ7-ruPE08kWyej1FJsS-Wght9Qd0S7XmuVIFMfFJbFnGUJVu1VIb4XSw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKoqibZgK2p7xreHUcmXlCIY65v4bJeLYlzFtZXvium_WxZCkkqbTRNezVisevobhdxrkRp8cEBxysnrz9hZ-Df7dfAbIIs1IkVWGNQEC673RIQEkiLzfkbj-zs8NZlHU7zS7lNkccPNE1ZV7OMG7HVumvj2eHyTF2STg23JHWQUNPzHeSg3ieQ7u5CXkJCLo9KifwFquYVEWnNCIfC4xNdXPSaR3aEnIpXpG8PcjKy8yAbwXl6LGCRMaR7V29Zg==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "05:15 (18/08)",
-      "evento": "GP Germania: Gara MotoGP (replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZIk65TY8ePnzfVxWx7-HB-A7SX-nOQBnSkNG9G4YSV63PcdwCfwQJkDw4R4jYv8_Zlph_RI63wqKoSSmyPoQEjjIelZ0_kE8ys97MvwgcrsFAleKcU5ZOrFS2nfnS9eIkwXlNQ8yGpGW0HxDSJ9gxWQ-9kk5pjtZvCOcPWs_45kRCqSnylG2KDghluBWyv1QpjLN_azoSfs30uD4NcdtsF7dhrSVFXU4H",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00 (18/08)",
-      "evento": "Masters 1000 & WTA 1000 Cincinnati 2026 - 4a giornata",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
-      "note": "Italiani in campo (ATP): Flavio Cobolli, Lorenzo Musetti, Luciano Darderi, Matteo Arnaldi, Matteo Berrettini, Lorenzo Sonego, Mattia Bellucci. Italiana in campo (WTA): Elisabetta Cocciaretto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5wCcAvVI8L2VQpYBiYaZqhDO0yQZqVuif9jjRc9tA9vXmb5fClR09ueOYUT2vOtjwmNLHKFEfI8a1R_CEOAaGRBkUQNg6rAkjjSA0jg_DyD1NP7pD_kXbFxs8aOqV9BqKM1sLgKyM83LTuKZY0XrezY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC955_nj3nd0a26Kr0xYaTzmo6GJMJwA4u6ep6_09GU1TeWoPO4IoIT92kue5E0iPFFufI77_LcTFcB6TFh0Ef_n17uZjRydwNK-jH605Woo2CaJ99GX8_h-iC3-ZhUGaK2eEwCTPoatXXbOl29rR28XHt9bkfAYAfOnc_0Z2sxZ462Kn7NGs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5LhI5uPXS2FhkOP_hCjyWyuDB-QbZrSoXomCXOp8YGo1Xnh2WDqPYy1Damfae-cf2XKSBgzKnjyEoWTBLamD-JJYbCBMIRaNHX5DtMDvOmoLgKEQ4Ewn42Crg9frIrnRxH58ScrjC8-r62u_GWG1yrdgRUHW-RLah-bPlnOa5XAICHKD5emJUTa38Eit-fUDJ9_3SmPRDS0uvF3iiJeMqQOL3uKHLy34xeyr4J1z_Dw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoeiCdD54_IMsUNI1q-QnSX34lYaFaJYLXBk8tVlMu-HwZucVIf1wEU0cowmAfyOOHsEArsS7lD2ul5E0eKtaVUDx-TTsfm2m4vXkOAlIMnwzu4cRHhD22VfcMWSENWBIJvygO6Giw9RxPhw-d7zbngmU3ofOiy6VFBpsjalFnrgZusJ8EPZGuX-TzyxxibHrNEscUN24ubA0UCKii_Vij3xDscfjFUg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzqWCD8zv8YM7nOrTBSjZTVdc6T3Bs-YlBD-caQW0Nk0YMg-_Fw9nBWjNpQA64lAFLjAd-Nw68uqkJWMK-bOFEUFnmhgxoqIEJFIuzVpM9twOaU1cdTkUr5DS5oOKTJNXYJXhhnni35NHkL15zFOFYTtA3p82yILw-3VJ_PEmRFACqvpvs64hj5oba6Qso9DkLNoPQpjS8goKMQC8RM9ZBzPmizcEG7h8Rodqyq5ScXAYIvg1DQ4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuwVumOJJVb9qPrjIj0LyKtNGAZmau3Qz4PNCV-1hmzhK44G7haGvlzwn2Xvq9jE9BXPMsoYjJdYqNx8YfGpOxK0MF2NV_y1oLX-STgh5d02XRfRjknqeTvukx9AKBWPlOrC88XN_hUjxREjId58QMfHelFz5QTfNjFaQzZGCvNgoy, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvoz-tg4XMaC5mCCygPvw3C4K8BcxIPDzpcxETnwW5njIotinpAfBiYMKugITHjjHlVxtvCoNK_kaYTynlxNnM4fKGx2-2LRWftdVLmHp7jmgaNoElgQ7-ruPE08kWyej1FJsS-Wght9Qd0S7XmuVIFMfFJbFnGUJVu1VIb4XSw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKoqibZgK2p7xreHUcmXlCIY65v4bJeLYlzFtZXvium_WxZCkkqbTRNezVisevobhdxrkRp8cEBxysnrz9hZ-Df7dfAbIIs1IkVWGNQEC673RIQEkiLzfkbj-zs8NZlHU7zS7lNkccPNE1ZV7OMG7HVumvj2eHyTF2STg23JHWQUNPzHeSg3ieQ7u5CXkJCLo9KifwFquYVEWnNCIfC4xNdXPSaR3aEnIpXpG8PcjKy8yAbwXl6LGCRMaR7V29Zg==",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
