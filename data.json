@@ -1,104 +1,113 @@
 {
-  "last_updated": "2026-08-17T14:19:40.935200+02:00",
+  "last_updated": "2026-08-18T02:34:19.565806+02:00",
   "events": [
     {
-      "orario": "10:30",
-      "evento": "Amichevole Club",
-      "competizione": "Calcio Amichevole",
-      "canale": "Sky Sport Uno",
+      "orario": "06:00",
+      "evento": "Mondiale Motocross 2026 - GP Svezia: MX2 - gara 2",
+      "competizione": "Motocross",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOZ_f8QOI_u4qUlrxEauwiozEgEoh3jj1Drlm8witxh0iyyvRMe2TWMjWcdJ7rI0OsB_XLLXHMpu5vjssXqxr6AC8foaCdV3s6270Ivfh963nTuU4wHFGxROfaTYLJDda7-mZWswgweT1R33-cwXMtofq7",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Mondiale Motocross 2026 - GP Svezia: MXGP - gara 2",
+      "competizione": "Motocross",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "European Aquatics Parigi 2026 - Nuoto 7a giornata: batterie",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:05",
+      "evento": "European Aquatics Parigi 2026 - Nuoto: Semifinali e finali",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:35",
+      "evento": "GP Sportivi di Poggiana. Internazionale Elite e U23 2026",
+      "competizione": "Ciclismo",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:05",
+      "evento": "Mondiali Wakeboard 2026 - da Lago del Salto",
+      "competizione": "Wakeboard",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:35",
+      "evento": "Europei F 2026 - Finale a squadre (da Zagabria)",
+      "competizione": "Scherma",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:20",
+      "evento": "Scopigno Cup 2026 - Roma - Lazio (partita inaugurale)",
+      "competizione": "Calcio - Torneo Giovanile",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Tennis, 3° turno - Flavio Cobolli vs Alexander Blockx",
-      "competizione": "ATP Masters 1000 Cincinnati",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201), Sky Go, NOW, Tennis TV",
-      "note": "Primo match sul Grandstand",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYKyP4qkImmtCO4OBYakKkOLPDFkmvknrOrp9SBcCQU7ERXI-PtaE7k5dyqfhkISmoIPeMJR35wpFADHsbm-uvdgGUIioiqS4P-88fOBJz9wcNQ2YlqmYPDh8zY0bX5sT_o_qzPWx0aCYrmoWS6uFa6VD83QjoDd_WdXctLRrRewAr2C1XvUeQxc9JzBHyc5sBnqaQ0bnjO8F-gMuF7RA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoMvoXDwiLKV_CKJBRJP48OwLzTBVsSJebnulgbLhAtgOnYSBC0nqDKr-C1E0hO3Cb05dsoF4P4o-_YDzO0lDTWf3bIytKCQL6uhW6SwGpx5SKGJlCsqOceF0Vim4GzudSpjCDGUS8SVwOTcgn7RA5TQK_m-K9Dxp1_x_13KMbK4DVr5ubqrkepV4bSnV_Z-7fBKVhQTb",
+      "evento": "Mondiali 2026 - Finali di specialità",
+      "competizione": "Ginnastica Ritmica",
+      "canale": "Rai Sport HD",
+      "note": "Da Francoforte.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Tennis, 1° turno doppio - Matteo Arnaldi/Lorenzo Musetti vs Luciano Darderi/Tomas Martin Etcheverry",
-      "competizione": "ATP Masters 1000 Cincinnati",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Go, NOW",
-      "note": "Sul Court 10",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGGDJADZd_ABoDjJMtOIOQ22bzPccmSa9NtnLLFYjz1y0_0EOfq6K9_KjTUZQ-VNEUerrpGCdd9_QPX_7yOf4_YKDKdL_xkP1LSWLLMSuXfjrl3YWcKmIfaOk8DqbtvPydWW3ybGuLQPVDU-0gPKnKaCjkPpbo9Lx2xXSwXhKcFyyJvI4WbuX239QDP3LGBP1i7KY1dyK7RxLeC2xIUYUmoDBE4UVDrc1GOc=",
+      "orario": "21:00",
+      "evento": "UEFA Champions League 2026/2027 - Preliminari Play-off",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport Arena, Sky Sport Uno, Sky Sport Calcio, Sky Sport 1",
+      "note": "Possibili partite: Dinamo Zagabria-Viking FK, Fenerbahce-Olympique Lione. Squadre italiane non confermate per questa fase.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi9S5TqoFDx0VH-pLl4OPSYkqtDWNWeffKbqNKSUf1Hqel69nIzO4n2QSQDoQ9i0sHMotdm4-ij7w0ALw2lO9ykLx8z_6pRXgxM5l0XLCbdCtkzTeHDMtcXnUKM7mVJBcXEkI7t8ZBsBNmikqGkulO8s7E=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9fnPdX5NZsUD0VvDxcRYdUO3H4CyMk4Sn0-1JoRH5Q_WxiZhvVEUnwmemPh7_kNwiorXSUly286QdNZgiX4CAm_C_VY39gH68bZgDghILQV15tfU1wvRbV3BGER5A9WNMNiXfXNtcqYWBLMy6dr8woIEg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5BiTn-80XMXI9m_GTpCVr9_RAzSqcP8au5tqL3fn0qZXff0l1bp-ADlsuYQaeZeNbHuUpmsZZ0B4cWlSs28U5dVOOJQ7HX-rg_vk7vw2jGcLNbQs0AnulF06hPaw",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Tennis WTA - 1000 Cincinnati (Diretta)",
-      "competizione": "WTA 1000 Cincinnati",
-      "canale": "SuperTennis",
+      "orario": "23:00",
+      "evento": "European Aquatics Parigi 2026 - Tuffi Finale Squadra mista",
+      "competizione": "Tuffi",
+      "canale": "Rai Sport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpR2nlcY3oNc5DybJJztpYeZqDbON93Dck2gbrhA1qbxd6ZYogDBMxm3HGYMNSTs4krPaZGI65JxSz1184Y3RYfJxcqHmx7XVhODp594m-j0MACSnrhOdFEQ9HAg4tVoEpEHmwtyeelL5fdkywBKLECrPjyDGNWCQhzhsLMj_1_lRKculuiRo=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRm4-hbqLmaXF-Y-zDrXCzsTKNlpFX-4_B9l0CeT6IqstU5_zY6ZHtQFVwk5_CYKhQ74er1vxs_JoUIy8PtG0wgTyZ7m90oqD70LbB_LxflP7hC3nChM6TU-IKz7GKZcYkKxLn3PnGYPMAFEZikT6zQsFi05T6sBWaMlfZuBTcfqFV8vA=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Calcio, Trentaduesimi di Finale - Pisa vs Empoli",
-      "competizione": "Coppa Italia 2026/27",
-      "canale": "Canale 20",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwylWxlcguY3YbSYwHch3dAv-dQBeKhnAHZp6ZNAbTKl7ihR967FLNqvL_uKdxTq5C25LADnR_Vznwu256VDr-wJIiS0bngVyoEe8UexUtWn7JsrDyZjMe2RpdUHsOPjwK409cRHhHTxE9yJzsMR50Om8Ox3Dbz2JAZqXW7VNuYhseQ-sH-e7JTuyMq2Nvk6reOqW18LSFCe1mXf0kQnyEsuB7IkTOc2c7-Bunp",
+      "orario": "00:45",
+      "evento": "European Aquatics Parigi 2026 - Tuffi Finale 3m Sincro Misto + Finale 1m F",
+      "competizione": "Tuffi",
+      "canale": "Rai Sport HD",
+      "note": "Evento che si estende oltre la mezzanotte del 18 agosto.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Amichevole Club - Juventus vs Juventus Next Gen",
-      "competizione": "Calcio Amichevole",
-      "canale": "DAZN, Sky Sport, Sky Go, NOW, Juventus.com",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcH1cHoI_MJeoP6U5sv8jnRlG_SGW8HAllsmDcObubxtY9kItlGam0CHE3BCvST46XOGW7zabxGMRlFa3_AlkYjzdH3xRiIPZ8gjSasJByx5aBatM2kvCVoUthVqdYMiVxP8wP6K1bgt7bS0li7kLZwrpzlAQfcsBH4TCzyx1mOqhU28y0YsMP6AETPbQCsMztEQvorB4Z7cVe1YIxggYvGblaKwkbbHI0RP9s_n3Rzw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Calcio, Trentaduesimi di Finale - Sassuolo vs Cesena",
-      "competizione": "Coppa Italia 2026/27",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwylWxlcguY3YbSYwHch3dAv-dQBeKhnAHZp6ZNAbTKl7ihR967FLNqvL_uKdxTq5C25LADnR_Vznwu256VDr-wJIiS0bngVyoEe8UexUtWn7JsrDyZjMe2RpdUHsOPjwK409cRHhHTxE9yJzsMR50Om8Ox3Dbz2JAZqXW7VNuYhseQ-sH-e7JTuyMq2Nvk6reOqW18LSFCe1mXf0kQnyEsuB7IkTOc2c7-Bunp",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "Tennis, 1° turno doppio - Simone Bolelli/Andrea Vavassori vs Arthur Rinderknech/Valentin Vacherot",
-      "competizione": "ATP Masters 1000 Cincinnati",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), Sky Go, NOW",
-      "note": "A seguire il match Arnaldi/Musetti vs Darderi/Etcheverry sul Court 10",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGGDJADZd_ABoDjJMtOIOQ22bzPccmSa9NtnLLFYjz1y0_0EOfq6K9_KjTUZQ-VNEUerrpGCdd9_QPX_7yOf4_YKDKdL_xkP1LSWLLMSuXfjrl3YWcKmIfaOk8DqbtvPydWW3ybGuLQPVDU-0gPKnKaCjkPpbo9Lx2xXSwXhKcFyyJvI4WbuX239QDP3LGBP1i7KY1dyK7RxLeC2xIUYUmoDBE4UVDrc1GOc=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Calcio, Trentaduesimi di Finale - Cremonese vs Sampdoria",
-      "competizione": "Coppa Italia 2026/27",
-      "canale": "Canale 20",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwylWxlcguY3YbSYwHch3dAv-dQBeKhnAHZp6ZNAbTKl7ihR967FLNqvL_uKdxTq5C25LADnR_Vznwu256VDr-wJIiS0bngVyoEe8UexUtWn7JsrDyZjMe2RpdUHsOPjwK409cRHhHTxE9yJzsMR50Om8Ox3Dbz2JAZqXW7VNuYhseQ-sH-e7JTuyMq2Nvk6reOqW18LSFCe1mXf0kQnyEsuB7IkTOc2c7-Bunp",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:15",
-      "evento": "Calcio, Trentaduesimi di Finale - Palermo vs Lecce",
-      "competizione": "Coppa Italia 2026/27",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwylWxlcguY3YbSYwHch3dAv-dQBeKhnAHZp6ZNAbTKl7ihR967FLNqvL_uKdxTq5C25LADnR_Vznwu256VDr-wJIiS0bngVyoEe8UexUtWn7JsrDyZjMe2RpdUHsOPjwK409cRHhHTxE9yJzsMR50Om8Ox3Dbz2JAZqXW7VNuYhseQ-sH-e7JTuyMq2Nvk6reOqW18LSFCe1mXf0kQnyEsuB7IkTOc2c7-Bunp",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30*",
-      "evento": "Tennis, 1° turno doppio - Sara Errani/Leylah Fernandez vs Andreeva/Cirstea",
-      "competizione": "WTA 1000 Cincinnati",
-      "canale": "Sky Sport Tennis, Sky Go, NOW",
-      "note": "Ora stimata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcBYMRCkZVahIVIwn3Op1KYZf1QMp4a37sz9pX-Io9JY9Sj_0mqDDyxvv-FtFpY3xBABJe_wF5X-sh-Ffhn9CXZQwcvyo6no9TsdFXZz67cYtvVgcE44oirnT7c89G8eiMyuFveQxsy3QtR0thew1fhqX8EQnzL4Drx-VXtyqet1X6_LKxeXT2HKXClJFet6Dm-iJt1OYqAKmeUtwrSLKsp6Uyscyws9RojFAwHlhR2az7IG9MoKLCMOdKW6X5rvVP1yr3e6gY7u3xf3CL26713YYh",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
