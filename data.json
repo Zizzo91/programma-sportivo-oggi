@@ -1,113 +1,14 @@
 {
-  "last_updated": "2026-08-18T02:34:19.565806+02:00",
+  "last_updated": "2026-08-18T08:24:11.969946+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Mondiale Motocross 2026 - GP Svezia: MX2 - gara 2",
-      "competizione": "Motocross",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Mondiale Motocross 2026 - GP Svezia: MXGP - gara 2",
-      "competizione": "Motocross",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "European Aquatics Parigi 2026 - Nuoto 7a giornata: batterie",
-      "competizione": "Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:05",
-      "evento": "European Aquatics Parigi 2026 - Nuoto: Semifinali e finali",
-      "competizione": "Nuoto",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:35",
-      "evento": "GP Sportivi di Poggiana. Internazionale Elite e U23 2026",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:05",
-      "evento": "Mondiali Wakeboard 2026 - da Lago del Salto",
-      "competizione": "Wakeboard",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:35",
-      "evento": "Europei F 2026 - Finale a squadre (da Zagabria)",
-      "competizione": "Scherma",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:20",
-      "evento": "Scopigno Cup 2026 - Roma - Lazio (partita inaugurale)",
-      "competizione": "Calcio - Torneo Giovanile",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Mondiali 2026 - Finali di specialità",
-      "competizione": "Ginnastica Ritmica",
-      "canale": "Rai Sport HD",
-      "note": "Da Francoforte.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League 2026/2027 - Preliminari Play-off",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport Arena, Sky Sport Uno, Sky Sport Calcio, Sky Sport 1",
-      "note": "Possibili partite: Dinamo Zagabria-Viking FK, Fenerbahce-Olympique Lione. Squadre italiane non confermate per questa fase.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi9S5TqoFDx0VH-pLl4OPSYkqtDWNWeffKbqNKSUf1Hqel69nIzO4n2QSQDoQ9i0sHMotdm4-ij7w0ALw2lO9ykLx8z_6pRXgxM5l0XLCbdCtkzTeHDMtcXnUKM7mVJBcXEkI7t8ZBsBNmikqGkulO8s7E=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9fnPdX5NZsUD0VvDxcRYdUO3H4CyMk4Sn0-1JoRH5Q_WxiZhvVEUnwmemPh7_kNwiorXSUly286QdNZgiX4CAm_C_VY39gH68bZgDghILQV15tfU1wvRbV3BGER5A9WNMNiXfXNtcqYWBLMy6dr8woIEg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5BiTn-80XMXI9m_GTpCVr9_RAzSqcP8au5tqL3fn0qZXff0l1bp-ADlsuYQaeZeNbHuUpmsZZ0B4cWlSs28U5dVOOJQ7HX-rg_vk7vw2jGcLNbQs0AnulF06hPaw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "European Aquatics Parigi 2026 - Tuffi Finale Squadra mista",
-      "competizione": "Tuffi",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRm4-hbqLmaXF-Y-zDrXCzsTKNlpFX-4_B9l0CeT6IqstU5_zY6ZHtQFVwk5_CYKhQ74er1vxs_JoUIy8PtG0wgTyZ7m90oqD70LbB_LxflP7hC3nChM6TU-IKz7GKZcYkKxLn3PnGYPMAFEZikT6zQsFi05T6sBWaMlfZuBTcfqFV8vA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:45",
-      "evento": "European Aquatics Parigi 2026 - Tuffi Finale 3m Sincro Misto + Finale 1m F",
-      "competizione": "Tuffi",
-      "canale": "Rai Sport HD",
-      "note": "Evento che si estende oltre la mezzanotte del 18 agosto.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvh4YuFrLHhnLXmxhnH3yJdbcgEl7JG-7prF6inu-VEFEYpz1ONkiJUya5O_lazh1_72ospHc1lCtxqDMtOcX4mXsjisssmwX1J1Q_IZHn_QYMJTXwOMOawtvd5LiE2tI9D9_LPQm5mYwlOeimDatlA==",
-      "accuratezza_orario": "esatto"
+      "orario": "17:00*",
+      "evento": "Tennis - ATP Masters 1000 Cincinnati (terzo turno): Lorenzo Musetti (ITA) vs Michael Zheng (USA)",
+      "competizione": "ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
+      "note": "Il match di Musetti è il secondo in programma a partire dalle 17:00 CET.",
+      "fonte": "oaSport.it, Sky Sport",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
