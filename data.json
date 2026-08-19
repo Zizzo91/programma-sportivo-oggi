@@ -1,13 +1,22 @@
 {
-  "last_updated": "2026-08-18T08:24:11.969946+02:00",
+  "last_updated": "2026-08-19T20:16:46.582345+02:00",
   "events": [
     {
-      "orario": "17:00*",
-      "evento": "Tennis - ATP Masters 1000 Cincinnati (terzo turno): Lorenzo Musetti (ITA) vs Michael Zheng (USA)",
-      "competizione": "ATP Masters 1000 Cincinnati",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
-      "note": "Il match di Musetti è il secondo in programma a partire dalle 17:00 CET.",
-      "fonte": "oaSport.it, Sky Sport",
+      "orario": "17:00",
+      "evento": "Masters 1000 Cincinnati 2026: Flavio Cobolli vs Rafa Jodar (Ottavi di finale)",
+      "competizione": "Tennis ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00* (20 agosto)",
+      "evento": "Masters 1000 Cincinnati 2026: Lorenzo Musetti vs Jaime Faria (Ottavi di finale)",
+      "competizione": "Tennis ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Tennis (simulcast Sky Sport Uno)",
+      "note": "L'orario esatto dipende dai match precedenti; stimato intorno a mezzanotte CET, in tarda serata locale.",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "stimato"
     }
   ]
