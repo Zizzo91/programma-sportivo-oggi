@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-08-20T14:24:44.012563+02:00",
+  "last_updated": "2026-08-20T20:21:06.901618+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Conferenza Piloti",
-      "competizione": "Formula 1, GP Olanda 2026",
-      "canale": "Sky Sport F1",
-      "note": "Live streaming su Skysport.it (orario locale Italia: 13:30 CEST)",
-      "fonte": "skysport.it",
+      "orario": "13:30",
+      "evento": "Formula 1 - GP Olanda 2026: Conferenza Stampa Piloti",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, SkySport.it",
+      "note": "Diretta TV e streaming",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:10*",
+      "orario": "18:30",
       "evento": "Bolelli/Vavassori vs Pavlasek/Rikl",
-      "competizione": "ATP Masters 1000 Cincinnati 2026 (Ottavi di finale doppio maschile)",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Giocatori italiani in campo (orario locale Italia stimato: non prima delle 18:10 CEST)",
-      "fonte": "ubitennis.com, Sky Sport, TennisTalker Magazine",
+      "competizione": "Tennis - ATP Masters 1000 Cincinnati (R16)",
+      "canale": "Sky Sport, NOW",
+      "note": "Secondo match sul Tony Trabert Stadium 3",
+      "fonte": "Ubitennis, Sky Sport, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "19:30",
-      "evento": "Atalanta - Hapoel Tel Aviv",
-      "competizione": "UEFA Conference League (Andata Playoff)",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "Differita su TV8 alle 19:45 CET (orario locale Italia: 20:30 CEST su Sky/NOW, 20:45 CEST su TV8)",
-      "fonte": "sport.sky.it, guidatv.sky.it, libero.it",
+      "orario": "20:30",
+      "evento": "Atalanta vs Hapoel Tel Aviv",
+      "competizione": "UEFA Conference League - Playoff (Andata)",
+      "canale": "TV8",
+      "note": "Diretta TV",
+      "fonte": "Il calcio in TV oggi, Guida TV8",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
+      "orario": "21:00",
       "evento": "Flavio Cobolli vs Tommy Paul",
-      "competizione": "ATP Masters 1000 Cincinnati 2026 (Quarti di finale singolare maschile)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, NOW, Tennis TV",
-      "note": "Giocatore italiano in campo (orario locale Italia stimato: non prima delle 21:00 CEST)",
-      "fonte": "ubitennis.com, Sky Sport, TennisTalker Magazine, FQ Magazine",
+      "competizione": "Tennis - ATP Masters 1000 Cincinnati (QF)",
+      "canale": "Sky Sport, NOW",
+      "note": "Non prima delle ore 21:00 italiane. Match di singolare",
+      "fonte": "Ubitennis, Sky Sport, OA Sport",
       "accuratezza_orario": "stimato"
     }
   ]
