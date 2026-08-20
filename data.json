@@ -1,13 +1,85 @@
 {
-  "last_updated": "2026-08-20T02:38:03.687400+02:00",
+  "last_updated": "2026-08-20T08:24:40.631795+02:00",
   "events": [
     {
+      "orario": "08:00",
+      "evento": "Nuoto 7a giornata: batterie",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Raisport HD",
+      "note": "Assumendo partecipazione italiana a un major campionato europeo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpsN1XTLKjN1jFM-ovBXV8LK_m4-sA32zWAH04C1lsabkM1uZphipIbct1aAy9uITSI1jEK3aZzR9Qtv0jZheO-7HJSPF9TUD5g5dhX9hX1qylA-2tipuV2P0_mQPiYQRWLOOapXwLxz6uv2wP6U2C",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Nuoto: Semifinali e finali",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Raisport HD",
+      "note": "Assumendo partecipazione italiana a un major campionato europeo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpsN1XTLKjN1jFM-ovBXV8LK_m4-sA32zWAH04C1lsabkM1uZphipIbct1aAy9uITSI1jEK3aZzR9Qtv0jZheO-7HJSPF9TUD5g5dhX9hX1qylA-2tipuV2P0_mQPiYQRWLOOapXwLxz6uv2wP6U2C",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Tuffi Finale 3m Sincro Misto + Finale 1m F",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Raisport HD",
+      "note": "Assumendo partecipazione italiana a un major campionato europeo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpsN1XTLKjN1jFM-ovBXV8LK_m4-sA32zWAH04C1lsabkM1uZphipIbct1aAy9uITSI1jEK3aZzR9Qtv0jZheO-7HJSPF9TUD5g5dhX9hX1qylA-2tipuV2P0_mQPiYQRWLOOapXwLxz6uv2wP6U2C",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "Tennis: Doppio maschile - Ottavi di finale (Bolelli/Vavassori vs Pavlasek/Rikl)",
+      "competizione": "ATP Masters 1000 Cincinnati 2026",
+      "canale": null,
+      "note": "Secondo incontro dalle 17:00. Orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL4TBKJTdVkocHMBW6uEBV429Ur6OrLOIZxCE5MFnohCbbSZqD2bYltd0VZ2oWXK5qbDaBmbjIzVAWTN7aPDMuKh6npLFtiKs-TiAPfG1DZOn4QBI_0edSmnTPYy43jWxClOp2Az8jGHfKscqvUA7yQ-O2E1cRaPPB6q5lXYRKL19IcZKcnsvGruDxCRALSkopWhMxHCJYlSCZkqhCnaExpXF8eSWHD3LwAGiwErAVQQP037mUiVXb4U0nVS0jKw==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Campionato Italiano Gold 2026 - Finale maschile",
+      "competizione": "Campionato Italiano Gold",
+      "canale": "Sky Sport Arena",
+      "note": "Da Montesilvano.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCP4T7mpcFJoBdm_V0VgHY-dsYN-eMPLoTrnMF3LWfGTZQP9Lgeg6qH_GBqUDdO-RKF-_m79TOkjU3l1yaLkjhvG98TmqdIzxS7xRRiEH96LTdSKuZx_nYTYpbeXZc177cuRk6VY8W4ieeMLETjyM31eXa0Q==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:25",
+      "evento": "Nuoto Artistico: Finale a Squadre - programma Libero",
+      "competizione": "European Aquatics Parigi 2026",
+      "canale": "Raisport HD",
+      "note": "Assumendo partecipazione italiana a un major campionato europeo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpsN1XTLKjN1jFM-ovBXV8LK_m4-sA32zWAH04C1lsabkM1uZphipIbct1aAy9uITSI1jEK3aZzR9Qtv0jZheO-7HJSPF9TUD5g5dhX9hX1qylA-2tipuV2P0_mQPiYQRWLOOapXwLxz6uv2wP6U2C",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "20:30",
-      "evento": "Atalanta - Hapoel Tel Aviv",
-      "competizione": "UEFA Conference League - Play-off (Andata)",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0OskQG8axlgQAnia74VU1h_VraHzXshSNasFniWBAoMR8nEATkPkqSf11yyNzSkO37UslHUkz4RHQhSqx7-NIPALlXRmNdPSTVFZEDZaiQlSd-RweeHw6gKXbhaFj9yKDQmkGGrCXS7Hh2nEqHZ1DsDxkrYwCRyhxWMh2ttGI0FY=",
+      "evento": "Calcio: Playoff - Andata (Atalanta vs Hapoel Tel Aviv)",
+      "competizione": "UEFA Conference League 2026/2027",
+      "canale": "Sky Sport",
+      "note": "Da verificare canale specifico Sky Sport.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESJ72RbFBtikubyWt8fu64sopQdscEpDTGn4S52cnW0aTKdz8xnVHOyQLiqd0uM4Z9T7X09fuy4DjazYpiX7cz7n47kLzgA_jc-MH_hj3Aa2mQr3fJQ6g7ATWTpbYHan85JIVIPMSKoI-EtkJEjAzwABawQQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Atletica Leggera: Salto in lungo Maschile (2a giornata)",
+      "competizione": "Europei 2026",
+      "canale": "Sky Sport Arena",
+      "note": "Assumendo partecipazione italiana a un major campionato europeo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCP4T7mpcFJoBdm_V0VgHY-dsYN-eMPLoTrnMF3LWfGTZQP9Lgeg6qH_GBqUDdO-RKF-_m79TOkjU3l1yaLkjhvG98TmqdIzxS7xRRiEH96LTdSKuZx_nYTYpbeXZc177cuRk6VY8W4ieeMLETjyM31eXa0Q==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Tennis: Singolare maschile - Quarti di finale (Flavio Cobolli)",
+      "competizione": "ATP Masters 1000 Cincinnati 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Cobolli vs Paul. Orario 'non prima delle 21:00' si allinea con l'inizio del QF ATP.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL4TBKJTdVkocHMBW6uEBV429Ur6OrLOIZxCE5MFnohCbbSZqD2bYltd0VZ2oWXK5qbDaBmbjIzVAWTN7aPDMuKh6npLFtiKs-TiAPfG1DZOn4QBI_0edSmnTPYy43jWxClOp2Az8jGHfKscqvUA7yQ-O2E1cRaPPB6q5lXYRKL19IcZKcnsvGruDxCRALSkopWhMxHCJYlSCZkqhCnaExpXF8eSWHD3LwAGiwErAVQQP037mUiVXb4U0nVS0jKw==",
       "accuratezza_orario": "esatto"
     }
   ]
