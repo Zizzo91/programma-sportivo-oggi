@@ -1,68 +1,86 @@
 {
-  "last_updated": "2026-08-21T02:36:36.846281+02:00",
+  "last_updated": "2026-08-21T08:24:51.086285+02:00",
   "events": [
     {
       "orario": "12:30",
-      "evento": "Prove Libere 1 - GP Olanda",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Diretta esclusiva Sky e streaming su NOW TV",
-      "fonte": "alVolante.it, Quattroruote, Sportface.it, FormulaPassion, Sky Sport",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1 - GP Olanda 2026",
+      "canale": "Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtSBDGXMMz1mVWfPUD31EJhaJRQ0szRfHCS-e0VW8o7BbX--Clh-flu0llvZgW-JC8Ml8Z-d2ngITKQUu4Ah_Fl-qrQdDxwbwFdgnhVdSDKlZvrMbYzgXvamR-fRLlKBKsfmfVzCJ74gGisJzinpjhuy4roW-RBimEd6cAxXqA1ekXpnCokeCs7xqc6bQuHOMa2wnFevgkC9b7-JuE3QmiA6XVzmJWm1aUO6WtPYQAgwRTnO8E7ifSwsRiUyObly_4Lu3otxJfDtQJMARjTRGi",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:30",
-      "evento": "Qualifiche Sprint - GP Olanda",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, TV8",
-      "note": "Diretta su Sky e TV8, streaming su NOW TV",
-      "fonte": "alVolante.it, Quattroruote, Sportface.it, FormulaPassion, Sky Sport",
+      "evento": "Qualifiche Sprint",
+      "competizione": "Formula 1 - GP Olanda 2026",
+      "canale": "Sky Sport F1, Sky Sport 4K, TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpqpdSwXwbsGwLlg5MetlAUuT7T81uDr2J2qj7ESOK1-R_IvXbVcZYo4SlHlOqRyo8_hg-5-AIN8jLi1v76HWr20GNGbqO9lXa_ApzKipTgnuDIPxNQrV39TUjvd8I8ChkfsjprlosvhKK0hGoks7li3K_zPR2ZDWpl1gT4NdXsRTleYrR9Fyur170ytY",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Quarti di finale doppio maschile: Darderi/Etcheverry – Granollers/Zeballos",
-      "competizione": "ATP Masters 1000 Cincinnati",
-      "canale": "Sky Sport Tennis, Sky Sport 1",
-      "note": "Streaming su SkyGo, NOW Tv, Tennis Tv",
-      "fonte": "Lottomatica.Sport, Olympics.com, Calcio e Sport in Tv oggi: dove vedere in Televisione",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Quarti di finale doppio maschile: Bolelli/Vavassori – Luz/Matos",
-      "competizione": "ATP Masters 1000 Cincinnati",
-      "canale": "Sky Sport Tennis, Sky Sport 1",
-      "note": "Streaming su SkyGo, NOW Tv, Tennis Tv",
-      "fonte": "Lottomatica.Sport, Olympics.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Vicenza – Catanzaro",
-      "competizione": "Serie B",
-      "canale": "DAZN",
+      "evento": "Quarti di finale doppio ATP Cincinnati - Darderi/Etcheverry vs Granollers/Zeballos",
+      "competizione": "Tennis - ATP Cincinnati 2026",
+      "canale": "Sky Sport Tennis, Sky Sport Mix",
       "note": "",
-      "fonte": "Programmi TV, Calcio in tv oggi, 21 agosto 2026, Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAffjJIYnKbbHMZrkLR_mBmvS1sRxFJKTIheerftu2ATaPVqHBxe4V9-vugYnxLNOCxVQwdq2iUxHRhtjMsbFxVF_AVewebl4kot0YcrrWoosFZg11q7g9ZYIWsLlYfls0bYXPCxzMTrVXi8nTIVN6wkzwV5V5KtrcgmXGane0hy7kHGQDncQN5Vki9mA",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "Quarti di finale doppio ATP Cincinnati - Bolelli/Vavassori vs Luz/Matos",
+      "competizione": "Tennis - ATP Cincinnati 2026",
+      "canale": "Sky Sport Tennis, Sky Sport Mix",
+      "note": "A seguire il match Darderi/Etcheverry vs Granollers/Zeballos.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAffjJIYnKbbHMZrkLR_mBmvS1sRxFJKTIheerftu2ATaPVqHBxe4V9-vugYnxLNOCxVQwdq2iUxHRhtjMsbFxVF_AVewebl4kot0YcrrWoosFZg11q7g9ZYIWsLlYfls0bYXPCxzMTrVXi8nTIVN6wkzwV5V5KtrcgmXGane0hy7kHGQDncQN5Vki9mA",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "L.R. Vicenza vs Catanzaro",
+      "competizione": "Calcio - Serie B",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq6nTTO9WafGcEibh04v6lNTQQ1BIPNJ9Wnzj1kwcwrQZmb88V4M95wMcSur_r_r7YTSLttzb7aH5i95wC59yLIeq2ww5111VfGBZRyguWetAQwUEge7XMBtCzo4vsSMoD6FHwupoeGEqS_PmZkrYWp4tyxyGydeBuB-BJwDH7BseCv3r3SphlzsyAEVOKhiSv2tiPLDDtins1dVjvk_Zg",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "Parma – Inter",
-      "competizione": "Serie A Women's Cup",
+      "evento": "Parma vs Inter",
+      "competizione": "Calcio - Serie A Women's Cup",
       "canale": "Sky Sport Calcio",
-      "note": "Streaming su NOW",
-      "fonte": "Calcio in tv oggi, 21 agosto 2026, Calcio su Sky e NOW dal 21 al 24 agosto",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx8lVqmWwQlBpTAIabb2f2l_mBHCUvvu2bkcoch86VyKULIhmf6yR9JSe_feyVgQMrk0ytotbxCHY8gnH_5Dcxo-HKvznfNQzg8K2PKQsFM3oYQP7Up3uZOcSnSaMtUPWNTPjGshpshzvL6V1z3WRiMGRxgijAvvuGD_DrBd8RJb1tlHyjw05XYGORBjEWG0Yz-gkZKcu7vgu-WekYIc1__aMjsDh3kq8",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "Quarti di finale singolare uomini: Lorenzo Musetti – Frances Tiafoe",
-      "competizione": "ATP Masters 1000 Cincinnati",
-      "canale": "Sky Sport Tennis, Sky Sport 1",
-      "note": "In onda il 22/08/2026. Streaming su SkyGo, NOW Tv, Tennis Tv",
-      "fonte": "Olympics.com, Lottomatica.Sport, Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "orario": "21:00",
+      "evento": "Replica Qualifiche Sprint",
+      "competizione": "Formula 1 - GP Olanda 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUSMrkEQ84afp2NdcZnuiJlp5J2t8CZLzGHsQJ0qbk3TnWX-lJPhu82_eAv3cyYJWuwFCbMAMPr-jKNcGGoK_bE1u720jd7oqQKfvgz0phQOrXga5IBNtmNpi7oXVodNJA7CKJStHluhJLVwYjRU0p3Po57IBz07ELZMLr0L-FMXIUtQ==",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:30",
+      "evento": "Replica Qualifiche Sprint",
+      "competizione": "Formula 1 - GP Olanda 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUSMrkEQ84afp2NdcZnuiJlp5J2t8CZLzGHsQJ0qbk3TnWX-lJPhu82_eAv3cyYJWuwFCbMAMPr-jKNcGGoK_bE1u720jd7oqQKfvgz0phQOrXga5IBNtmNpi7oXVodNJA7CKJStHluhJLVwYjRU0p3Po57IBz07ELZMLr0L-FMXIUtQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00*",
+      "evento": "Quarti di finale ATP Cincinnati - Lorenzo Musetti (ITA) vs Frances Tiafoe (USA)",
+      "competizione": "Tennis - ATP Cincinnati 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Non prima delle 01:00 italiane di sabato 22 agosto.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAffjJIYnKbbHMZrkLR_mBmvS1sRxFJKTIheerftu2ATaPVqHBxe4V9-vugYnxLNOCxVQwdq2iUxHRhtjMsbFxVF_AVewebl4kot0YcrrWoosFZg11q7g9ZYIWsLlYfls0bYXPCxzMTrVXi8nTIVN6wkzwV5V5KtrcgmXGane0hy7kHGQDncQN5Vki9mA",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
