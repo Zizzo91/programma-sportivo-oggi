@@ -1,41 +1,68 @@
 {
-  "last_updated": "2026-08-20T20:21:06.901618+02:00",
+  "last_updated": "2026-08-21T02:36:36.846281+02:00",
   "events": [
     {
-      "orario": "13:30",
-      "evento": "Formula 1 - GP Olanda 2026: Conferenza Stampa Piloti",
+      "orario": "12:30",
+      "evento": "Prove Libere 1 - GP Olanda",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1, SkySport.it",
-      "note": "Diretta TV e streaming",
-      "fonte": "Sky Sport",
+      "canale": "Sky Sport F1",
+      "note": "Diretta esclusiva Sky e streaming su NOW TV",
+      "fonte": "alVolante.it, Quattroruote, Sportface.it, FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30",
+      "evento": "Qualifiche Sprint - GP Olanda",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, TV8",
+      "note": "Diretta su Sky e TV8, streaming su NOW TV",
+      "fonte": "alVolante.it, Quattroruote, Sportface.it, FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Quarti di finale doppio maschile: Darderi/Etcheverry – Granollers/Zeballos",
+      "competizione": "ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Tennis, Sky Sport 1",
+      "note": "Streaming su SkyGo, NOW Tv, Tennis Tv",
+      "fonte": "Lottomatica.Sport, Olympics.com, Calcio e Sport in Tv oggi: dove vedere in Televisione",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Bolelli/Vavassori vs Pavlasek/Rikl",
-      "competizione": "Tennis - ATP Masters 1000 Cincinnati (R16)",
-      "canale": "Sky Sport, NOW",
-      "note": "Secondo match sul Tony Trabert Stadium 3",
-      "fonte": "Ubitennis, Sky Sport, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Atalanta vs Hapoel Tel Aviv",
-      "competizione": "UEFA Conference League - Playoff (Andata)",
-      "canale": "TV8",
-      "note": "Diretta TV",
-      "fonte": "Il calcio in TV oggi, Guida TV8",
+      "evento": "Quarti di finale doppio maschile: Bolelli/Vavassori – Luz/Matos",
+      "competizione": "ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Tennis, Sky Sport 1",
+      "note": "Streaming su SkyGo, NOW Tv, Tennis Tv",
+      "fonte": "Lottomatica.Sport, Olympics.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Flavio Cobolli vs Tommy Paul",
-      "competizione": "Tennis - ATP Masters 1000 Cincinnati (QF)",
-      "canale": "Sky Sport, NOW",
-      "note": "Non prima delle ore 21:00 italiane. Match di singolare",
-      "fonte": "Ubitennis, Sky Sport, OA Sport",
-      "accuratezza_orario": "stimato"
+      "orario": "20:30",
+      "evento": "Vicenza – Catanzaro",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Programmi TV, Calcio in tv oggi, 21 agosto 2026, Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Parma – Inter",
+      "competizione": "Serie A Women's Cup",
+      "canale": "Sky Sport Calcio",
+      "note": "Streaming su NOW",
+      "fonte": "Calcio in tv oggi, 21 agosto 2026, Calcio su Sky e NOW dal 21 al 24 agosto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Quarti di finale singolare uomini: Lorenzo Musetti – Frances Tiafoe",
+      "competizione": "ATP Masters 1000 Cincinnati",
+      "canale": "Sky Sport Tennis, Sky Sport 1",
+      "note": "In onda il 22/08/2026. Streaming su SkyGo, NOW Tv, Tennis Tv",
+      "fonte": "Olympics.com, Lottomatica.Sport, Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
