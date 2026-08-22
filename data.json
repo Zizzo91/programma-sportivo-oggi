@@ -1,85 +1,67 @@
 {
-  "last_updated": "2026-08-22T02:33:57.805307+02:00",
+  "last_updated": "2026-08-22T14:17:33.302066+02:00",
   "events": [
     {
-      "orario": "08:15",
-      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 1a giornata (copertura generale)",
-      "competizione": "Giochi del Mediterraneo",
-      "canale": "Rai Sport HD",
-      "note": "Orario di inizio copertura TV. La giornata di gare si svolge dalle 08:00 CEST (07:00 CET). Orario convertito in CET.",
-      "fonte": "ProgrammiTV.com, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Diamond League 2026 - Losanna",
-      "competizione": "Atletica Leggera",
-      "canale": "Rai Sport HD",
-      "note": "Orario convertito in CET.",
-      "fonte": "ProgrammiTV.com",
+      "orario": "12:00",
+      "evento": "F1 - Sprint Race",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
+      "note": "",
+      "fonte": "OA Sport, alVolante.it, Sky Sport, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 1a giornata (copertura generale)",
-      "competizione": "Giochi del Mediterraneo",
-      "canale": "Rai Sport HD",
-      "note": "Orario di inizio copertura TV. Orario convertito in CET.",
-      "fonte": "ProgrammiTV.com, OA Sport",
+      "evento": "F1 - Qualifiche",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
+      "note": "",
+      "fonte": "OA Sport, alVolante.it, Sky Sport, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:30",
-      "evento": "Inter – Monza",
+      "orario": "18:30",
+      "evento": "Calcio - Inter vs Monza",
       "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "Orario convertito in CET. Inizio stagione Serie A 2026/27.",
-      "fonte": "LaPresse, Sky Sport, Super Guida TV",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "LaPresse, Movieplayer",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:30",
-      "evento": "Udinese – Como",
+      "orario": "18:30",
+      "evento": "Calcio - Udinese vs Como",
       "competizione": "Serie A",
-      "canale": "Sky Sport, NOW",
-      "note": "Orario convertito in CET. Inizio stagione Serie A 2026/27.",
-      "fonte": "LaPresse, Sky Sport, Super Guida TV",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 252, NOW",
+      "note": "",
+      "fonte": "LaPresse, Programmi Sky, UEFA.com, Movieplayer, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:45",
-      "evento": "Genoa – Napoli",
+      "orario": "19:30",
+      "evento": "Tennis - Semifinale ATP Masters 1000: Flavio Cobolli vs Arthur Fils",
+      "competizione": "Cincinnati Open",
+      "canale": "Sky Sport Tennis, NOW",
+      "note": "",
+      "fonte": "OA Sport, Sky Sport, Olympics.com",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Genoa vs Napoli",
       "competizione": "Serie A",
-      "canale": "Sky Sport, NOW",
-      "note": "Orario convertito in CET. Inizio stagione Serie A 2026/27.",
-      "fonte": "LaPresse, Sky Sport, Super Guida TV",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
+      "note": "",
+      "fonte": "LaPresse, Programmi Sky, UEFA.com, Movieplayer, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:45",
-      "evento": "Parma – Cagliari",
+      "orario": "20:45",
+      "evento": "Calcio - Parma vs Cagliari",
       "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "Orario convertito in CET. Inizio stagione Serie A 2026/27.",
-      "fonte": "LaPresse, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Il Sabato al 90°",
-      "competizione": "Rubrica calcistica",
-      "canale": "Rai 2",
-      "note": "Rubrica calcistica. Orario convertito in CET.",
-      "fonte": "ProgrammiTV.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "Europei Maschili 2026 - Finali di Specialità (2a giornata da Zagabria)",
-      "competizione": "Ginnastica Artistica",
-      "canale": "Rai Sport HD",
-      "note": "Evento del 23 agosto. Orario convertito in CET.",
-      "fonte": "ProgrammiTV.com",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "LaPresse, Movieplayer",
       "accuratezza_orario": "esatto"
     }
   ]
