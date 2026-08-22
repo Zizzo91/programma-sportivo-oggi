@@ -1,50 +1,86 @@
 {
-  "last_updated": "2026-08-21T20:20:24.719714+02:00",
+  "last_updated": "2026-08-22T02:33:57.805307+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "F1 - Prove Libere 1",
-      "competizione": "Formula 1 - GP Olanda 2026",
-      "canale": "Sky Sport F1 (207), Sky Sport 4K (213)",
-      "note": "Diretta tv e streaming",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvy8y8QI3NVv3lKaS94KCqNz0jTsOd4_IUx4X7_JAMvKSscruJpIaX6UGPosvks9PnT-cywWAU_e6LuhNkUsbKa-KXOttVbFsfyas7D8JOMetTw4DRwK5fl3oculjca43-Hb0FfZcmp388YXJwLSnuBOdpgFY4t-HioHiIIjBy9Oz5aKbJSkfAsPpRV6UgBwxbfYfMnkyHw1H2uqM7oSQLEXKNbI31RYMkvs3IteUw4EkT9KuIUiWjv6oBQXOrA==",
+      "orario": "08:15",
+      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 1a giornata (copertura generale)",
+      "competizione": "Giochi del Mediterraneo",
+      "canale": "Rai Sport HD",
+      "note": "Orario di inizio copertura TV. La giornata di gare si svolge dalle 08:00 CEST (07:00 CET). Orario convertito in CET.",
+      "fonte": "ProgrammiTV.com, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:30",
-      "evento": "F1 - Qualifiche Sprint",
-      "competizione": "Formula 1 - GP Olanda 2026",
-      "canale": "Sky Sport F1 (207), Sky Sport 4K (213), TV8",
-      "note": "Diretta tv e streaming. TV8 trasmette in chiaro.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDzZBdJVcAXlnLuvsA5u8RSerYhbI5NJ2Kgyao8R8-eSV8pbAh87cvy28yQ_jHzWRqXe5n-ePKNBPzcFpnYetK6U7-jNuE_OUPfZ_gvN2HyuqyghK412OXECYNHxK6C93HCydXlqf-ya38JZij81Sx6rHTeSHyrvabCVvg1Bo8QG6dkcGP37vFysWHwUUpj0aP0bBXjRzPJ0vWg--iDhyKua1Ji22M2L6lPaczoGvVxhVs92ykis4BP0xubgnsTHMBNanJLrye175teiC-ryzz4A9FMsPACKlFR47ruLi6I8AJ",
+      "orario": "14:00",
+      "evento": "Diamond League 2026 - Losanna",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport HD",
+      "note": "Orario convertito in CET.",
+      "fonte": "ProgrammiTV.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Tennis - Quarti di Finale doppio ATP: Darderi/Etcheverry vs Granollers/Zeballos",
-      "competizione": "ATP Masters 1000 Cincinnati 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
-      "note": "Diretta tv e streaming (SkyGo, NOW, Tennis Tv). Luciano Darderi in campo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHviXrKIefbGDpB18hHQJAriTQGDnpoW2CK6urG-JcAuAu3OP1oMNeYoPyJ4IRyBErLaRHGlxLR-H976Fjz_ZyqmMwnJ-JjXkl93PpadUQbqqLb2YeJN_GhHP75x8IFZuaWVVkzHB-w0Hb4DW-TPUDMw12dM1uz36KXUkHeD4seWc7clPqTsOiXg8vzTyr9vE7_u5VpwDdvfdAcqjwDg0D_",
+      "orario": "16:00",
+      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 1a giornata (copertura generale)",
+      "competizione": "Giochi del Mediterraneo",
+      "canale": "Rai Sport HD",
+      "note": "Orario di inizio copertura TV. Orario convertito in CET.",
+      "fonte": "ProgrammiTV.com, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Calcio - LR Vicenza vs Catanzaro",
-      "competizione": "Serie BKT 2026/2027 - 1ª giornata",
+      "orario": "17:30",
+      "evento": "Inter – Monza",
+      "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "Open Day Serie BKT",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbVkZ6Y8LGaTPm-R6KzAkQPP0TdeouRLMjVV02zMwQYeoxFzshISOUOvMnjFh4VYqmQmJNi7ChhDJthccF3BJpRVxuc0lBlHZpUtXRa-VpiG_OluhW3P94hQieXXf42pe3LgsUe7cAkJiQ1bcQsZznxeJG8VuxTiqnmkowEiJiDwAg1pLJWQHM_UGXKN1IXjtm4Egf59aSgMbPdtQ3X94ysQ==",
+      "note": "Orario convertito in CET. Inizio stagione Serie A 2026/27.",
+      "fonte": "LaPresse, Sky Sport, Super Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00*",
-      "evento": "Tennis - Quarti di Finale ATP: Lorenzo Musetti vs Frances Tiafoe",
-      "competizione": "ATP Masters 1000 Cincinnati 2026",
-      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
-      "note": "Orario stimato (non prima dell'01:00 italiana nella notte tra venerdì e sabato). Diretta tv e streaming (SkyGo, NOW, Tennis Tv).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvy8y8QI3NVv3lKaS94KCqNz0jTsOd4_IUx4X7_JAMvKSscruJpIaX6UGPosvks9PnT-cywWAU_e6LuhNkUsbKa-KXOttVbFsfyas7D8JOMetTw4DRwK5fl3oculjca43-Hb0FfZcmp388YXJwLSnuBOdpgFY4t-HioHiIIjBy9Oz5aKbJSkfAsPpRV6UgBwxbfYfMnkyHw1H2uqM7oSQLEXKNbI31RYMkvs3IteUw4EkT9KuIUiWjv6oBQXOrA==",
-      "accuratezza_orario": "stimato"
+      "orario": "17:30",
+      "evento": "Udinese – Como",
+      "competizione": "Serie A",
+      "canale": "Sky Sport, NOW",
+      "note": "Orario convertito in CET. Inizio stagione Serie A 2026/27.",
+      "fonte": "LaPresse, Sky Sport, Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Genoa – Napoli",
+      "competizione": "Serie A",
+      "canale": "Sky Sport, NOW",
+      "note": "Orario convertito in CET. Inizio stagione Serie A 2026/27.",
+      "fonte": "LaPresse, Sky Sport, Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Parma – Cagliari",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "Orario convertito in CET. Inizio stagione Serie A 2026/27.",
+      "fonte": "LaPresse, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Il Sabato al 90°",
+      "competizione": "Rubrica calcistica",
+      "canale": "Rai 2",
+      "note": "Rubrica calcistica. Orario convertito in CET.",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:30",
+      "evento": "Europei Maschili 2026 - Finali di Specialità (2a giornata da Zagabria)",
+      "competizione": "Ginnastica Artistica",
+      "canale": "Rai Sport HD",
+      "note": "Evento del 23 agosto. Orario convertito in CET.",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
