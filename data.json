@@ -1,67 +1,67 @@
 {
-  "last_updated": "2026-08-22T14:17:33.302066+02:00",
+  "last_updated": "2026-08-22T20:13:00.774309+02:00",
   "events": [
     {
       "orario": "12:00",
-      "evento": "F1 - Sprint Race",
-      "competizione": "Formula 1 - GP Olanda",
+      "evento": "GP Olanda, Sprint Race",
+      "competizione": "Formula 1",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
-      "note": "",
-      "fonte": "OA Sport, alVolante.it, Sky Sport, Il Fatto Quotidiano",
+      "note": "Diretta",
+      "fonte": "OA Sport, Sky Sport, alVolante.it, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "F1 - Qualifiche",
-      "competizione": "Formula 1 - GP Olanda",
+      "evento": "GP Olanda, Qualifiche",
+      "competizione": "Formula 1",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
-      "note": "",
-      "fonte": "OA Sport, alVolante.it, Sky Sport, Il Fatto Quotidiano",
+      "note": "Diretta",
+      "fonte": "OA Sport, Sky Sport, alVolante.it, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Calcio - Inter vs Monza",
+      "evento": "Udinese - Como",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "Sky Sport Calcio, Sky Sport 252, Sky Sport 4K",
       "note": "",
-      "fonte": "LaPresse, Movieplayer",
+      "fonte": "Sky Sport, Fichajes.com, Libero, Punto Informatico",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Calcio - Udinese vs Como",
+      "evento": "Inter - Monza",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 252, NOW",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "LaPresse, Programmi Sky, UEFA.com, Movieplayer, Sky Sport",
+      "fonte": "Mundo Deportivo, Libero, Digital-News",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:30",
-      "evento": "Tennis - Semifinale ATP Masters 1000: Flavio Cobolli vs Arthur Fils",
-      "competizione": "Cincinnati Open",
+      "evento": "Tennis Cincinnati Open, Semifinale: Flavio Cobolli vs Arthur Fils",
+      "competizione": "ATP Masters 1000",
       "canale": "Sky Sport Tennis, NOW",
-      "note": "",
-      "fonte": "OA Sport, Sky Sport, Olympics.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Calcio - Genoa vs Napoli",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "LaPresse, Programmi Sky, UEFA.com, Movieplayer, Sky Sport",
+      "note": "Con giocatore italiano",
+      "fonte": "Sky Sport, OA Sport, Ubitennis, Olympics.com, Lottomatica.Sport, Puntodebreak",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Parma vs Cagliari",
+      "evento": "Genoa - Napoli",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, DAZN",
       "note": "",
-      "fonte": "LaPresse, Movieplayer",
+      "fonte": "Sky Sport, Facebook, Calcio e Finanza, Punto Informatico",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Parma - Cagliari",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Fichajes.com, Libero",
       "accuratezza_orario": "esatto"
     }
   ]
