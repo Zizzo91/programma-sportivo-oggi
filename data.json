@@ -1,67 +1,103 @@
 {
-  "last_updated": "2026-08-22T20:13:00.774309+02:00",
+  "last_updated": "2026-08-23T02:37:09.699495+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "GP Olanda, Sprint Race",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
+      "orario": "15:00",
+      "evento": "Gara",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
       "note": "Diretta",
-      "fonte": "OA Sport, Sky Sport, alVolante.it, Il Fatto Quotidiano",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvlPKGWui-g3EhZj6xThE8XcqMSG6s__8Z6SaXow0Zwy4lRJ8XD4vVQLTOfOBjPSJ0bPqAGFrJ2N9Zvg_50T8aa_T6fgVgj_Rh5dZdY32S1V0a-xIbKZfihTbDSq2rSjBDg67FXF-5URgsp11kVDvCg1shHlpXEfcJzxszgDySsMZaIbBF-2t-bIOLuXpntvVNrt84mYPLftTG4Tsyg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "GP Olanda, Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
-      "note": "Diretta",
-      "fonte": "OA Sport, Sky Sport, alVolante.it, Il Fatto Quotidiano",
+      "orario": "16:30",
+      "evento": "F1 Paddock Live Pre Gara",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnXXCQRPxRCq6vuecJTGwFteT8YGWf1MTSTcvtpMG1GInZMak9pBa4mv89JkAVDW2RXHrtN4GdHYbR67B-OhWrXAUhDqg6NgIECesNNiB6jzRsW_NIu-Q5Oi1m9Q3cFkXzZ8JxP3WFvo8==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-E9DuP6IoOeX62rw4q4obOqGdZnuCBIbzvXrxJ4mtMwqw4LePZRcbFmyC6BOV6GveH3DYHa-E7K55JcDqdw-Ii32-v9l3Wq7Nc9ScrieGViOgv0V4iRaKy9xD1_2rMARV63ycYrRuxMrBp88tFZy8jahU-pp3fHXXaK3A9aFaYjycz_gAk_2LxHok",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Gara",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvlPKGWui-g3EhZj6xThE8XcqMSG6s__8Z6SaXow0Zwy4lRJ8XD4vVQLTOfOBjPSJ0bPqAGFrJ2N9Zvg_50T8aa_T6fgVgj_Rh5dZdY32S1V0a-xIbKZfihTbDSq2rSjBDg67FXF-5URgsp11kVDvCg1shHlpXEfcJzxszgDySsMZaIbBF-2t-bIOLuXpntvVNrt84mYPLftTG4Tsyg==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Udinese - Como",
+      "evento": "Frosinone-Juventus",
       "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 252, Sky Sport 4K",
-      "note": "",
-      "fonte": "Sky Sport, Fichajes.com, Libero, Punto Informatico",
+      "canale": "DAZN",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_HUJOndmHP3i3jvZLP0gU0gpyxA-ssYJPaKnnmg2CLI630Qf0LJfzmZS1-taLYrkZhSaGHPsf19lhmjxPdLmoD45qpKW-wXFaFfZ3FqDJ0Mp5Skptvf9CdHfT7prDXjNA3Y5O9n2pT8hzrZEcU-k8mYI4euohgVTN-p5FCrJ8w9JTzgVrIdRYy9MVHkcnNUs9WaEcEi0zd_Y==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE1KMIrew9-iLVOmFK5XV5W2PDt4tsNJLV1ZY2QPW8vWVYCy7gOtMZg_QSMNjMVk9OnbZAzRVxBza8INPskloxsbRBjmLkUkIKQdSJz4Tgdkovet8De-P2c905F1i--VGzV12iIcUITWnMjVc6QnKFsPglD8PfcZbFnG_jifN5fbyafmCIwnjcIhMhXS8P4UsFwI72UIeDyuIX7aCqsviC9S6Os-TlPZd9Q-CWbc3PK9h3eCkhVjx0SvulmQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk5lroZbK6AqfuAMxOyCU67wto4ppmfABCP5VQJM0dZFxtna3XM0GBVqL7tiLaVcIrwNQL9u-PGnRKNB8qkFrg9iwX4_Zt2JwH2ixfUCgFE_ELhQI3C4pmJFFQwyyaqi1UcIrQsRNtn3YxeW6AMyoSAmZX-xgZvBRKMBnGZNBYovH4dN8X9B5ACEHH2kLGbQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Inter - Monza",
+      "evento": "Venezia-Lecce",
       "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "Mundo Deportivo, Libero, Digital-News",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_HUJOndmHP3i3jvZLP0gU0gpyxA-ssYJPaKnnmg2CLI630Qf0LJfzmZS1-taLYrkZhSaGHPsf19lhmjxPdLmoD45qpKW-wXFaFfZ3FqDJ0Mp5Skptvf9CdHfT7prDXjNA3Y5O9n2pT8hzrZEcU-k8mYI4euohgVTN-p5FCrJ8w9JTzgVrIdRYy9MVHkcnNUs9WaEcEi0zd_Y==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE1KMIrew9-iLVOmFK5XV5W2PDt4tsNJLV1ZY2QPW8vWVYCy7gOtMZg_QSMNjMVk9OnbZAzRVxBza8INPskloxsbRBjmLkUkIKQdSJz4Tgdkovet8De-P2c905F1i--VGzV12iIcUITWnMjVc6QnKFsPglD8PfcZbFnG_jifN5fbyafmCIwnjcIhMhXS8P4UsFwI72UIeDyuIX7aCqsviC9S6Os-TlPZd9Q-CWbc3PK9h3eCkhVjx0SvulmQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk5lroZbK6AqfuAMxOyCU67wto4ppmfABCP5VQJM0dZFxtna3XM0GBVqL7tiLaVcIrwNQL9u-PGnRKNB8qkFrg9iwX4_Zt2JwH2ixfUCgFE_ELhQI3C4pmJFFQwyyaqi1UcIrQsRNtn3YxeW6AMyoSAmZX-xgZvBRKMBnGZNBYovH4dN8X9B5ACEHH2kLGbQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:30",
-      "evento": "Tennis Cincinnati Open, Semifinale: Flavio Cobolli vs Arthur Fils",
-      "competizione": "ATP Masters 1000",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Con giocatore italiano",
-      "fonte": "Sky Sport, OA Sport, Ubitennis, Olympics.com, Lottomatica.Sport, Puntodebreak",
+      "orario": "19:45",
+      "evento": "F1 Podio",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnXXCQRPxRCq6vuecJTGwFteT8YGWf1MTSTcvtpMG1GInZMak9pBa4mv89JkAVDW2RXHrtN4GdHYbR67B-OhWrXAUhDqg6NgIECesNNiB6jzRsW_NIu-Q5Oi1m9Q3cFkXzZ8JxP3WFvo8==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "F1 Paddock Live Post Gara",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnXXCQRPxRCq6vuecJTGwFteT8YGWf1MTSTcvtpMG1GInZMak9pBa4mv89JkAVDW2RXHrtN4GdHYbR67B-OhWrXAUhDqg6NgIECesNNiB6jzRsW_NIu-Q5Oi1m9Q3cFkXzZ8JxP3WFvo8==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Genoa - Napoli",
+      "evento": "Torino-Milan",
       "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, DAZN",
-      "note": "",
-      "fonte": "Sky Sport, Facebook, Calcio e Finanza, Punto Informatico",
+      "canale": "DAZN 1, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_HUJOndmHP3i3jvZLP0gU0gpyxA-ssYJPaKnnmg2CLI630Qf0LJfzmZS1-taLYrkZhSaGHPsf19lhmjxPdLmoD45qpKW-wXFaFfZ3FqDJ0Mp5Skptvf9CdHfT7prDXjNA3Y5O9n2pT8hzrZEcU-k8mYI4euohgVTN-p5FCrJ8w9JTzgVrIdRYy9MVHkcnNUs9WaEcEi0zd_Y==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcoX9yiqrxWlUzoh-Y7lk8HHEy67tFSLOHIcY2BoIqfQvofCn6NnzNanmTAjmdZp7VX0wD8jk4_8FytkqZNhTBMdXj27f9TkYnLJaGK86m7TPFeBxaSA16-3klmdxokNmjaNE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE1KMIrew9-iLVOmFK5XV5W2PDt4tsNJLV1ZY2QPW8vWVYCy7gOtMZg_QSMNjMVk9OnbZAzRVxBza8INPskloxsbRBjmLkUkIKQdSJz4Tgdkovet8De-P2c905F1i--VGzV12iIcUITWnMjVc6QnKFsPglD8PfcZbFnG_jifN5fbyafmCIwnjcIhMhXS8P4UsFwI72UIeDyuIX7aCqsviC9S6Os-TlPZd9Q-CWbc3PK9h3eCkhVjx0SvulmQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk5lroZbK6AqfuAMxOyCU67wto4ppmfABCP5VQJM0dZFxtna3XM0GBVqL7tiLaVcIrwNQL9u-PGnRKNB8qkFrg9iwX4_Zt2JwH2ixfUCgFE_ELhQI3C4pmJFFQwyyaqi1UcIrQsRNtn3YxeW6AMyoSAmZX-xgZvBRKMBnGZNBYovH4dN8X9B5ACEHH2kLGbQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Parma - Cagliari",
+      "evento": "Atalanta-Sassuolo",
       "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Fichajes.com, Libero",
+      "canale": "DAZN 2",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_HUJOndmHP3i3jvZLP0gU0gpyxA-ssYJPaKnnmg2CLI630Qf0LJfzmZS1-taLYrkZhSaGHPsf19lhmjxPdLmoD45qpKW-wXFaFfZ3FqDJ0Mp5Skptvf9CdHfT7prDXjNA3Y5O9n2pT8hzrZEcU-k8mYI4euohgVTN-p5FCrJ8w9JTzgVrIdRYy9MVHkcnNUs9WaEcEi0zd_Y==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE1KMIrew9-iLVOmFK5XV5W2PDt4tsNJLV1ZY2QPW8vWVYCy7gOtMZg_QSMNjMVk9OnbZAzRVxBza8INPskloxsbRBjmLkUkIKQdSJz4Tgdkovet8De-P2c905F1i--VGzV12iIcUITWnMjVc6QnKFsPglD8PfcZbFnG_jifN5fbyafmCIwnjcIhMhXS8P4UsFwI72UIeDyuIX7aCqsviC9S6Os-TlPZd9Q-CWbc3PK9h3eCkhVjx0SvulmQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk5lroZbK6AqfuAMxOyCU67wto4ppmfABCP5VQJM0dZFxtna3XM0GBVqL7tiLaVcIrwNQL9u-PGnRKNB8qkFrg9iwX4_Zt2JwH2ixfUCgFE_ELhQI3C4pmJFFQwyyaqi1UcIrQsRNtn3YxeW6AMyoSAmZX-xgZvBRKMBnGZNBYovH4dN8X9B5ACEHH2kLGbQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Gara (Replica)",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc4DS9l0t1dOUR39valqfGoX6ah3uYnMna4JjQIC5FhjI5Fia_IHzEv8MhEvkmgPdf6nTxSDAd9Oq5Fmja4veMnM7RWHJW0Az-sPTX0Qu4Y4LUpTa1cT6xKhrxfIYko9dLQrG6f3MSvCzhR6ZeP5jnKIu_2zQNInr1mXdXSwx_SweUGw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Gara (Replica)",
+      "competizione": "Formula 1 - GP Olanda",
+      "canale": "Sky Sport F1",
+      "note": "Replica (Già 24/08 CET)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc4DS9l0t1dOUR39valqfGoX6ah3uYnMna4JjQIC5FhjI5Fia_IHzEv8MhEvkmgPdf6nTxSDAd9Oq5Fmja4veMnM7RWHJW0Az-sPTX0Qu4Y4LUpTa1cT6xKhrxfIYko9dLQrG6f3MSvCzhR6ZeP5jnKIu_2zQNInr1mXdXSwx_SweUGw==",
       "accuratezza_orario": "esatto"
     }
   ]
