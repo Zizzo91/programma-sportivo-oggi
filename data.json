@@ -1,49 +1,67 @@
 {
-  "last_updated": "2026-08-23T14:16:39.805523+02:00",
+  "last_updated": "2026-08-23T20:12:54.941919+02:00",
   "events": [
     {
-      "orario": "18:30",
-      "evento": "Frosinone - Juventus",
+      "orario": "20:45",
+      "evento": "Atalanta-Sassuolo",
       "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "1a Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPkobc_QL7rzZ6aRcn5i0Vq-MJeH2I7dDQ3W9EuuCwj0qRAUYmzvASrAySaBE4DcweVg7JnyqfgS9-Pe3aKFAXObV_IBZiR_G4pbqjED3nW0n9n9v3d3TumRArgG1EP-iwBCnINByoB70XHxdqVRYMR2hO4zyYHcv3vLV5-yC2Mld_OA1EfHndqRIDUvsXNu-WJy35ikoqdwLFu0vO4ibiUO2S2AiMGMaW3SRF-4Bg_lK1GSlKrrL0G8Y, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENOtQWAhJDTlphsec9y3UCdvJn3ApMJ15TlY-nRH8vBy8DpCLqndQ0xpJaDt_UcuWKb1oyTLGYsD1Etc-wAJjHnSl2W3sisAUp-XlBxe_-Rv3lDwP-KrqMAvg452Jia3SHNrOcyCRPaI5d7QS7FzCsCHSzNWrxugsgojxu5Y4JPS05exgfa4EA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFamVLXT7EtTVaUt2xomR4KZ4BdvB6mDHM8k1Ij27OFuPFqHeSWYqVSiCYKCk3RE8ZnTh26DcQv_24WX1tQClNNf1sGnFrWykk6FjODCZzL2mrVv8GOFlS-2TiqdTKbiX1dLTvaoiO8QV2glJApuVmZm9kYhkgQPmJvyl28xcIDCq8KKfzh9XS7SEzfayWG1OZS2wIvsAKn6Ae7Xh8_zvc_84FZTw98YbYA0p7F1hiMcZkKD-ebYohtJL5j9M5CYErt60ZbZmCW5_4XR8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBidIFDlROOCVXMuRMCx9Sc_jcaVmsyaUdcU6ZQXlaUKjHMsd0JKQNtzGTEysJsPP5zUYYCHirmHy0iMZAUEyMRPuJ6dANH0Fu-DFDb0gO5jwcyiA-tFHS7lH9sHurkwFD4qxcTocIfIyQWstp_GIkJ7I4VcPcqWH_lCCHZZxSFOtfHRQpvn6TkuYlgS57JEVZHh2jLA1YfQg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFAW0cjrWYaHhWaofLkDuZuLAHLkTAxlASzq76moIY-v3RbiOHr8vgCy1UkekkbZ6JrZqzyYzFLOV2zqMQ_Wgfhr03CiRl5mY9lB0ELkbyUsEjwcqsCKV6w2KXETiH6V3c4LgI1fIh_d4Z-yA04ouMfJLDZx_NhYv0wlXFUxF4QNvEI8IIOS94hrqNSKVBKbIpsB7h69Ie7_3pSNKDnSQsS4l2BbRswvw5d5Q=",
+      "canale": "DAZN, DAZN 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDxkJILE8cORGcf9wIckyBxJvb8Y5Xduktqv_Wskv3zcz3RbBya8Cga-DM3u3_3G_XRvic0kNoR-wFraBl5KqbOh_obii2pRFY9zlQ-qzOc5yBiNGoeMZj662gxgQRiVTvLsV8WXpEvPtrDtJD5g4g9kYbGb3ibdfnTP_Gzyhk4X3l6YvW-Qd5p6e01A2dT-rUlBwL2c-0WaGLdgXfip4ogA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqkwzHckAx6ViuMpET-8WEVyhhKsgbt5DQooBKt1PvJR6cXe60isThigTSptquXqRuGvky0D2sVhSjcp_ukfQGk4TTtpjVMgMIn0UXOEJvvGkb0sunLOvYUhSaOjWY-6UhVJC6iTHBhc6RuSUovLzCQskbue6k4tn5bPBw4p1iJol5rHnzx4E=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Venezia - Lecce",
+      "orario": "20:45",
+      "evento": "Torino-Milan",
       "competizione": "Serie A",
-      "canale": "DAZN 2",
-      "note": "1a Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENOtQWAhJDTlphsec9y3UCdvJn3ApMJ15TlY-nRH8vBy8DpCLqndQ0xpJaDt_UcuWKb1oyTLGYsD1Etc-wAJjHnSl2W3sisAUp-XlBxe_-Rv3lDwP-KrqMAvg452Jia3SHNrOcyCRPaI5d7QS7FzCsCHSzNWrxugsgojxu5Y4JPS05exgfa4EA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFamVLXT7EtTVaUt2xomR4KZ4BdvB6mDHM8k1Ij27OFuPFqHeSWYqVSiCYKCk3RE8ZnTh26DcQv_24WX1tQClNNf1sGnFrWykk6FjODCZzL2mrVv8GOFlS-2TiqdTKbiX1dLTvaoiO8QV2glJApuVmZm9kYhkgQPmJvyl28xcIDCq8KKfzh9XS7SEzfayWG1OZS2wIvsAKn6Ae7Xh8_zvc_84FZTw98YbYA0p7F1hiMcZkKD-ebYohtJL5j9M5CYErt60ZbZmCW5_4XR8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBidIFDlROOCVXMuRMCx9Sc_jcaVmsyaUdcU6ZQXlaUKjHMsd0JKQNtzGTEysJsPP5zUYYCHirmHy0iMZAUEyMRPuJ6dANH0Fu-DFDb0gO5jwcyiA-tFHS7lH9sHurkwFD4qxcTocIfIyQWstp_GIkJ7I4VcPcqWH_lCCHZZxSFOtfHRQpvn6TkuYlgS57JEVZHh2jLA1YfQg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFAW0cjrWYaHhWaofLkDuZuLAHLkTAxlASzq76moIY-v3RbiOHr8vgCy1UkekkbZ6JrZqzyYzFLOV2zqMQ_Wgfhr03CiRl5mY9lB0ELkbyUsEjwcqsCKV6w2KXETiH6V3c4LgI1fIh_d4Z-yA04ouMfJLDZx_NhYv0wlXFUxF4QNvEI8IIOS94hrqNSKVBKbIpsB7h69Ie7_3pSNKDnSQsS4l2BbRswvw5d5Q=",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDxkJILE8cORGcf9wIckyBxJvb8Y5Xduktqv_Wskv3zcz3RbBya8Cga-DM3u3_3G_XRvic0kNoR-wFraBl5KqbOh_obii2pRFY9zlQ-qzOc5yBiNGoeMZj662gxgQRiVTvLsV8WXpEvPtrDtJD5g4g9kYbGb3ibdfnTP_Gzyhk4X3l6YvW-Qd5p6e01A2dT-rUlBwL2c-0WaGLdgXfip4ogA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqkwzHckAx6ViuMpET-8WEVyhhKsgbt5DQooBKt1PvJR6cXe60isThigTSptquXqRuGvky0D2sVhSjcp_ukfQGk4TTtpjVMgMIn0UXOEJvvGkb0sunLOvYUhSaOjWY-6UhVJC6iTHBhc6RuSUovLzCQskbue6k4tn5bPBw4p1iJol5rHnzx4E=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw8aJRmqQzd6jevgFME27DV7BnW_if2PxLgXw4KKKQ4Q2eivr4h2NmtjAjJQmBbR6XL3b-EjWhAtsy4EB3o2mHZYUmVvMNqvwytMM0H8YZzHHmDPCnLDIHY1AVcF2F0JOOvCjJAnQOzg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Formula 1: Gran Premio d'Olanda (Gara)",
-      "competizione": "F1 2026",
+      "orario": "22:00",
+      "evento": "Formula 1: GP Olanda - Gara (Replica)",
+      "competizione": "Formula 1",
       "canale": "Sky Sport F1",
-      "note": "Live",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKmtxpIr82CfSrQVyo4MRrDUOFBZErTurRuuSPBDvMHZuX8ShRUfK2jIBVErQhMBIZvDGLwT4Ljw38KbRwcsx2ewJlR7uUFu-En8seDGYbW3qa5CQTXxWBAlXmEZ0JfttCJuzVTzgujnr1Q9hWRKqagbch1nY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETzGTICCAdgahaATtha8zPbhjo15N_z9rz_PZ6AKn6yZQPD_1hqlkD4gRqnaZsiSIjz8exRjONzVHJnO2eTxyZc6rftFli48O0rdGX9cmuZmKViXHKoq4VHgyx7C2b1RVm5KXDMfBsdsaKTG-_W2U=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP9Xr7e3i6undIf-pTU1lSzNHNf0uJWTbIUxLW18IVSUZOZF7d9GcUhWRNY16BFShOQCwGbfOAL3_VVKJMi0nOaeiaBd-X7IKqp5I54rftWdXVNn9ANqemNQb7braH9S6tIJt",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9MP2tsGmAX8udP7C9wdY8rxK7inGATOcMi59jQ6ARTtqJKeLDJU6g49VJ7ylALYFK7W2sMnDjUJhPYbrx6eq319UnyHpSCk9GdXnyuXEIvKIqJveGE5K2ZgVkesI8BgfZmHaNwk5D8Kn_mP95oxZhN9hqz0FBBsalogLZEMY655tktQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Torino - Milan",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, DAZN",
-      "note": "1a Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENOtQWAhJDTlphsec9y3UCdvJn3ApMJ15TlY-nRH8vBy8DpCLqndQ0xpJaDt_UcuWKb1oyTLGYsD1Etc-wAJjHnSl2W3sisAUp-XlBxe_-Rv3lDwP-KrqMAvg452Jia3SHNrOcyCRPaI5d7QS7FzCsCHSzNWrxugsgojxu5Y4JPS05exgfa4EA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFamVLXT7EtTVaUt2xomR4KZ4BdvB6mDHM8k1Ij27OFuPFqHeSWYqVSiCYKCk3RE8ZnTh26DcQv_24WX1tQClNNf1sGnFrWykk6FjODCZzL2mrVv8GOFlS-2TiqdTKbiX1dLTvaoiO8QV2glJApuVmZm9kYhkgQPmJvyl28xcIDCq8KKfzh9XS7SEzfayWG1OZS2wIvsAKn6Ae7Xh8_zvc_84FZTw98YbYA0p7F1hiMcZkKD-ebYohtJL5j9M5CYErt60ZbZmCW5_4XR8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBidIFDlROOCVXMuRMCx9Sc_jcaVmsyaUdcU6ZQXlaUKjHMsd0JKQNtzGTEysJsPP5zUYYCHirmHy0iMZAUEyMRPuJ6dANH0Fu-DFDb0gO5jwcyiA-tFHS7lH9sHurkwFD4qxcTocIfIyQWstp_GIkJ7I4VcPcqWH_lCCHZZxSFOtfHRQpvn6TkuYlgS57JEVZHh2jLA1YfQg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZSwxwPu3tV1rKrKFu39qR9pqlof1IszII-r9hxqkMYQc8BYl_SFw0hPQcyGU2BMAqn7MN3VoPWp8AptbU4qmBsl8W3Z7AtXF1N6RqXb9jWqypvXHgc-Yqq2qA62X8v3fMXQDyox1p55I6XVHFBYS6IMUCTBG20pvXnMEJ5wZy1xu2-59CodaQ2tw73FZYERPv, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFAW0cjrWYaHhWaofLkDuZuLAHLkTAxlASzq76moIY-v3RbiOHr8vgCy1UkekkbZ6JrZqzyYzFLOV2zqMQ_Wgfhr03CiRl5mY9lB0ELkbyUsEjwcqsCKV6w2KXETiH6V3c4LgI1fIh_d4Z-yA04ouMfJLDZx_NhYv0wlXFUxF4QNvEI8IIOS94hrqNSKVBKbIpsB7h69Ie7_3pSNKDnSQsS4l2BbRswvw5d5Q=",
+      "orario": "22:45",
+      "evento": "La Domenica Sportiva",
+      "competizione": "Approfondimento Calcio",
+      "canale": "RaiDue",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm56o8bDR4hx25AyB9VlTbvplW0qCdVlL0OOdyIoEMBpi0XWCGzcw-8bDOBSbK4MIKk4iBdj5t0J7CXtwsumwrFWKsaFrT8XHE_GEeoqDxGOLQX-jmPGECTYM6H2xOnUpt7AnCjZFdA40XhE9yMAs=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Atalanta - Sassuolo",
+      "orario": "23:55",
+      "evento": "Pressing - Nel cuore dello sport",
+      "competizione": "Approfondimento Calcio",
+      "canale": "Canale 5",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm56o8bDR4hx25AyB9VlTbvplW0qCdVlL0OOdyIoEMBpi0XWCGzcw-8bDOBSbK4MIKk4iBdj5t0J7CXtwsumwrFWKsaFrT8XHE_GEeoqDxGOLQX-jmPGECTYM6H2xOnUpt7AnCjZFdA40XhE9yMAs=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Formula 1: GP Olanda - Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "24 agosto 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9MP2tsGmAX8udP7C9wdY8rxK7inGATOcMi59jQ6ARTtqJKeLDJU6g49VJ7ylALYFK7W2sMnDjUJhPYbrx6eq319UnyHpSCk9GdXnyuXEIvKIqJveGE5K2ZgVkesI8BgfZmHaNwk5D8Kn_mP95oxZhN9hqz0FBBsalogLZEMY655tktQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:45",
+      "evento": "Serie A 2026/2027 - Udinese - Como (1a g.) (Replica)",
       "competizione": "Serie A",
-      "canale": "DAZN 2",
-      "note": "1a Giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENOtQWAhJDTlphsec9y3UCdvJn3ApMJ15TlY-nRH8vBy8DpCLqndQ0xpJaDt_UcuWKb1oyTLGYsD1Etc-wAJjHnSl2W3sisAUp-XlBxe_-Rv3lDwP-KrqMAvg452Jia3SHNrOcyCRPaI5d7QS7FzCsCHSzNWrxugsgojxu5Y4JPS05exgfa4EA=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFamVLXT7EtTVaUt2xomR4KZ4BdvB6mDHM8k1Ij27OFuPFqHeSWYqVSiCYKCk3RE8ZnTh26DcQv_24WX1tQClNNf1sGnFrWykk6FjODCZzL2mrVv8GOFlS-2TiqdTKbiX1dLTvaoiO8QV2glJApuVmZm9kYhkgQPmJvyl28xcIDCq8KKfzh9XS7SEzfayWG1OZS2wIvsAKn6Ae7Xh8_zvc_84FZTw98YbYA0p7F1hiMcZkKD-ebYohtJL5j9M5CYErt60ZbZmCW5_4XR8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBidIFDlROOCVXMuRMCx9Sc_jcaVmsyaUdcU6ZQXlaUKjHMsd0JKQNtzGTEysJsPP5zUYYCHirmHy0iMZAUEyMRPuJ6dANH0Fu-DFDb0gO5jwcyiA-tFHS7lH9sHurkwFD4qxcTocIfIyQWstp_GIkJ7I4VcPcqWH_lCCHZZxSFOtfHRQpvn6TkuYlgS57JEVZHh2jLA1YfQg=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFAW0cjrWYaHhWaofLkDuZuLAHLkTAxlASzq76moIY-v3RbiOHr8vgCy1UkekkbZ6JrZqzyYzFLOV2zqMQ_Wgfhr03CiRl5mY9lB0ELkbyUsEjwcqsCKV6w2KXETiH6V3c4LgI1fIh_d4Z-yA04ouMfJLDZx_NhYv0wlXFUxF4QNvEI8IIOS94hrqNSKVBKbIpsB7h69Ie7_3pSNKDnSQsS4l2BbRswvw5d5Q=",
+      "canale": "Sky Sport Arena",
+      "note": "24 agosto 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzKN0YX-tHcaPMWPcRjNrT4DiKxCAygjU53Hojh2DYtb9TW0-IhkGSvhenVXDetZbtG6VCCwbqOMttBCH0ExGHzdOBo-qjMJG6a2ByudcgusA1j-4nY8WSnckprN_et8JGgh1ipurSa12l_iEUp1hAS-VSK1iJZyDrNWSKeCFXAZxdI0pk",
       "accuratezza_orario": "esatto"
     }
   ]
