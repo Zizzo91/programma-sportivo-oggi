@@ -1,67 +1,67 @@
 {
-  "last_updated": "2026-08-23T20:12:54.941919+02:00",
+  "last_updated": "2026-08-24T02:35:54.241122+02:00",
   "events": [
     {
-      "orario": "20:45",
-      "evento": "Atalanta-Sassuolo",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDxkJILE8cORGcf9wIckyBxJvb8Y5Xduktqv_Wskv3zcz3RbBya8Cga-DM3u3_3G_XRvic0kNoR-wFraBl5KqbOh_obii2pRFY9zlQ-qzOc5yBiNGoeMZj662gxgQRiVTvLsV8WXpEvPtrDtJD5g4g9kYbGb3ibdfnTP_Gzyhk4X3l6YvW-Qd5p6e01A2dT-rUlBwL2c-0WaGLdgXfip4ogA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqkwzHckAx6ViuMpET-8WEVyhhKsgbt5DQooBKt1PvJR6cXe60isThigTSptquXqRuGvky0D2sVhSjcp_ukfQGk4TTtpjVMgMIn0UXOEJvvGkb0sunLOvYUhSaOjWY-6UhVJC6iTHBhc6RuSUovLzCQskbue6k4tn5bPBw4p1iJol5rHnzx4E=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Torino-Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDxkJILE8cORGcf9wIckyBxJvb8Y5Xduktqv_Wskv3zcz3RbBya8Cga-DM3u3_3G_XRvic0kNoR-wFraBl5KqbOh_obii2pRFY9zlQ-qzOc5yBiNGoeMZj662gxgQRiVTvLsV8WXpEvPtrDtJD5g4g9kYbGb3ibdfnTP_Gzyhk4X3l6YvW-Qd5p6e01A2dT-rUlBwL2c-0WaGLdgXfip4ogA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqkwzHckAx6ViuMpET-8WEVyhhKsgbt5DQooBKt1PvJR6cXe60isThigTSptquXqRuGvky0D2sVhSjcp_ukfQGk4TTtpjVMgMIn0UXOEJvvGkb0sunLOvYUhSaOjWY-6UhVJC6iTHBhc6RuSUovLzCQskbue6k4tn5bPBw4p1iJol5rHnzx4E=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw8aJRmqQzd6jevgFME27DV7BnW_if2PxLgXw4KKKQ4Q2eivr4h2NmtjAjJQmBbR6XL3b-EjWhAtsy4EB3o2mHZYUmVvMNqvwytMM0H8YZzHHmDPCnLDIHY1AVcF2F0JOOvCjJAnQOzg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Formula 1: GP Olanda - Gara (Replica)",
+      "orario": "06:00",
+      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara (Replica)",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9MP2tsGmAX8udP7C9wdY8rxK7inGATOcMi59jQ6ARTtqJKeLDJU6g49VJ7ylALYFK7W2sMnDjUJhPYbrx6eq319UnyHpSCk9GdXnyuXEIvKIqJveGE5K2ZgVkesI8BgfZmHaNwk5D8Kn_mP95oxZhN9hqz0FBBsalogLZEMY655tktQ==",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:45",
-      "evento": "La Domenica Sportiva",
-      "competizione": "Approfondimento Calcio",
-      "canale": "RaiDue",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm56o8bDR4hx25AyB9VlTbvplW0qCdVlL0OOdyIoEMBpi0XWCGzcw-8bDOBSbK4MIKk4iBdj5t0J7CXtwsumwrFWKsaFrT8XHE_GEeoqDxGOLQX-jmPGECTYM6H2xOnUpt7AnCjZFdA40XhE9yMAs=",
+      "orario": "09:00",
+      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 3a giornata (Sessione mattutina)",
+      "competizione": "Giochi del Mediterraneo",
+      "canale": "Rai Sport HD",
+      "note": "Include Nuoto, Ciclismo su Strada (Donne), Badminton, Bocce, Padel, Lotta, Scherma.",
+      "fonte": "Giochi del Mediterraneo 2026, il programma di domani: orari 24 agosto, tv, streaming",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:55",
-      "evento": "Pressing - Nel cuore dello sport",
-      "competizione": "Approfondimento Calcio",
-      "canale": "Canale 5",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm56o8bDR4hx25AyB9VlTbvplW0qCdVlL0OOdyIoEMBpi0XWCGzcw-8bDOBSbK4MIKk4iBdj5t0J7CXtwsumwrFWKsaFrT8XHE_GEeoqDxGOLQX-jmPGECTYM6H2xOnUpt7AnCjZFdA40XhE9yMAs=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Formula 1: GP Olanda - Gara (Replica)",
+      "orario": "10:00",
+      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara (Replica)",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "24 agosto 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9MP2tsGmAX8udP7C9wdY8rxK7inGATOcMi59jQ6ARTtqJKeLDJU6g49VJ7ylALYFK7W2sMnDjUJhPYbrx6eq319UnyHpSCk9GdXnyuXEIvKIqJveGE5K2ZgVkesI8BgfZmHaNwk5D8Kn_mP95oxZhN9hqz0FBBsalogLZEMY655tktQ==",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:45",
-      "evento": "Serie A 2026/2027 - Udinese - Como (1a g.) (Replica)",
+      "orario": "11:00",
+      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 3a giornata (Sessione pomeridiana)",
+      "competizione": "Giochi del Mediterraneo",
+      "canale": "Rai Sport HD",
+      "note": "Include Nuoto, Ciclismo su Strada (Uomini), Scherma, Lotta, Bocce, Badminton, Padel.",
+      "fonte": "Giochi del Mediterraneo 2026, il programma di domani: orari 24 agosto, tv, streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Bologna - Lazio",
       "competizione": "Serie A",
-      "canale": "Sky Sport Arena",
-      "note": "24 agosto 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzKN0YX-tHcaPMWPcRjNrT4DiKxCAygjU53Hojh2DYtb9TW0-IhkGSvhenVXDetZbtG6VCCwbqOMttBCH0ExGHzdOBo-qjMJG6a2ByudcgusA1j-4nY8WSnckprN_et8JGgh1ipurSa12l_iEUp1hAS-VSK1iJZyDrNWSKeCFXAZxdI0pk",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Serie A 2026-27 al via il 22 agosto: partite, orari e dove vederla",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Roma - Fiorentina",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Serie A 2026-27 al via il 22 agosto: partite, orari e dove vederla",
       "accuratezza_orario": "esatto"
     }
   ]
