@@ -1,31 +1,76 @@
 {
-  "last_updated": "2026-08-24T02:35:54.241122+02:00",
+  "last_updated": "2026-08-24T14:23:27.943023+02:00",
   "events": [
+    {
+      "orario": "00:00",
+      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ0DOCdBcv32qWtjqvKam7armcXd0qOjAo44GtQ1Sgskqla0FkU5rAeNoNObia0iClGtsJpzqsLTpgMI80WqG3TCtKKyUbRzATjF1SI8e-bZYt_xoTazCkGXRp63iRQmYeK9ZYegDasMgsn8xSqO-pH3W9WoSU0oR6",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:10",
+      "evento": "Atletica Leggera: Diamond League 2026 13 (Replica)",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:10",
+      "evento": "Giochi del Mediterraneo Taranto 2026 (Replica)",
+      "competizione": "Giochi del Mediterraneo",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==",
+      "accuratezza_orario": "esatto"
+    },
     {
       "orario": "06:00",
       "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara (Replica)",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ0DOCdBcv32qWtjqvKam7armcXd0qOjAo44GtQ1Sgskqla0FkU5rAeNoNObia0iClGtsJpzqsLTpgMI80WqG3TCtKKyUbRzATjF1SI8e-bZYt_xoTazCkGXRp63iRQmYeK9ZYegDasMgsn8xSqO-pH3W9WoSU0oR6",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Mondiale Motocross 2026 - GP Paesi Bassi: MX2 - Gara 2 (Replica)",
+      "competizione": "Motocross MXGP",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIfGntSEyaGnXsTq-fNpwTzzBaJMxqIIMZu0kGjl5TRLmi4RpnMA61vm4i7DEk8-MXVnGc5P3PsiDfGZQ99egzUpWZqfha7GPGSEnwVPpoL-8_fgsvzr1F5q7Sg8S_-tOqEAfgWeJP8q7vnuN63mINmg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Giochi del Mediterraneo Taranto 2026 - Quinta giornata",
+      "competizione": "Giochi del Mediterraneo",
+      "canale": "Rai Sport HD",
+      "note": "Con la partecipazione di atleti azzurri come Alberto Razzetti nei 400 misti.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWHA7fniz8Ibg-FcSy6pvxZZbik41j7VW9jZ8XsfvAI-ygT1Vpf_76EyEyxGWdviR5b3XBcTA5Mvt7dsZzQ0F8kXjNApxMRnsSvxHtrUUuoRl_K_-Q7HN_NAhjvCXaQ3Ntkmj2_NCVOpgV3kV9G0QvCT0zpvQAFBZ3mJmPwd5Uosg77wq5Cz_1gKOI5ckwxz7-ZCdsh0-92lCZjB0UdE0YCJeqASY36hq703uX-_ru7F_4ZXKIALaZAUD2VXyF",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Mondiale Motocross 2026 - GP Paesi Bassi: MXGP - Gara 2 (Replica)",
+      "competizione": "Motocross MXGP",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIfGntSEyaGnXsTq-fNpwTzzBaJMxqIIMZu0kGjl5TRLmi4RpnMA61vm4i7DEk8-MXVnGc5P3PsiDfGZQ99egzUpWZqfha7GPGSEnwVPpoL-8_fgsvzr1F5q7Sg8S_-tOqEAfgWeJP8q7vnuN63mINmg==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:00",
-      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 3a giornata (Sessione mattutina)",
+      "evento": "Giochi del Mediterraneo Taranto 2026 - Terza giornata",
       "competizione": "Giochi del Mediterraneo",
       "canale": "Rai Sport HD",
-      "note": "Include Nuoto, Ciclismo su Strada (Donne), Badminton, Bocce, Padel, Lotta, Scherma.",
-      "fonte": "Giochi del Mediterraneo 2026, il programma di domani: orari 24 agosto, tv, streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-2690dCgChQWmlT1U2C12NIclQ-GnUSJihCGXstlNDsiL75vI2NR0sRWjMQsdQQiU7V3HhzdxOp7URkGAsEFj5cp5MOjlsMjQG_av2afuP7s2f6wMMX4PbkeCs4saUoQsGhquIFjDw0L354dhSuAlzrUj0wwwKsdBZM3RbB0EHQfULw0LSgkeZUtMcitIxflnVTjg8L1UOBRfMMM5ENDFijscyXSdIEM5CZmjsD1gI-YReq6-tk7PBjA7shNVBkNA5u4ke26RNvSIXZ4M3_BbfUsnJR2QdaM=",
       "accuratezza_orario": "esatto"
     },
     {
@@ -34,34 +79,97 @@
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV9_M5y65QaxbPjFWKeHBIO1DUmySgInOD5SQyEPAKQaEoxh8YaiGwS9RDNe1uW2OfR-UpeHN4iE4NjLXABVsmEUuvXoLo7-8QAhw0QfcVac7KNEgjeyCsEywj1M-XXd4_bpeLNcqoTaWLzqUoRmb-MdAz",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:30",
+      "evento": "Atletica Leggera: Diamond League 2026 13 (Replica)",
+      "competizione": "Atletica Leggera",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 3a giornata (Sessione pomeridiana)",
+      "evento": "Giochi del Mediterraneo Taranto 2026 - Terza giornata",
       "competizione": "Giochi del Mediterraneo",
       "canale": "Rai Sport HD",
-      "note": "Include Nuoto, Ciclismo su Strada (Uomini), Scherma, Lotta, Bocce, Badminton, Padel.",
-      "fonte": "Giochi del Mediterraneo 2026, il programma di domani: orari 24 agosto, tv, streaming",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-2690dCgChQWmlT1U2C12NIclQ-GnUSJihCGXstlNDsiL75vI2NR0sRWjMQsdQQiU7V3HhzdxOp7URkGAsEFj5cp5MOjlsMjQG_av2afuP7s2f6wMMX4PbkeCs4saUoQsGhquIFjDw0L354dhSuAlzrUj0wwwKsdBZM3RbB0EHQfULw0LSgkeZUtMcitIxflnVTjg8L1UOBRfMMM5ENDFijscyXSdIEM5CZmjsD1gI-YReq6-tk7PBjA7shNVBkNA5u4ke26RNvSIXZ4M3_BbfUsnJR2QdaM=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:45",
+      "evento": "Ciclismo, Vuelta a España: terza tappa",
+      "competizione": "Vuelta a España",
+      "canale": "Eurosport 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWHA7fniz8Ibg-FcSy6pvxZZbik41j7VW9jZ8XsfvAI-ygT1Vpf_76EyEyxGWdviR5b3XBcTA5Mvt7dsZzQ0F8kXjNApxMRnsSvxHtrUUuoRl_K_-Q7HN_NAhjvCXaQ3Ntkmj2_NCVOpgV3kV9G0QvCT0zpvQAFBZ3mJmPwd5Uosg77wq5Cz_1gKOI5ckwxz7-ZCdsh0-92lCZjB0UdE0YCJeqASY36hq703uX-_ru7F_4ZXKIALaZAUD2VXyF",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30",
+      "evento": "Mondiale Motocross 2026 - GP Paesi Bassi (Replica)",
+      "competizione": "Motocross MXGP",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "Mondiale Motocross 2026 - GP Paesi Bassi (Replica)",
+      "competizione": "Motocross MXGP",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Bologna - Lazio",
+      "evento": "Calcio, Serie A: Bologna - Lazio",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
       "note": "",
-      "fonte": "Serie A 2026-27 al via il 22 agosto: partite, orari e dove vederla",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAJK40Kd3JbexfJ5fRsK4DaGrFv_tYJ76r9PCUWHRrGLkECVa2GO4YxI2lVXDHbGYgYEqg3TO1Qiy86N8Y0ES-Q0TSLSSKtURKH6jKWEbzCuDys3QU5K2gv3SJJUngDp_UFnODDfgFfzRKqYDQRnoHxVHELqpacPUut-uGtXYQvAQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkhuRDGP9EycN9oMK6US0pKkoaA7df4C2gxxggoVgKqK-Xxec9P32u1mt3O9WWHFM5W2_0Ld4vLzT9eCgN-VJP0s6hI3BCoZ70BThsfz6FwQEuaM_ijj-BxhyQ_wUr7k5Y_xKwPL-E8MzVWc6WTQgbgbQlVqayST-mDFSpS70uwPe48DlevNLQketX6B1QNOToY5MnqwIAtWkrrnhFSgkt-Enk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Sci Nautico. Mondiali Wakeboard Lago del",
+      "competizione": "Sci Nautico",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Tennis, ATP 250 Winston-Salem: Lorenzo Sonego - Kopriva",
+      "competizione": "ATP 250 Winston-Salem",
+      "canale": "SuperTennis",
+      "note": "Giocatore italiano in campo. Orario CET calcolato da USA ET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzPfWJq1GMioR7EFRaJgWftXd46g_S_i5j-5kT4HpALjtcB1QfG6lM1Nnx6ExqRuFbZrrkqXut92Lq7FoLnhCQUxlFchgJRZJb2bW9rZdD9g9Ug91eCEmv5W0dFGMX4v6NKpArKgssDInNsNHPjwHoK_U6XPkqB493NZz-GCxDncVKp3OoL14BCQIJyLqSY_uObUKnWzEkg1rJhnjJzClGyj8mCH-jBLXKAcQ71OZp_9WUB19xg_Q9nsSxgZxvHESW",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Roma - Fiorentina",
+      "evento": "Calcio, Serie A: Roma - Fiorentina",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Serie A 2026-27 al via il 22 agosto: partite, orari e dove vederla",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAJK40Kd3JbexfJ5fRsK4DaGrFv_tYJ76r9PCUWHRrGLkECVa2GO4YxI2lVXDHbGYgYEqg3TO1Qiy86N8Y0ES-Q0TSLSSKtURKH6jKWEbzCuDys3QU5K2gv3SJJUngDp_UFnODDfgFfzRKqYDQRnoHxVHELqpacPUut-uGtXYQvAQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkhuRDGP9EycN9oMK6US0pKkoaA7df4C2gxxggoVgKqK-Xxec9P32u1mt3O9WWHFM5W2_0Ld4vLzT9eCgN-VJP0s6hI3BCoZ70BThsfz6FwQEuaM_ijj-BxhyQ_wUr7k5Y_xKwPL-E8MzVWc6WTQgbgbQlVqayST-mDFSpS70uwPe48DlevNLQketX6B1QNOToY5MnqwCAtWkrrnhFSgkt-Enk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:40",
+      "evento": "Giochi del Mediterraneo Taranto 2026",
+      "competizione": "Giochi del Mediterraneo",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0IIhIw_qO9WvQPhcO02VNYbgy_8gHUcMdUJJMoJie1qJ44Q2LoEvnR_owhhCdxBRAlfkRGICBLaBlX5-ijBzo8BOKQopYed8uSzoD3eOkhMosI9jsoHj7IrGx9k902KLDp7n6IQ5oA==",
       "accuratezza_orario": "esatto"
     }
   ]
