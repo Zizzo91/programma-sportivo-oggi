@@ -1,149 +1,59 @@
 {
-  "last_updated": "2026-08-25T14:24:22.046102+02:00",
+  "last_updated": "2026-08-25T20:21:44.505983+02:00",
   "events": [
     {
-      "orario": "02:15",
-      "evento": "Talleres-Rosario Central",
-      "competizione": "Campionato Argentino",
-      "canale": "Sportitalia, Como TV",
-      "note": "Valido fino alle 06:00 del giorno successivo (26/08/2026)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0pBEm13kdOmdVqB7qxQvpI8QdnnEKr2zKUrdISmhc2WDiSzFzTQfQJO2TwKzYog3mpos0N9QPvKSUVQRAC7nIfu6datJ3KnXUiFI2gpu1KWrTnN9SoWe-deVGmmqor5ALRTy5_CndaO1gDioK1V-bAUcWFjbDMvc1TwidRBLeM03bqdL7nDMXfmoYKY80xvUnVkb280O9aikEJvWxi0BxIdplPenNfAvrK8uY0KP9T3I=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Udinese - Como (1a giornata)",
+      "orario": "08:00",
+      "evento": "Frosinone - Juventus",
       "competizione": "Serie A 2026/2027",
-      "canale": "Sky Sport Uno",
-      "note": "Replica. Valido fino alle 06:00 del giorno successivo (26/08/2026)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQapgqHPRco15zvmaBmhF7qGO6RrFmQcJgdCfeb9XEQC86Gt8Gau4NOcAX4p5_tBZ9RHe82CuEMXuUc5tcxW1CUlr9lmncYlUk_gozExAwYEaAO3Ccq7bX_vQNejyQjROgFi8ckWWbH4moTbLSwn3L8M20wTR0",
+      "canale": "DAZN 1",
+      "note": "Replica 1a giornata",
+      "fonte": "Digital-News.it",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:30",
-      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara del 23 agosto. Include eventi fino alle 06:00 del giorno successivo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXWBfnoftBg0gqLfeNmX4Ei9oNYJAedXEHvdDaFfFdClYFG6Gt9l_2ATqpDKyr2jGfDUcRbnAU9m-Q9bC3-cnUOzUMCdDnkh6iqZQeS9JrlXZQimftv3p6PX-J10Sog5ap0wO7tkjvB-RNeScDozbjZxoNgYUQ9rIHO46lV-6RaS2udxCSGY3aE4bE-3Dtysrje59mNk1A5wG-5LRcfCsWVH_tEhE=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:10*",
-      "evento": "Lorenzo Giustino (ITA) - Grigor Dimitrov (BUL)",
-      "competizione": "US Open 2026 - Qualificazioni (Primo Turno, Court 17)",
-      "canale": "SuperTennis, supertennis.tv, SuperTenniX",
-      "note": "Non prima delle 18:10 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvZZ3nhWdDa81_C4i0ow3nJLWqesb0aSMzj6eNpK-XYWdZhi8sqHBFOmY2r7T69Ka_qYOrN6RJFdvZcAqf0c-TKn2oDO8Vhad9yGxXIpsgw07Gch6QrTQJ7lHd0HLivSThhBBpBPcxtdOhM6D3ym6lcidvtb8lwT_BXSh0-D6LDU7GCh4w0w=",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:45",
-      "evento": "Sabah-Hapoel Beer Sheva",
-      "competizione": "UEFA Champions League 2026-2027 (Playoff)",
-      "canale": "Sky Sport (canale 251), NOW",
+      "evento": "Sabah - Hapoel Beer Sheva",
+      "competizione": "UEFA Champions League - Playoff (ritorno)",
+      "canale": "Sky Sport 251",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0pBEm13kdOmdVqB7qxQvpI8QdnnEKr2zKUrdISmhc2WDiSzFzTQfQJO2TwKzYog3mpos0N9QPvKSUVQRAC7nIfu6datJ3KnXUiFI2gpu1KWrTnN9SoWe-deVGmmqor5ALRTy5_CndaO1gDioK1V-bAUcWFjbDMvc1TwidRBLeM03bqdL7nDMXfmoYKY80xvUnVkb280O9aikEJvUqf0c-TKn2oDO8Vhad9yGxXIpsgw07Gch6QrTQJ7lHd0HLivSThhBBpBPcxtdOhM6D3ym6lcidvtb8lwT_BXSh0-D6LDU7GCh4w0w=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:20*",
-      "evento": "Nuria Brancaccio (ITA) - Francesca Jones (GBR)",
-      "competizione": "US Open 2026 - Qualificazioni (Primo Turno, Court 5)",
-      "canale": "SuperTennis, supertennis.tv, SuperTenniX",
-      "note": "Non prima delle 19:20 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvZZ3nhWdDa81_C4i0ow3nJLWqesb0aSMzj6eNpK-XYWdZhi8sqHBFOmY2r7T69Ka_qYOrN6RJFdvZcAqf0c-TKn2oDO8Vhad9yGxXIpsgw07Gch6QrTQJ7lHd0HLivSThhBBpBPcxtdOhM6D3ym6lcidvtb8lwT_BXSh0-D6LDU7GCh4w0w=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:30*",
-      "evento": "Errani/Vavassori (ITA) - Andreeva/Rublev",
-      "competizione": "US Open 2026 - Doppio Misto (Primo Turno, Louis Armstrong Stadium)",
-      "canale": "Sky Sport Max (206), SuperTennis HD, SkyGo, NOW, supertennis.tv, SuperTennis+",
-      "note": "Non prima delle 19:30 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj4h3HHHcJ_-WgKRHNyRtVF44PIA1L9gXvlUvqMAmh8oBlKxsf3tUpyW2Ho6p96BGgUkV03-6jX6o9G4GgzEG-eCtkPOC8lytCuErb_Yi70LPP00FfJbn1hOGLlhRgBh3l3PneotBfihai1YRfDKEmPfAOD02HglFNS47uJI0xQx0-KbVXZzXCJa2qqEnpFIaEiQh7lcGSmnNtOgFqvcvOE6hJynXC_8osil6-LIANpzEekLY=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Al Ettifaq-Al Nassr",
-      "competizione": "Saudi League",
-      "canale": "Sportitalia, Como TV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0pBEm13kdOmdVqB7qxQvpI8QdnnEKr2zKUrdISmhc2WDiSzFzTQfQJO2TwKzYog3mpos0N9QPvKSUVQRAC7nIfu6datJ3KnXUiFI2gpu1KWrTnN9SoWe-deVGmmqor5ALRTy5_CndaO1gDioK1V-bAUcWFjbDMvc1TwidRBLeM03bqdL7nDMXfmoYKY80xvUnVkb280O9aikEJvUqf0c-TKn2oDO8Vhad9yGxXIpsgw07Gch6QrTQJ7lHd0HLivSThhBBpBPcxtdOhM6D3ym6lcidvtb8lwT_BXSh0-D6LDU7GCh4w0w=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Bellucci-Darderi",
-      "competizione": "ATP Winston-Salem 2026 (Secondo Turno)",
-      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Derby italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrcZlrfCEw2tSUIFuDZKAqn45bPyXhIIJ6ah2SMoru-8jBGm0aXomh7B-r2BHuOFtJNoZQNnGX0yyD48Cyb8g4pt65qQzQCS0hKKd4CvV5nComH2rjXielNbA4RvaCEScl17Iuu5elEFfKMxN8mJAOfoQE3_fMs8tT09tB3Fy4-XxdNmGfV6b1lpxtWi2l",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00*",
-      "evento": "Sonego-Mannarino",
-      "competizione": "ATP Winston-Salem 2026 (Secondo Turno)",
-      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
-      "note": "Quarto match del programma iniziato alle 20:00 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP2elmOBcl1lSBMWDEiyCjIGS5NeyGJXFeA1y8caVfSYfjYfPrfqlZaWGHwpGEMjSH30CABGjXVMtM9AAP4-jIc_m3OwT0fGQCv4ba8t8fPcL66VPBmbbdNwkybDSZ8NPbTA1PDDlp6pCLtRg7_oFIGRZnIUmNDOYfGkoy7dD0H9uTcjPuf6w=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:30*",
-      "evento": "Luca Nardi (ITA) - Federico Cinà (ITA)",
-      "competizione": "US Open 2026 - Qualificazioni (Primo Turno, Court 13)",
-      "canale": "SuperTennis, supertennis.tv, SuperTenniX",
-      "note": "Non prima delle 20:30 CET. Derby italiano.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvZZ3nhWdDa81_C4i0ow3nJLWqesb0aSMzj6eNpK-XYWdZhi8sqHBFOmY2r7T69Ka_qYOrN6RJFdvZcAqf0c-TKn2oDO8Vhad9yGxXIpsgw07Gch6QrTQJ7lHd0HLivSThhBBpBPcxtdOhM6D3ym6lcidvtb8lwT_BXSh0-D6LDU7GCh4w0w=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:30*",
-      "evento": "Andrea Pellegrino (ITA) - Colton Smith (USA)",
-      "competizione": "US Open 2026 - Qualificazioni (Primo Turno, Court 5)",
-      "canale": "SuperTennis, supertennis.tv, SuperTenniX",
-      "note": "Non prima delle 20:30 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvZZ3nhWdDa81_C4i0ow3nJLWqesb0aSMzj6eNpK-XYWdZhi8sqHBFOmY2r7T69Ka_qYOrN6RJFdvZcAqf0c-TKn2oDO8Vhad9yGxXIpsgw07Gch6QrTQJ7lHd0HLivSThhBBpBPcxtdOhM6D3ym6lcidvtb8lwT_BXSh0-D6LDU7GCh4w0w=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Bodo/Glimt-NEC",
-      "competizione": "UEFA Champions League 2026-2027 (Playoff)",
-      "canale": "Sky Sport Uno, Sky Go, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP2elmOBcl1lSBMWDEiyCjIGS5NeyGJXFeA1y8caVfSYfjYfPrfqlZaWGHwpGEMjSH30CABGjXVMtM9AAP4-jIc_m3OwT0fGQCv4ba8t8fPcL66VPBmbbdNwkybDSZ8NPbTA1PDDlp6pCLtRg7_oFIGRZnIUmNDOYfGkoy7dD0H9uTcjPuf6w=",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "LASK-Celtic",
-      "competizione": "UEFA Champions League 2026-2027 (Playoff)",
-      "canale": "Sky Sport Calcio, Sky Go, NOW",
+      "evento": "Bodø/Glimt - NEC",
+      "competizione": "UEFA Champions League - Playoff (ritorno)",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP2elmOBcl1lSBMWDEiyCjIGS5NeyGJXFeA1y8caVfSYfjYfPrfqlZaWGHwpGEMjSH30CABGjXVMtM9AAP4-jIc_m3OwT0fGQCv4ba8t8fPcL66VPBmbbdNwkybDSZ8NPbTA1PDDlp6pCLtRg7_oFIGRZnIUmNDOYfGkoy7dD0H9uTcjPuf6w=",
+      "fonte": "OA Sport, Sky Sport, DAZN",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Valencia-Betis",
-      "competizione": "Liga 2026-2027",
-      "canale": "DAZN 1, DAZN",
+      "evento": "LASK - Celtic",
+      "competizione": "UEFA Champions League - Playoff (ritorno)",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP2elmOBcl1lSBMWDEiyCjIGS5NeyGJXFeA1y8caVfSYfjYfPrfqlZaWGHwpGEMjSH30CABGjXVMtM9AAP4-jIc_m3OwT0fGQCv4ba8t8fPcL66VPBmbbdNwkybDSZ8NPbTA1PDDlp6pCLtRg7_oFIGRZnIUmNDOYfGkoy7dD0H9uTcjPuf6w=",
+      "fonte": "OA Sport, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:40*",
-      "evento": "Jennifer Ruggeri (ITA) - Sofia Costoulas (BEL)",
-      "competizione": "US Open 2026 - Qualificazioni (Primo Turno, Court 15)",
-      "canale": "SuperTennis, supertennis.tv, SuperTenniX",
-      "note": "Non prima delle 21:40 CET",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvZZ3nhWdDa81_C4i0ow3nJLWqesb0aSMzj6eNpK-XYWdZhi8sqHBFOmY2r7T69Ka_qYOrN6RJFdvZcAqf0c-TKn2oDO8Vhad9yGxXIpsgw07Gch6QrTQJ7lHd0HLivSThhBBpBPcxtdOhM6D3ym6lcidvtb8lwT_BXSh0-D6LDU7GCh4w0w=",
-      "accuratezza_orario": "stimato"
+      "orario": "01:10*",
+      "evento": "I Giochi di Taranto",
+      "competizione": "Giochi del Mediterraneo 2026",
+      "canale": "RaiDue",
+      "note": "Sintesi / Highlights sesta giornata",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00*",
+      "evento": "Udinese - Como",
+      "competizione": "Serie A 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "Replica 1a giornata",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
