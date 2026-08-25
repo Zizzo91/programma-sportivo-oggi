@@ -1,59 +1,32 @@
 {
-  "last_updated": "2026-08-25T02:35:35.973723+02:00",
+  "last_updated": "2026-08-25T08:25:01.827875+02:00",
   "events": [
     {
-      "orario": "07:30",
-      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara disputata il 23 agosto 2026.",
-      "fonte": "Super Guida TV",
+      "orario": "20:00",
+      "evento": "Luciano Darderi vs Mattia Bellucci",
+      "competizione": "ATP Winston-Salem 2026 (Secondo Turno)",
+      "canale": "Sky Sport Tennis (203), Sky Sport Plus, NOW, Tennis Tv",
+      "note": "Derby azzurro",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6GaIJMkoF__bWvH03HRszolu02vgI_OPDrFbxpYZx3sZkxmRcSwsN6zcpFqdSQvhuguHx-1UckmSIDsAxx7cKOIILANvXmZtmaSWx_xUfQMY0L8TYO-M1fx5ijm7-9Kr56sQwsCeLrfmi8Q5ZbGgS35SB-wusOptO3OPcMBTl6-n46bA5GQl0cjpLOBW3",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:00",
-      "evento": "Serie A 2026/2027 - Genoa - Napoli (1a giornata)",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della partita della prima giornata. La prima giornata di Serie A si è conclusa il 24 agosto 2026.",
-      "fonte": "GuidaTV, Sky Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "17:00*",
+      "evento": "Qualificazioni US Open 2026 (Uomini/Donne)",
+      "competizione": "US Open 2026 - Qualificazioni (Primo Turno)",
+      "canale": "SuperTennis+",
+      "note": "Inizio sessione di qualificazioni. Partecipazione di giocatori italiani confermata (es. Nuria Brancaccio). Orari specifici dei match da definire.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyp35DL4dtAfOD0momXoR2g2spKuu607L36gi8UCzMWvwXT74ZCRfliuxOO2Kh7arqs_z-CM2H0HzhfMCIGs6P5xB962KqR_5GcGcsYPXlmFo6IVKNkRkJAJ0aozu99LboPVlO-l65IWZOgmdRmcq22QzOIBIxTO6IoIRYKp1zTijwIcpjyub4Djtbw2k_n_r9UUL2QT2HAR8QlcEqprOduYP3yupPpSvjQIXLayqMS8JMXfEPAnwJf_1iNRtl8Q, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zY_EZ4jij5VAlvXfgzySY200jKaTWRDXoNbDo-HSMwokG7w01BjSnpS0mny5YIpqPq2vZxdUODwzjjCNYpy5mY_fCjigzyzV0vS-ZKqaRB8v6H4vD2S-RxRqrmEw332_LkZFwe4cXzpfy-ryWhuTcBGn_kENk65fKNZtNDQgPmRxqBxe7aBtQu4CO_W_dkMjF6PF",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:00",
-      "evento": "US Open Tennis 2026",
-      "competizione": "Tennis - Grande Slam",
-      "canale": "Sky Sport, SuperTennis HD",
-      "note": "Copertura delle qualificazioni o del doppio misto del torneo. È possibile la presenza di giocatori italiani nelle fasi iniziali dell'evento. Il tabellone principale inizia il 30 agosto.",
-      "fonte": "Super Guida TV, Diretta, Abbonamenti.it, Olympic Channel",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Serie A",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport",
-      "note": "Probabile replica di una partita o approfondimento sulle partite della prima giornata.",
-      "fonte": "Super Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:15",
-      "evento": "Serie A",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport",
-      "note": "Probabile replica di una partita o approfondimento sulle partite della prima giornata.",
-      "fonte": "Super Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:45",
-      "evento": "F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport",
-      "note": "Probabile replica o highlights del Gran Premio d'Olanda 2026, disputato il 23 agosto.",
-      "fonte": "Super Guida TV",
-      "accuratezza_orario": "esatto"
+      "orario": "TBA",
+      "evento": "Francesca Jones vs Nuria Brancaccio",
+      "competizione": "US Open 2026 - Qualificazioni (Primo Turno)",
+      "canale": "SuperTennis+",
+      "note": "Match di qualificazione con giocatrice italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zY_EZ4jij5VAlvXfgzySY200jKaTWRDXoNbDo-HSMwokG7w01BjSnpS0mny5YIpqPq2vZxdUODwzjjCNYpy5mY_fCjigzyzV0vS-ZKqaRB8v6H4vD2S-RxRqrmEw332_LkZFwe4cXzpfy-ryWhuTcBGn_kENk65fKNZtNDQgPmRxqBxe7aBtQu4CO_W_dkMjF6PF",
+      "accuratezza_orario": "tba"
     }
   ]
 }
