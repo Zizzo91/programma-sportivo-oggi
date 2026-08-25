@@ -1,76 +1,58 @@
 {
-  "last_updated": "2026-08-24T20:23:16.041800+02:00",
+  "last_updated": "2026-08-25T02:35:35.973723+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara (Replica)",
+      "orario": "07:30",
+      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara",
       "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno: Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara disputata il 23 agosto 2026.",
+      "fonte": "Super Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:00",
-      "evento": "Mondiale Formula 1 2026 - GP Olanda: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Bologna-Lazio",
+      "evento": "Serie A 2026/2027 - Genoa - Napoli (1a giornata)",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calendario Serie A: dove vedere le partite su Sky e DAZN, Il calcio in TV oggi lunedì 24 agosto 2026, Bologna-Lazio e Roma-Fiorentina. Dove vederle live, SALENTO SOCCER NEWS): in chiaro e in diretta: Livorno-Torres di Serie C su Rai Sport + HD",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della partita della prima giornata. La prima giornata di Serie A si è conclusa il 24 agosto 2026.",
+      "fonte": "GuidaTV, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Tennis - ATP 250 Winston-Salem: Lorenzo Sonego (ITA) vs Vit Kopriva (CZE)",
-      "competizione": "Tennis - ATP 250",
-      "canale": "Sky Sport Tennis, Sky Sport Max, Sky Go, NOW, bet365",
-      "note": "",
-      "fonte": "ATP Winston-Salem: Sonego-Kopriva, orario e dove vederla in tv e streaming, Sonego-Kopriva: il pronostico dell'ATP Winston-Salem 2026, i precedenti e dove vedere il match, Tennis oggi, il programma dei tornei ATP e WTA del 24 agosto, Italiani in campo lunedì 24 agosto: Sonego a Winston-Salem, undici azzurri nelle qualificazioni US Open",
+      "orario": "16:00",
+      "evento": "US Open Tennis 2026",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "Sky Sport, SuperTennis HD",
+      "note": "Copertura delle qualificazioni o del doppio misto del torneo. È possibile la presenza di giocatori italiani nelle fasi iniziali dell'evento. Il tabellone principale inizia il 30 agosto.",
+      "fonte": "Super Guida TV, Diretta, Abbonamenti.it, Olympic Channel",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
-      "evento": "US Open Qualificazioni: Lucia Bronzetti (ITA) vs Luisina Giovannini (ARG)",
-      "competizione": "Tennis - Grande Slam Qualificazioni",
-      "canale": "SuperTennis / SuperTennis+",
-      "note": "3° match sul Campo 11. Orario stimato.",
-      "fonte": "US Open, 11 italiani in tv e su SuperTennis+: il programma di oggi",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Roma-Fiorentina",
+      "orario": "19:30",
+      "evento": "Serie A",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Calendario Serie A: dove vedere le partite su Sky e DAZN, Il calcio in TV oggi lunedì 24 agosto 2026, Bologna-Lazio e Roma-Fiorentina. Dove vederle live, SALENTO SOCCER NEWS): in chiaro e in diretta: Livorno-Torres di Serie C su Rai Sport + HD",
+      "canale": "Sky Sport",
+      "note": "Probabile replica di una partita o approfondimento sulle partite della prima giornata.",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:15",
+      "evento": "Serie A",
+      "competizione": "Calcio - Serie A",
+      "canale": "Sky Sport",
+      "note": "Probabile replica di una partita o approfondimento sulle partite della prima giornata.",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:45",
+      "evento": "F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport",
+      "note": "Probabile replica o highlights del Gran Premio d'Olanda 2026, disputato il 23 agosto.",
+      "fonte": "Super Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
