@@ -1,41 +1,77 @@
 {
-  "last_updated": "2026-08-26T02:36:18.029453+02:00",
+  "last_updated": "2026-08-26T14:26:20.855727+02:00",
   "events": [
     {
-      "orario": "07:00",
-      "evento": "Serie A 2026/2027 - Torino vs Milan (1a giornata) - Replica",
-      "competizione": "Calcio Serie A",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della prima giornata di campionato.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "orario": "17:00",
+      "evento": "Guerrieri-Schwaerzler",
+      "competizione": "US Open Qualificazioni",
+      "canale": "SuperTennis / SuperTennis+",
+      "note": "",
+      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "08:00",
-      "evento": "Serie A 2026/2027 - Lazio vs Torino - Replica",
-      "competizione": "Calcio Serie A",
-      "canale": "DAZN 1",
-      "note": "Replica di un match della Serie A.",
-      "fonte": "Guida TV DAZN 1: Canale 214 Sky, Palinsesto da 21 al 27 Agosto 2026",
-      "accuratezza_orario": "esatto"
+      "orario": "18:30*",
+      "evento": "Cecchinato-Gaubas",
+      "competizione": "US Open Qualificazioni",
+      "canale": "SuperTennis / SuperTennis+",
+      "note": "Orario stimato",
+      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "14:30",
-      "evento": "Serie A 2026/2027 - Torino vs Milan (1a giornata) - Replica",
-      "competizione": "Calcio Serie A",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della prima giornata di campionato.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
+      "orario": "20:00*",
+      "evento": "Luciano Darderi vs Botic Van De Zandschulp",
+      "competizione": "ATP Winston-Salem - Ottavi di finale",
+      "canale": "Sky Sport / NOW",
+      "note": "Non prima delle ore 20:00",
+      "fonte": "https://sport.sky.it/tennis/2026/08/26/tennis-oggi-programma-atp-wta-26-agosto; https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "Passaro-Gentzsch",
+      "competizione": "US Open Qualificazioni",
+      "canale": "SuperTennis / SuperTennis+",
+      "note": "Orario stimato",
+      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Giochi del Mediterraneo Taranto 2026 - Italia vs Kosovo",
-      "competizione": "Calcio - Torneo Internazionale",
-      "canale": "Italia Team TV",
-      "note": "Partita di calcio con la nazionale italiana nell'ambito dei Giochi del Mediterraneo.",
-      "fonte": "Giochi del Mediterraneo 2026, il programma di domani: orari mercoledì 26 agosto, tv, streaming",
+      "evento": "Kosovo-Italia",
+      "competizione": "Giochi del Mediterraneo - Calcio",
+      "canale": "Italia Team TV / Rai Play Sport 2",
+      "note": "",
+      "fonte": "https://oasport.it/2026/08/25/giochi-del-mediterraneo-2026-il-programma-di-domani-orari-mercoledi-26-agosto-tv-streaming/; https://oasport.it/2026/08/26/giochi-del-mediterraneo-il-programma-del-26-agosto-orari-e-italiani-in-gara/",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00*",
+      "evento": "Cinà-Dellien",
+      "competizione": "US Open Qualificazioni",
+      "canale": "SuperTennis / SuperTennis+",
+      "note": "Orario stimato",
+      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "23:30*",
+      "evento": "Lorenzo Sonego vs James Duckworth",
+      "competizione": "ATP Winston-Salem - Ottavi di finale",
+      "canale": "Sky Sport / NOW",
+      "note": "Non prima delle 23:30",
+      "fonte": "https://www.sisal.it/news/tennis/pronostico-sonego-duckworth-atp-winston-salem-2026; https://sport.sky.it/tennis/2026/08/26/tennis-oggi-programma-atp-wta-26-agosto; https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Bronzetti-Iatcenko",
+      "competizione": "US Open Qualificazioni",
+      "canale": "SuperTennis / SuperTennis+",
+      "note": "",
+      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
+      "accuratezza_orario": "tba"
     }
   ]
 }
