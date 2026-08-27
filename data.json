@@ -1,77 +1,68 @@
 {
-  "last_updated": "2026-08-26T14:26:20.855727+02:00",
+  "last_updated": "2026-08-27T19:01:47.244314+02:00",
   "events": [
     {
-      "orario": "17:00",
-      "evento": "Guerrieri-Schwaerzler",
-      "competizione": "US Open Qualificazioni",
-      "canale": "SuperTennis / SuperTennis+",
-      "note": "",
-      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
+      "orario": "17:45",
+      "evento": "Sorteggi Champions League League Phase (Pre-show)",
+      "competizione": "Champions League 2026/2027",
+      "canale": "Sky Sport 24, SkySport.it, YouTube, TV8, NOW, Amazon Prime Video",
+      "note": "Include squadre italiane (Inter, Napoli, Roma, Como)",
+      "fonte": "Sky Sport, Quotidiano Motori",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30*",
-      "evento": "Cecchinato-Gaubas",
-      "competizione": "US Open Qualificazioni",
-      "canale": "SuperTennis / SuperTennis+",
-      "note": "Orario stimato",
-      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
-      "accuratezza_orario": "stimato"
+      "orario": "18:00",
+      "evento": "Sorteggi Champions League League Phase (Cerimonia)",
+      "competizione": "Champions League 2026/2027",
+      "canale": "Sky Sport 24, SkySport.it, YouTube, TV8, NOW, Amazon Prime Video",
+      "note": "Include squadre italiane (Inter, Napoli, Roma, Como)",
+      "fonte": "Sky Sport, Quotidiano Motori",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
-      "evento": "Luciano Darderi vs Botic Van De Zandschulp",
-      "competizione": "ATP Winston-Salem - Ottavi di finale",
-      "canale": "Sky Sport / NOW",
-      "note": "Non prima delle ore 20:00",
-      "fonte": "https://sport.sky.it/tennis/2026/08/26/tennis-oggi-programma-atp-wta-26-agosto; https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
-      "accuratezza_orario": "stimato"
+      "orario": "19:00",
+      "evento": "US Open Qualificazioni: Francesco Passaro (ITA) vs Shintaro Mochizuki (JPN)",
+      "competizione": "US Open 2026 (Qualificazioni)",
+      "canale": "SuperTennis",
+      "note": "",
+      "fonte": "SuperTennis",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
-      "evento": "Passaro-Gentzsch",
-      "competizione": "US Open Qualificazioni",
-      "canale": "SuperTennis / SuperTennis+",
-      "note": "Orario stimato",
-      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
-      "accuratezza_orario": "stimato"
+      "orario": "20:00",
+      "evento": "Hapoel Tel Aviv - Atalanta",
+      "competizione": "UEFA Conference League 2026/2027 (Preliminari Play-off)",
+      "canale": "TV8, Sky Sport",
+      "note": "",
+      "fonte": "Quotidiano Motori",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Kosovo-Italia",
-      "competizione": "Giochi del Mediterraneo - Calcio",
-      "canale": "Italia Team TV / Rai Play Sport 2",
+      "evento": "US Open Qualificazioni: Andrea Guerrieri (ITA) vs Aziz Dougaz (TUN)",
+      "competizione": "US Open 2026 (Qualificazioni)",
+      "canale": "SuperTennis",
       "note": "",
-      "fonte": "https://oasport.it/2026/08/25/giochi-del-mediterraneo-2026-il-programma-di-domani-orari-mercoledi-26-agosto-tv-streaming/; https://oasport.it/2026/08/26/giochi-del-mediterraneo-il-programma-del-26-agosto-orari-e-italiani-in-gara/",
+      "fonte": "SuperTennis",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00*",
-      "evento": "Cinà-Dellien",
-      "competizione": "US Open Qualificazioni",
-      "canale": "SuperTennis / SuperTennis+",
-      "note": "Orario stimato",
-      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "23:30*",
-      "evento": "Lorenzo Sonego vs James Duckworth",
-      "competizione": "ATP Winston-Salem - Ottavi di finale",
-      "canale": "Sky Sport / NOW",
-      "note": "Non prima delle 23:30",
-      "fonte": "https://www.sisal.it/news/tennis/pronostico-sonego-duckworth-atp-winston-salem-2026; https://sport.sky.it/tennis/2026/08/26/tennis-oggi-programma-atp-wta-26-agosto; https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Bronzetti-Iatcenko",
-      "competizione": "US Open Qualificazioni",
-      "canale": "SuperTennis / SuperTennis+",
+      "orario": "23:00",
+      "evento": "US Open Qualificazioni: Federico Cinà (ITA) vs Yunchaokete Bu (CHN)",
+      "competizione": "US Open 2026 (Qualificazioni)",
+      "canale": "SuperTennis",
       "note": "",
-      "fonte": "https://www.ubitennis.com/blog/2026/08/26/italiani-in-campo-mercoledi-26-agosto-darderi-e-sonego-per-i-quarti-a-winston-salem-sette-azzurri-nelle-qualificazioni-us-open/",
-      "accuratezza_orario": "tba"
+      "fonte": "SuperTennis",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00*",
+      "evento": "US Open Doppio Misto: Flavio Cobolli/Belinda Bencic vs Elina Svitolina/Gaël Monfils (Semifinale)",
+      "competizione": "US Open 2026",
+      "canale": "SuperTennis, Sky Sport",
+      "note": "Orario stimato (match a partire da questo orario)",
+      "fonte": "Olympics.com",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
