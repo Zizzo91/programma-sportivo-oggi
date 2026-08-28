@@ -1,68 +1,86 @@
 {
-  "last_updated": "2026-08-27T19:01:47.244314+02:00",
+  "last_updated": "2026-08-28T03:52:00.374771+02:00",
   "events": [
     {
-      "orario": "17:45",
-      "evento": "Sorteggi Champions League League Phase (Pre-show)",
-      "competizione": "Champions League 2026/2027",
-      "canale": "Sky Sport 24, SkySport.it, YouTube, TV8, NOW, Amazon Prime Video",
-      "note": "Include squadre italiane (Inter, Napoli, Roma, Como)",
-      "fonte": "Sky Sport, Quotidiano Motori",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Sorteggi Champions League League Phase (Cerimonia)",
-      "competizione": "Champions League 2026/2027",
-      "canale": "Sky Sport 24, SkySport.it, YouTube, TV8, NOW, Amazon Prime Video",
-      "note": "Include squadre italiane (Inter, Napoli, Roma, Como)",
-      "fonte": "Sky Sport, Quotidiano Motori",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "US Open Qualificazioni: Francesco Passaro (ITA) vs Shintaro Mochizuki (JPN)",
-      "competizione": "US Open 2026 (Qualificazioni)",
-      "canale": "SuperTennis",
+      "orario": "09:00",
+      "evento": "Prove Libere 1 Moto3",
+      "competizione": "MotoGP - Gran Premio di Aragon",
+      "canale": "Sky Sport MotoGP, NOW",
       "note": "",
-      "fonte": "SuperTennis",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Hapoel Tel Aviv - Atalanta",
-      "competizione": "UEFA Conference League 2026/2027 (Preliminari Play-off)",
-      "canale": "TV8, Sky Sport",
+      "orario": "09:50",
+      "evento": "Prove Libere 1 Moto2",
+      "competizione": "MotoGP - Gran Premio di Aragon",
+      "canale": "Sky Sport MotoGP, NOW",
       "note": "",
-      "fonte": "Quotidiano Motori",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "US Open Qualificazioni: Andrea Guerrieri (ITA) vs Aziz Dougaz (TUN)",
-      "competizione": "US Open 2026 (Qualificazioni)",
-      "canale": "SuperTennis",
+      "orario": "10:45",
+      "evento": "Prove Libere 1 MotoGP",
+      "competizione": "MotoGP - Gran Premio di Aragon",
+      "canale": "Sky Sport MotoGP, NOW",
       "note": "",
-      "fonte": "SuperTennis",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "US Open Qualificazioni: Federico Cinà (ITA) vs Yunchaokete Bu (CHN)",
-      "competizione": "US Open 2026 (Qualificazioni)",
-      "canale": "SuperTennis",
+      "orario": "13:00",
+      "evento": "Sorteggio fase campionato",
+      "competizione": "UEFA Europa League 2026/27",
+      "canale": "Sky Sport 24, NOW, UEFA.tv",
       "note": "",
-      "fonte": "SuperTennis",
+      "fonte": "UEFA.com, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00*",
-      "evento": "US Open Doppio Misto: Flavio Cobolli/Belinda Bencic vs Elina Svitolina/Gaël Monfils (Semifinale)",
-      "competizione": "US Open 2026",
-      "canale": "SuperTennis, Sky Sport",
-      "note": "Orario stimato (match a partire da questo orario)",
-      "fonte": "Olympics.com",
-      "accuratezza_orario": "stimato"
+      "orario": "13:00",
+      "evento": "Sorteggio fase campionato",
+      "competizione": "UEFA Conference League 2026/27",
+      "canale": "Sky Sport 24, NOW, UEFA.tv, TV8",
+      "note": "",
+      "fonte": "UEFA.com, Diretta.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Prove 1 Moto3",
+      "competizione": "MotoGP - Gran Premio di Aragon",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Prove 1 Moto2",
+      "competizione": "MotoGP - Gran Premio di Aragon",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Prove MotoGP",
+      "competizione": "MotoGP - Gran Premio di Aragon",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Milan – Venezia",
+      "competizione": "Serie A ENILIVE",
+      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
+      "note": "2ª giornata",
+      "fonte": "CalcioMagazine, Sky Sport",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
