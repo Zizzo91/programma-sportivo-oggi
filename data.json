@@ -1,85 +1,67 @@
 {
-  "last_updated": "2026-08-28T03:52:00.374771+02:00",
+  "last_updated": "2026-08-28T19:50:10.511745+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Prove Libere 1 Moto3",
-      "competizione": "MotoGP - Gran Premio di Aragon",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "09:50",
-      "evento": "Prove Libere 1 Moto2",
-      "competizione": "MotoGP - Gran Premio di Aragon",
-      "canale": "Sky Sport MotoGP, NOW",
+      "evento": "Moto2 - Prove Libere 1",
+      "competizione": "MotoGP, GP Aragon 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpzNmQyaWHkq757Alwi73LUxYQ6dcigTxmsEVoMV8WsIBvaqM-fNcBmg4KBcG5_q3mYk8NFu673dAaDahyRR7B1DJjthJLtfpblnSlAl52POEg7FFpTXSly-iHkxonJyhlAKGniXkw8LvIjRHTRSEKiT_C0szxZdKI71nE3RgzmnAH6KNWqJbqvojFS9_fT67q6LsRpoHUE1sEGTPfyk7nHEFTFHuK8xVndhRVrp6weHz-YsuFQsJIreHOkTP5OQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:45",
-      "evento": "Prove Libere 1 MotoGP",
-      "competizione": "MotoGP - Gran Premio di Aragon",
-      "canale": "Sky Sport MotoGP, NOW",
+      "evento": "MotoGP - Prove Libere 1",
+      "competizione": "MotoGP, GP Aragon 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS3Ia6H03EUAHx96t-8UvuXirFmI6m-nIBlrsxZCrFD6LD237to382APEAa9O3hR5Lvr5n1wKIgLYBa2YCwohW2GqhY08rmq9XUkGifVin21fcTzhT7jY4sdYjI8ECuu9wY18Au3Kcn11zYycNM668edYj2-yLi2JcYIldqxcaIhy0h8T998cKUZqlUXoyu_4xqPE=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "Sorteggio fase campionato",
-      "competizione": "UEFA Europa League 2026/27",
-      "canale": "Sky Sport 24, NOW, UEFA.tv",
-      "note": "",
-      "fonte": "UEFA.com, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Sorteggio fase campionato",
-      "competizione": "UEFA Conference League 2026/27",
-      "canale": "Sky Sport 24, NOW, UEFA.tv, TV8",
-      "note": "",
-      "fonte": "UEFA.com, Diretta.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:15",
-      "evento": "Prove 1 Moto3",
-      "competizione": "MotoGP - Gran Premio di Aragon",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
+      "evento": "Sorteggio Fase Campionato Europa League 2026/27",
+      "competizione": "Europa League",
+      "canale": "Sky Sport 24, TV8, Sky Go, NOW, UEFA.tv",
+      "note": "Milan e Juventus coinvolte",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWKwYQw5TglG0JEqMB5czbygRcvSW3eMH1m2jnsRGJLBc-kGVGt1sSl44eeHEJuoOJui2pTmkvCgdvcaGw8TL2tTUWv97HqpTMR8cSv8m-smFeqe94WN2P9cae8LmcEpUBOKqkb4xL3YNLwjsRFqI2eVD0pXcLiElDX5Ku08A5xGdDq7ypQ8C0xIFrzySLRlU_0vvidn6CBA==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF7GqpYhdo-mtMMKV4NimLSojvBJtnt95C4J-PJn2dEEBDIn6t0MKopND9FnLLx9DVcazutPovOQaesoHO6B1SymvrdXdVMczSSCJ5WVa1y8bWXfTYmXmkd6RNFzXBlLFdkPX4aAgW5iE1-wOno3KX-N6FTKK6F0dtqJPIoPS1mxRlVzSHcsoj9WkuFBlSgt_aEwS-7pbXq08sj31yrSneL-ZuUlV5lTbiIxg2XqkXyDekfVk1QBr3aux0rIh8=; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpzNmQyaWHkq757Alwi73LUxYQ6dcigTxmsEVoMV8WsIBvaqM-fNcBmg4KBcG5_q3mYk8NFu673dAaDahyRR7B1DJjthJLtfpblnSlAl52POEg7FFpTXSly-iHkxonJyhlAKGniXkw8LvIjRHTRSEKiT_C0szxZdKI71nE3RgzmnAH6KNWqJbqvojFS9_fT67q6LsRpoHUE1sEGTPfyk7nHEFTFHuK8xVndhRVrp6weHz-YsuFQsJIreHOkTP5OQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:05",
-      "evento": "Prove 1 Moto2",
-      "competizione": "MotoGP - Gran Premio di Aragon",
-      "canale": "Sky Sport MotoGP, NOW",
+      "evento": "Moto2 - Pre-Qualifiche",
+      "competizione": "MotoGP, GP Aragon 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpzNmQyaWHkq757Alwi73LUxYQ6dcigTxmsEVoMV8WsIBvaqM-fNcBmg4KBcG5_q3mYk8NFu673dAaDahyRR7B1DJjthJLtfpblnSlAl52POEg7FFpTXSly-iHkxonJyhlAKGniXkw8LvIjRHTRSEKiT_C0szxZdKI71nE3RgzmnAH6KNWqJbqvojFS9_fT67q6LsRpoHUE1sEGTPfyk7nHEFTFHuK8xVndhRVrp6weHz-YsuFQsJIreHOkTP5OQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Sorteggio Fase Campionato Conference League 2026/27",
+      "competizione": "Conference League",
+      "canale": "Sky Sport 24, NOW, UEFA.tv, SkySport.it, YouTube",
+      "note": "Atalanta coinvolta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpzNmQyaWHkq757Alwi73LUxYQ6dcigTxmsEVoMV8WsIBvaqM-fNcBmg4KBcG5_q3mYk8NFu673dAaDahyRR7B1DJjthJLtfpblnSlAl52POEg7FFpTXSly-iHkxonJyhlAKGniXkw8LvIjRHTRSEKiT_C0szxZdKI71nE3RgzmnAH6KNWqJbqvojFS9_fT67q6LsRpoHUE1sEGTPfyk7nHEFTFHuK8xVndhRVrp6weHz-YsuFQsJIreHOkTP5OQ==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLRcxQcAh7jk7_fA-_HykypRrfa_j-CimwtynUBOoOh9LTi7ijEDcIfzU1UXmfOzv4_C52r-tVXHkXArHcgUDtbZNtxS6LKDI52ODFSdsna4SHBpvxZ0gLKj2B6k7bz5IdNJUixH9qxWbLzRhbV8OT5f55_zVwLR1UVcczGDb7A_87L-eLuhHojBczi26SrkID57IOJc-_snxnUW6lhRkz50V6ND5HrrCfvs8piKaqTGonX3BsoJe208NOi9Ssa_5C5v1rRWqnwTLP",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Prove MotoGP",
-      "competizione": "MotoGP - Gran Premio di Aragon",
-      "canale": "Sky Sport MotoGP, NOW",
+      "evento": "MotoGP - Prove",
+      "competizione": "MotoGP, GP Aragon 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix.it, Virgilio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS3Ia6H03EUAHx96t-8UvuXirFmI6m-nIBlrsxZCrFD6LD237to382APEAa9O3hR5Lvr5n1wKIgLYBa2YCwohW2GqhY08rmq9XUkGifVin21fcTzhT7jY4sdYjI8ECuu9wY18Au3Kcn11zYycNM668edYj2-yLi2JcYIldqxcaIhy0h8T998cKUZqlUXoyu_4xqPE=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Milan – Venezia",
-      "competizione": "Serie A ENILIVE",
-      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
-      "note": "2ª giornata",
-      "fonte": "CalcioMagazine, Sky Sport",
+      "evento": "Milan - Venezia",
+      "competizione": "Serie A 2026/27",
+      "canale": "DAZN, DAZN 1 (Sky 214)",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpzNmQyaWHkq757Alwi73LUxYQ6dcigTxmsEVoMV8WsIBvaqM-fNcBmg4KBcG5_q3mYk8NFu673dAaDahyRR7B1DJjthJLtfpblnSlAl52POEg7FFpTXSly-iHkxonJyhlAKGniXkw8LvIjRHTRSEKiT_C0szxZdKI71nE3RgzmnAH6KNWqJbqvojFS9_fT67q6LsRpoHUE1sEGTPfyk7nHEFTFHuK8xVndhRVrp6weHz-YsuFQsJIreHOkTP5OQ==; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHywDK1ZczgtbM-7l_1GEVDc9TeaiTlTNqceIMHbxjiGatyXcTudXQWEOgvvrIbNTEg6YvF6_osCya3X0Q8cRoEVMeR2PMsw8Qk89zskB4TYHxB3E0GpJhS1xRxeFXs5yUL8yR1o_3GuHt2r0fVcsM3GVrB8otSsOnsrHzLK_MM3D7H-suc4aWuD0k27AstgpJLc3KHSnp3P9EMNKU__WJV; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNgT_cPI5ZBM6uZ37AR6OASRaHfIM-GQ6lPsrEnaMbIo98WMl0t0Y89hp6n1SjHW6rqNjZu0SQIIHsWqkzH1R_tsuwyF8y-FOpZGH7vSiHClBN2csE2ZCO-w77rs46DGpF6QPBHR-gsBL9jvv-zdJPvZlR8VAnBeLvOgqzDblBqReU7tH4FiKoFSJhis3zzsz5M6MyJcenf2Wx4Xi7UU_3s02dPfM06hZD5SWWjp1mu4uT0u7yS5ZSaXjY2ZjeZITPZBWiKvyS1TgVIwkvpwbweNFviwUb7qpAvrNmz6lkLkcCtv_UySOeptgt7PGKpGjf8ikWFbOq0XPwsLY9Iat20NA==",
       "accuratezza_orario": "esatto"
     }
   ]
