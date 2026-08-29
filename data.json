@@ -1,139 +1,121 @@
 {
-  "last_updated": "2026-08-29T03:16:25.160364+02:00",
+  "last_updated": "2026-08-29T13:54:56.113349+02:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "Premier Padel 2026-Italia Major. Finale Maschile",
-      "competizione": "Padel - Italia Major",
-      "canale": "Sky Sport Arena",
-      "note": "Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVLLRackLT8amHvJf6pnuacl-nkwyimOT1UcstoL9f7Q63EEIPM5Pt04Ra2KSarwmhMEAbkLHKxmjwkL2RRrJYp0WiG_ZNiZZUGUurrVXiGT4dL5abmoOU9tmB1-IBa0RN2XjVXwKMCvwlxpIsFO3ry0DAWYqoSNpK",
+      "orario": "08:40",
+      "evento": "FP2 Moto3",
+      "competizione": "MotoGP - GP Aragon 2026",
+      "canale": "Sky Sport MotoGP HD",
+      "note": "",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:55",
-      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 8a giornata",
-      "competizione": "Multisport - Giochi del Mediterraneo",
-      "canale": "Rai Sport +HD",
-      "note": "Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnz6Q3Igv383rneab569XgM53oBw9RcV7iPbl1jO0jFgK0GTFNHYFU_OmDJnSXScEpV5YQMT5pvJpkY8NvlXTnMOcJRFaFup8g_oYc5my9s_CNAPH0lEZaQjzQqFcjl7SzjVDYM8T-qIlUxYS-W2Ips-XWNzi9fF0YHGxHEHznL5wM0fHMNfaI",
+      "orario": "09:25",
+      "evento": "FP2 Moto2",
+      "competizione": "MotoGP - GP Aragon 2026",
+      "canale": "Sky Sport MotoGP HD",
+      "note": "",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Diamond League 2026-Zurigo",
-      "competizione": "Atletica Leggera - Diamond League",
-      "canale": "Sky Sport Arena",
-      "note": "Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3LWajLradjAv1IiNGoB_Bxvqt7RNQatdkWDB90C5gdzV3N23tMZLBwat7aV8RRDB7XsPX84yICtCgeKTdK-yAy6cWo0z-blH25bwN1snWIBBA5T-PmCgFGw36WOnSyfIa_H-mu2ASriK6LD1tBlKIwIDAUWQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "Mondiali Canoa e Paracanoa Poznan 2026 - 2a giornata: Finali",
-      "competizione": "Canoa Sprint - Campionato del Mondo",
-      "canale": "Rai Sport +HD",
-      "note": "Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnz6Q3Igv383rneab569XgM53oBw9RcV7iPbl1jO0jFgK0GTFNHYFU_OmDJnSXScEpV5YQMT5pvJpkY8NvlXTnMOcJRFaFup8g_oYc5my9s_CNAPH0lEZaQjzQqFcjl7SzjVDYM8T-qIlUxYS-W2Ips-XWNzi9fF0YHGxHEHznL5wM0fHMNfaI",
+      "orario": "10:10",
+      "evento": "FP2 MotoGP",
+      "competizione": "MotoGP - GP Aragon 2026",
+      "canale": "Sky Sport MotoGP HD",
+      "note": "",
+      "fonte": "Moto.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:50",
-      "evento": "MotoGP 2026-GP Aragon: Qualifiche 1 (MotoGP)",
-      "competizione": "Motomondiale - MotoGP",
+      "evento": "Qualifiche MotoGP",
+      "competizione": "MotoGP - GP Aragon 2026",
+      "canale": "Sky Sport MotoGP HD, TV8",
+      "note": "Diretta in chiaro su TV8",
+      "fonte": "OA Sport, Fanpage, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Sprint MotoGP",
+      "competizione": "MotoGP - GP Aragon 2026",
       "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta TV. Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH8-CjigFbAHmesyeVxoJF9y_fzP2I-PA7evxPDpnD2FuhABGBP6qZ0c0FXommwB5UWSQxfmxd66OkbcPCn2tYHMlBF3-8UjV_yc9n-Ct74cUfVGmtSq_4xdGVvWQnCVlscA9YW4NRG34T9DuX9WVafIfDnU23B8v0d0zd1oOs52PbraFx0siTQ76mEqJGDSog4YwLfXZ31-IGx1B-xzzJ9m8eOQ-6x7n_UwrIvCPIykjLzMN8PuVFFLfRMowns5eLSwhT0iV_ygWS3CRgTpZCMIzPui0rZTMv-4s5bwOMNWghz1Rg5tJL46j8F8K62GbKuD0PagIS2LwLNzG1MQjgd8SqIaH8UaD, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjNG_kGNTV8SEl73NQIM3CSiVwdmwOZTYb78j5cXSqX47MYduk1_fsrNaQVc3GaFXkcgaGKtGAEtng6FOxeNpJeGOG8aVVV2lwdMw0JObg5xaMmSLXOQW22EBmGVRVpfHmkXRFa7lRFI2WBANUs3w8aYhhER_lTpCINJ5ojMSs30GHUNFMwWIH1FJSoN4SeV_OxGD8ic9TUfRsub9t-KzTxf5vf3TTiweKPMYrC_YIsQAH-S5PelfB5IvpkBmrgmKx",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "MotoGP 2026-GP Aragon: Qualifiche 2 (MotoGP)",
-      "competizione": "Motomondiale - MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta TV. Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH8-CjigFbAHmesyeVxoJF9y_fzP2I-PA7evxPDpnD2FuhABGBP6qZ0c0FXommwB5UWSQxfmxd66OkbcPCn2tYHMlBF3-8UjV_yc9n-Ct74cUfVGmtSq_4xdGVvWQnCVlscA9YW4NRG34T9DuX9WVafIfDnU23B8v0d0zd1oOs52PbraFx0siTQ76mEqJGDSog4YwLfXZ31-IGx1B-xzzJ9m8eOQ-6x7n_UwrIvCPIykjLzMN8PuVFFLfRMowns5eLSwhT0iV_ygWS3CRgTpZCMIzPui0rZTMv-4s5bwOMNWghz1Rg5tJL46j8F8K62GbKuD0PagIS2LwLNzG1MQjgd8SqIaH8UaD, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjNG_kGNTV8SEl73NQIM3CSiVwdmwOZTYb78j5cXSqX47MYduk1_fsrNaQVc3GaFXkcgaGKtGAEtng6FOxeNpJeGOG8aVVV2lwdMw0JObg5xaMmSLXOQW22EBmGVRVpfHmkXRFa7lRFI2WBANUs3w8aYhhER_lTpCINJ5ojMSs30GHUNFMwWIH1FJSoN4SeV_OxGD8ic9TUfRsub9t-KzTxfn5vf3TTiweKPMYrC_YIsQAH-S5PelfB5IvpkBmrgmKx",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "MotoGP 2026-GP Aragon: Qualifiche 1 (Moto3)",
-      "competizione": "Motomondiale - Moto3",
-      "canale": "TV8",
-      "note": "Diretta TV. Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH8-CjigFbAHmesyeVxoJF9y_fzP2I-PA7evxPDpnD2FuhABGBP6qZ0c0FXommwB5UWSQxfmxd66OkbcPCn2tYHMlBF3-8UjV_yc9n-Ct74cUfVGmtSq_4xdGVvWQnCVlscA9YW4NRG34T9DuX9WVafIfDnU23B8v0d0zd1oOs52PbraFx0siTQ76mEqJGDSog4YwLfXZ31-IGx1B-xzzJ9m8eOQ-6x7n_UwrIvCPIykjLzMN8PuVFFLfRMowns5eLSwhT0iV_ygWS3CRgTpZCMIzPui0rZTMv-4s5bwOMNWghz1Rg5tJL46j8F8K62GbKuD0PagIS2LwLNzG1MQjgd8SqIaH8UaD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:10",
-      "evento": "MotoGP 2026-GP Aragon: Qualifiche 2 (Moto3)",
-      "competizione": "Motomondiale - Moto3",
-      "canale": "TV8",
-      "note": "Diretta TV. Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH8-CjigFbAHmesyeVxoJF9y_fzP2I-PA7evxPDpnD2FuhABGBP6qZ0c0FXommwB5UWSQxfmxd66OkbcPCn2tYHMlBF3-8UjV_yc9n-Ct74cUfVGmtSq_4xdGVvWQnCVlscA9YW4NRG34T9DuX9WVafIfDnU23B8v0d0zd1oOs52PbraFx0siTQ76mEqJGDSog4YwLfXZ31-IGx1B-xzzJ9m8eOQ-6x7n_UwrIvCPIykjLzMN8PuVFFLfRMowns5eLSwhT0iV_ygWS3CRgTpZCMIzPui0rZTMv-4s5bwOMNWghz1Rg5tJL46j8F8K62GbKuD0PagIS2LwLNzG1MQjgd8SqIaH8UaD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:35",
-      "evento": "MotoGP 2026-GP Aragon: Qualifiche (Moto2)",
-      "competizione": "Motomondiale - Moto2",
-      "canale": "Sky Sport Uno, TV8",
-      "note": "Diretta TV. Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKe_blxBreRLS_OoejL0mKQC2ekj3hpmT1zua4pRU-pjMa0EuR5izheT7eD45kjtgfhfwNDbJPtRirNSaihpyBFo-Mg_XIehbjP490CQgLnf0NT_Jm6pTbjc2vM0fWXlcYclQl4rL6bZb94ydBX4UQFmzK39x5FZ_oS3BN14, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH8-CjigFbAHmesyeVxoJF9y_fzP2I-PA7evxPDpnD2FuhABGBP6qZ0c0FXommwB5UWSQxfmxd66OkbcPCn2tYHMlBF3-8UjV_yc9n-Ct74cUfVGmtSq_4xdGVvWQnCVlscA9YW4NRG34T9DuX9WVafIfDnU23B8v0d0zd1oOs52PbraFx0siTQ76mEqJGDSog4YwLfXZ31-IGx1B-xzzJ9m8eOQ-6x7n_UwrIvCPIykjLzMN8PuVFFLfRMowns5eLSwhT0iV_ygWS3CRgTpZCMIzPui0rZTMv-4s5bwOMNWghz1Rg5tJL46j8F8K62GbKuD0PagIS2LwLNzG1MQjgd8SqIaH8UaD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:55",
-      "evento": "MotoGP 2026-GP Aragon: Sprint Race",
-      "competizione": "Motomondiale - MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta TV. Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKe_blxBreRLS_OoejL0mKQC2ekj3hpmT1zua4pRU-pjMa0EuR5izheT7eD45kjtgfhfwNDbJPtRirNSaihpyBFo-Mg_XIehbjP490CQgLnf0NT_Jm6pTbjc2vM0fWXlcYclQl4rL6bZb94ydBX4UQFmzK39x5FZ_oS3BN14, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXBQsOcn_EnbtfOYIWuHxYwCpyt22aBLalKY4nZRVxGLJ76DBafp9zNbUW7h47ceV5Cfh1u-FZCAxF_VVBWItykjX7VhGhXgSFKnw2aYpULmkfuZ-lZdpG9O1oyxC6n5n10CysKn_dHhbdGEsL0TvM6kRRuPbotxWpOU1l6QXGXr-bOsQm26enypJblhTDqeeR1kT9Hrwmck9LNB77Q0BLXZ1ClWZMJy8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVLLRackLT8amHvJf6pnuacl-nkwyimOT1UcstoL9f7Q63EEIPM5Pt04Ra2KSarwmhMEAbkLHKxmjwkL2RRrJYp0WiG_ZNiZZUGUurrVXiGT4dL5abmoOU9tmB1-IBa0RN2XjVXwKMCvwlxpIsFO3ry0DAWYqoSNpK, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjNG_kGNTV8SEl73NQIM3CSiVwdmwOZTYb78j5cXSqX47MYduk1_fsrNaQVc3GaFXkcgaGKtGAEtng6FOxeNpJeGOG8aVVV2lwdMw0JObg5xaMmSLXOQW22EBmGVRVpfHmkXRFa7lRFI2WBANUs3w8aYhhER_lTpCINJ5ojMSs30GHUNFMwWIH1FJSoN4SeV_OxGD8ic9TUfRsub9t-KzTxfn5vf3TTiweKPMYrC_YIsQAH-S5PelfB5IvpkBmrgmKx",
+      "note": "Diretta in chiaro su TV8",
+      "fonte": "OA Sport, Fanpage, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
       "evento": "Fiorentina-Frosinone",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnh_ZNxJKV-5-yk-Z2cGma-FrmIvQnQ17Lo__fXXx9BST94ius6cOKJENlbm9v3bqoH3RH0uFDY9fC38RS-umWChZ_wj0tNrK2IruMats3Kd2TdzesGr4PL5iPCdV1cKj0UtEv54vBkZ9iade4NebNnf-eCZeYq4F159Kgk3FmkQcQvX0F6EZb-qV3j6m0ZAq8Jejanl1IZrfnY8eKk6gJ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW_eXR-KrCHugKffc5nlvUG-OYoDVoA_KB6J3icYt_aw13SVMNS7_AzlgToZn6xfn-VAURoa_Gp8HEiLYNEcQWmYZDhOOzWJw-gA-8HuI2Mjie7y0MGIBtZKT7gdgltI9g048g5q6c2BcKgLF8PJVYW99E7_pKbfINUd6l, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNb7ketIWWwwvUAipR-wFTJxMfQQiXqtfgvp2Ein6d2_K-mcrf-BRWtfadq7tmz9xCoicw-s6QXh3Pd5pnHK1682jZTSnsE7EsWKc6wJrmnYZvy6MYxqP1bEbXhnH0K6uM6QpA_fk6pqzUXnj6QFbfA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeod3eXqUebqniJt3MVaBOkDJnhJ22iki8nwPx-XMLJVxCtJZ0jy6iDaD4_-PNyIUSjHL3W06x2y5AvwS-1lV1pQxDKwwXPj0757vOxbszRM5ugZKtVZ0jCPrD094Vj9ofccWOTQ9_GZHmMnBbwqWp0XZmb9PiZWgW4eiPF1T8iLWCHDpURVcXHQia79_Tm9MuNj36BtjOd34s_Ci5f8eCK2XmTdsuOvCrCEY=",
+      "note": "",
+      "fonte": "Libero Magazine, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
       "evento": "Monza-Udinese",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnh_ZNxJKV-5-yk-Z2cGma-FrmIvQnQ17Lo__fXXx9BST94ius6cOKJENlbm9v3bqoH3RH0uFDY9fC38RS-umWChZ_wj0tNrK2IruMats3Kd2TdzesGr4PL5iPCdV1cKj0UtEv54vBkZ9iade4NebNnf-eCZeYq4F159Kgk3FmkQcQvX0F6EZb-qV3j6m0ZAq8Jejanl1IZrfnY8eKk6gJ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW_eXR-KrCHugKffc5nlvUG-OYoDVoA_KB6J3icYt_aw13SVMNS7_AzlgToZn6xfn-VAURoa_Gp8HEiLYNEcQWmYZDhOOzWJw-gA-8HuI2Mjie7y0MGIBtZKT7gdgltI9g048g5q6c2BcKgLF8PJVYW99E7_pKbfINUd6l, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNb7ketIWWwwvUAipR-wFTJxMfQQiXqtfgvp2Ein6d2_K-mcrf-BRWtfadq7tmz9xCoicw-s6QXh3Pd5pnHK1682jZTSnsE7EsWKc6wJrmnYZvy6MYxqP1bEbXhnH0K6uM6QpA_fk6pqzUXnj6QFbfA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeod3eXqUebqniJt3MVaBOkDJnhJ22iki8nwPx-XMLJVxCtJZ0jy6iDaD4_-PNyIUSjHL3W06x2y5AvwS-1lV1pQxDKwwXPj0757vOxbszRM5ugZKtVZ0jCPrD094Vj9ofccO_GZHmMnBbwqWp0XZmb9PiZWgW4eiPF1T8iLWCHDpURVcXHQia79_Tm9MuNj36BtjOd34s_Ci5f8eCK2XmTdsuOvCrCEY=",
+      "note": "",
+      "fonte": "Libero Magazine, Sky Sport, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
       "evento": "Sassuolo-Torino",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnh_ZNxJKV-5-yk-Z2cGma-FrmIvQnQ17Lo__fXXx9BST94ius6cOKJENlbm9v3bqoH3RH0uFDY9fC38RS-umWChZ_wj0tNrK2IruMats3Kd2TdzesGr4PL5iPCdV1cKj0UtEv54vBkZ9iade4NebNnf-eCZeYq4F159Kgk3FmkQcQvX0F6EZb-qV3j6m0ZAq8Jejanl1IZrfnY8eKk6gJ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW_eXR-KrCHugKffc5nlvUG-OYoDVoA_KB6J3icYt_aw13SVMNS7_AzlgToZn6xfn-VAURoa_Gp8HEiLYNEcQWmYZDhOOzWJw-gA-8HuI2Mjie7y0MGIBtZKT7gdgltI9g048g5q6c2BcKgLF8PJVYW99E7_pKbfINUd6l, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNb7ketIWWwwvUAipR-wFTJxMfQQiXqtfgvp2Ein6d2_K-mcrf-BRWtfadq7tmz9xCoicw-s6QXh3Pd5pnHK1682jZTSnsE7EsWKc6wJrmnYZvy6MYxqP1bEbXhnH0K6uM6QpA_fk6pqzUXnj6QFbfA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeod3eXqUebqniJt3MVaBOkDJnhJ22iki8nwPx-XMLJVxCtJZ0jy6iDaD4_-PNyIUSjHL3W06x2y5AvwS-1lV1pQxDKwwXPj0757vOxbszRM5ugZKtVZ0jCPrD094Vj9ofccO_GZHmMnBbwqWp0XZmb9PiZWgW4eiPF1T8iLWCHDpURVcXHQia79_Tm9MuNj36BtjOd34s_Ci5f8eCK2XmTdsuOvCrCEY=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Moses Itauma vs. Filip Hrgovic",
-      "competizione": "Pugilato",
-      "canale": "DAZN (PPV)",
-      "note": "Orario di inizio diretta DAZN. Match a Londra. Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJXhmHeHhHty0NKVr_pefgTH4iZYtlZlci-4b5KKhAygvxoF3IKx8wwg_9AhUXRqRZQ-RVNGvDk-8_fUvn-drK6mhykk9tajkDZ0qDHldp6Lnvy28jLk1PvDV_ePf-wfI6j8S7uO1yzVAg3Z1QOkdr8VoOkuzUNlkAlZxtevsiMb9tlGK3e3B6llymy7yvJn0lBV1b7cjuHpnw2FwwYhaZDfCS0qTIg4UeTRFuNKLC4kUFWHcxs3XfJqd8mIGfMtH",
+      "note": "",
+      "fonte": "Libero Magazine, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Juventus-Parma",
-      "competizione": "Calcio - Serie A",
+      "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "Anche studio live su SportItalia. Orario in CET.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnh_ZNxJKV-5-yk-Z2cGma-FrmIvQnQ17Lo__fXXx9BST94ius6cOKJENlbm9v3bqoH3RH0uFDY9fC38RS-umWChZ_wj0tNrK2IruMats3Kd2TdzesGr4PL5iPCdV1cKj0UtEv54vBkZ9iade4NebNnf-eCZeYq4F159Kgk3FmkQcQvX0F6EZb-qV3j6m0ZAq8Jejanl1IZrfnY8eKk6gJ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcA9_rmWAgeHKyUE08cIECBeaCuyU8_vKMhgTyzbN6Gd60ml17pYDqFwPlm4Z8cOSCp-le8REvei99HKeIsR7ruGOQBZ1h69ATZJijBYTbYznVVs2pXz6o6pngXSmPKKF_DjeWlZNiRw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNb7ketIWWwwvUAipR-wFTJxMfQQiXqtfgvp2Ein6d2_K-mcrf-BRWtfadq7tmz9xCoicw-s6QXh3Pd5pnHK1682jZTSnsE7EsWKc6wJrmnYZvy6MYxqP1bEbXhnH0K6uM6QpA_fk6pqzUXnj6QFbfA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUv4UW6TT2Wgr42uHRC58fMemmyvWPDji47D9OtnTvC_1xSdL1vTxU3lbg2ebVecTuVQshvULq05JRHErkVozH2wD3onEeHav9QjLTB-puqAr5aAbHI9Tk8XWkyMoQGtPd3Pj__3jyMiRv3T2zAFWSYKs7xwMgIm0yo9D01_0eE2ACxYMy55s=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeod3eXqUebqniJt3MVaBOkDJnhJ22iki8nwPx-XMLJVxCtJZ0jy6iDaD4_-PNyIUSjHL3W06x2y5AvwS-1lV1pQxDKwwXPj0757vOxbszRM5ugZKtVZ0jCPrD094Vj9ofccO_GZHmMnBbwqWp0XZmb9PiZWgW4eiPF1T8iLWCHDpURVcXHQia79_Tm9MuNj36BtjOd34s_Ci5f8eCK2XmTdsuOvCrCEY=",
+      "note": "",
+      "fonte": "Sassari Notizie, Libero Magazine, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "I Giochi di Taranto",
+      "competizione": "XX Giochi del Mediterraneo Taranto 2026",
+      "canale": "RaiDue",
+      "note": "Diario quotidiano, sintesi eventi",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "MTB Mondiali 2026 - Discesa - Elite Uomini",
+      "competizione": "Ciclismo - Mondiali MTB 2026",
+      "canale": "Raisport HD",
+      "note": "Dalla Val di Sole",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:25",
+      "evento": "Sport Mediaset - La Giornata",
+      "competizione": "Notiziario sportivo",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:55",
+      "evento": "XX Giochi del Mediterraneo Taranto 2026 - 8a giornata",
+      "competizione": "XX Giochi del Mediterraneo Taranto 2026",
+      "canale": "Raisport HD",
+      "note": "",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
