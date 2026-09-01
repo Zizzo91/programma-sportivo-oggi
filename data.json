@@ -1,85 +1,76 @@
 {
-  "last_updated": "2026-08-31T04:05:49.725603+02:00",
+  "last_updated": "2026-09-01T04:26:21.441255+02:00",
   "events": [
     {
-      "orario": "18:30",
-      "evento": "Lecce - Roma",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 252, NOW",
+      "orario": "00:00",
+      "evento": "Qualificazioni FIBA World Cup 2027 - Italia - Serbia",
+      "competizione": "Qualificazioni Mondiali FIBA",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Calciomagazine, Sky Sport, HDblog, DAZN",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGMvgl4QUD_-nVoVSQBCv_FbUx_SyFjtlPmJOCL32dIlLTiGgXIJq0pcXae_drqic4nshhzY8dgKI2t5xORLYwwqWyqOPQ3RQwuaFx-TPbDAZQ9iDZ2Z6tfS-45xE0Ho1EHAZDGjr0JQYdcpVMruIf21FshR0Xj0b3XhgDxkgtJ38fAYL5oNM",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Atalanta - Bologna",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "Programmi Sky, Calciomagazine, Sky Sport, HDblog, DAZN",
+      "orario": "02:00",
+      "evento": "UEFA Conference League 2026/2027 - Hapoel Tel Aviv - Atalanta (Preliminari Play-off)",
+      "competizione": "UEFA Conference League",
+      "canale": "Sky Sport Uno",
+      "note": "Replay",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyVa8Z7FlK7BooeoEEaoQySJvX9k6VnZuJrzanGyUmj08eJagR04SwIy_R4QltHj47Scj5LaSHU2XCiuMcp3w8WVD7fvN4l6H7Z6JVQ-t5_QFGqtu37ta39GT-YoB1pggKza0FDLjAdrnaTomQM4BzBTin431GoARzmrX68Kw9ahkQNYBezg==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Tennis - US Open: M. Berrettini (ITA) vs S. Wawrinka (SUI)",
-      "competizione": "Grande Slam - US Open",
-      "canale": "SuperTennis, Sky Sport",
-      "note": "Primo turno singolare uomini. Inizio stimato, terzo match sul campo Grandstand.",
-      "fonte": "LiveTennis.it, SuperTennis, US Open 2026, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Tennis - US Open: L. Darderi (ITA) vs H. Wendelken (GBR)",
-      "competizione": "Grande Slam - US Open",
-      "canale": "SuperTennis, Sky Sport",
-      "note": "Primo turno singolare uomini. Inizio stimato, terzo match sul campo Court 5.",
-      "fonte": "LiveTennis.it, SuperTennis, US Open 2026, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Tennis - US Open: E. Cocciaretto (ITA) vs K. Siniakova (CZE)",
-      "competizione": "Grande Slam - US Open",
-      "canale": "SuperTennis, Sky Sport",
-      "note": "Primo turno singolare donne. Inizio stimato, quarto match sul campo Court 6.",
-      "fonte": "LiveTennis.it, SuperTennis, US Open 2026, Sky Sport",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "06:00",
       "evento": "Tennis Us Open The Insider 2026",
-      "competizione": "Grande Slam - US Open",
+      "competizione": "Tennis - US Open",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Guida TV Sky Sport Uno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhxr9mHOMSI2DG_bPZbhWohCa6hEZES_WAelGSHDVYxaq6HdVnRIN4Mp8ceqYmWEZCGjqqzADRE2cdAb4hrgCoCr3rjUJKTP5bAkm8satacvY1JILnvRsOdy9nwOfS3FZerto_24ej",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:00",
-      "evento": "Highlights Show US Open",
-      "competizione": "Grande Slam - US Open",
+      "orario": "08:00",
+      "evento": "Serie A 2026/2027 - Lecce - Roma (2a g.)",
+      "competizione": "Serie A",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Guida TV Sky Sport Uno",
+      "note": "Replay",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGMvgl4QUD_-nVoVSQBCv_FbUx_SyFjtlPmJOCL32dIlLTiGgXIJq0pcXae_drqic4nshhzY8dgKI2t5xORLYwwqWyqOPQ3RQwuaFx-TPbDAZQ9iDZ2Z6tfS-45xE0Ho1EHAZDGjr0JQYdcpVMruIf21FshR0Xj0b3XhgDxkgtJ38fAYL5oNM",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:15",
       "evento": "Tennis Us Open The Insider 2026",
-      "competizione": "Grande Slam - US Open",
+      "competizione": "Tennis - US Open",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Guida TV Sky Sport Uno",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGMvgl4QUD_-nVoVSQBCv_FbUx_SyFjtlPmJOCL32dIlLTiGgXIJq0pcXae_drqic4nshhzY8dgKI2t5xORLYwwqWyqOPQ3RQwuaFx-TPbDAZQ9iDZ2Z6tfS-45xE0Ho1EHAZDGjr0JQYdcpVMruIf21FshR0Xj0b3XhgDxkgtJ38fAYL5oNM",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:30",
-      "evento": "MotoGP 2026 - GP Aragona: Gara",
-      "competizione": "MotoGP",
+      "orario": "13:45",
+      "evento": "Tennis Us Open The Insider 2026",
+      "competizione": "Tennis - US Open",
       "canale": "Sky Sport Uno",
-      "note": "Replica della gara di domenica 30 agosto.",
-      "fonte": "Guida TV Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGMvgl4QUD_-nVoVSQBCv_FbUx_SyFjtlPmJOCL32dIlLTiGgXIJq0pcXae_drqic4nshhzY8dgKI2t5xORLYwwqWyqOPQ3RQwuaFx-TPbDAZQ9iDZ2Z6tfS-45xE0Ho1EHAZDGjr0JQYdcpVMruIf21FshR0Xj0b3XhgDxkgtJ38fAYL5oNM",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Coppa Italia: Parma-Cremonese",
+      "competizione": "Coppa Italia - Sedicesimi di finale",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEafxUC4POoyXxiWaAIYOdTrE8mVBXxj-zJRyNJBFYQo1vGCaxf5OKqvo3KTRGQ9E1t7P-3eOGrC2yjAO9ygZRv4pE9qv28ni7nonThV4ZNmtI5hgXYINcSjGI4MmgOEXJUx9XBBQuJjq8OX4wnSk6OKqKtZrqGIcoWe_U8jfhnP2Fj2ROy6-3ua5JhNih4yz4xbCnGDYZh3W5G",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Coppa Italia: Torino-Monza",
+      "competizione": "Coppa Italia - Sedicesimi di finale",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEafxUC4POoyXxiWaAIYOdTrE8mVBXxj-zJRyNJBFYQo1vGCaxf5OKqvo3KTRGQ9E1t7P-3eOGrC2yjAO9ygZRv4pE9qv28ni7nonThV4ZNmtI5hgXYINcSjGI4MmgOEXJUx9XBBQuJjq8OX4wnSk6OKqKtZrqGIcoWe_U8jfhnP2Fj2ROy6-3ua5JhNih4yz4xbCnGDYZh3W5G",
       "accuratezza_orario": "esatto"
     }
   ]
