@@ -1,67 +1,49 @@
 {
-  "last_updated": "2026-09-01T17:42:01.877459+02:00",
+  "last_updated": "2026-09-01T22:15:59.044056+02:00",
   "events": [
     {
       "orario": "18:00",
-      "evento": "Parma-Cremonese",
-      "competizione": "Coppa Italia - Sedicesimi di finale",
-      "canale": "Italia 1, Mediaset Infinity",
+      "evento": "Parma vs Cremonese",
+      "competizione": "Coppa Italia 2026-2027",
+      "canale": "Italia 1 HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs1N6sAOYxjTjW8tKRUFFNYPWLNm0RBcgKGVgwjFOO7GR2BD-9IjjgWwShKh6xeYBrql0-HuAWjaWsWzWH8WKpYL-rL0jAZNP9LaJBqQ3MNevnkaiLAz9NIWASiI9K8eQQ91ueydsvGL2qeamJMJPXZGYIuLmq98572qR7g_w76T1UV1oKgN4UfYyDgKHt7DdinFBPD8LruiEwdtO_vRW7mRK8WP7nzk3OJcFooWkkvDY=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0BLKocWMz7RYvLWXgsUlh3iz6VzcXujomtY9szq2XZCAKXX4c4CimciLwW1gG4sMQtNVTOJWMgQ-SFKM8SK9r2cd4hnTz_qpiBc3ePq2eVWHO6x_Mf4WtqqTJchhaqwzzxmEjYlK9dRcDFeeYqCyxFwkvjmg_3p9XzYCg43bF60XMVKY-Abc1SVKMpWT4zFYpUDsLIxd29zeqSzGXeTpeFV1WUEXnE7CFxaIA0NaErutOrDvDx-ibbf73ZjLFIIHL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlPK9eZ7H3O8To4KCAIhwNzU0chN4_TPBz8QA16ju_cbDhgfmgvyXQoRJXURbrrOM9mAzZBwBoHKIZWbBDfON2Ph7U2VIB8NsU6zbok6zSF7Hl9ErpBiPtNKRyNYoUQpmTvC-p-IhsOP0IYL6QJZEUJeqH00hh0G7NsrxVFSBTo0IXnko7T75Jb6flFupBe0ttYmw0t9F3Anye1NCfIppeCJ2BNbXS-1QEVJIX7YWsdtRqrlAlek6Te_MljlLWBRE_WOhB, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJn4s54nJfg1zZjInl2tGDKoRx_NUkMxan-9I1TGBD_6jN7vhSnb0oD4MgpQRnZ22T7fFvI_FmlyittZktdx4M53KNlB_Ydyy4-bSDsw5a0xtZNeZKpXN51VhL2X6_NIZOdjeq7aRAl_gMmLmMPkyKM-uDJSh4ETof7Xl_EZrvC9UvxXtKeOp08LTL0HhZbirmCZDsXRilY0z5nHAln47718r84hfdufWfzUC3a1hPOdEKg==",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "US Open 2026 - Primo turno: Flavio Cobolli",
+      "competizione": "US Open 2026",
+      "canale": "SuperTennis HD, Sky Sport (Uno, Tennis, Max, 251, 252, 253, 254)",
+      "note": "Match all'interno della programmazione del primo turno con tennisti italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0BLKocWMz7RYvLWXgsUlh3iz6VzcXujomtY9szq2XZCAKXX4c4CimciLwW1gG4sMQtNVTOJWMgQ-SFKM8SK9r2cd4hnTz_qpiBc3ePq2eVWHO6x_Mf4WtqqTJchhaqwzzxmEjYlK9dRcDFeeYqCyxFwkvjmg_3p9XzYCg43bF60XMVKY-Abc1SVKMpWT4zFYpUDsLIxd29zeqSzGXeTpeFV1WUEXnE7CFxaIA0NaErutOrDvDx-ibbf73ZjLFIIHL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCEBRe-Jn0bbwPuPZJIlDLTJ9EQthEtA_NXJL3ESLhekWhgRQzbCCia-60QrP8p_OmGp6tfRfmHyv8NSZGhyJsRxlTMcjc-LST7a49TX1TUPHwRmArN_BM-NIEEzfN_e_Pno5FLZRu2ljmCNv_hsp_RSwS__lnj27p5qsOxDiKwykOSmdKVBhfy39r8vQkB9069x81gbVh5P7VA3e1",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "US Open 2026 - Primo turno: Lorenzo Musetti",
+      "competizione": "US Open 2026",
+      "canale": "SuperTennis HD, Sky Sport (Uno, Tennis, Max, 251, 252, 253, 254)",
+      "note": "Match all'interno della programmazione del primo turno con tennisti italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0BLKocWMz7RYvLWXgsUlh3iz6VzcXujomtY9szq2XZCAKXX4c4CimciLwW1gG4sMQtNVTOJWMgQ-SFKM8SK9r2cd4hnTz_qpiBc3ePq2eVWHO6x_Mf4WtqqTJchhaqwzzxmEjYlK9dRcDFeeYqCyxFwkvjmg_3p9FzYCg43bF60XMVKY-Abc1SVKMpWT4zFYpUDsLIxd29zeqSzGXeTpeFV1WUEXnE7CFxaIA0NaErutOrDvDx-ibbf73ZjLFIIHL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCEBRe-Jn0bbwPuPZJIlDLTJ9EQthEtA_NXJL3ESLhekWhgRQzbCCia-60QrP8p_OmGp6tfRfmHyv8NSZGhyJsRxlTMcjc-LST7a49TX1TUPHwRmArN_BM-NIEEzfN_e_Pno5FLZRu2ljmCNv_hsp_RSwS__lnj27p5qsOxDiKwykOSmdKVBhfy39r8vQkB9069x81gbVh5P7VA3e1",
+      "accuratezza_orario": "tba"
     },
     {
       "orario": "21:00",
-      "evento": "Torino-Monza",
-      "competizione": "Coppa Italia - Sedicesimi di finale",
-      "canale": "Italia 1, Mediaset Infinity",
+      "evento": "Torino vs Monza",
+      "competizione": "Coppa Italia 2026-2027",
+      "canale": "Italia 1 HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs1N6sAOYxjTjW8tKRUFFNYPWLNm0RBcgKGVgwjFOO7GR2BD-9IjjgWwShKh6xeYBrql0-HuAWjaWsWzWH8WKpYL-rL0jAZNP9LaJBqQ3MNevnkaiLAz9NIWASiI9K8eQQ91ueydsvGL2qeamJMJPXZGYIuLmq98572qR7g_w76T1UV1oKgN4UfYyDgKHt7DdinFBPD8LruiEwdtO_vRW7mRK8WP7nzk3OJcFooWkkvDY=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0BLKocWMz7RYvLWXgsUlh3iz6VzcXujomtY9szq2XZCAKXX4c4CimciLwW1gG4sMQtNVTOJWMgQ-SFKM8SK9r2cd4hnTz_qpiBc3ePq2eVWHO6x_Mf4WtqqTJchhaqwzzxmEjYlK9dRcDFeeYqCyxFwkvjmg_3p9FzYCg43bF60XMVKY-Abc1SVKMpWT4zFYpUDsLIxd29zeqSzGXeTpeFV1WUEXnE7CFxaIA0NaErutOrDvDx-ibbf73ZjLFIIHL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlPK9eZ7H3O8To4KCAIhwNzU0chN4_TPBz8QA16ju_cbDhgfmgvyXQoRJXURbrrOM9mAzZBwBoHKIZWbBDfON2Ph7U2VIB8NsU6zbok6zSF7Hl9ErpBiPtNKRyNYoUQpmTvC-p-IhsOP0IYL6QJZEUJeqH00hh0G7NsrxVFSBTo0IXnko7T75Jb6flFupBe0ttYmw0t9F3Anye1NCfIppeCJ2BNbXS-1QEVJIX7YWsdtRqrlAlek6Te_MljlLWBRE_WOhB, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJn4s54nJfg1zZjInl2tGDKoRx_NUkMxan-9I1TGBD_6jN7vhSnb0oD4MgpQRnZ22T7fFvI_FmlyittZktdx4M53KNlB_Ydyy4-bSDsw5a0xtZNeZKpXN51VhL2X6_NIZOdjeq7aRAl_gMmLmMPkyKM-uDJSh4ETof7Xl_EZrvC9UvxXtKeOp08LTL0HhZbirmCZDsXRilY0z5nHAln47718r84hfdufWfzUC3a1hPOdEKg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Mattia Bellucci – Z. Piros",
-      "competizione": "Tennis - US Open 2026, Primo turno",
-      "canale": "Sky Sport, SuperTennis, NOW, SuperTennix",
-      "note": "Primo match sul Court 17. Orario convertito da EDT (New York) a CET (Italia).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqnp8To0G-D9k-sQmHE2Keq8BgB1-MahANqmTIiOnEbajCA1OclntBa8Rldb43c51ulS2lQfsF3k95o84cttTRvSCmXZTrE22v8mrU7hLBG6MbsA4RNKltYR5yW2VB2qRuN8158oTVyz7-vWOvPbSgbt6kOhfz95OSS9BPA87i-e-gAq-VqhhijbF2p2JLvPBx9jdyBJqRJoV9r5gWwF8j85zMAE1QUXDRSweAmmnvVuHKw=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "F. Comesana – Flavio Cobolli",
-      "competizione": "Tennis - US Open 2026, Primo turno",
-      "canale": "Sky Sport, SuperTennis, NOW, SuperTennix",
-      "note": "Primo match sul Louis Armstrong Stadium. Orario convertito da EDT (New York) a CET (Italia).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqnp8To0G-D9k-sQmHE2Keq8BgB1-MahANqmTIiOnEbajCA1OclntBa8Rldb43c51ulS2lQfsF3k95o84cttTRvSCmXZTrE22v8mrU7hLBG6MbsA4RNKltYR5yW2VB2qRuN8158oTVyz7-vWOvPbSgbt6kOhfz95OSS9BPA87i-e-gAq-VqhhijbF2p2JLvPBx9jdyBJyRJoV9r5gWwF8j85zMAE1QUXDRSweAmmnvVuHKw=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:30*",
-      "evento": "A. Fery – Lorenzo Musetti",
-      "competizione": "Tennis - US Open 2026, Primo turno",
-      "canale": "Sky Sport, SuperTennis, NOW, SuperTennix",
-      "note": "Secondo match sul Grandstand. Orario stimato, convertito da EDT (New York) a CET (Italia).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqnp8To0G-D9k-sQmHE2Keq8BgB1-MahANqmTIiOnEbajCA1OclntBa8Rldb43c51ulS2lQfsF3k95o84cttTRvSCmXZTrE22v8mrU7hLBG6MbsA4RNKltYR5yW2VB2qRuN8158oTVyz7-vWOvPbSgbt6kOhfz95OSS9BPA87i-e-gAq-VqhhijbF2p2JLvPBx9jdyBJyRJoV9r5gWwF8j85zMAE1QUXDRSweAmmnvVuHKw=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "00:00*",
-      "evento": "J. de Jong – Francesco Passaro",
-      "competizione": "Tennis - US Open 2026, Primo turno",
-      "canale": "Sky Sport, SuperTennis, NOW, SuperTennix",
-      "note": "Secondo match sul Court 17 (02/09). Orario stimato, convertito da EDT (New York) a CET (Italia).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqnp8To0G-D9k-sQmHE2Keq8BgB1-MahANqmTIiOnEbajCA1OclntBa8Rldb43c51ulS2lQfsF3k95o84cttTRvSCmXZTrE22v8mrU7hLBG6MbsA4RNKltYR5yW2VB2qRuN8158oTVyz7-vWOvPbSgbt6kOhfz95OSS9BPA87i-e-gAq-VqhhijbF2p2JLvPBx9jdyBJyRJoV9r5gWwF8j85zMAE1QUXDRSweAmmnvVuHKw=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "04:00*",
-      "evento": "Andrea Guerrieri – A. de Minaur",
-      "competizione": "Tennis - US Open 2026, Primo turno",
-      "canale": "Sky Sport, SuperTennis, NOW, SuperTennix",
-      "note": "Quarto match sul Grandstand (02/09). Orario stimato, convertito da EDT (New York) a CET (Italia).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqnp8To0G-D9k-sQmHE2Keq8BgB1-MahANqmTIiOnEbajCA1OclntBa8Rldb43c51ulS2lQfsF3k95o84cttTRvSCmXZTrE22v8mrU7hLBG6MbsA4RNKltYR5yW2VB2qRuN8158oTVyz7-vWOvPbSgbt6kOhfz95OSS9BPA87i-e-gAq-VqhhijbF2p2JLvPBx9jdyBJyRJoV9r5gWwF8j85zMAE1QUXDRSweAmmnvVuHKw=",
+      "orario": "02:30",
+      "evento": "US Open 2026 - Primo turno: Lorenzo Sonego vs Alexander Zverev",
+      "competizione": "US Open 2026",
+      "canale": "SuperTennis HD, Sky Sport (Uno, Tennis, Max, 251, 252, 253, 254)",
+      "note": "Non prima delle 2:30 CET del 2 settembre. Chiude il programma sull'Arthur Ashe Stadium.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFklJOY31uvP9XUmd0FT6kBtmfMYqAwI9t3EgKuJ6qJm3edTWnls09yGlDcB2CBnhclGrh2HuK6SCOODActTIZpzuspOCj_N9PHHx5vdT330GccU8O_OPuWxh7tNXp5AXE96fmLa8s9KAC14B6QpvNyitxSkHjtpVaTwlCkDjh2wNSqL0_Lw7PmiqQbvtn7gazG7T3gxMMPUV3sZ5vyd0QMyO7Q2rT9UeiTmEfmLASWOA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCEBRe-Jn0bbwPuPZJIlDLTJ9EQthEtA_NXJL3ESLhekWhgRQzbCCia-60QrP8p_OmGp6tfRfmHyv8NSZGhyJsRxlTMcjc-LST7a49TX1TUPHwRmArN_BM-NIEEzfN_e_Pno5FLZRu2ljmCNv_hsp_RSwS__lnj27p5qsOxDiKwykOSmdKVBhfy39r8vQkB9069x81gbVh5P7VA3e1",
       "accuratezza_orario": "stimato"
     }
   ]
