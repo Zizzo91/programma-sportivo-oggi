@@ -1,4 +1,68 @@
 {
-  "last_updated": "2026-09-02T17:30:49.203466+02:00",
-  "events": []
+  "last_updated": "2026-09-02T22:13:50.322947+02:00",
+  "events": [
+    {
+      "orario": "15:00",
+      "evento": "Sassuolo-Frosinone",
+      "competizione": "Coppa Italia",
+      "canale": "Italia 1, Mediaset Infinity",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxCABIFi9Qg1ZgWiV28EkhUyxyjtAUS60W1_gnlemUBhtbClb6-reWlF5SEPi-O_06lqfgRROC1lMhhkQ4B9MUKiXOic5zaESjfRQI7ApfQQxydfcBb7U87oVeV7C7H5WE0FZeoADTayuWk9Nr7U7nND4jMF2mh-nWsvOe83i8FeBYwOXluKW1q7o-fjNkv6d0qyAzAOyUyuV__DS21v9ZUs6P7kjGNdEMaMW7RG-fcac",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Moto3 2026-GP Aragona: Gara (Replica)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara di Moto3 del Gran Premio d'Aragona.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf8ba87BKgBQLzPf2B4dQyxgzxunT62kgeUseWZzQpDbuobOK5jD6xjue2Y5l1372jCu_H8lPoEMOrruM2u-1gF-Iv751f8rlNkzi8Hb7X2V840i0ui1wWObHpFTSmCQOOuqUOsc07MISsBIdzUcYb0bjJj6myslrv17zdXIAYYQ",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "US Open 2026 - Jasmine Paolini vs Lucrezia Stefanini",
+      "competizione": "Tennis WTA",
+      "canale": "Sky Sport, SuperTennis TV",
+      "note": "Derby italiano del secondo turno del singolare femminile.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRrJ18r3-VzS_xk2KVCheMsIDAKwCWzC5DGnzERtfDY1HsgJq3k48g3FwqrokM65E80uKSvIwkuV-h6TW36ym15YqhEUN0ys0CBo2j6Ou_TQ2fvL9GeLlLPzSLafLMrPlFJWTTSA8BPE6gCOhc-5ZUMK_EeuHnW6At5H5_rwwqHjDqT7Pdp1qFSjNH91tnfMoQ6c7we4XPxtAyf0xSRuWr9CJosTiAUTDodH4z9C04kYVB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:45",
+      "evento": "Drive to Monza",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Programma di avvicinamento al Gran Premio d'Italia di Formula 1.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrPfJuUuS8uV3W1haFB-pJkQP8tmBIIf7UCLl8JICktMsY0nGccSnRAscJ_BMvaWU4YHYvRoGwwb4V_T5ERwAnykLjC0jpg82qoJNOKEQ5CDYo8-_RWL3fG7IWFVBPQ693GqJ_-GVudtbRfVN1y_J9ZrwSrJTaOnnfqlgXwPwXZnUlUew05A6T4j5Hs7Wg2w8qPc2DCzNh5gQWRGydyEkY4k0VRWp-LkKzReF_cTowWQznxadMsGwHV2gDFnsioWGIrVBOK2J9zf0lWg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Udinese-Venezia",
+      "competizione": "Coppa Italia",
+      "canale": "Italia 1, Mediaset Infinity",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF91LjV4CWXu6Wl94VB1WRxpILP50MV27CtLEMjWYCmtB8Q4c8m1w-Hjeet7-D9DMtVXeKOeqP4nqxFF1dcarrIDH-_iex0A777r6no8wfJVYHfEGHwgk7296QnSPsbgfQ-8PLY_Mxs-Pw0FySHO_qIVgRRJ5mkoS_5bhWYse6Z6_vjVoVtoQQ9aH00vIoa7MCXSkVxACM0OZZsUSMWYX0_Psa9CI8JtU6qY-yzHbWPbdVlqrmF",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Europei Femminili - Italia vs Svezia",
+      "competizione": "Pallavolo",
+      "canale": "Rai 2, Sky Sport Arena",
+      "note": "Quarto di finale con atlete della Numia Vero Volley Milano (Danesi, Egonu, Fersino) in campo per l'Italia.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR4Z59m4xzWrgEFXr4ltEuiKXdvy6REAGGeDN70Md5NR8pw7uHRXQxR-l4DedS-AzISWePzfwL-4JbnHqKATIaaWKQfDhnyudLhwLHO255mS3jklw-rjkgD1bT5dZTiXR3CNtW41wzBY2n_3t_z-hzfQJclIlM6wjLwPJX6UQXjxR9Ls7xfZgDPwc--rM=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:15*",
+      "evento": "US Open 2026 - Matteo Berrettini vs Mariano Navone",
+      "competizione": "Tennis ATP",
+      "canale": "Sky Sport, SuperTennis TV",
+      "note": "Match del secondo turno del singolare maschile. Orario stimato, è il quarto match sul Court 12 a partire dalle 17:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRrJ18r3-VzS_xk2KVCheMsIDAKwCWzC5DGnzERtfDY1HsgJq3k48g3FwqrokM65E80uKSvIwkuV-h6TW36ym15YqhEUN0ys0CBo2j6Ou_TQ2fvL9GeLlLPzSLafLMrPlFJWTTSA8BPE6gCOhc-5ZUMK_EeuHnW6At5H5_rwwqHjDqT7Pdp1qFSjNH91tnfMoQ6c7we4XPxtAyf0xSRuWr9CJosTiAUTDodH4z9C04kYVB",
+      "accuratezza_orario": "stimato"
+    }
+  ]
 }
