@@ -1,158 +1,59 @@
 {
-  "last_updated": "2026-09-03T03:54:09.413135+02:00",
+  "last_updated": "2026-09-03T17:24:18.715635+02:00",
   "events": [
     {
-      "orario": "00:10",
-      "evento": "Giochi del Mediterraneo Taranto 2026 - 13a giornata",
-      "competizione": "Giochi del Mediterraneo 2026",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJs4LzKkeXQ9NKvTXpGU7mKfGfL0ALFI0yG4B7CzLPlWqSsu_Tzz3cCGTk7fYJNWKztNE4gTt497wdN0xGGrQnv_d-ljdgSYI2tJ-NG9beg0inMEYYDz2jwLHEdNXzuhw3tos56zagHjLxYwEpG7NvOuAGqygeaUb32y3gIrDjat76TA0ohjZdBgys-A==",
+      "orario": "17:00",
+      "evento": "Luciano Darderi vs Dalibor Svrcina",
+      "competizione": "Tennis - US Open 2° Turno",
+      "canale": "SuperTennis, Sky Sport (vari canali)",
+      "note": "Match di singolare maschile. Luciano Darderi è un tennista italiano.",
+      "fonte": "LaPresse, OA Sport, Sky Sport, Virgilio Sport, SuperTennis",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "Grande Slam 2026 - US Open: 5a giornata",
-      "competizione": "Tennis - US Open 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Copertura live e/o highlights delle partite con possibili italiani in campo. Il programma si estende nella notte italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy0NPuBDEkmczvsy-ErhWOIQzThWbH6kZiRJ4iRqldc3RWORmLCk8hbVbPDzi2n2HO4OLMCBQt5b_fFyGNhFCTuDXOXhZYJl2jY-yCPz0R_X8_q42J0Um8joSisLzkmrNKesh_ANViWxcpsHxLRb33OugDP-lfWst",
+      "orario": "18:00",
+      "evento": "Palermo vs Mantova",
+      "competizione": "Calcio - Coppa Italia",
+      "canale": "Italia 1, Mediaset Infinity",
+      "note": "Ottavi di finale di Coppa Italia.",
+      "fonte": "Libero",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00*",
-      "evento": "US Open 2026: partite con italiani (Darderi, Musetti, Cobolli)",
-      "competizione": "Tennis - US Open 2026",
-      "canale": "SuperTennis, Sky Sport",
-      "note": "Orario stimato per la sessione serale e i match che potrebbero estendersi nella notte italiana. Dipende dai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu7gk8WpB9O54x8Bdo55JIyVvh2zk-FNQd1Ym0fOK8GHX1mN8LKW_vHeCXM240peKlJobbhWeVuOoNTGAbDBpxeCSy0uTVz8SEcxbi-gTtl1-5kwx17nRhkSJHsC_FQvACvpidVvmtYUNXGlKLs6D8xcev9VBj3MtmQbuMkmmnEkblQFxhK9JY3WMNg3SCX7oyr_Z2RsmY-ZMjO0ipzQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDcvcw0PM1LxU1uZjQTf2mJgCAuNUTHKLaq1KR_go8RTWAC9GbqwdcoiSdhX7sYC2A-jmAy3fpqNprBfCrTGyNqaLcaysE1Fs7nbJrINDYRHwV0znVZ00hS9SSOs5mIjjHUpcriDuKeh2wAy0nWmYjmAKKrJdEg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRHJKhacOJ32_BHsKJeBj1FC1q0eOI1fGhl7J_HDdfhiFGyQpUzd57LGtIjzyVgh_wkhSYpaHxhNFXZ8FUiyZ164E4G93RDiVThOj8517jQr3V9LksprMy_YVnuBb0-0RXWR-xnr8sOM8mlEoryerAsYMH9AHengcQqmnxyHpVIi6rK2gf310zcsUU-4QOS0CNflcGd4nauv8nh21YqxyFk_uZsKZnRosBwTTYYIU-eZmj9vgoZX0qWOWmzsTjfsLbDVsnydoL-TqURA==",
+      "orario": "19:00*",
+      "evento": "Lorenzo Musetti vs Dane Sweeny",
+      "competizione": "Tennis - US Open 2° Turno",
+      "canale": "SuperTennis, Sky Sport (vari canali)",
+      "note": "Match di singolare maschile. Lorenzo Musetti è un tennista italiano. Orario stimato (secondo match sul campo 17).",
+      "fonte": "LaPresse, OA Sport, Sky Sport, Virgilio Sport, SuperTennis",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "06:00",
-      "evento": "European Aquatics Parigi 2026 - Nuoto: Semifinali e finali",
-      "competizione": "Nuoto",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJs4LzKkeXQ9NKvTXpGU7mKfGfL0ALFI0yG4B7CzLPlWqSsu_Tzz3cCGTk7fYJNWKztNE4gTt497wdN0xGGrQnv_d-ljdgSYI2tJ-NG9beg0inMEYYDz2jwLHEdNXzuhw3tos56zagHjLxYwEpG7NvOuAGqygeaUb32y3gIrDjat76TA0ohjZdBgys-A==",
+      "orario": "20:00",
+      "evento": "Diriyah vs Al Qadisiyah",
+      "competizione": "Calcio - Campionato Saudita",
+      "canale": "Sportitalia",
+      "note": "Partita della quinta giornata della Saudi Pro League.",
+      "fonte": "Stasera in TV, Libero",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Tennis Us Open The Insider 2026",
-      "competizione": "Tennis - US Open 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Rubrica di approfondimento e highlights sull'US Open.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy0NPuBDEkmczvsy-ErhWOIQzThWbH6kZiRJ4iRqldc3RWORmLCk8hbVbPDzi2n2HO4OLMCBQt5b_fFyGNhFCTuDXOXhZYJl2jY-yCPz0R_X8_q42J0Um8joSisLzkmrNKesh_ANViWxcpsHxLRb33OugDP-lfWst",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:30",
-      "evento": "Atletica: Mezza maratona maschile e femminile",
-      "competizione": "Giochi del Mediterraneo Taranto 2026",
-      "canale": "Rai Sport HD",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGriHUeEkc-pTkc6CI6LXe42OcGYhJHG6B_E_0nTmdkh4ztpAbu9yG3sgVDh2c4594rJZ7lyUJ_JDdm0OiIaQLZlcAXdCW4uHSreEfC_7YsY4LL7VNvhTdoOMeVXbKTKe90UoaIy7qqXaPy8XfZU3y2czJlnWPE6e79xh11twUZk8MBKemvovn5C0JYJgdVMaK7Dz9r762ROW7YcBddKhXs7JUhmQ7557NM9mVHaCLVeAod_WBN8XCNj9NDhLnA3Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "Pallanuoto: Finale 7° posto",
-      "competizione": "Giochi del Mediterraneo Taranto 2026",
-      "canale": "Rai Sport HD",
-      "note": "All'interno del blocco di copertura mattutina dei Giochi del Mediterraneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGriHUeEkc-pTkc6CI6LXe42OcGYhJHG6B_E_0nTmdkh4ztpAbu9yG3sgVDh2c4594rJZ7lyUJ_JDdm0OiIaQLZlcAXdCW4uHSreEfC_7YsY4LL7VNvhTdoOMeVXbKTKe90UoaIy7qqXaPy8XfZU3y2czJlnWPE6e79xh11twUZk8MBKemvovn5C0JYJgdVMaK7Dz9r762ROW7YcBddKhXs7JUhmQ7557NM9mVHaCLVeAod_WBN8XCNj9NDhLnA3Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Pallanuoto: Finale 5° posto",
-      "competizione": "Giochi del Mediterraneo Taranto 2026",
-      "canale": "Rai Sport HD",
-      "note": "All'interno del blocco di copertura mattutina dei Giochi del Mediterraneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGriHUeEkc-pTkc6CI6LXe42OcGYhJHG6B_E_0nTmdkh4ztpAbu9yG3sgVDh2c4594rJZ7lyUJ_JDdm0OiIaQLZlcAXdCW4uHSreEfC_7YsY4LL7VNvhTdoOMeVXbKTKe90UoaIy7qqXaPy8XfZU3y2czJlnWPE6e79xh11twUZk8MBKemvovn5C0JYJgdVMaK7Dz9r762ROW7YcBddKhXs7JUhmQ7557NM9mVHaCLVeAod_WBN8XCNj9NDhLnA3Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Nuoto Artistico: Duetto Misto Tecnico Finale",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVaRDp_mJYXU-Scu5CH8szan4Dd0y-tCE-1WZ2AVxzfuhQnbbDR0OaGjtfDFuXQHFVl3Wauz0KDNBxjZPdepPVRfA9GdGYFDZbKvt0DrjIpvwO4RUTe7Ng28kBH57tJ7S4YiavTWuPfUcSMTPmtPWObYvB-I=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Pallanuoto: Finale 3° posto",
-      "competizione": "Giochi del Mediterraneo Taranto 2026",
-      "canale": "Rai Sport HD",
-      "note": "All'interno del blocco di copertura mattutina dei Giochi del Mediterraneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGriHUeEkc-pTkc6CI6LXe42OcGYhJHG6B_E_0nTmdkh4ztpAbu9yG3sgVDh2c4594rJZ7lyUJ_JDdm0OiIaQLZlcAXdCW4uHSreEfC_7YsY4LL7VNvhTdoOMeVXbKTKe90UoaIy7qqXaPy8XfZU3y2czJlnWPE6e79xh11twUZk8MBKemvovn5C0JYJgdVMaK7Dz9r762ROW7YcBddKhXs7JUhmQ7557NM9mVHaCLVeAod_WBN8XCNj9NDhLnA3Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Conferenza stampa piloti",
-      "competizione": "Formula 1 - GP d'Italia 2026 (Monza)",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Eventi pre-gara del Gran Premio d'Italia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKj-65mgnp8muMxeR1kas4Nzy11RUzaPh-nhXTtqGPdKA-bLvgvTnO7gR034Fwtleh0lNBHycCgV-xeYuB0KLodCRh6hEl68Wz5LA9YqpRXmaRBwZXwRjQ_e524L_B9tXV0MGlOuslHkq-j8wCF65O86jQ1z_VFKZwam0wergGHo94, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT42yW7LyGY4ScW_RDLn4NkHqcQ9P888MqcgrUmj0FCt7RJ7rzgNkQRNXN-ZRVYtwPPOPKSV-0ur9fTm7zwAtjQ0Ox3ov6TPOlWi_qU8XqAiThaAINYe_0TW_eooOKRFpXiwC8_P6PgQ_C_lRU_iQw7EKcn7zQx8E9Dj5x0WUFlTyZfTNnGeX_uS3QWRKiUyg8",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Pallanuoto: Finale",
-      "competizione": "Giochi del Mediterraneo Taranto 2026",
-      "canale": "Rai Sport HD",
-      "note": "All'interno del blocco di copertura mattutina dei Giochi del Mediterraneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGriHUeEkc-pTkc6CI6LXe42OcGYhJHG6B_E_0nTmdkh4ztpAbu9yG3sgVDh2c4594rJZ7lyUJ_JDdm0OiIaQLZlcAXdCW4uHSreEfC_7YsY4LL7VNvhTdoOMeVXbKTKe90UoaIy7qqXaPy8XfZU3y2czJlnWPE6e79xh11twUZk8MBKemvovn5C0JYJgdVMaK7Dz9r762ROW7YcBddKhXs7JUhmQ7557NM9mVHaCLVeAod_WBN8XCNj9NDhLnA3Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Tuffi: Women's 3m Springboard Synchro Final",
-      "competizione": "European Aquatics Parigi 2026",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVaRDp_mJYXU-Scu5CH8szan4Dd0y-tCE-1WZ2AVxzfuhQnbbDR0OaGjtfDFuXQHFVl3Wauz0KDNBxjZPdepPVRfA9GdGYFDZbKvt0DrjIpvwO4RUTe7Ng28kBH57tJ7S4YiavTWuPfUcSMTPmtPWObYvB-I=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:45",
-      "evento": "Tennis Us Open The Insider 2026",
-      "competizione": "Tennis - US Open 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Rubrica di approfondimento e highlights sull'US Open.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2smboYC24jrXjd7rD4jqohejTuGJ9RM-nVXT-0vz86wcMMGVXlD6bAOY3rUPKQQTjD286mRZYMdKc475bHbcmUOklvuelCSrOKDLP7i3OZby5DPol8QNy49QhrD6M3yFXtZx2dOuIxgMslb5b8lZNjZJwc2N_uGw8JbS3gIrDjat76TA0ohjZdBgys-A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:45",
-      "evento": "Paddock Live Pit Walk",
-      "competizione": "Formula 1 - GP d'Italia 2026 (Monza)",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
-      "note": "Eventi pre-gara del Gran Premio d'Italia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKj-65mgnp8muMxeR1kas4Nzy11RUzaPh-nhXTtqGPdKA-bLvgvTnO7gR034Fwtleh0lNBHycCgV-xeYuB0KLodCRh6hEl68Wz5LA9YqpRXmaRBwZXwRjQ_e524L_B9tXV0MGlOuslHkq-j8wCF65O86jQ1z_VFKZwam0wergGHo94",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:40-21:50",
-      "evento": "Giochi del Mediterraneo Taranto 2026 - 13a giornata",
-      "competizione": "Giochi del Mediterraneo 2026",
-      "canale": "Rai Sport HD",
-      "note": "Include la Cerimonia di Chiusura dei Giochi del Mediterraneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGriHUeEkc-pTkc6CI6LXe42OcGYhJHG6B_E_0nTmdkh4ztpAbu9yG3sgVDh2c4594rJZ7lyUJ_JDdm0OiIaQLZlcAXdCW4uHSreEfC_7YsY4LL7VNvhTdoOMeVXbKTKe90UoaIy7qqXaPy8XfZU3y2czJlnWPE6e79xh11twUZk8MBKemvovn5C0JYJgdVMaK7Dz9r762ROW7YcBddKhXs7JUhmQ7557NM9mVHaCLVeAod_WBN8XCNj9NDhLnA3Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJs4LzKkeXQ9NKvTXpGU7mKfGfL0ALFI0yG4B7CzLPlWqSsu_Tzz3cCGTk7fYJNWKztNE4gTt497wdN0xGGrQnv_d-ljdgSYI2tJ-NG9beg0inMEYYDz2jwLHEdNXzuhw3tos56zagHjLxYwEpG7NvOuAGqygeaUb32y3gIrDjat76TA0ohjZdBgys-A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:53",
-      "evento": "Coppa Italia: Cagliari vs Hellas Verona",
+      "orario": "21:00",
+      "evento": "Cagliari vs Hellas Verona",
       "competizione": "Calcio - Coppa Italia",
-      "canale": "Italia 1",
-      "note": "Sedicesimi di Finale della Coppa Italia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwRoUJf5yGYI_asWqkMNOE8zr4hLlgEydLnzhevgkereFMsZvN7SVZVAlmf6afQl1yIWUtLC9pr2Ru4HY-YDWdafH10sdL1n0L9x90OJjAvUaV2tI-8Ip_swFXYHnXuxoQ_8LyoW9XOQATTRqe79Bh3frHPBaTVOKsBbQsNbHxhkAyDKLQcQcbJYPcJyf5-IShtuwl1TsaFzCv6kQs5CsEFwL4uaNvmChAfkJOuAYJmi78cyQ2STXN_uGn431i0RMAoqd-DBRVjYS_gW6-Vhyj6GyGgNtPegI6Yg8Rfk0sL38m",
+      "canale": "Italia 1, Mediaset Infinity",
+      "note": "Ottavi di finale di Coppa Italia.",
+      "fonte": "Libero",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00*",
+      "evento": "Flavio Cobolli vs Tristan Schoolkate",
+      "competizione": "Tennis - US Open 2° Turno",
+      "canale": "SuperTennis, Sky Sport (vari canali)",
+      "note": "Match di singolare maschile. Flavio Cobolli è un tennista italiano. Orario stimato (terzo match sul Grandstand).",
+      "fonte": "LaPresse, OA Sport, Sky Sport, Virgilio Sport, SuperTennis",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
