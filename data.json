@@ -1,68 +1,41 @@
 {
-  "last_updated": "2026-09-04T17:20:40.155674+02:00",
+  "last_updated": "2026-09-04T21:59:42.442961+02:00",
   "events": [
     {
       "orario": "12:30",
-      "evento": "Formula 1 - Gran Premio d'Italia: Prove Libere 1",
+      "evento": "Formula 1 - GP Italia: Prove Libere 1",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "alVolante.it, Sky Sport, Automoto.it, OA Sport, AutoScout24, FormulaPassion",
+      "fonte": "OA Sport [3], L'Automobile - ACI [8], Datasport.it [23], Sky Sport [4]",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Formula 1 - Gran Premio d'Italia: Prove Libere 2",
+      "evento": "Formula 1 - GP Italia: Prove Libere 2",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "alVolante.it, Sky Sport, Automoto.it, OA Sport, AutoScout24, FormulaPassion",
+      "fonte": "OA Sport [3], L'Automobile - ACI [8], Datasport.it [9, 23], Sky Sport [4]",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Tennis - US Open: Jasmine Paolini vs Sorana Cirstea (3° turno singolare femminile)",
-      "competizione": "US Open (WTA)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, SuperTennis HD, NOW",
-      "note": "Match di 3° turno singolare femminile.",
-      "fonte": "OA Sport, Sky Sport, Spazio Tennis",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30*",
-      "evento": "Tennis - US Open: Simone Bolelli/Andrea Vavassori vs Halys/Herbert (1° turno doppio maschile)",
-      "competizione": "US Open (ATP)",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Orario stimato, non prima delle 14:30 locali a New York. Match di 1° turno doppio maschile.",
-      "fonte": "Sky Sport",
+      "evento": "Tennis - US Open 2026: 6a giornata",
+      "competizione": "ATP/WTA US Open",
+      "canale": "Sky Sport Tennis, Sky Sport Max, Sky Sport 1, SuperTennis",
+      "note": "Include match con giocatori italiani come Jasmine Paolini, Simone Bolelli/Andrea Vavassori, Sara Errani, Matteo Arnaldi. L'orario specifico dei singoli match è da considerarsi stimato, poiché dipende dall'andamento della giornata di gioco.",
+      "fonte": "Datasport.it [13], Ubitennis [10], sport2u.tv [15]",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "22:40",
-      "evento": "Calcio - Friday Night",
-      "competizione": "Approfondimento Serie A",
-      "canale": "Sky Sport",
-      "note": "Analisi e commenti sulla Serie A.",
-      "fonte": "Sky Sport",
+      "orario": "20:45",
+      "evento": "Calcio - Genoa vs Como",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky)",
+      "note": "",
+      "fonte": "DAZN [31, 38], Sky Sport [37], Libero [35]",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00*",
-      "evento": "Tennis - US Open: Matteo Arnaldi/Jan-Lennard Struff (1° turno doppio maschile)",
-      "competizione": "US Open (ATP)",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Orario stimato, nel tardo pomeriggio locale a New York. Match di 1° turno doppio maschile.",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Tennis - US Open: Sara Errani/Lilli Tagger (1° turno doppio femminile)",
-      "competizione": "US Open (WTA)",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "A seguire del match Bolelli/Vavassori sul Campo 12. Match di 1° turno doppio femminile.",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "tba"
     }
   ]
 }
