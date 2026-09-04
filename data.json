@@ -1,59 +1,41 @@
 {
-  "last_updated": "2026-09-03T17:24:18.715635+02:00",
+  "last_updated": "2026-09-04T03:48:09.667720+02:00",
   "events": [
     {
+      "orario": "13:30",
+      "evento": "Formula 1 - Gran Premio d'Italia 2026: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW TV",
+      "note": "",
+      "fonte": "alVolante.it, Virgilio, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "17:00",
-      "evento": "Luciano Darderi vs Dalibor Svrcina",
-      "competizione": "Tennis - US Open 2° Turno",
-      "canale": "SuperTennis, Sky Sport (vari canali)",
-      "note": "Match di singolare maschile. Luciano Darderi è un tennista italiano.",
-      "fonte": "LaPresse, OA Sport, Sky Sport, Virgilio Sport, SuperTennis",
+      "evento": "Formula 1 - Gran Premio d'Italia 2026: Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW TV",
+      "note": "",
+      "fonte": "alVolante.it, Virgilio",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Palermo vs Mantova",
-      "competizione": "Calcio - Coppa Italia",
-      "canale": "Italia 1, Mediaset Infinity",
-      "note": "Ottavi di finale di Coppa Italia.",
-      "fonte": "Libero",
+      "orario": "17:00",
+      "evento": "Tennis - US Open 2026: Jasmine Paolini (ITA) vs Sorana Cirstea (ROU)",
+      "competizione": "US Open (Grande Slam)",
+      "canale": "SuperTennis, Sky Sport, SuperTenniX, NOW Tv, Sky Go",
+      "note": "Match di terzo turno singolare femminile.",
+      "fonte": "SuperTennis, Olympics.com, Ubitennis",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00*",
-      "evento": "Lorenzo Musetti vs Dane Sweeny",
-      "competizione": "Tennis - US Open 2° Turno",
-      "canale": "SuperTennis, Sky Sport (vari canali)",
-      "note": "Match di singolare maschile. Lorenzo Musetti è un tennista italiano. Orario stimato (secondo match sul campo 17).",
-      "fonte": "LaPresse, OA Sport, Sky Sport, Virgilio Sport, SuperTennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Diriyah vs Al Qadisiyah",
-      "competizione": "Calcio - Campionato Saudita",
-      "canale": "Sportitalia",
-      "note": "Partita della quinta giornata della Saudi Pro League.",
-      "fonte": "Stasera in TV, Libero",
+      "orario": "20:45",
+      "evento": "Calcio - Genoa vs Como",
+      "competizione": "Serie A Enilive",
+      "canale": "DAZN, DAZN 1 (Sky canale 214)",
+      "note": "3ª giornata di Serie A.",
+      "fonte": "Goal.com Italia, Calcio in tv oggi, Sky Sport, Telefonino.net, DAZN, Programmi Sky",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Cagliari vs Hellas Verona",
-      "competizione": "Calcio - Coppa Italia",
-      "canale": "Italia 1, Mediaset Infinity",
-      "note": "Ottavi di finale di Coppa Italia.",
-      "fonte": "Libero",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00*",
-      "evento": "Flavio Cobolli vs Tristan Schoolkate",
-      "competizione": "Tennis - US Open 2° Turno",
-      "canale": "SuperTennis, Sky Sport (vari canali)",
-      "note": "Match di singolare maschile. Flavio Cobolli è un tennista italiano. Orario stimato (terzo match sul Grandstand).",
-      "fonte": "LaPresse, OA Sport, Sky Sport, Virgilio Sport, SuperTennis",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
