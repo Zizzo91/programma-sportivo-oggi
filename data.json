@@ -1,41 +1,95 @@
 {
-  "last_updated": "2026-09-04T03:48:09.667720+02:00",
+  "last_updated": "2026-09-04T12:06:10.900321+02:00",
   "events": [
     {
-      "orario": "13:30",
-      "evento": "Formula 1 - Gran Premio d'Italia 2026: Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, NOW TV",
+      "orario": "12:30",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1 - GP Italia 2026 (Monza)",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
       "note": "",
-      "fonte": "alVolante.it, Virgilio, Sky Sport",
+      "fonte": "OA Sport, Sky Sport, alVolante.it, Scuderia Fans",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:55",
+      "evento": "Qualifiche",
+      "competizione": "Formula 3 - GP Italia 2026 (Monza)",
+      "canale": "Sky Sport (canali Sky legati al F1 weekend)",
+      "note": "Parte del weekend di F1 a Monza",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:50",
+      "evento": "Qualifiche",
+      "competizione": "Formula 2 - GP Italia 2026 (Monza)",
+      "canale": "Sky Sport (canali Sky legati al F1 weekend)",
+      "note": "Parte del weekend di F1 a Monza",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1 - GP Italia 2026 (Monza)",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
+      "note": "",
+      "fonte": "OA Sport, Sky Sport, alVolante.it, Scuderia Fans",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Formula 1 - Gran Premio d'Italia 2026: Prove Libere 2",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, NOW TV",
-      "note": "",
-      "fonte": "alVolante.it, Virgilio",
+      "evento": "US Open: Paolini J. (ITA) vs Cirstea S. (ROU)",
+      "competizione": "Tennis WTA - US Open 2026",
+      "canale": "SuperTennis, ST+USOpen4, Sky Sport Uno (201), Sky Sport 253, SuperTenniX, NOW Tv, Sky Go, Sky Sport Tennis (203), Sky Sport Max (206), Sky Sport 251",
+      "note": "Match di 3° turno singolare femminile",
+      "fonte": "SuperTennis, Sky Sport, Ubitennis",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Tennis - US Open 2026: Jasmine Paolini (ITA) vs Sorana Cirstea (ROU)",
-      "competizione": "US Open (Grande Slam)",
-      "canale": "SuperTennis, Sky Sport, SuperTenniX, NOW Tv, Sky Go",
-      "note": "Match di terzo turno singolare femminile.",
-      "fonte": "SuperTennis, Olympics.com, Ubitennis",
+      "orario": "17:25",
+      "evento": "Prove Libere",
+      "competizione": "Porsche Supercup - GP Italia 2026 (Monza)",
+      "canale": "Sky Sport (canali Sky legati al F1 weekend)",
+      "note": "Parte del weekend di F1 a Monza",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30*",
+      "evento": "US Open: Arnaldi M. (ITA)/Struff J. (GER) vs Arneodo R. (MON)/Mannarino A. (FRA)",
+      "competizione": "Tennis ATP - US Open 2026",
+      "canale": "ST+, Sky Sport",
+      "note": "Primo turno doppio maschile, secondo match su Campo 7. Orario stimato basato sul programma.",
+      "fonte": "SuperTennis, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "US Open: Bolelli S./Vavassori A. (ITA) vs Halys Q./Herbert P. (FRA)",
+      "competizione": "Tennis ATP - US Open 2026",
+      "canale": "SuperTennis, ST+USOpen4, Sky Sport",
+      "note": "Primo turno doppio maschile, terzo match su Campo 12. Orario stimato basato sul programma.",
+      "fonte": "SuperTennis, Ubitennis",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Genoa vs Como",
-      "competizione": "Serie A Enilive",
-      "canale": "DAZN, DAZN 1 (Sky canale 214)",
-      "note": "3ª giornata di Serie A.",
-      "fonte": "Goal.com Italia, Calcio in tv oggi, Sky Sport, Telefonino.net, DAZN, Programmi Sky",
+      "evento": "Genoa-Como",
+      "competizione": "Calcio Serie A Enilive 2026/27",
+      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
+      "note": "Anticipo 3a giornata di Serie A",
+      "fonte": "DAZN, Libero, Calcio in tv oggi",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30*",
+      "evento": "US Open: Errani S. (ITA)/Tagger L. (AUT) vs Penickova A./Penickova K. (USA)",
+      "competizione": "Tennis WTA - US Open 2026",
+      "canale": "SuperTennis, ST+USOpen4, Sky Sport",
+      "note": "Primo turno doppio femminile, quarto match su Campo 12. Orario stimato basato sul programma.",
+      "fonte": "SuperTennis, Ubitennis",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
