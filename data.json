@@ -1,41 +1,86 @@
 {
-  "last_updated": "2026-09-04T21:59:42.442961+02:00",
+  "last_updated": "2026-09-05T03:48:40.542077+02:00",
   "events": [
     {
       "orario": "12:30",
-      "evento": "Formula 1 - GP Italia: Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "evento": "Formula 1 - Prove Libere 3",
+      "competizione": "GP d'Italia 2026 (Monza)",
+      "canale": "Sky Sport F1, NOW TV",
       "note": "",
-      "fonte": "OA Sport [3], L'Automobile - ACI [8], Datasport.it [23], Sky Sport [4]",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Fiorentina - Torino",
+      "competizione": "Serie A ENILIVE 2026/27",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calcio Magazine, Sky Sport, Goal.com Italia, DAZN, Lega Serie A",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Formula 1 - GP Italia: Prove Libere 2",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "OA Sport [3], L'Automobile - ACI [8], Datasport.it [9, 23], Sky Sport [4]",
+      "evento": "Formula 1 - Qualifiche",
+      "competizione": "GP d'Italia 2026 (Monza)",
+      "canale": "Sky Sport F1, NOW TV, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "L'Automobile - ACI, alVolante.it, OA Sport, sport2u.tv, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:00",
-      "evento": "Tennis - US Open 2026: 6a giornata",
-      "competizione": "ATP/WTA US Open",
-      "canale": "Sky Sport Tennis, Sky Sport Max, Sky Sport 1, SuperTennis",
-      "note": "Include match con giocatori italiani come Jasmine Paolini, Simone Bolelli/Andrea Vavassori, Sara Errani, Matteo Arnaldi. L'orario specifico dei singoli match è da considerarsi stimato, poiché dipende dall'andamento della giornata di gioco.",
-      "fonte": "Datasport.it [13], Ubitennis [10], sport2u.tv [15]",
+      "orario": "18:00",
+      "evento": "Inter - Napoli",
+      "competizione": "Serie A ENILIVE 2026/27",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calcio Magazine, Sky, Sky Sport, Goal.com Italia, DAZN, Lega Serie A",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30*",
+      "evento": "Tennis US Open (R3): Flavio Cobolli - Alexander Blockx",
+      "competizione": "US Open 2026",
+      "canale": "SuperTennis, Sky Sport, SuperTenniX, NOW TV, Sky Go",
+      "note": "Orario stimato (non prima delle 18:30 CET)",
+      "fonte": "Tennis ATP e WTA, Ubitennis, Ubitennis",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "Tennis US Open (R3): Luciano Darderi - Dane Sweeny",
+      "competizione": "US Open 2026",
+      "canale": "SuperTennis, Sky Sport, SuperTenniX, NOW TV, Sky Go",
+      "note": "Orario stimato (non prima delle 20:00 CET)",
+      "fonte": "Tennis ATP e WTA, Ubitennis, Ubitennis",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Genoa vs Como",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1 (Sky)",
+      "evento": "Roma - Atalanta",
+      "competizione": "Serie A ENILIVE 2026/27",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW",
       "note": "",
-      "fonte": "DAZN [31, 38], Sky Sport [37], Libero [35]",
+      "fonte": "Calcio Magazine, Sky Sport, Sky, Sky Sport, Inter Magazine, TUTTOmercatoWEB, Goal.com Italia, DAZN, Lega Serie A",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Sabato al 90°",
+      "competizione": "Rubrica Calcio",
+      "canale": "Rai 2",
+      "note": "Rubrica calcistica",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:30*",
+      "evento": "Tennis US Open (R1 Doppio Uomini): Simone Bolelli / Andrea Vavassori - Quentin Halys / Pierre-Hugues Herbert",
+      "competizione": "US Open 2026",
+      "canale": "SuperTennis, ST+USOpen4",
+      "note": "Orario stimato (non prima delle 23:30 CET)",
+      "fonte": "SuperTennis",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
