@@ -1,90 +1,63 @@
 {
-  "last_updated": "2026-09-05T16:08:32.113061+02:00",
+  "last_updated": "2026-09-05T21:40:10.356621+02:00",
   "events": [
     {
-      "orario": "09:25",
-      "evento": "F3 – Sprint Race",
-      "competizione": "Formula 3",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "12:30",
-      "evento": "F1 – Prove Libere 3",
+      "evento": "Formula 1: GP Italia, Prove Libere 3",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "OA Sport, Automoto.it, Sky Sport, AlVolante.it, Adnkronos",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:10",
-      "evento": "F2 – Sprint Race",
-      "competizione": "Formula 2",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Sky Sport",
+      "fonte": "Sky Sport, OA Sport, alVolante.it, FormulaPassion.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Fiorentina-Torino",
+      "evento": "Fiorentina - Torino",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN 1",
       "note": "",
-      "fonte": "HDblog.it, Libero, Sky Sport",
+      "fonte": "Sky Sport, HDblog.it, Goal.com, Libero Magazine, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "F1 – Qualifiche",
+      "evento": "Formula 1: GP Italia, Qualifiche",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
-      "note": "",
-      "fonte": "OA Sport, Automoto.it, Sky Sport, AlVolante.it, Fanpage, Adnkronos, Il Fatto Quotidiano, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "US Open (vari match)",
-      "competizione": "Grande Slam Tennis",
-      "canale": "SuperTennis, Sky Sport (Uno, Tennis, Max, 252, 253)",
-      "note": "Inizio copertura giornaliera",
-      "fonte": "OA Sport, CronacaPop, Sky Sport",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "Sky Sport, OA Sport, alVolante.it, FormulaPassion.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Inter-Napoli",
+      "evento": "Inter - Napoli",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN 1",
       "note": "",
-      "fonte": "HDblog.it, Libero, Sky Sport",
+      "fonte": "Sky Sport, HDblog.it, Goal.com, Libero Magazine, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30*",
-      "evento": "Tennis - Flavio Cobolli vs Alexander Blockx",
-      "competizione": "US Open",
-      "canale": "Sky Sport Tennis",
-      "note": "Match stimato, a seguire dopo l'incontro Potapova-Anisimova. Potrebbe essere trasmesso anche su SuperTennis.",
-      "fonte": "Sky Sport, Us Open 2026, oggi Cobolli e Darderi in campo per il terzo turno: orario e dove vederli in tv",
+      "orario": "18:10*",
+      "evento": "Tennis: US Open - Flavio Cobolli vs Alexander Blockx",
+      "competizione": "ATP US Open",
+      "canale": "Sky Sport Tennis, SuperTennis HD",
+      "note": "Terzo turno. Orario stimato, non prima delle 18:10 CET.",
+      "fonte": "Sky Sport, OA Sport, OglioPoNews, Quotidiano Nazionale",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "19:20",
-      "evento": "F1 – Replica Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "19:20*",
+      "evento": "Tennis: US Open - Luciano Darderi vs Dane Sweeny",
+      "competizione": "ATP US Open",
+      "canale": "Sky Sport Uno",
+      "note": "Terzo turno. Orario stimato, non prima delle 19:20 CET.",
+      "fonte": "Sky Sport, OA Sport, Quotidiano Nazionale",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "19:25",
-      "evento": "F1 – Replica Qualifiche",
+      "evento": "Formula 1: GP Italia, Qualifiche (Replica)",
       "competizione": "Formula 1",
       "canale": "TV8",
       "note": "",
@@ -92,76 +65,13 @@
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Al Itthiad - Al Nassr",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Programmi TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00*",
-      "evento": "Tennis - Luciano Darderi vs Dane Sweeny",
-      "competizione": "US Open",
-      "canale": "Sky Sport Uno, SuperTennis HD",
-      "note": "Match stimato, a seguire dopo il simulcast Diretta Tennis su Sky Sport Uno. Potrebbe essere trasmesso anche su SuperTennis.",
-      "fonte": "OA Sport, Sky Sport, Us Open 2026, oggi Cobolli e Darderi in campo per il terzo turno: orario e dove vederli in tv",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Diamond League (Finale)",
-      "competizione": "Atletica Leggera",
-      "canale": "Rai Sport, Sky Sport Arena",
-      "note": "Finali da Bruxelles",
-      "fonte": "Programmi TV, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "20:45",
-      "evento": "Roma-Atalanta",
+      "evento": "Roma - Atalanta",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio",
+      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN 1",
       "note": "",
-      "fonte": "HDblog.it, Libero, Sky Sport, CronacaPop",
+      "fonte": "Sky Sport, HDblog.it, Goal.com, Libero Magazine, OA Sport",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:20",
-      "evento": "F1 – Replica Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Campionato argentino: Independiente Rivadia-Racing",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Programmi TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Sabato al 90°",
-      "competizione": "Rubrica Calcio",
-      "canale": "Rai 2",
-      "note": "Con Alberto Rimedio, Barbara Pedrotti",
-      "fonte": "Programmi TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00*",
-      "evento": "US Open (sessione notturna, vari match)",
-      "competizione": "Grande Slam Tennis",
-      "canale": "SuperTennis, Sky Sport (Uno, Tennis, Max, 252, 253)",
-      "note": "Inizio sessione notturna di New York, ora italiana.",
-      "fonte": "CronacaPop, Sky Sport",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
