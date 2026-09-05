@@ -1,86 +1,158 @@
 {
-  "last_updated": "2026-09-05T03:48:40.542077+02:00",
+  "last_updated": "2026-09-05T11:36:06.337350+02:00",
   "events": [
     {
       "orario": "12:30",
-      "evento": "Formula 1 - Prove Libere 3",
-      "competizione": "GP d'Italia 2026 (Monza)",
-      "canale": "Sky Sport F1, NOW TV",
+      "evento": "F1 - Prove Libere 3",
+      "competizione": "GP Italia (Monza)",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "Sky Sport",
+      "fonte": "Automoto.it, OA Sport, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Calcio - Newcastle-Bournemouth",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Fiorentina - Torino",
-      "competizione": "Serie A ENILIVE 2026/27",
-      "canale": "DAZN",
+      "evento": "Calcio - Fiorentina-Torino",
+      "competizione": "Serie A",
+      "canale": "DAZN 1, DAZN",
       "note": "",
-      "fonte": "Calcio Magazine, Sky Sport, Goal.com Italia, DAZN, Lega Serie A",
+      "fonte": "OA Sport, Libero, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Formula 1 - Qualifiche",
-      "competizione": "GP d'Italia 2026 (Monza)",
-      "canale": "Sky Sport F1, NOW TV, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "L'Automobile - ACI, alVolante.it, OA Sport, sport2u.tv, Sky Sport",
+      "evento": "F1 - Qualifiche",
+      "competizione": "GP Italia (Monza)",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
+      "note": "",
+      "fonte": "Automoto.it, OA Sport, Sky Sport, alVolante.it, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
+      "orario": "16:00",
+      "evento": "Calcio - Manchester City-Coventry City",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "Tennis - Doppio Maschile US Open (Darderi/Kestelboim vs Cash/Glasspool)",
+      "competizione": "US Open - R64",
+      "canale": "Sky Sport Tennis (Diretta Tennis canale 206)",
+      "note": "5° match sul campo, orario stimato.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "Tennis - Doppio Femminile US Open (Errani/Tagger vs Dabrowski/Stefani)",
+      "competizione": "US Open - R32",
+      "canale": "Sky Sport Tennis (Diretta Tennis canale 206)",
+      "note": "4° match sul campo, orario stimato.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "18:00",
-      "evento": "Inter - Napoli",
-      "competizione": "Serie A ENILIVE 2026/27",
+      "evento": "Calcio - Inter-Napoli",
+      "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calcio Magazine, Sky, Sky Sport, Goal.com Italia, DAZN, Lega Serie A",
+      "fonte": "Il Faro online, Libero, Sky Sport, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Calcio - Schalke 04-Bayern Monaco",
+      "competizione": "Bundesliga",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30*",
-      "evento": "Tennis US Open (R3): Flavio Cobolli - Alexander Blockx",
-      "competizione": "US Open 2026",
-      "canale": "SuperTennis, Sky Sport, SuperTenniX, NOW TV, Sky Go",
-      "note": "Orario stimato (non prima delle 18:30 CET)",
-      "fonte": "Tennis ATP e WTA, Ubitennis, Ubitennis",
+      "evento": "Tennis - Singolare Maschile US Open (Flavio Cobolli vs Alexander Blockx)",
+      "competizione": "US Open - R3",
+      "canale": "Sky Sport Tennis",
+      "note": "Non prima di. 2° match sul campo Louis Armstrong",
+      "fonte": "Sky Sport, LiveTennis.it, Tennis ATP e WTA",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00*",
-      "evento": "Tennis US Open (R3): Luciano Darderi - Dane Sweeny",
-      "competizione": "US Open 2026",
-      "canale": "SuperTennis, Sky Sport, SuperTenniX, NOW TV, Sky Go",
-      "note": "Orario stimato (non prima delle 20:00 CET)",
-      "fonte": "Tennis ATP e WTA, Ubitennis, Ubitennis",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Roma - Atalanta",
-      "competizione": "Serie A ENILIVE 2026/27",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "Calcio Magazine, Sky Sport, Sky, Sky Sport, Inter Magazine, TUTTOmercatoWEB, Goal.com Italia, DAZN, Lega Serie A",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Sabato al 90°",
-      "competizione": "Rubrica Calcio",
-      "canale": "Rai 2",
-      "note": "Rubrica calcistica",
+      "orario": "20:00",
+      "evento": "Calcio - Al Itthiad - Al Nassr",
+      "competizione": "Campionato Saudita",
+      "canale": "Sportitalia",
+      "note": "Diretta",
       "fonte": "ProgrammiTV.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:30*",
-      "evento": "Tennis US Open (R1 Doppio Uomini): Simone Bolelli / Andrea Vavassori - Quentin Halys / Pierre-Hugues Herbert",
-      "competizione": "US Open 2026",
-      "canale": "SuperTennis, ST+USOpen4",
-      "note": "Orario stimato (non prima delle 23:30 CET)",
-      "fonte": "SuperTennis",
+      "orario": "20:00*",
+      "evento": "Tennis - Singolare Maschile US Open (Luciano Darderi vs Dane Sweeny)",
+      "competizione": "US Open - R3",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Non prima di. 3° match sul campo",
+      "fonte": "Sky Sport, LiveTennis.it, Tennis ATP e WTA",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Atletica - Diamond League",
+      "competizione": "Diamond League",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Roma-Atalanta",
+      "competizione": "Serie A",
+      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW, DAZN",
+      "note": "",
+      "fonte": "Il Faro online, Libero, Sky Sport, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Calcio - Independiente Rivadia-Racing",
+      "competizione": "Campionato Argentino",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Canoa/Canottaggio",
+      "competizione": "",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Baseball",
+      "competizione": "",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "ProgrammiTV.com",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
