@@ -1,77 +1,77 @@
 {
-  "last_updated": "2026-09-05T21:40:10.356621+02:00",
+  "last_updated": "2026-09-06T03:43:41.636344+02:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Formula 1: GP Italia, Prove Libere 3",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "Sky Sport, OA Sport, alVolante.it, FormulaPassion.it",
+      "orario": "15:00",
+      "evento": "Frosinone-Venezia",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "3ª giornata di Serie A",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi1UpU6u3tN1zsyuCzjXZZuwa_k6ON2bnGitfmKHBifyvxKxiZH89ULDBYlsH5lGMzbI-rdkhayD8XgMR_1Pe-EYhj8oDttgGL2qpU_tNMSfHf0RyQLczNnz0YQSaGRLDS_Q7TbJLjiyIRPUak51ABXArd",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Fiorentina - Torino",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "",
-      "fonte": "Sky Sport, HDblog.it, Goal.com, Libero Magazine, OA Sport",
+      "evento": "Parma-Monza",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "3ª giornata di Serie A",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi1UpU6u3tN1zsyuCzjXZZuwa_k6ON2bnGitfmKHBifyvxKxiZH89ULDBYlsH5lGMzbI-rdkhayD8XgMR_1Pe-EYhj8oDttgGL2qpU_tNMSfHf0RyQLczNnz0YQSaGRLDS_Q7TbJLjiyIRPUak51ABXArd",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "Formula 1: GP Italia, Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
-      "note": "Diretta anche in chiaro su TV8",
-      "fonte": "Sky Sport, OA Sport, alVolante.it, FormulaPassion.it",
+      "orario": "15:00",
+      "evento": "Reggina-Licata",
+      "competizione": "Calcio - Serie D",
+      "canale": "Canale TV Locale / Streaming",
+      "note": "1ª giornata di Serie D, esordio stagionale della Reggina",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMGnQoLu2FbR_k5fI5doXtelJ6yujEpLXUtx_me5RZK0O3F7o51YpsUcS6bQi3xKsdL_FvmyHJba5aSOtp-sSJDSIhZMcmFb4nWo2mf75hKlGVz4IK4E49iWrjjzmloouLKeCMH27gjeFP5waJ9jDTh8pjXUwCfdPfvqHfstVSESjq_YCmt7IZ-B-WuIo=",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Gara",
+      "competizione": "Formula 1 - GP Italia (Monza)",
+      "canale": "Sky Sport F1 HD, Sky Sport Uno, Sky Sport 4K, TV8",
+      "note": "Tredicesima gara del Mondiale 2026, in diretta su Sky e in chiaro su TV8",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqS5ubvA8lsGXbRrtUmo-OWrMDQvqmin4ok7ponaYZGKEyNPtcGNKQH9oe7tPIBRotUvMhGcKiWJCXxgzpeamV7zdPSVUhytpXPHokpbYNV4ZAai227KhEXgZFQLaE3TbhR_xzdXTrSwUdzRXJC2CdoYyQG_5buMXiqsRGI6dkl_EPAxc=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "Matteo Arnaldi / Jan-Lennard Struff vs Harri Heliovaara / Henry Patten",
+      "competizione": "Tennis - US Open (Doppio Maschile)",
+      "canale": "Sky Sport Uno, SuperTennis",
+      "note": "Match del secondo turno. Orario stimato come primo match sul Louis Armstrong Stadium (ora locale 11:00 AM)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELV0wlI_CYdIzQQUJgE7jJLnRF0l2NL8JiSJsbkltwHhKe6VSOCWlFKZh8yjCyF5lDyzZHPD-d9qkL-xsnB-ODwiA8kOBbbHbxQqmkT9HmYLJzEHaiYiLJYp7uKJpwCy_ci48x71TE7SahqLlhGDITKroYP41LMGMYAyxK-F4dt9yz899KbNX0SgaPQBlR3V3VftWWAd5J630W17MRnYP_Vz3A3RNBd-iBJA1BVJtA2d2-owbKXPHWU5dQ584=",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
-      "evento": "Inter - Napoli",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "",
-      "fonte": "Sky Sport, HDblog.it, Goal.com, Libero Magazine, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:10*",
-      "evento": "Tennis: US Open - Flavio Cobolli vs Alexander Blockx",
-      "competizione": "ATP US Open",
-      "canale": "Sky Sport Tennis, SuperTennis HD",
-      "note": "Terzo turno. Orario stimato, non prima delle 18:10 CET.",
-      "fonte": "Sky Sport, OA Sport, OglioPoNews, Quotidiano Nazionale",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:20*",
-      "evento": "Tennis: US Open - Luciano Darderi vs Dane Sweeny",
-      "competizione": "ATP US Open",
-      "canale": "Sky Sport Uno",
-      "note": "Terzo turno. Orario stimato, non prima delle 19:20 CET.",
-      "fonte": "Sky Sport, OA Sport, Quotidiano Nazionale",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:25",
-      "evento": "Formula 1: GP Italia, Qualifiche (Replica)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "OA Sport",
+      "evento": "Bologna-Sassuolo",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, Sky, NOW",
+      "note": "3ª giornata di Serie A",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi1UpU6u3tN1zsyuCzjXZZuwa_k6ON2bnGitfmKHBifyvxKxiZH89ULDBYlsH5lGMzbI-rdkhayD8XgMR_1Pe-EYhj8oDttgGL2qpU_tNMSfHf0RyQLczNnz0YQSaGRLDS_Q7TbJLjiyIRPUak51ABXArd",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Roma - Atalanta",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN 1",
-      "note": "",
-      "fonte": "Sky Sport, HDblog.it, Goal.com, Libero Magazine, OA Sport",
+      "evento": "Juventus-Milan",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "3ª giornata di Serie A",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi1UpU6u3tN1zsyuCzjXZZuwa_k6ON2bnGitfmKHBifyvxKxiZH89ULDBYlsH5lGMzbI-rdkhayD8XgMR_1Pe-EYhj8oDttgGL2qpU_tNMSfHf0RyQLczNnz0YQSaGRLDS_Q7TbJLjiyIRPUak51ABXArd",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Simone Bolelli / Andrea Vavassori vs Sander Gille / Sem Verbeek",
+      "competizione": "Tennis - US Open (Doppio Maschile)",
+      "canale": "Sky Sport Uno, SuperTennis",
+      "note": "Match del secondo turno. Orario non ancora definito.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELV0wlI_CYdIzQQUJgE7jJLnRF0l2NL8JiSJsbkltwHhKe6VSOCWlFKZh8yjCyF5lDyzZHPD-d9qkL-xsnB-ODwiA8kOBbbHbxQqmkT9HmYLJzEHaiYiLJYp7uKJpwCy_ci48x71TE7SahqLlhGDITKroYP41LMGMYAyxK-F4dt9yz899KbNX0SgaPQBlR3V3VftWWAd5J630W17MRnYP_Vz3A3RNBd-iBJA1BVJtA2d2-owbKXPHWU5dQ584=",
+      "accuratezza_orario": "tba"
     }
   ]
 }
