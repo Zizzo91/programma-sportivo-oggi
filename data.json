@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-06T16:32:50.203991+02:00",
+  "last_updated": "2026-09-06T21:42:55.980500+02:00",
   "events": [
     {
       "orario": "15:00",
       "evento": "Frosinone-Venezia",
       "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "3ª giornata",
-      "fonte": "https://sport.sky.it/calcio/serie-a/2026/09/03/calendario-serie-a-2026-2027-anticipi-posticipi-6-12-giornata, https://www.legaseriea.it/it/serie-a/calendario-e-risultati, https://www.virgilio.it/sport/articolo/sport-oggi-in-tv-la-programmazione-di-domenica-6-settembre-2026-finale-italia-turchia-litalbasket-femminile-sfida-gli-usa-699741004",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwTYcty9-vsWt2yb8DYrOEyUzaDp9QO-ynHWZA_NlSkf-re-FaTUlBZl9JWb75A0z28LM-HydqvJy-tCWZnsAQA3_qCDaVw_fQ6ATjyV7aMhvp0xHobfl1qxj5IHZYYkQdfNqS9Jevl6WswjxkfL-Qcw0J2xdszdt0oAqgOm3zXoS0CcKtA6AniD_OXrymV8yct5lM5mxNb5k_6JYdR-YQBhWeIQ7OOKlquG8=",
       "accuratezza_orario": "esatto"
     },
     {
@@ -15,108 +15,117 @@
       "evento": "Parma-Monza",
       "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "3ª giornata",
-      "fonte": "https://sport.sky.it/calcio/serie-a/2026/09/03/calendario-serie-a-2026-2027-anticipi-posticipi-6-12-giornata, https://www.legaseriea.it/it/serie-a/calendario-e-risultati, https://www.virgilio.it/sport/articolo/sport-oggi-in-tv-la-programmazione-di-domenica-6-settembre-2026-finale-italia-turchia-litalbasket-femminile-sfida-gli-usa-699741004",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwTYcty9-vsWt2yb8DYrOEyUzaDp9QO-ynHWZA_NlSkf-re-FaTUlBZl9JWb75A0z28LM-HydqvJy-tCWZnsAQA3_qCDaVw_fQ6ATjyV7aMhvp0xHobfl1qxj5IHZYYkQdfNqS9Jevl6WswjxkfL-Qcw0J2xdszdt0oAqgOm3zXoS0CcKtA6AniD_OXrymV8yct5lM5mxNb5k_6JYdR-YQBhWeIQ7OOKlquG8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Reggina-Licata",
-      "competizione": "Serie D (Girone I)",
-      "canale": "Reggina Channel (streaming)",
-      "note": "1ª giornata",
-      "fonte": "https://reggina.it/news/serie-d-girone-i-2026-2027-il-calendario-della-reggina/, https://www.calciomagazine.net/reggina-licata-diretta-live-e-risultato-in-tempo-reale-oggi-6-settembre-2026-476713, https://www.newsserieD.it/reggina-licata-la-diretta-della-partita",
+      "evento": "F1 - Gara Gran Premio d'Italia",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW, TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFthFQeGu0jIMBAFAzOhlbrxE0H6BJE0NQpsVIeTszNrzCM7y3n5jnJQ2z_pV76n90ecHSWimv18cEdotmz6jxD5dRg_5fb4Zi6G-OLciecEXE6IApn7X9TprS-sijto71gVW2AGXXIa2Abf3GuuLxbO41lspNOV9ly0QnDEUCe-sWI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqHjLvynONobOkYL9jSaJchNDG6jRNBo2XwrKsqqHTCvNxO_RSQJtRAoTDaMUxFX_Rvlt6GLHsxiCCspVLyZQoTIZoIH9qP-gHiTTEEAaQ2yM-YYQdrAKxKdeCm_ffXPIGm8paymaXEJen2ql_DQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Formula 1: Gara GP d'Italia",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1, Now TV, TV8",
-      "note": "Gran Premio d'Italia (Monza). Diretta",
-      "fonte": "https://www.formula1.com/en/racing/2026/Italy.html, https://www.formulapassion.it/f1/formula-1-calendario-orari-tv-sky-tv8-2026-724458, https://www.virgilio.it/sport/articolo/sport-oggi-in-tv-la-programmazione-di-domenica-6-settembre-2026-finale-italia-turchia-litalbasket-femminile-sfida-gli-usa-699741004",
+      "orario": "17:00",
+      "evento": "US Open - Doppio Maschile: Matteo Arnaldi / Jan-Lennard Struff vs Harri Heliovaara / Henry Patten",
+      "competizione": "Tennis - ATP US Open",
+      "canale": "Sky Sport, SuperTennis",
+      "note": "Ottavi di finale. Orario locale 11:00 AM.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Ci8AOMG0YbY5jKnzMvsW02l_6G26A92tU5U3eaYXKzp7WiDx6ho----tVOWT37c_6rL2yePZrywpbhnXyterKGosFB7vMoxxq0rJtzOrwYr83LLJVspHkOFDObVcCNsczQ7U3_0kLniYTVAsvmuUXzAgy1X3VVrdb11-DAGg-H6W3d4IVTzWYAbTtSej7F8goAY_9qqAJJsMd4OPnE2YLSNOtfRWlkfiCGeF0QIrl3_m8ueJpgyf_QOz9fI=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Bologna-Sassuolo",
       "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, Now TV, DAZN",
-      "note": "3ª giornata",
-      "fonte": "https://sport.sky.it/calcio/serie-a/2026/09/03/calendario-serie-a-2026-2027-anticipi-posticipi-6-12-giornata, https://www.legaseriea.it/it/serie-a/calendario-e-risultati, https://www.virgilio.it/sport/articolo/sport-oggi-in-tv-la-programmazione-di-domenica-6-settembre-2026-finale-italia-turchia-litalbasket-femminile-sfida-gli-usa-699741004, https://sport.sky.it/calcio/serie-a/2026/09/06/partite-serie-a-oggi-programmazione",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwTYcty9-vsWt2yb8DYrOEyUzaDp9QO-ynHWZA_NlSkf-re-FaTUlBZl9JWb75A0z28LM-HydqvJy-tCWZnsAQA3_qCDaVw_fQ6ATjyV7aMhvp0xHobfl1qxj5IHZYYkQdfNqS9Jevl6WswjxkfL-Qcw0J2xdszdt0oAqgOm3zXoS0CcKtA6AniD_OXrymV8yct5lM5mxNb5k_6JYdR-YQBhWeIQ7OOKlquG8=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00*",
-      "evento": "Formula 1: Gara GP d'Italia - Replica",
-      "competizione": "Campionato del Mondo F1 2026",
+      "orario": "19:40",
+      "evento": "F1 - Sintesi Gara Gran Premio d'Italia",
+      "competizione": "Formula 1",
       "canale": "Sky Sport F1",
-      "note": "Replica della gara di Monza",
-      "fonte": "https://www.formulapassion.it/f1/formula-1-calendario-orari-tv-sky-tv8-2026-724458",
-      "accuratezza_orario": "stimato"
+      "note": "Sintesi della gara di Monza.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqHjLvynONobOkYL9jSaJchNDG6jRNBo2XwrKsqqHTCvNxO_RSQJtRAoTDaMUxFX_Rvlt6GLHsxiCCspVLyZQoTIZoIH9qP-gHiTTEEAaQ2yM-YYQdrAKxKdeCm_ffXPIGm8paymaXEJen2ql_DQ==",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00",
-      "evento": "LIVE US Open (partite con italiani da definire)",
-      "competizione": "ATP/WTA US Open 2026",
-      "canale": "Supertennis, Sky Sport Tennis",
-      "note": "8ª giornata, inclusa la programmazione dei match con Luciano Darderi agli ottavi di finale. (Orario di inizio specifico del match di Darderi TBA all'interno di questa fascia oraria).",
-      "fonte": "https://www.oasport.it/2026/09/us-open-2026-oggi-in-tv-orari-6-settembre-ordine-di-gioco-streaming-italiani-in-campo/, https://www.programmitv.com/programmi-tv-supertennis-live-us-open-352227.html, https://www.virgilio.it/sport/articolo/sport-oggi-in-tv-la-programmazione-di-domenica-6-settembre-2026-finale-italia-turchia-litalbasket-femminile-sfida-gli-usa-699741004",
-      "accuratezza_orario": "stimato"
+      "evento": "Campionato argentino: Banfield-River Plate",
+      "competizione": "Calcio - Campionato argentino",
+      "canale": "Sportitalia",
+      "note": "Diretta.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOTWQMoL0l0kxXYMUTqy-gCIcliTb-yX2o5DvkFIgR1CVQHWo6KhhDlTTmVxPrv0RnzTMvbCPU_HwEwrDJJSXDNNGKk1oSxosJRQUcEcqdVqEkVuoLB-9VfJx6WVNeStd8iWfR_Q==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "LIVE Us Open",
+      "competizione": "Tennis - ATP/WTA US Open",
+      "canale": "SuperTennis",
+      "note": "Copertura live degli incontri degli US Open. Potrebbe includere partite con italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOTWQMoL0l0kxXYMUTqy-gCIcliTb-yX2o5DvkFIgR1CVQHWo6KhhDlTTmVxPrv0RnzTMvbCPU_HwEwrDJJSXDNNGKk1oSxosJRQUcEcqdVqEkVuoLB-9VfJx6WVNeStd8iWfR_Q==",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Juventus-Milan",
       "competizione": "Serie A",
       "canale": "DAZN",
-      "note": "3ª giornata",
-      "fonte": "https://sport.sky.it/calcio/serie-a/2026/09/03/calendario-serie-a-2026-2027-anticipi-posticipi-6-12-giornata, https://www.legaseriea.it/it/serie-a/calendario-e-risultati, https://abbonamenti.it/blog/calendario-serie-a-2026-2027-date-derby-big-match-e-soste/, https://www.virgilio.it/sport/articolo/sport-oggi-in-tv-la-programmazione-di-domenica-6-settembre-2026-finale-italia-turchia-litalbasket-femminile-sfida-gli-usa-699741004",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwTYcty9-vsWt2yb8DYrOEyUzaDp9QO-ynHWZA_NlSkf-re-FaTUlBZl9JWb75A0z28LM-HydqvJy-tCWZnsAQA3_qCDaVw_fQ6ATjyV7aMhvp0xHobfl1qxj5IHZYYkQdfNqS9Jevl6WswjxkfL-Qcw0J2xdszdt0oAqgOm3zXoS0CcKtA6AniD_OXrymV8yct5lM5mxNb5k_6JYdR-YQBhWeIQ7OOKlquG8=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00*",
-      "evento": "Formula 1: Gara GP d'Italia - Replica",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara di Monza",
-      "fonte": "https://www.formulapassion.it/f1/formula-1-calendario-orari-tv-sky-tv8-2026-724458",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "22:00*",
-      "evento": "Tennis: US Open - Ottavi di finale: Luciano Darderi vs Alexander Zverev",
-      "competizione": "ATP US Open 2026",
-      "canale": "Supertennis, Sky Sport Tennis",
-      "note": "Match valido per gli ottavi di finale, all'interno della programmazione live degli US Open. (Orario stimato, potrebbe variare)",
-      "fonte": "https://www.oasport.it/2026/09/us-open-2026-oggi-in-tv-orari-6-settembre-ordine-di-gioco-streaming-italiani-in-campo/",
-      "accuratezza_orario": "stimato"
+      "orario": "22:00",
+      "evento": "Campionato saudita: Al Ettifaq-Al Nassr",
+      "competizione": "Calcio - Campionato saudita",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOTWQMoL0l0kxXYMUTqy-gCIcliTb-yX2o5DvkFIgR1CVQHWo6KhhDlTTmVxPrv0RnzTMvbCPU_HwEwrDJJSXDNNGKk1oSxosJRQUcEcqdVqEkVuoLB-9VfJx6WVNeStd8iWfR_Q==",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "23:00",
-      "evento": "LIVE US Open (partite con italiani da definire)",
-      "competizione": "ATP/WTA US Open 2026",
-      "canale": "Supertennis, Sky Sport Tennis",
-      "note": "8ª giornata, inclusa la programmazione dei match con Luciano Darderi agli ottavi di finale. (Orario di inizio specifico del match di Darderi TBA all'interno di questa fascia oraria).",
-      "fonte": "https://www.oasport.it/2026/09/us-open-2026-oggi-in-tv-orari-6-settembre-ordine-di-gioco-streaming-italiani-in-campo/, https://www.programmitv.com/programmi-tv-supertennis-live-us-open-352227.html, https://www.virgilio.it/sport/articolo/sport-oggi-in-tv-la-programmazione-di-domenica-6-settembre-2026-finale-italia-turchia-litalbasket-femminile-sfida-gli-usa-699741004",
-      "accuratezza_orario": "stimato"
+      "evento": "LIVE Us Open",
+      "competizione": "Tennis - ATP/WTA US Open",
+      "canale": "SuperTennis",
+      "note": "Copertura live degli incontri degli US Open. Potrebbe includere partite con italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOTWQMoL0l0kxXYMUTqy-gCIcliTb-yX2o5DvkFIgR1CVQHWo6KhhDlTTmVxPrv0RnzTMvbCPU_HwEwrDJJSXDNNGKk1oSxosJRQUcEcqdVqEkVuoLB-9VfJx6WVNeStd8iWfR_Q==",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00",
-      "evento": "LIVE US Open (partite con italiani da definire)",
-      "competizione": "ATP/WTA US Open 2026",
-      "canale": "Supertennis, Sky Sport Tennis",
-      "note": "8ª giornata, inclusa la programmazione dei match con Luciano Darderi agli ottavi di finale. (Orario di inizio specifico del match di Darderi TBA all'interno di questa fascia oraria). Prosegue fino alle 06:00 del 07/09.",
-      "fonte": "https://www.programmitv.com/programmi-tv-supertennis-live-us-open-352227.html, https://www.virgilio.it/sport/articolo/sport-oggi-in-tv-la-programmazione-di-domenica-6-settembre-2026-finale-italia-turchia-litalbasket-femminile-sfida-gli-usa-699741004",
-      "accuratezza_orario": "stimato"
+      "orario": "23:30",
+      "evento": "River Plate - Velez Sarfield",
+      "competizione": "Calcio - Campionato argentino",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOTWQMoL0l0kxXYMUTqy-gCIcliTb-yX2o5DvkFIgR1CVQHWo6KhhDlTTmVxPrv0RnzTMvbCPU_HwEwrDJJSXDNNGKk1oSxosJRQUcEcqdVqEkVuoLB-9VfJx6WVNeStd8iWfR_Q==",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00*",
-      "evento": "Formula 1: Gara GP d'Italia - Replica notturna",
-      "competizione": "Campionato del Mondo F1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Replica notturna della gara di Monza (programmazione fino alle 06:00 del 07/09)",
-      "fonte": "https://www.formulapassion.it/f1/formula-1-calendario-orari-tv-sky-tv8-2026-724458",
-      "accuratezza_orario": "stimato"
+      "orario": "TBA",
+      "evento": "US Open - Doppio Maschile: Simone Bolelli / Andrea Vavassori vs Sander Gille / Sem Verbeek",
+      "competizione": "Tennis - ATP US Open",
+      "canale": "Sky Sport, SuperTennis",
+      "note": "Match di secondo turno. Orario da definire all'interno della programmazione live degli US Open.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Ci8AOMG0YbY5jKnzMvsW02l_6G26A92tU5U3eaYXKzp7WiDx6ho----tVOWT37c_6rL2yePZrywpbhnXyterKGosFB7vMoxxq0rJtzOrwYr83LLJVspHkOFDObVcCNsczQ7U3_0kLniYTVAszmuUXzAgy1X3VVrdb11-DAGg-H6W3d4IVTzWYAbTtSej7F8goAY_9qqAJJsMd4OPnE2YLSNOtfRWlkfiCGeF0QIrl3_m8ueJpgyf_QOz9fI=",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "00:15",
+      "evento": "Campionato argentino: River Plate-Independiente Rivadia",
+      "competizione": "Calcio - Campionato argentino",
+      "canale": "Sportitalia",
+      "note": "Notte tra il 6 e il 7 settembre.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-6laAO4ry-40N08A8_RYBqDOKCQtx5BADmlKvXZ18ZHodnuCH9hRLPRsLYmY92XuxTzyf7d-BTq8V1XUmRo3eQeiWhbyDcdzVUEGszgl2bz1TDov7o9gTt_Al1K1JoQrok-YvBcyXo-Ji_hrTx_EEBwdnILZ-Bs_wDaEQiLatLjR-zJvy84xVxanHd-DEbXCr34c7lmkL8MjfF6R-qT4JpfrgG_vI0c4murncHpoOQbV2DZE=",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
