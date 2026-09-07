@@ -1,32 +1,104 @@
 {
-  "last_updated": "2026-09-07T12:56:30.125116+02:00",
+  "last_updated": "2026-09-07T18:47:29.623823+02:00",
   "events": [
     {
       "orario": "18:30",
       "evento": "Cagliari-Lecce",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "canale": "DAZN 1",
       "note": "",
-      "fonte": "Corriere dello Sport, La Notizia, Calciomagazine, Sky Sport, Goal.com",
+      "fonte": "Libero, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Udinese-Lazio",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 252, Sky Sport 4K, NOW",
+      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN",
       "note": "",
-      "fonte": "Sky Sport, La Notizia, Calciomagazine, Goal.com",
+      "fonte": "Vertex AI Search, Libero, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:30*",
-      "evento": "US Open, Ottavi di finale: Luciano Darderi (ITA) vs Alexander Zverev (GER)",
-      "competizione": "Grande Slam - US Open",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Sport 1, SuperTennis",
-      "note": "Match non prima delle 02:30 del 8 settembre. Ultimo match sul campo Arthur Ashe.",
-      "fonte": "OA Sport, Sky Sport",
+      "orario": "20:45",
+      "evento": "Mondiali Germania 2026: Italia-Cina (femminile)",
+      "competizione": "Basket",
+      "canale": "Sky Sport Basket, Rai 2",
+      "note": "",
+      "fonte": "Vertex AI Search, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:30",
+      "evento": "UEFA Champions League Magazine",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "UEFA Champions League Magazine",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "ComingSoon.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:25",
+      "evento": "Sport Mediaset Monday Night",
+      "competizione": "Approfondimento Sportivo",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "Guida TV, Questa sera in tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:35",
+      "evento": "Mondiale Motocross 2026-GP Turchia: MX2 - gara 2",
+      "competizione": "Motocross MXGP",
+      "canale": "Rai Sport HD",
+      "note": "Replay/Differita",
+      "fonte": "Stasera in TV, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:55",
+      "evento": "E-Planet",
+      "competizione": "Programma Sportivo",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00*",
+      "evento": "US Open, Ottavi di finale: Luciano Darderi vs Alexander Zverev",
+      "competizione": "Tennis ATP",
+      "canale": "Sky Sport Tennis, Sky Sport 1, SuperTennis",
+      "note": "Secondo match della sessione notturna, orario stimato. Orario in CET. L'evento si svolge a New York, 6 ore indietro rispetto al CET.",
+      "fonte": "Vertex AI Search, OA Sport, Sky Sport, Questa sera in tv",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:25",
+      "evento": "Drive Up",
+      "competizione": "Programma Sportivo",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:35",
+      "evento": "Mondiale Motocross 2026-GP Turchia: MXGP - gara 2",
+      "competizione": "Motocross MXGP",
+      "canale": "Rai Sport HD",
+      "note": "Replay/Differita",
+      "fonte": "Stasera in TV, Guida TV",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
