@@ -1,104 +1,41 @@
 {
-  "last_updated": "2026-09-07T18:47:29.623823+02:00",
+  "last_updated": "2026-09-07T22:53:19.067814+02:00",
   "events": [
     {
       "orario": "18:30",
-      "evento": "Cagliari-Lecce",
+      "evento": "Cagliari vs Lecce",
       "competizione": "Serie A",
-      "canale": "DAZN 1",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Libero, Sky Sport",
+      "fonte": "Libero Magazine, Datasport.it, Sportitalia, Calciomagazine.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Udinese-Lazio",
+      "evento": "Udinese vs Lazio",
       "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, DAZN",
       "note": "",
-      "fonte": "Vertex AI Search, Libero, Sky Sport",
+      "fonte": "Sky Sport, Libero Magazine, Datasport.it, Sportitalia, Calciomagazine.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Mondiali Germania 2026: Italia-Cina (femminile)",
-      "competizione": "Basket",
-      "canale": "Sky Sport Basket, Rai 2",
-      "note": "",
-      "fonte": "Vertex AI Search, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:30",
-      "evento": "UEFA Champions League Magazine",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "UEFA Champions League Magazine",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "ComingSoon.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:25",
-      "evento": "Sport Mediaset Monday Night",
-      "competizione": "Approfondimento Sportivo",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "Guida TV, Questa sera in tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:35",
-      "evento": "Mondiale Motocross 2026-GP Turchia: MX2 - gara 2",
-      "competizione": "Motocross MXGP",
-      "canale": "Rai Sport HD",
-      "note": "Replay/Differita",
-      "fonte": "Stasera in TV, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:55",
-      "evento": "E-Planet",
-      "competizione": "Programma Sportivo",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "Guida TV",
+      "orario": "21:30",
+      "evento": "Gara MotoGP",
+      "competizione": "MotoGP - Gran Premio Monster Energy di Catalunya",
+      "canale": "TV8",
+      "note": "Differita",
+      "fonte": "TV8.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "01:00*",
-      "evento": "US Open, Ottavi di finale: Luciano Darderi vs Alexander Zverev",
-      "competizione": "Tennis ATP",
-      "canale": "Sky Sport Tennis, Sky Sport 1, SuperTennis",
-      "note": "Secondo match della sessione notturna, orario stimato. Orario in CET. L'evento si svolge a New York, 6 ore indietro rispetto al CET.",
-      "fonte": "Vertex AI Search, OA Sport, Sky Sport, Questa sera in tv",
+      "evento": "Alexander Zverev vs Luciano Darderi",
+      "competizione": "US Open (Ottavi di Finale)",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
+      "note": "Match di Luciano Darderi, secondo incontro della sessione serale sul campo principale",
+      "fonte": "LiveTennis.it, Sky Sport, Lottomatica.Sport, sport2u.tv",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "01:25",
-      "evento": "Drive Up",
-      "competizione": "Programma Sportivo",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:35",
-      "evento": "Mondiale Motocross 2026-GP Turchia: MXGP - gara 2",
-      "competizione": "Motocross MXGP",
-      "canale": "Rai Sport HD",
-      "note": "Replay/Differita",
-      "fonte": "Stasera in TV, Guida TV",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
