@@ -1,41 +1,32 @@
 {
-  "last_updated": "2026-09-07T22:53:19.067814+02:00",
+  "last_updated": "2026-09-08T03:51:30.951527+02:00",
   "events": [
     {
-      "orario": "18:30",
-      "evento": "Cagliari vs Lecce",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Libero Magazine, Datasport.it, Sportitalia, Calciomagazine.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Udinese vs Lazio",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 4K, DAZN",
-      "note": "",
-      "fonte": "Sky Sport, Libero Magazine, Datasport.it, Sportitalia, Calciomagazine.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP - Gran Premio Monster Energy di Catalunya",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "TV8.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00*",
-      "evento": "Alexander Zverev vs Luciano Darderi",
-      "competizione": "US Open (Ottavi di Finale)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
-      "note": "Match di Luciano Darderi, secondo incontro della sessione serale sul campo principale",
-      "fonte": "LiveTennis.it, Sky Sport, Lottomatica.Sport, sport2u.tv",
+      "orario": "02:30*",
+      "evento": "US Open - Ottavi di finale: Luciano Darderi vs Alexander Zverev",
+      "competizione": "Tennis - Grande Slam",
+      "canale": "SuperTennis, Sky Sport Tennis",
+      "note": "Orario stimato, il match è il secondo della sessione serale sull'Arthur Ashe Stadium e inizierà dopo l'incontro precedente. Diretta in chiaro su SuperTennis. Streaming su SuperTennis+, NOW, Sky Go.",
+      "fonte": "oasport.it, sky.it",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Mondiale Formula 1 2026 - GP Italia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara del Gran Premio d'Italia 2026.",
+      "fonte": "superguidatv.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Champions League - 1ª giornata: Real Madrid vs INTER",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport (es. Sky Sport Calcio, Sky Sport Uno, Sky Sport 252, Sky Sport 4K)",
+      "note": "Partita della fase a gironi. Disponibile anche in streaming su Sky Go e NOW.",
+      "fonte": "sky.it, fanpage.it",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
