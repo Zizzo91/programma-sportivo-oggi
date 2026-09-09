@@ -1,104 +1,23 @@
 {
-  "last_updated": "2026-09-08T22:25:47.517991+02:00",
+  "last_updated": "2026-09-09T03:57:23.565591+02:00",
   "events": [
     {
-      "orario": "16:00",
-      "evento": "Real Madrid U19 - Inter U19",
-      "competizione": "UEFA Youth League",
-      "canale": "Sky Sport 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY1D9lffUdrS0JawwZGVJNDJazjIzB7elJddneQxgwlFdX7jyHYsQh1Hfv6apDoABgFLqkoY8KsLzTKjJJqZxS-KXdDHqIL5b15nfR390N-n1W03o0KSbcjJDE4ippDHXblla8k3gHWvLIfZr1brC_velX9XL7a4Vdtn6gQZQx_9hinF2pkPoHMKzKR6VEp5z8HQt0OCz1-SzeEm0o8WRzAH3MOx9hFk1EwTZZxjHPgXC8Dg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKd1v39G8ORM_uQXqfKFL3jcEqpbr2ftWvAcoCYN4Ajl5OOioiiHzbpvKhDWxyDxkn9eS0bW3zwhZxMNIWLnCsbQu00PKQ106-_PcZJCUQnWa3PX7_F-dtw-L0b1UAaLT4XLZI-MehC4cSt_o17Te8YK31BBTvu6pKt7Mm-K4ZoYwI__d7yZ8fLgkENGo7A5ap0vFHpAjsVzDm6v0AD9aSIl7U7u8fUMNx7apY6O335-rqlxot5DLk9HAlr08G7DkTFbebVlrG6L5PeUGFThKVApPq6_2-2Y74kbdBExg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybepmU887jZwCgA1iYkm3XQ4xO9I4Na1nDaUYrreRJS4amqvohJ14E3hFrJ-e38l8ixA_xrHc9UDe4AqHSM2BGwRUlKGrNXsOjRzRa4_absLJivsvMPuQwwNQdkB7c_ecSuX7IFneN7ojPKMUoz0g3eSv5Qy_f6LrBZyk5pj5OtKKuYnlT-oulzMkmrhdcyFtgakG4vw7vvDcRYEtmfqTJew==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "AEK - LASK",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 254, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKd1v39G8ORM_uQXqfKFL3jcEqpbr2ftWvAcoCYN4Ajl5OOioiiHzbpvKhDWxyDxkn9eS0bW3zwhZxMNIWLnCsbQu00PKQ106-_PcZJCUQnWa3PX7_F-dtw-L0b1UAaLT4XLZI-MehC4cSt_o17Te8YK31BBTvu6pKt7Mm-K4ZoYwI__d7yZ8fLgkENGo7A5ap0vFHpAjsVzDm6v0AD9aSIl7U7u8fUMNx7apY6O335-rqlxot5DLk5aCa1MHbF7TZOG2OUVhwvSLejHLt3mqJF2HFIE951iE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybepmU887jZwCgA1iYkm3XQ4xO9I4Na1nDaUYrreRJS4amqvohJ14E3hFrJ-e38l8ixA_xrHc9UDe4AqHSM2BGwRUlKGrNXsOjRzRa4_absLJivsvMPuQwwNQdkB7c_ecSuX7IFneN7ojPKMUoz0g3eSv5Qy_f6LrBZyk5pj5OtKKuYnlT-oulzMkmrhdcyFtgakG4vw7vvDcRYEtmfqTJew==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Bruges - Aston Villa",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 253, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKd1v39G8ORM_uQXqfKFL3jcEqpbr2ftWvAcoCYN4Ajl5OOioiiHzbpvKhDWxyDxkn9eS0bW3zwhZxMNIWLnCsbQu00PKQ106-_PcJCUQnWa3PX7_F-dtw-L0b1UAaLT4XLZI-MehC4cSt_o17Te8YK31BBTvu6pKt7Mm-K4ZoYwI__d7yZ8fLgkENGo7A5ap0vFHpAjsVzDm6v0AD9aSIl7U7u8fUMNx7apY6O335-rqlxot5DLk9HAlr08G7DkTFbebVlrG6L5PeUGFThKVApPq6_2-2Y74kbdBExg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybepmU887jZwCgA1iYkm3XQ4xO9I4Na1nDaUYrreRJS4amqvohJ14E3hFrJ-e38l8ixA_xrHc9UDe4AqHSM2BGwRUlKGrNXsOjRzRa4_absLJivsvMPuQwwNQdkB7c_ecSuX7IFneN7ojPKMUoz0g3eSv5Qy_f6LrBZyk5pj5OtKKuYnlT-oulzMkmrhdcyFtgakG4vw7vvDcRYEtmfqTJew==",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
+      "evento": "Napoli - Arsenal",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKd1v39G8ORM_uQXqfKFL3jcEqpbr2ftWvAcoCYN4Ajl5OOioiiHzbpvKhDWxyDxkn9eS0bW3zwhZxMNIWLnCsbQu00PKQ106-_PcZJCUQnWa3PX7_F-dtw-L0b1UAaLT4XLZI-MehC4cSt_o17Te8YK31BBTvu6pKt7Mm-K4ZoYwI__d7yZ8fLgkENGo7A5ap0vFHpAjsVzDm6v0AD9aSIl7U7u8fUMNx7apY6O335-rqlxot5DLk9HAlr08G7DkTFbebVlrG6L5PeUGFThKVApPq6_2-2Y74kbdBExg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybepmU887jZwCgA1iYkm3XQ4xO9I4Na1nDaUYrreRJS4amqvohJ14E3hFrJ-e38l8ixA_xrHc9UDe4AqHSM2BGwRUlKGrNXsOjRzRa4_absLJivsvMPuQwwNQdkB7c_ecSuX7IFneN7ojPKMUoz0g3eSv5Qy_f6LrBZyk5pj5OtKKuYnlT-oulzMkmrhdcyFtgakG4vw7vvDcRYEtmfqTJew==",
+      "canale": "Amazon Prime Video",
+      "note": "Fase campionato",
+      "fonte": "Skuola.net, Sky Sport, Calcio e Finanza, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Real Madrid - Inter",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 252, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEISJZU-fZGa5uI9AbRUWe6ucGkk7YRi7OdQrPWuhem5wl5ZDwP8a5M6i2IwM2PjbC4eziMdM9I9j0qB98V6M7Bi3RppXcMz9Z1qvcpRPkb_tj2Jk6YbXnLPXTj34L5QF4MmILn-pvsbFgKKD8xAgZu9VXbyqNIAGLhBcWqqBag4yrC24EYxkFJ757WydMb3hXHAQ9b, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybepmU887jZwCgA1iYkm3XQ4xO9I4Na1nDaUYrreRJS4amqvohJ14E3hFrJ-e38l8ixA_xrHc9UDe4AqHSM2BGwRUlKGrNXsOjRzRa4_absLJivsvMPuQwwNQdkB7c_ecSuX7IFneN7ojPKMUoz0g3eSv5Qy_f6LrBZyk5pj5OtKKuYnlT-oulzMkmrhdcyFtgakG4vw7vvDcRYEtmfqTJew==",
+      "orario": "02:30",
+      "evento": "Mondiale Formula 1 2026 - GP Italia: Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara del 6 settembre",
+      "fonte": "Sport Mediaset - Guida TV",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Porto - Manchester City",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Calcio, Sky Sport 253, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY1D9lffUdrS0JawwZGVJNDJazjIzB7elJddneQxgwlFdX7jyHYsQh1Hfv6apDoABgFLqkoY8KsLzTKjJJqZxS-KXdDHqIL5b15nfR390N-n1W03o0KSbcjJDE4ippDHXblla8k3gHWvLIfZr1brC_velX9XL7a4Vdtn6gQZQx_9hinF2pkPoHMKzKR6VEp5z8HQt0OCz1-SzeEm0o8WRzAH3MOx9hFk1EwTZZxjHPgXC8Dg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybepmU887jZwCgA1iYkm3XQ4xO9I4Na1nDaUYrreRJS4amqvohJ14E3hFrJ-e38l8ixA_xrHc9UDe4AqHSM2BGwRUlKGrNXsOjRzRa4_absLJivsvMPuQwwNQdkB7c_ecSuX7IFneN7ojPKMUoz0g3eSv5Qy_f6LrBZyk5pj5OtKKuYnlT-oulzMkmrhdcyFtgakG4vw7vvDcRYEtmfqTJew==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Borussia Dortmund - Villarreal",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport 254, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybepmU887jZwCgA1iYkm3XQ4xO9I4Na1nDaUYrreRJS4amqvohJ14E3hFrJ-e38l8ixA_xrHc9UDe4AqHSM2BGwRUlKGrNXsOjRzRa4_absLJivsvMPuQwwNQdkB7c_ecSuX7IFneN7ojPKMUoz0g3eSv5Qy_f6LrBZyk5pj5OtKKuYnlT-oulzMkmrhdcyFtgakG4vw7vvDcRYEtmfqTJew==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZxvJnuQHfvz7o7QnX727UxBXUuojmybdBJkFYsaThccAeZwVzqMXIquiXqXrgE_6zkZ1q2J_G_ug-Ul8xvzY0FSziMKElJqcPodOnP9wA12oqZL15osTEXsFbDWw5RaYwSrWxP7gm98hTCJruoQTrPYMDFQ1EUayEkIZZsdFsibwFsLBVmV40DTvxRRTPbbQL0uXDgS9r6dRDfMo2gffCUbjxCili7LOai6jNhphfIyLCqVBgd11JueJmk9GHcpW5",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Lille - Betis",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport 255, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybepmU887jZwCgA1iYkm3XQ4xO9I4Na1nDaUYrreRJS4amqvohJ14E3hFrJ-e38l8ixA_xrHc9UDe4AqHSM2BGwRUlKGrNXsOjRzRa4_absLJivsvMPuQwwNQdkB7c_ecSuX7IFneN7ojPKMUoz0g3eSv5Qy_f6LrBZyk5pj5OtKKuYnlT-oulzMkmrhdcyFtgakG4vw7vvDcRYEtmfqTJew==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:30*",
-      "evento": "Bolelli/Vavassori - Krajicek/Mektic",
-      "competizione": "US Open (Doppio Maschile)",
-      "canale": "SuperTennis HD, Sky Sport Tennis, NOW, Sky Go",
-      "note": "Ottavi di finale. Orario stimato in base ai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEFETv1_FC4T5cQb-1kVpFkhRUNjvP5pbc2XA9RcQYlBAfolvbGoK1PQHNQbveknjTv_s0e1JsnulatrB6c2HxuUuLqsGzz16PAI7z2X7pY4GV6u5NGZlMgyFaEZzOM6sXv3eX5NHW5TI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzThk1MLs0A51EkmUQ2gOZNnmJQcf9lMD0SROIA6Vk_MEeKO6SssPQFiUK71XdfHZUIvDLHkS3F4vnD1Lk0hr4ch8RswWIJ_Ehkf_GD_VTC238lw2e2GxndxdYLl8Q78ru2nNBqCZu8Ralwg2vbWTciqiNvUEhXJamZy6-MNXHp5ebncy47VxlvEvh4s5GF_qZzrOtC9A9qoMyhdmSvg==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "02:30*",
-      "evento": "Luciano Darderi - Alexander Zverev",
-      "competizione": "US Open (Singolare Maschile)",
-      "canale": "SuperTennis HD, Sky Sport Tennis, NOW, Sky Go",
-      "note": "Ottavi di finale. Orario stimato in base ai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzThk1MLs0A51EkmUQ2gOZNnmJQcf9lMD0SROIA6Vk_MEeKO6SssPQFiUK71XdfHZUIvDLHkS3F4vnD1Lk0hr4ch8RswWIJ_Ehkf_GD_VTC238lw2e2GxndxdYLl8Q78ru2nNBqCZu8Ralwg2vbWTciqiNvUEhXJamZy6-MNXHp5ebncy47VxlvEvh4s5GF_qZzrOtC9A9qoMyhdmSvg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA2WxM-lgkrJ497uasse09Tfg7rnp5lZ-Lttmni72rWcGRAVgZGiWcwaQhjnvTRd8h-UEa3HNSLtqc6disRdSB1DOHXsmFlU3_ovzx_F5McVhd-WWrYHALh8eR-mdWibwueVnnc1ZdwRnpayq6ialynmByGjZNgfhykM1kOG7Avjo0aSeJ8PLXAlnA0niRNk9HD-y1wlB_w571aHhIE5hGIfaHXSwBySvWmUEMoQbPqJD-BdGL5E0_3dHgGTjjeQsayVj3mczU82g5HHwLjhtGMCz6rGFic-QDkhrGWGk4aFoZaQQjwa9b1J2-2nYleblzrvrRlfgrhxTz69WK5iyeiekQDcnM09cpnKu05NqDNw==",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
