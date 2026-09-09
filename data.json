@@ -1,22 +1,58 @@
 {
-  "last_updated": "2026-09-09T12:18:00.463907+02:00",
+  "last_updated": "2026-09-09T17:29:24.627634+02:00",
   "events": [
     {
-      "orario": "18:45",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
-      "note": "Inclusi collegamenti con partite con squadre italiane.",
-      "fonte": "Sky Sport, TuttoAtalanta.com",
+      "orario": "18:00",
+      "evento": "F1 GP Spagna - Gara (Differita)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Differita del Gran Premio di Spagna, weekend del MadRing",
+      "fonte": "https://automoto.it/formula1/gp-madrid-2026-f1-orari-tv-programmazione-sky-sport-e-tv8.html",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
+      "orario": "18:30",
+      "evento": "F1 GP Spagna - Qualifiche (Differita)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Differita delle Qualifiche del Gran Premio di Spagna, weekend del MadRing",
+      "fonte": "https://automoto.it/formula1/gp-madrid-2026-f1-orari-tv-programmazione-sky-sport-e-tv8.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Diretta Gol UEFA Champions League",
       "competizione": "UEFA Champions League",
       "canale": "Sky Sport Uno, Sky Sport 251, NOW",
-      "note": "Inclusi collegamenti con partite con squadre italiane.",
-      "fonte": "Sky Sport, TuttoAtalanta.com",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUcfEFao9VlvvylkLc73DoCvpvDcUs1OZn-ixw8I6jnWbN5UnYtYqxjjsylCONCWClQwOJrkQwgBUJ0volehm_KxFGwAFD1G4ZPfs9o-pQFT38wkyhRNiOkwBz5K7fxREypmRpwOg0bt6yY7N6Fiw4nd7wIBaFXWBv2fN5f23mJrtT_bOAa7La-nMWp3vym1HgTrKn2QrDoTSzrLRo7usCVohc2lwYLrZZ0iDaas1M3zskIXzT, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnheJk5sko9SOaaomXnqxxvooW4n5ZTpLL1Zqzb_emdnT8f46MrrpC--rsz6xVbs4PpS9aiJ3QMxzjp-R9l4Iz3L0b5yx5WJx2TM0IUTdAY5-ezqlCY2IMzuO-DzXam49_OPuLQaCnDYb4R5pU2lX_evcDgW5SLLX-kkMMobvuvFKKKBtg-A5IREWxfKONFfNVx84DYscyT7_R",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Barcellona-Feyenoord",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Sport 253, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUcfEFao9VlvvylkLc73DoCvpvDcUs1OZn-ixw8I6jnWbN5UnYtYqxjjsylCONCWClQwOJrkQwgBUJ0volehm_KxFGwAFD1G4ZPfs9o-pQFT38wkyhRNiOkwBz5K7fxREypmRpwOg0bt6yY7N6Fiw4nd7wIBaFXWBv2fN5f23mJrtT_bOAa7La-nMWp3vym1HgTrKn2QrDoTSzrLRo7usCVohc2lwYLrZZ0iDaas1M3zskIXzT, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHENwD8K4r9aN988B5FAZ4VRF8cuQgC2dFW7kaGQE8GDIW0HMgOkYA64YP8Jl58q3NBChclTuZytT2LplTOxsr7Qy4VwX8cqG4gDxaSM5R5Pl7K5SWHNM9O9wRvehyGZnwqhFM4-aSz4YifRXP5blvG-lRueDCwkU7t9BGfY3vGk4DUjyurYcviGNpFWBzyMJOo0s0Qk0RbDeVxJIZZOCpmgjNaTLZyVQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Stoccarda-Viking FK",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Mix, Sky Sport 254, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHENwD8K4r9aN988B5FAZ4VRF8cuQgC2dFW7kaGQE8GDIW0HMgOkYA64YP8Jl58q3NBChclTuZytT2LplTOxsr7Qy4VwX8cqG4gDxaSM5R5Pl7K5SWHNM9O9wRvehyGZnwqhFM4-aSz4YifRXP5blvG-lRueDCwkU7t9BGfY3vGk4DUjyurYcviGNpFWBzyMJOo0s0Qk0RbDeVxJIZZOCpmgjNaTLZyVQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Italia-Australia",
+      "competizione": "Mondiali Basket Femminile 2026",
+      "canale": "Sky Sport Basket, Rai 2",
+      "note": "Playoff Mondiali Germania 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0w-DQbiad9aSc7mzj1Scg819nP_BGkyT2rw4PvguanURcbThpiKvpfdnBvS-rWA1H5nsEU1andOn1Dufd8Ov87PAWuBFs8ohtd05cskrKAu_aEcjCX8357t5G78L909PRBwy2DDsr0neYWWmhBxzdlNY_uJAvDLNPESdhhoZlT5kgguJ4aCPJ00DJQ_dabjbN944vfJyq5AdDGGakfANZwXe_mzrDUc-sYJmTtBK2I3_bQgPyxOldBaNbOxTrQlijNyXZDtNg_0rBXXihjq7HY1RyqPnb8bSlM9g7q6Rbw6zdjj9Zug==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpMzt5u01nLA9b5QiOs8WrMMkMFUfFrEafM-hXuleUlDUX0-nW9zZLsJsgcTzPlo36R2avUbRGFDlj-WejX5ONLirif6Lw86JAj_RFG117jb4G32ATAlr7bfxXZ4eMCAAKFjoQV61fkS2SHhTdNweJ2TMeCcXg8VaHY3m8P_vJNFhYcdzbz3Emx-Muw5dR0tlri73LwDGQfy0glrtooGDYHeyvJk2RQhPesGlAMGq4KwEoA30wg1ex6v_AotlVW9srBck3S6r8U3llfQVmCsMaZPlmeg==",
       "accuratezza_orario": "esatto"
     },
     {
@@ -24,17 +60,53 @@
       "evento": "Napoli-Arsenal",
       "competizione": "UEFA Champions League",
       "canale": "Amazon Prime Video",
-      "note": "Squadra italiana partecipante: Napoli.",
-      "fonte": "Amazon Prime Video, Sky Sport, TuttoAtalanta.com, Libero Magazine, Open",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0w-DQbiad9aSc7mzj1Scg819nP_BGkyT2rw4PvguanURcbThpiKvpfdnBvS-rWA1H5nsEU1andOn1Dufd8Ov87PAWuBFs8ohtd05cskrKAu_aEcjCX8357t5G78L909PRBwy2DDsr0neYWWmhBxzdlNY_uJAvDLNPESdhhoZlT5kgguJ4aCPJ00DJQ_dabjbN944vfJyq5AdDGGakfANZwXe_mzrDUc-sYJmTtBK2I3_bQgPyxOldBaNbOxTrQlijNyXZDtNg_0rBXXihjq7HY1RyqPnb8bSlM9g7q6Rbw6zdjj9Zug==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUcfEFao9VlvvylkLc73DoCvpvDcUs1OZn-ixw8I6jnWbN5UnYtYqxjjsylCONCWClQwOJrkQwgBUJ0volehm_KxFGwAFD1G4ZPfs9o-pQFT38wkyhRNiOkwBz5K7fxREypmRpwOg0bt6yY7N6Fiw4nd7wIBaFXWBv2fN5f23mJrtT_bOAa7La-nMWp3vym1HgTrKn2QrDoTSzrLRo7usCVohc2lwYLrZZ0iDaas1M3zskIXzT, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwOa7oHD3xCoWGvK2VnbgyEk7Xn5Q4pJvgHEcwyP1wAJEvgRBEisXv2dwvILZ-IKKyT27ZRAJFYfgZ1K106a5G8UonWlvuLRnL2EUu2-ztt8WDVlzvGHHO6JYJ8AMTPL4cbwsF7LfZzbytxcpHWNwRFEhEXy-77OHl5l3_QAOPzat3O1lo0HrDkpsWmXaRWHKnQHIhgB7osm3YAu2UikGvvWAx11RZsF4sxbJlTcy_ZYI-xRJoZ2qxB0hqk-heXJbGKAM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnheJk5sko9SOaaomXnqxxvooW4n5ZTpLL1Zqzb_emdnT8f46MrrpC--rsz6xVbs4PpS9aiJ3QMxzjp-R9l4Iz3L0b5yx5WJx2TM0IUTdAY5-ezqlCY2IMzuO-DzXam49_OPuLQaCnDYb4R5pU2lX_evcDgW5SLLX-kkMMobvuvFKKKBtg-A5IREWxfKONFfNVx84DYscyT7_R, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWs6b6Bno9BnO7KrTSYdvNvYorcpBWK2Bjbs0odP4pQ8q_UH3jgJ7nqZMlB_q8VYz_En1VQ1Hh3kCLajkoG3t_HxDU29VVksAPFzh99k4i3RDPgoiKU3bt6nAPZZr11P8VZ7nRW1HjUF1JmPkNg-m1Ze4ff2aKa_Gimt66tUn09v24TeqqdxMydEVKVWgRZnBJCjQ3, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2VYNKfxZQwOe4xr61-SiobiTLenz8cVkrVJ01Jo-j_F7TFPKKntK0IlfslbeIuwJlX_GIptCUwIZC06w1eTFFC1-xkmtM9NTfF__FM3NN_CVSwd6XWvC-lOwfb4wPAz4VpyZh8JPdZONXbM1vsTq5ccQf4bBxAijFAe9TeAwLn4jX2-Fvh3cgu2Tnkw53Uq89ckdK0yje63kMrQtFQekiyzHQVngNtqn8dBft6LQdYlFDD9lfkKSDPbh4jTLv7Eu5kV_4wwNHUFMjYQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0okc2NirnH3JgBTZha1DWiooYbM2cNB7qCRFVNzKgLCwOjwn5TCOpCzxEn_zzjfjk_o7o6Q9wFXUdciLgkkobLiwVyGnWSHk1qME-W1us9aBvMbjQp12GmHMxwDXVjfKn19iPpIa-VZwbtWO9TRCQi0sWVAIlx3kwLEe7FhZtAsFESKaYtIkAU4MILqzJnKNMwXCmj44r_E9BZnbm3Xlekc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsyxwYIdzti5Yc2PClnJapzwVaxwtTZNe8luP2HgHkSjDPEK_6cApQSNKHNF3gzTonI8tYtEikodO9I7jOfiyZmnYls6FQRIbjrGx53YTOifwOts1b7w9dJrXRMgnkChaT5TSacqsCsIvtWLYNYRtSFMNt1ZPIwFsPrR0IDqmRaF_-Cw==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00* (10/09)",
+      "orario": "21:00",
+      "evento": "Liverpool-Atletico Madrid",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Calcio, TV8, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUcfEFao9VlvvylkLc73DoCvpvDcUs1OZn-ixw8I6jnWbN5UnYtYqxjjsylCONCWClQwOJrkQwgBUJ0volehm_KxFGwAFD1G4ZPfs9o-pQFT38wkyhRNiOkwBz5K7fxREypmRpwOg0bt6yY7N6Fiw4nd7wIBaFXWBv2fN5f23mJrtT_bOAa7La-nMWp3vym1HgTrKn2QrDoTSzrLRo7usCVohc2lwYLrZZ0iDaas1M3zskIXzT, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvfch-FkHMi4HqQj4nVGKys0HAc1YZ2SxOFmkW2YAj7lOnTrV7dz6JtjsX3l9xpFMlSCIikpw4beE429J5l0bKwFMkEQtcPc48U8CqWbd3H3Lm65TXfHJLPYIRydA6RX_zYEjapgmoDwxCafJUq-2K, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHENwD8K4r9aN988B5FAZ4VRF8cuQgC2dFW7kaGQE8GDIW0HMgOkYA64YP8Jl58q3NBChclTuZytT2LplTOxsr7Qy4VwX8cqG4gDxaSM5R5Pl7K5SWHNM9O9wRvehyGZnwqhFM4-aSz4YifRXP5blvG-lRueDCwkU7t9BGfY3vGk4DUjyurYcviGNpFWBzyMJOo0s0Qk0RbDeVxJIZZOCpmgjNaTLZyVQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgrg9-2Cr58lkYkhDdI2TI8eHF3s-V7izE7jprXozN5tNtR2bZiC-VoszXZk-vZYIVgYXis3FKNaSwec_-VvkJbPyz_AXAE5XnwrlPQvMhPHxPtEF1qFFAVrO3OfS9aJSjVzyWDeAxHvpcpEoZsdipoWYUzvon_Xu9DJ3hPpEgs23ejyfLLUO_mOtY6Zs=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "PSG-Slovan Bratislava",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Arena, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUcfEFao9VlvvylkLc73DoCvpvDcUs1OZn-ixw8I6jnWbN5UnYtYqxjjsylCONCWClQwOJrkQwgBUJ0volehm_KxFGwAFD1G4ZPfs9o-pQFT38wkyhRNiOkwBz5K7fxREypmRpwOg0bt6yY7N6Fiw4nd7wIBaFXWBv2fN5f23mJrtT_bOAa7La-nMWp3vym1HgTrKn2QrDoTSzrLRo7usCVohc2lwYLrZZ0iDaas1M3zskIXzT, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHENwD8K4r9aN988B5FAZ4VRF8cuQgC2dFW7kaGQE8GDIW0HMgOkYA64YP8Jl58q3NBChclTuZytT2LplTOxsr7Qy4VwX8cqG4gDxaSM5R5Pl7K5SWHNM9O9wRvehyGZnwqhFM4-aSz4YifRXP5blvG-lRueDCwkU7t9BGfY3vGk4DUjyurYcviGNpFWBzyMJOo0s0Qk0RbDeVxJIZZOCpmgjNaTLZyVQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0okc2NirnH3JgBTZha1DWiooYbM2cNB7qCRFVNzKgLCwOjwn5TCOpCzxEn_zzjfjk_o7o6Q9wFXUdciLgkkobLiwVyGnWSHk1qME-W1us9aBvMbjQp12GmHMxwDXVjfKn19iPpIa-VZwbtWO9TRCQi0sWVAIlx3kwLEe7FhZtAsFESKaYtIkAU4MILqzJnKNMwXCmj44r_E9BZnbm3Xlekc=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Diretta Gol UEFA Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUcfEFao9VlvvylkLc73DoCvpvDcUs1OZn-ixw8I6jnWbN5UnYtYqxjjsylCONCWClQwOJrkQwgBUJ0volehm_KxFGwAFD1G4ZPfs9o-pQFT38wkyhRNiOkwBz5K7fxREypmRpwOg0bt6yY7N6Fiw4nd7wIBaFXWBv2fN5f23mJrtT_bOAa7La-nMWp3vym1HgTrKn2QrDoTSzrLRo7usCVohc2lwYLrZZ0iDaas1M3zskIXzT, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnheJk5sko9SOaaomXnqxxvooW4n5ZTpLL1Zqzb_emdnT8f46MrrpC--rsz6xVbs4PpS9aiJ3QMxzjp-R9l4Iz3L0b5yx5WJx2TM0IUTdAY5-ezqlCY2IMzuO-DzXam49_OPuLQaCnDYb4R5pU2lX_evcDgW5SLLX-kkMMobvuvFKKKBtg-A5IREWxfKONFfNVx84DYscyT7_R",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00*",
+      "evento": "Italia-Nuova Zelanda",
+      "competizione": "Mondiali U20 Calcio Femminile 2026",
+      "canale": "Rai Sport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0w-DQbiad9aSc7mzj1Scg819nP_BGkyT2rw4PvguanURcbThpiKvpfdnBvS-rWA1H5nsEU1andOn1Dufd8Ov87PAWuBFs8ohtd05cskrKAu_aEcjCX8357t5G78L909PRBwy2DDsr0neYWWmhBxzdlNY_uJAvDLNPESdhhoZlT5kgguJ4aCPJ00DJQ_dabjbN944vfJyq5AdDGGakfANZwXe_mzrDUc-sYJmTtBK2I3_bQgPyxOldBaNbOxTrQlijNyXZDtNg_0rBXXihjq7HY1RyqPnb8bSlM9g7q6Rbw6zdjj9Zug==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9XIqLi5wIqmsLJ4fgqooCyv19f4_UjXOGVu4bxahgzPE_jYXFGT1Q48VEWGZcE4V4T39NknCa4lKekEAZORuykMTEl_xI3jpL6s9LgUbtfB1O40I7ms1c04UFrNQQZQMZmd1HnXkYnCEecew2Lav4X_wo4xmDmusAGkmQcJjn_5R9SKEiGw==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "03:10*",
       "evento": "Bolelli/Vavassori vs Harrison/Skupski",
-      "competizione": "US Open - Doppio Maschile Quarti di finale",
-      "canale": "Sky Sport Tennis, SuperTennis",
-      "note": "Partita con giocatori italiani. Orario stimato in quanto chiude il programma sull'Arthur Ashe.",
-      "fonte": "OA Sport, Sky Sport",
+      "competizione": "US Open 2026 - Quarto di finale doppio maschile",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Plus, NOW Extra Match",
+      "note": "Match degli unici azzurri rimasti in campo nel torneo di doppio maschile.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGjo0WaiSrGADgNDDXGF6Lof-qTnsNMS_FLq8khROGaot_cdYrcSjwayHyKvaS-dJVsoHyVIaziylYxa_wm_x_B9IsoWzzzrxwLBE0-WV2XmfffypQpI5N9xOJ61WtSdTktIjMteSumGM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQN5a8npLWNQxYEpDUf1T3WAKx3X6anA4dQxuxdsmQ-tWM8aOvAiquSIlW1sg5TqFvXAlSd-7rWpiUW93j8UrE2tnADvlocWeqpdAbswoLi8hQVQst_o7pVL10GmTx_PuT_Q4LLnRVWAWlDOWgSmXscaR0jpFKR5kT6rKRq2kQ_mUBOG-_9w==",
       "accuratezza_orario": "stimato"
     }
   ]
