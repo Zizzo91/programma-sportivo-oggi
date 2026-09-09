@@ -1,23 +1,41 @@
 {
-  "last_updated": "2026-09-09T03:57:23.565591+02:00",
+  "last_updated": "2026-09-09T12:18:00.463907+02:00",
   "events": [
     {
-      "orario": "21:00",
-      "evento": "Napoli - Arsenal",
+      "orario": "18:45",
+      "evento": "Diretta Gol Champions League",
       "competizione": "UEFA Champions League",
-      "canale": "Amazon Prime Video",
-      "note": "Fase campionato",
-      "fonte": "Skuola.net, Sky Sport, Calcio e Finanza, OA Sport",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "note": "Inclusi collegamenti con partite con squadre italiane.",
+      "fonte": "Sky Sport, TuttoAtalanta.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:30",
-      "evento": "Mondiale Formula 1 2026 - GP Italia: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara del 6 settembre",
-      "fonte": "Sport Mediaset - Guida TV",
+      "orario": "21:00",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "note": "Inclusi collegamenti con partite con squadre italiane.",
+      "fonte": "Sky Sport, TuttoAtalanta.com",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Napoli-Arsenal",
+      "competizione": "UEFA Champions League",
+      "canale": "Amazon Prime Video",
+      "note": "Squadra italiana partecipante: Napoli.",
+      "fonte": "Amazon Prime Video, Sky Sport, TuttoAtalanta.com, Libero Magazine, Open",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00* (10/09)",
+      "evento": "Bolelli/Vavassori vs Harrison/Skupski",
+      "competizione": "US Open - Doppio Maschile Quarti di finale",
+      "canale": "Sky Sport Tennis, SuperTennis",
+      "note": "Partita con giocatori italiani. Orario stimato in quanto chiude il programma sull'Arthur Ashe.",
+      "fonte": "OA Sport, Sky Sport",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
