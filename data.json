@@ -1,68 +1,50 @@
 {
-  "last_updated": "2026-09-10T17:24:16.304646+02:00",
+  "last_updated": "2026-09-10T22:10:55.957446+02:00",
   "events": [
     {
-      "orario": "14:15",
-      "evento": "MotoGP - Paddock Pass",
-      "competizione": "GP San Marino (Misano)",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "Pre-evento",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Formula 1 - Conferenza Stampa Piloti",
-      "competizione": "GP Spagna (Madrid)",
-      "canale": "Sky Sport F1, NOW",
-      "note": "Conferenza stampa pre-evento",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "MotoGP - Conferenza Stampa Piloti",
-      "competizione": "GP San Marino (Misano)",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "Conferenza stampa pre-evento",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Tennis - Secondo turno",
-      "competizione": "US Open",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Martina Trevisan (ITA) in singolare",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Calcio - Fase Campionato (1ª giornata)",
+      "orario": "00:00",
+      "evento": "Champions League Show - After Party",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 253, NOW",
-      "note": "Fenerbahce vs Roma",
-      "fonte": "Sky Sport, TUTTOmercatoWEB",
+      "canale": "Sky Sport Uno, Sky Sport 24",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Calcio - Fase Campionato (1ª giornata)",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport",
-      "note": "Como vs RB Lipsia",
-      "fonte": "Sky Sport, TUTTOmercatoWEB",
+      "orario": "00:30",
+      "evento": "Sky Tennis Show",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:30*",
-      "evento": "Tennis - Terzo turno",
-      "competizione": "US Open (Doppio maschile)",
-      "canale": "SuperTennis, SuperTennis+ (ST+UsOpen1)",
-      "note": "Simone Bolelli / Andrea Vavassori (ITA) in doppio (2° match, nella notte tra il 10 e l'11 settembre)",
-      "fonte": "SuperTennis",
+      "orario": "04:00*",
+      "evento": "US Open: Simone Bolelli / Andrea Vavassori vs Christian Harrison / Neal Skupski",
+      "competizione": "US Open (Tennis - Doppio Maschile)",
+      "canale": "Sky Sport (specifico non indicato, ma probabile Sky Sport Uno/Tennis)",
+      "note": "Quarti di finale. Orario 'non prima delle 04:00' CET. La partita coinvolge giocatori italiani.",
+      "fonte": "Italiani allo US Open 2026 oggi: le partite del 10 settembre · Tennis ATP e WTA",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Tennis Us Open The Insider 2026",
+      "competizione": "US Open (Tennis)",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Tennis Us Open The Insider 2026",
+      "competizione": "US Open (Tennis)",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
