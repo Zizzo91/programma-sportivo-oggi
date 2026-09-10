@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-09-10T12:11:28.023413+02:00",
+  "last_updated": "2026-09-10T17:24:16.304646+02:00",
   "events": [
     {
-      "orario": "00:30*",
-      "evento": "Bolelli/Vavassori vs Harrison/Skupski",
-      "competizione": "Tennis - US Open 2026 (Quarti di finale doppio maschile)",
-      "canale": "Sky Sport Tennis, NOW, Supertennis",
-      "note": "Match degli italiani; orario stimato in quanto 'a seguire' un altro incontro",
-      "fonte": "https://www.oasport.it/2026/09/dove-vedere-in-tv-bolellivavassori-harrison-skupski-us-open-2026-orario-canale-streaming/, https://sport.sky.it/tennis/us-open/2026/09/10/us-open-2026-programma-orari-tv-sky, https://www.questaseratv.it/programmi-tv-supertennis-10-settembre-2026.html",
-      "accuratezza_orario": "stimato"
+      "orario": "14:15",
+      "evento": "MotoGP - Paddock Pass",
+      "competizione": "GP San Marino (Misano)",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "Pre-evento",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:30",
-      "evento": "Conferenza stampa piloti",
-      "competizione": "Formula 1 - GP Spagna 2026 (Madrid)",
+      "evento": "Formula 1 - Conferenza Stampa Piloti",
+      "competizione": "GP Spagna (Madrid)",
       "canale": "Sky Sport F1, NOW",
-      "note": "",
-      "fonte": "https://sport.sky.it/formula-1/2026/09/10/f1-gp-madrid-2026-orari-tv-sky",
+      "note": "Conferenza stampa pre-evento",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Conferenza stampa piloti",
-      "competizione": "MotoGP - GP San Marino 2026 (Misano)",
+      "evento": "MotoGP - Conferenza Stampa Piloti",
+      "competizione": "GP San Marino (Misano)",
       "canale": "Sky Sport MotoGP, NOW",
-      "note": "",
-      "fonte": "https://www.motograndprix.it/2026/09/07/motogp-orari-tv-sky-e-tv8-del-gp-di-misano-2026/, https://sport.sky.it/motogp/2026/09/09/motogp-misano-orari-tv-gara-san-marino-2026",
+      "note": "Conferenza stampa pre-evento",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Tennis - Secondo turno",
+      "competizione": "US Open",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Martina Trevisan (ITA) in singolare",
+      "fonte": "LiveTennis.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
-      "evento": "Fenerbahçe-Roma",
-      "competizione": "Calcio - UEFA Champions League 2026/2027",
+      "evento": "Calcio - Fase Campionato (1ª giornata)",
+      "competizione": "UEFA Champions League",
       "canale": "Sky Sport Uno, Sky Sport 253, NOW",
-      "note": "",
-      "fonte": "https://sport.sky.it/calcio/champions-league/2026/09/10/champions-league-calendario-orari-partite-oggi, https://www.fanpage.it/sport/calcio/dove-vedere-fenerbahce-roma-di-champions-league-oggi-in-tv-orario-e-canale-in-diretta-e-streaming/, https://www.adnkronos.com/champions-league-tutte-le-partite-di-oggi-e-dove-vederle_6Mst2c4lFh8NfC8eUoP31h, https://www.snai.it/sportnews/champions-league-2026-2027-dove-vedere-in-tv-tutte-le-partite",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - UEFA Champions League 2026/2027",
-      "canale": "Sky Sport Max, Sky Sport 251, NOW",
-      "note": "Copre più partite in contemporanea",
-      "fonte": "https://sport.sky.it/calcio/champions-league/2026/09/10/champions-league-calendario-orari-partite-oggi",
+      "note": "Fenerbahce vs Roma",
+      "fonte": "Sky Sport, TUTTOmercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Como-Lipsia",
-      "competizione": "Calcio - UEFA Champions League 2026/2027",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 252, NOW",
-      "note": "Esordio storico del Como in Champions League",
-      "fonte": "https://sport.sky.it/calcio/champions-league/2026/09/10/champions-league-calendario-orari-partite-oggi, https://www.fanpage.it/sport/calcio/dove-vedere-fenerbahce-roma-di-champions-league-oggi-in-tv-orario-e-canale-in-diretta-e-streaming/, https://www.adnkronos.com/champions-league-tutte-le-partite-di-oggi-e-dove-vederle_6Mst2c4lFh8NfC8eUoP31h, https://www.snai.it/sportnews/champions-league-2026-2027-dove-vedere-in-tv-tutte-le-partite, https://www.staseraentv.it/programmi-sportitalia-10-settembre-2026/",
+      "evento": "Calcio - Fase Campionato (1ª giornata)",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport",
+      "note": "Como vs RB Lipsia",
+      "fonte": "Sky Sport, TUTTOmercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - UEFA Champions League 2026/2027",
-      "canale": "Sky Sport Max, Sky Sport 251, NOW",
-      "note": "Copre più partite in contemporanea",
-      "fonte": "https://sport.sky.it/calcio/champions-league/2026/09/10/champions-league-calendario-orari-partite-oggi",
-      "accuratezza_orario": "esatto"
+      "orario": "01:30*",
+      "evento": "Tennis - Terzo turno",
+      "competizione": "US Open (Doppio maschile)",
+      "canale": "SuperTennis, SuperTennis+ (ST+UsOpen1)",
+      "note": "Simone Bolelli / Andrea Vavassori (ITA) in doppio (2° match, nella notte tra il 10 e l'11 settembre)",
+      "fonte": "SuperTennis",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
