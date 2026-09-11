@@ -1,49 +1,85 @@
 {
-  "last_updated": "2026-09-11T03:52:25.652996+02:00",
+  "last_updated": "2026-09-11T12:08:37.665579+02:00",
   "events": [
     {
-      "orario": "10:45",
-      "evento": "Prove Libere 1",
-      "competizione": "MotoGP - GP San Marino",
-      "canale": "Sky Sport MotoGP",
+      "orario": "09:00",
+      "evento": "Moto3 - Prove Libere 1",
+      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
+      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
       "note": "",
-      "fonte": "https://www.formulapassion.it/motorsport/motogp/calendario-motogp-2026-orari-tv-sky-tv8-misano-spagna-germania-portogallo-italia-mugello-thailandia-brasile-americhe-spagna-francia-barcellona-ungheria-repubblica-ceca-olanda-gran-bretagna-aragon-austria-giappone-indonesia-australia-malesia-qatar-portogallo-73335.html",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:50",
+      "evento": "Moto2 - Prove Libere 1",
+      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "MotoGP - Prove Libere 1",
+      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
+      "canale": "Sky Sport 1 (201), Sky MotoGP (208)",
+      "note": "",
+      "fonte": "Adnkronos, FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Moto3 - Pre-Qualifiche",
+      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:30",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - GP Spagna",
-      "canale": "Sky Sport F1",
+      "evento": "Formula 1 - Prove Libere 1",
+      "competizione": "F1, GP Spagna 2026 (Madrid)",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
       "note": "",
-      "fonte": "https://sport.sky.it/formula-1/2026/calendario-f1-date-e-orari-gran-premi-formula-1-gp-italia-spagna-monza-madrid-71261",
+      "fonte": "OA Sport, FormulaPassion, Sky Sport, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:05",
+      "evento": "Moto2 - Pre-Qualifiche",
+      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
+      "canale": "Sky Sport MotoGP (208)",
+      "note": "",
+      "fonte": "OA Sport, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Prove",
-      "competizione": "MotoGP - GP San Marino",
-      "canale": "Sky Sport MotoGP",
+      "evento": "MotoGP - Pre-Qualifiche",
+      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
+      "canale": "Sky Sport 1 (201), Sky MotoGP (208)",
       "note": "",
-      "fonte": "https://www.formulapassion.it/motorsport/motogp/calendario-motogp-2026-orari-tv-sky-tv8-misano-spagna-germania-portogallo-italia-mugello-thailandia-brasile-americhe-spagna-francia-barcellona-ungheria-repubblica-ceca-olanda-gran-bretagna-aragon-austria-giappone-indonesia-australia-malesia-qatar-portogallo-73335.html",
+      "fonte": "Adnkronos, FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Prove Libere 2",
-      "competizione": "Formula 1 - GP Spagna",
-      "canale": "Sky Sport F1",
+      "evento": "Formula 1 - Prove Libere 2",
+      "competizione": "F1, GP Spagna 2026 (Madrid)",
+      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
       "note": "",
-      "fonte": "https://sport.sky.it/formula-1/2026/calendario-f1-date-e-orari-gran-premi-formula-1-gp-italia-spagna-monza-madrid-71261",
+      "fonte": "OA Sport, FormulaPassion, Sky Sport, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Venezia - Fiorentina",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://sport.sky.it/calcio/serie-a/2026/calendario-e-risultati-serie-a-2026-2027-36209",
+      "evento": "Venezia-Fiorentina",
+      "competizione": "Serie A",
+      "canale": "DAZN 1",
+      "note": "Quarta giornata di Serie A 2026/2027",
+      "fonte": "Libero, CronacaPop, Sky Sport, Virgilio Sport, CalcioNapoli24.it, CinePost.it (Facebook)",
       "accuratezza_orario": "esatto"
     }
   ]
