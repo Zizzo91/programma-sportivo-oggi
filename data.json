@@ -1,85 +1,13 @@
 {
-  "last_updated": "2026-09-11T12:08:37.665579+02:00",
+  "last_updated": "2026-09-11T17:26:16.132516+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Moto3 - Prove Libere 1",
-      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
-      "canale": "Sky Sport Uno (201), Sky Sport MotoGP (208)",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:50",
-      "evento": "Moto2 - Prove Libere 1",
-      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
-      "canale": "Sky Sport MotoGP (208)",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:45",
-      "evento": "MotoGP - Prove Libere 1",
-      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
-      "canale": "Sky Sport 1 (201), Sky MotoGP (208)",
-      "note": "",
-      "fonte": "Adnkronos, FormulaPassion, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:15",
-      "evento": "Moto3 - Pre-Qualifiche",
-      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
-      "canale": "Sky Sport MotoGP (208)",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "Formula 1 - Prove Libere 1",
-      "competizione": "F1, GP Spagna 2026 (Madrid)",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion, Sky Sport, Fanpage",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:05",
-      "evento": "Moto2 - Pre-Qualifiche",
-      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
-      "canale": "Sky Sport MotoGP (208)",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "MotoGP - Pre-Qualifiche",
-      "competizione": "MotoGP, GP San Marino 2026 (Misano)",
-      "canale": "Sky Sport 1 (201), Sky MotoGP (208)",
-      "note": "",
-      "fonte": "Adnkronos, FormulaPassion, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Formula 1 - Prove Libere 2",
-      "competizione": "F1, GP Spagna 2026 (Madrid)",
-      "canale": "Sky Sport Uno (201), Sky Sport F1 (207), Sky Sport 4K (213)",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion, Sky Sport, Fanpage",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "20:45",
-      "evento": "Venezia-Fiorentina",
+      "evento": "Venezia vs Fiorentina",
       "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "Quarta giornata di Serie A 2026/2027",
-      "fonte": "Libero, CronacaPop, Sky Sport, Virgilio Sport, CalcioNapoli24.it, CinePost.it (Facebook)",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrOsrnCKQlNmJ_lcOUHdBSOFEkV-lJHYgt35-t59v8Wp036wFRSbjrfgFsZ310CHP7GxQONpwxgJ34VP2nR47k-D6EwtzEbUYRRqVkNE9Wlf8MI4bz_bKzD0qi-bWqeDGq_p80XiKjHy2WLaMvOGFxJzIGPUWUxeBz2obCMTm7OBXvfuNYmTvwacMRj0VYTlDge-NiJveKAlp5uVCDZekpoJhR4lE0xIRdrUMVSFsm0LzqVg",
       "accuratezza_orario": "esatto"
     }
   ]
