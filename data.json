@@ -1,49 +1,49 @@
 {
-  "last_updated": "2026-09-10T22:10:55.957446+02:00",
+  "last_updated": "2026-09-11T03:52:25.652996+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Champions League Show - After Party",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 24",
+      "orario": "10:45",
+      "evento": "Prove Libere 1",
+      "competizione": "MotoGP - GP San Marino",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://www.formulapassion.it/motorsport/motogp/calendario-motogp-2026-orari-tv-sky-tv8-misano-spagna-germania-portogallo-italia-mugello-thailandia-brasile-americhe-spagna-francia-barcellona-ungheria-repubblica-ceca-olanda-gran-bretagna-aragon-austria-giappone-indonesia-australia-malesia-qatar-portogallo-73335.html",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:30",
-      "evento": "Sky Tennis Show",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno",
+      "orario": "13:30",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1 - GP Spagna",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://sport.sky.it/formula-1/2026/calendario-f1-date-e-orari-gran-premi-formula-1-gp-italia-spagna-monza-madrid-71261",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00*",
-      "evento": "US Open: Simone Bolelli / Andrea Vavassori vs Christian Harrison / Neal Skupski",
-      "competizione": "US Open (Tennis - Doppio Maschile)",
-      "canale": "Sky Sport (specifico non indicato, ma probabile Sky Sport Uno/Tennis)",
-      "note": "Quarti di finale. Orario 'non prima delle 04:00' CET. La partita coinvolge giocatori italiani.",
-      "fonte": "Italiani allo US Open 2026 oggi: le partite del 10 settembre · Tennis ATP e WTA",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Tennis Us Open The Insider 2026",
-      "competizione": "US Open (Tennis)",
-      "canale": "Sky Sport Uno",
+      "orario": "15:00",
+      "evento": "Prove",
+      "competizione": "MotoGP - GP San Marino",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://www.formulapassion.it/motorsport/motogp/calendario-motogp-2026-orari-tv-sky-tv8-misano-spagna-germania-portogallo-italia-mugello-thailandia-brasile-americhe-spagna-francia-barcellona-ungheria-repubblica-ceca-olanda-gran-bretagna-aragon-austria-giappone-indonesia-australia-malesia-qatar-portogallo-73335.html",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Tennis Us Open The Insider 2026",
-      "competizione": "US Open (Tennis)",
-      "canale": "Sky Sport Uno",
+      "orario": "17:00",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1 - GP Spagna",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "fonte": "https://sport.sky.it/formula-1/2026/calendario-f1-date-e-orari-gran-premi-formula-1-gp-italia-spagna-monza-madrid-71261",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Venezia - Fiorentina",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://sport.sky.it/calcio/serie-a/2026/calendario-e-risultati-serie-a-2026-2027-36209",
       "accuratezza_orario": "esatto"
     }
   ]
