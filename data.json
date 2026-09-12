@@ -1,157 +1,148 @@
 {
-  "last_updated": "2026-09-12T11:43:34.453330+02:00",
+  "last_updated": "2026-09-12T16:35:07.620615+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Mondiali U20 Polonia 2026 - Italia Vs Giappone",
-      "competizione": "Calcio Femminile - Mondiali U20",
-      "canale": "Rai Sport +HD",
-      "note": "",
-      "fonte": "superguidatv.it, stasera.in.tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "08:40",
-      "evento": "Prove Libere 2 Moto3",
-      "competizione": "MotoGP GP San Marino",
+      "evento": "Moto3 - GP San Marino: Prove Libere 2",
+      "competizione": "Motomondiale",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "oasport.it, formulapassion.it",
+      "fonte": "OA Sport, Fanpage, Sky Sport, Datasport.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:25",
-      "evento": "Prove Libere 2 Moto2",
-      "competizione": "MotoGP GP San Marino",
+      "evento": "Moto2 - GP San Marino: Prove Libere 2",
+      "competizione": "Motomondiale",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "oasport.it, formulapassion.it",
+      "fonte": "OA Sport, Fanpage, Sky Sport, Datasport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:10",
-      "evento": "Prove Libere 2 MotoGP",
-      "competizione": "MotoGP GP San Marino",
-      "canale": "Sky Sport MotoGP",
+      "orario": "10:05",
+      "evento": "MotoGP - GP San Marino: Prove Libere 2",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "oasport.it, formulapassion.it",
+      "fonte": "Sky Sport, Datasport.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:45",
-      "evento": "Qualifiche MotoGP",
-      "competizione": "MotoGP GP San Marino",
-      "canale": "Sky Sport MotoGP",
-      "note": "Su TV8 dalle 10:50",
-      "fonte": "oasport.it, formulapassion.it, fanpage.it",
+      "evento": "MotoGP - GP San Marino: Qualifiche",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport, MotoGP™ 2026: tutti i Gran Premi in diretta esclusiva su Sky",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:50",
-      "evento": "Qualifiche MotoGP",
-      "competizione": "MotoGP GP San Marino",
+      "evento": "MotoGP - GP San Marino: Qualifiche",
+      "competizione": "Motomondiale",
       "canale": "TV8",
       "note": "Diretta in chiaro",
-      "fonte": "oasport.it, quotidianomotori.it, fanpage.it",
+      "fonte": "OA Sport, Adnkronos, CronacaPop, inSella",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Prove Libere 3",
-      "competizione": "Formula 1 GP Spagna",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "evento": "Formula 1 - GP Spagna: Prove Libere 3",
+      "competizione": "Campionato del Mondo Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno",
       "note": "",
-      "fonte": "alvolante.it, oasport.it, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Qualifiche Moto3",
-      "competizione": "MotoGP GP San Marino",
-      "canale": "Sky Sport MotoGP",
-      "note": "Su TV8 dalle 12:50",
-      "fonte": "fanpage.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:50",
-      "evento": "Qualifiche Moto3",
-      "competizione": "MotoGP GP San Marino",
-      "canale": "TV8",
-      "note": "Diretta in chiaro",
-      "fonte": "fanpage.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:35",
-      "evento": "Qualifiche Moto2",
-      "competizione": "MotoGP GP San Marino",
-      "canale": "Sky Sport MotoGP",
-      "note": "Su TV8 dalle 13:45",
-      "fonte": "fanpage.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:45",
-      "evento": "Qualifiche Moto2",
-      "competizione": "MotoGP GP San Marino",
-      "canale": "TV8",
-      "note": "Diretta in chiaro",
-      "fonte": "fanpage.it",
+      "fonte": "OglioPoNews, Adnkronos, Sky Sport, Formula1.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Genoa-Frosinone",
-      "competizione": "Calcio Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "evento": "Calcio - Genoa-Frosinone",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky)",
       "note": "",
-      "fonte": "napolike.it, skysport.it, fanpage.it",
+      "fonte": "Libero, Sky Sport, Tutto Napoli",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Sprint Race",
-      "competizione": "MotoGP GP San Marino",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Su TV8 pre-gara dalle 14:30",
-      "fonte": "oasport.it, quotidianomotori.it, fanpage.it",
+      "evento": "MotoGP - GP San Marino: Sprint Race",
+      "competizione": "Motomondiale",
+      "canale": "TV8",
+      "note": "Diretta in chiaro",
+      "fonte": "Corriere dello Sport, OA Sport, Adnkronos, CronacaPop, inSella",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:55",
+      "evento": "MotoGP - GP San Marino: Sprint Race",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport, MotoGP™ 2026: tutti i Gran Premi in diretta esclusiva su Sky",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Qualifiche",
-      "competizione": "Formula 1 GP Spagna",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "evento": "Formula 1 - GP Spagna: Qualifiche",
+      "competizione": "Campionato del Mondo Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno",
       "note": "",
-      "fonte": "alvolante.it, oasport.it, formulapassion.it, skysport.it",
+      "fonte": "alVolante.it, OglioPoNews, Adnkronos, CronacaPop, Sky Sport, Formula1.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio - Lazio-Milan",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky)",
+      "note": "",
+      "fonte": "Libero, Sky Sport, Calcio e Finanza, Tutto Napoli",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Lazio-Milan",
-      "competizione": "Calcio Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
-      "note": "",
-      "fonte": "napolike.it, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Repliche Qualifiche",
-      "competizione": "Formula 1 GP Spagna",
+      "evento": "Formula 1 - GP Spagna: Qualifiche",
+      "competizione": "Campionato del Mondo Formula 1",
       "canale": "TV8",
-      "note": "Differita",
-      "fonte": "alvolante.it, formulapassion.it, oasport.it",
+      "note": "Differita in chiaro",
+      "fonte": "alVolante.it, OglioPoNews, Adnkronos, Cremaoggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Formula 1 - GP Spagna: Qualifiche",
+      "competizione": "Campionato del Mondo Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "CronacaPop",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Atalanta-Cagliari",
-      "competizione": "Calcio Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "evento": "Calcio - Atalanta-Cagliari",
+      "competizione": "Serie A",
+      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN",
       "note": "",
-      "fonte": "napolike.it, skysport.it, fanpage.it",
+      "fonte": "Libero, Sky Sport, TeleDigitale, Tutto Napoli",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Formula 1 - GP Spagna: Qualifiche",
+      "competizione": "Campionato del Mondo Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "CronacaPop",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:20",
+      "evento": "MotoGP - GP San Marino: Sprint Race",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport Uno",
+      "note": "Replica (del 13/09)",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
