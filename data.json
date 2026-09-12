@@ -1,13 +1,157 @@
 {
-  "last_updated": "2026-09-11T17:26:16.132516+02:00",
+  "last_updated": "2026-09-12T03:57:38.755031+02:00",
   "events": [
     {
-      "orario": "20:45",
-      "evento": "Venezia vs Fiorentina",
+      "orario": "08:35",
+      "evento": "Prove Libere 2 Moto3",
+      "competizione": "MotoGP GP San Marino e Riviera di Rimini 2026",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "Sky Sport, Fanpage, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:20",
+      "evento": "Prove Libere 2 Moto2",
+      "competizione": "MotoGP GP San Marino e Riviera di Rimini 2026",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "Sky Sport, Fanpage, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:05",
+      "evento": "Prove Libere 2 MotoGP",
+      "competizione": "MotoGP GP San Marino e Riviera di Rimini 2026",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "Sky Sport, Fanpage, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "Qualifiche MotoGP",
+      "competizione": "MotoGP GP San Marino e Riviera di Rimini 2026",
+      "canale": "Sky Sport MotoGP, NOW, TV8",
+      "note": "Diretta su Sky Sport MotoGP e NOW. Diretta su TV8.",
+      "fonte": "Sky Sport, OA Sport, aMotoMio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:05",
+      "evento": "Gara Sprint F3",
+      "competizione": "Formula 1 GP Spagna 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Prove Libere 3 F1",
+      "competizione": "Formula 1 GP Spagna 2026",
+      "canale": "Sky Sport F1, NOW TV",
+      "note": "",
+      "fonte": "alVolante.it, FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:45",
+      "evento": "Qualifiche Moto3",
+      "competizione": "MotoGP GP San Marino e Riviera di Rimini 2026",
+      "canale": "Sky Sport MotoGP, NOW, TV8",
+      "note": "Diretta su Sky Sport MotoGP e NOW. Diretta su TV8.",
+      "fonte": "Sky Sport, OA Sport, aMotoMio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:35",
+      "evento": "Qualifiche Moto2",
+      "competizione": "MotoGP GP San Marino e Riviera di Rimini 2026",
+      "canale": "Sky Sport MotoGP, NOW, TV8",
+      "note": "Diretta su Sky Sport MotoGP e NOW. Diretta su TV8.",
+      "fonte": "Sky Sport, OA Sport, aMotoMio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:15",
+      "evento": "Gara Sprint F2",
+      "competizione": "Formula 1 GP Spagna 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Genoa - Frosinone",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrOsrnCKQlNmJ_lcOUHdBSOFEkV-lJHYgt35-t59v8Wp036wFRSbjrfgFsZ310CHP7GxQONpwxgJ34VP2nR47k-D6EwtzEbUYRRqVkNE9Wlf8MI4bz_bKzD0qi-bWqeDGq_p80XiKjHy2WLaMvOGFxJzIGPUWUxeBz2obCMTm7OBXvfuNYmTvwacMRj0VYTlDge-NiJveKAlp5uVCDZekpoJhR4lE0xIRdrUMVSFsm0LzqVg",
+      "fonte": "Calcio Magazine, Il Faro online, Serie A Enilive",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:55",
+      "evento": "Sprint Race MotoGP",
+      "competizione": "MotoGP GP San Marino e Riviera di Rimini 2026",
+      "canale": "Sky Sport MotoGP, NOW, TV8",
+      "note": "Diretta su Sky Sport MotoGP e NOW. Diretta su TV8.",
+      "fonte": "Sky Sport, OA Sport, aMotoMio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Qualifiche F1",
+      "competizione": "Formula 1 GP Spagna 2026",
+      "canale": "Sky Sport F1, NOW TV",
+      "note": "Diretta su Sky Sport F1 e NOW TV.",
+      "fonte": "alVolante.it, FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Lazio - Milan",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calcio Magazine, Il Faro online, Serie A Enilive",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Differita Qualifiche F1",
+      "competizione": "Formula 1 GP Spagna 2026",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "alVolante.it, OA Sport, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Atalanta - Cagliari",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
+      "note": "Co-esclusiva Sky e DAZN.",
+      "fonte": "Sky Sport, Il Faro online, Serie A Enilive",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:30",
+      "evento": "Replica Sprint Race MotoGP",
+      "competizione": "MotoGP GP San Marino e Riviera di Rimini 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:15",
+      "evento": "Replica Qualifiche F1",
+      "competizione": "Formula 1 GP Spagna 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Nella notte tra il 12 e il 13 settembre.",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
