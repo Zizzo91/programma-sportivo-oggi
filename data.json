@@ -1,50 +1,104 @@
 {
-  "last_updated": "2026-09-13T12:45:03.893264+02:00",
+  "last_updated": "2026-09-13T17:13:32.077040+02:00",
   "events": [
     {
-      "orario": "15:00",
-      "evento": "Modica - Reggina",
-      "competizione": "Serie D Girone I",
-      "canale": "Reggio TV (Canale 77, 677), Reggina Channel (streaming), reggiotv.it (streaming)",
-      "note": "Partita valida per la 3ª giornata di andata.",
-      "fonte": "Reggina official calendar, rezzato.info",
+      "orario": "09:40",
+      "evento": "MotoGP - Warm-up",
+      "competizione": "GP San Marino",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "OA Sport, inSella",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00*",
-      "evento": "Formula 1 - Gran Premio di Spagna 2026 (Gara)",
-      "competizione": "Campionato del Mondo FIA Formula 1 2026",
-      "canale": "Sky Sport F1, Now TV",
-      "note": "Orario stimato. La gara si svolge sul circuito di Barcellona-Catalunya. La diretta integrale su Sky Sport F1 e Now TV.",
-      "fonte": "F1 official calendar, FormulaPassion.it",
-      "accuratezza_orario": "stimato"
+      "orario": "13:30",
+      "evento": "MotoGP Grid",
+      "competizione": "GP San Marino",
+      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Programma pre-gara",
+      "fonte": "OA Sport, inSella, Super Guida TV",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00*",
-      "evento": "Calcio Serie A 2026/2027 (Partite)",
-      "competizione": "Serie A 2026/2027 - 4ª Giornata",
-      "canale": "Sky Sport, DAZN",
-      "note": "Orari e partite specifici non ancora definiti. Il 13 settembre 2026 è previsto come giorno di gara per la Serie A.",
-      "fonte": "The Cult of Calcio, Lega Serie A",
-      "accuratezza_orario": "tba"
+      "orario": "14:00",
+      "evento": "MotoGP - Gara",
+      "competizione": "GP San Marino",
+      "canale": "TV8, Sky Sport Uno, Sky Sport MotoGP",
+      "note": "Diretta TV8 (in chiaro)",
+      "fonte": "Calcio Magazine, OA Sport, inSella, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00*",
-      "evento": "Formula 1 - Gran Premio di Spagna 2026 (Replica Gara)",
-      "competizione": "Campionato del Mondo FIA Formula 1 2026",
-      "canale": "Sky Sport F1, Now TV",
-      "note": "Orario stimato per la replica della gara del Gran Premio di Spagna.",
-      "fonte": "Sky Sport (palinsesto generale F1)",
-      "accuratezza_orario": "stimato"
+      "orario": "15:00",
+      "evento": "Calcio - Lecce-Monza",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "4ª giornata",
+      "fonte": "Calcio e Finanza, Sky Sport",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00*",
-      "evento": "US Open - Finale Singolare Maschile",
-      "competizione": "Grande Slam",
-      "canale": "Sky Sport Tennis",
-      "note": "Orario stimato (ora italiana). L'US Open si conclude il 13 settembre (data locale New York). La presenza di giocatori italiani non è garantita.",
-      "fonte": "ATP official calendar, Sky Sport",
-      "accuratezza_orario": "stimato"
+      "orario": "15:00",
+      "evento": "Calcio - Modica-Reggina",
+      "competizione": "Serie D - Girone I",
+      "canale": "Reggio TV (Canale 77/677), Reggina Channel (streaming)",
+      "note": "2ª giornata",
+      "fonte": "Reggina, Calcio Magazine, SerieD24.com, ReggioTV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Formula 1 - Gara",
+      "competizione": "GP Spagna",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Go, NOW",
+      "note": "14° atto del Mondiale 2026",
+      "fonte": "OA Sport, Sky Sport, Eventbrite, Il Fatto Quotidiano",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio - Napoli-Bologna",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "note": "4ª giornata",
+      "fonte": "Calcio e Finanza, OA Sport, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:08",
+      "evento": "Atletica - Ultimate Championship",
+      "competizione": "World Athletics Ultimate Championship 2026",
+      "canale": "Rai2 (fino alle 20.30), Sky Sport Max, RaiPlay Sport 2, Sky Go, NOW",
+      "note": "Con Gianmarco Tamberi e altri italiani in gara",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Sassuolo-Juventus",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "4ª giornata",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "MotoGP - Gara (Replica)",
+      "competizione": "GP San Marino",
+      "canale": "Sky Sport Uno",
+      "note": "Palinsesto notturno del 14/09/2026",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Formula 1 - Gara (Replica)",
+      "competizione": "GP Spagna",
+      "canale": "Sky Sport Uno",
+      "note": "Palinsesto notturno del 14/09/2026",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
