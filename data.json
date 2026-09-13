@@ -1,158 +1,104 @@
 {
-  "last_updated": "2026-09-12T21:51:35.926996+02:00",
+  "last_updated": "2026-09-13T03:51:00.414723+02:00",
   "events": [
     {
+      "orario": "09:40",
+      "evento": "Warm-Up MotoGP",
+      "competizione": "MotoGP - GP San Marino",
+      "canale": "Sky Sport MotoGP HD, Sky Sport Uno",
+      "note": "",
+      "fonte": "OA Sport, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP - GP San Marino",
+      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, TV8",
+      "note": "",
+      "fonte": "OA Sport, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP - GP San Marino",
+      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, TV8",
+      "note": "",
+      "fonte": "OA Sport, Moto.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Gara MotoGP",
+      "competizione": "MotoGP - GP San Marino",
+      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, TV8",
+      "note": "",
+      "fonte": "OA Sport, FormulaPassion, Il mio tempo libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "15:00",
-      "evento": "Genoa-Frosinone",
+      "evento": "Lecce - Monza",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW7Jdqtsp82ywKqu1OubRpVCc-jApP0jKHfo0JvJj4oGWlaVV9jAorpCtt06CsARAYfPpiyC8mJGxsffNXIkETZSDKhZfg1m_DsKvhmEViNR9lcdS0XXIqpt5pAe-7MxOZEHGLFBVRIT89x1gubBU4YrS3dlwEu6cL5Fov7nh0qFdtkIMsRlirQqZypAEgS683OlF2V3JyQ2hn55vEWtDLj4wnZ8rY0VuuHipgjZfuEnOFYx6jIJfItR5kfg==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Formula 1 - GP Spagna - Prove Libere 3",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaDeOIRX36jH4ZQRnbnT4yQY67JKPoEtEAr9XGHzPjiSUBL1qGQlfiVkPxY-d-xN9JYDA8TTRsBYrcj4JyPRui_DeqSv-ZN_ruY2rIse58ulsa-0ks0bOm4qC8f98J2xD0nmMgNi54rzG1-eSl1hlUgIzucCUPeogC5Nua1HWaMX1Nnykddc5s1XTRUHpUTNwIsyC_kcS2Nwuj",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:40",
-      "evento": "Moto3 - GP San Marino - Prove Libere 2",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELMOk_WR350HnJv8qTOWs2QuZAjhtsNnzAzXkqdtH1iML7x3nWeVWLrrNuxvPFgF3lzPwHyb_gyIwKhKKSHh8UuHFkLU0-LjMqckl6I5XejfAlAMnnoK-8LW8DL3AON4g4i2tNMVR6UZe9hHDp-0pXOxPrN0fKkYxHR30rj_X6HcUxWekQOUjLMOn-yhvFil7GbEAaMQjPkzf3NwtxlYE-gVJ7iMfNBYnOJzSKyg_YUjuQXCDM",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:25",
-      "evento": "Moto2 - GP San Marino - Prove Libere 2",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELMOk_WR350HnJv8qTOWs2QuZAjhtsNnzAzXkqdtH1iML7x3nWeVWLrrNuxvPFgF3lzPwHyb_gyIwKhKKSHh8UuHFkLU0-LjMqckl6I5XejfAlAMnnoK-8LW8DL3AON4g4i2tNMVR6UZe9hHDp-0pXOxPrN0fKkYxHR30rj_X6HcUxWekQOUjLMOn-yhvFil7GbEAaMQjPkzf3NwtxlYE-gVJ7iMfNBYnOJzSKyg_YUjuQXCDM",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:10",
-      "evento": "MotoGP - GP San Marino - Prove Libere 2",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELMOk_WR350HnJv8qTOWs2QuZAjhtsNnzAzXkqdtH1iML7x3nWeVWLrrNuxvPFgF3lzPwHyb_gyIwKhKKSHh8UuHFkLU0-LjMqckl6I5XejfAlAMnnoK-8LW8DL3AON4g4i2tNMVR6UZe9hHDp-0pXOxPrN0fKkYxHR30rj_X6HcUxWekQOUjLMOn-yhvFil7GbEAaMQjPkzf3NwtxlYE-gVJ7iMfNBYnOJzSKyg_YUjuQXCDM",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:50",
-      "evento": "MotoGP - GP San Marino - Qualifiche Q1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELMOk_WR350HnJv8qTOWs2QuZAjhtsNnzAzXkqdtH1iML7x3nWeVWLrrNuxvPFgF3lzPwHyb_gyIwKhKKSHh8UuHFkLU0-LjMqckl6I5XejfAlAMnnoK-8LW8DL3AON4g4i2tNMVR6UZe9hHDp-0pXOxPrN0fKkYxHR30rj_X6HcUxWekQOUjLMOn-yhvFil7GbEAaMQjPkzf3NwtxlYE-gVJ7iMfNBYnOJzSKyg_YUjuQXCDM",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "MotoGP - GP San Marino - Qualifiche Q2",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2uy4IuO99leuWnWawCQa_wCrS5SGcVIY9sd7D1vtCQ_YvoinoHaxgPwL1WV2-28EffK9Vza0NMxbXadREc1_Hq0Xc_exPhTy3lCS968PhS66YAO0pHNYJm2YGFA_n-n7WpfP6jms3A4ghX4B2gXwaaZZfTkpx68TbzJ-PP7uZng_CfDpMPvlRcY4HVnvFbreqgU8GtgL9OXcSaZeAPgjoDai7wIIcF6Q5DPvBgBsTgwmMbp_3OaJuBNBQHdv8rmeJspC1Dvz6rmTAiBnpUhAUc6QI_iaTzNd6d_zuS0NeelNYeTGsGrwhq5wv_MOZqEt7pd-hix6GntxPNkdcwI4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Moto3 - GP San Marino - Qualifiche Q1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2uy4IuO99leuWnWawCQa_wCrS5SGcVIY9sd7D1vtCQ_YvoinoHaxgPwL1WV2-28EffK9Vza0NMxbXadREc1_Hq0Xc_exPhTy3lCS968PhS66YAO0pHNYJm2YGFA_n-n7WpfP6jms3A4ghX4B2gXwaaZZfTkpx68TbzJ-PP7uZng_CfDpMPvlRcY4HVnvFbreqgU8GtgL9OXcSaZeAPgjoDai7wIIcF6Q5DPvBgBsTgwmMbp_3OaJuBNBQHdv8rmeJspC1Dvz6rmTAiBnpUhAUc6QI_iaTzNd6d_zuS0NeelNYeTGsGrwhq5wv_MOZqEt7pd-hix6GntxPNkdcwI4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:10",
-      "evento": "Moto3 - GP San Marino - Qualifiche Q2",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2uy4IuO99leuWnWawCQa_wCrS5SGcVIY9sd7D1vtCQ_YvoinoHaxgPwL1WV2-28EffK9Vza0NMxbXadREc1_Hq0Xc_exPhTy3lCS968PhS66YAO0pHNYJm2YGFA_n-n7WpfP6jms3A4ghX4B2gXwaaZZfTkpx68TbzJ-PP7uZng_CfDpMPvlRcY4HVnvFbreqgU8GtgL9OXcSaZeAPgjoDai7wIIcF6Q5DPvBgBsTgwmMbp_3OaJuBNBQHdv8rmeJspC1Dvz6rmTAiBnpUhAUc6QI_iaTzNd6d_zuS0NeelNYeTGsGrwhq5wv_MOZqEt7pd-hix6GntxPNkdcwI4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:40",
-      "evento": "Moto2 - GP San Marino - Qualifiche Q1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2uy4IuO99leuWnWawCQa_wCrS5SGcVIY9sd7D1vtCQ_YvoinoHaxgPwL1WV2-28EffK9Vza0NMxbXadREc1_Hq0Xc_exPhTy3lCS968PhS66YAO0pHNYJm2YGFA_n-n7WpfP6jms3A4ghX4B2gXwaaZZfTkpx68TbzJ-PP7uZng_CfDpMPvlRcY4HVnvFbreqgU8GtgL9OXcSaZeAPgjoDai7wIIcF6Q5DPvBgBsTgwmMbp_3OaJuBNBQHdv8rmeJspC1Dvz6rmTAiBnpUhAUc6QI_iaTzNd6d_zuS0NeelNYeTGsGrwhq5wv_MOZqEt7pd-hix6GntxPNkdcwI4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:05",
-      "evento": "Moto2 - GP San Marino - Qualifiche Q2",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2uy4IuO99leuWnWawCQa_wCrS5SGcVIY9sd7D1vtCQ_YvoinoHaxgPwL1WV2-28EffK9Vza0NMxbXadREc1_Hq0Xc_exPhTy3lCS968PhS66YAO0pHNYJm2YGFA_n-n7WpfP6jms3A4ghX4B2gXwaaZZfTkpx68TbzJ-PP7uZng_CfDpMPvlRcY4HVnvFbreqgU8GtgL9OXcSaZeAPgjoDai7wIIcF6Q5DPvBgBsTgwmMbp_3OaJuBNBQHdv8rmeJspC1Dvz6rmTAiBnpUhAUc6QI_iaTzNd6d_zuS0NeelNYeTGsGrwhq5wv_MOZqEt7pd-hix6GntxPNkdcwI4=",
+      "fonte": "Digital-News, Sky Sport, Serie A Enilive",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "MotoGP - GP San Marino - Sprint Race",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP8zsKrIGiSoKNcD0OaWVZMZLylwuPUp4DLPJrIF2tqwu_3KHEA-xj362-r-w1Z7BMPZ6NujM4VRf-6UfLKHHKd4v6fAVgPfyl-RI1Nj1-G40DPBa2AwaDs7tQTghsg0AMMLoAjU7hyOLpDUcM2UA3KTCS6kXGBD37OdtGiBruK9yQ6mnmiqwWwJGXDNmsoohC7sC6vQ2xEg==",
+      "evento": "Gara F1",
+      "competizione": "Formula 1 - GP Spagna (Madrid)",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "OA Sport, Formula 1, F1 Schedule 2026",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "Formula 1 - GP Spagna - Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfSbJktsxwm2uA8FtOoOLkVEuvxa7UvFHiOHTGCFY1C9IwMNSMRqtvIql6KgooAL08a1czeUuZTX_LpKwhq4gh-f_hAk23rhfiE8IhFwuIXKLqF6KM_RziLhlUqe1IyQo2oeArUryjRi-jkOe1TggCF921Mf20phBBQrcuY2smT0QYZRms22o2JOFmCJKB8UjZWUhOu8B22Mh8nC3Mw5y5aCk9n5ooq9WQW_6d2xY=",
+      "orario": "15:00",
+      "evento": "Modica - Reggina",
+      "competizione": "Serie D - Girone I",
+      "canale": "",
+      "note": "",
+      "fonte": "Il Tifoso Reggino, Reggina, CityNow, Ntacalabria.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:55",
+      "evento": "Repliche/Differite Gara F1",
+      "competizione": "Formula 1 - GP Spagna (Madrid)",
+      "canale": "TV8 HD",
+      "note": "Differita",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Lazio-Milan",
+      "evento": "Napoli - Bologna",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, Sky",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW7Jdqtsp82ywKqu1OubRpVCc-jApP0jKHfo0JvJj4oGWlaVV9jAorpCtt06CsARAYfPpiyC8mJGxsffNXIkETZSDKhZfg1m_DsKvhmEViNR9lcdS0XXIqpt5pAe-7MxOZEHGLFBVRIT89x1gubBU4YrS3dlwEu6cL5Fov7nh0qFdtkIMsRlirQqZypAEgS683OlF2V3JyQ2hn55vEWtDLj4wnZ8rY0VuuHipgjZfuEnOFYx6jIJfItR5kfg==",
+      "fonte": "Digital-News, Sky Sport, Serie A Enilive",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Formula 1 - GP Spagna - Qualifiche",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIxZvtKmHTjXN-G8EUinoTMH6PA3ZcsX9ys0XPfTbhmS0do1gIVDLwo_2A-SADqxPWBvGJ0opDIT9NHVLJQE0sXlvPKu-v2OyEkD3GqJP5tnj6rTiSPGQfbf_RgeEisVwiaHIJ42Lxx15cZxN2ACkhgS7xDrf6K4IjsBfCDYJByCjTk7RhU_sIScpfCuOnp9XKDv9jMma2YbNpipH2VJNZQxr-vHC4iwGbqlRbhHevOgRJCqdZXsaxbeQNeH2HLgr9UO7D40zOWAJlWlaOGqkYnOLnHA3CUx9Xd8Z3Fna2mtuPaQIyYlXNtI8uwDCB",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Atalanta-Cagliari",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN, NOW",
+      "orario": "18:00",
+      "evento": "Serata Finale Ultimate Championship",
+      "competizione": "Atletica",
+      "canale": "Sky Sport Max, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW7Jdqtsp82ywKqu1OubRpVCc-jApP0jKHfo0JvJj4oGWlaVV9jAorpCtt06CsARAYfPpiyC8mJGxsffNXIkETZSDKhZfg1m_DsKvhmEViNR9lcdS0XXIqpt5pAe-7MxOZEHGLFBVRIT89x1gubBU4YrS3dlwEu6cL5Fov7nh0qFdtkIMsRlirQqZypAEgS683OlF2V3JyQ2hn55vEWtDLj4wnZ8rY0VuuHipgjZfuEnOFYx6jIJfItR5kfg==",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Calcio - Weekend Live",
-      "competizione": "Approfondimento calcio",
+      "orario": "01:00*",
+      "evento": "Liverpool - Como",
+      "competizione": "Calcio - Amichevole",
       "canale": "SportItalia",
-      "note": "Approfondimento sul fine settimana calcistico",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqXTdz2HHv_lXDDeAkx7Cgw2Gl7Nqkc__jDAXRf6SOhUn2u9klfEOEkltGenB_xS65XNuh4-jXQhVb64ls2EZYxcLApTvAa9jplCU_I8fhKBqn5FzyUwAy3gWOk1JTt8Xyg4FUDFyTDrGdJlXywmFliRM9B-uFnIiic_xrQBwqtGTukZKDpez_yHk=",
-      "accuratezza_orario": "esatto"
+      "note": "Partita del giorno successivo (14 settembre) ma inclusa nel palinsesto notturno. Orario stimato basato sulla fonte.",
+      "fonte": "Stasera in TV",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
