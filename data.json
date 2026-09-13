@@ -1,103 +1,49 @@
 {
-  "last_updated": "2026-09-13T03:51:00.414723+02:00",
+  "last_updated": "2026-09-13T12:45:03.893264+02:00",
   "events": [
-    {
-      "orario": "09:40",
-      "evento": "Warm-Up MotoGP",
-      "competizione": "MotoGP - GP San Marino",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Uno",
-      "note": "",
-      "fonte": "OA Sport, Moto.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP - GP San Marino",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "OA Sport, Moto.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP - GP San Marino",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "OA Sport, Moto.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP - GP San Marino",
-      "canale": "Sky Sport MotoGP HD, Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion, Il mio tempo libero",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Lecce - Monza",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Digital-News, Sky Sport, Serie A Enilive",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Gara F1",
-      "competizione": "Formula 1 - GP Spagna (Madrid)",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "OA Sport, Formula 1, F1 Schedule 2026",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "15:00",
       "evento": "Modica - Reggina",
-      "competizione": "Serie D - Girone I",
-      "canale": "",
-      "note": "",
-      "fonte": "Il Tifoso Reggino, Reggina, CityNow, Ntacalabria.it",
+      "competizione": "Serie D Girone I",
+      "canale": "Reggio TV (Canale 77, 677), Reggina Channel (streaming), reggiotv.it (streaming)",
+      "note": "Partita valida per la 3ª giornata di andata.",
+      "fonte": "Reggina official calendar, rezzato.info",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:55",
-      "evento": "Repliche/Differite Gara F1",
-      "competizione": "Formula 1 - GP Spagna (Madrid)",
-      "canale": "TV8 HD",
-      "note": "Differita",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "15:00*",
+      "evento": "Formula 1 - Gran Premio di Spagna 2026 (Gara)",
+      "competizione": "Campionato del Mondo FIA Formula 1 2026",
+      "canale": "Sky Sport F1, Now TV",
+      "note": "Orario stimato. La gara si svolge sul circuito di Barcellona-Catalunya. La diretta integrale su Sky Sport F1 e Now TV.",
+      "fonte": "F1 official calendar, FormulaPassion.it",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:00",
-      "evento": "Napoli - Bologna",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky",
-      "note": "",
-      "fonte": "Digital-News, Sky Sport, Serie A Enilive",
-      "accuratezza_orario": "esatto"
+      "orario": "18:00*",
+      "evento": "Calcio Serie A 2026/2027 (Partite)",
+      "competizione": "Serie A 2026/2027 - 4ª Giornata",
+      "canale": "Sky Sport, DAZN",
+      "note": "Orari e partite specifici non ancora definiti. Il 13 settembre 2026 è previsto come giorno di gara per la Serie A.",
+      "fonte": "The Cult of Calcio, Lega Serie A",
+      "accuratezza_orario": "tba"
     },
     {
-      "orario": "18:00",
-      "evento": "Serata Finale Ultimate Championship",
-      "competizione": "Atletica",
-      "canale": "Sky Sport Max, NOW",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "20:00*",
+      "evento": "Formula 1 - Gran Premio di Spagna 2026 (Replica Gara)",
+      "competizione": "Campionato del Mondo FIA Formula 1 2026",
+      "canale": "Sky Sport F1, Now TV",
+      "note": "Orario stimato per la replica della gara del Gran Premio di Spagna.",
+      "fonte": "Sky Sport (palinsesto generale F1)",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "01:00*",
-      "evento": "Liverpool - Como",
-      "competizione": "Calcio - Amichevole",
-      "canale": "SportItalia",
-      "note": "Partita del giorno successivo (14 settembre) ma inclusa nel palinsesto notturno. Orario stimato basato sulla fonte.",
-      "fonte": "Stasera in TV",
+      "orario": "22:00*",
+      "evento": "US Open - Finale Singolare Maschile",
+      "competizione": "Grande Slam",
+      "canale": "Sky Sport Tennis",
+      "note": "Orario stimato (ora italiana). L'US Open si conclude il 13 settembre (data locale New York). La presenza di giocatori italiani non è garantita.",
+      "fonte": "ATP official calendar, Sky Sport",
       "accuratezza_orario": "stimato"
     }
   ]
