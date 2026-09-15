@@ -1,13 +1,22 @@
 {
-  "last_updated": "2026-09-15T12:37:32.692108+02:00",
+  "last_updated": "2026-09-15T22:36:04.531438+02:00",
   "events": [
     {
-      "orario": "08:00",
-      "evento": "MotoGP 2026 - GP San Marino e Riviera di Rimini: Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Arena",
+      "orario": "18:00",
+      "evento": "Genoa vs Südtirol",
+      "competizione": "Coppa Italia - Sedicesimi di finale",
+      "canale": "Italia 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcADXpzG_wSOlV_n-F3adfCk4rH8N4wa6Nt-WuOq-wYSESYQf0Mx7hqFBvFN3sqJQIdfsU_Wt_SqXbMTUmJEB2zV-G3r2YoOomkHqcCGoUzJxsYQ2TaFjnVDhHZjHk-4Nd9x43fYlcosvdokAlRZUN-MYhrY-s57TYapPL7-FdMK8sC80rdcrrYrYPC-62",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWfF3fh6NHhOmjNa9j-NOF79b7i81mcoqQqO98PFJaWP31qt5oZoQLbyCry_E36wLe8guknwbcqT88wINxs6yrvXHMM6dDjLsCryFwaKSaloqd0c4-rTswMqyNASqccSvJvh2VvKsuCgvvOMT3f0oFo2Vaq3xY11JiSKhJPN9lHw8ozFSmb0FQQ4y_QFXZfDhC2fMnPzslPssASEsLIVoVz6m1R1kromyxKojMiYhSq50Zcvo=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Fiorentina vs Pisa",
+      "competizione": "Coppa Italia - Sedicesimi di finale",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWfF3fh6NHhOmjNa9j-NOF79b7i81mcoqQqO98PFJaWP31qt5oZoQLbyCry_E36wLe8guknwbcqT88wINxs6yrvXHMM6dDjLsCryFwaKSaloqd0c4-rTswMqyNASqccSvJvh2VvKsuCgvvOMT3f0oFo2Vaq3xY11JiSKhJPN9lHw8ozFSmb0FQQ4y_QFXZfDhC2fMnPzslPssASEsLIVoVz6m1R1kromyxKojMiYhSq50Zcvo=",
       "accuratezza_orario": "esatto"
     }
   ]
