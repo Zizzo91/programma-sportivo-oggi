@@ -1,50 +1,122 @@
 {
-  "last_updated": "2026-09-16T12:26:41.495113+02:00",
+  "last_updated": "2026-09-16T17:42:39.349451+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Serie A 2026/2027 - Inter - Udinese (4a g.)",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEujx2L8Sp7VZ6cOOazHO9qN3KfN05frjeGkTlU8fjNYTO7Te_V1xuGIk0fwYfS41YxBturZYrjy5PWcg8gc17WqXOu1cJITJmMNfVTAnqUErauFXgdK_9nGBaks422TfNSDIuhMn48t_gzI52iWH5_UA8=",
+      "orario": "12:00",
+      "evento": "GP Italia: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara.",
+      "fonte": "Guida TV Sky Sport F1 HD",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "07:45",
-      "evento": "Goleador L'ora dei Gol",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": "Programma di approfondimento",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEujx2L8Sp7VZ6cOOazHO9qN3KfN05frjeGkTlU8fjNYTO7Te_V1xuGIk0fwYfS41YxBturZYrjy5PWcg8gc17WqXOu1cJITJmMNfVTAnqUErauFXgdK_9nGBaks422TfNSDIuhMn48t_gzI52iWH5_UA8=",
+      "orario": "13:00",
+      "evento": "GP Olanda Sprint Race",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della Sprint Race.",
+      "fonte": "Guida TV Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:55",
+      "evento": "GP Olanda Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara.",
+      "fonte": "Guida TV Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Reggina - Avola",
+      "competizione": "Serie D - Girone I",
+      "canale": "Reggina Channel",
+      "note": "Streaming pay-per-view.",
+      "fonte": "TuttoCalcioCalabria.it, Stadionews, Il Tifoso Reggino",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Omonia Nicosia - Celta Vigo",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 251",
+      "note": "Diretta streaming su Sky Go e NOW.",
+      "fonte": "Sky Sport, Adnkronos, Sportface",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Ararat Armenia - Sparta Praga",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Arena, Sky Sport 252",
+      "note": "Diretta streaming su Sky Go e NOW.",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "GP Madrid: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara.",
+      "fonte": "Guida TV Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "GP San Marino e Riviera di Rimini: Gara",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara.",
+      "fonte": "Guida TV Sky Sport MotoGP",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Milan - Benfica",
       "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (canale 252), NOW",
-      "note": "Prima giornata fase campionato",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYtnCn7AP4pX7Ku5j121IGIyNIm50-cEzHTbQVl1_FEVTg35ugszmjBGS62pTVfvDTEugs__MavYydkNjqSCFeXoZXjELtgWiOiyj9Df1qGYo2rqQDgQOsD3Cu8Rt2T_NrhNX1zamBa5RpXJJehbkHwPiLGD4cB37VK0DUqgShd3fSi3zitd29rCyjRSdr6GOHCxX3FEr-I5tWgDKAgi8HcivboCjw5ovpafybDI_4t_8ZTJbLsyXexNDFIkKIRrPqy-7ibt80hQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5mIo3rwekqXRZIhsTjiKiOuyKRTEtyCa1MStu7IVej73JmDb-oOG1MUJn6TF8tRzuGJz2QhWYp-2gUla-RzJU6s1RdshG9Q8F8-W2PqTFrwujtGNfg1C64EgluIXo9lkIN4pgWxalmYQDyhGFuc8sGPWaypttP9cSq3B-gb_wYpbDe_USbtq2QTS0ZScNFBq2HLq7kImSptljflNEIgPcnc=",
+      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K",
+      "note": "Diretta streaming su Sky Go e NOW.",
+      "fonte": "Calcio e Finanza, Virgilio Sport, Adnkronos, Libero, Sky Sport, CronacaPop, Datasport.it, Sportface",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Roca Batalla – Napolitano",
-      "competizione": "ATP Challenger 50 Biella - Trentaduesimi di finale",
-      "canale": "Sky Sport Tennis (stimato)",
-      "note": "Quarto incontro. Match con giocatore italiano (Napolitano)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0yHWkSlQIhicKuzlcWAAuzUuCEvH53x0U5wwA6btK3SXURBJeakBD2YmHOr1r1kE211hAbpx4-nz43wVwUbbqJa5oHanNp43zAhg3nfvb10PHvdy_oy-WLdb-OYLPCsM_ymMpqVC--usAUzq_y9R66cKCa-VwwSTtF2b9AgIdGYp3J5YKcRS1YvxfTXTcHqdTHZ0Yxfpnhzz9gfj9FsEdQkVxXsF8C2PqeEr8GMi-MzFImoZI4W5NLkD0wbdyy6yjw=",
-      "accuratezza_orario": "tba"
+      "orario": "21:00",
+      "evento": "Diretta Gol Europa League",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Max, Sky Sport 251",
+      "note": "Collegamenti simultanei da diversi campi. Diretta streaming su Sky Go e NOW.",
+      "fonte": "Sky Sport, Libero, CronacaPop, kisskiss.it",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Ribecai – Droguet",
-      "competizione": "ATP Challenger 100 Rennes - Trentaduesimi di finale",
-      "canale": "Sky Sport Tennis (stimato)",
-      "note": "Secondo incontro. Match con giocatore italiano (Ribecai)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0yHWkSlQIhicKuzlcWAAuzUuCEvH53x0U5wwA6btK3SXURBJeakBD2YmHOr1r1kE211hAbpx4-nz43wVwUbbqJa5oHanNp43zAhg3nfvb10PHvdy_oy-WLdb-OYLPCsM_ymMpqVC--usAUzq_y9R66cKCa-VwwSTtF2b9AgIdGYp3J5YKcRS1YvxfTXTcHqdTHZ0Yxfpnhzz9gfj9FsEdQkVxXsF8C2PqeEr8GMi-MzFImoZI4W5NLkD0wbdyy6yjw=",
-      "accuratezza_orario": "tba"
+      "orario": "21:45",
+      "evento": "GP San Marino e Riviera di Rimini: Gara",
+      "competizione": "Moto3",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara.",
+      "fonte": "Guida TV Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "San Marino",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara. (Giovedì 17 Settembre)",
+      "fonte": "Guida TV Sky Sport MotoGP",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "GP Madrid: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 HD",
+      "note": "Replica della gara. (Giovedì 17 Settembre)",
+      "fonte": "Guida TV Sky Sport F1 HD",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
