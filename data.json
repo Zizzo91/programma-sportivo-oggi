@@ -1,23 +1,50 @@
 {
-  "last_updated": "2026-09-15T22:36:04.531438+02:00",
+  "last_updated": "2026-09-16T12:26:41.495113+02:00",
   "events": [
     {
-      "orario": "18:00",
-      "evento": "Genoa vs Südtirol",
-      "competizione": "Coppa Italia - Sedicesimi di finale",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWfF3fh6NHhOmjNa9j-NOF79b7i81mcoqQqO98PFJaWP31qt5oZoQLbyCry_E36wLe8guknwbcqT88wINxs6yrvXHMM6dDjLsCryFwaKSaloqd0c4-rTswMqyNASqccSvJvh2VvKsuCgvvOMT3f0oFo2Vaq3xY11JiSKhJPN9lHw8ozFSmb0FQQ4y_QFXZfDhC2fMnPzslPssASEsLIVoVz6m1R1kromyxKojMiYhSq50Zcvo=",
+      "orario": "06:00",
+      "evento": "Serie A 2026/2027 - Inter - Udinese (4a g.)",
+      "competizione": "Serie A",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEujx2L8Sp7VZ6cOOazHO9qN3KfN05frjeGkTlU8fjNYTO7Te_V1xuGIk0fwYfS41YxBturZYrjy5PWcg8gc17WqXOu1cJITJmMNfVTAnqUErauFXgdK_9nGBaks422TfNSDIuhMn48t_gzI52iWH5_UA8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:45",
+      "evento": "Goleador L'ora dei Gol",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Programma di approfondimento",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEujx2L8Sp7VZ6cOOazHO9qN3KfN05frjeGkTlU8fjNYTO7Te_V1xuGIk0fwYfS41YxBturZYrjy5PWcg8gc17WqXOu1cJITJmMNfVTAnqUErauFXgdK_9nGBaks422TfNSDIuhMn48t_gzI52iWH5_UA8=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Fiorentina vs Pisa",
-      "competizione": "Coppa Italia - Sedicesimi di finale",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWfF3fh6NHhOmjNa9j-NOF79b7i81mcoqQqO98PFJaWP31qt5oZoQLbyCry_E36wLe8guknwbcqT88wINxs6yrvXHMM6dDjLsCryFwaKSaloqd0c4-rTswMqyNASqccSvJvh2VvKsuCgvvOMT3f0oFo2Vaq3xY11JiSKhJPN9lHw8ozFSmb0FQQ4y_QFXZfDhC2fMnPzslPssASEsLIVoVz6m1R1kromyxKojMiYhSq50Zcvo=",
+      "evento": "Milan - Benfica",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport (canale 252), NOW",
+      "note": "Prima giornata fase campionato",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYtnCn7AP4pX7Ku5j121IGIyNIm50-cEzHTbQVl1_FEVTg35ugszmjBGS62pTVfvDTEugs__MavYydkNjqSCFeXoZXjELtgWiOiyj9Df1qGYo2rqQDgQOsD3Cu8Rt2T_NrhNX1zamBa5RpXJJehbkHwPiLGD4cB37VK0DUqgShd3fSi3zitd29rCyjRSdr6GOHCxX3FEr-I5tWgDKAgi8HcivboCjw5ovpafybDI_4t_8ZTJbLsyXexNDFIkKIRrPqy-7ibt80hQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5mIo3rwekqXRZIhsTjiKiOuyKRTEtyCa1MStu7IVej73JmDb-oOG1MUJn6TF8tRzuGJz2QhWYp-2gUla-RzJU6s1RdshG9Q8F8-W2PqTFrwujtGNfg1C64EgluIXo9lkIN4pgWxalmYQDyhGFuc8sGPWaypttP9cSq3B-gb_wYpbDe_USbtq2QTS0ZScNFBq2HLq7kImSptljflNEIgPcnc=",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Roca Batalla – Napolitano",
+      "competizione": "ATP Challenger 50 Biella - Trentaduesimi di finale",
+      "canale": "Sky Sport Tennis (stimato)",
+      "note": "Quarto incontro. Match con giocatore italiano (Napolitano)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0yHWkSlQIhicKuzlcWAAuzUuCEvH53x0U5wwA6btK3SXURBJeakBD2YmHOr1r1kE211hAbpx4-nz43wVwUbbqJa5oHanNp43zAhg3nfvb10PHvdy_oy-WLdb-OYLPCsM_ymMpqVC--usAUzq_y9R66cKCa-VwwSTtF2b9AgIdGYp3J5YKcRS1YvxfTXTcHqdTHZ0Yxfpnhzz9gfj9FsEdQkVxXsF8C2PqeEr8GMi-MzFImoZI4W5NLkD0wbdyy6yjw=",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Ribecai – Droguet",
+      "competizione": "ATP Challenger 100 Rennes - Trentaduesimi di finale",
+      "canale": "Sky Sport Tennis (stimato)",
+      "note": "Secondo incontro. Match con giocatore italiano (Ribecai)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0yHWkSlQIhicKuzlcWAAuzUuCEvH53x0U5wwA6btK3SXURBJeakBD2YmHOr1r1kE211hAbpx4-nz43wVwUbbqJa5oHanNp43zAhg3nfvb10PHvdy_oy-WLdb-OYLPCsM_ymMpqVC--usAUzq_y9R66cKCa-VwwSTtF2b9AgIdGYp3J5YKcRS1YvxfTXTcHqdTHZ0Yxfpnhzz9gfj9FsEdQkVxXsF8C2PqeEr8GMi-MzFImoZI4W5NLkD0wbdyy6yjw=",
+      "accuratezza_orario": "tba"
     }
   ]
 }
