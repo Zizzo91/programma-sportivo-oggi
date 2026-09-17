@@ -1,22 +1,103 @@
 {
-  "last_updated": "2026-09-17T17:48:59.586012+02:00",
+  "last_updated": "2026-09-17T22:41:48.553160+02:00",
   "events": [
     {
-      "orario": "20:00",
-      "evento": "Juventus vs NEC Nijmegen",
+      "orario": "18:45",
+      "evento": "OFI Creta - Hoffenheim",
       "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 252",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU5FBRTN4xL7vysW3T8Lq33PQzmfmW3610evWvmb1zVIs5PAWwmYyr0aQJ82kucJTjJHZQbnEWjRFoPlPQ3MYcVOt2uQFil96tzdU2HpcOB8XSNMibm0QHvqnJdMomcafVQTH7IRs0pWDQ7PmqlxRqCCZcO9H8T88BkCrtRjNqWOuxDsaycU9Ajw1XHil4RWxj3VzxvZcLZnV8Nrb_D8ehUQm0ev73ID1Znd5x3fTgeqYQM5hzbW3OMBY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqqhKluQFV6rNa68pglQ3xDCmOMxFVU6VT9rkIrQZQqJ_xT4BA7TTQGG5a8qa8RxxZFRYfm7rvkuUQrxk2BRxnMfrLzo8bC6EA-rjTt4Jnaaogle8L-4JIo9iatf9ywHjxlvAcSYj_rkwo5eXU1apLdHhcPhc5mWYCaRZQ9EMa9jIAbNOHJk1AM3ww0ZwH86HEUoUaZg==",
+      "canale": "Sky Sport / NOW / Sky Go",
+      "note": "",
+      "fonte": "Adnkronos, Sky Sport, TUTTOmercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Diretta Gol Europa League",
+      "orario": "18:45",
+      "evento": "Levski Sofia - Salisburgo",
       "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Max",
-      "note": "Include la partita Juventus-NEC Nijmegen e altre gare.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwdav5JewiHvZf0O126s5avy4DayP6NOCrBGhMQqM-Pjr9AzDkhGakHp7f0hakaFOCGLPb0IbLbi016iL0Js5UfQQM-c3SxkC--Iwemw86XkbAnISNpbFsC8DaRnlOL9Qzrm2jBewVpSmYX3F4zGSvD1mZDAILi3X6xXAMx2vQRebxuzGJhYCqX2rIBVR4_7ZV2XmAWpWAUjokUtiQb-yaLmJYSNK6eH9tuCHpNKFDFp1-dfI=",
+      "canale": "Sky Sport Uno / Sky Sport / NOW / Sky Go",
+      "note": "",
+      "fonte": "Sky Sport Uno, Adnkronos, Sky Sport, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Juventus - NEC Nijmegen",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno / Sky Sport 252 / Sky Sport 4K / NOW / Sky Go",
+      "note": "",
+      "fonte": "Fanpage, Adnkronos, Calciomagazine, Sky Sport, Datasport, TUTTOmercatoWEB, Guida TV, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Besiktas - Olympique Marsiglia",
+      "competizione": "UEFA Europa League",
+      "canale": "TV8 / Sky Sport 254 / NOW / Sky Go",
+      "note": "Anche in chiaro su TV8.",
+      "fonte": "Adnkronos, Datasport, Guida programmi tv TV8, Stasera in TV, Guida TV - Quotidiano Nazionale, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Celtic - Ferencvaros",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Max / Sky Sport 251 / NOW / Sky Go",
+      "note": "Collegamenti durante Diretta Gol.",
+      "fonte": "Adnkronos, Datasport, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Crystal Palace - Lech Poznan",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport 255 / NOW / Sky Go",
+      "note": "",
+      "fonte": "Adnkronos, Datasport, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Viktoria Plzen - Union Saint-Gilloise",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport / NOW / Sky Go",
+      "note": "",
+      "fonte": "Adnkronos, Sky Sport, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Lillestrom - Torreense",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport / NOW / Sky Go",
+      "note": "",
+      "fonte": "Adnkronos, Sky Sport, TUTTOmercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Real Sociedad - Bournemouth",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport / Sky Sport Mix / NOW / Sky Go",
+      "note": "",
+      "fonte": "Adnkronos, Sky Sport, TUTTOmercatoWEB, Guida TV, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:45",
+      "evento": "Replica Juventus - NEC Nijmegen",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della 1a giornata.",
+      "fonte": "Guida TV, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Replica Real Sociedad - Bournemouth",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della 1a giornata.",
+      "fonte": "Guida TV, Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
