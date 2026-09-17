@@ -1,121 +1,49 @@
 {
-  "last_updated": "2026-09-16T17:42:39.349451+02:00",
+  "last_updated": "2026-09-17T04:11:53.325551+02:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "GP Italia: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Replica della gara.",
-      "fonte": "Guida TV Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "GP Olanda Sprint Race",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Replica della Sprint Race.",
-      "fonte": "Guida TV Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:55",
-      "evento": "GP Olanda Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Replica della gara.",
-      "fonte": "Guida TV Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Reggina - Avola",
-      "competizione": "Serie D - Girone I",
-      "canale": "Reggina Channel",
-      "note": "Streaming pay-per-view.",
-      "fonte": "TuttoCalcioCalabria.it, Stadionews, Il Tifoso Reggino",
+      "orario": "06:00",
+      "evento": "UEFA Champions League 2026/2027 (1a g.)",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replay: Real Madrid - Inter",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBBso55Itma7i1YGmoZsGb4OL2NqVPmSoKL37gmZMd8IttwtL5ANqsFMSRThUCi5V4fAgbZ70iuHZXfEwrWK0G_8qhWfOBnvNl-qbWlvCEwZhjFedtxuw7d_PHGRIEUtWyH_hw929Lnnp4y3xH5W0a9ERt",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
-      "evento": "Omonia Nicosia - Celta Vigo",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 251",
-      "note": "Diretta streaming su Sky Go e NOW.",
-      "fonte": "Sky Sport, Adnkronos, Sportface",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Ararat Armenia - Sparta Praga",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Arena, Sky Sport 252",
-      "note": "Diretta streaming su Sky Go e NOW.",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "GP Madrid: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Replica della gara.",
-      "fonte": "Guida TV Sky Sport F1 HD",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "GP San Marino e Riviera di Rimini: Gara",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara.",
-      "fonte": "Guida TV Sky Sport MotoGP",
+      "evento": "Levski Sofia - Red Bull Salisburgo",
+      "competizione": "Calcio - UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "note": "Parte della 1a giornata di Europa League",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUmkZwilkoDRrQlK6i3bYGh8dgDjcNhiJNhYSLxqu-ZZfXd96bIEN83tuIHlreIN7XGtqxThsfoEJF3r2z01fn98QxHupwh4YREeJ9i4P2jigMwW6EzDF2uHAbnrvDivFaR0glHLRFNnIB2jFl_7gT-6MpI-nGA34kgjAj0ZFPSbVU82Y8uoycB12oe8uTlAJMRbmQWczTNFTieHCEIvlNA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Milan - Benfica",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K",
-      "note": "Diretta streaming su Sky Go e NOW.",
-      "fonte": "Calcio e Finanza, Virgilio Sport, Adnkronos, Libero, Sky Sport, CronacaPop, Datasport.it, Sportface",
+      "evento": "Juventus - NEC Nimega",
+      "competizione": "Calcio - UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, NOW, Sky Go",
+      "note": "1a giornata della fase campionato",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUmkZwilkoDRrQlK6i3bYGh8dgDjcNhiJNhYSLqxq-ZZfXd96bIEN83tuIHlreIN7XGtqxThsfoEJF3r2z01fn98QxHupwh4YREeJ9i4P2jigMwW6EzDF2uHAbnrvDivFaR0glHLRFNnIB2jFl_7gT-6MpI-nGA34kgjAj0ZFPSbVU82Y8uoycB12oe8uTlAJMRbmQWczTNFTieHCEIvlNA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Diretta Gol Europa League",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Max, Sky Sport 251",
-      "note": "Collegamenti simultanei da diversi campi. Diretta streaming su Sky Go e NOW.",
-      "fonte": "Sky Sport, Libero, CronacaPop, kisskiss.it",
+      "evento": "Besiktas - Olympique Marsiglia",
+      "competizione": "Calcio - UEFA Europa League",
+      "canale": "TV8, NOW",
+      "note": "1a giornata, trasmessa in chiaro",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVgACeSP4NDLR8YJOYX_gNYtYDvTT2te8Hli6dLzEVt2yvwVU16LJJ20K_g8xZldQLCbMG6RtsY7aOLta9vIY4juZnb1La9NA-rVaLQmhyMlYy0ouERY3sxx5EXclxchTp_td3IC8HnhWmPShmvk3Rv1NbcINefC7D5uCZLDSvLwqYmbHT01jkCLsOB7pSmT4HP-s=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:45",
-      "evento": "GP San Marino e Riviera di Rimini: Gara",
-      "competizione": "Moto3",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara.",
-      "fonte": "Guida TV Sky Sport MotoGP",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "San Marino",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara. (Giovedì 17 Settembre)",
-      "fonte": "Guida TV Sky Sport MotoGP",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "GP Madrid: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1 HD",
-      "note": "Replica della gara. (Giovedì 17 Settembre)",
-      "fonte": "Guida TV Sky Sport F1 HD",
+      "orario": "01:45",
+      "evento": "UEFA Europa League 2026/2027 (1a g.)",
+      "competizione": "Calcio - UEFA Europa League",
+      "canale": "Sky Sport Uno",
+      "note": "Replay: Juventus - NEC Nimega",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBBso55Itma7i1YGmoZsGb4OL2NqVPmSoKL37gmZMd8IttwtL5ANqsFMSRThUCi5V4fAgbZ70iuHZXfEwrWK0G_8qhWfOBnvNl-qbWlvCEwZhjFedtxuw7d_PHGRIEUtWyH_hw929Lnnp4y3xH5W0a9ERt",
       "accuratezza_orario": "esatto"
     }
   ]
