@@ -1,31 +1,22 @@
 {
-  "last_updated": "2026-09-17T12:35:49.013853+02:00",
+  "last_updated": "2026-09-17T17:48:59.586012+02:00",
   "events": [
     {
-      "orario": "21:00",
-      "evento": "Juventus - NEC Nijmegen",
-      "competizione": "UEFA Europa League (Fase campionato - Giornata 1)",
-      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "fanpage.it, libertymagazine.it, adnkronos.com, sky.it, goal.com, tuttomercatoweb.com, datasport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:45",
-      "evento": "UEFA Europa League 2026/2027 - Juventus - NEC Nijmegen (Replica)",
+      "orario": "20:00",
+      "evento": "Juventus vs NEC Nijmegen",
       "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "guida.tv/palinsesto/sky-sport-uno",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 252",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU5FBRTN4xL7vysW3T8Lq33PQzmfmW3610evWvmb1zVIs5PAWwmYyr0aQJ82kucJTjJHZQbnEWjRFoPlPQ3MYcVOt2uQFil96tzdU2HpcOB8XSNMibm0QHvqnJdMomcafVQTH7IRs0pWDQ7PmqlxRqCCZcO9H8T88BkCrtRjNqWOuxDsaycU9Ajw1XHil4RWxj3VzxvZcLZnV8Nrb_D8ehUQm0ev73ID1Znd5x3fTgeqYQM5hzbW3OMBY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqqhKluQFV6rNa68pglQ3xDCmOMxFVU6VT9rkIrQZQqJ_xT4BA7TTQGG5a8qa8RxxZFRYfm7rvkuUQrxk2BRxnMfrLzo8bC6EA-rjTt4Jnaaogle8L-4JIo9iatf9ywHjxlvAcSYj_rkwo5eXU1apLdHhcPhc5mWYCaRZQ9EMa9jIAbNOHJk1AM3ww0ZwH86HEUoUaZg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "UEFA Champions League 2026/2027 - Real Madrid - Inter (Replica)",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "guida.tv/palinsesto/sky-sport-uno",
+      "orario": "20:00",
+      "evento": "Diretta Gol Europa League",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Max",
+      "note": "Include la partita Juventus-NEC Nijmegen e altre gare.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwdav5JewiHvZf0O126s5avy4DayP6NOCrBGhMQqM-Pjr9AzDkhGakHp7f0hakaFOCGLPb0IbLbi016iL0Js5UfQQM-c3SxkC--Iwemw86XkbAnISNpbFsC8DaRnlOL9Qzrm2jBewVpSmYX3F4zGSvD1mZDAILi3X6xXAMx2vQRebxuzGJhYCqX2rIBVR4_7ZV2XmAWpWAUjokUtiQb-yaLmJYSNK6eH9tuCHpNKFDFp1-dfI=",
       "accuratezza_orario": "esatto"
     }
   ]
