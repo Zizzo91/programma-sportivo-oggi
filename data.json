@@ -1,67 +1,139 @@
 {
-  "last_updated": "2026-09-18T12:11:29.432549+02:00",
+  "last_updated": "2026-09-18T17:22:08.914778+02:00",
   "events": [
     {
       "orario": "09:00",
-      "evento": "Prove libere 1 Moto3",
-      "competizione": "MotoGP GP Austria 2026",
+      "evento": "Moto3 Prove Libere 1",
+      "competizione": "MotoGP GP Austria",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "OA Sport, FormulaPassion, MotoGrandPrix, MotoGP.com",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:50",
-      "evento": "Prove libere 1 Moto2",
-      "competizione": "MotoGP GP Austria 2026",
+      "evento": "Moto2 Prove Libere 1",
+      "competizione": "MotoGP GP Austria",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "OA Sport, FormulaPassion, MotoGrandPrix",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "QF Basiletti – Gorgodze",
+      "competizione": "WTA 125 Ljubljana",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Basiletti (Italia) in campo.",
+      "fonte": "LiveTennis.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:45",
-      "evento": "Prove libere 1 MotoGP",
-      "competizione": "MotoGP GP Austria 2026",
+      "evento": "MotoGP Prove Libere 1",
+      "competizione": "MotoGP GP Austria",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "Virgilio Sport, Sky Sport, OA Sport, FormulaPassion, MotoGrandPrix, MotoGP.com",
+      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix",
       "accuratezza_orario": "esatto"
     },
     {
+      "orario": "11:00*",
+      "evento": "QF Tomic – Binda",
+      "competizione": "ATP Challenger 100 Guangzhou",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Binda (Italia) in campo. 2° incontro.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "13:15",
-      "evento": "Pre-qualifiche Moto3",
-      "competizione": "MotoGP GP Austria 2026",
+      "evento": "Moto3 Prove 1 (Pre-qualifiche)",
+      "competizione": "MotoGP GP Austria",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "Sky Sport Uno, OA Sport",
+      "fonte": "FormulaPassion, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "QF Brunold – Caniato",
+      "competizione": "ATP Challenger 50 Biella",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Brunold e Caniato (Italia) in campo. Inizio programma.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30*",
+      "evento": "SF Campana Lee /Marti Pujolras – Agamenone /Zeitune",
+      "competizione": "ATP Challenger 50 Biella (doppio)",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Agamenone (Italia) in campo. 3° incontro.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "13:30",
+      "evento": "QF Barrena – Martin Manzano",
+      "competizione": "ATP Challenger 50 Biella",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Inizio programma.",
+      "fonte": "LiveTennis.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:05",
-      "evento": "Pre-qualifiche Moto2",
-      "competizione": "MotoGP GP Austria 2026",
+      "evento": "Moto2 Prove 1 (Pre-qualifiche)",
+      "competizione": "MotoGP GP Austria",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "Sky Sport Uno, OA Sport",
+      "fonte": "FormulaPassion, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
+      "orario": "15:00*",
+      "evento": "QF Cecchinato – Trungelliti",
+      "competizione": "ATP Challenger 125 Szczecin",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Cecchinato (Italia) in campo. Non prima di.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "15:00",
-      "evento": "Pre-qualifiche MotoGP",
-      "competizione": "MotoGP GP Austria 2026",
+      "evento": "MotoGP Prove (Pre-qualifiche)",
+      "competizione": "MotoGP GP Austria",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "Virgilio Sport, Sky Sport, OA Sport, FormulaPassion, MotoGrandPrix, MotoGP.com",
+      "fonte": "FormulaPassion, OA Sport",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30*",
+      "evento": "QF Bandecchi – Pigato",
+      "competizione": "WTA 125 Caldas Da Rainha",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Pigato (Italia) in campo. 2° incontro.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "QF Maestrelli – Gueymard Wayenburg",
+      "competizione": "ATP Challenger 100 Rennes",
+      "canale": "SuperTennis, SuperTennis+",
+      "note": "Maestrelli (Italia) in campo. 2° incontro.",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
       "evento": "Monza - Sassuolo",
       "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN",
+      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN, NOW",
       "note": "",
-      "fonte": "Sky Sport, Programmi Sky, Libero Magazine",
+      "fonte": "Sportface.it, Sky Sport, Libero",
       "accuratezza_orario": "esatto"
     }
   ]
