@@ -1,139 +1,85 @@
 {
-  "last_updated": "2026-09-18T17:22:08.914778+02:00",
+  "last_updated": "2026-09-18T22:06:25.420384+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Moto3 Prove Libere 1",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "orario": "20:00",
+      "evento": "OPI BOXING NIGHT",
+      "competizione": "Boxe",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfeldFbNJETAGfT8O4ziclv_MdG46GJscMcMsmUOaSdJ3pCxOuovOEar7Xhg4-v-XFQebv4L1CCo2lellz996zRKspyXxwIXaSdjGwozd8L8OvJxP_nCZfhviT0sw-UwQA5jk6nBkLDnJF",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:50",
-      "evento": "Moto2 Prove Libere 1",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "orario": "20:30",
+      "evento": "Juve Stabia-Cesena",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
       "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1h1uWp6B2BxV3XCGZXJSZhPZQbYIxV7qBwNYHGDLCZesgjcJJclNfGPEBlpFSASv6UxAelaOjXuDv1qMRdJxcmrpMTII8Pn3t-4viRVhhv8-pQwIjNn3pzcevdD2SFtYgUL0q2e4Z7SPhy7Yml3TY1g5GSaU1iDdG8-9OyHZqqGba7dn3diG2CT2CPkI3tQuaLhdY7UZzdgeLx9d_HgPT4C5bSL5c0ZwCBvAUbGArGssOU_JjNHM9bA6tLKSU9KxKiZZb1enV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:00",
-      "evento": "QF Basiletti – Gorgodze",
-      "competizione": "WTA 125 Ljubljana",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Basiletti (Italia) in campo.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:45",
-      "evento": "MotoGP Prove Libere 1",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "orario": "20:30",
+      "evento": "Bayern Monaco-Union Berlino",
+      "competizione": "Bundesliga",
+      "canale": "Sky Sport Arena, NOW",
       "note": "",
-      "fonte": "FormulaPassion, OA Sport, MotoGrandPrix",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1h1uWp6B2BxV3XCGZXJSZhPZQbYIxV7qBwNYHGDLCZesgjcJJclNfGPEBlpFSASv6UxAelaOjXuDv1qMRdJxcmrpMTII8Pn3t-4viRVhhv8-pQwIjNn3pzcevdD2SFtYgUL0q2e4Z7SPhy7Yml3TY1g5GSaU1iDdG8-9OyHZqqGba7dn3diG2CT2CPkI3tQuaLhdY7UZzdgeLx9d_HgPT4C5bSL5c0ZwCBvAUbGArGssOU_JjNHM9bA6tLKSU9KxKiZZb1enV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00*",
-      "evento": "QF Tomic – Binda",
-      "competizione": "ATP Challenger 100 Guangzhou",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Binda (Italia) in campo. 2° incontro.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "13:15",
-      "evento": "Moto3 Prove 1 (Pre-qualifiche)",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "orario": "20:30",
+      "evento": "Albacete - Córdoba",
+      "competizione": "Segunda División",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "FormulaPassion, OA Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFFP5ILXIzt01-MsGlZSwHn8m6fmIjTIpEpoYH9Ut96yAs9fSSZlz__mAWnBs72Di2waXUqFMHdGPZVb6ChdzV4uERLntu4NisHYGPqTEMPOqVe9keKVWqUdeJ4TfqVdPLcpW4QctIJ6lUuIU511YZP9sgogPiqeozoQnaxi4wbAJWUAu2GOsMRSFpzFpLtDTADc7wQ4xSaaYZBOXEfm6keWREp73EUFczm6cpDUvhRjNNxIDGq_P3tVCDrE5be_OJq9FjeduIbQn45sqjZqQa2MOrBLw6-5vonWYiJXQQQ",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30",
-      "evento": "QF Brunold – Caniato",
-      "competizione": "ATP Challenger 50 Biella",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Brunold e Caniato (Italia) in campo. Inizio programma.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30*",
-      "evento": "SF Campana Lee /Marti Pujolras – Agamenone /Zeitune",
-      "competizione": "ATP Challenger 50 Biella (doppio)",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Agamenone (Italia) in campo. 3° incontro.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "13:30",
-      "evento": "QF Barrena – Martin Manzano",
-      "competizione": "ATP Challenger 50 Biella",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Inizio programma.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:05",
-      "evento": "Moto2 Prove 1 (Pre-qualifiche)",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "FormulaPassion, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00*",
-      "evento": "QF Cecchinato – Trungelliti",
-      "competizione": "ATP Challenger 125 Szczecin",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Cecchinato (Italia) in campo. Non prima di.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00",
-      "evento": "MotoGP Prove (Pre-qualifiche)",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "FormulaPassion, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30*",
-      "evento": "QF Bandecchi – Pigato",
-      "competizione": "WTA 125 Caldas Da Rainha",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Pigato (Italia) in campo. 2° incontro.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "QF Maestrelli – Gueymard Wayenburg",
-      "competizione": "ATP Challenger 100 Rennes",
-      "canale": "SuperTennis, SuperTennis+",
-      "note": "Maestrelli (Italia) in campo. 2° incontro.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Monza - Sassuolo",
+      "evento": "Monza-Sassuolo",
       "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN, NOW",
+      "canale": "Sky, DAZN, Sky Sport Calcio",
       "note": "",
-      "fonte": "Sportface.it, Sky Sport, Libero",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1h1uWp6B2BxV3XCGZXJSZhPZQbYIxV7qBwNYHGDLCZesgjcJJclNfGPEBlpFSASv6UxAelaOjXuDv1qMRdJxcmrpMTII8Pn3t-4viRVhhv8-pQwIjNn3pzcevdD2SFtYgUL0q2e4Z7SPhy7Yml3TY1g5GSaU1iDdG8-9OyHZqqGba7dn3diG2CT2CPkI3tQuaLhdY7UZzdgeLx9d_HgPT4C5bSL5c0ZwCBvAUbGArGssOU_JjNHM9bA6tLKSU9KxKiZZb1enV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Brentford-Chelsea",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Uno, Sky Sport 1, Sky Sport 253, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1h1uWp6B2BxV3XCGZXJSZhPZQbYIxV7qBwNYHGDLCZesgjcJJclNfGPEBlpFSASv6UxAelaOjXuDv1qMRdJxcmrpMTII8Pn3t-4viRVhhv8-pQwIjNn3pzcevdD2SFtYgUL0q2e4Z7SPhy7Yml3TY1g5GSaU1iDdG8-9OyHZqqGba7dn3diG2CT2CPkI3tQuaLhdY7UZzdgeLx9d_HgPT4C5bSL5c0ZwCBvAUbGArGssOU_JjNHM9bA6tLKSU9KxKiZZb1enV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:15",
+      "evento": "Racing-Sarmiento",
+      "competizione": "Liga Profesional argentina",
+      "canale": "Sportitalia, COMO TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcu4ev9OsWNZj_XNjLJHK_g9wPGEx1nbcFIk60rcFtpONV2a9WAV5ornzetn1Knd4qk6ku_hVxgARfToJ_3trMU3jPb88E-9PWIaaxs_GeZrBdAGtk55hbHIc_KubSzoCUKrgqeWkVx5xszkyP9yMkkscSN8nDNsSsUy4rIbQdFyuqv8K8KZpiXs3Y-7yRXHHF-HhzOyaKBlqIY6IvMFYlSURbxI0tixeTQXsCRt7ynhOqOOU",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Flamengo–Independiente Del Valle",
+      "competizione": "Copa Libertadores",
+      "canale": "COMO TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_z2nGKztROJPltuMCt3cGV-x-dCD3Z7dHNPYHP1Seem9veY7lMQg-hNKbL7_GoLd_5cCrdRhCUl-MDtCfxqrQelmWwxT_W0sR1Aos4voewduTfpBaPVDxIU2MInYZZiMLLJOl--KFurV8MUO8NEzVILErAibUyJma3mgTOTaQHW-dscM",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Montevideo City Torque–Cienciano",
+      "competizione": "Copa Sudamericana",
+      "canale": "COMO TV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_z2nGKztROJPltuMCt3cGV-x-dCD3Z7dHNPYHP1Seem9veY7lMQg-hNKbL7_GoLd_5cCrdRhCUl-MDtCfxqrQelmWwxT_W0sR1Aos4voewduTfpBaPVDxIU2MInYZZiMLLJOl--KFurV8MUO8NEzVILErAibUyJma3mgTOTaQHW-dscM",
       "accuratezza_orario": "esatto"
     }
   ]
