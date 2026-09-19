@@ -1,111 +1,93 @@
 {
-  "last_updated": "2026-09-19T11:52:36.357953+02:00",
+  "last_updated": "2026-09-19T16:58:55.743718+02:00",
   "events": [
     {
       "orario": "15:00",
       "evento": "Bologna-Torino",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "Movieplayer.it, Calciomagazine.it, Sky Sport, Goal.com Italia",
+      "fonte": "MoviePlayer, Calciomagazine, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Udinese-Cagliari",
-      "competizione": "Serie A",
-      "canale": "DAZN 2",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, DAZN 2",
       "note": "",
-      "fonte": "Movieplayer.it, Calciomagazine.it, Sky Sport, Goal.com Italia",
+      "fonte": "MoviePlayer, Calciomagazine, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Vigor Lamezia-Reggina",
+      "competizione": "Calcio - Serie D",
+      "canale": "TBA",
+      "note": "La partita è confermata per il 19 settembre. L'orario è stimato in base ai tipici kick-off della Serie D del sabato pomeriggio, in assenza di un orario esatto specificato.",
+      "fonte": "News Serie D, TuttoCalcioCalabria.it, Calcio, campionato di Serie D Girone I",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Amichevole: Numia Vero Volley Milano vs Igor Volley Novara",
+      "competizione": "Pallavolo Femminile - Amichevole",
+      "canale": "TBA (Opiquad Arena di Monza)",
+      "note": "Ultimo test match pre-season per la squadra femminile di Monza. Non è specificato il canale TV, ma l'evento si svolge all'Opiquad Arena.",
+      "fonte": "La Voce di Novara, Vero Volley",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Roma-Inter",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "Movieplayer.it, Calciomagazine.it, Sky Sport, Goal.com Italia, Sportface.it",
+      "fonte": "MoviePlayer, Calciomagazine, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Test Match: Vero Volley Monza vs Pallavolo Padova",
+      "competizione": "Pallavolo Maschile - Amichevole",
+      "canale": "TBA (Bassano del Grappa)",
+      "note": "Primo test match stagionale per la squadra maschile di Monza. Non è specificato il canale TV, ma l'evento si svolge a Bassano del Grappa.",
+      "fonte": "Vero Volley, Vero Volley",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Venezia-Lazio",
-      "competizione": "Serie A",
+      "competizione": "Calcio - Serie A",
       "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, DAZN",
       "note": "",
-      "fonte": "Movieplayer.it, Calciomagazine.it, Sky Sport, Goal.com Italia",
+      "fonte": "MoviePlayer, Calciomagazine, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "08:40",
-      "evento": "Moto3 Prove Libere 2",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "TBA",
+      "evento": "MotoGP GP Austria - Qualifiche",
+      "competizione": "Motociclismo - MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Il GP d'Austria si svolge dal 17 al 19 settembre. Il 19 settembre è un sabato, tradizionalmente dedicato alle qualifiche e alla Sprint Race della MotoGP. L'orario esatto non è ancora disponibile.",
+      "fonte": "OA Sport, Honda.Racing",
+      "accuratezza_orario": "tba"
     },
     {
-      "orario": "09:25",
-      "evento": "Moto2 Prove Libere 2",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "TBA",
+      "evento": "MotoGP GP Austria - Sprint Race",
+      "competizione": "Motociclismo - MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Il GP d'Austria si svolge dal 17 al 19 settembre. Il 19 settembre è un sabato, tradizionalmente dedicato alle qualifiche e alla Sprint Race della MotoGP. L'orario esatto non è ancora disponibile, ma la gara Sprint si tiene solitamente nel pomeriggio.",
+      "fonte": "OA Sport, Honda.Racing",
+      "accuratezza_orario": "tba"
     },
     {
-      "orario": "10:10",
-      "evento": "MotoGP Prove Libere 2",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:50",
-      "evento": "MotoGP Qualifiche",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "",
-      "fonte": "FormulaPassion, OglioPoNews, Sky Sport, MotoGrandPrix, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Moto3 Qualifiche",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "",
-      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:35",
-      "evento": "Moto2 Qualifiche",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "",
-      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "MotoGP Sprint",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "",
-      "fonte": "FormulaPassion, OglioPoNews, Sky Sport, MotoGrandPrix, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "MotoGP Sprint (Replica)",
-      "competizione": "MotoGP GP Austria",
-      "canale": "Sky Sport Uno",
-      "note": "Nella notte tra il 19 e il 20 settembre.",
+      "orario": "02:30 (2026-09-20)",
+      "evento": "MotoGP GP Austria - Sprint Race (Replica)",
+      "competizione": "Motociclismo - MotoGP",
+      "canale": "Sky Sport",
+      "note": "Replica della Sprint Race del GP d'Austria.",
       "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
