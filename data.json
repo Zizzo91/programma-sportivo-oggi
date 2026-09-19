@@ -1,85 +1,112 @@
 {
-  "last_updated": "2026-09-18T22:06:25.420384+02:00",
+  "last_updated": "2026-09-19T11:52:36.357953+02:00",
   "events": [
     {
-      "orario": "20:00",
-      "evento": "OPI BOXING NIGHT",
-      "competizione": "Boxe",
-      "canale": "DAZN",
+      "orario": "15:00",
+      "evento": "Bologna-Torino",
+      "competizione": "Serie A",
+      "canale": "DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfeldFbNJETAGfT8O4ziclv_MdG46GJscMcMsmUOaSdJ3pCxOuovOEar7Xhg4-v-XFQebv4L1CCo2lellz996zRKspyXxwIXaSdjGwozd8L8OvJxP_nCZfhviT0sw-UwQA5jk6nBkLDnJF",
+      "fonte": "Movieplayer.it, Calciomagazine.it, Sky Sport, Goal.com Italia",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Juve Stabia-Cesena",
-      "competizione": "Serie B",
-      "canale": "DAZN, Lab Channel",
+      "orario": "15:00",
+      "evento": "Udinese-Cagliari",
+      "competizione": "Serie A",
+      "canale": "DAZN 2",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1h1uWp6B2BxV3XCGZXJSZhPZQbYIxV7qBwNYHGDLCZesgjcJJclNfGPEBlpFSASv6UxAelaOjXuDv1qMRdJxcmrpMTII8Pn3t-4viRVhhv8-pQwIjNn3pzcevdD2SFtYgUL0q2e4Z7SPhy7Yml3TY1g5GSaU1iDdG8-9OyHZqqGba7dn3diG2CT2CPkI3tQuaLhdY7UZzdgeLx9d_HgPT4C5bSL5c0ZwCBvAUbGArGssOU_JjNHM9bA6tLKSU9KxKiZZb1enV",
+      "fonte": "Movieplayer.it, Calciomagazine.it, Sky Sport, Goal.com Italia",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Bayern Monaco-Union Berlino",
-      "competizione": "Bundesliga",
-      "canale": "Sky Sport Arena, NOW",
+      "orario": "18:00",
+      "evento": "Roma-Inter",
+      "competizione": "Serie A",
+      "canale": "DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1h1uWp6B2BxV3XCGZXJSZhPZQbYIxV7qBwNYHGDLCZesgjcJJclNfGPEBlpFSASv6UxAelaOjXuDv1qMRdJxcmrpMTII8Pn3t-4viRVhhv8-pQwIjNn3pzcevdD2SFtYgUL0q2e4Z7SPhy7Yml3TY1g5GSaU1iDdG8-9OyHZqqGba7dn3diG2CT2CPkI3tQuaLhdY7UZzdgeLx9d_HgPT4C5bSL5c0ZwCBvAUbGArGssOU_JjNHM9bA6tLKSU9KxKiZZb1enV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Albacete - Córdoba",
-      "competizione": "Segunda División",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFFP5ILXIzt01-MsGlZSwHn8m6fmIjTIpEpoYH9Ut96yAs9fSSZlz__mAWnBs72Di2waXUqFMHdGPZVb6ChdzV4uERLntu4NisHYGPqTEMPOqVe9keKVWqUdeJ4TfqVdPLcpW4QctIJ6lUuIU511YZP9sgogPiqeozoQnaxi4wbAJWUAu2GOsMRSFpzFpLtDTADc7wQ4xSaaYZBOXEfm6keWREp73EUFczm6cpDUvhRjNNxIDGq_P3tVCDrE5be_OJq9FjeduIbQn45sqjZqQa2MOrBLw6-5vonWYiJXQQQ",
+      "fonte": "Movieplayer.it, Calciomagazine.it, Sky Sport, Goal.com Italia, Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Monza-Sassuolo",
+      "evento": "Venezia-Lazio",
       "competizione": "Serie A",
-      "canale": "Sky, DAZN, Sky Sport Calcio",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1h1uWp6B2BxV3XCGZXJSZhPZQbYIxV7qBwNYHGDLCZesgjcJJclNfGPEBlpFSASv6UxAelaOjXuDv1qMRdJxcmrpMTII8Pn3t-4viRVhhv8-pQwIjNn3pzcevdD2SFtYgUL0q2e4Z7SPhy7Yml3TY1g5GSaU1iDdG8-9OyHZqqGba7dn3diG2CT2CPkI3tQuaLhdY7UZzdgeLx9d_HgPT4C5bSL5c0ZwCBvAUbGArGssOU_JjNHM9bA6tLKSU9KxKiZZb1enV",
+      "fonte": "Movieplayer.it, Calciomagazine.it, Sky Sport, Goal.com Italia",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Brentford-Chelsea",
-      "competizione": "Premier League",
-      "canale": "Sky Sport Uno, Sky Sport 1, Sky Sport 253, NOW",
+      "orario": "08:40",
+      "evento": "Moto3 Prove Libere 2",
+      "competizione": "MotoGP GP Austria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1h1uWp6B2BxV3XCGZXJSZhPZQbYIxV7qBwNYHGDLCZesgjcJJclNfGPEBlpFSASv6UxAelaOjXuDv1qMRdJxcmrpMTII8Pn3t-4viRVhhv8-pQwIjNn3pzcevdD2SFtYgUL0q2e4Z7SPhy7Yml3TY1g5GSaU1iDdG8-9OyHZqqGba7dn3diG2CT2CPkI3tQuaLhdY7UZzdgeLx9d_HgPT4C5bSL5c0ZwCBvAUbGArGssOU_JjNHM9bA6tLKSU9KxKiZZb1enV",
+      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:15",
-      "evento": "Racing-Sarmiento",
-      "competizione": "Liga Profesional argentina",
-      "canale": "Sportitalia, COMO TV",
+      "orario": "09:25",
+      "evento": "Moto2 Prove Libere 2",
+      "competizione": "MotoGP GP Austria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcu4ev9OsWNZj_XNjLJHK_g9wPGEx1nbcFIk60rcFtpONV2a9WAV5ornzetn1Knd4qk6ku_hVxgARfToJ_3trMU3jPb88E-9PWIaaxs_GeZrBdAGtk55hbHIc_KubSzoCUKrgqeWkVx5xszkyP9yMkkscSN8nDNsSsUy4rIbQdFyuqv8K8KZpiXs3Y-7yRXHHF-HhzOyaKBlqIY6IvMFYlSURbxI0tixeTQXsCRt7ynhOqOOU",
+      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:10",
+      "evento": "MotoGP Prove Libere 2",
+      "competizione": "MotoGP GP Austria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:50",
+      "evento": "MotoGP Qualifiche",
+      "competizione": "MotoGP GP Austria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "FormulaPassion, OglioPoNews, Sky Sport, MotoGrandPrix, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:45",
+      "evento": "Moto3 Qualifiche",
+      "competizione": "MotoGP GP Austria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:35",
+      "evento": "Moto2 Qualifiche",
+      "competizione": "MotoGP GP Austria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport, MotoGrandPrix, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "MotoGP Sprint",
+      "competizione": "MotoGP GP Austria",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "FormulaPassion, OglioPoNews, Sky Sport, MotoGrandPrix, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:30",
-      "evento": "Flamengo–Independiente Del Valle",
-      "competizione": "Copa Libertadores",
-      "canale": "COMO TV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_z2nGKztROJPltuMCt3cGV-x-dCD3Z7dHNPYHP1Seem9veY7lMQg-hNKbL7_GoLd_5cCrdRhCUl-MDtCfxqrQelmWwxT_W0sR1Aos4voewduTfpBaPVDxIU2MInYZZiMLLJOl--KFurV8MUO8NEzVILErAibUyJma3mgTOTaQHW-dscM",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Montevideo City Torque–Cienciano",
-      "competizione": "Copa Sudamericana",
-      "canale": "COMO TV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_z2nGKztROJPltuMCt3cGV-x-dCD3Z7dHNPYHP1Seem9veY7lMQg-hNKbL7_GoLd_5cCrdRhCUl-MDtCfxqrQelmWwxT_W0sR1Aos4voewduTfpBaPVDxIU2MInYZZiMLLJOl--KFurV8MUO8NEzVILErAibUyJma3mgTOTaQHW-dscM",
+      "evento": "MotoGP Sprint (Replica)",
+      "competizione": "MotoGP GP Austria",
+      "canale": "Sky Sport Uno",
+      "note": "Nella notte tra il 19 e il 20 settembre.",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
