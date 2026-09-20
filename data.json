@@ -1,130 +1,58 @@
 {
-  "last_updated": "2026-09-20T17:02:27.795293+02:00",
+  "last_updated": "2026-09-20T21:55:05.577083+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Gara Moto3 - GP Austria",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-wiA9Qm9C-GHYxC_7KSy_lhVRW3Me92pxolCNXSRxJR-9Uvb3mtzF95psSzh5mp61TQk-EXyioAeUpBpYcSl9ztW2pXsoCG7Y-zuZxvu_zYERlNuoxXFZSJLkR18QzLqX1bDYNW5fbneXU3Pd3GAQd3sJyL0sunwAXC3QlHgR1-SBFCCRXxF_OrucIS4Eikg7-KNV1qAvR-vyuB2-XXz, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE03KmAOlTinAdV85TJCGeoqyBB_AC0mkQVyji2ZCw-t1tqbYC04zbeXGJJ9XSjRMBhGfEy2EJ-94e8YyDiNYU6RVogGq03IZDKZCEfpg-W8VUWNs0zx0SnwHH_8ntJ2I5pE4NMKXluZjg4H71Z7cY0ulzdDRWGmv0wHwNVUp-4Fhf8ayERm9OwllzOt4dlXc_sr5JBbaEQ37tCyccbRCFysAbW0eBmKHddFdMoak-ukz8gJ6A5glDqcLNvIpSSMt7OzxmY_5-Gnhe20CJMMyBAPs3AyXhn7N6-UenqXr4l_WQz-auQptjDWABqE9N8SnW7UJETltYbh67Q0gm1ZWx32_gkCA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Gara Moto2 - GP Austria",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-wiA9Qm9C-GHYxC_7KSy_lhVRW3Me92pxolCNXSRxJR-9Uvb3mtzF95psSzh5mp61TQk-EXyioAeUpBpYcSl9ztW2pXsoCG7Y-zuZxvu_zYERlNuoxXFZSJLkR18QzLqX1bDYNW5fbneXU3Pd3GAQd3sJyL0sunwAXC3QlHgR1-SBFCCRXxF_OrucIS4Eikg7-KNV1qAvR-vyuB2-XXz, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE03KmAOlTinAdV85TJCGeoqyBB_AC0mkQVyji2ZCw-t1tqbYC04zbeXGJJ9XSjRMBhGfEy2EJ-94e8YyDiNYU6RVogGq03IZDKZCEfpg-W8VUWNs0zx0SnwHH_8ntJ2I5pE4NMKXluZjg4H71Z7cY0ulzdDRWGmv0wHwNVUp-4Fhf8ayERm9OwllzOt4dlXc_sr5JBbaEQ37tCyccbRCFysAbW0eBmKHddFdMoak-ukz8gJ6A5glDqcLNvIpSSMt7OzxmY_5-Gnhe20CJMMyBAPs3AyXhn7N6-UenqXr4l_WQz-auQptjDWABqE9N8SnW7UJETltYbh67Q0gm1ZWx32_gkCA",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "12:30",
-      "evento": "Fiorentina - Napoli",
+      "evento": "Fiorentina-Napoli",
       "competizione": "Serie A",
-      "canale": "DAZN 1",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1CFx6baZJ3dASo8qVW1FCdliX9TJKg-K2jdXhAfsij6E2WgawKRD4RINAVkFX6fVNulLn1YMnSmjeQzdMrcGVN41ja2CORDfY2mCx416KqFCW8mo24yz_y7xpkj5_OZmSt0ryr22x4yZTccCJCFpY9YciOlBCHdnOaGwFVZJc8Qb3acFzkX8=",
+      "fonte": "Calcio Magazine, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00",
-      "evento": "Gara MotoGP - GP Austria",
+      "evento": "GP Austria: Gara",
       "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
-      "note": "Gara",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEh3UVP7vpZaeVFvkpwnxYaybCe_AnXxk-sD1l167kuLHu7vkdt-BEKpCmCkBV_ApbGj-LDQP53dKTrFCbNdx5SFd9XSSM1Q7KgDBF9wkjMgQao5K6udaWDCkrJ7DcB9uKMAMKcQf_jvpQs-KAmVNwJCBcH_MMF-67TYKDyRoncmbVcohSyYsCh0eT_LKL8_5os795e3CMZUcL4Os4rzSOwhtBA-hR2mbQa8LsCd17qAFkGZFAYdOgfRyiwlIvpb0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER9NevvQwHEj_Vd3ZXHz2GMDSgwSAczuX-DSPd6f6zeHDOOV1zsj0AuyQfU6sFvJApNzs8L7CAS0i5Wt3ApVbrrhMmHOqlub9EwTwN8HedND1v8B8X4hBRiznjq7DxVuP3EZsIE9p901Yj2H4a4OK1DOpOAB-IgQwgWdVQmlYPrIIU1fBB8ysmj3q48V7vFaecK0wR3LjJog==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-wiA9Qm9C-GHYxC_7KSy_lhVRW3Me92pxolCNXSRxJR-9Uvb3mtzF95psSzh5mp61TQk-EXyioAeUpBpYcSl9ztW2pXsoCG7Y-zuZxvu_zYERlNuoxXFZSJLkR18QzLqX1bDYNW5fbneXU3Pd3GAQd3sJyL0sunwAXC3QlHgR1-SBFCCRXxF_OrucIS4Eikg7-KNV1qAvR-vyuB2-XXz, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-WFg_7lPj96SR8_HkOWYsOGgX3ISpHELVRfDIfq-QMpdTNjytKjA7Y1E_5KXcou8f8n1zBfic8aP6zFNQWKL61N4HbYismsYTbya2DVrkYIPdg46GPYelBsxyPAM=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara Moto3 - GP Austria",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-wiA9Qm9C-GHYxC_7KSy_lhVRW3Me92pxolCNXSRxJR-9Uvb3mtzF95psSzh5mp61TQk-EXyioAeUpBpYcSl9ztW2pXsoCG7Y-zuZxvu_zYERlNuoxXFZSJLkR18QzLqX1bDYNW5fbneXU3Pd3GAQd3sJyL0sunwAXC3QlHgR1-SBFCCRXxF_OrucIS4Eikg7-KNV1qAvR-vyuB2-XXz, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE03KmAOlTinAdV85TJCGeoqyBB_AC0mkQVyji2ZCw-t1tqbYC04zbeXGJJ9XSjRMBhGfEy2EJ-94e8YyDiNYU6RVogGq03IZDKZCEfpg-W8VUWNs0zx0SnwHH_8ntJ2I5pE4NMKXluZjg4H71Z7cY0ulzdDRWGmv0wHwNVUp-4Fhf8ayERm9OwllzOt4dlXc_sr5JBbaEQ37tCyccbRCFysAbW0eBmKHddFdMoak-ukz8gJ6A5glDqcLNvIpSSMt7OzxmY_5-Gnhe20CJMMyBAPs3AyXhn7N6-UenqXr4l_WQz-auQptjDWABqE9N8SnW7UJETltYbh67Q0gm1ZWx32_gkCA",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW",
+      "note": "",
+      "fonte": "Sportface, Virgilio Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Frosinone - Como",
+      "evento": "Frosinone-Como",
       "competizione": "Serie A",
-      "canale": "DAZN 1",
+      "canale": "DAZN (Zona Serie A)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1CFx6baZJ3dASo8qVW1FCdliX9TJKg-K2jdXhAfsij6E2WgawKRD4RINAVkFX6fVNulLn1YMnSmjeQzdMrcGVN41ja2CORDfY2mCx416KqFCW8mo24yz_y7xpkj5_OZmSt0ryr22x4yZTccCJCFpY9YciOlBCHdnOaGwFVZJc8Qb3acFzkX8=",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Parma - Genoa",
+      "evento": "Parma-Genoa",
       "competizione": "Serie A",
-      "canale": "DAZN 2",
+      "canale": "DAZN (Zona Serie A)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1CFx6baZJ3dASo8qVW1FCdliX9TJKg-K2jdXhAfsij6E2WgawKRD4RINAVkFX6fVNulLn1YMnSmjeQzdMrcGVN41ja2CORDfY2mCx416KqFCW8mo24yz_y7xpkj5_OZmSt0ryr22x4yZTccCJCFpY9YciOlBCHdnOaGwFVZJc8Qb3acFzkX8=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:15",
-      "evento": "Gara Moto2 - GP Austria",
-      "competizione": "MotoGP",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-wiA9Qm9C-GHYxC_7KSy_lhVRW3Me92pxolCNXSRxJR-9Uvb3mtzF95psSzh5mp61TQk-EXyioAeUpBpYcSl9ztW2pXsoCG7Y-zuZxvu_zYERlNuoxXFZSJLkR18QzLqX1bDYNW5fbneXU3Pd3GAQd3sJyL0sunwAXC3QlHgR1-SBFCCRXxF_OrucIS4Eikg7-KNV1qAvR-vyuB2-XXz, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE03KmAOlTinAdV85TJCGeoqyBB_AC0mkQVyji2ZCw-t1tqbYC04zbeXGJJ9XSjRMBhGfEy2EJ-94e8YyDiNYU6RVogGq03IZDKZCEfpg-W8VUWNs0zx0SnwHH_8ntJ2I5pE4NMKXluZjg4H71Z7cY0ulzdDRWGmv0wHwNVUp-4Fhf8ayERm9OwllzOt4dlXc_sr5JBbaEQ37tCyccbRCFysAbW0eBmKHddFdMoak-ukz8gJ6A5glDqcLNvIpSSMt7OzxmY_5-Gnhe20CJMMyBAPs3AyXhn7N6-UenqXr4l_WQz-auQptjDWABqE9N8SnW7UJETltYbh67Q0gm1ZWx32_gkCA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Gara MotoGP - GP Austria",
-      "competizione": "MotoGP",
-      "canale": "TV8, tv8.it",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2ooaa7uYGn1US49lVhNXmEKUa9uAo1Z9t1klBigAxPeFHHWfvaJgEDMLiG7FEKlMgB7qClURj4a49o3SjadLmwp43acGI5eV0u-M_4gvxqP5RgMqjPoBdTstU0meeYMTKryNBK6-Vj37NTChWmgI6sv3n7CIzo5EEYzwywag_Zkw1m8LlCGU_jGA09eleIyLlZV8HYR30CejnOzbMM9dMwYrPs2RRt-giDhR0xSI0zg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEh3UVP7vpZaeVFvkpwnxYaybCe_AnXxk-sD1l167kuLHu7vkdt-BEKpCmCkBV_ApbGj-LDQP53dKTrFCbNdx5SFd9XSSM1Q7KgDBF9wkjMgQao5K6udaWDCkrJ7DcB9uKMAMKcQf_jvpQs-KAmVNwJCBcH_MMF-67TYKDyRoncmbVcohSyYsCh0eT_LKL8_5os795e3CMZUcL4Os4rzSOwhtBA-hR2mbQa8LsCd17qAFkGZFAYdOgfRyiwlIvpb0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER9NevvQwHEj_Vd3ZXHz2GMDSgwSAczuX-DSPd6f6zeHDOOV1zsj0AuyQfU6sFvJApNzs8L7CAS0i5Wt3ApVbrrhMmHOqlub9EwTwN8HedND1v8B8X4hBRiznjq7DxVuP3EZsIE9p901Yj2H4a4OK1DOpOAB-IgQwgWdVQmlYPrIIU1fBB8ysmj3q48V7vFaecK0wR3LjJog==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-wiA9Qm9C-GHYxC_7KSy_lhVRW3Me92pxolCNXSRxJR-9Uvb3mtzF95psSzh5mp61TQk-EXyioAeUpBpYcSl9ztW2pXsoCG7Y-zuZxvu_zYERlNuoxXFZSJLkR18QzLqX1bDYNW5fbneXU3Pd3GAQd3sJyL0sunwAXC3QlHgR1-SBFCCRXxF_OrucIS4Eikg7-KNV1qAvR-vyuB2-XXz",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Juventus - Atalanta",
+      "evento": "Juventus-Atalanta",
       "competizione": "Serie A",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1CFx6baZJ3dASo8qVW1FCdliX9TJKg-K2jdXhAfsij6E2WgawKRD4RINAVkFX6fVNulLn1YMnSmjeQzdMrcGVN41ja2CORDfY2mCx416KqFCW8mo24yz_y7xpkj5_OZmSt0ryr22x4yZTccCJCFpY9YciOlBCHdnOaGwFVZJc8Qb3acFzkX8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNPFKJSBibUfqL6Wj27aPEabyDRfDAvQdrWP7BbW5bjZXZ9l-9xmoqMfncgc0Pec_XUW9Tpe4GuT_Jfqd3pXqsxfRSxH0ECftbfb9PGI08RiRlgY-aLjsonIl7RU3dxgWxWyxOU_9CDUD9nEmAnGgm4V_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENjxL-ikgf5Uu93jHs89-MnToMOBGA7Wueu_0jhMuqjWZNDd7LDHDLR7MllJNTJpEzRHH8MrGp5vROElp2r6qBUYQTa0CY5LZ_OzvOhc2xidSBS4FXr8lvjx3lq1MMOyA7D65K-TFc1IjEtUQcENVoMOkuUC68hGuoAb6J87CbvWEnzuELl_04ToD1issRB-KM8N7S2SlhbT1qC-xj_tLijR80hUDZanYiZpJe0hkNpBhpb6Sv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Replica Gara MotoGP - GP Austria",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Replica Gara MotoGP - GP Austria",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A",
+      "fonte": "Sportface, Calcio Magazine, Sky Sport, Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Milan - Lecce",
+      "evento": "Milan-Lecce",
       "competizione": "Serie A",
-      "canale": "Sky Sport, NOW",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1CFx6baZJ3dASo8qVW1FCdliX9TJKg-K2jdXhAfsij6E2WgawKRD4RINAVkFX6fVNulLn1YMnSmjeQzdMrcGVN41ja2CORDfY2mCx416KqFCW8mo24yz_y7xpkj5_OZmSt0ryr22x4yZTccCJCFpY9YciOlBCHdnOaGwFVZJc8Qb3acFzkX8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9mygExZdENr8KRCkJuhQs2nCE92DDXfl_Mo1i3re_2Gu6qmii23gCXYT7Bpp4X3s1b8gWr4unLCPQxAnxUNk69z-yCacT5fEctHCSSpMhB5DbPOIQHdAVsBE0_XvSlZEpAGBHXWJIaU2uqi4VHAtXx7tX7a1JY9lUkZsijgWh1ckRqqcaXaG-5vRuERTH, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZa5RGFdaUFsU0h9XBt97A8wD1Qk_k2LDhycGvyHvwrEks8hV8njEWVLXiILB1JKlXN2mP3v_LQIPpnfKzMwiYu8osedJE-gwopF7_ZztikgpzJUNzVVj0NWXKQeON6zrvbjtVTzfW8_RBFmHZ3Datq9UR4otkyHIHNmqyV2waMHdbDODE9vNzpSMVN-164Vw7esXxKgcWavD2Z02vCfQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:00",
-      "evento": "Replica Gara MotoGP - GP Austria",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_syBSfrg5cwYV_Wse6cptWTI-ONo2O3zoWlYT8ZhopUwX19KbAhCbSpGhdJ9vHTzGdJWlqc-vevshhEeapFLW6cI_T5ZHRZBwkdUBV1LYm9seZcEmKJsh3Gn0qNfCfy2jl2g1fRmnLYfWxmtHldiQ-TlA7cp2d0psaJff7LKLqmpxLsfae0YYHXWPTC78A",
+      "fonte": "Sportface, Calcio Magazine, Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
