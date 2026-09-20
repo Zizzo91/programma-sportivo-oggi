@@ -1,94 +1,157 @@
 {
-  "last_updated": "2026-09-19T16:58:55.743718+02:00",
+  "last_updated": "2026-09-20T04:07:56.407261+02:00",
   "events": [
     {
-      "orario": "15:00",
-      "evento": "Bologna-Torino",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "MoviePlayer, Calciomagazine, Sky Sport",
+      "orario": "08:15",
+      "evento": "MotoGP GP Austria: Sprint Race (Replica)",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno",
+      "note": "Replicato dal sabato",
+      "fonte": "ProgrammiTV.com, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:40",
+      "evento": "MotoGP GP Austria: Warm Up",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Fanpage.it, Moveo, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Moto3 GP Austria: Gara",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Fanpage.it, Moveo, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "Moto2 GP Austria: Gara",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Fiorentina - Napoli",
+      "competizione": "Serie A Enilive 2026/2027",
+      "canale": "DAZN",
+      "note": null,
+      "fonte": "Lega Serie A, Calcio Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "MotoGP GP Austria: Gara",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Fanpage.it, Moveo, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Moto3 GP Austria: Gara (Differita)",
+      "competizione": "Motomondiale 2026",
+      "canale": "TV8",
+      "note": null,
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Udinese-Cagliari",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 2",
-      "note": "",
-      "fonte": "MoviePlayer, Calciomagazine, Sky Sport",
+      "evento": "Frosinone - Como",
+      "competizione": "Serie A Enilive 2026/2027",
+      "canale": "DAZN",
+      "note": null,
+      "fonte": "Lega Serie A, Calcio Magazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00*",
-      "evento": "Vigor Lamezia-Reggina",
-      "competizione": "Calcio - Serie D",
-      "canale": "TBA",
-      "note": "La partita è confermata per il 19 settembre. L'orario è stimato in base ai tipici kick-off della Serie D del sabato pomeriggio, in assenza di un orario esatto specificato.",
-      "fonte": "News Serie D, TuttoCalcioCalabria.it, Calcio, campionato di Serie D Girone I",
-      "accuratezza_orario": "stimato"
+      "orario": "15:00",
+      "evento": "Parma - Genoa",
+      "competizione": "Serie A Enilive 2026/2027",
+      "canale": "DAZN",
+      "note": null,
+      "fonte": "Lega Serie A, Calcio Magazine",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:30",
-      "evento": "Amichevole: Numia Vero Volley Milano vs Igor Volley Novara",
-      "competizione": "Pallavolo Femminile - Amichevole",
-      "canale": "TBA (Opiquad Arena di Monza)",
-      "note": "Ultimo test match pre-season per la squadra femminile di Monza. Non è specificato il canale TV, ma l'evento si svolge all'Opiquad Arena.",
-      "fonte": "La Voce di Novara, Vero Volley",
+      "orario": "15:00",
+      "evento": "Vigor Lamezia - Reggina",
+      "competizione": "Serie D - Girone I 2026/2027",
+      "canale": null,
+      "note": "Non è stata trovata una copertura televisiva nazionale per questo evento.",
+      "fonte": "Bottadiculo, TuttoCalcioCalabria.it, StrettoWeb",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:15",
+      "evento": "Moto2 GP Austria: Gara (Differita)",
+      "competizione": "Motomondiale 2026",
+      "canale": "TV8",
+      "note": null,
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "MotoGP GP Austria: Gara (Differita)",
+      "competizione": "Motomondiale 2026",
+      "canale": "TV8",
+      "note": null,
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Roma-Inter",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "MoviePlayer, Calciomagazine, Sky Sport",
+      "evento": "Juventus - Atalanta",
+      "competizione": "Serie A Enilive 2026/2027",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K",
+      "note": null,
+      "fonte": "Lega Serie A, Sky Sport, Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Test Match: Vero Volley Monza vs Pallavolo Padova",
-      "competizione": "Pallavolo Maschile - Amichevole",
-      "canale": "TBA (Bassano del Grappa)",
-      "note": "Primo test match stagionale per la squadra maschile di Monza. Non è specificato il canale TV, ma l'evento si svolge a Bassano del Grappa.",
-      "fonte": "Vero Volley, Vero Volley",
+      "orario": "18:00",
+      "evento": "MotoGP GP Austria: Gara (Replica)",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "MotoGP GP Austria: Gara (Replica)",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Venezia-Lazio",
-      "competizione": "Calcio - Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, DAZN",
-      "note": "",
-      "fonte": "MoviePlayer, Calciomagazine, Sky Sport",
+      "evento": "Milan - Lecce",
+      "competizione": "Serie A Enilive 2026/2027",
+      "canale": "DAZN",
+      "note": null,
+      "fonte": "Lega Serie A",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "MotoGP GP Austria - Qualifiche",
-      "competizione": "Motociclismo - MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Il GP d'Austria si svolge dal 17 al 19 settembre. Il 19 settembre è un sabato, tradizionalmente dedicato alle qualifiche e alla Sprint Race della MotoGP. L'orario esatto non è ancora disponibile.",
-      "fonte": "OA Sport, Honda.Racing",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "TBA",
-      "evento": "MotoGP GP Austria - Sprint Race",
-      "competizione": "Motociclismo - MotoGP",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Il GP d'Austria si svolge dal 17 al 19 settembre. Il 19 settembre è un sabato, tradizionalmente dedicato alle qualifiche e alla Sprint Race della MotoGP. L'orario esatto non è ancora disponibile, ma la gara Sprint si tiene solitamente nel pomeriggio.",
-      "fonte": "OA Sport, Honda.Racing",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "02:30 (2026-09-20)",
-      "evento": "MotoGP GP Austria - Sprint Race (Replica)",
-      "competizione": "Motociclismo - MotoGP",
-      "canale": "Sky Sport",
-      "note": "Replica della Sprint Race del GP d'Austria.",
-      "fonte": "Guida TV",
+      "orario": "22:00",
+      "evento": "MotoGP GP Austria: Gara (Replica)",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport MotoGP",
+      "note": null,
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
