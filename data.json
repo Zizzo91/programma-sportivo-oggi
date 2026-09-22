@@ -1,4 +1,32 @@
 {
-  "last_updated": "2026-09-21T19:19:50.871233+02:00",
-  "events": []
+  "last_updated": "2026-09-22T04:13:57.627251+02:00",
+  "events": [
+    {
+      "orario": "12:00",
+      "evento": "Sorteggio Finals Coppa Davis 2026",
+      "competizione": "Coppa Davis",
+      "canale": "Non specificato",
+      "note": "L'Italia attende di conoscere la propria avversaria nei quarti di finale. L'evento si svolge a Bologna.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMf7HGrvYJzOLN0vUED15dCtc2TUVGCYMvf1Sf50KMC8kdu6V8r1LVB1_pKEr5dHXyOu4OM9sj2Fx-PXCOL5RCLwChDbLqi5jnjI_Fvof2PxyUpbGyx5-nss6GMPY2n5i-kCh5JTyxTD3xk8V9NQyRf7BoWKfbQYUbDaTPzWVlLUcr37sepoG05JehFNA2R32X93qn8NOjM4ptkmbOl4fLQnSGe8viMKzMsUe4wX5mg1p2Wxexa1Y6nfHz7Sw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Inter vs Bollklubben Häcken",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Non specificato",
+      "note": "Partita di Champions League calcio femminile.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9B3BCFgKOpLSNn4Sy6pt6Z23Nh8I2F3nHY0eqvI1aruB_kbKb6QGRhoajZm_P6VU-MgxSFeBgQSTWINKd_H5jH81-xUvx-WCghQ_o80xcydMsvQ1ME_wguiWJ99aF-NCSjU8-YMhYPxDpp3M9iNu7_jvzVVhufUgD2eOlZsDrlH2djYQq7OuRLLqxmjHUh4Fkmpx_MlWezMwfpxixTEIh1hPGH_hJbVQV9dEZmaM2mKfKHj1oCqoyPlZ3ZAhdiA=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:45",
+      "evento": "MotoGP 2026 - GP Austria: Gara",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno",
+      "note": "Repliche o Differite della gara del GP Austria.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfP9pCz6bNy2LFzykPSGhmZcMclEvOlEQB2TlTqA5D7gag--BXRPZFnafBedFjoV6L8SbM81InVyPk9LJOZu57QTRXrB_HVcfWdRV6lJZZ3gp1iXab6gnPk9Zue_px33MXQKSBDk7sqOBOyxM4m1ydddCr14z1ICo=",
+      "accuratezza_orario": "esatto"
+    }
+  ]
 }
