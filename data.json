@@ -1,4 +1,41 @@
 {
-  "last_updated": "2026-09-23T17:43:20.783103+02:00",
-  "events": []
+  "last_updated": "2026-09-24T12:41:23.150110+02:00",
+  "events": [
+    {
+      "orario": "07:00*",
+      "evento": "ATP 250 Chengdu - Primo Turno (con Lorenzo Sonego e/o Mattia Bellucci)",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport Uno",
+      "note": "Orario stimato di inizio della copertura del torneo con italiani in campo.",
+      "fonte": "Sport in tv oggi (giovedì 24 settembre): orari e programma. Dove vedere gli eventi in streaming",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "10:30",
+      "evento": "Formula 1 - GP Azerbaigian - Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW TV",
+      "note": "",
+      "fonte": "Formula 1, GP Azerbaigian 2026: gara sabato, orari tv e diretta streaming - L'Automobile ACI",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Formula 1 - GP Azerbaigian - Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW TV",
+      "note": "",
+      "fonte": "Formula 1, GP Azerbaigian 2026: gara sabato, orari tv e diretta streaming - L'Automobile ACI",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Calcio - Nations League: Olanda vs Germania",
+      "competizione": "UEFA Nations League",
+      "canale": "TV8, Sky Sport (pre/post partita)",
+      "note": "Match previsto per oggi, orario esatto non specificato. Copertura Sky per pre/post partita alle 11:00 e 13:45.",
+      "fonte": "Il calcio in TV oggi, giovedì 24 settembre 2026: parte la Nations League con Olanda-Germania. Dove vederla in diretta - Libero, Nations League, partite di oggi 24 settembre: dove vederle in tv e streaming | Sky Sport",
+      "accuratezza_orario": "tba"
+    }
+  ]
 }
