@@ -1,41 +1,122 @@
 {
-  "last_updated": "2026-09-24T12:41:23.150110+02:00",
+  "last_updated": "2026-09-24T22:53:52.961185+02:00",
   "events": [
     {
-      "orario": "07:00*",
-      "evento": "ATP 250 Chengdu - Primo Turno (con Lorenzo Sonego e/o Mattia Bellucci)",
-      "competizione": "Tennis ATP 250",
-      "canale": "Sky Sport Uno",
-      "note": "Orario stimato di inizio della copertura del torneo con italiani in campo.",
-      "fonte": "Sport in tv oggi (giovedì 24 settembre): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "10:30",
-      "evento": "Formula 1 - GP Azerbaigian - Prove Libere 1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, NOW TV",
+      "orario": "07:00",
+      "evento": "ATP 250 Chengdu - Primo Turno: Lorenzo Sonego vs James Duckworth",
+      "competizione": "ATP Tour",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Plus",
       "note": "",
-      "fonte": "Formula 1, GP Azerbaigian 2026: gara sabato, orari tv e diretta streaming - L'Automobile ACI",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLTTDWA-UC9aBhR8Jgw-jS4gwLfLaKn7GddWl-aWyBQ0gNm7lTo2ESNes3rM4TYU0Om2aYl7hefQl-pZ5ude6sa1fbpsUYl3vk0om0UBVb_pxa1SGCI1NyicGXGK4rEUcaKxPwcVtIvMBUB82So-K9lO7yWAGxEu0Nce0mGLeVRh-Xoguy_O6bfgcYv6E4Ua3YEm0NUiRMfu4J1djCER6k1Royvx1c1JQfqx3lwjM2bngm5POxDz-DplFo09Rvg5R7Dg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Formula 1 - GP Azerbaigian - Prove Libere 2",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1, NOW TV",
+      "orario": "08:00",
+      "evento": "F2 Prove Libere",
+      "competizione": "Formula 2 - GP Azerbaigian",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Formula 1, GP Azerbaigian 2026: gara sabato, orari tv e diretta streaming - L'Automobile ACI",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7UKF9bh-zf9gc1TaCvwyzbEFdW6dOclS53xcqGaj8YYXIe3bTR96kIMTlnd8m4LAwPJbsZG5mqEc5v1Tle9TLWQZ8TV5phCj5xlT3oyF_qq3MND2988GPylZuy4T5rBeAQfIrgK2bIJBEG-vUVfYFNSaOiqPPRwrQt-yvfiKobaG_RIGjsS5xAQa9USdEd995Zzufs9uVYgkB6XV2UM75QPpUHjg0UcKTQhRr9ISA8GDq8hWQwgr9fT6jA9SQ9jkrHw2H_kSkWotPF_bixPIFYHJwdBYkxjQNsWU4r_OBCAhVTbHIqD25sOA-Eozohejzl5b0huPfKA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:30",
+      "evento": "F1 Prove Libere 1",
+      "competizione": "Formula 1 - GP Azerbaigian",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7UKF9bh-zf9gc1TaCvwyzbEFdW6dOclS53xcqGaj8YYXIe3bTR96kIMTlnd8m4LAwPJbsZG5mqEc5v1Tle9TLWQZ8TV5phCj5xlT3oyF_qq3MND2988GPylZuy4T5rBeAQfIrgK2bIJBEG-vUVfYFNSaOiqPPRwrQt-yvfiKobaG_RIGjsS5xAQa9USdEd995Zzufs9uVYgkB6XV2UM75QPpUHjg0UcKTQhRr9ISA8GDq8hWQwgr9fT6jA9SQ9jkrHw2H_kSkWotPF_bixPIFYHJwdBYkxjQNsWU4r_OBCAhVTbHIqD25sOA-Eozohejzl5b0huPfKA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExinXrP88VCh738xz3UKpaLaTRN0fnwco_2jgDsGv6kBT1m2vAnlvGbIwuexHlGY40cdOBKcMp6-UPf5x6Oz7nRGhZY0tP3r94HpUCoFLBj1NpFu0eKL5WinEnXY3cdN1OuVY8Z0Fc8nJrWTsCJflvi3T2PltqZZ0I4-Nc878Eua_bCcuvLbrFq5nIZzXBQLQn68rPQudl2B4KwsN5jBv_Lw1XUDTcd5nuCGY==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA_IQrRX_5o1tYo7nvQTErujZIqOr4F0CiunENhAAPtiTVzy0IIC3mydhGeVm4rUj-mgFoLIHjPbB8hVQeSVKFs1Pg1ZUuRzVCKii1UIBgQGBHM9VF9AoGO-D69HW-SVoqovn0IuzRGQK97O59g8tZJRsh53SPZREdgDZWQRvNMMAWALlmikQuTFQojn72Az7ciNnB8VGGoyOIfXJd3F4OPrG209o==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00*",
+      "evento": "Billie Jean King Cup - Quarti di finale: Italia vs Cina (Singolare 1: Zhang Shuai vs Elisabetta Cocciaretto)",
+      "competizione": "Billie Jean King Cup Finals",
+      "canale": "SuperTennis HD, SuperTennis+",
+      "note": "Inizio tie non prima delle 11:00 CET. Orario del singolo match stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyPYs_TkvnKHxlgaNE2VTrfnwTksZMjtaBq0iR9mWb3irNV6Ity84Ly-Rc0RbGVIzRKijE8vP6e0BuGJepTKF3bOGljPkKeye_HsVpKpzR6NI4UT6RX4OQzGL3SAOV7ubI1dRFjBbKKkj9dXjhMxr2IGUeQqtyYC35A9JewdU3BiwiMJvdElZxNlkB9i6Wu0unrNOCeBq3uskE8nFP6-f-QT-03kJEPXQX, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBXHEEeH8FezKOTqivW1b2KnZ652gXXQZUjOr0ctqTHiBBzxPGuY_PynH4XjKs5CjAQPPp3zrUP9bKTFhpyAqHRbl-ehF62iROTo8HzoRTGhySGHEo5gmu9tbbFcxQxVk8bHWARkeHgy1Zg4czzgwgVpkgKlsilDd01TfICSFbABaJ87vgdxO0PDurLdByHzxy2G7AVTNnjRuSUnhHGw2GxRHOkm7HEGpOHM2TALcv0pDII0jR, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYJc2kiRpBIbGyQ0QRxI75P6NAsclbXYf9AEtYi82XbP4qh0wLAfvbfOv4s42MrBZRCxcz1mU_2oaoQqfRViO6IPVTfQl7evukdv74uG1Wo4Eu-HaAn_MnOy0qdEdymvD-MsNbLhURJMUg_2_In_hByV1wMti8PBpUUH2DTB6xGfkO8Zue6jzmJ0TPAW, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7muBZ1pqi3dglkOsT_qAYEBpDOLHlFoAP90RpkEVvWTgQQihmAicryXbM_OWAXEf5TokQ07c2faBLYUbpGvEf8j0XHRty-UJqW6yWiNUZAdzU1sI0EGdRJWT74lSrFXpQ4g2YGGCLA2HDf84WLU2RbH9U0T7_K8pkd0w6gqayu91b_Gfc4xYMKuNWVhYaiM1uMCXYAx6WKlVQI89PyBPO-NzaBYaVOJYlaT0otQ==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "12:00",
+      "evento": "F2 Qualifiche 1",
+      "competizione": "Formula 2 - GP Azerbaigian",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7UKF9bh-zf9gc1TaCvwyzbEFdW6dOclS53xcqGaj8YYXIe3bTR96kIMTlnd8m4LAwPJbsZG5mqEc5v1Tle9TLWQZ8TV5phCj5xlT3oyF_qq3MND2988GPylZuy4T5rBeAQfIrgK2bIJBEG-vUVfYFNSaOiqPPRwrQt-yvfiKobaG_RIGjsS5xAQa9USdEd995Zzufs9uVYgkB6XV2UM75QPpUHjg0UcKTQhRr9ISA8GDq8hWQwgr9fT6jA9SQ9jkrHw2H_kSkWotPF_bixPIFYHJwdBYkxjQNsWU4r_OBCAhVTbHIqD25sOA-Eozohejzl5b0huPfKA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:20",
+      "evento": "F2 Qualifiche 2",
+      "competizione": "Formula 2 - GP Azerbaigian",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7UKF9bh-zf9gc1TaCvwyzbEFdW6dOclS53xcqGaj8YYXIe3bTR96kIMTlnd8m4LAwPJbsZG5mqEc5v1Tle9TLWQZ8TV5phCj5xlT3oyF_qq3MND2988GPylZuy4T5rBeAQfIrgK2bIJBEG-vUVfYFNSaOiqPPRwrQt-yvfiKobaG_RIGjsS5xAQa9USdEd995Zzufs9uVYgkB6XV2UM75QPpUHjg0UcKTQhRr9ISA8GDq8hWQwgr9fT6jA9SQ9jkrHw2H_kSkWotPF_bixPIFYHJwdBYkxjQNsWU4r_OBCAhVTbHIqD25sOA-Eozohejzl5b0huPfKA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "TBA",
-      "evento": "Calcio - Nations League: Olanda vs Germania",
+      "evento": "Billie Jean King Cup - Quarti di finale: Italia vs Cina (Singolare 2: Jasmine Paolini vs Zheng Qinwen)",
+      "competizione": "Billie Jean King Cup Finals",
+      "canale": "SuperTennis HD, SuperTennis+",
+      "note": "A seguire il primo singolare. Orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyPYs_TkvnKHxlgaNE2VTrfnwTksZMjtaBq0iR9mWb3irNV6Ity84Ly-Rc0RbGVIzRKijE8vP6e0BuGJepTKF3bOGljPkKeye_HsVpKpzR6NI4UT6RX4OQzGL3SAOV7ubI1dRFjBbKKkj9dXjhMxr2IGUeQqtyYC35A9JewdU3BiwiMJvdElZxNlkB9i6Wu0unrNOCeBq3uskE8nFP6-f-QT-03kJEPXQX, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBXHEEeH8FezKOTqivW1b2KnZ652gXXQZUjOr0ctqTHiBBzxPGuY_PynH4XjKs5CjAQPPp3zrUP9bKTFhpyAqHRbl-ehF62iROTo8HzoRTGhySGHEo5gmu9tbbFcxQxVk8bHWARkeHgy1Zg4czzgwgVpkgKlsilDd01TfICSFbABaJ87vgdxO0PDurLdByHzxy2G7AVTNnjRuSUnhHGw2GxRHOkm7HEGpOHM2TALcv0pDII0jR, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYJc2kiRpBIbGyQ0QRxI75P6NAsclbXYf9AEtYi82XbP4qh0wLAfvbfOv4s42MrBZRCxcz1mU_2oaoQqfRViO6IPVTfQl7evukdv74uG1Wo4Eu-HaAn_MnOy0qdEdymvD-MsNbLhURJMUg_2_In_hByV1wMti8PBpUUH2DTB6xGfkO8Zue6jzmJ0TPAW, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7muBZ1pqi3dglkOsT_qAYEBpDOLHlFoAP90RpkEVvWTgQQihmAicryXbM_OWAXEf5TokQ07c2faBLYUbpGvEf8j0XHRty-UJqW6yWiNUZAdzU1sI0EGdRJWT74lSrFXpQ4g2YGGCLA2HDf84WLU2RbH9U0T7_K8pkd0w6gqayu91b_Gfc4xYMKuNWVhYaiM1uMCXYAx6WKlVQI89PyBPO-NzaBYaVOJYlaT0otQ==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00",
+      "evento": "F1 Prove Libere 2",
+      "competizione": "Formula 1 - GP Azerbaigian",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7UKF9bh-zf9gc1TaCvwyzbEFdW6dOclS53xcqGaj8YYXIe3bTR96kIMTlnd8m4LAwPJbsZG5mqEc5v1Tle9TLWQZ8TV5phCj5xlT3oyF_qq3MND2988GPylZuy4T5rBeAQfIrgK2bIJBEG-vUVfYFNSaOiqPPRwrQt-yvfiKobaG_RIGjsS5xAQa9USdEd995Zzufs9uVYgkB6XV2UM75QPpUHjg0UcKTQhRr9ISA8GDq8hWQwgr9fT6jA9SQ9jkrHw2H_kSkWotPF_bixPIFYHJwdBYkxjQNsWU4r_OBCAhVTbHIqD25sOA-Eozohejzl5b0huPfKA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExinXrP88VCh738xz3UKpaLaTRN0fnwco_2jgDsGv6kBT1m2vAnlvGbIwuexHlGY40cdOBKcMp6-UPf5x6Oz7nRGhZY0tP3r94HpUCoFLBj1NpFu0eKL5WinEnXY3cdN1OuVY8Z0Fc8nJrWTsCJflvi3T2PltqZZ0I4-Nc878Eua_bCcuvLbrFq5nIZzXBQLQn68rPQudl2B4KwsN5jBv_Lw1XUDTcd5nuCGY==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA_IQrRX_5o1tYo7nvQTErujZIqOr4F0CiunENhAAPtiTVzy0IIC3mydhGeVm4rUj-mgFoLIHjPbB8hVQeSVKFs1Pg1ZUuRzVCKii1UIBgQGBHM9VF9AoGO-D69HW-SVoqovn0IuzRGQK97SNHFzjqNm68D2RRItVk46JeBhdRvPfTvXkL6q_lP9SYsnboMCmRWwruEfKdNhcecuT0XbrFloi_18MUPHr_HH_AyVNatwqf9G3BWiM1A1rtmlA_VnkNE==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio - Nations League: Andorra-Malta",
       "competizione": "UEFA Nations League",
-      "canale": "TV8, Sky Sport (pre/post partita)",
-      "note": "Match previsto per oggi, orario esatto non specificato. Copertura Sky per pre/post partita alle 11:00 e 13:45.",
-      "fonte": "Il calcio in TV oggi, giovedì 24 settembre 2026: parte la Nations League con Olanda-Germania. Dove vederla in diretta - Libero, Nations League, partite di oggi 24 settembre: dove vederle in tv e streaming | Sky Sport",
-      "accuratezza_orario": "tba"
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGVleqbx12yYCvBc9wsygkM2saTjvy-ux11WDvXFRLv9jryFhedhPdn8wHmguo6Qd9Rm_4UCjv0852odSW5IGCdaYCaMzo_qskyESzvY2QodhbACDTRTWmF-0cp1dxw7FzJNsAzyTOW_XyiLxS-gnuPWhZ04WbNdJkPoo6KjZK17e02__UurvzstUkSZuyYV_32fbp70isrLo15VRtiR4rfkiwpc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcnyX58X5PG7Km5cezXgZfNksjCdabWRviNXK-N1pSEowmbR37ZQaeRTx6vAhNz4LW_XPq5Z11lwB_kx4zFaYOMGcN1aZqhU982XuNYX7sTSLZvt-ikwWD2wEb_ns5T1BTSAfYCw_Ix-uWaykrc6KBApeyjrBLzlzqEbc7H-_kqL6OpzDfajcL4F7T5s0LZQT5lh0_l9iaATbc1Fg9p7WKMC2MvtkbWA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Nations League: Paesi Bassi-Germania",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Uno, TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGVleqbx12yYCvBc9wsygkM2saTjvy-ux11WDvXFRLv9jryFhedhPdn8wHmguo6Qd9Rm_4UCjv0852odSW5IGCdaYCaMzo_qskyESzvY2QodhbACDTRTWmF-0cp1dxw7FzJNsAzyTOW_XyiLxS-gnuPWhZ04WbNdJkPoo6KjZK17e02__UurvzstUkSZuyYV_32fbp70isrLo15VRtiR4rfkiwpc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcnyX58X5PG7Km5cezXgZfNksjCdabWRviNXK-N1pSEowmbR37ZQaeRTx6vAhNz4LW_XPq5Z11lwB_kx4zFaYOMGcN1aZqhU982XuNYX7sTSLZvt-ikwWD2wEb_ns5T1BTSAfYCw_Ix-uWaykrc6KBApeyjrBLzlzqEbc7H-_kqL6OpzDfajcL4F7T5s0LZQT5lh0_l9iaATbc1Fg9p7WKMC2MvtkbWA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Nations League: Norvegia-Danimarca",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGVleqbx12yYCvBc9wsygkM2saTjvy-ux11WDvXFRLv9jryFhedhPdn8wHmguo6Qd9Rm_4UCjv0852odSW5IGCdaYCaMzo_qskyESzvY2QodhbACDTRTWmF-0cp1dxw7FzJNsAzyTOW_XyiLxS-gnuPWhZ04WbNdJkPoo6KjZK17e02__UurvzstUkSZuyYV_32fbp70isrLo15VRtiR4rfkiwpc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcnyX58X5PG7Km5cezXgZfNksjCdabWRviNXK-N1pSEowmbR37ZQaeRTx6vAhNz4LW_XPq5Z11lwB_kx4zFaYOMGcN1aZqhU982XuNYX7sTSLZvt-ikwWD2wEb_ns5T1BTSAfYCw_Ix-uWaykrc6KBApeyjrBLzlzqEbc7H-_kqL6OpzDfajcL4F7T5s0LZQT5lh0_l9iaATbc1Fg9p7WKMC2MvtkbWA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio - Diretta Gol Nations League",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Include Austria-Israele, Kosovo-Repubblica d'Irlanda, Liechtenstein-Lituania, Portogallo-Galles, Serbia-Grecia",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGVleqbx12yYCvBc9wsygkM2saTjvy-ux11WDvXFRLv9jryFhedhPdn8wHmguo6Qd9Rm_4UCjv0852odSW5IGCdaYCaMzo_qskyESzvY2QodhbACDTRTWmF-0cp1dxw7FzJNsAzyTOW_XyiLxS-gnuPWhZ04WbNdJkPoo6KjZK17e02__UurvzstUkSZuyYV_32fbp70isrLo15VRtiR4rfkiwpc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcnyX58X5PG7Km5cezXgZfNksjCdabWRviNXK-N1pSEowmbR37ZQaeRTx6vAhNz4LW_XPq5Z11lwB_kx4zFaYOMGcN1aZqhU982XuNYX7sTSLZvt-ikwWD2wEb_ns5T1BTSAfYCw_Ix-uWaykrc6KBApeyjrBLzlzqEbc7H-_kqL6OpzDfajcL4F7T5s0LZQT5lh0_l9iaATbc1Fg9p7WKMC2MvtkbWA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Billie Jean King Cup - Quarti di finale: Italia vs Cina (Doppio decisivo: Sara Errani/Jasmine Paolini vs Cina)",
+      "competizione": "Billie Jean King Cup Finals",
+      "canale": "SuperTennis HD, SuperTennis+",
+      "note": "A seguire i singolari, solo in caso di 1-1. Orario stimato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyPYs_TkvnKHxlgaNE2VTrfnwTksZMjtaBq0iR9mWb3irNV6Ity84Ly-Rc0RbGVIzRKijE8vP6e0BuGJepTKF3bOGljPkKeye_HsVpKpzR6NI4UT6RX4OQzGL3SAOV7ubI1dRFjBbKKkj9dXjhMxr2IGUeQqtyYC35A9JewdU3BiwiMJvdElZxNlkB9i6Wu0unrNOCeBq3uskE8nFP6-f-QT-03kJEPXQX, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBXHEEeH8FezKOTqivW1b2KnZ652gXXQZUjOr0ctqTHiBBzxPGuY_PynH4XjKs5CjAQPPp3zrUP9bKTFhpyAqHRbl-ehF62iROTo8HzoRTGhySGHEo5gmu9tbbFcxQxVk8bHWARkeHgy1Zg4czzgwgVpkgKlsilDd01TfICSFbABaJ87vgdxO0PDurLdByHzxy2G7AVTNnjRuSUnhHGw2GxRHOkm7HEGpOHM2TALcv0pDII0jR, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYJc2kiRpBIbGyQ0QRxI75P6NAsclbXYf9AEtYi82XbP4qh0wLAfvbfOv4s42MrBZRCxcz1mU_2oaoQqfRViO6IPVTfQl7evukdv74uG1Wo4Eu-HaAn_MnOy0qdEdymvD-MsNbLhURJMUg_2_In_hByV1wMti8PBpUUH2DTB6xGfkO8Zue6jzmJ0TPAW, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7muBZ1pqi3dglkOsT_qAYEBpDOLHlFoAP90RpkEVvWTgQQihmAicryXbM_OWAXEf5TokQ07c2faBLYUbpGvEf8j0XHRty-UJqW6yWiNUZAdzU1sI0EGdRJWT74lSrFXpQ4g2YGGCLA2HDf84WLU2RbH9U0T7_K8pkd0w6gqayu91b_Gfc4xYMKuNWVhYaiM1uMCXYAx6WKlVQI89PyBPO-NzaBYaVOJYlaT0otQ==",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
