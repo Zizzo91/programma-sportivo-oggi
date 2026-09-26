@@ -1,85 +1,112 @@
 {
-  "last_updated": "2026-09-26T04:22:47.078951+02:00",
+  "last_updated": "2026-09-26T12:27:19.801517+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "ATP 500 Tokyo: Secondo Turno - Matteo Berrettini vs Casper Ruud",
-      "competizione": "Tennis - ATP 500 Tokyo",
-      "canale": "Sky Sport Tennis / SuperTennis",
-      "note": "Orario stimato del secondo match sul campo Colosseum.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "06:00",
-      "evento": "UEFA Nations League 2026/2027: Italia - Belgio (Fase a gironi - 1a giornata)",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Raisport HD",
-      "note": "Repliche del match giocato il 25 settembre.",
-      "fonte": "Guida TV",
+      "orario": "08:55",
+      "evento": "F2 Feature Race 2",
+      "competizione": "Formula 2",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "07:00",
-      "evento": "ATP 500 Pechino: Primo Turno - Lorenzo Sonego vs Alexander Zverev",
-      "competizione": "Tennis - ATP 500 Pechino",
-      "canale": "Sky Sport Uno / Sky Sport Arena / SuperTennis",
-      "note": "Orario stimato del secondo match sul campo Capital Group Diamond (13:00 ora locale Pechino).",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "07:00",
-      "evento": "ATP 500 Pechino: Primo Turno - Lorenzo Musetti vs Giovanni Mpetshi Perricard",
-      "competizione": "Tennis - ATP 500 Pechino",
-      "canale": "Sky Sport Uno / Sky Sport Arena / SuperTennis",
-      "note": "Orario stimato, non prima delle 13:00 ora locale Pechino sul campo Lotus.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Serie A Femminile: Juventus Women - Napoli Women",
-      "competizione": "Calcio Femminile - Serie A",
-      "canale": "DAZN",
-      "note": "",
+      "orario": "11:15",
+      "evento": "Superbike GP Italia, Superpole",
+      "competizione": "World Superbike (WSBK)",
+      "canale": "Sky Sport MotoGP",
+      "note": "Diretta dalla Superpole del GP d'Italia a Cremona.",
       "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "Formula 1: GP Azerbaigian - Gara",
-      "competizione": "Automobilismo - Formula 1",
-      "canale": "Sky Sport F1, NOW",
-      "note": "Diretta.",
-      "fonte": "L'Automobile ACI, OA Sport, alVolante, Canale 10",
+      "evento": "GP Azerbaijan (Gara)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Diretta della gara del Gran Premio di Baku.",
+      "fonte": "Fanpage, alVolante, FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:45",
-      "evento": "Formula 1: GP Azerbaigian - Gara",
-      "competizione": "Automobilismo - Formula 1",
-      "canale": "TV8",
-      "note": "Differita.",
-      "fonte": "OA Sport",
+      "orario": "15:30",
+      "evento": "Superbike GP Italia, Gara",
+      "competizione": "World Superbike (WSBK)",
+      "canale": "Sky Sport MotoGP, Sky Sport 1",
+      "note": "Diretta della gara del GP d'Italia a Cremona.",
+      "fonte": "Virgilio Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "Formula 1: GP Azerbaigian - Gara",
-      "competizione": "Automobilismo - Formula 1",
+      "evento": "GP Azerbaijan (Gara)",
+      "competizione": "Formula 1",
       "canale": "TV8",
-      "note": "Differita. Altre fonti indicano 15:45.",
-      "fonte": "L'Automobile ACI, Canale 10, Fanpage",
+      "note": "Differita della gara del Gran Premio di Baku.",
+      "fonte": "Fanpage, alVolante, Formula 1 Auto, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "GP Azerbaijan (Gara)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 (Canale 207)",
+      "note": "Prima replica della gara del Gran Premio di Baku.",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Serie A Femminile: Como 1907 - Milan",
-      "competizione": "Calcio Femminile - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Milan",
+      "evento": "Diretta Gol Nations League",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Uno, Sky Sport Calcio",
+      "note": "Copertura in diretta di più partite della Nations League.",
+      "fonte": "Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "GP Azerbaijan (Gara)",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1 (Canale 207)",
+      "note": "Seconda replica della gara del Gran Premio di Baku.",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Inghilterra-Spagna",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Arena",
+      "note": "Diretta della partita di Nations League.",
+      "fonte": "Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Repubblica Ceca-Croazia",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 251",
+      "note": "Diretta della partita di Nations League.",
+      "fonte": "Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Nations League (altre partite)",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Uno, Sky Sport Calcio",
+      "note": "Copertura in diretta di altre partite della Nations League.",
+      "fonte": "Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00 (27/09)",
+      "evento": "WorldSBK Italia, Gara 1",
+      "competizione": "World Superbike (WSBK)",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della Gara 1 del GP d'Italia.",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
