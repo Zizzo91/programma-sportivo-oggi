@@ -1,13 +1,94 @@
 {
-  "last_updated": "2026-09-27T12:58:34.175056+02:00",
+  "last_updated": "2026-09-27T17:56:31.406215+02:00",
   "events": [
     {
-      "orario": "01:30",
-      "evento": "Mondiali su strada 2026 - Prova Elite Uomini (da Montreal)",
-      "competizione": "Ciclismo",
-      "canale": "Raisport HD",
+      "orario": "13:00",
+      "evento": "Calcio Femminile: Inter-Fiorentina",
+      "competizione": "Serie A Femminile",
+      "canale": "DAZN, Rai Sport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfznPC3u--R3iJi8HfEg-NW4AKwFgGuRoCkm88HKp1ftKZWfoOrQ07kH-wzu3oWP-EKrXdO1FJ_TP2VbCbA15UA9LaPeELmg_lLJXJpdwBQKSWoQjHlApoPVSi8RVHoPYcUgMlt070KLfoEyjQsYzrRQ==",
+      "fonte": "Sport in tv oggi (domenica 27 settembre): orari e programma. Dove vedere gli eventi in streaming, Sport in tv oggi (domenica 27 settembre): Mondiali di ciclismo e softball - QAlympics",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Tennis: Cobolli/Mensik - De Minaur/Fritz",
+      "competizione": "Laver Cup (Doppio)",
+      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Arena, NOW",
+      "note": "Giocatore italiano in campo: Flavio Cobolli",
+      "fonte": "Sport in tv oggi (domenica 27 settembre): orari e programma. Dove vedere gli eventi in streaming, Laver Cup 2026, il programma di oggi: partite e orari - Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Formula 1: GP Azerbaijan (Replica Gara)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "F1 oggi, replica GP Azerbaijan: dove vedere la gara di Baku oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Lituania-Azerbaigian",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "Nations League, partite di oggi 27 settembre: dove vederle in tv e streaming | Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Reggina - Nuova Igea Virtus",
+      "competizione": "Serie D Girone I",
+      "canale": "",
+      "note": "",
+      "fonte": "Reggina - Nuova Igea Virtus in tv e streaming: dove vederla, canale, orario / Serie D, Stadio Oreste Granillo : SERIE D 2026/27 REGGINA - REGGINA - IGEA VIRTUS - Vivaticket",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio: Serbia-Paesi Bassi",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Nations League, partite di oggi 27 settembre: dove vederle in tv e streaming | Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio: Diretta Gol Nations League",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Include Austria-Kosovo, Danimarca-Galles, Gibilterra-Andorra",
+      "fonte": "Nations League, partite di oggi 27 settembre: dove vederle in tv e streaming | Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio: Norvegia-Portogallo",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Uno, TV8",
+      "note": "",
+      "fonte": "Calcio oggi in TV, dove vedere Norvegia-Portogallo e le partite di Nations League in calendario il 27 settembre - Fanpage, Sky Sport Uno Stasera: Programmi Prima Serata - Guida TV, Sport in TV domenica 27 settembre 2026 - Programmi TV, Nations League, partite di oggi 27 settembre: dove vederle in tv e streaming | Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio: Germania-Grecia",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 255",
+      "note": "",
+      "fonte": "Nations League, partite di oggi 27 settembre: dove vederle in tv e streaming | Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio: Diretta Gol Nations League",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Include Israele-Repubblica d'Irlanda",
+      "fonte": "Nations League, partite di oggi 27 settembre: dove vederle in tv e streaming | Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
@@ -15,62 +96,8 @@
       "evento": "Race Anatomy F1",
       "competizione": "Formula 1",
       "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara GP Azerbaijan",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsJlLun27EyskJdFo6QIckEr14zZ8X9XR5kCzkfoEVqsNQDswNVCt7ogBvT6KU6uGAGkV_sO-nCC8-fzHeWxCvIfhx8BvaghBqZs0PdA6HIKIBqWi15S3FIHHc754iKn91hk_FFFTBacMPtJnLQGyqo1jDX4cA-yFA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:10",
-      "evento": "WorldSBK 2026-Italia. Superpole Race",
-      "competizione": "Superbike",
-      "canale": "Sky Sport MotoGP, Sky Sport 1",
-      "note": "GP Italia, Circuito di Cremona",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkadlGG2VHScGe22Px1PtNo8jMSfUWQMLL-2XIvDjMi8Cfjm9Gk8g5NrsTJINuXOrrZLOneXq2MM2CTaX38H9-crWsPwq_YLOR9nrpbDS_YvUlBM-V8aal48Q_3GJBvTseVWQARrI_yIq05mN7Lm7nIoaeeykTV5DRp44h_WegFJWmjYl9UK6hX7vAon8O5Vx4uJCTVXTWpBrcSixSvyC2m-FczaVsqOO0m-nUDaCVbZtCByNhzHOmlMsInfZDf20KPVA5h38L9O6Dadeazw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ3Htqb0t_UUJF9z33XE_abDj09YoULOAFFxaW8jv3Z-5Vh-b0_vdz6tO2WzjIuF-nFtT5fEB1XAxOdnQ_ge6OjzIdQo3-IUW5AhoC3CdgLvsJZMIChB0e5uP72fzE7J5a6SLRK8vLRRCwNzDhjm2mQCjAmlOeQ27yExI=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:25",
-      "evento": "Post SBK",
-      "competizione": "Superbike",
-      "canale": "Sky Sport Uno",
-      "note": "GP Italia, Circuito di Cremona",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ3Htqb0t_UUJF9z33XE_abDj09YoULOAFFxaW8jv3Z-5Vh-b0_vdz6tO2WzjIuF-nFtT5fEB1XAxOdnQ_ge6OjzIdQo3-IUW5AhoC3CdgLvsJZMIChB0e5uP72fzE7J5a6SLRK8vLRRCwNzDhjm2mQCjAmlOeQ27yExI=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Inter-Fiorentina",
-      "competizione": "Calcio Serie A",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNwjmI2hnjpF1SWkAj_EfCoTKPus5r1EO9sE_5DvUtfmvoqgqIO4POAhxb6pQkB99voB-tfbDzIGfAoeWQ0DSgGO8i4hvs1-XEFPVcfsDrBIyEgPM_ILIpjtrfMXr7Zciset7nAzu2zH3sCc7P34f3X9J9ninwgh9l1jwMzUricQ4tXid6GX9nlgYMKacx83AaPaMYS8IM1i3xnQdnydlls6KdaGbuWJnch6yCr9G3meep8ZVPYPgpDcnqpKgaR_7coRt2adHPOSY2Tat1aQrIzD2wJpLT",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Laver Cup: doppio Cobolli/Mensik vs De Minaur/Fritz",
-      "competizione": "Tennis",
-      "canale": "Sky Sport, NOW",
-      "note": "Con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6mYKNLfnt4wOt4DNh4PpwFjLCQccVWv8SUt8nhSBQEUZA9r47LvLJ4-veMHeyiL4jwDXqKt4_guRcreFLMH9LyulkJTCNh4EMPo4lPM-5QqhzO9rJvKKMWibv5pRsX435OiAD3VEFVI3l3pabdal1ipfPFJOYeMKbtHjd24CbzXuEf03USQJtLzXik3BA0sWD2IOFo151whPq8_LfuLnCyVjVub8hoOgvDy4EH3tLZ6lWsMfilr7ucbk47-c6Xw_Rp64=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC-nJOafL9lq7hqizcf3kVjHz_h6c6wRlh1inbAdgVAa8bLzrGhd7aNcVciRs0QVtEzaicHEdur7wBFW-QDnVlZlfPmaw7U9u43X66k5R13TBsy_e-o_ULZi09jibsyMGFfDgmvUBlhnlAzCOBHj4YbdYinEs6DMbFAYCIaaAu1zTbwfBJHFrAkXQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "Superbike GP Italia, Circuito di Cremona",
-      "competizione": "Superbike",
-      "canale": "Sky Sport MotoGP, Sky Sport 1, TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkadlGG2VHScGe22Px1PtNo8jMSfUWQMLL-2XIvDjMi8Cfjm9Gk8g5NrsTJINuXOrrZLOneXq2MM2CTaX38H9-crWsPwq_YLOR9nrpbDS_YvUlBM-V8aal48Q_3GJBvTseVWQARrI_yIq05mN7Lm7nIoaeeykTV5DRp44h_WegFJWmjYl9UK6hX7vAon8O5Vx4uJCTVXTWpBrcSixSvyC2m-FczaVsqOO0m-nUDaCVbZtCByNhzHOmlMsInfZDf20KPVA5h38L9O6Dadeazw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Mondiali di ciclismo - Gara in linea maschile élite",
-      "competizione": "Ciclismo",
-      "canale": "Rai 2",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTQNoVE87LJDy_YYfGLou4teVIusUNyJDeZv6kr1f5GgJGBu5JqwzE2E4900jw_r3KOarhK-cRYyEN8a8vW3YFJSLxBCYSe26dzgOMGEmZ9-9r6LvwMP02vm5BxRYD79boFs2Mmg==",
+      "note": "Mattina del giorno successivo (28 Settembre)",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     }
   ]
