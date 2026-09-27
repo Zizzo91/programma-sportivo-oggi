@@ -1,50 +1,77 @@
 {
-  "last_updated": "2026-09-27T04:18:22.028157+02:00",
+  "last_updated": "2026-09-27T12:58:34.175056+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "Finale",
-      "competizione": "Billie Jean King Cup Finals",
-      "canale": "Supertennis, SuperTennis+",
-      "note": "Possibile partecipazione di giocatrici italiane. L'Italia ha disputato la semifinale il 26 settembre.",
-      "fonte": "Olympics.com",
+      "orario": "01:30",
+      "evento": "Mondiali su strada 2026 - Prova Elite Uomini (da Montreal)",
+      "competizione": "Ciclismo",
+      "canale": "Raisport HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfznPC3u--R3iJi8HfEg-NW4AKwFgGuRoCkm88HKp1ftKZWfoOrQ07kH-wzu3oWP-EKrXdO1FJ_TP2VbCbA15UA9LaPeELmg_lLJXJpdwBQKSWoQjHlApoPVSi8RVHoPYcUgMlt070KLfoEyjQsYzrRQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Analisi post-gara GP Azerbaijan",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsJlLun27EyskJdFo6QIckEr14zZ8X9XR5kCzkfoEVqsNQDswNVCt7ogBvT6KU6uGAGkV_sO-nCC8-fzHeWxCvIfhx8BvaghBqZs0PdA6HIKIBqWi15S3FIHHc754iKn91hk_FFFTBacMPtJnLQGyqo1jDX4cA-yFA",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:10",
+      "evento": "WorldSBK 2026-Italia. Superpole Race",
+      "competizione": "Superbike",
+      "canale": "Sky Sport MotoGP, Sky Sport 1",
+      "note": "GP Italia, Circuito di Cremona",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkadlGG2VHScGe22Px1PtNo8jMSfUWQMLL-2XIvDjMi8Cfjm9Gk8g5NrsTJINuXOrrZLOneXq2MM2CTaX38H9-crWsPwq_YLOR9nrpbDS_YvUlBM-V8aal48Q_3GJBvTseVWQARrI_yIq05mN7Lm7nIoaeeykTV5DRp44h_WegFJWmjYl9UK6hX7vAon8O5Vx4uJCTVXTWpBrcSixSvyC2m-FczaVsqOO0m-nUDaCVbZtCByNhzHOmlMsInfZDf20KPVA5h38L9O6Dadeazw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ3Htqb0t_UUJF9z33XE_abDj09YoULOAFFxaW8jv3Z-5Vh-b0_vdz6tO2WzjIuF-nFtT5fEB1XAxOdnQ_ge6OjzIdQo3-IUW5AhoC3CdgLvsJZMIChB0e5uP72fzE7J5a6SLRK8vLRRCwNzDhjm2mQCjAmlOeQ27yExI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:25",
+      "evento": "Post SBK",
+      "competizione": "Superbike",
+      "canale": "Sky Sport Uno",
+      "note": "GP Italia, Circuito di Cremona",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ3Htqb0t_UUJF9z33XE_abDj09YoULOAFFxaW8jv3Z-5Vh-b0_vdz6tO2WzjIuF-nFtT5fEB1XAxOdnQ_ge6OjzIdQo3-IUW5AhoC3CdgLvsJZMIChB0e5uP72fzE7J5a6SLRK8vLRRCwNzDhjm2mQCjAmlOeQ27yExI=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "3^ giornata",
-      "competizione": "Laver Cup 2026",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Laver Cup di tennis. Flavio Cobolli fa parte del Team Europe.",
-      "fonte": "Sky Sport",
+      "evento": "Inter-Fiorentina",
+      "competizione": "Calcio Serie A",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNwjmI2hnjpF1SWkAj_EfCoTKPus5r1EO9sE_5DvUtfmvoqgqIO4POAhxb6pQkB99voB-tfbDzIGfAoeWQ0DSgGO8i4hvs1-XEFPVcfsDrBIyEgPM_ILIpjtrfMXr7Zciset7nAzu2zH3sCc7P34f3X9J9ninwgh9l1jwMzUricQ4tXid6GX9nlgYMKacx83AaPaMYS8IM1i3xnQdnydlls6KdaGbuWJnch6yCr9G3meep8ZVPYPgpDcnqpKgaR_7coRt2adHPOSY2Tat1aQrIzD2wJpLT",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:55",
-      "evento": "Inter - Fiorentina",
-      "competizione": "Serie A Femminile 2026/27",
-      "canale": "Rai Sport +HD",
-      "note": "1a giornata di Serie A Femminile.",
-      "fonte": "OA Sport",
+      "orario": "13:00",
+      "evento": "Laver Cup: doppio Cobolli/Mensik vs De Minaur/Fritz",
+      "competizione": "Tennis",
+      "canale": "Sky Sport, NOW",
+      "note": "Con giocatore italiano",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6mYKNLfnt4wOt4DNh4PpwFjLCQccVWv8SUt8nhSBQEUZA9r47LvLJ4-veMHeyiL4jwDXqKt4_guRcreFLMH9LyulkJTCNh4EMPo4lPM-5QqhzO9rJvKKMWibv5pRsX435OiAD3VEFVI3l3pabdal1ipfPFJOYeMKbtHjd24CbzXuEf03USQJtLzXik3BA0sWD2IOFo151whPq8_LfuLnCyVjVub8hoOgvDy4EH3tLZ6lWsMfilr7ucbk47-c6Xw_Rp64=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC-nJOafL9lq7hqizcf3kVjHz_h6c6wRlh1inbAdgVAa8bLzrGhd7aNcVciRs0QVtEzaicHEdur7wBFW-QDnVlZlfPmaw7U9u43X66k5R13TBsy_e-o_ULZi09jibsyMGFfDgmvUBlhnlAzCOBHj4YbdYinEs6DMbFAYCIaaAu1zTbwfBJHFrAkXQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Reggina - Igea Virtus",
-      "competizione": "Serie D - Girone I",
-      "canale": "Reggina Channel",
-      "note": "Quinta giornata di andata del girone I di Serie D.",
-      "fonte": "News Serie D",
+      "orario": "15:30",
+      "evento": "Superbike GP Italia, Circuito di Cremona",
+      "competizione": "Superbike",
+      "canale": "Sky Sport MotoGP, Sky Sport 1, TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkadlGG2VHScGe22Px1PtNo8jMSfUWQMLL-2XIvDjMi8Cfjm9Gk8g5NrsTJINuXOrrZLOneXq2MM2CTaX38H9-crWsPwq_YLOR9nrpbDS_YvUlBM-V8aal48Q_3GJBvTseVWQARrI_yIq05mN7Lm7nIoaeeykTV5DRp44h_WegFJWmjYl9UK6hX7vAon8O5Vx4uJCTVXTWpBrcSixSvyC2m-FczaVsqOO0m-nUDaCVbZtCByNhzHOmlMsInfZDf20KPVA5h38L9O6Dadeazw==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Finale",
-      "competizione": "ATP Challenger Genova - De Wave Open",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Possibile partecipazione di giocatori italiani (es. Stefano Travaglia, Gianluca Cadenasso).",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "tba"
+      "orario": "21:00",
+      "evento": "Mondiali di ciclismo - Gara in linea maschile élite",
+      "competizione": "Ciclismo",
+      "canale": "Rai 2",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTQNoVE87LJDy_YYfGLou4teVIusUNyJDeZv6kr1f5GgJGBu5JqwzE2E4900jw_r3KOarhK-cRYyEN8a8vW3YFJSLxBCYSe26dzgOMGEmZ9-9r6LvwMP02vm5BxRYD79boFs2Mmg==",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
