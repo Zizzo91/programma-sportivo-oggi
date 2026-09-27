@@ -1,113 +1,50 @@
 {
-  "last_updated": "2026-09-26T22:18:34.718331+02:00",
+  "last_updated": "2026-09-27T04:18:22.028157+02:00",
   "events": [
     {
       "orario": "11:00",
-      "evento": "Billie Jean King Cup - Semifinale Italia-Ucraina (Singolari)",
-      "competizione": "Billie Jean King Cup 2026",
-      "canale": "Super Tennis",
-      "note": "Con partecipazione di giocatrici italiane (es. Paolini, Cocciaretto, Bronzetti, Grant, Errani)",
-      "fonte": "adnkronos.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:30",
-      "evento": "F1 Paddock Live Pre Gara",
-      "competizione": "Formula 1 - GP Azerbaijan 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Analisi pre-gara del Gran Premio dell'Azerbaigian",
-      "fonte": "Sky Sport Uno Palinsesto",
+      "evento": "Finale",
+      "competizione": "Billie Jean King Cup Finals",
+      "canale": "Supertennis, SuperTennis+",
+      "note": "Possibile partecipazione di giocatrici italiane. L'Italia ha disputato la semifinale il 26 settembre.",
+      "fonte": "Olympics.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "F1 GP Azerbaijan - Gara",
-      "competizione": "Formula 1 - GP Azerbaijan 2026",
-      "canale": "Sky Sport F1",
-      "note": "Diretta del Gran Premio",
-      "fonte": "L'Automobile ACI, FormulaPassion, alVolante, OA Sport",
+      "evento": "3^ giornata",
+      "competizione": "Laver Cup 2026",
+      "canale": "Sky Sport Tennis, NOW",
+      "note": "Laver Cup di tennis. Flavio Cobolli fa parte del Team Europe.",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:55",
+      "evento": "Inter - Fiorentina",
+      "competizione": "Serie A Femminile 2026/27",
+      "canale": "Rai Sport +HD",
+      "note": "1a giornata di Serie A Femminile.",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Slovenia-Scozia",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Fase a gironi",
-      "fonte": "Sky Sport, Libero Magazine",
+      "evento": "Reggina - Igea Virtus",
+      "competizione": "Serie D - Girone I",
+      "canale": "Reggina Channel",
+      "note": "Quinta giornata di andata del girone I di Serie D.",
+      "fonte": "News Serie D",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "F1 GP Azerbaijan - Gara (Differita)",
-      "competizione": "Formula 1 - GP Azerbaijan 2026",
-      "canale": "TV8",
-      "note": "Differita del Gran Premio",
-      "fonte": "L'Automobile ACI, FormulaPassion, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Bulgaria-Lussemburgo",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Fase a gironi",
-      "fonte": "Sky Sport, Libero Magazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Inghilterra-Spagna",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Uno, Italia 1",
-      "note": "Fase a gironi, match principale",
-      "fonte": "OA Sport, Libero Magazine, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Repubblica Ceca-Croazia",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport 254",
-      "note": "Fase a gironi",
-      "fonte": "OA Sport, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Diretta Gol Nations League",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Collegamento simultaneo con più partite (es. Albania-Bielorussia, Macedonia del Nord-Svizzera, Slovacchia-Moldavia)",
-      "fonte": "OA Sport, Libero Magazine, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45*",
-      "evento": "Billie Jean King Cup - Semifinale Italia-Ucraina (Doppio)",
-      "competizione": "Billie Jean King Cup 2026",
-      "canale": "Super Tennis",
-      "note": "In caso di parità dopo i singolari; con partecipazione di giocatrici italiane",
-      "fonte": "adnkronos.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Race Anatomy F1",
-      "competizione": "Approfondimento Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara del GP Azerbaijan",
-      "fonte": "Guida TV, Sky Sport Uno Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "UEFA Nations League 2026/2027 - Italia-Belgio (Replay)",
-      "competizione": "UEFA Nations League",
-      "canale": "Raisport HD",
-      "note": "Replay della fase a gironi (1a giornata)",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
+      "orario": "TBA",
+      "evento": "Finale",
+      "competizione": "ATP Challenger Genova - De Wave Open",
+      "canale": "Sky Sport Tennis, NOW",
+      "note": "Possibile partecipazione di giocatori italiani (es. Stefano Travaglia, Gianluca Cadenasso).",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "tba"
     }
   ]
 }
