@@ -1,139 +1,49 @@
 {
-  "last_updated": "2026-09-29T00:43:20.399065+02:00",
+  "last_updated": "2026-09-29T05:06:25.906923+02:00",
   "events": [
     {
-      "orario": "01:55",
-      "evento": "Laver Cup",
-      "competizione": "Tennis a squadre",
-      "canale": "Supertennis",
-      "note": "Potenziale presenza di giocatori italiani nel Team Europe, trattandosi di un torneo a squadre.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmfiQJRoP9lo4FK-y8Dnvxpw4CTJgT2_ayI4_OR0U4WM-hsmc8GKFZqwtFgmwvVqcXgek6u5VkJrVQR6TCJanJL1qTYkuz1lGq3t8D2G_GmB4L-ZKXUMiH6tsSO-4Dbwrf60fdu7j4v3XKn2leqcrZCZZYlZb3aZonZww5HszBQGDKE4hexQ==",
+      "orario": "00:00",
+      "evento": "Belgio - Francia",
+      "competizione": "UEFA Nations League 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "Replay (2a giornata)",
+      "fonte": "Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:00",
-      "evento": "UEFA Nations League 2026/2027 - Cechia - Inghilterra",
-      "competizione": "Calcio",
+      "evento": "Belgio - Francia",
+      "competizione": "UEFA Nations League 2026/2027",
       "canale": "Sky Sport Uno",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmMCdVH7_5zjeJeXWlgZcJ6rF3fRf5oXNeEzEzmtOy4t9SbW48REbj2uKuuiBCLdkIxUczhcRIiTEg00n7uH3xGseAgyBvLPOFB8XBzFW_gzxpU_ursvKZB5Z8zESi3tGZmdYLmt8J43OF9hM-97f19tLGnPZ3Tr5-uoTqBrC_gbt9VQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "UEFA Nations League 2026/2027 - Turchia - Italia",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmMCdVH7_5zjeJeXWlgZcJ6rF3fRf5oXNeEzEzmtOy4t9SbW48REbj2uKuuiBCLdkIxUczhcRIiTEg00n7uH3xGseAgyBvLPOFB8XBzFW_gzxpU_ursvKZB5Z8zESi3tGZmdYLmt8J43OF9hM-97f19tLGnPZ3Tr5-uoTqBrC_gbt9VQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:15",
-      "evento": "NFL Week 3: Philadelphia Eagles vs Chicago Bears",
-      "competizione": "Football Americano",
-      "canale": "DAZN",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2VE09WOrXbeK4sRBNyOEWGvTzEsW_H-9pXjzBtPJtdGpZtUwLB1xkw7nkufgZV6GUF_tzjNR52e-9Yo4m-YZ-sLwNvK7Y0lBFnogsabnoDdXkgZyvEBdXYMR2v0Moeik4uvjP2GqhjvzdtAgyFqP0qvN67AmLroBWkBFo2fmSvTDDHAFaaDbuz9o50_9ATdLrGTKjnAXKy6FhQOx54Kcbhp9VznAza9nn_Lvpv2F5Zg7SwHheAaKBdZjN4m=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE71V4nOhWFbCQKAGHEbNVsLwIHoVrzohzu2eT0PC-lUUUVnKJellAwnKLLdiAYqxDnjsFbTeL1ezoZfR3tm7EA0rHDLpKyklUr8JSUwD7wbefcSUtltZztP0IPILB6SfbxwY2DtM9MUJjETxQRc3lgabSd02RTuOZDQTbUDza9G-zs2A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "UEFA Nations League 2026/2027 - Norvegia - Portogallo (2a g.)",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmMCdVH7_5zjeJeXWlgZcJ6rF3fRf5oXNeEzEzmtOy4t9SbW48REbj2uKuuiBCLdkIxUczhcRIiTEg00n7uH3xGseAgyBvLPOFB8XBzFW_gzxpU_ursvKZB5Z8zESi3tGZmdYLmt8J3xGseAgyBvLPOFB8XBzFW_gzxpU_ursvKZB5Z8zESi3tGZmdYLmt8J43OF9hM-97f19tLGnPZ3Tr5-uoTqBrC_gbt9VQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "UEFA Nations League 2026/2027 - Spagna - Croazia",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmMCdVH7_5zjeJeXWlgZcJ6rF3fRf5oXNeEzEzmtOy4t9SbW48REbj2uKuuiBCLdkIxUczhcRIiTEg00n7uH3xGseAgyBvLPOFB8XBzFW_gzxpU_ursvKZB5Z8zESi3tGZmdYLmt8J43OF9hM-97f19tLGnPZ3Tr5-uoTqBrC_gbt9VQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:40",
-      "evento": "Campionati Europei Canoa Slalom e Kayak Cross Ivrea 2026 (Kayak Cross batterie)",
-      "competizione": "Canoa",
-      "canale": "Rai Sport +HD",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbVo9OeOIG1AbQ-mRQ1aX-VulUC282I0CtPgpIxH42DHeWGBXeL4WfRKXih3kAend5HVIe0DRmpSjWBVH8lK5wcUBU_2IKsYniqbqf6HufiVoHqIh2NKyIRYjE-9QVXalFLZ5jiA2xMTBVnPZLMcZ9AdVCERsxwAKyiObeBWfnoXPYGqp1O7AjMvOKng==",
+      "note": "Replay (2a giornata)",
+      "fonte": "Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "UEFA Nations League 2026/2027 - Turchia - Italia (Fase a gironi - 2a giornata)",
-      "competizione": "Calcio",
+      "evento": "Turchia - Italia",
+      "competizione": "UEFA Nations League 2026/2027",
       "canale": "Rai Sport +HD",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbVo9OeOIG1AbQ-mRQ1aX-VulUC282I0CtPgpIxH42DHeWGBXeL4WfRKXih3kAend5HVIe0DRmpSjWBVH8lK5wcUBU_2IKsYniqbqf6HufiVoHqIh2NKyIRYjE-9QVXalFLZ5jiA2xMTBVnPZLMcZ9AdVCERsxwAKyiObeBWfnoXPYGqp1O7AjMvOKng==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "ATP 500 Pechino 2025: Jannik Sinner (ITA) vs Terence ATMANE (FRA)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "L'anno della competizione potrebbe essere un refuso e riferirsi al 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELUliOSGs-vhDkJn7eVNtv3n91kD1PIdehBmg8TNuK8oCuyjMzIohM1MvOA5t-hBCPlkJwgJRNhut7xsvrWxe6u1xl-MOJOaBJA1uFXzk6-9dcuTh8NeQqm7rZ4dvL5tRdL88ttr_8NvCGM_5D76xnJhtg6ux7_KRLRrroy8YX1xuHvdy394D1g6Ou",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "UEFA Nations League 2026/2027 - Belgio - Francia (2a g.)",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Uno",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzA-cX_3lm5h5fL-7j5kZ6Zmu_hphgiLuWTdOagwoisUBb_E2z3w36a5MgXrs4MO4U_63IQIhLB2194vtESVk-AG-k4JrVVrDbn8exxToe_qqn-F0Fiq-fj38eWX3ePqVxdt7GX8LptA1mtKTrQoLcH8BIjHVDkJfdUKQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:15",
-      "evento": "Giro della Campania in Rosa 2026",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport +HD",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbVo9OeOIG1AbQ-mRQ1aX-VulUC282I0CtPgpIxH42DHeWGBXeL4WfRKXih3kAend5HVIe0DRmpSjWBVH8lK5wcUBU_2IKsYniqbqf6HufiVoHqIh2NKyIRYjE-9QVXalFLZ5jiA2xMTBVnPZLMcZ9AdVCERsxwAKyiObeBWfnoXPYGqp1O7AjMvOKng==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:15",
-      "evento": "Coppa del Mondo 2026 - Finale Sprint (dalla Val di Fiemme)",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBBwfFpUvAUFoIQm5-jeKfRadfjFlLJ6KnVdrSUEafl-A8IzxceF8gtARG7Fua4EtnYI98edegkOorm68NAziAXPd5Ys7-mA2Y7uPYsru90CiGUUYcOFk5UiEh5jC_78_zC_7YCtV1sdNsIHgZR6RLTA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:45",
-      "evento": "Coppa del Mondo 2026 - Finale 10 km Mass Start (dalla Val di Fiemme)",
-      "competizione": "Ciclismo",
-      "canale": "Rai Sport HD",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbwwA8sx2UlDvAoU3wmo-m9Qp-aJWKSfdpW4A5QicBfropGeeoMbKDHuhBoYRRqHSTmiqgze0rEBC5bMoa7jAZHlqqBKlruoNrEuTw8Op9HT9vtxzBIGBB0hkRuNbY6dZ9f0XnXDC16YPqpQsGGc2cJaYvU=",
+      "note": "Replay (2a giornata)",
+      "fonte": "Stasera in TV, Sport Mattina - Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "UEFA Nations League 2026/2027 - Spagna - Croazia",
-      "competizione": "Calcio",
-      "canale": "Sky Sport Arena",
-      "note": null,
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1-osf3u1tG_o2Wfw-TxXJl6jkDt4SS8dfPDD8eEIyUYysWfUXwhU-zjfl0fk-RQWyrKdAxeJFPRKeT9AxsBTp2DVANvh87toWvono5MjruyvLsuoPd1pVBtbqMdIzqIpNh_XE8gIYSqReKBDYFjI",
+      "evento": "Spagna - Croazia",
+      "competizione": "UEFA Nations League 2026/2027",
+      "canale": "Canale 20, Sky Sport Arena, NOW",
+      "note": "2a giornata",
+      "fonte": "Goal.com Italia, Dituttounpop",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:30",
-      "evento": "UEFA Nations League 2026/2027 - Turchia - Italia (2a g.)",
-      "competizione": "Calcio",
-      "canale": "Raisport HD",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1-osf3u1tG_o2Wfw-TxXJl6jkDt4SS8dfPDD8eEIyUYysWfUXwhU-zjfl0fk-RQWyrKdAxeJFPRKeT9AxsBTp2DVANvh87toWvono5MjruyvLsuoPd1pVBtbqMdIzqIpNh_XE8gIYSqReKBDYFjI",
+      "orario": "20:45",
+      "evento": "Repubblica Ceca - Inghilterra",
+      "competizione": "UEFA Nations League 2026/2027",
+      "canale": "Sky Sport (canale 251), NOW",
+      "note": "2a giornata",
+      "fonte": "Goal.com Italia",
       "accuratezza_orario": "esatto"
     }
   ]
