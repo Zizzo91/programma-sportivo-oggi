@@ -1,67 +1,40 @@
 {
-  "last_updated": "2026-09-29T19:11:26.522320+02:00",
+  "last_updated": "2026-09-29T23:36:56.060189+02:00",
   "events": [
     {
-      "orario": "01:30",
-      "evento": "Turchia - Italia (Fase a gironi - 2a giornata)",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Rai 1",
-      "note": "Replica della partita giocata il 28/09/2026.",
-      "fonte": "TV Sorrisi e Canzoni",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "06:00",
-      "evento": "Turchia - Italia (Fase a gironi - 2a giornata)",
+      "evento": "Turchia - Italia (2a giornata)",
       "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Rai 1",
-      "note": "Replica della partita giocata il 28/09/2026.",
-      "fonte": "TV Sorrisi e Canzoni",
+      "canale": "Rai Sport +HD",
+      "note": "Replay della partita della Nazionale A.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBqdyDBbtJ8xe6iYlivodpU7Qkv-3do6ta6VuXnNu3-NYkK7akya1NlmgBvbOyK7RxzVTpbjzkoTRSaS4LryqlixSOpjpWbzdthK8O4OipB4Dxh-06j5ZBXY1iMil--kIwydsrFVtklkBWjNUxUh1NLRtR",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "07:00",
-      "evento": "Belgio - Francia (2a giornata)",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della partita giocata il 28/09/2026.",
-      "fonte": "Sky Sport Uno Palinsesto, TV Sorrisi e Canzoni",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Turchia - Italia (Fase a gironi - 2a giornata)",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Rai 1",
-      "note": "Replica della partita giocata il 28/09/2026.",
-      "fonte": "TV Sorrisi e Canzoni",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:15",
-      "evento": "Turchia - Italia (Fase a gironi - 2a giornata)",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della partita giocata il 28/09/2026.",
-      "fonte": "Sky Sport Uno Palinsesto, TV Sorrisi e Canzoni",
+      "orario": "18:00",
+      "evento": "Diretta Gol Nations League",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Panoramica delle partite in corso della UEFA Nations League.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-crIeJVE3kpIBF6Dx7ilG6aQ-MmYPm9HQSWaLBAI2wypAHZ7mmU0PCZOaqmzhvBQdIXKwQU4MOZ8ydQ2iMAx135TZb0KJVDwVRYfFr4qyzDa51lpvo3JIWkSjwQNavf_ozoY4-7WHUaMY9lxT0fJr3_hMpgIispNCSwGqJyPp2MfzAAO1UzAEz0F3STTuDoPTwJ-7FfNhtwQGhUejcrJezmD-aW_IMjw5_xXqlHSXd7R3ssAJVnERgqIhlcJWRE",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Spagna - Croazia",
       "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Canale 20",
-      "note": "",
-      "fonte": "Goal.com Italia",
+      "canale": "Italia 1, Sky Sport Arena",
+      "note": "Partita di cartello della UEFA Nations League. Disponibile in chiaro su Italia 1 e a pagamento su Sky Sport Arena.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-crIeJVE3kpIBF6Dx7ilG6aQ-MmYPm9HQSWaLBAI2wypAHZ7mmU0PCZOaqmzhvBQdIXKwQU4MOZ8ydQ2iMAx135TZb0KJVDwVRYfFr4qyzDa51lpvo3JIWkSjwQNavf_ozoY4-7WHUaMY9lxT0fJr3_hMpgIispNCSwGqJyPp2MfzAAO1UzAEz0F3STTuDoPTwJ-7FfNhtwQGhUejcrJezmD-aW_IMjw5_xXqlHSXd7R3ssAJVnERgqIhlcJWRE",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Repubblica Ceca - Inghilterra",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Sky Sport (canale 251)",
-      "note": "",
-      "fonte": "Goal.com Italia",
+      "evento": "Diretta Gol Nations League",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Panoramica delle partite in corso della UEFA Nations League.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-crIeJVE3kpIBF6Dx7ilG6aQ-MmYPm9HQSWaLBAI2wypAHZ7mmU0PCZOaqmzhvBQdIXKwQU4MOZ8ydQ2iMAx135TZb0KJVDwVRYfFr4qyzDa51lpvo3JIWkSjwQNavf_ozoY4-7WHUaMY9lxT0fJr3_hMpgIispNCSwGqJyPp2MfzAAO1UzAEz0F3STTuDoPTwJ-7FfNhtwQGhUejcrJezmD-aW_IMjw5_xXqlHSXd7R3ssAJVnERgqIhlcJWRE",
       "accuratezza_orario": "esatto"
     }
   ]
