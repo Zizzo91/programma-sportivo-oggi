@@ -1,48 +1,66 @@
 {
-  "last_updated": "2026-09-29T05:06:25.906923+02:00",
+  "last_updated": "2026-09-29T19:11:26.522320+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Belgio - Francia",
+      "orario": "01:30",
+      "evento": "Turchia - Italia (Fase a gironi - 2a giornata)",
       "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Sky Sport Uno",
-      "note": "Replay (2a giornata)",
-      "fonte": "Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Belgio - Francia",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Sky Sport Uno",
-      "note": "Replay (2a giornata)",
-      "fonte": "Sky Sport Uno - Guida TV",
+      "canale": "Rai 1",
+      "note": "Replica della partita giocata il 28/09/2026.",
+      "fonte": "TV Sorrisi e Canzoni",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Turchia - Italia",
+      "evento": "Turchia - Italia (Fase a gironi - 2a giornata)",
       "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Rai Sport +HD",
-      "note": "Replay (2a giornata)",
-      "fonte": "Stasera in TV, Sport Mattina - Guida TV",
+      "canale": "Rai 1",
+      "note": "Replica della partita giocata il 28/09/2026.",
+      "fonte": "TV Sorrisi e Canzoni",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Belgio - Francia (2a giornata)",
+      "competizione": "UEFA Nations League 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della partita giocata il 28/09/2026.",
+      "fonte": "Sky Sport Uno Palinsesto, TV Sorrisi e Canzoni",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Turchia - Italia (Fase a gironi - 2a giornata)",
+      "competizione": "UEFA Nations League 2026/2027",
+      "canale": "Rai 1",
+      "note": "Replica della partita giocata il 28/09/2026.",
+      "fonte": "TV Sorrisi e Canzoni",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:15",
+      "evento": "Turchia - Italia (Fase a gironi - 2a giornata)",
+      "competizione": "UEFA Nations League 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della partita giocata il 28/09/2026.",
+      "fonte": "Sky Sport Uno Palinsesto, TV Sorrisi e Canzoni",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Spagna - Croazia",
       "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Canale 20, Sky Sport Arena, NOW",
-      "note": "2a giornata",
-      "fonte": "Goal.com Italia, Dituttounpop",
+      "canale": "Canale 20",
+      "note": "",
+      "fonte": "Goal.com Italia",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Repubblica Ceca - Inghilterra",
       "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Sky Sport (canale 251), NOW",
-      "note": "2a giornata",
+      "canale": "Sky Sport (canale 251)",
+      "note": "",
       "fonte": "Goal.com Italia",
       "accuratezza_orario": "esatto"
     }
