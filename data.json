@@ -1,31 +1,58 @@
 {
-  "last_updated": "2026-09-30T04:47:56.983346+02:00",
+  "last_updated": "2026-09-30T13:30:42.429031+02:00",
   "events": [
     {
+      "orario": "10:30*",
+      "evento": "Tennis: Matteo Arnaldi vs Rei Sakamoto",
+      "competizione": "ATP 500 Tokyo - 1° Turno",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Orario stimato, non prima delle 10:30 CET.",
+      "fonte": "OA Sport, bet365",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "04:00",
-      "evento": "ATP 500 Japan Open / ATP 500 China Open / WTA 1000 China Open (Inizio copertura)",
-      "competizione": "Tennis ATP/WTA",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
-      "note": "Copertura live dei tornei di Tokyo e Pechino, con la partecipazione di giocatori italiani come Matteo Arnaldi, Lorenzo Musetti, Luciano Darderi, Matteo Berrettini, Flavio Cobolli e Jasmine Paolini. L'orario esatto dei singoli match dipende dalla programmazione del campo. Trasmissione fino alle 17:00 CET.",
-      "fonte": "ubitennis.com, Sky Sport, SNAI sportnews, Quotidiano Sportivo",
+      "evento": "Tennis: Inizio copertura ATP & WTA",
+      "competizione": "ATP 500 Pechino / WTA 1000 Pechino",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Inizio programmazione. Flavio Cobolli (ATP) e Jasmine Paolini (WTA) sono tra i partecipanti italiani ai tornei, con orari dei singoli match da definire (TBA).",
+      "fonte": "Virgilio Sport, OA Sport, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Tennis: Inizio copertura WTA 1000 Pechino",
+      "competizione": "WTA 1000 Pechino - 1° Turno",
+      "canale": "SuperTennis HD, Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Inizio programmazione. Jasmine Paolini è tra le partecipanti italiane, con orari dei singoli match da definire (TBA).",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Tennis: Simone Bolelli/Andrea Vavassori vs Shintaro Mochizuki/Seita Watanabe",
+      "competizione": "ATP 500 Tokyo - Doppio 1° Turno",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max",
+      "note": "Terzo match a partire dall'inizio della programmazione (dalle 05:00 CET), orario esatto non noto, sarà dopo Arnaldi.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "tba"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Calcio Femminile: Roma vs Barcellona",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "Fase a gironi.",
+      "fonte": "OA Sport, CronacaPop, Tutto Napoli, TUTTOmercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
-      "evento": "Hacken D vs Juventus D",
+      "evento": "Calcio Femminile: Häcken vs Juventus",
       "competizione": "UEFA Women's Champions League",
       "canale": "Disney+",
-      "note": "Partita della fase campionato della UEFA Women's Champions League 2026/27.",
-      "fonte": "tuttomercatoweb.com, calciomagazine.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Roma D vs Barcellona D",
-      "competizione": "UEFA Women's Champions League",
-      "canale": "Disney+",
-      "note": "Partita della fase campionato della UEFA Women's Champions League 2026/27.",
-      "fonte": "lfootball.it, tuttomercatoweb.com, calciomagazine.net",
+      "note": "Fase a gironi.",
+      "fonte": "CalcioMagazine, Tutto Napoli, TUTTOmercatoWEB",
       "accuratezza_orario": "esatto"
     }
   ]
