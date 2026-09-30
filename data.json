@@ -1,40 +1,31 @@
 {
-  "last_updated": "2026-09-29T23:36:56.060189+02:00",
+  "last_updated": "2026-09-30T04:47:56.983346+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Turchia - Italia (2a giornata)",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Rai Sport +HD",
-      "note": "Replay della partita della Nazionale A.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBqdyDBbtJ8xe6iYlivodpU7Qkv-3do6ta6VuXnNu3-NYkK7akya1NlmgBvbOyK7RxzVTpbjzkoTRSaS4LryqlixSOpjpWbzdthK8O4OipB4Dxh-06j5ZBXY1iMil--kIwydsrFVtklkBWjNUxUh1NLRtR",
+      "orario": "04:00",
+      "evento": "ATP 500 Japan Open / ATP 500 China Open / WTA 1000 China Open (Inizio copertura)",
+      "competizione": "Tennis ATP/WTA",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max",
+      "note": "Copertura live dei tornei di Tokyo e Pechino, con la partecipazione di giocatori italiani come Matteo Arnaldi, Lorenzo Musetti, Luciano Darderi, Matteo Berrettini, Flavio Cobolli e Jasmine Paolini. L'orario esatto dei singoli match dipende dalla programmazione del campo. Trasmissione fino alle 17:00 CET.",
+      "fonte": "ubitennis.com, Sky Sport, SNAI sportnews, Quotidiano Sportivo",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Diretta Gol Nations League",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Panoramica delle partite in corso della UEFA Nations League.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-crIeJVE3kpIBF6Dx7ilG6aQ-MmYPm9HQSWaLBAI2wypAHZ7mmU0PCZOaqmzhvBQdIXKwQU4MOZ8ydQ2iMAx135TZb0KJVDwVRYfFr4qyzDa51lpvo3JIWkSjwQNavf_ozoY4-7WHUaMY9lxT0fJr3_hMpgIispNCSwGqJyPp2MfzAAO1UzAEz0F3STTuDoPTwJ-7FfNhtwQGhUejcrJezmD-aW_IMjw5_xXqlHSXd7R3ssAJVnERgqIhlcJWRE",
+      "orario": "18:45",
+      "evento": "Hacken D vs Juventus D",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "Partita della fase campionato della UEFA Women's Champions League 2026/27.",
+      "fonte": "tuttomercatoweb.com, calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Spagna - Croazia",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Italia 1, Sky Sport Arena",
-      "note": "Partita di cartello della UEFA Nations League. Disponibile in chiaro su Italia 1 e a pagamento su Sky Sport Arena.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-crIeJVE3kpIBF6Dx7ilG6aQ-MmYPm9HQSWaLBAI2wypAHZ7mmU0PCZOaqmzhvBQdIXKwQU4MOZ8ydQ2iMAx135TZb0KJVDwVRYfFr4qyzDa51lpvo3JIWkSjwQNavf_ozoY4-7WHUaMY9lxT0fJr3_hMpgIispNCSwGqJyPp2MfzAAO1UzAEz0F3STTuDoPTwJ-7FfNhtwQGhUejcrJezmD-aW_IMjw5_xXqlHSXd7R3ssAJVnERgqIhlcJWRE",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Diretta Gol Nations League",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Panoramica delle partite in corso della UEFA Nations League.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-crIeJVE3kpIBF6Dx7ilG6aQ-MmYPm9HQSWaLBAI2wypAHZ7mmU0PCZOaqmzhvBQdIXKwQU4MOZ8ydQ2iMAx135TZb0KJVDwVRYfFr4qyzDa51lpvo3JIWkSjwQNavf_ozoY4-7WHUaMY9lxT0fJr3_hMpgIispNCSwGqJyPp2MfzAAO1UzAEz0F3STTuDoPTwJ-7FfNhtwQGhUejcrJezmD-aW_IMjw5_xXqlHSXd7R3ssAJVnERgqIhlcJWRE",
+      "orario": "18:45",
+      "evento": "Roma D vs Barcellona D",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "Partita della fase campionato della UEFA Women's Champions League 2026/27.",
+      "fonte": "lfootball.it, tuttomercatoweb.com, calciomagazine.net",
       "accuratezza_orario": "esatto"
     }
   ]
