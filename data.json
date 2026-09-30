@@ -1,23 +1,14 @@
 {
-  "last_updated": "2026-09-30T19:09:43.217500+02:00",
+  "last_updated": "2026-09-30T23:37:28.067196+02:00",
   "events": [
     {
-      "orario": "18:45",
-      "evento": "Bollklubben Häcken D - Juventus D",
-      "competizione": "UEFA Women's Champions League",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "tuttomercatoweb.com, oasport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Roma D - Barcellona D",
-      "competizione": "UEFA Women's Champions League",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "tuttomercatoweb.com, oasport.it",
-      "accuratezza_orario": "esatto"
+      "orario": "11:30",
+      "evento": "ATP Tokyo - 1° Turno: Arnaldi (ITA) vs Sakamoto (JPN)",
+      "competizione": "ATP Tour",
+      "canale": "Sky Sport (da definire), NOW",
+      "note": "Orario stimato, a seguire il primo match della giornata (Fils vs Van Assche) che inizia alle 09:00 CET. La programmazione indica la partecipazione di altri giocatori italiani come Bellucci e Cinà nei tornei ATP/WTA della settimana asiatica, ma senza orari specifici per match odierni.",
+      "fonte": "TennisTalker Magazine",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
