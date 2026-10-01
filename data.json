@@ -1,14 +1,131 @@
 {
-  "last_updated": "2026-09-30T23:37:28.067196+02:00",
+  "last_updated": "2026-10-01T04:54:25.853457+02:00",
   "events": [
     {
-      "orario": "11:30",
-      "evento": "ATP Tokyo - 1° Turno: Arnaldi (ITA) vs Sakamoto (JPN)",
-      "competizione": "ATP Tour",
-      "canale": "Sky Sport (da definire), NOW",
-      "note": "Orario stimato, a seguire il primo match della giornata (Fils vs Van Assche) che inizia alle 09:00 CET. La programmazione indica la partecipazione di altri giocatori italiani come Bellucci e Cinà nei tornei ATP/WTA della settimana asiatica, ma senza orari specifici per match odierni.",
-      "fonte": "TennisTalker Magazine",
+      "orario": "01:30",
+      "evento": "ATP Tokyo - 1° Turno: Matteo Berrettini (ITA) vs Davidovich Fokina",
+      "competizione": "Tennis - ATP 500 Tokyo",
+      "canale": "Sky, NOW, Supertennis",
+      "note": "",
+      "fonte": "bet365 News Team",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00*",
+      "evento": "ATP Pechino - 1° Turno: Flavio Cobolli (ITA) vs Roman Safiullin",
+      "competizione": "Tennis - ATP 500 Pechino",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203), NOW, Sky Go, Tennis TV",
+      "note": "Orario stimato, a seguire il match Zheng-Shi (dalle 22:00 CET del 30/09)",
+      "fonte": "OA Sport, sport2u.tv, Betitaliaweb",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "11:00",
+      "evento": "TG Sport",
+      "competizione": "Notiziario sportivo",
+      "canale": "Rai Due",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:20",
+      "evento": "UEFA Nations League 2026/2027 - Turchia - Italia (Fase a gironi - 2a giornata)",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "Raisport HD",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:20",
+      "evento": "Qualificazioni Europei U21 2027 - Armenia - Italia",
+      "competizione": "Calcio - Qualificazioni Europei Under 21",
+      "canale": "Rai Due",
+      "note": "Dallo Stadio dell'Accademia Calcistica di Erevan, Armenia",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "UEFA Champions League Magazine",
+      "competizione": "Programma di approfondimento calcistico",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Guida TV - Quotidiano Nazionale",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:37",
+      "evento": "Danimarca - Portogallo",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "Canale 20",
+      "note": "",
+      "fonte": "Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:45",
+      "evento": "Germania - Serbia",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "NOW, Sky Sport",
+      "note": "",
+      "fonte": "Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Calcio Tonight",
+      "competizione": "Calcio - Approfondimento",
+      "canale": "Sportitalia",
+      "note": "Diretta",
+      "fonte": "Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Sportitaliamercato",
+      "competizione": "Calcio - Approfondimento",
+      "canale": "Sportitalia",
+      "note": "Diretta",
+      "fonte": "Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Si Live 24",
+      "competizione": "Calcio - Notiziario",
+      "canale": "Sportitalia",
+      "note": "Diretta",
+      "fonte": "Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Calcio: Europei Under 21",
+      "competizione": "Calcio - Europei Under 21",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Sport Mediaset - La giornata",
+      "competizione": "Notiziario sportivo",
+      "canale": "TGCOM24",
+      "note": "",
+      "fonte": "Programmi TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:15",
+      "evento": "Sport Mediaset - La Giornata",
+      "competizione": "Notiziario sportivo",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
