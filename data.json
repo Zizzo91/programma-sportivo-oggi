@@ -1,103 +1,184 @@
 {
-  "last_updated": "2026-10-01T13:59:26.894191+02:00",
+  "last_updated": "2026-10-02T04:57:47.361336+02:00",
   "events": [
     {
-      "orario": "18:30",
-      "evento": "Qualificazioni Europei U21: Armenia-Italia",
-      "competizione": "Calcio - Qualificazioni Europei U21 2027",
-      "canale": "Rai 2",
+      "orario": "01:55",
+      "evento": "MotoGP Prove Libere 1 Moto3",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
       "note": "",
-      "fonte": "Libero.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk0YbYe-MKZE7tYxbJGG1oM88GHdWPWEsAZpeTdBdH58Ez_VC9s2XG-COf602zHlENVU962tK3uSO_x3exnbdWiGX6J54ZxeMF13xAh6b4UEFpebAeXWPJrKVb-HWPcWnugpsav2TSoBhyBolU5CTl5O7BCDHN2t90Mp6iabq57rekbvg_QS3Opk5JOdtKYnB0qIutzdDH1SKD_BRTspfXIw_9S5Hyu13FkqhFIXBIke19YkwGxHYCplPFZfOkACMrv71psuYlhQtZXps=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeC8mWO5z2YyLH915jqVEhf4EjuKemkvdQK97c8Q3vzdV09KXIkLi1VnCju3RFOBEz5bIthDmnjCwul1Yzdr2C-mFWozwUHEdVXNMSzCrsuan83BYK6nMvkDudA84aBHH77xCVe0Iu2XzZl8GJ0ZcT-sdUH-6fFTMsGXwTn3rQ2PWx32oHkjr019991TSO3G_QsvTZ0-v3gFAWNYbJkog3Q7iWEfAsPFS13r6r1hsMR1yGenJUe187VnK47EwizBO2tw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeiONkjLxI132qN2zBX7Rm3fwU6EC5pb2XyMOqScN_Gu3J7T80BjRYvEKQkh7D2eeCNMLSpJ9Bt0aQbjl4XmYZwSenX1VUj8u7GqPSImjUClWRyrcjzMNO-qxsGNwd5plyy-l6p47RkSLBd5W14hXN0FU7962luXnVE6vNeyLboiYc7sqlNHB9_8AUOwal8cRmjQGg5oCBJwXX-za8IFd63OURMUpLGH_UyLURXaIxo374RMU0aFtU6YbPzwiiMK9Y1fpF1YFW_UTh3z5cBBD6Q1X9vj8cw8paz5DCYsJnXw1FbmvrGHnRmeCAg9tGpxr8lxCrRGvEO27dzlsIWqxWKbcbcuONE58ytQY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bv_o6Q569BImQtJadSe49pCYa3oz0o50mq2Z6hG-2ObECEI1Xpnf6eTLU8FgwKmfNOeL5I2inERPAC1Ege-06Fxr9dXaFBXSQ4UO4CLAhobp-lIAzYoztYLo7wD9EnG1gi1jZMIG9_e2iHQaDDooNF5pEZMzGCJJspAnzCXFVH4628G4_mCjhAtbGZsmClfQulZIdDAyqarsZEH3g_HjPpdCnmX4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:45",
+      "evento": "MotoGP Prove Libere 1 Moto2",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk0YbYe-MKZE7tYxbJGG1oM88GHdWPWEsAZpeTdBdH58Ez_VC9s2XG-COf602zHlENVU962tK3uSO_x3exnbdWiGX6J54ZxeMF13xAh6b4UEFpebAeXWPJrKVb-HWPcWnugpsav2TSoBhyBolU5CTl5O7BCDHN2t90Mp6iabq57rekbvg_QS3Opk5JOdtKYnB0qIutzdDH1SKD_BRTspfXIw_9S5Hyu13FkqhFIXBIke19YkwGxHYCplPFZfOkACMrv71psuYlhQtZXps=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeC8mWO5z2YyLH915jqVEhf4EjuKemkvdQK97c8Q3vzdV09KXIkLi1VnCju3RFOBEz5bIthDmnjCwul1Yzdr2C-mFWozwUHEdVXNMSzCrsuan83BYK6nMvkDudA84aBHH77xCVe0Iu2XzZl8GJ0ZcT-sdUH-6fFTMsGXwTn3rQ2PWx32oHkjr019991TSO3G_QsvTZ0-v3gFAWNYbJkog3Q7iWEfAsPFS13r6r1hsMR1yGenJUe187VnK47EwizBO2tw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeiONkjLxI132qN2zBX7Rm3fwU6EC5pb2XyMOqScN_Gu3J7T80BjRYvEKQkh7D2eeCNMLSpJ9Bt0aQbjl4XmYZwSenX1VUj8u7GqPSImjUClWRyrcjzMNO-qxsGNwd5plyy-l6p47RkSLBd5W14hXN0FU7962luXnVE6vNeyLboiYc7sqlNHB9_8AUOwal8cRmjQGg5oCBJwXX-za8IFd63OURMUpLGH_UyLURXaIxo374RMU0aFtU6YbPzwiiMK9Y1fpF1YFW_UTh3z5cBBD6Q1X9vj8cw8paz5DCYsJnXw1FbmvrGHnRmeCAg9tGpxr8lxCrRGvEO27dzlsIWqxWKbcbcuONE58ytQY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bv_o6Q569BImQtJadSe49pCYa3oz0o50mq2Z6hG-2ObECEI1Xpnf6eTLU8FgwKmfNOeL5I2inERPAC1Ege-06Fxr9dXaFBXSQ4UO4CLAhobp-lIAzYoztYLo7wD9EnG1gi1jZMIG9_e2iHQaDDooNF5pEZMzGCJJspAnzCXFVH4628G4_mCjhAtbGZsmClfQulZIdDAyqarsZEH3g_HjPpdCnmX4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:40",
+      "evento": "MotoGP Prove Libere 1 MotoGP",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk0YbYe-MKZE7tYxbJGG1oM88GHdWPWEsAZpeTdBdH58Ez_VC9s2XG-COf602zHlENVU962tK3uSO_x3exnbdWiGX6J54ZxeMF13xAh6b4UEFpebAeXWPJrKVb-HWPcWnugpsav2TSoBhyBolU5CTl5O7BCDHN2t90Mp6iabq57rekbvg_QS3Opk5JOdtKYnB0qIutzdDH1SKD_BRTspfXIw_9S5Hyu13FkqhFIXBIke19YkwGxHYCplPFZfOkACMrv71psuYlhQtZXps=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeC8mWO5z2YyLH915jqVEhf4EjuKemkvdQK97c8Q3vzdV09KXIkLi1VnCju3RFOBEz5bIthDmnjCwul1Yzdr2C-mFWozwUHEdVXNMSzCrsuan83BYK6nMvkDudA84aBHH77xCVe0Iu2XzZl8GJ0ZcT-sdUH-6fFTMsGXwTn3rQ2PWx32oHkjr019991TSO3G_QsvTZ0-v3gFAWNYbJkog3Q7iWEfAsPFS13r6r1hsMR1yGenJUe187VnK47EwizBO2tw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeiONkjLxI132qN2zBX7Rm3fwU6EC5pb2XyMOqScN_Gu3J7T80BjRYvEKQkh7D2eeCNMLSpJ9Bt0aQbjl4XmYZwSenX1VUj8u7GqPSImjUClWRyrcjzMNO-qxsGNwd5plyy-l6p47RkSLBd5W14hXN0FU7962luXnVE6vNeyLboiYc7sqlNHB9_8AUOwal8cRmjQGg5oCBJwXX-za8IFd63OURMUpLGH_UyLURXaIxo374RMU0aFtU6YbPzwiiMK9Y1fpF1YFW_UTh3z5cBBD6Q1X9vj8cw8paz5DCYsJnXw1FbmvrGHnRmeCAg9tGpxr8lxCrRGvEO27dzlsIWqxWKbcbcuONE58ytQY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bv_o6Q569BImQtJadSe49pCYa3oz0o50mq2Z6hG-2ObECEI1Xpnf6eTLU8FgwKmfNOeL5I2inERPAC1Ege-06Fxr9dXaFBXSQ4UO4CLAhobp-lIAzYoztYLo7wD9EnG1gi1jZMIG9_e2iHQaDDooNF5pEZMzGCJJspAnzCXFVH4628G4_mCjhAtbGZsmClfQulZIdDAyqarsZEH3g_HjPpdCnmX4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:10",
+      "evento": "MotoGP Prove Moto3",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk0YbYe-MKZE7tYxbJGG1oM88GHdWPWEsAZpeTdBdH58Ez_VC9s2XG-COf602zHlENVU962tK3uSO_x3exnbdWiGX6J54ZxeMF13xAh6b4UEFpebAeXWPJrKVb-HWPcWnugpsav2TSoBhyBolU5CTl5O7BCDHN2t90Mp6iabq57rekbvg_QS3Opk5JOdtKYnB0qIutzdDH1SKD_BRTspfXIw_9S5Hyu13FkqhFIXBIke19YkwGxHYCplPFZfOkACMrv71psuYlhQtZXps=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeC8mWO5z2YyLH915jqVEhf4EjuKemkvdQK97c8Q3vzdV09KXIkLi1VnCju3RFOBEz5bIthDmnjCwul1Yzdr2C-mFWozwUHEdVXNMSzCrsuan83BYK6nMvkDudA84aBHH77xCVe0Iu2XzZl8GJ0ZcT-sdUH-6fFTMsGXwTn3rQ2PWx32oHkjr019991TSO3G_QsvTZ0-v3gFAWNYbJkog3Q7iWEfAsPFS13r6r1hsMR1yGenJUe187VnK47EwizBO2tw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeiONkjLxI132qN2zBX7Rm3fwU6EC5pb2XyMOqScN_Gu3J7T80BjRYvEKQkh7D2eeCNMLSpJ9Bt0aQbjl4XmYZwSenX1VUj8u7GqPSImjUClWRyrcjzMNO-qxsGNwd5plyy-l6p47RkSLBd5W14hXN0FU7962luXnVE6vNeyLboiYc7sqlNHB9_8AUOwal8cRmjQGg5oCBJwXX-za8IFd63OURMUpLGH_UyLURXaIxo374RMU0aFtU6YbPzwiiMK9Y1fpF1YFW_UTh3z5cBBD6Q1X9vj8cw8paz5DCYsJnXw1FbmvrGHnRmeCAg9tGpxr8lxCrRGvEO27dzlsIWqxWKbcbcuONE58ytQY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bv_o6Q569BImQtJadSe49pCYa3oz0o50mq2Z6hG-2ObECEI1Xpnf6eTLU8FgwKmfNOeL5I2inERPAC1Ege-06Fxr9dXaFBXSQ4UO4CLAhobp-lIAzYoztYLo7wD9EnG1gi1jZMIG9_e2iHQaDDooNF5pEZMzGCJJspAnzCXFVH4628G4_mCjhAtbGZsmClfQulZIdDAyqarsZEH3g_HjPpdCnmX4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:30",
+      "evento": "F1 Prove Libere 1",
+      "competizione": "GP Bahrain (Malesia)",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuDOEtCar18m0QwrNh8-imlJ3u7jJciNZe82d1csDEWkv0ZWJe8UO4v6yVEy9H1hfi0U7WwaaUO696Ix1uO7vCS0lUByMBotV7ZBKxKpwMM23FoCHwbB71jPy-ex4pPSm64nIPSFrksD2pNvXOqSXMkB8bDClhpeSXTHqxk2isfJKlSkVK-txacAUL0gT1zN6hQ855BXy4ZBUK3mQw6UdFAxN53bCHxL40cCcVrjprlUKVTCIlzz3gQrl6FHuuJD2MEXBlfPbfJ1OGcvt7Rvv_0ZAbXohHQ2V0oJLQVO7sRxGx2E1cITk-fXcIwVLpvTZczg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKgMZ8WZPzeQtHp32oEj4DtY8ESOnvDMXSwojibbVUua8rqk40f3JyrHEWUUwT2rwxwPNMrDBHsYFir6Pa2rqttc7A2v-eNRlJ8TWDpcBlnJyclrM2ChYYj7IPliGh2HN-TuB6EYkFBXFkwXqC47n2EXjzRrJAh5MQTBjjDRcISqeZ418H67gmtcwn1Y5E-73vkVVafPtnJr2D7VB6s-b76nQj, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBiDji5dr_LYGLMV9W0WrtLhwEF5LiVfgu7933IJBf1HL2C8tBPG6yiPUFXgSJZt2r9nunzMFp3G_yjS0Bys6ta8Ww2IXgFGL3vG75izcx2yyUFouUlVEbDrRur2z4ynoVATI5c9dtK17a1FSPifQG7yKflhtH0ppxkZjdZf5Lu1lNCIl2xkM2qHIut49PD5fwJFDS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5eXhEfCkZyOL744lBi79-aWTaL-SFNihUYTZObC2aDpqON6tloSZfgWIn28--CvBQ6Fs9dbDwaV5m6HL680gWGAkLYdB2KGtwirv01VIZxpwJ8aJ7VaW3yS01WL7xr-AOd7dmoVqGM0iFy_UsWnlqUAofmP7nXDoVDXA8idZaY3iHwBI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdWmoKmP6LzFXPNnyQ8bwDq0p75WeaSYhdlbZZVStgCzzlYa2N0_pmSjh0Ts-odBqMlrqfR6uSPjCIDpb_FIFJTguBgb7fgzoOhM2e4T-P_al7bmRH6h8qYIkWSWf_VyCj2yBiKWEU8R9541KZ368aN-MMXgceop3d7IVJ8uDvZESHwImTm9vvUfcWV-jUW_IfnZ7dNKa5whrLbkYQb-vZLM708JcildhhEQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1DJYBWCSnm4k22crgMMo1wCXDod2PqNcmXukQFSebigvh8mTipctG9eKpyHSZGFfeMCQDLw-zewPGrjUnWNx-TEUy-QnCkr2-6XwKoZoLaYbG-L-dS9JD0DkfBx8R8ROWFwA0dpsX9VQUcnUK-USjybmttVVoSqfaboSxcuCVzMkWeOnHwk9E53hS6gt-BRw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "MotoGP Prove Moto2",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk0YbYe-MKZE7tYxbJGG1oM88GHdWPWEsAZpeTdBdH58Ez_VC9s2XG-COf602zHlENVU962tK3uSO_x3exnbdWiGX6J54ZxeMF13xAh6b4UEFpebAeXWPJrKVb-HWPcWnugpsav2TSoBhyBolU5CTl5O7BCDHN2t90Mp6iabq57rekbvg_QS3Opk5JOdtKYnB0qIutzdDH1SKD_BRTspfXIw_9S5Hyu13FkqhFIXBIke19YkwGxHYCplPFZfOkACMrv71psuYlhQtZXps=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeC8mWO5z2YyLH915jqVEhf4EjuKemkvdQK97c8Q3vzdV09KXIkLi1VnCju3RFOBEz5bIthDmnjCwul1Yzdr2C-mFWozwUHEdVXNMSzCrsuan83BYK6nMvkDudA84aBHH77xCVe0Iu2XzZl8GJ0ZcT-sdUH-6fFTMsGXwTn3rQ2PWx32oHkjr019991TSO3G_QsvTZ0-v3gFAWNYbJkog3Q7iWEfAsPFS13r6r1hsMR1yGenJUe187VnK47EwizBO2tw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeiONkjLxI132qN2zBX7Rm3fwU6EC5pb2XyMOqScN_Gu3J7T80BjRYvEKQkh7D2eeCNMLSpJ9Bt0aQbjl4XmYZwSenX1VUj8u7GqPSImjUClWRyrcjzMNO-qxsGNwd5plyy-l6p47RkSLBd5W14hXN0FU7962luXnVE6vNeyLboiYc7sqlNHB9_8AUOwal8cRmjQGg5oCBJwXX-za8IFd63OURMUpLGH_UyLURXaIxo374RMU0aFtU6YbPzwiiMK9Y1fpF1YFW_UTh3z5cBBD6Q1X9vj8cw8paz5DCYsJnXw1FbmvrGHnRmeCAg9tGpxr8lxCrRGvEO27dzlsIWqxWKbcbcuONE58ytQY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bv_o6Q569BImQtJadSe49pCYa3oz0o50mq2Z6hG-2ObECEI1Xpnf6eTLU8FgwKmfNOeL5I2inERPAC1Ege-06Fxr9dXaFBXSQ4UO4CLAhobp-lIAzYoztYLo7wD9EnG1gi1jZMIG9_e2iHQaDDooNF5pEZMzGCJJspAnzCXFVH4628G4_mCjhAtbGZsmClfQulZIdDAyqarsZEH3g_HjPpdCnmX4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "WTA Pechino - 2° turno: Paolini J. vs Snigur D.",
+      "competizione": "WTA 1000 Pechino",
+      "canale": "Sky Sport Tennis, Sky Sport Max, SuperTennis HD",
+      "note": "Terzo incontro dalle 05:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOMkFi9erYPX6gdQIuB-TdfLJ9upk-5_-MvGiXGLCfL4UBM6VhWMEIcYqvoPsxfzj40qKHqdEYQBcyeiD0Q7LVfQ4HCufPJcDoFbn7mDV_QbIYzdSiqh_AcMtj0BdW5Ig1p0z9OpQVRPgkRqQC1RZeCTAz8lR6Crycj6vfrgmuDlbgNqRCd6-9dJYpPLXNGmPQEusNQZl4W_eiik0eCo7mptWZG5EeqrMTyvpHbQpm232BO5ggEklJJ-9NmUusBRyE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF88Zg9nOx2WN7gWLTmwO4Rq30u75pBD8Du0xDOvoq7J9EJAezYuu2NJBr3afy2UQy0ijq0fi9wNxBzGYBkB8dB353ulxCB1SRJljJc09bJJNUDZN8yqA6pod-gnYAiJRsLTldm9Qq1FsOqLRX2ZTP5751p1v_-BcBKiTGBLHgSLSgEX9aPXujo_UhVrvnahFkbAYV8TKfMRa3XI9qDWmRHZ_GZbYNtBd9DQ8HiZYNFJmQ0WYhMkprp4jHxXow=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHOzjQmhWeyiKdGxPQF4aIvBvI1v5B8BQOH_ic78_YsvYHSiKL9QT41VwodlY5R5WodwQVApSiu5f63KO8Ggixjx4glhAYmShkcIGr2QM5ki9CGx_ezNRiwcvRDvSeChszRO-dWYayPzTUBcAmXiIZbqlZ5CCkgtjFPxxPptcM3Dxtp6jgahJvfCj496kNcxOGG9nLJ6siqw==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "08:00",
+      "evento": "MotoGP Prove MotoGP",
+      "competizione": "GP Giappone",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk0YbYe-MKZE7tYxbJGG1oM88GHdWPWEsAZpeTdBdH58Ez_VC9s2XG-COf602zHlENVU962tK3uSO_x3exnbdWiGX6J54ZxeMF13xAh6b4UEFpebAeXWPJrKVb-HWPcWnugpsav2TSoBhyBolU5CTl5O7BCDHN2t90Mp6iabq57rekbvg_QS3Opk5JOdtKYnB0qIutzdDH1SKD_BRTspfXIw_9S5Hyu13FkqhFIXBIke19YkwGxHYCplPFZfOkACMrv71psuYlhQtZXps=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeC8mWO5z2YyLH915jqVEhf4EjuKemkvdQK97c8Q3vzdV09KXIkLi1VnCju3RFOBEz5bIthDmnjCwul1Yzdr2C-mFWozwUHEdVXNMSzCrsuan83BYK6nMvkDudA84aBHH77xCVe0Iu2XzZl8GJ0ZcT-sdUH-6fFTMsGXwTn3rQ2PWx32oHkjr019991TSO3G_QsvTZ0-v3gFAWNYbJkog3Q7iWEfAsPFS13r6r1hsMR1yGenJUe187VnK47EwizBO2tw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeiONkjLxI132qN2zBX7Rm3fwU6EC5pb2XyMOqScN_Gu3J7T80BjRYvEKQkh7D2eeCNMLSpJ9Bt0aQbjl4XmYZwSenX1VUj8u7GqPSImjUClWRyrcjzMNO-qxsGNwd5plyy-l6p47RkSLBd5W14hXN0FU7962luXnVE6vNeyLboiYc7sqlNHB9_8AUOwal8cRmjQGg5oCBJwXX-za8IFd63OURMUpLGH_UyLURXaIxo374RMU0aFtU6YbPzwiiMK9Y1fpF1YFW_UTh3z5cBBD6Q1X9vj8cw8paz5DCYsJnXw1FbmvrGHnRmeCAg9tGpxr8lxCrRGvEO27dzlsIWqxWKbcbcuONE58ytQY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bv_o6Q569BImQtJadSe49pCYa3oz0o50mq2Z6hG-2ObECEI1Xpnf6eTLU8FgwKmfNOeL5I2inERPAC1Ege-06Fxr9dXaFBXSQ4UO4CLAhobp-lIAzYoztYLo7wD9EnG1gi1jZMIG9_e2iHQaDDooNF5pEZMzGCJJspAnzCXFVH4628G4_mCjhAtbGZsmClfQulZIdDAyqarsZEH3g_HjPpdCnmX4",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00*",
+      "evento": "ATP Tokyo - Ottavi di finale: Jacquet K. vs Darderi L.",
+      "competizione": "ATP 500 Tokyo",
+      "canale": "Sky, NOW, TennisTV, bet365",
+      "note": "Non prima delle 09:00",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOMkFi9erYPX6gdQIuB-TdfLJ9upk-5_-MvGiXGLCfL4UBM6VhWMEIcYqvoPsxfzj40qKHqdEYQBcyeiD0Q7LVfQ4HCufPJcDoFbn7mDV_QbIYzdSiqh_AcMtj0BdW5Ig1p0z9OpQVRPgkRqQC1RZeCTAz8lR6Crycj6vfrgmuDlbgNqRCd6-9dJYpPLXNGmPQEusNQZl4W_eiik0eCo7mptWZG5EeqrMTyvpHbQpm232BO5ggEklJJ-9NmUusBRyE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsxy4dJxYsufIzpRvY9V9qKpQS_4X-hJJV96AqVuUH0PsnP1R0ZxTmW_OjC3Ynl75JMMRfrA7ew0T1LDYWBdG0S0bWgg-u8bw7T1z3P6xDUE9HBjuxbxLaLkbptRHA4kCf9FxVKZlkEFiAHMgGy3vGN6HUktZtpQYX-_JplcFnb6vhB51vJRWuaTxi3-JjrdtAqnJj70EZWMLI-CWKuEMZIapLw4IBemK6oQ-L5Dxi-68uNpniAFuwTFpYOc8fmmlbgF-jqw==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "09:45",
+      "evento": "Ciclismo: Prova in linea U23 Donne",
+      "competizione": "Europei Ljubljana 2026",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoMUiHDS7VCALcTkMlSRfqm4ynEXTNV-UKofw7VRWb67nVKskMIk8w4BJz89xyVte9GdwuqTnhbnRNlkC0vpr6yE2Ym-DdPyPRto8z9njcC9rda8I9kMHEzV5CvY8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2SdBa24xF2O7XTq8JVh2NNFDfjpxJmWdS_StZRxx78Lw-sviFtHMAfGz1IfqAyoOJdivNuZ44LEW5x68hUre3wtP-oCMLDgzEIzCVcOPABsXEIuCR5BaXkzm_GvLPmNL5Uaxqy1rZNRprEjhRb9bOKLR3",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "F1 Prove Libere 2",
+      "competizione": "GP Bahrain (Malesia)",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuDOEtCar18m0QwrNh8-imlJ3u7jJciNZe82d1csDEWkv0ZWJe8UO4v6yVEy9H1hfi0U7WwaaUO696Ix1uO7vCS0lUByMBotV7ZBKxKpwMM23FoCHwbB71jPy-ex4pPSm64nIPSFrksD2pNvXOqSXMkB8bDClhpeSXTHqxk2isfJKlSkVK-txacAUL0gT1zN6hQ855BXy4ZBUK3mQw6UdFAxN53bCHxL40cCcVrjprlUKVTCIlzz3gQrl6FHuuJD2MEXBlfPbfJ1OGcvt7Rvv_0ZAbXohHQ2V0oJLQVO7sRxGx2E1cITk-fXcIwVLpvTZczg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKgMZ8WZPzeQtHp32oEj4DtY8ESOnvDMXSwojibbVUua8rqk40f3JyrHEWUUwT2rwxwPNMrDBHsYFir6Pa2rqttc7A2v-eNRlJ8TWDpcBlnJyclrM2ChYYj7IPliGh2HN-TuB6EYkFBXFkwXqC47n2EXjzRrJAh5MQTBjjDRcISqeZ418H67gmtcwn1Y5E-73vkVVafPtnJr2D7VB6s-b76nQj, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBiDji5dr_LYGLMV9W0WrtLhwEF5LiVfgu7933IJBf1HL2C8tBPG6yiPUFXgSJZt2r9nunzMFp3G_yjS0Bys6ta8Ww2IXgFGL3vG75izcx2yyUFouUlVEbDrRur2z4ynoVATI5c9dtK17a1FSPifQG7yKflhtH0ppxkZjdZf5Lu1lNCIl2xkM2qHIut49PD5fwJFDS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5eXhEfCkZyOL744lBi79-aWTaL-SFNihUYTZObC2aDpqON6tloSZfgWIn28--CvBQ6Fs9dbDwaV5m6HL680gWGAkLYdB2KGtwirv01VIZxpwJ8aJ7VaW3yS01WL7xr-AOd7dmoVqGM0iFy_UsWnlqUAofmP7nXDoVDXA8idZaY3iHwBI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdWmoKmP6LzFXPNnyQ8bwDq0p75WeaSYhdlbZZVStgCzzlYa2N0_pmSjh0Ts-odBqMlrqfR6uSPjCIDpb_FIFJTguBgb7fgzoOhM2e4T-P_al7bmRH6h8qYIkWSWf_VyCj2yBiKWEU8R9541KZ368aN-MMXgceop3d7IVJ8uDvZESHwImTm9vvUfcWV-jUW_IfnZ7dNKa5whrLbkYQb-vZLM708JcildhhEQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1DJYBWCSnm4k22crgMMo1wCXDod2PqNcmXukQFSebigvh8mTipctG9eKpyHSZGFfeMCQDLw-zewPGrjUnWNx-TEUy-QnCkr2-6XwKoZoLaYbG-L-dS9JD0DkfBx8R8ROWFwA0dpsX9VQUcnUK-USjybmttVVoSqfaboSxcuCVzMkWeOnHwk9E53hS6gt-BRw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:35",
+      "evento": "Ciclismo: Prova in linea U23 Uomini",
+      "competizione": "Europei Ljubljana 2026",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoMUiHDS7VCALcTkMlSRfqm4ynEXTNV-UKofw7VRWb67nVKskMIk8w4BJz89xyVte9GdwuqTnhbnRNlkC0vpr6yE2Ym-DdPyPRto8z9njcC9rda8I9kMHEzV5CvY8",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00*",
+      "evento": "ATP Pechino - Ottavi di finale doppio: Cabral F./Tracy A. vs Buse I./Cobolli F.",
+      "competizione": "ATP 500 Pechino",
+      "canale": "",
+      "note": "Quinto incontro",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOMkFi9erYPX6gdQIuB-TdfLJ9upk-5_-MvGiXGLCfL4UBM6VhWMEIcYqvoPsxfzj40qKHqdEYQBcyeiD0Q7LVfQ4HCufPJcDoFbn7mDV_QbIYzdSiqh_AcMtj0BdW5Ig1p0z9OpQVRPgkRqQC1RZeCTAz8lR6Crycj6vfrgmuDlbgNqRCd6-9dJYpPLXNGmPQEusNQZl4W_eiik0eCo7mptWZG5EeqrMTyvpHbQpm232BO5ggEklJJ-9NmUusBRyE",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Calcio: Diretta Gol",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoMUiHDS7VCALcTkMlSRfqm4ynEXTNV-UKofw7VRWb67nVKskMIk8w4BJz89xyVte9GdwuqTnhbnRNlkC0vpr6yE2Ym-DdPyPRto8z9njcC9rda8I9kMHEzV5CvY8",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Basket: Baskonia vs Olimpia Milano",
+      "competizione": "Eurolega",
+      "canale": "Sky Sport 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoMUiHDS7VCALcTkMlSRfqm4ynEXTNV-UKofw7VRWb67nVKskMIk8w4BJz89xyVte9GdwuqTnhbnRNlkC0vpr6yE2Ym-DdPyPRto8z9njcC9rda8I9kMHEzV5CvY8",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio: Francia vs Italia",
+      "competizione": "UEFA Nations League",
+      "canale": "Rai 1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoMUiHDS7VCALcTkMlSRfqm4ynEXTNV-UKofw7VRWb67nVKskMIk8w4BJz89xyVte9GdwuqTnhbnRNlkC0vpr6yE2Ym-DdPyPRto8z9njcC9rda8I9kMHEzV5CvY8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoKTRjWkRbbzykFYfmLI9V59aP9QXDTMScKsC9kc48c3w_5WqKXsXW52cOFI_2xXNalehWMPdEnSZd2H7BRHrbWRt6xWqtMoS9VYzkNYIUxZdOTSfjuGWm79B9Toa6a0A9NshxZqajZPPtmRqJfF-c",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Calcio: Diretta Gol",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoMUiHDS7VCALcTkMlSRfqm4ynEXTNV-UKofw7VRWb67nVKskMIk8w4BJz89xyVte9GdwuqTnhbnRNlkC0vpr6yE2Ym-DdPyPRto8z9njcC9rda8I9kMHEzV5CvY8",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Rugby: Benetton Treviso vs Connacht",
+      "competizione": "United Rugby Championship",
+      "canale": "Sky Sport Arena, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoMUiHDS7VCALcTkMlSRfqm4ynEXTNV-UKofw7VRWb67nVKskMIk8w4BJz89xyVte9GdwuqTnhbnRNlkC0vpr6yE2Ym-DdPyPRto8z9njcC9rda8I9kMHEzV5CvY8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZDyeuCav3MRaB2pBCiP2vuX3_Tvh79JOcvWSnVAnHGZS2WXj222cKtklBr18nGocH4hJBGyghXgieKNPoav38tAAe4uP6e0k53-SQavkxmhNNy07i2Q1M1p5wIew",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Rugby: Cardiff vs Zebre Parma",
+      "competizione": "United Rugby Championship",
+      "canale": "Sky Sport Max, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoMUiHDS7VCALcTkMlSRfqm4ynEXTNV-UKofw7VRWb67nVKskMIk8w4BJz89xyVte9GdwuqTnhbnRNlkC0vpr6yE2Ym-DdPyPRto8z9njcC9rda8I9kMHEzV5CvY8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZDyeuCav3MRaB2pBCiP2vuX3_Tvh79JOcvWSnVAnHGZS2WXj222cKtklBr18nGocH4hJBGyghXgieKNPoav38tAAe4uP6e0k53-SQavkxmhNNy07i2Q1M1p5wIew",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00",
-      "evento": "ATP Tokyo: Luciano Darderi vs Casper Ruud",
-      "competizione": "Tennis - ATP 500 Tokyo",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max, Sky Sport Plus",
-      "note": "Match concluso (Darderi ha vinto)",
-      "fonte": "LiveTennis.it, OA Sport, Sky Sport, Lottomatica.Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "ATP Pechino: Flavio Cobolli vs Roman Safiullin",
-      "competizione": "Tennis - ATP 500 Pechino",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max, Sky Sport Plus",
-      "note": "Match concluso (Cobolli ha perso)",
-      "fonte": "LiveTennis.it, OA Sport, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00*",
-      "evento": "ATP Tokyo: Simone Bolelli/Andrea Vavassori vs Mochizuki/Watanabe",
-      "competizione": "Tennis - ATP 500 Tokyo (Doppio)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Sky Sport Max, Sky Sport Plus",
-      "note": "Orario stimato (3° match dalle 04:00/07:00 CET)",
-      "fonte": "OA Sport, Lottomatica.Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "10:00",
-      "evento": "ATP Tokyo: Matteo Berrettini vs Alejandro Davidovich Fokina",
-      "competizione": "Tennis - ATP 500 Tokyo",
-      "canale": "Sky Sport Uno, NOW",
-      "note": "Match in diretta (Berrettini ha perso il primo set)",
-      "fonte": "LiveTennis.it, Sky Sport, Lottomatica.Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "F1 GP Bahrain (Sepang): Conferenza Stampa Piloti",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "MotoGP GP Giappone (Motegi): Conferenza Stampa Piloti",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport, NOW",
-      "note": "",
-      "fonte": "Sky Sport, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:54 (02-10-2026)",
-      "evento": "Moto3 GP Giappone (Motegi): Prove libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno / Sky Sport MotoGP",
-      "note": "",
-      "fonte": "GuidaTV, OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:45 (02-10-2026)",
-      "evento": "Moto2 GP Giappone (Motegi): Prove libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno / Sky Sport MotoGP",
-      "note": "",
-      "fonte": "GuidaTV, OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:40 (02-10-2026)",
-      "evento": "MotoGP GP Giappone (Motegi): Prove libere 1",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno / Sky Sport MotoGP",
-      "note": "",
-      "fonte": "GuidaTV, Sky Sport, OA Sport, MotorBox, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:40 (02-10-2026)",
-      "evento": "MotoGP Paddock Live",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "GuidaTV",
+      "evento": "Basket: Virtus Bologna vs Olympiacos",
+      "competizione": "Eurolega",
+      "canale": "Sky Sport Arena",
+      "note": "Del 3 Ottobre 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG25NWHM53aeXTJP_5jDQJxqqTKodR0JMx9USH-Tak0aLrKJNy8Zvo4oNlVkRGoIrqyKN9shAp1AUB9HeaR2pIq3ND1H9dwngIqi8Y1oO1INB_K1aUr5NndyLuS1huOuBhkkcyRTrRdZjtgSASugnv3_a_-O3JPZWpPqJ8=",
       "accuratezza_orario": "esatto"
     }
   ]
