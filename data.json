@@ -1,113 +1,122 @@
 {
-  "last_updated": "2026-10-02T23:32:32.595848+02:00",
+  "last_updated": "2026-10-03T04:42:45.262597+02:00",
   "events": [
     {
-      "orario": "02:00",
-      "evento": "Prove Libere 1",
-      "competizione": "Moto3 - GP Giappone 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW, SkyGo",
+      "orario": "03:10",
+      "evento": "MotoGP Prove Libere 2",
+      "competizione": "Motomondiale 2026 - GP Giappone",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "OA Sport, FormulaPassion, Fanpage",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGNMom4_yDjLzu0CGGJceGuQ8RYN-p5ZGaKV_3x7stV2wDQCc7XKI_DwjXBrjOvZ7sxJFM4X12iEOa_j1s0imXYxPiqyfJM8OuDtKU_cZGMsmrCLPwMsDzYmrFX5TaLxoOpx1DOeC5zd8_njqAxQ5iBoLNmBrQMQe5Y81RrnSo0DFJaNDGgdsrEkRMFnwX1skgbACa3BQ3_CEJXg4_g5PhXX4uBXDwGe",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:50",
-      "evento": "Prove Libere 1",
-      "competizione": "Moto2 - GP Giappone 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW, SkyGo",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion, Fanpage",
+      "orario": "03:50",
+      "evento": "MotoGP Qualifiche Q1",
+      "competizione": "Motomondiale 2026 - GP Giappone",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGNMom4_yDjLzu0CGGJceGuQ8RYN-p5ZGaKV_3x7stV2wDQCc7XKI_DwjXBrjOvZ7sxJFM4X12iEOa_j1s0imXYxPiqyfJM8OuDtKU_cZGMsmrCLPwMsDzYmrFX5TaLxoOpx1DOeC5zd8_njqAxQ5iBoLNmBrQMQe5Y81RrnSo0DFJaNDGgdsrEkRMFnwX1skgbACa3BQ3_CEJXg4_g5PhXX4uBXDwGe",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "03:45",
-      "evento": "Prove Libere 1",
-      "competizione": "MotoGP - GP Giappone 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, NOW, SkyGo",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion, Fanpage",
+      "orario": "04:15",
+      "evento": "MotoGP Qualifiche Q2",
+      "competizione": "Motomondiale 2026 - GP Giappone",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGNMom4_yDjLzu0CGGJceGuQ8RYN-p5ZGaKV_3x7stV2wDQCc7XKI_DwjXBrjOvZ7sxJFM4X12iEOa_j1s0imXYxPiqyfJM8OuDtKU_cZGMsmrCLPwMsDzYmrFX5TaLxoOpx1DOeC5zd8_njqAxQ5iBoLNmBrQMQe5Y81RrnSo0DFJaNDGgdsrEkRMFnwX1skgbACa3BQ3_CEJXg4_g5PhXX4uBXDwGe",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:15",
-      "evento": "Prove 1",
-      "competizione": "Moto3 - GP Giappone 2026",
-      "canale": "Sky Sport MotoGP, NOW, SkyGo",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion",
-      "accuratezza_orario": "esatto"
+      "orario": "05:30*",
+      "evento": "ATP Tokyo 500: Ottavi di finale",
+      "competizione": "Tennis ATP 500 Tokyo",
+      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Matteo Arnaldi vs Carlos Alcaraz. Orario stimato (non prima delle 05:30)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTiRYuSXTNTAarxj2qwlFCKTlz3Oyqc0yq7B82oMipXraTG9dZu3K7b6cCo1hTUADhK7YBBIp_nhFPXS6NeTfr9mJIs5qx3RR_LupCi4avnZIijNyqJzuCuXOGrQvKqQrd-qvz4dnNDHRak-bLqrtrKIKDsXKPma_Vi0zlhYbPGo1rd6q3IgqlsIleQThjXK2oD49HxVw=",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "06:30",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - GP Bahrain in Malesia 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW, SkyGo",
+      "evento": "F1 Prove Libere 3",
+      "competizione": "Formula 1 2026 - GP Bahrain (Malesia)",
+      "canale": "Sky Sport F1, NOW",
       "note": "",
-      "fonte": "FormulaPassion, Sky Sport, OA Sport, Fanpage",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:05",
-      "evento": "Prove 1",
-      "competizione": "Moto2 - GP Giappone 2026",
-      "canale": "Sky Sport MotoGP, NOW, SkyGo",
-      "note": "",
-      "fonte": "OA Sport, FormulaPassion",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXI_PfsWQvpDXRZI6lRuM-bnr0asJzUeYZLkTr1QgLqaxJ4hZhDGW8KRF92Q6XA7apXez399AWDKW8L4YlKXE5lt6AL8MSBcXaM7flaDR_sQLenz9sqvT9llSXUyJxxqWcmPIaj4jpWn29gd7_IPKjM0r31cDGyHTdWS424qDbgyvGQHGIQymKr4xfDZTi5Gxpggcu3aYXqQlZnmwT2WiJ12g=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "08:00",
-      "evento": "Prove",
-      "competizione": "MotoGP - GP Giappone 2026",
-      "canale": "Sky Sport MotoGP, NOW, SkyGo",
-      "note": "Sessione che determina l'accesso alla Q2",
-      "fonte": "FormulaPassion, inSella",
+      "evento": "MotoGP Sprint (12 giri)",
+      "competizione": "Motomondiale 2026 - GP Giappone",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta anche in chiaro su TV8",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGNMom4_yDjLzu0CGGJceGuQ8RYN-p5ZGaKV_3x7stV2wDQCc7XKI_DwjXBrjOvZ7sxJFM4X12iEOa_j1s0imXYxPiqyfJM8OuDtKU_cZGMsmrCLPwMsDzYmrFX5TaLxoOpx1DOeC5zd8_njqAxQ5iBoLNmBrQMQe5Y81RrnSo0DFJaNDGgdsrEkRMFnwX1skgbACa3BQ3_CEJXg4_g5PhXX4uBXDwGe",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "09:00*",
-      "evento": "Ottavi di finale: Luciano Darderi vs Kyrian Jacquet",
-      "competizione": "ATP Tokyo 2026",
-      "canale": "Sky Sport Tennis, Sky Sport Max, SkyGo, NOW, Tennis Tv",
-      "note": "Non prima delle 09:00 CET",
-      "fonte": "OA Sport, Sky Sport, LiveTennis.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "09:00*",
-      "evento": "Secondo turno: Jasmine Paolini vs Daria Snigur",
-      "competizione": "WTA Pechino 2026",
-      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Sport Max, supertennis.tv, SkyGo, NOW",
-      "note": "Terzo incontro dalle 05:00 CET",
-      "fonte": "OA Sport, Sky Sport, LiveTennis.it",
+      "evento": "ATP Tokyo 500: Ottavi di finale",
+      "competizione": "Tennis ATP 500 Tokyo",
+      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Matteo Berrettini vs Adolfo Daniel Vallejo. Orario stimato (non prima delle 09:00)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_ELucR4u_9SNwApIme3wXYIh4jo8FSiv37qMg6OIBa4FHeCU6dd7PBHJYJEHCas9YlUIELVTHwoJ90ifQRFoXWH6MTM9kzDyKbilz7jukMOWZ6UX573RyjNsyxVLR7CdDLLytXN2AxweJygCCN-ofbD0qlLfp_iaWCnehU6UiRI-glU5dPbbCI51asZbt-S5TwNcu4v14UiU=",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "10:00",
-      "evento": "Prove Libere 2",
-      "competizione": "Formula 1 - GP Bahrain in Malesia 2026",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW, SkyGo",
+      "evento": "F1 Qualifiche",
+      "competizione": "Formula 1 2026 - GP Bahrain (Malesia)",
+      "canale": "Sky Sport F1, NOW",
       "note": "",
-      "fonte": "FormulaPassion, Sky Sport, OA Sport, Fanpage",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXI_PfsWQvpDXRZI6lRuM-bnr0asJzUeYZLkTr1QgLqaxJ4hZhDGW8KRF92Q6XA7apXez399AWDKW8L4YlKXE5lt6AL8MSBcXaM7flaDR_sQLenz9sqvT9llSXUyJxxqWcmPIaj4jpWn29gd7_IPKjM0r31cDGyHTdWS424qDbgyvGQHGIQymKr4xfDZTi5Gxpggcu3aYXqQlZnmwT2WiJ12g=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "F1 Qualifiche (Replica)",
+      "competizione": "Formula 1 2026 - GP Bahrain (Malesia)",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ5DO_8irpqU5AKr-kP2tdBdFpcPHVYYLcr1vstoaZAYaBmr4ozK9CfkLvXNY6pzbT-sCuRzn5AiBQ0g3S8f2MQc1gJPrXiwyuoKObmQR3nRT5VC89KKn4RvbbxInfpgF0n0xkkH68cP8Pa99ydzd96TGD-M-NgqytKq412cCgc-t7GHcG27FHYPrz",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "F1 Qualifiche (Differita)",
+      "competizione": "Formula 1 2026 - GP Bahrain (Malesia)",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXI_PfsWQvpDXRZI6lRuM-bnr0asJzUeYZLkTr1QgLqaxJ4hZhDGW8KRF92Q6XA7apXez399AWDKW8L4YlKXE5lt6AL8MSBcXaM7flaDR_sQLenz9sqvT9llSXUyJxxqWcmPIaj4jpWn29gd7_IPKjM0r31cDGyHTdWS424qDbgyvGQHGIQymKr4xfDZTi5Gxpggcu3aYXqQlZnmwT2WiJ12g=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Rafa Nadal Academy Slam",
+      "competizione": "Tennis - Esibizione",
+      "canale": "Sky Sport Tennis, NOW",
+      "note": "Include Fabio Fognini. Evento di esibizione.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6FQmZRKd5GdMGCkxKFXcGte0tLCmZkZH_KtKUo-rrjLtLCmOrSjo2C3HWm8-If0ra5S68UwC4WyVbeYgJq1pYln2pL39CapBftJfxDbLTi1jmjzchJC1GcHX8ZdDFIlEFuzroXLrqDnvqQGGLFYKgO8kjsioCtYpmBWs7mixGyx4fCrl1TE4-5g=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "F1 Qualifiche (Replica)",
+      "competizione": "Formula 1 2026 - GP Bahrain (Malesia)",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ5DO_8irpqU5AKr-kP2tdBdFpcPHVYYLcr1vstoaZAYaBmr4ozK9CfkLvXNY6pzbT-sCuRzn5AiBQ0g3S8f2MQc1gJPrXiwyuoKObmQR3nRT5VC89KKn4RvbbxInfpgF0n0xkkH68cP8Pa99ydzd96TGD-M-NgqytKq412cCgc-t7GHcG27FHYPrz",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Francia vs Italia",
-      "competizione": "UEFA Nations League 2026",
-      "canale": "Rai 1 HD, RaiPlay",
+      "evento": "Spagna - Cechia",
+      "competizione": "Calcio Internazionale",
+      "canale": "TV8",
       "note": "",
-      "fonte": "OA Sport, Libero",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7mBmsi7Zjqv0oPsGz1Vv57v72cwIwqSQ3dsZIe6-znWk8IIyf48kvBRdoSJ7ZYcDUmoHe3Mvb3arxi_q3AxQCGTYUbRKMcl2iyVNbul8rqv5HlLjqk6Z66wu8oGC2JONVRA==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Ottavi di finale (doppio): Cabral/Tracy vs Buse/Flavio Cobolli",
-      "competizione": "ATP Pechino 2026",
-      "canale": "Sky Sport Tennis, Sky Sport Max, SkyGo, NOW, Tennis Tv",
-      "note": "Quinto incontro della sessione che inizia alle 05:00 CET; orario esatto non definito.",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "tba"
     }
   ]
 }
