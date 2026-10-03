@@ -1,229 +1,49 @@
 {
-  "last_updated": "2026-10-03T17:21:57.272567+02:00",
+  "last_updated": "2026-10-03T22:18:51.275807+02:00",
   "events": [
     {
-      "orario": "01:40",
-      "evento": "Moto3 Prove 2",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
-      "note": "GP Giappone",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtcnKLyuyYQEd5kW3YY939JC4LV-ujjZ9OjJc8CZTS4yaQvoi2d94S5jcTnHHsjljbLK-KnwpBduDrNTcxBE6GPljIKOQuWQR6kYolAQ5_2OZLwc6tArANO43wxAXGykS1TJ4fj6zjjh4oJN30yyjeasEYFA0S45s3KQv1k_wI0no6plJJk5CMoVwT-bb7ZQIBPeBYOufbEvH6IXdPkg6-ORfnlGJlmLtJpP1f4jSQkri8t1EM78yPwbwnOs=",
+      "orario": "20:35",
+      "evento": "Diretta Gol",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJlDifZ5fd4BVwGwWrezK5Nqf_mqkeZ73wz6hdBDSRJJR1T65yL4VYkkT91G-WWV2hZvQ4yAYME1xuj3T32GS53vp9BYXr4YAFld-JfdcBSD4zQzYERpvJQQT3JaBBnATB4UEpfFToC4LEvrtdN_r2OKEfymnpf2zpVCMWcYJMR4lwmBkwyZ6X5b9kS6xJ9DNTouU30ykL39TmfX6qkbABqMZEv2Enx5ehQJ48m3o",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:25",
-      "evento": "Moto2 Prove 2",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
-      "note": "GP Giappone",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtcnKLyuyYQEd5kW3YY939JC4LV-ujjZ9OjJc8CZTS4yaQvoi2d94S5jcTnHHsjljbLK-KnwpBduDrNTcxBE6GPljIKOQuWQR6kYolAQ5_2OZLwc6tArANO43wxAXGykS1TJ4fj6zjjh4oJN30yyjeasEYFA0S45s3KQv1k_wI0no6plJJk5CMoVwT-bb7ZQIBPeBYOufbEvH6IXdPkg6-ORfnlGJlmLtJpP1f4jSQkri8t1EM78yPwbwnOs=",
+      "orario": "20:45",
+      "evento": "Spagna - Cechia",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 1, TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJlDifZ5fd4BVwGwWrezK5Nqf_mqkeZ73wz6hdBDSRJJR1T65yL4VYkkT91G-WWV2hZvQ4yAYME1xuj3T32GS53vp9BYXr4YAFld-JfdcBSD4zQzYERpvJQQT3JaBBnATB4UEpfFToC4LEvrtdN_r2OKEfymnpf2zpVCMWcYJMR4lwmBkwyZ6X5b9kS6xJ9DNTouU30ykL39TmfX6qkbABqMZEv2Enx5ehQJ48m3o",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:40 (04/10)",
-      "evento": "MotoGP Warm Up",
-      "competizione": "Motomondiale 2026",
+      "orario": "02:40",
+      "evento": "Warm-Up MotoGP",
+      "competizione": "MotoGP Giappone",
       "canale": "Sky Sport MotoGP, NOW",
-      "note": "GP Giappone",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ObkQEWFjO1i4ZJbxOFXgTRqUo6KHczm3U911qmBNcxRS6yD4BV2TnqZ-OxSe3y4WtGF4sg1EjT2IlJl4ZtnvCRzqhZu_LWdwlmPFA-_WFoYdDEfNN7D_EuU_g77BkBcV58YvGBg7k6eb6W-ZkzZry0ezl0xAKmpuPlXF_3YriWSL4DELz-4ug1r2i2Jq9KDstPdmTAtOw-5xiXXBd8-II89YSghQYuX9Ep3xQ7gt6CO4SWjCkw082DRyXr5OWiaGACNDG14CIOmNvtE-BNOhhDiNz2-mupuMZWfX5yba8pDWN5Jl3YlRsJd7tnx6pC8LX5S627cbxBi3LlackPTHf7xZrSjWrKoA9w==",
+      "note": "Valido per il 4 ottobre 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpHWQ_KZMjuL9iaV1dkiHCzA9N9r5mTgZ4X_baNbKnzihuqDeN64i6yIGUjqC9kTe3qSmHDflyCeFQYR-EueWJuCDKa3Zluh3q71Vx1zI5_DdYECk0jMfCt8kfQGcCp-FOZKGQVP3UO0CBzAQRl2JHMoaxB94kO1LzAkU08YgUwD60hIb9nVfOalWfUOzqBVCRayN6RsQOWm3lOUGux--c0xj1cXnUtljs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf2eFx973wQJn_ZdINpxmJ9yJlk4lfoLSjKHqLbmErzXv_bwnxaN61SoFteWUT1NU3FqVQzI8wJzJgvff5VO25Gz03NbAm-DOnjEJuibxKJnO696WVxSLVtFlz6NsTrq2hHVeyAMAzciHPJWLe19drc8Jy2FXD3Rb5siH_dnnq73wOBbqwR-88ZXIoxC2uY7FLzaKmjlMRK8a4rmAer7Vh0d3YDhiqUOA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "03:10",
-      "evento": "MotoGP Prove Libere 2",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
-      "note": "GP Giappone",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtcnKLyuyYQEd5kW3YY939JC4LV-ujjZ9OjJc8CZTS4yaQvoi2d94S5jcTnHHsjljbLK-KnwpBduDrNTcxBE6GPljIKOQuWQR6kYolAQ5_2OZLwc6tArANO43wxAXGykS1TJ4fj6zjjh4oJN30yyjeasEYFA0S45s3KQv1k_wI0no6plJJk5CMoVwT-bb7ZQIBPeBYOufbEvH6IXdPkg6-ORfnlGJlmLtJpP1f4jSQkri8t1EM78yPwbwnOs=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:50",
-      "evento": "MotoGP Qualifiche Q1",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP, NOW, TV8",
-      "note": "GP Giappone (Diretta anche su TV8)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ObkQEWFjO1i4ZJbxOFXgTRqUo6KHczm3U911qmBNcxRS6yD4BV2TnqZ-OxSe3y4WtGF4sg1EjT2IlJl4ZtnvCRzqhZu_LWdwlmPFA-_WFoYdDEfNN7D_EuU_g77BkBcV58YvGBg7k6eb6W-ZkzZry0ezl0xAKmpuPlXF_3YriWSL4DELz-4ug1r2i2Jq9KDstPdmTAtOw-5xiXXBd8-II89YSghQYuX9Ep3xQ7gt6CO4SWjCkw082DRyXr5OWiaGACNDG14CIOmNvtE-BNOhhDiNz2-mupuMZWfX5yba8pDWN5Jl3YlRsJd7tnx6pC8LX5S627cbxBi3LlackPTHf7xZrSjWrKoA9w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00 (04/10)",
-      "evento": "Moto3 Gara",
-      "competizione": "Motomondiale 2026",
+      "orario": "04:00",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP Giappone",
       "canale": "Sky Sport MotoGP, NOW",
-      "note": "GP Giappone",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtcnKLyuyYQEd5kW3YY939JC4LV-ujjZ9OjJc8CZTS4yaQvoi2d94S5jcTnHHsjljbLK-KnwpBduDrNTcxBE6GPljIKOQuWQR6kYolAQ5_2OZLwc6tArANO43wxAXGykS1TJ4fj6zjjh4oJN30yyjeasEYFA0S45s3KQv1k_wI0no6plJJk5CMoVwT-bb7ZQIBPeBYOufbEvH6IXdPkg6-ORfnlGJlmLtJpP1f4jSQkri8t1EM78yPwbwnOs=",
+      "note": "Valido per il 4 ottobre 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgM6dA4mbTfy-jroGp_WEsl5S3mcoAiw9kA7UtTlEdqjmDCFN0v2ux2xmnQsNolV6PFKvg8HQ2atoqQHkdDcUvC26YuKEJMSAiFsMOPJ4-ZrEJVQSau01XczqSALcNDwxnKrAGn_TOFGOZ8g--tX8DLNTXwKQpGEauTXzMbKd02IJaptripuEhG9MosD71uvDHyi_z5AQaTSBdO-Gwex0iAtBdow907XWiI7hMVQx-xN5ETrW__vskUT4S7usk9bOneBIxVRg9zMMW1e29IWZs4uTBj_zlzVYfef9UBgXF6YLq6eCeAm2-vdMQO8Fg4k7Jx3ukn-Ew1Q-wGbQBQ68ZNSfQlOC18xz2-Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpHWQ_KZMjuL9iaV1dkiHCzA9N9r5mTgZ4X_baNbKnzihuqDeN64i6yIGUjqC9kTe3qSmHDflyCeFQYR-EueWJuCDKa3Zluh3q71Vx1zI5_DdYECk0jMfCt8kfQGcCp-FOZKGQVP3UO0CBzAQRl2JHMoaxB94kO1LzAkU08YgUwD60hIb9nVfOalWfUOzqBVCRayN6RsQOWm3lOUGux--c0xj1cXnUtljs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbXhFpqjlAjqhifsES80VAsqscEl2KgAxfpf_fICOO9J31X1SrvYWY6RhFggW_DK32cMBmFgqQBpmjwlOU_gM17Y2ZStKAWaKM7S3X1t7Xs9u786OhKRVCNBOyEKVvPw3aD3e-Al4BybtNWMx55XwD1qEV75FwQwLFtc0Dim_GzrTK308W-dHG1SwKbQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf2eFx973wQJn_ZdINpxmJ9yJlk4lfoLSjKHqLbmErzXv_bwnxaN61SoFteWUT1NU3FqVQzI8wJzJgvff5VO25Gz03NbAm-DOnjEJuibxKJnO696WVxSLVtFlz6NsTrq2hHVeyAMAzciHPJWLe19drc8Jy2FXD3Rb5siH_dnnq73wOBbqwR-88ZXIoxC2uY7FLzaKmjlMRK8a4rmAer7Vh0d3YDhiqUOA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:15",
-      "evento": "MotoGP Qualifiche Q2",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP, NOW, TV8",
-      "note": "GP Giappone (Diretta anche su TV8)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ObkQEWFjO1i4ZJbxOFXgTRqUo6KHczm3U911qmBNcxRS6yD4BV2TnqZ-OxSe3y4WtGF4sg1EjT2IlJl4ZtnvCRzqhZu_LWdwlmPFA-_WFoYdDEfNN7D_EuU_g77BkBcV58YvGBg7k6eb6W-ZkzZry0ezl0xAKmpuPlXF_3YriWSL4DELz-4ug1r2i2Jq9KDstPdmTAtOw-5xiXXBd8-II89YSghQYuX9Ep3xQ7gt6CO4SWjCkw082DRyXr5OWiaGACNDG14CIOmNvtE-BNOhhDiNz2-mupuMZWfX5yba8pDWN5Jl3YlRsJd7tnx6pC8LX5S627cbxBi3LlackPTHf7xZrSjWrKoA9w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:15 (04/10)",
-      "evento": "Moto2 Gara",
-      "competizione": "Motomondiale 2026",
+      "orario": "05:15",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP Giappone",
       "canale": "Sky Sport MotoGP, NOW",
-      "note": "GP Giappone",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtcnKLyuyYQEd5kW3YY939JC4LV-ujjZ9OjJc8CZTS4yaQvoi2d94S5jcTnHHsjljbLK-KnwpBduDrNTcxBE6GPljIKOQuWQR6kYolAQ5_2OZLwc6tArANO43wxAXGykS1TJ4fj6zjjh4oJN30yyjeasEYFA0S45s3KQv1k_wI0no6plJJk5CMoVwT-bb7ZQIBPeBYOufbEvH6IXdPkg6-ORfnlGJlmLtJpP1f4jSQkri8t1EM78yPwbwnOs=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:30*",
-      "evento": "ATP 500 Tokyo - Ottavi di Finale: Carlos Alcaraz vs Matteo Arnaldi",
-      "competizione": "ATP 500 Tokyo",
-      "canale": "Sky Sport Tennis, Sky Go, NOW",
-      "note": "Match con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtI8_uFVeQWqButmb7VQWnqFcEALWgDJ0x0fippaQyJenbbL7O5Xu7N4hZF60On239e9ektKaCFiKzBTYxRtQvLBy0OQ_pC6rUURPad-IYo2O7-B6emcWDe2qKeccAba1aftgl1OBPdFGiVDHlvm45pkFlcGlVlmHU2fn1LC5WA5p32AReWXUEQB8zRw8sS6_3-TGjbp6k0xU9FD5MVnN2QUC21B1NP44Nbxd5S8f7U3YiJ-8eee9CBobrB6PgKjpM9iFnSkxTAFFNb_dq1Tgkkw==",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "05:45",
-      "evento": "Moto3 Qualifiche Q1",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP, NOW, TV8",
-      "note": "GP Giappone (Diretta anche su TV8)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ObkQEWFjO1i4ZJbxOFXgTRqUo6KHczm3U911qmBNcxRS6yD4BV2TnqZ-OxSe3y4WtGF4sg1EjT2IlJl4ZtnvCRzqhZu_LWdwlmPFA-_WFoYdDEfNN7D_EuU_g77BkBcV58YvGBg7k6eb6W-ZkzZry0ezl0xAKmpuPlXF_3YriWSL4DELz-4ug1r2i2Jq9KDstPdmTAtOw-5xiXXBd8-II89YSghQYuX9Ep3xQ7gt6CO4SWjCkw082DRyXr5OWiaGACNDG14CIOmNvtE-BNOhhDiNz2-mupuMZWfX5yba8pDWN5Jl3YlRsJd7tnx6pC8LX5S627cbxBi3LlackPTHf7xZrSjWrKoA9w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:10",
-      "evento": "Moto3 Qualifiche Q2",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP, NOW, TV8",
-      "note": "GP Giappone (Diretta anche su TV8)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ObkQEWFjO1i4ZJbxOFXgTRqUo6KHczm3U911qmBNcxRS6yD4BV2TnqZ-OxSe3y4WtGF4sg1EjT2IlJl4ZtnvCRzqhZu_LWdwlmPFA-_WFoYdDEfNN7D_EuU_g77BkBcV58YvGBg7k6eb6W-ZkzZry0ezl0xAKmpuPlXF_3YriWSL4DELz-4ug1r2i2Jq9KDstPdmTAtOw-5xiXXBd8-II89YSghQYuX9Ep3xQ7gt6CO4SWjCkw082DRyXr5OWiaGACNDG14CIOmNvtE-BNOhhDiNz2-mupuMZWfX5yba8pDWN5Jl3YlRsJd7tnx6pC8LX5S627cbxBi3LlackPTHf7xZrSjWrKoA9w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:30",
-      "evento": "Formula 1 - Prove Libere 3",
-      "competizione": "Formula 1 Mondiale 2026",
-      "canale": "Sky Sport F1, NOW",
-      "note": "GP Bahrain a Sepang",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKaD2vojPyzQQNcrqLJ0ogU7lpM62PfQnjM6v0EUHMbxuKp9qtLCPugPjzqRcE1UGojS1BWopuTXqwpddWDvCKMPXpZzmCCYWfzqycRWgkzcqTD4HP1d3RAcJaYRxOYlsCovPKIpuCRhDyyzNYk2RkS7zOPwtPzkp0A6ry0MbeiYbNvqy54gXhTwM9",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:40",
-      "evento": "Moto2 Qualifiche Q1",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP, NOW, TV8",
-      "note": "GP Giappone (Diretta anche su TV8)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ObkQEWFjO1i4ZJbxOFXgTRqUo6KHczm3U911qmBNcxRS6yD4BV2TnqZ-OxSe3y4WtGF4sg1EjT2IlJl4ZtnvCRzqhZu_LWdwlmPFA-_WFoYdDEfNN7D_EuU_g77BkBcV58YvGBg7k6eb6W-ZkzZry0ezl0xAKmpuPlXF_3YriWSL4DELz-4ug1r2i2Jq9KDstPdmTAtOw-5xiXXBd8-II89YSghQYuX9Ep3xQ7gt6CO4SWjCkw082DRyXr5OWiaGACNDG14CIOmNvtE-BNOhhDiNz2-mupuMZWfX5yba8pDWN5Jl3YlRsJd7tnx6pC8LX5S627cbxBi3LlackPTHf7xZrSjWrKoA9w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:05",
-      "evento": "Moto2 Qualifiche Q2",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP, NOW, TV8",
-      "note": "GP Giappone (Diretta anche su TV8)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ObkQEWFjO1i4ZJbxOFXgTRqUo6KHczm3U911qmBNcxRS6yD4BV2TnqZ-OxSe3y4WtGF4sg1EjT2IlJl4ZtnvCRzqhZu_LWdwlmPFA-_WFoYdDEfNN7D_EuU_g77BkBcV58YvGBg7k6eb6W-ZkzZry0ezl0xAKmpuPlXF_3YriWSL4DELz-4ug1r2i2Jq9KDstPdmTAtOw-5xiXXBd8-II89YSghQYuX9Ep3xQ7gt6CO4SWjCkw082DRyXr5OWiaGACNDG14CIOmNvtE-BNOhhDiNz2-mupuMZWfX5yba8pDWN5Jl3YlRsJd7tnx6pC8LX5S627cbxBi3LlackPTHf7xZrSjWrKoA9w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "MotoGP Sprint (12 giri)",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP, NOW, TV8",
-      "note": "GP Giappone (Diretta anche su TV8)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ObkQEWFjO1i4ZJbxOFXgTRqUo6KHczm3U911qmBNcxRS6yD4BV2TnqZ-OxSe3y4WtGF4sg1EjT2IlJl4ZtnvCRzqhZu_LWdwlmPFA-_WFoYdDEfNN7D_EuU_g77BkBcV58YvGBg7k6eb6W-ZkzZry0ezl0xAKmpuPlXF_3YriWSL4DELz-4ug1r2i2Jq9KDstPdmTAtOw-5xiXXBd8-II89YSghQYuX9Ep3xQ7gt6CO4SWjCkw082DRyXr5OWiaGACNDG14CIOmNvtE-BNOhhDiNz2-mupuMZWfX5yba8pDWN5Jl3YlRsJd7tnx6pC8LX5S627cbxBi3LlackPTHf7xZrSjWrKoA9w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00*",
-      "evento": "ATP 500 Tokyo - Ottavi di Finale: Matteo Berrettini vs Daniel Vallejo",
-      "competizione": "ATP 500 Tokyo",
-      "canale": "Sky Sport Tennis",
-      "note": "Match con giocatore italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE0oy9WBN5wkyq2DiMRBbFu8eTGtJjpdCySqX0ILERR4sVQ_G0i5-TP17M3DDEMmlApXUd4hvL3Rl0DlK7fZ7o4Q1TPwWfJhV1yq-0htTW3FOjRC487CwOr3jVOMGNIFo-Ep_Zykd2BJ8xKrsjJmvJ_Jw6t1ttkbjz0kiTiKt1DZq_LV3QbMlCVV6i3dehY-GWH4klMjE6ffWbNx7GQL0uEd1oqrLKiClxYF5t_QUwDzmNeU6VGoVVWsAntR7Cy5wBmuU=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "TBA (dopo le 04:00)",
-      "evento": "ATP 500 Tokyo - Quarti di Finale Doppio: Simone Bolelli / Andrea Vavassori vs Marc Polmans / Jan Zielinski",
-      "competizione": "ATP 500 Tokyo",
-      "canale": "Sky Sport Tennis",
-      "note": "Match con giocatori italiani",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM_14ZKXMJ99nfR7NXqros_gbR2LitQCKI9odbF9RYU1QZeNiKf3w5xaA3Aou4Q8NZaJv-2agc7FcVAt8Od_TfUDhAKlFUO5wjmOrjEFWc8hoxBXNk1TI0oEqtxnOgVBxBSBTJUsFXHhbp9oKOk9_zioI-qcW2lmm8HoZMdSJ8TBhgfxFaK0XpJmMnq9I4_TPXICbARK6l6y13faJuv2Awc9Ilp9wDsbz4JZHtBCkjVSRib5meIMorTVRljLsl4z8=",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Formula 1 - Qualifiche",
-      "competizione": "Formula 1 Mondiale 2026",
-      "canale": "Sky Sport F1, NOW",
-      "note": "GP Bahrain a Sepang",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKaD2vojPyzQQNcrqLJ0ogU7lpM62PfQnjM6v0EUHMbxuKp9qtLCPugPjzqRcE1UGojS1BWopuTXqwpddWDvCKMPXpZzmCCYWfzqycRWgkzcqTD4HP1d3RAcJaYRxOYlsCovPKIpuCRhDyyzNYk2RkS7zOPwtPzkp0A6ry0MbeiYbNvqy54gXhTwM9",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Serie A Women Athora: Parma-Ternana Women",
-      "competizione": "Serie A Women Athora 2026-27",
-      "canale": "DAZN",
-      "note": "Calcio femminile",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGpDrntPiZEBrF7aLaOdwocZ1AK2bXT72lQoyKdDPbWWzEfWwW3D7d3lV7pmQp76PsHTozKAf5iCUCQwJ0p5rMgT8Vcq122L2HNfzeJ_jSlDR12Ik_QhoV6rSToALmaefTq6R301duWD1csHBszPDxOsue4CvsKW4osNGYyx6qZKZbrshYjomqqxQGTMMSn7fkRewajqrfUuDx8V9pq58ghTiMb0-xgnYBVyKkfmp-hLlSk9WW9ielOuSxXwcRtdAp_AVj12vrWzd8oAfcSRZwKQSVpdnpTdNelkagPJQF0ZNUQbIOcCJzSyXjV01AOvwTMi5-",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Ciclismo: Giro dell'Emilia",
-      "competizione": "Giro dell'Emilia",
-      "canale": "Rai Sport",
-      "note": "Ciclismo su strada (Copertura estesa su Eurosport, Rai 2 dalle 14:00)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKqHKIovjMuAHKwuSDVAJi-nmhBdUT_HSLer-5-NDGBtTPDh18Jfr4go9wLsLFNbK802XwAaPAtLAnK71zuYBDJtD2qLFzp_kJSStMsESY7T2u3U1L0Shl96IR9BMGTc7sXCFUepv5MUcLSj4gO8X2AJOMuMNYkJZE49c1w1MajAxvDHyKl6lAcMdwQ-MnSpUdz50LVrCkuDj5ersOPK_KLEWkTbpBbCmC0E0mDLz36-CzbPeR5Hs",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:25",
-      "evento": "Ciclismo Femminile: Europei su strada Lubiana 2026 - Prova in linea (Élite)",
-      "competizione": "Europei su strada Lubiana 2026",
-      "canale": "Rai Sport HD (fino alle 15:30), Rai 2 (dalle 15:30), Rai Play, Discovery Plus, HBO Max, Eurosport 1, DAZN (dalle 15:30)",
-      "note": "Prova in linea Élite Donne. Elisa Longo Borghini tra le favorite.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKqHKIovjMuAHKwuSDVAJi-nmhBdUT_HSLer-5-NDGBtTPDh18Jfr4go9wLsLFNbK802XwAaPAtLAnK71zuYBDJtD2qLFzp_kJSStMsESY7T2u3U1L0Shl96IR9BMGTc7sXCFUepv5MUcLSj4gO8X2AJOMuMNYkJZE49c1w1MajAxvDHyKl6lAcMdwQ-MnSpUdz50LVrCkuDj5ersOPK_KLEWkTbpBbCmC0E0mDLz36-CzbPeR5Hs",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Formula 1 - Qualifiche (Differita)",
-      "competizione": "Formula 1 Mondiale 2026",
-      "canale": "TV8",
-      "note": "GP Bahrain a Sepang",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtIEVsXP11zPsa5b3itdAcjkw9mwpmv7QSJCW9GR5aoPBLE4AfXMkkl02aAbCxVo_RpeZh40EeCeD6MVq8-bxQA-frcoeSrQuj_kb8J0d7hHzmbGtvs7f5YFDRtlWGvJ-nu_vURQnLXPmQb4x7wqymwY3uaQloIK_5YUqhT-YGASa2EuuAu31qZSdt969zTcgmL4venzYRRiIkvIiq-kv5opg=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio: Amichevole Lazio-Juve Stabia",
-      "competizione": "Amichevole",
-      "canale": "Sportitalia",
-      "note": "Calcio maschile",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEspcp6-qxazGFJH5W5dvkuku6-fgKZ_ZD1-WYCZ3rw0CJbdaszueV_hRPfZ31-rXywz0DX06UVhUMeIOocCwDYuQZ8yjqfiNWIZbh6vNjp-fsQq9MlMS23IjARwXQdTuawfwET4pBN2d_MwP73GbcXPMiLu9DxVBfMDV4-Rrce8lqeaVPeQhYlxdHSXbwX3Yb4DNyL4dZ8bXO-MKnmLQxkBg2tCYOtE18x1qFo1RqA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Serie A Women Athora: Fiorentina-Sassuolo",
-      "competizione": "Serie A Women Athora 2026-27",
-      "canale": "DAZN",
-      "note": "Calcio femminile",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGpDrntPiZEBrF7aLaOdwocZ1AK2bXT72lQoyKdDPbWWzEfWwW3D7d3lV7pmQp76PsHTozKAf5iCUCQwJ0p5rMgT8Vcq122L2HNfzeJ_jSlDR12Ik_QhoV6rSToALmaefTq6R301duWD1csBzPDxOsue4CvsKW4osNGYyx6qZKZbrshYjomqqxQGTMMSn7fkRewajqrfUuDx8V9pq58ghTiMb0-xgnYBVyKkfmp-hLlSk9WW9ielOuSxXwcRtdAp_AVj12vrWzd8oAfcSRZwKQSVpdnpTdNelkagPJQF0ZNUQbIOcCJzSyXjV01AOvwTMi5-",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Serie A Women Athora: Roma-Lazio",
-      "competizione": "Serie A Women Athora 2026-27",
-      "canale": "DAZN, RaiSport, RaiPlay",
-      "note": "Derby di Roma, calcio femminile",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGpDrntPiZEBrF7aLaOdwocZ1AK2bXT72lQoyKdDPbWWzEfWwW3D7d3lV7pmQp76PsHTozKAf5iCUCQwJ0p5rMgT8Vcq122L2HNfzeJ_jSlDR12Ik_QhoV6rSToALmaefTq6R301duWD1csBzPDxOsue4CvsKW4osNGYyx6qZKZbrshYjomqqxQGTMMSn7fkRewajqrfUuDx8V9pq58ghTiMb0-xgnYBVyKkfmp-hLlSk9WW9ielOuSxXwcRtdAp_AVj12vrWzd8oAfcSRZwKQSVpdnpTdNelkagPJQF0ZNUQbIOcCJzSyXjV01AOvwTMi5-",
+      "note": "Valido per il 4 ottobre 2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgM6dA4mbTfy-jroGp_WEsl5S3mcoAiw9kA7UtTlEdqjmDCFN0v2ux2xmnQsNolV6PFKvg8HQ2atoqQHkdDcUvC26YuKEJMSAiFsMOPJ4-ZrEJVQSau01XczqSALcNDwxnKrAGn_TOFGOZ8g--tX8DLNTXwKQpGEauTXzMbKd02IJaptripuEhG9MosD71uvDHyi_z5AQaTSBdO-Gwex0iAtBdow907XWiI7hMVQx-xN5ETrW__vskUT4S7usk9bOneBIxVRg9zMMW1e29IWZs4uTBj_zlzVYfef9UBgXF6YLq6eCeAm2-vdMQO8Fg4k7Jx3ukn-Ew1Q-wGbQBQ68ZNSfQlOC18xz2-Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpHWQ_KZMjuL9iaV1dkiHCzA9N9r5mTgZ4X_baNbKnzihuqDeN64i6yIGUjqC9kTe3qSmHDflyCeFQYR-EueWJuCDKa3Zluh3q71Vx1zI5_DdYECk0jMfCt8kfQGcCp-FOZKGQVP3UO0CBzAQRl2JHMoaxB94kO1LzAkU08YgUwD60hIb9nVfOalWfUOzqBVCRayN6RsQOWm3lOUGux--c0xj1cXnUtljs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbXhFpqjlAjqhifsES80VAsqscEl2KgAxfpf_fICOO9J31X1SrvYWY6RhFggW_DK32cMBmFgqQBpmjwlOU_gM17Y2ZStKAWaKM7S3X1t7Xs9u786OhKRVCNBOyEKVvPw3aD3e-Al4BybtNWMx55XwD1qEV75FwQwLFtc0Dim_GzrTK308W-dHG1SwKbQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf2eFx973wQJn_ZdINpxmJ9yJlk4lfoLSjKHqLbmErzXv_bwnxaN61SoFteWUT1NU3FqVQzI8wJzJgvff5VO25Gz03NbAm-DOnjEJuibxKJnO696WVxSLVtFlz6NsTrq2hHVeyAMAzciHPJWLe19drc8Jy2FXD3Rb5siH_dnnq73wOBbqwR-88ZXIoxC2uY7FLzaKmjlMRK8a4rmAer7Vh0d3YDhiqUOA==",
       "accuratezza_orario": "esatto"
     }
   ]
