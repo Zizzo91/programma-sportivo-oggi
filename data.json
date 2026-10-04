@@ -1,49 +1,184 @@
 {
-  "last_updated": "2026-10-03T22:18:51.275807+02:00",
+  "last_updated": "2026-10-04T13:28:21.081380+02:00",
   "events": [
     {
-      "orario": "20:35",
-      "evento": "Diretta Gol",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio",
+      "orario": "09:00",
+      "evento": "Gara",
+      "competizione": "Formula 1 - GP Bahrain (Malesia)",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJlDifZ5fd4BVwGwWrezK5Nqf_mqkeZ73wz6hdBDSRJJR1T65yL4VYkkT91G-WWV2hZvQ4yAYME1xuj3T32GS53vp9BYXr4YAFld-JfdcBSD4zQzYERpvJQQT3JaBBnATB4UEpfFToC4LEvrtdN_r2OKEfymnpf2zpVCMWcYJMR4lwmBkwyZ6X5b9kS6xJ9DNTouU30ykL39TmfX6qkbABqMZEv2Enx5ehQJ48m3o",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5wRFvrHRUee5fJEILLyK9P4zOy-Hg9iAe77avCcS9PI774l_nS6c9ftCD-L7luXlh32lnUsWn4IVTl4CuRizYkp_tJ_k_0YXPzFacy2XMKJcCxakIBHB13TxXQCsODil6rT_4nEtH77plc4dKqWEoAsu1n83hu1DhR5RH5PHao9Y6lWu9xEt6tWNVM6JwXRQNT-bMwvURFlT3wdEpvhu21lPs6CD_XLFmNqzqNC3iTymMgPvs4IumlnqLUQtpIZeDWIUA6apqY6lnWESsfJAOMksZXK5JpWc3dzyQVmcM0EAMIBHe8fYRpeyNjKCg0Y2FCw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Gara (Replica)",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjEinyTgYr9Olxnp79KQcyrD_ihorkI-eVkMbd2Mt81odsbscr75ZCPeiBgtX5hLZSe59YNGiWt4WyvEYX18ryTKWbIbvQRKtqBWAYfpXoUT8ZevJEPUcnVxcmNIjmLriTPcW3WQGSeZBPo-SPj4xkzRuSqWV3qzGFAin7s06TpTRghlN",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Moto3 Gara (Differita)",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYaPp9P5EvEKOBtWQzglCGhJtKQrjTO799-VUnntNBMlXWD50NLhxT1_dv8gRxt1VDrmMvUMAJ8tNlr7dnONNDvRkhOhSuGtH_-zzJQ8hDTgCmp-BR6EhYK4eEHv6jINs8qjV6OrfM60MoKOxTNHvvRkW2b6UkAGxv_TObcbTAN-Q0NcJ-C_IlsKIOk-O9_FWzJ3lyy5yk6j6Y1oWSkdGPirWIIcJm_E7LB5HQkETLlrMRw8ak0bYCBagqCrzIY7KsvIGByb7ylLCShmqoVOb6KFNaVnhyO2o2Dsl38MHG24D_CPCh7D-e8QVVBSUrykuDlINfUUToPer2VOEmuOHTahW3sWLzxhXcbxw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "Gara (Replica)",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjEinyTgYr9Olxnp79KQcyrD_ihorkI-eVkMbd2Mt81odsbscr75ZCPeiBgtX5hLZSe59YNGiWt4WyvEYX18ryTKWbIbvQRKtqBWAYfpXoUT8ZevJEPUcnVxcmNIjmLriTPcW3WQGSeZBPo-SPj4xkzRuSqWV3qzGFAin7s06TpTRghlN",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:15",
+      "evento": "Moto2 Gara (Differita)",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYaPp9P5EvEKOBtWQzglCGhJtKQrjTO799-VUnntNBMlXWD50NLhxT1_dv8gRxt1VDrmMvUMAJ8tNlr7dnONNDvRkhOhSuGtH_-zzJQ8hDTgCmp-BR6EhYK4eEHv6jINs8qjV6OrfM60MoKOxTNHvvRkW2b6UkAGxv_TObcbTAN-Q0NcJ-C_IlsKIOk-O9_FWzJ3lyy5yk6j6Y1oWSkdGPirWIIcJm_E7LB5HQkETLlrMRw8ak0bYCBagqCrzIY7KsvIGByb7ylLCShmqoVOb6KFNaVnbhyO2o2Dsl38MHG24D_CPCh7D-e8QVVBSUrykuDlINfUUToPer2VOEmuOHTahW3sWLzxhXcbxw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Gara (Replica)",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjEinyTgYr9Olxnp79KQcyrD_ihorkI-eVkMbd2Mt81odsbscr75ZCPeiBgtX5hLZSe59YNGiWt4WyvEYX18ryTKWbIbvQRKtqBWAYfpXoUT8ZevJEPUcnVxcmNIjmLriTPcW3WQGSeZBPo-SPj4xkzRuSqWV3qzGFAin7s06TpTRghlN",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "MotoGP Gara (Differita)",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX7IzF3FbJ68gSTFAcHRK9BrLpBfD_rzGAzuGcKJLZUjw1B1owLEAiWJQa0SdrWdMYY4M9jS_7C_k74_FxIX-p9swdnw_roqFsOwYVQHOhj-hAXl5V0ueD4gHJGqIOED13Q0EiT3Ym9sA-ibLsw7eqV0z8af9_CNuEqs45qk5t6_JSMjKL-AXAy03zAeX3xPGS4G1NdB_aCizBw9gEz2xUMOVoAhDHD2NnQImxJ4osFB5CNXXA64BS",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Azerbaijan – Lituania",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 255",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Trapani – Reggina",
+      "competizione": "Serie D Girone I",
+      "canale": "ReggioTV (Canale 77 e 677 DTT), ReggioTV.it, Reggina Channel",
+      "note": "Partita a porte chiuse.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSZx9dOy9KLs0LAs0VYewr1JSRMvYjgK2UfO3mv2N5bQvrm3kdkSyBbhTNr-4w-Z8i0q9RItQhoqUOr3lPnt3MCXgz8FJVg3ShvMrvpC-7IdFkQfB4xgHN2rYKsXCVWNTDZQQEc0NvmP7nPYiOg7LYGfVcOXRE9mXIOr1o7NOYCskgQYLYRntYYSyW-qgAmm-YefsRQ4GNY6Cx",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30",
+      "evento": "Gara (Differita)",
+      "competizione": "Formula 1 - GP Bahrain (Malesia)",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5wRFvrHRUee5fJEILLyK9P4zOy-Hg9iAe77avCcS9PI774l_nS6c9ftCD-L7luXlh32lnUsWn4IVTl4CuRizYkp_tJ_k_0YXPzFacy2XMKJcCxakIBHB13TxXQCsODil6rT_4nEtH77plc4dKqWEoAsu1n83hu1DhR5RH5PHao9Y6lWu9xEt6tWNVM6JwXRQNT-bMwvURFlT3wdEpvhu21lPs6CD_XLFmNqzqNC3iTymMgPvs4IumlnqLUQtpIZeDWIUA6apqY6lnWESsfJAOMksZXK5JpWc3dzyQVmcM0EAMIBHe8fYRpeyNjKCg0Y2FCw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Malta – Andorra",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 254",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Kosovo – Austria",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 255",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Gara (Replica)",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjEinyTgYr9Olxnp79KQcyrD_ihorkI-eVkMbd2Mt81odsbscr75ZCPeiBgtX5hLZSe59YNGiWt4WyvEYX18ryTKWbIbvQRKtqBWAYfpXoUT8ZevJEPUcnVxcmNIjmLriTPcW3WQGSeZBPo-SPj4xkzRuSqWV3qzGFAin7s06TpTRghlN",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Spagna - Cechia",
+      "evento": "Portogallo – Norvegia",
       "competizione": "UEFA Nations League",
-      "canale": "Sky Sport 1, TV8",
+      "canale": "Sky Sport Arena, TV8",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJlDifZ5fd4BVwGwWrezK5Nqf_mqkeZ73wz6hdBDSRJJR1T65yL4VYkkT91G-WWV2hZvQ4yAYME1xuj3T32GS53vp9BYXr4YAFld-JfdcBSD4zQzYERpvJQQT3JaBBnATB4UEpfFToC4LEvrtdN_r2OKEfymnpf2zpVCMWcYJMR4lwmBkwyZ6X5b9kS6xJ9DNTouU30ykL39TmfX6qkbABqMZEv2Enx5ehQJ48m3o",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Grecia – Germania",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Max",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFonlL8onj4QfEcU9c-DzbwNuMm4xwPqlDAZM9zpYI-7PlilISIdy74xhRo_pibVhiKbfT2SnGkLOkNvA4OqGjohXJEHlr1oelUIhgLlufZde65laHKs976isn6HdnaZd38EBM0W9Qxwp_PdYyt9OVaX5pO20DvHK_yDKAHDBChUmMO6_RHOWxQZskJwIrTlHhBHdu57Q==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Diretta Gol: Paesi Bassi – Serbia, Galles – Danimarca, Repubblica d'Irlanda – Israele",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Paesi Bassi-Serbia non trasmessa integralmente su canale dedicato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt36tFtzzdcyf9Tl28WmYYa5WbRuqfAw2_A74Kuwo-S8VlbrKeRwQKsQJMpsvoeG4lgb45JjdIoH-qF-rzBlQYDB4hxxbygac6k-2M3G0O49loloBCf4h35WB94I8AfxnzhYbYctcCwt01TR5oyEykWWd2biVKFU-ftb1uti6OksjR5mE8tlTws3yMHhV4q4LZQZo=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Argentina – Burkina Faso (Amichevole)",
+      "competizione": "Calcio Internazionale",
+      "canale": "Sky Sport Uno",
+      "note": "Inizio il 5 ottobre 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:40",
-      "evento": "Warm-Up MotoGP",
-      "competizione": "MotoGP Giappone",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "Valido per il 4 ottobre 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpHWQ_KZMjuL9iaV1dkiHCzA9N9r5mTgZ4X_baNbKnzihuqDeN64i6yIGUjqC9kTe3qSmHDflyCeFQYR-EueWJuCDKa3Zluh3q71Vx1zI5_DdYECk0jMfCt8kfQGcCp-FOZKGQVP3UO0CBzAQRl2JHMoaxB94kO1LzAkU08YgUwD60hIb9nVfOalWfUOzqBVCRayN6RsQOWm3lOUGux--c0xj1cXnUtljs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf2eFx973wQJn_ZdINpxmJ9yJlk4lfoLSjKHqLbmErzXv_bwnxaN61SoFteWUT1NU3FqVQzI8wJzJgvff5VO25Gz03NbAm-DOnjEJuibxKJnO696WVxSLVtFlz6NsTrq2hHVeyAMAzciHPJWLe19drc8Jy2FXD3Rb5siH_dnnq73wOBbqwR-88ZXIoxC2uY7FLzaKmjlMRK8a4rmAer7Vh0d3YDhiqUOA==",
+      "evento": "Warm-up MotoGP",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "Sky Sport MotoGP",
+      "note": "Inizio il 5 ottobre 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYaPp9P5EvEKOBtWQzglCGhJtKQrjTO799-VUnntNBMlXWD50NLhxT1_dv8gRxt1VDrmMvUMAJ8tNlr7dnONNDvRkhOhSuGtH_-zzJQ8hDTgCmp-BR6EhYK4eEHv6jINs8qjV6OrfM60MoKOxTNHvvRkW2b6UkAGxv_TObcbTAN-Q0NcJ-C_IlsKIOk-O9_FWzJ3lyy5yk6j6Y1oWSkdGPirWIIcJm_E7LB5HQkETLlrMRw8ak0bYCBagqCrzIY7KsvIGByb7ylLCShmqoVOb6KFNaVnbhyO2o2Dsl38MHG24D_CPCh7D-e8QVVBSUrykuDlINfUUToPer2VOEmuOHTahW3sWLzxhXcbxw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP Giappone",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "Valido per il 4 ottobre 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgM6dA4mbTfy-jroGp_WEsl5S3mcoAiw9kA7UtTlEdqjmDCFN0v2ux2xmnQsNolV6PFKvg8HQ2atoqQHkdDcUvC26YuKEJMSAiFsMOPJ4-ZrEJVQSau01XczqSALcNDwxnKrAGn_TOFGOZ8g--tX8DLNTXwKQpGEauTXzMbKd02IJaptripuEhG9MosD71uvDHyi_z5AQaTSBdO-Gwex0iAtBdow907XWiI7hMVQx-xN5ETrW__vskUT4S7usk9bOneBIxVRg9zMMW1e29IWZs4uTBj_zlzVYfef9UBgXF6YLq6eCeAm2-vdMQO8Fg4k7Jx3ukn-Ew1Q-wGbQBQ68ZNSfQlOC18xz2-Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpHWQ_KZMjuL9iaV1dkiHCzA9N9r5mTgZ4X_baNbKnzihuqDeN64i6yIGUjqC9kTe3qSmHDflyCeFQYR-EueWJuCDKa3Zluh3q71Vx1zI5_DdYECk0jMfCt8kfQGcCp-FOZKGQVP3UO0CBzAQRl2JHMoaxB94kO1LzAkU08YgUwD60hIb9nVfOalWfUOzqBVCRayN6RsQOWm3lOUGux--c0xj1cXnUtljs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbXhFpqjlAjqhifsES80VAsqscEl2KgAxfpf_fICOO9J31X1SrvYWY6RhFggW_DK32cMBmFgqQBpmjwlOU_gM17Y2ZStKAWaKM7S3X1t7Xs9u786OhKRVCNBOyEKVvPw3aD3e-Al4BybtNWMx55XwD1qEV75FwQwLFtc0Dim_GzrTK308W-dHG1SwKbQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf2eFx973wQJn_ZdINpxmJ9yJlk4lfoLSjKHqLbmErzXv_bwnxaN61SoFteWUT1NU3FqVQzI8wJzJgvff5VO25Gz03NbAm-DOnjEJuibxKJnO696WVxSLVtFlz6NsTrq2hHVeyAMAzciHPJWLe19drc8Jy2FXD3Rb5siH_dnnq73wOBbqwR-88ZXIoxC2uY7FLzaKmjlMRK8a4rmAer7Vh0d3YDhiqUOA==",
+      "evento": "Moto3 Gara",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "Sky Sport MotoGP",
+      "note": "Inizio il 5 ottobre 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs4-s9xH3n27wNxwrbbytC3Yv1e0tQjyaULqokLtNcsXnl9Oa7saXXLobh0rkrUo-xa8Sm4M0_TpLO1dn9pC2E91pTDv4KW7TLW_mofeB580uFrMDSbXvwqRpt4OCMINPv0q2hrxetB7ZR6ZgEzdDWU21UPH300U79xde26Mf1Bz6vs9a4a3Oz6J326F4=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP Giappone",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "Valido per il 4 ottobre 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgM6dA4mbTfy-jroGp_WEsl5S3mcoAiw9kA7UtTlEdqjmDCFN0v2ux2xmnQsNolV6PFKvg8HQ2atoqQHkdDcUvC26YuKEJMSAiFsMOPJ4-ZrEJVQSau01XczqSALcNDwxnKrAGn_TOFGOZ8g--tX8DLNTXwKQpGEauTXzMbKd02IJaptripuEhG9MosD71uvDHyi_z5AQaTSBdO-Gwex0iAtBdow907XWiI7hMVQx-xN5ETrW__vskUT4S7usk9bOneBIxVRg9zMMW1e29IWZs4uTBj_zlzVYfef9UBgXF6YLq6eCeAm2-vdMQO8Fg4k7Jx3ukn-Ew1Q-wGbQBQ68ZNSfQlOC18xz2-Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpHWQ_KZMjuL9iaV1dkiHCzA9N9r5mTgZ4X_baNbKnzihuqDeN64i6yIGUjqC9kTe3qSmHDflyCeFQYR-EueWJuCDKa3Zluh3q71Vx1zI5_DdYECk0jMfCt8kfQGcCp-FOZKGQVP3UO0CBzAQRl2JHMoaxB94kO1LzAkU08YgUwD60hIb9nVfOalWfUOzqBVCRayN6RsQOWm3lOUGux--c0xj1cXnUtljs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbXhFpqjlAjqhifsES80VAsqscEl2KgAxfpf_fICOO9J31X1SrvYWY6RhFggW_DK32cMBmFgqQBpmjwlOU_gM17Y2ZStKAWaKM7S3X1t7Xs9u786OhKRVCNBOyEKVvPw3aD3e-Al4BybtNWMx55XwD1qEV75FwQwLFtc0Dim_GzrTK308W-dHG1SwKbQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf2eFx973wQJn_ZdINpxmJ9yJlk4lfoLSjKHqLbmErzXv_bwnxaN61SoFteWUT1NU3FqVQzI8wJzJgvff5VO25Gz03NbAm-DOnjEJuibxKJnO696WVxSLVtFlz6NsTrq2hHVeyAMAzciHPJWLe19drc8Jy2FXD3Rb5siH_dnnq73wOBbqwR-88ZXIoxC2uY7FLzaKmjlMRK8a4rmAer7Vh0d3YDhiqUOA==",
+      "evento": "Moto2 Gara",
+      "competizione": "MotoGP - GP Giappone",
+      "canale": "Sky Sport MotoGP",
+      "note": "Inizio il 5 ottobre 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs4-s9xH3n27wNxwrbbytC3Yv1e0tQjyaULqokLtNcsXnl9Oa7saXXLobh0rkrUo-xa8Sm4M0_TpLO1dn9pC2E91pTDv4KW7TLW_mofeB580uFrMDSbXvwqRpt4OCMINPv0q2hrxetB7ZR6ZgEzdDWU21UPH300U79xde26Mf1Bz6vs9a4a3Oz6J326F4=",
       "accuratezza_orario": "esatto"
     }
   ]
