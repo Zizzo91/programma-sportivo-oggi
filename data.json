@@ -1,184 +1,202 @@
 {
-  "last_updated": "2026-10-04T13:28:21.081380+02:00",
+  "last_updated": "2026-10-04T22:37:00.583416+02:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Gara",
-      "competizione": "Formula 1 - GP Bahrain (Malesia)",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5wRFvrHRUee5fJEILLyK9P4zOy-Hg9iAe77avCcS9PI774l_nS6c9ftCD-L7luXlh32lnUsWn4IVTl4CuRizYkp_tJ_k_0YXPzFacy2XMKJcCxakIBHB13TxXQCsODil6rT_4nEtH77plc4dKqWEoAsu1n83hu1DhR5RH5PHao9Y6lWu9xEt6tWNVM6JwXRQNT-bMwvURFlT3wdEpvhu21lPs6CD_XLFmNqzqNC3iTymMgPvs4IumlnqLUQtpIZeDWIUA6apqY6lnWESsfJAOMksZXK5JpWc3dzyQVmcM0EAMIBHe8fYRpeyNjKCg0Y2FCw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Gara (Replica)",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjEinyTgYr9Olxnp79KQcyrD_ihorkI-eVkMbd2Mt81odsbscr75ZCPeiBgtX5hLZSe59YNGiWt4WyvEYX18ryTKWbIbvQRKtqBWAYfpXoUT8ZevJEPUcnVxcmNIjmLriTPcW3WQGSeZBPo-SPj4xkzRuSqWV3qzGFAin7s06TpTRghlN",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Moto3 Gara (Differita)",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYaPp9P5EvEKOBtWQzglCGhJtKQrjTO799-VUnntNBMlXWD50NLhxT1_dv8gRxt1VDrmMvUMAJ8tNlr7dnONNDvRkhOhSuGtH_-zzJQ8hDTgCmp-BR6EhYK4eEHv6jINs8qjV6OrfM60MoKOxTNHvvRkW2b6UkAGxv_TObcbTAN-Q0NcJ-C_IlsKIOk-O9_FWzJ3lyy5yk6j6Y1oWSkdGPirWIIcJm_E7LB5HQkETLlrMRw8ak0bYCBagqCrzIY7KsvIGByb7ylLCShmqoVOb6KFNaVnhyO2o2Dsl38MHG24D_CPCh7D-e8QVVBSUrykuDlINfUUToPer2VOEmuOHTahW3sWLzxhXcbxw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Gara (Replica)",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjEinyTgYr9Olxnp79KQcyrD_ihorkI-eVkMbd2Mt81odsbscr75ZCPeiBgtX5hLZSe59YNGiWt4WyvEYX18ryTKWbIbvQRKtqBWAYfpXoUT8ZevJEPUcnVxcmNIjmLriTPcW3WQGSeZBPo-SPj4xkzRuSqWV3qzGFAin7s06TpTRghlN",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Moto2 Gara (Differita)",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYaPp9P5EvEKOBtWQzglCGhJtKQrjTO799-VUnntNBMlXWD50NLhxT1_dv8gRxt1VDrmMvUMAJ8tNlr7dnONNDvRkhOhSuGtH_-zzJQ8hDTgCmp-BR6EhYK4eEHv6jINs8qjV6OrfM60MoKOxTNHvvRkW2b6UkAGxv_TObcbTAN-Q0NcJ-C_IlsKIOk-O9_FWzJ3lyy5yk6j6Y1oWSkdGPirWIIcJm_E7LB5HQkETLlrMRw8ak0bYCBagqCrzIY7KsvIGByb7ylLCShmqoVOb6KFNaVnbhyO2o2Dsl38MHG24D_CPCh7D-e8QVVBSUrykuDlINfUUToPer2VOEmuOHTahW3sWLzxhXcbxw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara (Replica)",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjEinyTgYr9Olxnp79KQcyrD_ihorkI-eVkMbd2Mt81odsbscr75ZCPeiBgtX5hLZSe59YNGiWt4WyvEYX18ryTKWbIbvQRKtqBWAYfpXoUT8ZevJEPUcnVxcmNIjmLriTPcW3WQGSeZBPo-SPj4xkzRuSqWV3qzGFAin7s06TpTRghlN",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "MotoGP Gara (Differita)",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX7IzF3FbJ68gSTFAcHRK9BrLpBfD_rzGAzuGcKJLZUjw1B1owLEAiWJQa0SdrWdMYY4M9jS_7C_k74_FxIX-p9swdnw_roqFsOwYVQHOhj-hAXl5V0ueD4gHJGqIOED13Q0EiT3Ym9sA-ibLsw7eqV0z8af9_CNuEqs45qk5t6_JSMjKL-AXAy03zAeX3xPGS4G1NdB_aCizBw9gEz2xUMOVoAhDHD2NnQImxJ4osFB5CNXXA64BS",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Azerbaijan – Lituania",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport 255",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "Trapani – Reggina",
-      "competizione": "Serie D Girone I",
-      "canale": "ReggioTV (Canale 77 e 677 DTT), ReggioTV.it, Reggina Channel",
-      "note": "Partita a porte chiuse.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSZx9dOy9KLs0LAs0VYewr1JSRMvYjgK2UfO3mv2N5bQvrm3kdkSyBbhTNr-4w-Z8i0q9RItQhoqUOr3lPnt3MCXgz8FJVg3ShvMrvpC-7IdFkQfB4xgHN2rYKsXCVWNTDZQQEc0NvmP7nPYiOg7LYGfVcOXRE9mXIOr1o7NOYCskgQYLYRntYYSyW-qgAmm-YefsRQ4GNY6Cx",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:30",
-      "evento": "Gara (Differita)",
-      "competizione": "Formula 1 - GP Bahrain (Malesia)",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5wRFvrHRUee5fJEILLyK9P4zOy-Hg9iAe77avCcS9PI774l_nS6c9ftCD-L7luXlh32lnUsWn4IVTl4CuRizYkp_tJ_k_0YXPzFacy2XMKJcCxakIBHB13TxXQCsODil6rT_4nEtH77plc4dKqWEoAsu1n83hu1DhR5RH5PHao9Y6lWu9xEt6tWNVM6JwXRQNT-bMwvURFlT3wdEpvhu21lPs6CD_XLFmNqzqNC3iTymMgPvs4IumlnqLUQtpIZeDWIUA6apqY6lnWESsfJAOMksZXK5JpWc3dzyQVmcM0EAMIBHe8fYRpeyNjKCg0Y2FCw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Malta – Andorra",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport 254",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Kosovo – Austria",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport 255",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Gara (Replica)",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjEinyTgYr9Olxnp79KQcyrD_ihorkI-eVkMbd2Mt81odsbscr75ZCPeiBgtX5hLZSe59YNGiWt4WyvEYX18ryTKWbIbvQRKtqBWAYfpXoUT8ZevJEPUcnVxcmNIjmLriTPcW3WQGSeZBPo-SPj4xkzRuSqWV3qzGFAin7s06TpTRghlN",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Portogallo – Norvegia",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Arena, TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Grecia – Germania",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Max",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFonlL8onj4QfEcU9c-DzbwNuMm4xwPqlDAZM9zpYI-7PlilISIdy74xhRo_pibVhiKbfT2SnGkLOkNvA4OqGjohXJEHlr1oelUIhgLlufZde65laHKs976isn6HdnaZd38EBM0W9Qxwp_PdYyt9OVaX5pO20DvHK_yDKAHDBChUmMO6_RHOWxQZskJwIrTlHhBHdu57Q==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Diretta Gol: Paesi Bassi – Serbia, Galles – Danimarca, Repubblica d'Irlanda – Israele",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Paesi Bassi-Serbia non trasmessa integralmente su canale dedicato.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt36tFtzzdcyf9Tl28WmYYa5WbRuqfAw2_A74Kuwo-S8VlbrKeRwQKsQJMpsvoeG4lgb45JjdIoH-qF-rzBlQYDB4hxxbygac6k-2M3G0O49loloBCf4h35WB94I8AfxnzhYbYctcCwt01TR5oyEykWWd2biVKFU-ftb1uti6OksjR5mE8tlTws3yMHhV4q4LZQZo=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Argentina – Burkina Faso (Amichevole)",
-      "competizione": "Calcio Internazionale",
-      "canale": "Sky Sport Uno",
-      "note": "Inizio il 5 ottobre 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Tl3YRPJiElBHXXaYVjXm0RCmjQXb0VO8zWBakAaOMqreb-RH0V1Jb_OXTGsSWnbcS25YtsfPdgAShWf-spQfFzdGABTOaEGzRrwXmlMOIW3_F4IkRo7zt-SDcByIrnBXiZgT6hM7q-JblelnaJdoB9_lOZMHE2dhjcRR5UeBD_gTuQTZKG1ILKhAS33EIrDphvFZmFR_oVJp95HFVhKk0eQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "02:40",
-      "evento": "Warm-up MotoGP",
-      "competizione": "MotoGP - GP Giappone",
+      "evento": "Warm up",
+      "competizione": "MotoGP GP Giappone",
       "canale": "Sky Sport MotoGP",
-      "note": "Inizio il 5 ottobre 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYaPp9P5EvEKOBtWQzglCGhJtKQrjTO799-VUnntNBMlXWD50NLhxT1_dv8gRxt1VDrmMvUMAJ8tNlr7dnONNDvRkhOhSuGtH_-zzJQ8hDTgCmp-BR6EhYK4eEHv6jINs8qjV6OrfM60MoKOxTNHvvRkW2b6UkAGxv_TObcbTAN-Q0NcJ-C_IlsKIOk-O9_FWzJ3lyy5yk6j6Y1oWSkdGPirWIIcJm_E7LB5HQkETLlrMRw8ak0bYCBagqCrzIY7KsvIGByb7ylLCShmqoVOb6KFNaVnbhyO2o2Dsl38MHG24D_CPCh7D-e8QVVBSUrykuDlINfUUToPer2VOEmuOHTahW3sWLzxhXcbxw==",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt8qq--LVsUeHLLtO9vsf9YHfnh8ael2CdXlvu0RAAn_o7igIfES-wpP0S-1gsv70zIrB34QNfqMiQd-mfVFDX3e0YeGx4YYG_Mn-VpNUQuExqRfaJt68ggqPu4LFZa3VLKr62KMHca8G70Hvfjgn5grS5sYgkJk1a48J-1vbHAvMvtNi2AVLSn4r2a5mnoGXjyF3wqBBK78aY_q9c59Iz-JogT2NkLawobrIEQjw8a_kihrSiojSRAqJ15PAaY8",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00",
-      "evento": "Moto3 Gara",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "Sky Sport MotoGP",
-      "note": "Inizio il 5 ottobre 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs4-s9xH3n27wNxwrbbytC3Yv1e0tQjyaULqokLtNcsXnl9Oa7saXXLobh0rkrUo-xa8Sm4M0_TpLO1dn9pC2E91pTDv4KW7TLW_mofeB580uFrMDSbXvwqRpt4OCMINPv0q2hrxetB7ZR6ZgEzdDWU21UPH300U79xde26Mf1Bz6vs9a4a3Oz6J326F4=",
+      "evento": "Gara Moto3",
+      "competizione": "MotoGP GP Giappone",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt8qq--LVsUeHLLtO9vsf9YHfnh8ael2CdXlvu0RAAn_o7igIfES-wpP0S-1gsv70zIrB34QNfqMiQd-mfVFDX3e0YeGx4YYG_Mn-VpNUQuExqRfaJt68ggqPu4LFZa3VLKr62KMHca8G70Hvfjgn5grS5sYgkJk1a48J-1vbHAvMvtNi2AVLSn4r2a5mnoGXjyF3wqBBK78aY_q9c59Iz-JogT2NkLawobrIEQjw8a_kihrSiojSRAqJ15PAaY8",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:15",
-      "evento": "Moto2 Gara",
-      "competizione": "MotoGP - GP Giappone",
-      "canale": "Sky Sport MotoGP",
-      "note": "Inizio il 5 ottobre 2026.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs4-s9xH3n27wNxwrbbytC3Yv1e0tQjyaULqokLtNcsXnl9Oa7saXXLobh0rkrUo-xa8Sm4M0_TpLO1dn9pC2E91pTDv4KW7TLW_mofeB580uFrMDSbXvwqRpt4OCMINPv0q2hrxetB7ZR6ZgEzdDWU21UPH300U79xde26Mf1Bz6vs9a4a3Oz6J326F4=",
+      "evento": "Gara Moto2",
+      "competizione": "MotoGP GP Giappone",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt8qq--LVsUeHLLtO9vsf9YHfnh8ael2CdXlvu0RAAn_o7igIfES-wpP0S-1gsv70zIrB34QNfqMiQd-mfVFDX3e0YeGx4YYG_Mn-VpNUQuExqRfaJt68ggqPu4LFZa3VLKr62KMHca8G70Hvfjgn5grS5sYgkJk1a48J-1vbHAvMvtNi2AVLSn4r2a5mnoGXjyF3wqBBK78aY_q9c59Iz-JogT2NkLawobrIEQjw8a_kihrSiojSRAqJ15PAaY8",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Gara",
+      "competizione": "MotoGP GP Giappone",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNF0hBGZHCrOQGQ4e5qg_6cw0ywAuw_zGbVEs-3G3B3c5yCGbiXs-X_wf1hHKGp3M5kkYzGDF9Pofi_ysnMTL2OaKpLJLtO5z-4O1j1KDwkOn7uPDYV72e4SwSUeHeLAigpZAWx1dyBKdH3-SKLETf1mnHI0YhR4iTw53T4U1B9SJhgGHy1s7JigYCX5fhT6uOFBU",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "Gara",
+      "competizione": "Formula 1 GP Bahrain (a Sepang)",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMdoOzBCOcip40TgfP3VAEDi_VWfRmIKL9ryGNnyUmeXMy0vSCpH06cUU4axsIXHmhz6Nhrk4wvtCvylvgYGkeQbeGnnFRa75bKLGNVMAocJrZ_1C_ByOdJl0hgCcdJtUkyJz4Hp4AJRQ-wc0kgWicKhGWjYEw8OaPxKQ6b3DF4hq_LDhQtfY9R4t3TYDE1lsUfduQbZuX9C2Eh5SZLyao-OUSBKYAt7iCLr0pp353Q6OyYoxbS6sU4oSipT1N3un8tFekc29aYuMCN_aeR7krbApS4VCV-7zqK_eeXZZ3sYinM1RUXeeG5Zti7fwY4H4_MA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:45",
+      "evento": "Gara Moto3 (Differita)",
+      "competizione": "MotoGP GP Giappone",
+      "canale": "TV8 HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt8qq--LVsUeHLLtO9vsf9YHfnh8ael2CdXlvu0RAAn_o7igIfES-wpP0S-1gsv70zIrB34QNfqMiQd-mfVFDX3e0YeGx4YYG_Mn-VpNUQuExqRfaJt68ggqPu4LFZa3VLKr62KMHca8G70Hvfjgn5grS5sYgkJk1a48J-1vbHAvMvtNi2AVLSn4r2a5mnoGXjyF3wqBBK78aY_q9c59Iz-JogT2NkLawobrIEQjw8a_kihrSiojSRAqJ15PAaY8",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Azerbaijan-Lituania",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 255",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZ4c9oX9-xe-bdIzcGTMn1jBZda2f940U0CrI4_w67pzzm_wTi6piZNLUqE1n2b6WJFYmzWK0RczPH5kP3fd4YQFt7OniXBhNMYbNUkZeO7_Ll9l634pCGj9EOw4nfGXIbN3j5W7IMMf6xgFPx2PIMmnZST_TZ8XJ8WvqdYBYm-AkcBbpSnvkSj3QUNlJU1m-9YHCjEM-Km8WRWFENeBtuS4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqy5-W9hC7kufnaAt8Z9rPQQIIkYXdcgr-SnwbEfQqG1GYC96r-wCshTTQyEWkevbJJK4SIdJ0DGnVIXirJVM8kklOXaeqxFa9SJxts_tjwULMEPoy8dvjGgDWrAGhExGrNhzOhZJtJO0GRky9cN9aF1AbfhScn7dRBKaRPo9FuWofKteXIrXlyAEPq0_1NnfpL5NtWeuDVldMT52UGTXno_qcmJAkurWVhr5Ep8wucO0RSD7S2vc6R8D6QHbrGk9OB4DmQlPug8m3Oo8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Milan - Juventus",
+      "competizione": "Serie A Femminile",
+      "canale": "DAZN, Sky Sport (canale 214)",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECJQMhHCAm5vzRO4KdGty02npjBbQFJElqdZahj5WRJyR2fVKASJjczqsikb3ftlyO03WeU12vuJgZrAw17NdB9RxNfsWiz1UHDB6GeuVZD3m3OYcvrwY_uYKagGvpL39FA98zeTn8vXq5RIQorw6C6gBJYh4qMaeFZRMTBGd9U5_gp6fdW9-84n1prG44g7fo9EaVELPvYLD1dRBFd1lfx3NCAfHukZN6fQbsweuiyBkXVUdcxkoTfwf_ItMESulQVgFuzQ0XdJvSUcLUmfOz4Ln4xwOF",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Indianapolis Colts vs Washington Commanders",
+      "competizione": "NFL",
+      "canale": "DAZN, Canale 20",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3pi-P2HSf7kC6MYBOicwNSitf9y5ct95CpIRG3uEsJ6grOW7ZXbPtSdf_Xgc-PwDuluqVAcDEPR3ld1C-9-p5IXWs4N-7NWaQaZ3zPP9qX-m9_FdJSN7wdcMrh68e6-kwwA4qBkrvksuAcWCSul9Kr2bDh2x7khCJOwEOrjX0Uw6Xg_DOtQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30",
+      "evento": "GP Bahrain (a Sepang) - Gara (Replica)",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMdoOzBCOcip40TgfP3VAEDi_VWfRmIKL9ryGNnyUmeXMy0vSCpH06cUU4axsIXHmhz6Nhrk4wvtCvylvgYGkeQbeGnnFRa75bKLGNVMAocJrZ_1C_ByOdJl0hgCcdJtUkyJz4Hp4AJRQ-wc0kgWicKhGWjYEw8OaPxKQ6b3DF4hq_LDhQtfY9R4t3TYDE1lsUfduQbZuX9C2Eh5SZLyao-OUSBKYAt7iCLr0pp353Q6OyYoxbS6sU4oSipT1N3un8tFekc29aYuMCN_aeR7krbApS4VCV-7zqK_eeXZZ3sYinM1RUXeeG5Zti7fwY4H4_MA==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Malta-Andorra",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 254",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZ4c9oX9-xe-bdIzcGTMn1jBZda2f940U0CrI4_w67pzzm_wTi6piZNLUqE1n2b6WJFYmzWK0RczPH5kP3fd4YQFt7OniXBhNMYbNUkZeO7_Ll9l634pCGj9EOw4nfGXIbN3j5W7IMMf6xgFPx2PIMmnZST_TZ8XJ8WvqdYBYm-AkcBbpSnvkSj3QUNlJU1m-9YHCjEM-Km8WRWFENeBtuS4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqy5-W9hC7kufnaAt8Z9rPQQIIkYXdcgr-SnwbEfQqG1GYC96r-wCshTTQyEWkevbJJK4SIdJ0DGnVIXirJVM8kklOXaeqxFa9SJxts_tjwULMEPoy8dvjGgDWrAGhExGrNhzOhZJtJO0GRky9cN9aF1AbfhScn7dRBKaRPo9FuWofKteXIrXlyAEPq0_1NnfpL5NtWeuDVldMT52UGTXno_qcmJAkurWVhr5Ep8wucO0RSD7S2vc6R8D6QHbrGk9OB4DmQlPug8m3Oo8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Kosovo-Austria",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 255",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZ4c9oX9-xe-bdIzcGTMn1jBZda2f940U0CrI4_w67pzzm_wTi6piZNLUqE1n2b6WJFYmzWK0RczPH5kP3fd4YQFt7OniXBhNMYbNUkZeO7_Ll9l634pCGj9EOw4nfGXIbN3j5W7IMMf6xgFPx2PIMmnZST_TZ8XJ8WvqdYBYm-AkcBbpSnvkSj3QUNlJU1m-9YHCjEM-Km8WRWFENeBtuS4=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "RedZone Channel",
+      "competizione": "NFL",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3pi-P2HSf7kC6MYBOicwNSitf9y5ct95CpIRG3uEsJ6grOW7ZXbPtSdf_Xgc-PwDuluqVAcDEPR3ld1C-9-p5IXWs4N-7NWaQaZ3zPP9qX-m9_FdJSN7wdcMrh68e6-kwwA4qBkrvksuAcWCSul9Kr2bDh2x7khCJOwEOrjX0Uw6Xg_DOtQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Jacksonville Jaguars vs Cincinnati Bengals",
+      "competizione": "NFL",
+      "canale": "DAZN",
+      "note": "Free View",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3pi-P2HSf7kC6MYBOicwNSitf9y5ct95CpIRG3uEsJ6grOW7ZXbPtSdf_Xgc-PwDuluqVAcDEPR3ld1C-9-p5IXWs4N-7NWaQaZ3zPP9qX-m9_FdJSN7wdcMrh68e6-kwwA4qBkrvksuAcWCSul9Kr2bDh2x7khCJOwEOrjX0Uw6Xg_DOtQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Philadelphia Eagles vs Los Angeles Rams",
+      "competizione": "NFL",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3pi-P2HSf7kC6MYBOicwNSitf9y5ct95CpIRG3uEsJ6grOW7ZXbPtSdf_Xgc-PwDuluqVAcDEPR3ld1C-9-p5IXWs4N-7NWaQaZ3zPP9qX-m9_FdJSN7wdcMrh68e6-kwwA4qBkrvksuAcWCSul9Kr2bDh2x7khCJOwEOrjX0Uw6Xg_DOtQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Portogallo-Norvegia",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Arena, TV8",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZ4c9oX9-xe-bdIzcGTMn1jBZda2f940U0CrI4_w67pzzm_wTi6piZNLUqE1n2b6WJFYmzWK0RczPH5kP3fd4YQFt7OniXBhNMYbNUkZeO7_Ll9l634pCGj9EOw4nfGXIbN3j5W7IMMf6xgFPx2PIMmnZST_TZ8XJ8WvqdYBYm-AkcBbpSnvkSj3QUNlJU1m-9YHCjEM-Km8WRWFENeBtuS4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdrprgn_thA3OrrOfFY0rn_tX0bWZaKhfMoRPGowWSuI04UT4nv2Ji6L5gxSwAXl6Hyjj8ymsT5NIoxNDTajJSV86HhS4eM9FY69hBQFO8m35985aQzxTpQfouLlb67p0oTHYfZSkxz2CKl-6tKY8dLEA5sBDHumHQxOt0D1E_keV9, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQzrBT1uoycVr0pHR-57M9rmkwdHAvIEiZsSQqB_4ZSqDshhYXkNcVf3T2DkzK2VIlAQjfASBOKaRFi6_NvNKiseuarqCZQICTxaSdPDwCPgGPVwRfj1-i2are2d7dsc3229bSDR6zP0yr018pow3mIXvxqCa-T4L4jKUBwviMB18=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqy5-W9hC7kufnaAt8Z9rPQQIIkYXdcgr-SnwbEfQqG1GYC96r-wCshTTQyEWkevbJJK4SIdJ0DGnVIXirJVM8kklOXaeqxFa9SJxts_tjwULMEPoy8dvjGgDWrAGhExGrNhzOhZJtJO0GRky9cN9aF1AbfhScn7dRBKaRPo9FuWofKteXIrXlyAEPq0_1NnfpL5NtWeuDVldMT52UGTXno_qcmJAkurWVhr5Ep8wucO0RSD7S2vc6R8D6QHbrGk9OB4DmQlPug8m3Oo8=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsk0kIF70P-kJZ9z4AcVRmYdUb4d1LTTDQoX48MbivxSH2dydh_G0e1kN75d85jiy2sEHXaBmul3FA2Lh4BuCh0oUoA1IciEIO3rEJDSSf_RT7180f3aDIZG666Vo5iHlkrFqvovxPnpuebzKVHAprhajnHcwzDBKw4LQXmHux1nLtf-1BsP8pOTtWKWDlvtKpoCEIyOV9kGQnNXlzdxxRbDVtPRzfpU1BG6_m9NT4knbx",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Grecia-Germania",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Max",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZ4c9oX9-xe-bdIzcGTMn1jBZda2f940U0CrI4_w67pzzm_wTi6piZNLUqE1n2b6WJFYmzWK0RczPH5kP3fd4YQFt7OniXBhNMYbNUkZeO7_Ll9l634pCGj9EOw4nfGXIbN3j5W7IMMf6xgFPx2PIMmnZST_TZ8XJ8WvqdYBYm-AkcBbpSnvkSj3QUNlJU1m-9YHCjEM-Km8WRWFENeBtuS4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqy5-W9hC7kufnaAt8Z9rPQQIIkYXdcgr-SnwbEfQqG1GYC96r-wCshTTQyEWkevbJJK4SIdJ0DGnVIXirJVM8kklOXaeqxFa9SJxts_tjwULMEPoy8dvjGgDWrAGhExGrNhzOhZJtJO0GRky9cN9aF1AbfhScn7dRBKaRPo9FuWofKteXIrXlyAEPq0_1NnfpL5NtWeuDVldMT52UGTXno_qcmJAkurWVhr5Ep8wucO0RSD7S2vc6R8D6QHbrGk9OB4DmQlPug8m3Oo8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Diretta Gol",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Include Paesi Bassi-Serbia, Galles-Danimarca, Repubblica d'Irlanda-Israele",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZ4c9oX9-xe-bdIzcGTMn1jBZda2f940U0CrI4_w67pzzm_wTi6piZNLUqE1n2b6WJFYmzWK0RczPH5kP3fd4YQFt7OniXBhNMYbNUkZeO7_Ll9l634pCGj9EOw4nfGXIbN3j5W7IMMf6xgFPx2PIMmnZST_TZ8XJ8WvqdYBYm-AkcBbpSnvkSj3QUNlJU1m-9YHCjEM-Km8WRWFENeBtuS4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqy5-W9hC7kufnaAt8Z9rPQQIIkYXdcgr-SnwbEfQqG1GYC96r-wCshTTQyEWkevbJJK4SIdJ0DGnVIXirJVM8kklOXaeqxFa9SJxts_tjwULMEPoy8dvjGgDWrAGhExGrNhzOhZJtJO0GRky9cN9aF1AbfhScn7dRBKaRPo9FuWofKteXIrXlyAEPq0_1NnfpL5NtWeuDVldMT52UGTXno_qcmJAkurWVhr5Ep8wucO0RSD7S2vc6R8D6QHbrGk9OB4DmQlPug8m3Oo8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:25",
+      "evento": "San Francisco 49ers vs Denver Broncos",
+      "competizione": "NFL",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3pi-P2HSf7kC6MYBOicwNSitf9y5ct95CpIRG3uEsJ6grOW7ZXbPtSdf_Xgc-PwDuluqVAcDEPR3ld1C-9-p5IXWs4N-7NWaQaZ3zPP9qX-m9_FdJSN7wdcMrh68e6-kwwA4qBkrvksuAcWSCsul9Kr2bDh2x7khCJOwEOrjX0Uw6Xg_DOtQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:45",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDycEA0Fu9eX_vScBrNEVZ_4hX36FZWa0W93MY2OiJ2NPK80aY11fVv1Rjkw6trZydaor9xIEDd-lo-1QkybFvrGRM7GFnRcQzXx9V6G3FkCRBpHU-diELS997K_UebCHfdWL3MkXX6dDh9eGosrScyg==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:20",
+      "evento": "Carolina Panthers vs Detroit Lions",
+      "competizione": "NFL",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3pi-P2HSf7kC6MYBOicwNSitf9y5ct95CpIRG3uEsJ6grOW7ZXbPtSdf_Xgc-PwDuluqVAcDEPR3ld1C-9-p5IXWs4N-7NWaQaZ3zPP9qX-m9_FdJSN7wdcMrh68e6-kwwA4qBkrvksuAcWCSul9Kr2bDh2x7khCJOwEOrjX0Uw6Xg_DOtQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Simone Bolelli / Andrea Vavassori vs Austin Krajicek / Nikola Mektic",
+      "competizione": "ATP 500 Tokyo - Semifinale",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVBZVWpOTxjONMN23yAYSZ3wx5dtLmDEbrS7lOKcWr8drv4q5_C4S7euzWKnLtzOeMMssCEzevKFvb1CCIkp5IavmeHBQbwt2vHX5gKomA922DEL1vORC2bPkMJFR8MkXGovS7q3pdpCft4ijB8VXHNZl1fXKVQui3c-_WgbocBZ8H-G2pLIZ3ylc5KU_i2sOIExV17gjeKqFs38SpFfuhdT_Bd877SA==",
       "accuratezza_orario": "esatto"
     }
   ]
