@@ -1,58 +1,13 @@
 {
-  "last_updated": "2026-10-05T14:54:49.949498+02:00",
+  "last_updated": "2026-10-06T01:26:17.847213+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Formula 1 - GP Bahrain (Malesia) Gara",
-      "competizione": "Mondiale Formula 1 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_BpATHEawfRgg1qzFfZSPzwBkd6x_GVClbrnbaX3CeJ-dMagYpFZIHv1aE2BCrI1cHa7fjQpMiw-wp3XcpdzBYIE4ZhVlwUjGvXV5bXho3ltKx0zVjsv42A3uan_YOBZ82kf0KEX9TiZuCVboRH9YposhH5mjw6z601atQto_bYIfSngH8qfnoLVTFl68sJ4G-9Ez0u6g7Ls=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Calcio - Italia vs Turchia",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Sky Sport Calcio",
-      "note": "Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2DJNt4YAuAZ_5anzYOUnwF1S55E-2NXJQ5HPWiNwe0nKoMsbc5whjJvTMiMC6dUAWXlyLMpQ6fWhzH90IWSMYAAGykMIxMzk89Bc5PTsPy22OL_F3cqdesx5xrQLTsQFZ-23pdkmusRa7JRPRwnk2r3tbGJ92o_K1wdrnBMXLYRZHpa1EzHevwXN5Nm-gYWX_NhqIzJ2CnJw0ZiQi1qXyDv4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "MotoGP - GP Giappone Gara",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_BpATHEawfRgg1qzFfZSPzwBkd6x_GVClbrnbaX3CeJ-dMagYpFZIHv1aE2BCrI1cHa7fjQpMiw-wp3XcpdzBYIE4ZhVlwUjGvXV5bXho3ltKx0zVjsv42A3uan_YOBZ82kf0KEX9TiZuCVboRH9YposhH5mjw6z601atQto_bYIfSngH8qfnoLVTFl68sJ4G-9Ez0u6g7Ls= [cite: 12 (previous search)]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Formula 1 - GP Bahrain (Malesia) Gara",
-      "competizione": "Mondiale Formula 1 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_BpATHEawfRgg1qzFfZSPzwBkd6x_GVClbrnbaX3CeJ-dMagYpFZIHv1aE2BCrI1cHa7fjQpMiw-wp3XcpdzBYIE4ZhVlwUjGvXV5bXho3ltKx0zVjsv42A3uan_YOBZ82kf0KEX9TiZuCVboRH9YposhH5mjw6z601atQto_bYIfSngH8qfnoLVTFl68sJ4G-9Ez0u6g7Ls= [cite: 12 (previous search)], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtj2pPu5iEwtDNfSqiWFs5u0uRYQBnhfjFKTZL8-r1kNvPiO1LG_ZTdyqjP4P-XozFIcrCGzeiLiZdygfkFlsN7zQt2J97d4H33SHFmOkU1ua2KwiauwmyjxmceQJVDeUMVDjCSUvTCUgXow9YYjyG9vwGfb4s-LUii41Xawhv-EmFC5Ye0oK47a5GgTiDiFuNbl63MSuZ-y3rbBJuUB-YBBl6jg== [cite: 21 (previous search)]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:15",
-      "evento": "Calcio - Italia U21 vs Polonia U21",
-      "competizione": "Qualificazioni Europei U21 2027",
-      "canale": "Rai 2",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTY5Otdk5h_xggzjsnE7blE38KTbsWQF6S-SO5_-zTfhWCMjQGGtACPUAmeku-WAM77wknt9UEU5c13Xde9zkEK14JSGMup7y412LhXSAHkinyRBXwlumSI-voLPrf40wWQGuLXr5Pr-_dz2qThZJKKs9Yf-RnD0K6ILRfb6UTmhbqfPNn35D4gcd4WZW3YOS5Gj76y7cln8GjHID6k3T3kOxsHgoY745zBeidsuJIygE7WqBfTjgK7jJMd4UrarAE4HMqdwHIXp9f64eKsw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgrFP63QRy9Jy-DyZodMX_n2JtWkIwMEXD5uA6txGxKPfiuNrUNruQJUmXpJZhjxbuqsffdn777KkzyQwoJ7S8a0QoNK3xrxtPDFZY-7VOcpRwoHBdF5W7OklUQjqxVzTLkoc9zlzMhngbqPR4YA0dHwjQUmc3XYAeR9W9uM68E61nCT2TQYT7gVfGgq6InZwD0tePZJywc2IWQjUBYNMIw9-03ak05O1DdVxR0TNZfhqcsO9ft3i9cZKx0FML79uFrRLSo_=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE05EVft2iEPYAllAOVmvGq3L2TK3EdVPNQOjIP6qg3IbOhAWQjKXPYluWzXLmhLeEVMoFo63FfFYcs2JaWu_zydZYnUFFrIpyvsrBqP_xR-WLojMKpBzQYbuTKe8HU00bJXypLTeeV0kBSaqtynxvmYb84p11YAeR9W9uM68E61nCT2TQYT7gVfGgq6InZwD0tePZJywc2IWQjUBYNMIw9-03ak05O1DdVxR0TNZfhqcsO9ft3i9cZKx0FML79uFrRLSo_=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0ileObEMfW1Wtw79uhOFMtPB9FnLZneOYk9Di3pbHtM9AU5gw-pmQw2jQUOTWYqb8y_mZSArHqhdiUOIy73p_05gIU6DfQkzdaVKgWjMLQEbrargl-hrNmk9Pq99gALkh9X6AIozpEubvl4Gc_AnfLQ2DOiWPI9feaQJWgCqs8bQxkJ3fgzEnY-d5Yk4BtN06sw8v4ly1W_LbVh6Jt5DZhTgODrr2aX0gLQAu2P6h52SIgaOgCHA==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Calcio - Italia vs Turchia",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Rai 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9yR_H6SbWbGmZ-8ow0HmKz-1n46MZ4CYlkpYwD7TwRrI8KkgbBTrfh_CNRNKU5ERShJIDyeCjSgJ8bspAQnFYfytoCwphuhrfjN-PH0WXvJKWcO5prgm_qER9GchdBJVbO-hqaS8WdRYMiS3XDrWt7GHuGTXTkZrDXxifnjAJM1osXtxbx2WFhKo3xy7K0XL6VqfaUaQw0wztGocYrshC-TxvnzVUTilmR01r4BwVMyGHFPtzxif-ZnFbgblq [cite: 2 (previous search)], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW-N1_hNX7S7Tl5kK8Uw84XUdKN0mSjQ4fnIXb3frDxWcBnvLIZ0QWWIYKndLVe-GZLnzQx3gJHoGXcb4saVpKAmdi2K1hnERHZi7rGGQqwLSHQQwWR8KejVKQbW6p1p1gWGqsCHtco9W2ZGGHzWagFOATJIq5-rYWJzgtr8IiyWL6D1JQtmwQh93Qr2VG_LEAaHTMoLL8b-LNNSpxEo7O9lRRDf3Dn5BwvWp4CbiYSOAMOCP7cp4qo-KshVHjhNw= [cite: 3 (previous search)], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5r6QMpnAw4ksVS9nyjc-IXNJjrvb3CmmxiN10n3mTwZ_jcM878ccBSlhj8pUTGKX0dzpRiTFaRt2a_HQ0sHHhTzbn25HPfy4zXHwJ4YGuGI4h_fi8eUj9qwZZQ-sqFsJALf-axbwwCyuIYcoO8R91yQwVSRgBcEB-22VfmK5KcevLZGou1Q== [cite: 4 (previous search)], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnEsG7ZDfElOhGNFoYQqia9c3bXDThk89uDF65I3QUbVQqjpo1los_yNaGNO83NWikwx3FerKahhpNolOOhfyS3I5-oUYOwinC-rqu0Son3cQrNvNcsKiirybE2BlgIApvgPjhe2zzCuW96RPL82mOqhqWbMr2PKQ3eZODMb03LlB1VyKIMEW4aSHslv4GwU9hNffUyCt_4bdY7SBs8OVDUcGL30iCN6OMFlE3ARFBGu9S1fzrU28= [cite: 9 (previous search)]",
+      "orario": "19:00",
+      "evento": "Amichevole Club Voleibol Guaguas vs Vero Volley Monza",
+      "competizione": "Volley Amichevole",
+      "canale": "",
+      "note": "Giocata a Barcellona",
+      "fonte": "iVolley Magazine, Consorzio Vero Volley",
       "accuratezza_orario": "esatto"
     }
   ]
