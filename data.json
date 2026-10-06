@@ -1,13 +1,67 @@
 {
-  "last_updated": "2026-10-06T01:26:17.847213+02:00",
+  "last_updated": "2026-10-06T05:40:28.948627+02:00",
   "events": [
     {
+      "orario": "06:00",
+      "evento": "WTA 1000 Pechino: 7a giornata",
+      "competizione": "WTA 1000",
+      "canale": "Sky Sport Tennis",
+      "note": "Replay della giornata finale, probabile inclusione del match di doppio Errani/Paolini.",
+      "fonte": "Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00*",
+      "evento": "WTA 1000 Pechino: Doppio Errani/Paolini vs Detiuc/Wu",
+      "competizione": "WTA 1000",
+      "canale": "Sky Sport Tennis",
+      "note": "Match dal vivo, orario stimato a seguire dopo il match Snigur vs Andreeva (ore 05:00 CET).",
+      "fonte": "Atp Tokyo e Pechino 2026, il programma di oggi: partite e orari - Sky Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "07:00",
+      "evento": "WTA 1000 Pechino: 7a giornata",
+      "competizione": "WTA 1000",
+      "canale": "Sky Sport Uno, Sky Sport 1",
+      "note": "Replay della giornata finale, probabile inclusione del match di doppio Errani/Paolini.",
+      "fonte": "WTA 1000 2026-Pechino: 7a giornata su Sky Sport Uno - Guida TV, Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "WTA 1000 Pechino: 7a giornata",
+      "competizione": "WTA 1000",
+      "canale": "Sky Sport Uno, Sky Sport 1, Sky Sport Tennis",
+      "note": "Replay della giornata finale, probabile inclusione del match di doppio Errani/Paolini.",
+      "fonte": "WTA 1000 2026-Pechino: 7a giornata su Sky Sport Uno - Guida TV, Calcio e Sport in Tv oggi: dove vedere in Televisione",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "19:00",
-      "evento": "Amichevole Club Voleibol Guaguas vs Vero Volley Monza",
-      "competizione": "Volley Amichevole",
-      "canale": "",
-      "note": "Giocata a Barcellona",
-      "fonte": "iVolley Magazine, Consorzio Vero Volley",
+      "evento": "Volley Amichevole: Vero Volley Monza vs Club Voleibol Guaguas",
+      "competizione": "Amichevole Internazionale",
+      "canale": "Non specificato",
+      "note": "Test amichevole in trasferta a Barcellona.",
+      "fonte": "Pallavolo SL – Allianz Milano-Vero Volley Monza 4-0. Falasca: “Viste tante cose molto positive” Massari: “Nonostante il risultato noi siamo stati bravi” - iVolley Magazine, Test internazionale per Monza: a Barcellona sfida contro il Guaguas, Monza versus Milano - Lega Pallavolo Serie A, La Vero Volley Monza sfida l'Allianz Milano: test precampionato dal sapore di SuperLega",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Mondiale Formula 1 2026-GP Bahrein: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica del Gran Premio del Bahrein.",
+      "fonte": "UEFA Nations League 2026/2027-Croazia - Spagna su Sky Sport Uno - Guida TV, WTA 1000 2026-Pechino: 7a giornata su Sky Sport Uno - Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica del programma di approfondimento post-gara.",
+      "fonte": "UEFA Nations League 2026/2027-Croazia - Spagna su Sky Sport Uno - Guida TV, WTA 1000 2026-Pechino: 7a giornata su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
