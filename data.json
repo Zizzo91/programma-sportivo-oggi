@@ -1,4 +1,59 @@
 {
-  "last_updated": "2026-10-06T23:58:36.312420+02:00",
-  "events": []
+  "last_updated": "2026-10-07T05:07:19.454025+02:00",
+  "events": [
+    {
+      "orario": "01:00",
+      "evento": "Argentina-Benin",
+      "competizione": "Calcio - Amichevole Internazionale",
+      "canale": "Sky Sport 24, Sky Sport Calcio, NOW, Sky Go",
+      "note": "Ultima partita di Lionel Messi con la nazionale argentina.",
+      "fonte": "Goal.com Italia, Calciomercato, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "MotoGP 2026 - GP Giappone: Gara (Replica)",
+      "competizione": "Motociclismo - MotoGP",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "Guida TV - Quotidiano Nazionale",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Chicago Fire-Vancouver Whitecaps",
+      "competizione": "Calcio - MLS",
+      "canale": "Apple TV",
+      "note": "",
+      "fonte": "Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Tennis - ATP Masters 1000 Shanghai 2026 - 1a Giornata (Matteo Berrettini vs Aleksandar Kovacevic)",
+      "competizione": "Tennis - ATP Masters 1000",
+      "canale": "Sky Sport Tennis, Sky Go, NOW, Tennis TV",
+      "note": "Matteo Berrettini è un giocatore italiano. Match inaugurale sullo Stadium Court.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Tennis - WTA 1000 Pechino: 8a Giornata",
+      "competizione": "Tennis - WTA 1000",
+      "canale": "Sky Sport Max",
+      "note": "Include la partecipazione delle italiane Jasmine Paolini e Sara Errani nel doppio.",
+      "fonte": "Calcio e Sport in Tv oggi, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Tennis - WTA 1000 Pechino: 8a Giornata",
+      "competizione": "Tennis - WTA 1000",
+      "canale": "Sky Sport Mix, Sky Sport Max",
+      "note": "Include la partecipazione delle italiane Jasmine Paolini e Sara Errani nel doppio.",
+      "fonte": "Calcio e Sport in Tv oggi",
+      "accuratezza_orario": "esatto"
+    }
+  ]
 }
