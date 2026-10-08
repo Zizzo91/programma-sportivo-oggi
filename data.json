@@ -1,40 +1,58 @@
 {
-  "last_updated": "2026-10-08T00:24:06.091180+02:00",
+  "last_updated": "2026-10-08T05:22:55.461977+02:00",
   "events": [
     {
-      "orario": "04:00*",
-      "evento": "Quarti di finale doppio femminile",
-      "competizione": "WTA 1000 China Open (Pechino)",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Possibile partecipazione di Jasmine Paolini e Sara Errani. Orario di inizio delle sessioni, il match specifico è da confermare.",
-      "fonte": "Olympics.com, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "06:00*",
-      "evento": "Matteo Arnaldi (ITA) vs Bernard Tomic (AUS)",
-      "competizione": "ATP Masters 1000 Rolex Shanghai Masters - R128",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, NOW",
-      "note": "Secondo match di giornata dopo l'inizio della programmazione.",
-      "fonte": "LiveTennis.it, Sky Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "11:30",
-      "evento": "Conferenza Stampa Piloti (differita)",
-      "competizione": "Formula 1 - GP Singapore",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
-      "note": "Eventi pre-gara del weekend del GP di Singapore.",
-      "fonte": "Dtti.it, Sky Sport",
+      "orario": "10:30",
+      "evento": "Formula 1 - GP Singapore 2026: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy4ZbCUAp79o2W9B8Tr8mxp4DWYAXaEyg6WWe70d8oSlck6BMmVzx-ygFy8lHU4ZZeT02tWusxia83mP8AZCrOu4hwh6VCa9skRFj1LGakKFQJS8gci1bsCkCVDRvcvvR0wRBaOoJ1hrcBT8cPEoDdc5PEsbl_3uCSS4PhqsleHpLOgA1Na0OA4w==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:45",
-      "evento": "Paddock Live Pit Walk",
-      "competizione": "Formula 1 - GP Singapore",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
-      "note": "Eventi pre-gara del weekend del GP di Singapore.",
-      "fonte": "Dtti.it, Sky Sport",
+      "orario": "14:30*",
+      "evento": "Tennis - China Open 2026: Quarti di finale doppio femminile (Paolini/Errani vs Dabrowski/Stefani)",
+      "competizione": "WTA 1000",
+      "canale": "Sky Sport, SuperTennis",
+      "note": "Match non prima delle 14:30 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2hRvHTCaQoadjW_w406sFF64uDyrUuxVDUmgmI3QmrQ6iHf4PnAZBe52M-8jImwcPLHauAOuEXj4iRXQ36ufch1VYyAxvOFhxKme0GHKcxJ21VOKd38wI2xrNmxzX1mICJOnm15u0ja1dJXYmZfpesL0fxjeO86tekIPvRi7c0usRUeCwAg-ms_1G8ziute2Uhhwag9T6fmG4Hx9b-BcpVYjFNmw3hR4ysis=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "02:55",
+      "evento": "MotoGP - GP Indonesia 2026: Moto3 Prove Libere 1",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport Uno",
+      "note": "Evento del 9 ottobre 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2uecxGJX5W_vpgt1XGAWVOwXjtk35ZdxV8mdIxgYKXfzZ72r1MWkqmvkustui2JRQMt_d86u5fbQAD3nE5IW9Ofz7e8aK1TSyS9WwIsq0MAn6PREECYDLRMi9749Bnob28AGwli5DbZXgpd7jhpXoYOfMWHl4Z-6TDFGaa-vKKZPxt3D",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:45",
+      "evento": "MotoGP - GP Indonesia 2026: Moto2 Prove Libere 1",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport Uno",
+      "note": "Evento del 9 ottobre 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2uecxGJX5W_vpgt1XGAWVOwXjtk35ZdxV8mdIxgYKXfzZ72r1MWkqmvkustui2JRQMt_d86u5fbQAD3nE5IW9Ofz7e8aK1TSyS9WwIsq0MAn6PREECYDLRMi9749Bnob28AGwli5DbZXgpd7jhpXoYOfMWHl4Z-6TDFGaa-vKKZPxt3D",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:40",
+      "evento": "MotoGP - GP Indonesia 2026: MotoGP Prove Libere 1",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport Uno",
+      "note": "Evento del 9 ottobre 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2uecxGJX5W_vpgt1XGAWVOwXjtk35ZdxV8mdIxgYKXfzZ72r1MWkqmvkustui2JRQMt_d86u5fbQAD3nE5IW9Ofz7e8aK1TSyS9WwIsq0MAn6PREECYDLRMi9749Bnob28AGwli5DbZXgpd7jhpXoYOfMWHl4Z-6TDFGaa-vKKZPxt3D",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:40",
+      "evento": "MotoGP Paddock Live",
+      "competizione": "Motomondiale",
+      "canale": "Sky Sport Uno",
+      "note": "Evento del 9 ottobre 2026.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2uecxGJX5W_vpgt1XGAWVOwXjtk35ZdxV8mdIxgYKXfzZ72r1MWkqmvkustui2JRQMt_d86u5fbQAD3nE5IW9Ofz7e8aK1TSyS9WwIsq0MAn6PREECYDLRMi9749Bnob28AGwli5DbZXgpd7jhpXoYOfMWHl4Z-6TDFGaa-vKKZPxt3D",
       "accuratezza_orario": "esatto"
     }
   ]
