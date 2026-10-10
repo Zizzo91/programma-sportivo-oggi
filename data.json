@@ -1,130 +1,238 @@
 {
-  "last_updated": "2026-10-10T18:31:35.441509+02:00",
+  "last_updated": "2026-10-10T22:49:29.824391+02:00",
   "events": [
     {
-      "orario": "06:45",
-      "evento": "Moto3 - Qualifiche",
-      "competizione": "Motomondiale - GP Indonesia",
+      "orario": "04:10",
+      "evento": "MotoGP GP Indonesia: Prove Libere 2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd0MaO0NBGnlyxXvFrNZC_6hXCTfxQ5lrUEd8M3T0taj3bNp0mY-0mSu7KW0Hl1aLsl08Hu0uz2WmHjolJJSMr4Rr9wD-O5QbcOSv5gvaEACqP0AOq2PiP2CbWDy0=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:50",
+      "evento": "MotoGP GP Indonesia: Qualifiche (Q1)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd0MaO0NBGnlyxXvFrNZC_6hXCTfxQ5lrUEd8M3T0taj3bNp0mY-0mSu7KW0Hl1aLsl08Hu0uz2WmHjolJJSMr4Rr9wD-O5QbcOSv5gvaEACqP0AOq2PiP2CbWDy0=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:15",
+      "evento": "MotoGP GP Indonesia: Qualifiche (Q2)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd0MaO0NBGnlyxXvFrNZC_6hXCTfxQ5lrUEd8M3T0taj3bNp0mY-0mSu7KW0Hl1aLsl08Hu0uz2WmHjolJJSMr4Rr9wD-O5QbcOSv5gvaEACqP0AOq2PiP2CbWDy0=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00*",
+      "evento": "Tennis ATP Masters 1000 Shanghai: Matteo Arnaldi vs Taylor Fritz",
+      "competizione": "ATP Masters 1000 Shanghai",
+      "canale": "Sky Sport, NOW",
+      "note": "2° match sul campo centrale, orario stimato dopo le 06:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAhilPP_C3KisdJqU6IR9pJnpwRNf_6jnKBgnlrg7nmOvilb070wYZy0cUmPmqcvxkMMFnFrhKGSmr4YnkXu6Msgi2NSyzWmiODJetR1AtQ7WFuDtDNXg9MNyrZnvTjAZMa7hKLwlge2JygoHB_qpOYha10JfOFHGoMp0djY8Ufy7Xh3RWMbSlP08j3zsSky4YY0ydHDwfT2tv92jpBuXSvAJXmDpx4X606B5_yyuSOgsDFp4nRQ=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "06:30",
+      "evento": "Highlights MotoGP",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGEuyQsA1fNbTQGHzPaNsWVmIakFwU_HPrwa1kZGJSQGmZFK-geNSes3NMlGFhyl38jv9JwOqhe00Mouxl0QXWHb6TEKkmsVMR-CAjln6MdIhGV_nrFrrBkO1KNj1GXG2zFXwzs3RG3T9GT471mz9TJXQxBI9WgD5fPI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:40",
+      "evento": "Moto3 GP Indonesia: Qualifiche",
+      "competizione": "MotoGP",
       "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLvBpGo_I1mGCMZWrYkLCN2V1v9fegxm_tkDWE5lcLp5-jgJjK9iuJCbsrTtfXdRS1itiVQcfp-zxyePQVtvdmE41odjykm3zJJbTUwYuQfmdSj9oFg3WdIQp37U3CaGRqV-xuKL7GBVpMqs-RT28BHCt1SR0waX32AOrCqbFYVI66EnZK-w-KOAnSVLMDbIYTwYUt5LbWL293od7GmP6APsQJNIcsVCidc8aaDI0bfwXir2fF5j7FDw",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGEuyQsA1fNbTQGHzPaNsWVmIakFwU_HPrwa1kZGJSQGmZFK-geNSes3NMlGFhyl38jv9JwOqhe00Mouxl0QXWHb6TEKkmsVMR-CAjln6MdIhGV_nrFrrBkO1KNj1GXG2zFXwzs3RG3T9GT471mz9TJXQxBI9WgD5fPI=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "07:00*",
-      "evento": "Tennis: Matteo Arnaldi vs Taylor Fritz",
-      "competizione": "ATP Masters 1000 Shanghai",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis TV",
-      "note": "Non prima delle 07:00 CET. Match con italiano.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaWopYAwNYrmdnlo-Nvu0NGJc4SYF_JxMvr2ZeILGcCjJ5rhGfRj9hKwLbY_rPOjS3L9i0-gwvhtmYQ0BHZ-DDPyp7uU8bc0wkHjzsxi4LiGhGpVwESK9IP8v_3pPS8WyyDyh_3047W7fppeUTk2OLS7GOtgws4km3U75rjLXLc8YGTm9kcchYA5btFjrGiXpzV8HHVbirtZiaYm1znFexrpvthjoQz30LgPmVYAGW0QrXX5GyJEohrQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLvBpGo_I1mGCMZWrYkLCN2V1v9fegxm_tkDWE5lcLp5-jgJjK9iuJCbsrTtfXdRS1itiVQcfp-zxyePQVtvdmE41odjykm3zJJbTUwYuQfmdSj9oFg3WdIQp37U3CaGRqV-xuKL7GBVpMqs-RT28BHCt1SR0waX32AOrCqbFYVI66EnZK-w-KOAnSVLMDbIYTwYUt5LbWL293od7GmP6APsQJNIcsVCidc8aaDI0bfwXir2fF5j7FDw",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "08:55",
-      "evento": "MotoGP - Sprint Race",
-      "competizione": "Motomondiale - GP Indonesia",
+      "orario": "07:35",
+      "evento": "Moto2 GP Indonesia: Qualifiche",
+      "competizione": "MotoGP",
       "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "Diretta TV8 e Sky Sport",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9D7eWUVxrGzeER2lDmRAZvEH0HgI2vB54azwAvT94fr9pnW1RSQTp86TDyRWoqVd007q5ymeWga6wdSiII-4NWvTWFm0_Sa8Zltzez0jtLWzJthMck5uvGWSxEl8tv4c1igDVNzFsPsEKGyUHdFjinsDyXA4AUF4QPn-1SHrAMAHKXiF9df_4vqHm3sxwN_INKmLmr1y44LJz9IHga4Cgi6X7",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGEuyQsA1fNbTQGHzPaNsWVmIakFwU_HPrwa1kZGJSQGmZFK-geNSes3NMlGFhyl38jv9JwOqhe00Mouxl0QXWHb6TEKkmsVMR-CAjln6MdIhGV_nrFrrBkO1KNj1GXG2zFXwzs3RG3T9GT471mz9TJXQxBI9WgD5fPI=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:30*",
-      "evento": "Tennis: Luciano Darderi vs Stefanos Tsitsipas",
+      "orario": "08:30",
+      "evento": "MotoGP Paddock Live Sprint",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGEuyQsA1fNbTQGHzPaNsWVmIakFwU_HPrwa1kZGJSQGmZFK-geNSes3NMlGFhyl38jv9JwOqhe00Mouxl0QXWHb6TEKkmsVMR-CAjln6MdIhGV_nrFrrBkO1KNj1GXG2zFXwzs3RG3T9GT471mz9TJXQxBI9WgD5fPI=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:00",
+      "evento": "MotoGP GP Indonesia: Sprint Race",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEB6H2Kk_KXKGrwBP8wnP-K2sacb5conzdZoV9OOyVoILDD6PCxYuqFnbztqnyEUEKcd294qtlmQEZTUN6CUZW_bOxXAEWSr9oHzPwgOiz8agY9INl1pGoZKeV20yjOJfXHts9N6vdvxmBx8EUkJ8FeFCKYQy-YFshmG6rZ08z1KnxQ1zt6DEXX6BU-MvQUGFtrjUxEccbw-Iz3mooM8Ak860x0jAdGPylc2ffMz76-3XSug==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00*",
+      "evento": "Tennis ATP Masters 1000 Shanghai: Luciano Darderi vs Stefanos Tsitsipas",
       "competizione": "ATP Masters 1000 Shanghai",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis TV",
-      "note": "Non prima delle 10:30 CET. Match con italiano.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaWopYAwNYrmdnlo-Nvu0NGJc4SYF_JxMvr2ZeILGcCjJ5rhGfRj9hKwLbY_rPOjS3L9i0-gwvhtmYQ0BHZ-DDPyp7uU8bc0wkHjzsxi4LiGhGpVwESK9IP8v_3pPS8WyyDyh_3047W7fppeUTk2OLS7GOtgws4km3zJJbTUwYuQfmdSj9oFg3WdIQp37U3CaGRqV-xuKL7GBVpMqs-RT28BHCt1SR0waX32AOrCqbFYVI66EnZK-w-KOAnSVLMDbIYTwYUt5LbWL293od7GmP6APsQJNIcsVCidc8aaDI0bfwXir2fF5j7FDw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLvBpGo_I1mGCMZWrYkLCN2V1v9fegxm_tkDWE5lcLp5-jgJjK9iuJCbsrTtfXdRS1itiVQcfp-zxyePQVtvdmE41odjykm3zJJbTUwYuQfmdSj9oFg3WdIQp37U3CaGRqV-xuKL7GBVpMqs-RT28BHCt1SR0waX32AOrCqbFYVI66EnZK-w-KOAnSVLMDbIYTwYUt5LbWL293od7GmP6APsQJNIcsVCidc8aaDI0bfwXir2fF5j7FDw",
+      "canale": "Sky Sport, NOW",
+      "note": "4° match sul campo centrale, orario stimato dopo le 06:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAhilPP_C3KisdJqU6IR9pJnpwRNf_6jnKBgnlrg7nmOvilb070wYZy0cUmPmqcvxkMMFnFrhKGSmr4YnkXu6Msgi2NSyzWmiODJetR1AtQ7WFuDtDNXg9MNyrZnvTjAZMa7hKLwlge2JygoHB_qpOYha10JfOFHGoMp0djY8Ufy7Xh3RWMbSlP08j3zsSky4YY0ydHDwfT2tv92jpBuXSvAJXmDpx4X606B5_yyuSOgsDFp4nRQ=",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "10:15",
+      "evento": "F1 GP Singapore: Paddock Live",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEejBR4FcWa36WEELv_YbGZUVbsfStulFTIbkInAdypt6i7jLykgBgQMPCjqTbs-8xsBW-TyttAcmxqEZSkhhsQENBO-TKTUNa4fEtY96ov8NOlKoZsAayfRoqs5byR4cZfxPYbYCPJ5P4EvJRu8KK7-VJjl_vWTYW5CZUk5PL5K607M12q",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "11:00",
-      "evento": "Formula 1 - Sprint Race",
-      "competizione": "F1 - GP Singapore",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
-      "note": "Diretta Sky e TV8 (in chiaro)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-0dJwxWbaMRZaMYepdg-4vro94UNdB4AM_a90HU-23PfZQwFCbZWGEiJTJ8IF40UI8CtsnJ-q906CaUoQrJ4tPhHME-Eo-9t5hLMv9bXElG5ubNoEMCpmkQF-mYEF3fRsqsGrL53-vP59jorow2WvjghRDwpTc_r3Ay3Kl-RrWH29cLflRsJvXAhAJoIvA6R67K1nCK4bgsFxh53gUlxaoCf4Ibw2u1PNTc3fhpdObzP6, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG62QD11wEMo0JXkoUif9BnS-1l0pmpBMo9GK74N2oaPVyzPFJq8mqxp2aF_L8Xw2nehNcGz7l0hAWXVALXrYSjAQqAVF0S1vrzTOTuFnXElor8dVOnHtmeGs05AP-qDAwJFloYj6qBtlHXLR9MoLfHzQzMgc7Bd33uoTfzcHofmClg-_oUFPC0Ssjgivw77Xm_dAVnhx1I6Jo9HZUx-RmBNkkjIg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6XS9bu3xeXouWcjGH072vQY1451BF-UuLcxQmCzP9RlzloX463PkIspEKqgEz9Tu1NUvNEl3NH94sZSno_NMmFGdhhNf7NmfL2aCfpt2yTRwrrfJB6-dQ46KSOeLp1APW6s8Tahh3hT4QJTshMkDKTNdG2CmH1jRnMKWrMO50sgUyXKbn",
+      "evento": "F1 GP Singapore: Sprint Race",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI9YQdV4gWrZ-LqCYXeBzBHlBRZkiwZqRtRP8arQJLqCWSn0Dr4RGQS4BlIOb9LPSprcZVnkSvWZKO88Wezh2dpNcpPjkCUmHK5o9xy2lNo16adRhwz9G-piIANLWac1qpIz-y7WnmTq1ngxYsLz4H-ilKuav4RHtcRvEF6rfM3pyIV9iWb4vjhVhnssODFLUjAbiHJpSl_UG3EOGdpuayXJ1HLQ=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "F1 GP Singapore: Paddock Live",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEejBR4FcWa36WEELv_YbGZUVbsfStulFTIbkInAdypt6i7jLykgBgQMPCjqTbs-8xsBW-TyttAcmxqEZSkhhsQENBO-TKTUNa4fEtY96ov8NOlKoZsAayfRoqs5byR4cZfxPYbYCPJ5P4EvJRu8KK7-VJjl_vWTYW5CZUk5PL5K607M12q",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "13:00",
-      "evento": "Formula 1 - Sprint Race (Replica)",
-      "competizione": "F1 - GP Singapore",
-      "canale": "Sky Sport F1 (207)",
+      "evento": "F1 GP Singapore: Replica Sprint Race",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6XS9bu3xeXouWcjGH072vQY1451BF-UuLcxQmCzP9RlzloX463PkIspEKqgEz9Tu1NUvNEl3NH94sZSno_NMmFGdhhNf7NmfL2aCfpt2yTRwrrfJB6-dQ46KSOeLp1APW6s8Tahh3hT4QJTshMkDKTNdG2CmH1jRnMKWrMO50sgUyXKbn",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEejBR4FcWa36WEELv_YbGZUVbsfStulFTIbkInAdypt6i7jLykgBgQMPCjqTbs-8xsBW-TyttAcmxqEZSkhhsQENBO-TKTUNa4fEtY96ov8NOlKoZsAayfRoqs5byR4cZfxPYbYCPJ5P4EvJRu8KK7-VJjl_vWTYW5CZUk5PL5K607M12q",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:15",
+      "evento": "F1 GP Singapore: Warm Up",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY8Rmr0uyxf93ya_bokkH22OeOc9kgCgc4urf0MRCn-M2-joDU8kSOCT5dSmFlzZ-izU1LFXV2do5ix0VUpEpPRt1403bsXolkh-cLsEQAghWyoLLP477WKolI8YPXbZL6eTxHS8INSAzlwAG_RmwzttGqV4Zg9ch4X_FRDHM=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30",
+      "evento": "F1 GP Singapore: Paddock Live Pre Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY8Rmr0uyxf93ya_bokkH22OeOc9kgCgc4urf0MRCn-M2-joDU8kSOCT5dSmFlzZ-izU1LFXV2do5ix0VUpEpPRt1403bsXolkh-cLsEQAghWyoLLP477WKolI8YPXbZL6eTxHS8INSAzlwAG_RmwzttGqV4Zg9ch4X_FRDHM=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Calcio: Genoa-Fiorentina",
+      "evento": "Calcio Serie A: Genoa-Fiorentina",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlOX5I4PYdKL5xHf0lPIpS8kxiEg23Y1zh_39B4ZJkNGb-J-bjsNPRe7z4zou5NQLcku3SWejGssHoVfSbHDvYE3lVhAI2o0VjTjkj3lFdDUy8B1_iRwqEzsdLgQWOdlja7V4hAT6FNsEoGqRpsK0MXJaab8_hWA7K6SwTKVb6y6OXOQaJoKPq8THkCtiGaxqyAW1Voc9mKcUJ3YaQjMQr8R0-cQ2Q3iU5_9U=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLvBpGo_I1mGCMZWrYkLCN2V1v9fegxm_tkDWE5lcLp5-jgJjK9iuJCbsrTtfXdRS1itiVQcfp-zxyePQVtvdmE41odjykm3zJJbTUwYuQfmdSj9oFg3WdIQp37U3CaGRqV-xuKL7GBVpMqs-RT28BHCt1SR0waX32AOrCqbFYVI66EnZK-w-KOAnSVLMDbIYTwYUt5LbWL293od7GmP6APsQJNIcsVCidc8aaDI0bfwXir2fF5j7FDw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Gzl0rCxmTAmQx_ZZrTkV2P5LuSTUgaNAoDxBrbG1aDp7iugkdCQiu5JgxKbaL-5-4bnlPJDK4Exu37mES-eQBKQwBm1d-PGiHLkVsAVvP0x1E7qyWTCr5AGbRIsLm99aUxK0IRG7ICPXnOVzbBE8XGy8IYp-yDQX7sNY7Xodiqy4CGCyXFgOGhSfZc9JAbuVn2mCqwh196heENzB9Nf3cOpCZaee5lESlsFrWMH5iemJZBEhLuZpcBLs9A==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkFY0mZ5wdta9CEdJ8S0athm_srLAa7QipIZS5A050CSbAnuP5RnS2m1JdUkSihZ0AiFmYlkjh_U-Hbc0sqUDqLMX4QtBGP9vBIA4wp1oYSEit5BjnFIVaGRSeXn_71ZTUFx3xVUfRfpzZriXL3cNGR9vTdSI1mwYngQ2KLUBJKFIJzRYk9sTxqgXTthLfCr_y1TxRYIP7m3HnoLgGGO6FUY6aD6uI9OLX",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Formula 1 - Qualifiche",
-      "competizione": "F1 - GP Singapore",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8",
-      "note": "Diretta Sky e TV8 (in chiaro)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-0dJwxWbaMRZaMYepdg-4vro94UNdB4AM_a90HU-23PfZQwFCbZWGEiJTJ8IF40UI8CtsnJ-q906CaUoQrJ4tPhHME-Eo-9t5hLMv9bXElG5ubNoEMCpmkQF-mYEF3fRsqsGrL53-vP59jorow2WvjghRDwpTc_r3Ay3Kl-RrWH29cLflRsJvXAhAJoIvA6R67K1nCK4bgsFxh53gUlxaoCf4Ibw2u1PNTc3fhpdObzP6, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG62QD11wEMo0JXkoUif9BnS-1l0pmpBMo9GK74N2oaPVyzPFJq8mqxp2aF_L8Xw2nehNcGz7l0hAWXVALXrYSjAQqAVF0S1vrzTOTuFnXElor8dVOnHtmeGs05AP-qDAwJFloYj6qBtlHXLR9MoLfHzQzMgc7Bd33uoTfzcHofmClg-_oUFPC0Ssjgivw77Xm_dAVnhx1I6Jo9HZUx-RmBNkkjIg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6XS9bu3xeXouWcjGH072vQY1451BF-UuLcxQmCzP9RlzloX463PkIspEKqgEz9Tu1NUvNEl3NH94sZSno_NMmFGdhhNf7NmfL2aCfpt2yTRwrrfJB6-dQ46KSOeLp1APW6s8Tahh3hT4QJTshMkDKTNdG2CmH1jRnMKWrMO50sgUyXKbn",
+      "evento": "F1 GP Singapore: Qualifiche del Gran Premio",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, TV8, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI9YQdV4gWrZ-LqCYXeBzBHlBRZkiwZqRtRP8arQJLqCWSn0Dr4RGQS4BlIOb9LPSprcZVnkSvWZKO88Wezh2dpNcpPjkCUmHK5o9xy2lNo16adRhwz9G-piIANLWac1qpIz-y7WnmTq1ngxYsLz4H-ilKuav4RHtcRvEF6rfM3pyIV9iWb4vjhVhnssODFLUjAbiHJpSl_UG3EOGdpuayXJ1HLQ=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:15",
+      "evento": "F1 GP Singapore: Paddock Live Post Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEejBR4FcWa36WEELv_YbGZUVbsfStulFTIbkInAdypt6i7jLykgBgQMPCjqTbs-8xsBW-TyttAcmxqEZSkhhsQENBO-TKTUNa4fEtY96ov8NOlKoZsAayfRoqs5byR4cZfxPYbYCPJ5P4EvJRu8KK7-VJjl_vWTYW5CZUk5PL5K607M12q",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:45",
+      "evento": "F1 GP Singapore: Paddock Live Show",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEejBR4FcWa36WEELv_YbGZUVbsfStulFTIbkInAdypt6i7jLykgBgQMPCjqTbs-8xsBW-TyttAcmxqEZSkhhsQENBO-TKTUNa4fEtY96ov8NOlKoZsAayfRoqs5byR4cZfxPYbYCPJ5P4EvJRu8KK7-VJjl_vWTYW5CZUk5PL5K607M12q",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
-      "evento": "Formula 1 - Sprint Race (Replica)",
-      "competizione": "F1 - GP Singapore",
-      "canale": "Sky Sport F1 (207)",
+      "evento": "F1 GP Singapore: Replica Sprint Race",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6XS9bu3xeXouWcjGH072vQY1451BF-UuLcxQmCzP9RlzloX463PkIspEKqgEz9Tu1NUvNEl3NH94sZSno_NMmFGdhhNf7NmfL2aCfpt2yTRwrrfJB6-dQ46KSOeLp1APW6s8Tahh3hT4QJTshMkDKTNdG2CmH1jRnMKWrMO50sgUyXKbn",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEejBR4FcWa36WEELv_YbGZUVbsfStulFTIbkInAdypt6i7jLykgBgQMPCjqTbs-8xsBW-TyttAcmxqEZSkhhsQENBO-TKTUNa4fEtY96ov8NOlKoZsAayfRoqs5byR4cZfxPYbYCPJ5P4EvJRu8KK7-VJjl_vWTYW5CZUk5PL5K607M12q",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Calcio: Inter-Parma",
+      "evento": "Calcio Serie A: Inter-Parma",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlOX5I4PYdKL5xHf0lPIpS8kxiEg23Y1zh_39B4ZJkNGb-J-bjsNPRe7z4zou5NQLcku3SWejGssHoVfSbHDvYE3lVhAI2o0VjTjkj3lFdDUy8B1_iRwqEzsdLgQWOdlja7V4hAT6FNsEoGqRpsK0MXJaab8_hWA7K6SwTKVb6y6OXOQaJoKPq8THkCtiGaxqyAW1Voc9mKcUJ3YaQjMQr8R0-cQ2Q3iU5_9U=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Gzl0rCxmTAmQx_ZZrTkV2P5LuSTUgaNAoDxBrbG1aDp7iugkdCQiu5JgxKbaL-5-4bnlPJDK4Exu37mES-eQBKQwBm1d-PGiHLkVsAVvP0x1E7qyWTCr5AGbRIsLm99aUxK0IRG7ICPXnOVzbBEhLuZpcBLs9A==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkFY0mZ5wdta9CEdJ8S0athm_srLAa7QipIZS5A050CSbAnuP5RnS2m1JdUkSihZ0AiFmYlkjh_U-Hbc0sqUDqLMX4QtBGP9vBIA4wp1oYSEit5BjnFIVaGRSeXn_71ZTUFx3xVUfRfpzZriXL3cNGR9vTdSI1mwYngQ2KLUBJKFIJzRYk9sTxqgXTthLfCr_y1TxRYIP7m3HnoLgGGO6FUY6aD6uI9OLX",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:15",
-      "evento": "Formula 1 - Qualifiche (Replica)",
-      "competizione": "F1 - GP Singapore",
-      "canale": "Sky Sport F1 (207)",
+      "evento": "F1 GP Singapore: Replica Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6XS9bu3xeXouWcjGH072vQY1451BF-UuLcxQmCzP9RlzloX463PkIspEKqgEz9Tu1NUvNEl3NH94sZSno_NMmFGdhhNf7NmfL2aCfpt2yTRwrrfJB6-dQ46KSOeLp1APW6s8Tahh3hT4QJTshMkDKTNdG2CmH1jRnMKWrMO50sgUyXKbn",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKxhmLBxSmGfX9Ekh5UZGqfEMGXghZq82m2AKVkapiXJL7bFRAiUTGupxb_Z-MCY6XRP26ddxp5AE3aRcaj8GElMuix3zxFqNdrWO60a703cR1oROZE6VPu3p5Fk71tkXCXyJ-uTirLjKDHZsFa1Aq5OMKoU5RWYXWNttAtFqwYTZDzTa3mKKT3vw=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:30*",
-      "evento": "Volley: Vero Volley Monza vs Rana Verona",
-      "competizione": "Trofeo Ferramenta Astori (Semifinale)",
-      "canale": "",
-      "note": "Orario stimato. La prima semifinale è alle 17:00, questa a seguire.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgmYV6T3MevjW9AdN-9Od2G475WNZbdoTeq9dG2F9q8g2vJg_T6MSwzEn4TXU7Qla7YaLbc6UXRKGF9nJ-JJhusIZyIJ46N6c2XHIw52Epfib7qb9FQwyH86WNewy--6qtazICnlkuI1Nd6h27AQxdxDXlwDR2GBOgSAlgyQawX1F7lVvBHeilshwRjT94fgLmVYBjVT9H9YWKMuogvKuSPOYbBO5vuu502FF6QA==",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "20:45",
-      "evento": "Calcio: Napoli-Frosinone",
+      "evento": "Calcio Serie A: Napoli-Frosinone",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJZiCgCSg3KMrr4DU6Q8qarGM4Q5_rl8O42I5HdcYr13VlIIQAYN_PVnvCizBYeYWeic7jaz6PoNbqIMVkP-Zr4mxEqVXkSagA21InsDMZ0C3uFJRPVxXfkmYhF5AaXOisV7SjR5rqYMXZLqusiM-haL173r8VBHChfCfohHo7tEimcJXQKBXwtv75s-Q=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0L25K0H0MFqrLjhtcKalZYHaHi8t1PaPWxKsIDWVRyGGnGFy73QFMZXXh1MQMkV7grCwdAzRBMJ9ZC_xbtteD2U83j-1cfydXHsY1uc9yH0X5SSjSSkWBPFdb4I3O38tIb1een5Rp4nQ9cxQ-rq7hYl48PfTtnm3HSd2NGHrvTGvlyqDTVQw=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlOX5I4PYdKL5xHf0lPIpS8kxiEg23Y1zh_39B4ZJkNGb-J-bjsNPRe7z4zou5NQLcku3SWejGssHoVfSbHDvYE3lVhAI2o0VjTjkj3lFdDUy8B1_iRwqEzsdLgQWOdlja7V4hAT6FNsEoGqRpsK0MXJaab8_hWA7K6SwTKVb6y6OXOQaJoKPq8THkCtiGaxqyAW1Voc9mKcUJ3YaQjMQr8R0-cQ2Q3iU5_9U=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCN2jB7xOK6jb0bwKKC7aaAVnBg4f1ZNeOeSC3MK0pOvSaf2sO9gsdv9_VG_NKG6_HivOF_OLI01Dw2e1iM0rI0x7kWut3vleEXpBLvGiPKhTsmoYz4gcjGJG-Cl-tno-JBbUOIaC6caM7YDJCkV71lOPQVldt-50tzhg-If7JvI3qJxhk5dgU9MICkMkWTwJyt0-5JQlYDmNjLV4fjaEHBR4fU82XRtZPUXhaYkBb5E=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Gzl0rCxmTAmQx_ZZrTkV2P5LuSTUgaNAoDxBrbG1aDp7iugkdCQiu5JgxKbaL-5-4bnlPJDK4Exu37mES-eQBKQwBm1d-PGiHLkVsAVvP0x1E7qyWTCr5AGbRIsLm99aUxK0IRG7ICPXnOVzbBEhLuZpcBLs9A==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENA-svEqarlhO8JBRLiE84QluM_C7G7L_wB769ngUV5Y038KNeMjwpt0BH6NFdtxQd2JL11KdlM4-Ea727PrrofnNCeEPp20XDTRMAy1Abei-N6ph98tOiCzIGB2AzrvLukqyx6MSoJY_bTJo8RLTO8ibWUIq9AwOgsBxpOOebhqAvUKmpdxY=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:00",
-      "evento": "Formula 1 - Qualifiche (Replica)",
-      "competizione": "F1 - GP Singapore",
-      "canale": "Sky Sport F1 (207)",
+      "evento": "F1 GP Singapore: Replica Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6XS9bu3xeXouWcjGH072vQY1451BF-UuLcxQmCzP9RlzloX463PkIspEKqgEz9Tu1NUvNEl3NH94sZSno_NMmFGdhhNf7NmfL2aCfpt2yTRwrrfJB6-dQ46KSOeLp1APW6s8Tahh3hT4QJTshMkDKTNdG2CmH1jRnMKWrMO50sgUyXKbn",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKxhmLBxSmGfX9Ekh5UZGqfEMGXghZq82m2AKVkapiXJL7bFRAiUTGupxb_Z-MCY6XRP26ddxp5AE3aRcaj8GElMuix3zxFqNdrWO60a703cR1oROZE6VPu3p5Fk71tkXCXyJ-uTirLjKDHZsFa1Aq5OMKoU5RWYXWNttAtFqwYTZDzTa3mKKT3vw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:45",
+      "evento": "MotoGP GP Indonesia: Replica Sprint Race",
+      "competizione": "MotoGP",
+      "canale": "TV8",
+      "note": "Valido per il giorno successivo, fino alle 06:00 CET.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxZhvPPMEYHoXbWHSMFUgNi3IiUoUThgiFQ_dNBCaKXNTHmv2KFuJGFUPa2qhAQZLJV8U2oRrzrYaw-eV_i78AwRR7Sdll4AAAVSMM1dN53BqYbn7SH-jES0JGA3AEjQL5YRFYJkIrpz7EOWBc-by4FHD7LRGgeLN53vZC-TYUeJjnw6aQFzi4GRt3ZNswZ9Iu3oKhghJ5dbgBjyT3Tt4eeUPAI1TGLXWSrBega0XIf6WaHbQJwBiYaLJO2ZQmbRpkOdQbQE-9mrZ8S7RHMghY_bNmxUqePNrRJ8MuCGb_s5NJb4ax401hiYm1wmIX_BO8UA=",
       "accuratezza_orario": "esatto"
     }
   ]
