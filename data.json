@@ -1,149 +1,86 @@
 {
-  "last_updated": "2026-10-12T15:46:58.711260+02:00",
+  "last_updated": "2026-10-13T01:55:33.519333+02:00",
   "events": [
     {
-      "orario": "05:00",
-      "evento": "WTA 1000 Wuhan, 1° turno: Paolini (ITA) vs Bejlek (CZE)",
-      "competizione": "Tennis WTA 1000",
-      "canale": "Sky Sport Arena, SuperTennis",
-      "note": "Match già iniziato/concluso al momento della richiesta, ma rientrante nella fascia oraria richiesta (dalle 00:00 CET del 12/10/2026).",
-      "fonte": "Sport in tv oggi (lunedì 12 ottobre): orari e programma. Dove vedere gli eventi in streaming, Ranking WTA: Paolini scende al n.33, “best” Andreeva, Rybakina sempre regina",
+      "orario": "03:30",
+      "evento": "UEFA Champions League 2026/2027 - Inter - Club Bruges (2a g.)",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica/Highlights",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEbIjAf-YFSU9jHYuIzRU3TYG57AlSN8F47Hy6EAjBoXprFdUhh1FCJdnvtOc1IdZu86RNxTJYuTrCn8fsblfaAX_XC4ifvpEtXY6_tYDqqPgA2zDjy0X9xbrnZma5BRJY6pWjoT6AziJbvd8rI5vqww9lvtsLYzeh2R5-xADa8Q==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "ATP Masters 1000 Shanghai, 6a giornata",
-      "competizione": "Tennis ATP Masters 1000",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Copertura generale del torneo con attesa presenza di giocatori italiani.",
-      "fonte": "Sport in tv oggi (lunedì 12 ottobre): orari e programma. Dove vedere gli eventi in streaming, Guida programmi tv Sky Sport Uno - Il Palinsesto di oggi",
+      "evento": "UEFA Champions League 2026/2027",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica/Highlights",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEbIjAf-YFSU9jHYuIzRU3TYG57AlSN8F47Hy6EAjBoXprFdUhh1FCJdnvtOc1IdZu86RNxTJYuTrCn8fsblfaAX_XC4ifvpEtXY6_tYDqqPgA2zDjy0X9xbrnZma5BRJY6pWjoT6AziJbvd8rI5vqww9lvtsLYzeh2R5-xADa8Q==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:30",
-      "evento": "Challenger Olbia, Giorno 1",
-      "competizione": "Tennis Challenger",
-      "canale": "DAZN",
-      "note": "Torneo Challenger in Italia, attesa presenza di giocatori italiani.",
-      "fonte": "Sport in TV oggi, lunedì 12 ottobre 2026: orari e canali di calcio, tennis e basket",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Challenger Olbia",
-      "competizione": "Tennis Challenger",
-      "canale": "SuperTennis",
-      "note": "Torneo Challenger in Italia, attesa presenza di giocatori italiani.",
-      "fonte": "Sport in tv oggi (lunedì 12 ottobre): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Amichevole Italia-Francia Under 23 femminile",
-      "competizione": "Calcio Amichevole Internazionale",
-      "canale": "Vivoazzurro.tv",
-      "note": "Streaming online.",
-      "fonte": "Sport in tv oggi (lunedì 12 ottobre): orari e programma. Dove vedere gli eventi in streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Cagliari-Monza",
-      "competizione": "Campionato Primavera 1",
-      "canale": "Sportitalia",
+      "orario": "11:15",
+      "evento": "UEFA Champions League Magazine",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sport in tv oggi (lunedì 12 ottobre): orari e programma. Dove vedere gli eventi in streaming",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEbIjAf-YFSU9jHYuIzRU3TYG57AlSN8F47Hy6EAjBoXprFdUhh1FCJdnvtOc1IdZu86RNxTJYuTrCn8fsblfaAX_XC4ifvpEtXY6_tYDqqPgA2zDjy0X9xbrnZma5BRJY6pWjoT6AziJbvd8rI5vqww9lvtsLYzeh2R5-xADa8Q==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Sassuolo-Albinoleffe",
-      "competizione": "Campionato Primavera 1",
-      "canale": "Sportitalia",
+      "orario": "12:00",
+      "evento": "Studio Tennis",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sport in tv oggi (lunedì 12 ottobre): orari e programma. Dove vedere gli eventi in streaming",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEbIjAf-YFSU9jHYuIzRU3TYG57AlSN8F47Hy6EAjBoXprFdUhh1FCJdnvtOc1IdZu86RNxTJYuTrCn8fsblfaAX_XC4ifvpEtXY6_tYDqqPgA2zDjy0X9xbrnZma5BRJY6pWjoT6AziJbvd8rI5vqww9lvtsLYzeh2R5-xADa8Q==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Atalanta-Venezia",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
+      "orario": "18:15",
+      "evento": "Italia-Bielorussia femminile",
+      "competizione": "Playoff Mondiale",
+      "canale": "Rai 2",
       "note": "",
-      "fonte": "Le partite di Serie A di oggi, il calendario e gli orari della 6^ giornata - Sky Sport, Il calendario completo della Serie A Enilive 2026/27, da guardare interamente su DAZN: tutte le 38 giornate, Calendario | Serie A Enilive, Serie A oggi lunedì 12 ottobre 2026: partite, probabili formazioni e dove vederle in TV, Il calcio in TV oggi, lunedì 12 ottobre: Atalanta-Venezia e Torino-Udinese, dove vederle live",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9kxNORivl4fTKUm4FJnSjymmTxV-BI6pvv8BShnM2vCv49GBsjAnSCzn0fDpDGpLGlqoHWjW5PrZPxJ1IFISjXEvrWzyVlED1fXIjticmYuBrsv-jBi1BvH-9Uuzce37aBFugUagzfljf2YV4Ece2J4LhR7SvzHgl9JdpWZVrZAoRlIJjAQDAHo9bIWypvAOAe0MrW82241wTpHnLSxcVsVv3FFdpdjHIwg_J8URsfQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "L'Originale",
-      "competizione": "Calcio Studio Serie A",
-      "canale": "Sky Sport",
-      "note": "Programma di approfondimento sulla Serie A.",
-      "fonte": "Le partite di Serie A di oggi, il calendario e gli orari della 6^ giornata - Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Sky Calcio - L'originale",
-      "competizione": "Calcio Studio Serie A",
-      "canale": "Sky Sport Calcio",
-      "note": "Programma di approfondimento sulla Serie A.",
-      "fonte": "Sport in TV oggi, lunedì 12 ottobre 2026: orari e canali di calcio, tennis e basket",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Torino-Udinese",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN",
+      "orario": "18:45",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport (canale 251), NOW",
       "note": "",
-      "fonte": "Le partite di Serie A di oggi, il calendario e gli orari della 6^ giornata - Sky Sport, Il calendario completo della Serie A Enilive 2026/27, da guardare interamente su DAZN: tutte le 38 giornate, Calendario | Serie A Enilive, Serie A oggi lunedì 12 ottobre 2026: partite, probabili formazioni e dove vederle in TV, Il calcio in TV oggi, lunedì 12 ottobre: Atalanta-Venezia e Torino-Udinese, dove vederle live, Sport in TV oggi, lunedì 12 ottobre 2026: orari e canali di calcio, tennis e basket",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9kxNORivl4fTKUm4FJnSjymmTxV-BI6pvv8BShnM2vCv49GBsjAnSCzn0fDpDGpLGlqoHWjW5PrZPxJ1IFISjXEvrWzyVlED1fXIjticmYuBrsv-jBi1BvH-9Uuzce37aBFugUagzfljf2YV4Ece2J4LhR7SvzHgl9JdpWZVrZAoRlIJjAQDAHo9bIWypvAOAe0MrW82241wTpHnLSxcVsVv3FFdpdjHIwg_J8URsfQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Sky Calcio Show",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Pre-partita Champions League",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEbIjAf-YFSU9jHYuIzRU3TYG57AlSN8F47Hy6EAjBoXprFdUhh1FCJdnvtOc1IdZu86RNxTJYuTrCn8fsblfaAX_XC4ifvpEtXY6_tYDqqPgA2zDjy0X9xbrnZma5BRJY6pWjoT6AziJbvd8rI5vqww9lvtsLYzeh2R5-xADa8Q==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Coventry City-Newcastle",
-      "competizione": "Premier League",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "Il calcio in TV oggi, lunedì 12 ottobre: Atalanta-Venezia e Torino-Udinese, dove vederle live, Sport in TV oggi, lunedì 12 ottobre 2026: orari e canali di calcio, tennis e basket",
+      "evento": "UEFA Champions League 2026/2027 - Inter - Club Bruges (2a g.)",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Go, NOW",
+      "note": "Squadra italiana",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM2PBYVooGwRnBw8QiDGtDN0NfVf32v6Q6IRC0fUqnb7c5--pvUDnDEgB_ICockYLl2KQueAk89a9TCGrWQXM4y9ls4XQjeADWmFVMLA_CosPVxiWr64rH3lDwqU8sWsd0Rn4q0JozO3E1jq3xUOJWLoiIAdhvxvwJ5kExzitG8Y_pdW0YhM5fFZnaSmIeg-OdQTSKkEYQkGzr, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9kxNORivl4fTKUm4FJnSjymmTxV-BI6pvv8BShnM2vCv49GBsjAnSCzn0fDpDGpLGlqoHWjW5PrZPxJ1IFISjXEvrWzyVlED1fXIjticmYuBrsv-jBi1BvH-9Uuzce37aBFugUagzfljf2YV4Ece2J4LhR7SvzHgl9JdpWZVrZAoRlIJjAQDAHo9bIWypvAOAe0MrW82241wTpHnLSxcVsVv3FFdpdjHIwg_J8URsfQ==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:45",
-      "evento": "L'Originale",
-      "competizione": "Calcio Studio Serie A",
-      "canale": "Sky Sport",
-      "note": "Programma di approfondimento sulla Serie A.",
-      "fonte": "Le partite di Serie A di oggi, il calendario e gli orari della 6^ giornata - Sky Sport",
+      "orario": "20:45",
+      "evento": "Sky Calcio Show",
+      "competizione": "Calcio",
+      "canale": "Sky Sport Uno",
+      "note": "Post-partita Champions League",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEbIjAf-YFSU9jHYuIzRU3TYG57AlSN8F47Hy6EAjBoXprFdUhh1FCJdnvtOc1IdZu86RNxTJYuTrCn8fsblfaAX_XC4ifvpEtXY6_tYDqqPgA2zDjy0X9xbrnZma5BRJY6pWjoT6AziJbvd8rI5vqww9lvtsLYzeh2R5-xADa8Q==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Sky Calcio - L'originale",
-      "competizione": "Calcio Studio Serie A",
-      "canale": "Sky Sport Calcio",
-      "note": "Programma di approfondimento sulla Serie A.",
-      "fonte": "Sport in TV oggi, lunedì 12 ottobre 2026: orari e canali di calcio, tennis e basket",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00*",
-      "evento": "WTA 1000 Wuhan, 2a Giornata",
-      "competizione": "Tennis WTA 1000",
-      "canale": "SuperTennis",
-      "note": "Orario stimato, la programmazione specifica dei match potrebbe variare. Rientra nella fascia oraria notturna fino alle 06:00 del giorno successivo.",
-      "fonte": "Sport in TV oggi, lunedì 12 ottobre 2026: orari e canali di calcio, tennis e basket",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "05:00*",
-      "evento": "ATP 1000 Shanghai, 2a Giornata",
-      "competizione": "Tennis ATP Masters 1000",
-      "canale": "Sky Sport Tennis",
-      "note": "Orario stimato, la programmazione specifica dei match potrebbe variare. Rientra nella fascia oraria notturna fino alle 06:00 del giorno successivo. Attesa presenza di giocatori italiani.",
-      "fonte": "Sport in TV oggi, lunedì 12 ottobre 2026: orari e canali di calcio, tennis e basket",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
