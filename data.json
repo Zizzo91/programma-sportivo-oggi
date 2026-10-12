@@ -1,130 +1,112 @@
 {
-  "last_updated": "2026-10-11T18:56:33.745708+02:00",
+  "last_updated": "2026-10-12T05:04:20.781681+02:00",
   "events": [
     {
-      "orario": "04:40",
-      "evento": "MotoGP GP Indonesia: Warm Up",
-      "competizione": "MotoGP 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmFg_PldTqwAbPTpc-VSOCW-vOR2wqwMh5QPC-SmbWhPfaZs6x6e-8puna8q-x4j24RDTjGYSL02aG-kfMsD83yxt3FHBlq5bcb7AQZ_K791mQGTpWdwCX6VXsys9QDbg1f8u578eR0cBsz3zSXCskpL-ySTq6hAg4TuLyo_zXl30vVSQpRkzuEXeq0Zyrwq0u_Z2S9iTEWdOHM0=",
+      "orario": "00:00",
+      "evento": "MotoGP 2026 - GP Indonesia: Gara",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara di domenica 11 ottobre",
+      "fonte": "https://www.quiestasera.it/guida-tv/sky-sport-arena/motogp-2026-gp-indonesia-gara/27/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30",
+      "evento": "Mondiale Formula 1 2026 - GP Singapore: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara di domenica 11 ottobre",
+      "fonte": "https://www.quiestasera.it/guida-tv/sky-sport-uno/mondiale-formula-1-2026-gp-singapore-gara/27/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "F1 Debriefing",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Analisi post-gara GP Singapore",
+      "fonte": "https://www.quiestasera.it/guida-tv/sky-sport-uno/f1-debriefing/27/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Race Anatomy F1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Analisi post-gara GP Singapore",
+      "fonte": "https://www.quiestasera.it/guida-tv/sky-sport-uno/race-anatomy-f1/27/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "Moto3 GP Indonesia: Gara",
-      "competizione": "Moto3 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmFg_PldTqwAbPTpc-VSOCW-vOR2wqwMh5QPC-SmbWhPfaZs6x6e-8puna8q-x4j24RDTjGYSL02aG-kfMsD83yxt3FHBlq5bcb7AQZ_K791mQGTpWdwCX6VXsys9QDbg1f8u578eR0cBsz3zSXCskpL-ySTq6hAg4TuLyo_zXl30vVSQpRkzuEXeq0Zyrwq0u_Z2S9iTEWdOHM0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYPNaRhbDLwHE7olq0OPlUU5_dtNE0zFAGbCN9qvNSqVTPnXcfs0fJIrgChACm_7_B0hCgPpFJWoWcIgDPaFfg5Oll4sUVNTTHZ_0c0ZmP1jSqDjwgmCm5fHpv8L5Muqeanzf7TCWChARzq0KhYtnhQmYa",
+      "evento": "ATP 1000 Shanghai 2026 - 6a giornata",
+      "competizione": "Tennis ATP 1000",
+      "canale": "Sky Sport Uno",
+      "note": "Include match con giocatori italiani (Berrettini, Cobolli, Musetti, Darderi, Arnaldi)",
+      "fonte": "https://www.guidatv.info/sky-sport-uno/serie-a-20262027-torino-udinese-6a-g-",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00*",
-      "evento": "Tennis: Bolelli/Vavassori - Krajicek/Mektic (Doppio, Sedicesimi)",
-      "competizione": "ATP Masters 1000 Shanghai 2026",
-      "canale": "Sky Sport Tennis, Sky Sport Arena, Sky Go, NOW, Tennis TV",
-      "note": "Terzo match della giornata. Orario stimato in base all'inizio del programma.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmFg_PldTqwAbPTpc-VSOCW-vOR2wqwMh5QPC-SmbWhPfaZs6x6e-8puna8q-x4j24RDTjGYSL02aG-kfMsD83yxt3FHBlq5bcb7AQZ_K791mQGTpWdwCX6VXsys9QDbg1f8u578eR0cBsz3zSXCskpL-ySTq6hAg4TuLyo_zXl30vVSQpRkzuEXeq0Zyrwq0u_Z2S9iTEWdOHM0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHty8Gr2Fk6EhugEZuoc2ag_aAAz06rTiMuYOihQ2UZ76eyDZMWHiPvPw0Eb57beNIjxR9EAL3io_fHceUNUet0mPRJ_ZOxSyknAdk6yGBt8R9yBVjptbQ1kPyrv6O1WwlX-MbSAjEZXaYH6F6bquOrqR7T-_g=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "07:15",
-      "evento": "Moto2 GP Indonesia: Gara",
-      "competizione": "Moto2 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmFg_PldTqwAbPTpc-VSOCW-vOR2wqwMh5QPC-SmbWhPfaZs6x6e-8puna8q-x4j24RDTjGYSL02aG-kfMsD83yxt3FHBlq5bcb7AQZ_K791mQGTpWdwCX6VXsys9QDbg1f8u578eR0cBsz3zSXCskpL-ySTq6hAg4TuLyo_zXl30vVSQpRkzuEXeq0Zyrwq0u_Z2S9iTEWdOHM0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYPNaRhbDLwHE7olq0OPlUU5_dtNE0zFAGbCN9qvNSqVTPnXcfs0fJIrgChACm_7_B0hCgPpFJWoWcIgDPaFfg5Oll4sUVNTTHZ_0c0ZmP1jSqDjwgmCm5fHpv8L5Muqeanzf7TCWChARzq0KhYtnhQmYa",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:45",
-      "evento": "MotoGP GP Indonesia: Sprint Race",
-      "competizione": "MotoGP 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyF5VpKQOLuIzAw0TSH9mR_rCajOjt5RI5JBagEagoPpk9T6uBeNnppsDYmb-cPGEvYQ4w1e9_F0VbkI3XDWz-SyT7p6WYFE-iOCmMT3cwT2fJqZiyB9V5CCzH6j1HFz-aJcS54YSA_70YOgXQlIbLgWoe-mKH5XZ6EycpShjPJD1m",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Moto3 GP Indonesia: Gara (Replica/Differita)",
-      "competizione": "Moto3 2026",
-      "canale": "TV8 HD, tv8.it",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmFg_PldTqwAbPTpc-VSOCW-vOR2wqwMh5QPC-SmbWhPfaZs6x6e-8puna8q-x4j24RDTjGYSL02aG-kfMsD83yxt3FHBlq5bcb7AQZ_K791mQGTpWdwCX6VXsys9QDbg1f8u578eR0cBsz3zSXCskpL-ySTq6hAg4TuLyo_zXl30vVSQpRkzuEXeq0Zyrwq0u_Z2S9iTEWdOHM0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyF5VpKQOLuIzAw0TSH9mR_rCajOjt5RI5JBagEagoPpk9T6uBeNnppsDYmb-cPGEvYQ4w1e9_F0VbkI3XDWz-SyT7p6WYFE-iOCmMT3cwT2fJqZiyB9V5CCzH6j1HFz-aJcS54YSA_70YOgXQlIbLgWoe-mKH5XZ6EycpShjPJD1m",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Moto2 GP Indonesia: Gara (Replica/Differita)",
-      "competizione": "Moto2 2026",
-      "canale": "TV8 HD, tv8.it",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmFg_PldTqwAbPTpc-VSOCW-vOR2wqwMh5QPC-SmbWhPfaZs6x6e-8puna8q-x4j24RDTjGYSL02aG-kfMsD83yxt3FHBlq5bcb7AQZ_K791mQGTpWdwCX6VXsys9QDbg1f8u578eR0cBsz3zSXCskpL-ySTq6hAg4TuLyo_zXl30vVSQpRkzuEXeq0Zyrwq0u_Z2S9iTEWdOHM0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyF5VpKQOLuIzAw0TSH9mR_rCajOjt5RI5JBagEagoPpk9T6uBeNnppsDYmb-cPGEvYQ4w1e9_F0VbkI3XDWz-SyT7p6WYFE-iOCmMT3cwT2fJqZiyB9V5CCzH6j1HFz-aJcS54YSA_70YOgXQlIbLgWoe-mKH5XZ6EycpShjPJD1m",
+      "orario": "12:00",
+      "evento": "ATP 1000 Shanghai 2026 - 6a giornata",
+      "competizione": "Tennis ATP 1000",
+      "canale": "Sky Sport Uno",
+      "note": "Include match con giocatori italiani (Berrettini, Cobolli, Musetti, Darderi, Arnaldi)",
+      "fonte": "https://www.guidatv.info/sky-sport-uno/serie-a-20262027-torino-udinese-6a-g-",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "12:30",
-      "evento": "Calcio: Como-Roma",
-      "competizione": "Serie A 2026/2027",
-      "canale": "DAZN 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFboGmhzqXlqKxXrikEg67O4FTpvfE2vS1czY4MK0t2S2cYJfb2ABKIDLA0tCvvhNYTpc9xI2AZnCzYkrllHpw85bF07y9tKVSkHX9oEVi6HTgSuEexubt1-gZ_qszDNqlf4wE0F6uwBpPFH72hQzZ3ORvHTGBDYEPizmX-CKGExrf-3qrwGqI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwc2NIYjfdWInOW4qM70-7wWcGbWINn-Q8966xBOt8pNcmOClGyCVBviTFzvlp3DgL86aR14oyp4M-RW2aNarbqb053tR1xMTP73sVqp1ECCOIEa9d4-NnY6ama5meioeK5YKZZC9OrjiGXz_5itJqI6TckXrzkDfXYJxync9JTKO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE831-50ocoW7B2DbO-EzvkjQ9Ynb8EHkOzXDBwsSpjwUWcRSoighRpZC_PKUb7GTAhsKgl7UE7QEmNiGN05uZkw6ECr9fQJPg0TJr3d9IwDLcvNT2elJhLTmWpTuGxPngIu750AEitLs_YOhjP17qss6St74uq0f_P1RlF35RBOVGvX2qN62jk-wMubtL53ewe-4ikipigG3xTq0Ejkne7f0Sp0mEgM_BPQO5-E6-o",
+      "evento": "Olbia Challenger | Giorno 2",
+      "competizione": "Tennis Challenger",
+      "canale": "DAZN",
+      "note": "Torneo con partecipazione di giocatori italiani (es. Guerrieri, Carboni, Massellani, Pieri)",
+      "fonte": "https://www.guidatv.info/dazn/olbia-challenger-giorno-2",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "MotoGP GP Indonesia: Gara",
-      "competizione": "MotoGP 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyF5VpKQOLuIzAw0TSH9mR_rCajOjt5RI5JBagEagoPpk9T6uBeNnppsDYmb-cPGEvYQ4w1e9_F0VbkI3XDWz-SyT7p6WYFE-iOCmMT3cwT2fJqZiyB9V5CCzH6j1HFz-aJcS54YSA_70YOgXQlIbLgWoe-mKH5XZ6EycpShjPJD1m",
+      "orario": "16:30",
+      "evento": "ATP 1000 Shanghai 2026 - 6a giornata",
+      "competizione": "Tennis ATP 1000",
+      "canale": "Sky Sport Uno",
+      "note": "Include match con giocatori italiani (Berrettini, Cobolli, Musetti, Darderi, Arnaldi)",
+      "fonte": "https://www.guidatv.info/sky-sport-uno/serie-a-20262027-torino-udinese-6a-g-",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Calcio: Lazio-Monza",
-      "competizione": "Serie A 2026/2027",
-      "canale": "DAZN 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFboGmhzqXlqKxXrikEg67O4FTpvfE2vS1czY4MK0t2S2cYJfb2ABKIDLA0tCvvhNYTpc9xI2AZnCzYkrllHpw85bF07y9tKVSkHX9oEVi6HTgSuEexubt1-gZ_qszDNqlf4wE0F6uwBpPFH72hQzZ3ORvHTGBDYEPizmX-CKGExrf-3qrwGqI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwc2NIYjfdWInOW4qM70-7wWcGbWINn-Q8966xBOt8pNcmOClGyCVBviTFzvlp3DgL86aR14oyp4M-RW2aNarbqb053tR1xMTP73sVqp1ECCOIEa9d4-NnY6ama5meioeK5YKZZC9OrjiGXz_5itJqI6TckXrzkDfXYJxync9JTKO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE831-50ocoW7B2DbO-EzvkjQ9Ynb8EHkOzXDBwsSpjwUWcRSoighRpZC_PKUb7GTAhsKgl7UE7QEmNiGN05uZkw6ECr9fQJPg0TJr3d9IwDLcvNT2elJhLTmWpTuGxPngIu750AEitLs_YOhjP17qss6St74uq0f_P1RlF35RBOVGvX2qN62jk-wMubtL53ewe-4ikipigG3xTq0Ejkne7f0Sp0mEgM_BPQO5-E6-o",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Calcio: Lecce-Bologna",
-      "competizione": "Serie A 2026/2027",
-      "canale": "DAZN 2",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFboGmhzqXlqKxXrikEg67O4FTpvfE2vS1czY4MK0t2S2cYJfb2ABKIDLA0tCvvhNYTpc9xI2AZnCzYkrllHpw85bF07y9tKVSkHX9oEVi6HTgSuEexubt1-gZ_qszDNqlf4wE0F6uwBpPFH72hQzZ3ORvHTGBDYEPizmX-CKGExrf-3qrwGqI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwc2NIYjfdWInOW4qM70-7wWcGbWINn-Q8966xBOt8pNcmOClGyCVBviTFzvlp3DgL86aR14oyp4M-RW2aNarbqb053tR1xMTP73sVqp1ECCOIEa9d4-NnY6ama5meioeK5YKZZC9OrjiGXz_5itJqI6TckXrzkDfXYJxync9JTKO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE831-50ocoW7B2DbO-EzvkjQ9Ynb8EHkOzXDBwsSpjwUWcRSoighRpZC_PKUb7GTAhsKgl7UE7QEmNiGN05uZkw6ECr9fQJPg0TJr3d9IwDLcvNT2elJhLTmWpTuGxPngIu750AEitLs_YOhjP17qss6St74uq0f_P1RlF35RBOVGvX2qN62jk-wMubtL53ewe-4ikipigG3xTq0Ejkne7f0Sp0mEgM_BPQO5-E6-o",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Formula 1 GP Singapore: Gara",
-      "competizione": "Formula 1 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyF5VpKQOLuIzAw0TSH9mR_rCajOjt5RI5JBagEagoPpk9T6uBeNnppsDYmb-cPGEvYQ4w1e9_F0VbkI3XDWz-SyT7p6WYFE-iOCmMT3cwT2fJqZiyB9V5CCzH6j1HFz-aJcS54YSA_70YOgXQlIbLgWoe-mKH5XZ6EycpShjPJD1m",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Calcio: Sassuolo-Milan",
-      "competizione": "Serie A 2026/2027",
-      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFboGmhzqXlqKxXrikEg67O4FTpvfE2vS1czY4MK0t2S2cYJfb2ABKIDLA0tCvvhNYTpc9xI2AZnCzYkrllHpw85bF07y9tKVSkHX9oEVi6HTgSuEexubt1-gZ_qszDNqlf4wE0F6uwBpPFH72hQzZ3ORvHTGBDYEPizmX-CKGExrf-3qrwGqI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKF6DhStqXIaUQs26AxeEdww4uHAuqrDOzqO3hV27Tob3u2P0LItD-5YkaM3eEzJzVUOzTP9KkYEScfyoNhvBA3JdMXfPf9c_Zh9rAkvvGV0ImLcSzdN87Pw2vQutWk8RM_27tMh-ASq02JKivgzEg0dZLP6XiS5cXR_Wnm4ACMYcl3KzmeONmd_jx59g=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwc2NIYjfdWInOW4qM70-7wWcGbWINn-Q8966xBOt8pNcmOClGyCVBviTFzvlp3DgL86aR14oyp4M-RW2aNarbqb053tR1xMTP73sVqp1ECCOIEa9d4-NnY6ama5meioeK5YKZZC9OrjiGXz_5itJqI6TckXrzkDfXYJxync9JTKO, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE831-50ocoW7B2DbO-EzvkjQ9Ynb8EHkOzXDBwsSpjwUWcRSoighRpZC_PKUb7GTAhsKgl7UE7QEmNiGN05uZkw6ECr9fQJPg0TJr3d9IwDLcvNT2elJhLTmWpTuGxPngIu750AEitLs_YOhjP17qss6St74uq0f_P1RlF35RBOVGvX2qN62jk-wWubtL53ewe-4ikipigG3xTq0Ejkne7f0Sp0mEgM_BPQO5-E6-o",
+      "orario": "18:30",
+      "evento": "Atalanta-Venezia",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "6ª giornata di campionato",
+      "fonte": "https://www.goal.com/it/liste/calendario-serie-a-dazn-sky/blt022359489f07a21f#cs17",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio: Cagliari-Juventus",
-      "competizione": "Serie A 2026/2027",
-      "canale": "DAZN 1",
-      "note": "Esclusiva DAZN.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFboGmhzqXlqKxXrikEg67O4FTpvfE2vS1czY4MK0t2S2cYJfb2ABKIDLA0tCvvhNYTpc9xI2AZnCzYkrllHpw85bF07y9tKVSkHX9oEVi6HTgSuEexubt1-gZ_qszDNqlf4wE0F6uwBpPFH72hQzZ3ORvHTGBDYEPizmX-CKGExrf-3qrwGqI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ1w_PO16MIcFHnld-QPjGNssshlGvYXMbrouMfAagNAwsq6BCJDXsrv3auO3zuQ-K7jg_b6nj9X1dpk4ZdcAAy35h7_ktX8tzgq4L8Ak05hOcZXoXNqvQTQ1Cwxt82y5OPPrpG8jwYtvN2L9Bxob-4ZUrnbqUc8uwsVL5kL4z_2pCDUUndvpONjb5qzcZY0Pfe0ZsIcHain00-wuIkDUQbPAb2AUkh5BaOX, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE831-50ocoW7B2DbO-EzvkjQ9Ynb8EHkOzXDBwsSpjwUWcRSoighRpZC_PKUb7GTAhsKgl7UE7QEmNiGN05uZkw6ECr9fQJPg0TJr3d9IwDLcvNT2elJhLTmWpTuGxPngIu750AEitLs_YOhjP17qss6St74uq0f_P1RlF35RBOVGvX2qN62jk-wMubtL53ewe-4ikipigG3xTq0Ejkne7f0Sp0mEgM_BPQO5-E6-o",
+      "evento": "Torino-Udinese",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "note": "6ª giornata di campionato",
+      "fonte": "https://www.goal.com/it/liste/calendario-serie-a-dazn-sky/blt022359489f07a21f#cs17",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "WTA 1000 Wuhan (replica)",
+      "competizione": "Tennis WTA 1000",
+      "canale": "SuperTennis",
+      "note": "Replica di match del torneo con partecipazione di Jasmine Paolini e Sara Errani (doppio)",
+      "fonte": "https://programmitv.com/sport-in-tv/lunedi/2026-10-12/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "WTA 1000 Wuhan (replica)",
+      "competizione": "Tennis WTA 1000",
+      "canale": "SuperTennis",
+      "note": "Replica di match del torneo con partecipazione di Jasmine Paolini e Sara Errani (doppio)",
+      "fonte": "https://programmitv.com/sport-in-tv/lunedi/2026-10-12/",
       "accuratezza_orario": "esatto"
     }
   ]
