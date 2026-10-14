@@ -1,121 +1,121 @@
 {
-  "last_updated": "2026-10-14T04:31:42.224365+02:00",
+  "last_updated": "2026-10-14T23:05:21.003735+02:00",
   "events": [
     {
-      "orario": "01:30",
-      "evento": "UEFA Champions League 2026/2027 - Feyenoord - Como (2a g.)",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH7QJk--yhk5f82921kbaFSfM87kxXkfFUaUfn8HksN5sitmdwr91OAVU96128dMRetWo0uIp4XXtMGpY5WATsnp5zlIOIdNukM495LSCpiyBZquUkh5WMX3ISZaI0qzwOEpKJouOaJJESi3bWHzsr00P8wEzC3YM_JbNsSHJDUyd0_zAbJRXdmBoL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8sHeAuBaY7DtZ8JJgmjtuZO6UMsgTemPHjYdTCdGWuEESKDylbgSHwrRn-ew_rEfoAgqQx86lbuSnkIKo_mfQJhgmRPhN8a7C1slgyDNn29n2eRTSsRiC-QFYuTRprW2UR3zrXqI9QMraqG4sSYEAfC6N5y6xRlcTuxuAKlxq8aRXz1wgtIF52wuWhxVy71glFgMVPzmNGATHbndFfg==",
-      "accuratezza_orario": "esatto"
+      "orario": "05:00*",
+      "evento": "WTA 1000 Wuhan: Secondo turno (Jasmine Paolini vs Nikola Bartunkova)",
+      "competizione": "Tennis - WTA Wuhan",
+      "canale": "SuperTennis HD, Sky Sport Tennis (203)",
+      "note": "Programma dalle 05:00 CET, Paolini 2° match. Match già concluso con vittoria di Paolini.",
+      "fonte": "OA Sport, Sky Sport, SuperTennis.tv",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "04:00",
-      "evento": "UEFA Champions League 2026/2027 - Inter - Club Bruges (2a g.)",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzIX87P50wMFRKMxwx-hkeImUnaJpG6vbxyytZkUxf3GPBpnLazm7GlrFNm9NWDFVmpP3CAIikhZCzBYnDRi3sYbpv-PiuhnqWP7nXJ-3WkIuVVnJyVr4ZnfPwtV_xp6dM5-oF8m0DzGbl0PrcdQU5tMUzi3Rnmgf7LIFYUsqGq6UK3-wr752jh4vU, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8sHeAuBaY7DtZ8JJgmjtuZO6UMsgTemPHjYdTCdGWuEESKDylbgSHwrRn-ew_rEfoAgqQx86lbuSnkIKo_mfQJhgmRPhN8a7C1slgyDNn29n2eRTSsRiC-QFYuTRprW2UR3zrXqI9QMraqG4sSYEAfC6N5y6xRlcTuxuAKlxq8aRXz1wgtIF52wuWhxVy71glFgMVPzmNGATHbndFfg==",
-      "accuratezza_orario": "esatto"
+      "orario": "05:00*",
+      "evento": "WTA 1000 Wuhan: Ottavi di finale doppio (Sara Errani/Jasmine Paolini vs Mihalikova/Nicholls)",
+      "competizione": "Tennis - WTA Wuhan",
+      "canale": "SuperTennis HD, Sky Sport Tennis (solo per Errani/Paolini)",
+      "note": "Programma dalle 05:00 CET, Errani/Paolini 4° match. Match già concluso con vittoria di Errani/Paolini.",
+      "fonte": "OA Sport, Sky Sport, SuperTennis.tv",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "05:00",
-      "evento": "WTA 1000 Wuhan - Live",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Jasmine Paolini attesa in campo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGif-NNlBOowzqXuOiACFBbs6flkorlFui73GNzB0Fz-Q2TuJRXvdw9LKCNBIgtPePlTkgaVHtWmgyS0Hv9u9SWubY-Q-AUHh_0lr_u6ViaNNF8a1HN9r7v0g-FK8NF3zVpu72Um3OQkhtxoocOHCvBJppdyL90kCPKl8l0DDAhJXaNymJRQtGx7P8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqF8AQqg8NBTvY8j9dWDiz7i0aY9g6hopF203GbHzPYFAVQtiG-THdVJusV1n3ywaNfoJyhQnK4tVKYuCU-uiS1S-SuEqTPhAOq03HF1C4-f7VxcKNz_nEml9tF61d5ogk3rAQdn1E_27aFCKt1ddpnS6Afws8D9LIuKxEN7j5LRsAGm91OgPmN_A==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "UEFA Champions League 2026/2027 - Inter - Club Bruges (2a g.)",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Replica",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyaYXoHFv3sOSx01TWo3DYjr9Acm2R4_Ykq1lxSSgugjR_iwhBeCXg9mjWV_xGQS2GIYBWsYZAiIolPaSsYdDWoQ2p0pClLvT4UclJ32A8Vfbx--MWImCjgNVD4sD7B9_ndNPt1FIJhqM41kQVFNn3uHU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH7QJk--yhk5f82921kbaFSfM87kxXkfFUaUfn8HksN5sitmdwr91OAVU96128dMRetWo0uIp4XXtMGpY5WATsnp5zlIOIdNukM495LSCpiyBZquUkh5WMX3ISZaI0qzwOEpKJouOaJJESi3bWHzsr00P8wEzC3YM_JbNsSHJDUyd0_zAbJRXdmBoL",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "WTA 1000 Wuhan - Live",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Jasmine Paolini attesa in campo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGif-NNlBOowzqXuOiACFBbs6flkorlFui73GNzB0Fz-Q2TuJRXvdw9LKCNBIgtPePlTkgaVHtWmgyS0Hv9u9SWubY-Q-AUHh_0lr_u6ViaNNF8a1HN9r7v0g-FK8NF3zVpu72Um3OQkhtxoocOHCvBJppdyL90kCPKl8l0DDAhJXaNymJRQtGx7P8",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:00",
-      "evento": "WTA 1000 Wuhan - Live",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Jasmine Paolini attesa in campo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGif-NNlBOowzqXuOiACFBbs6flkorlFui73GNzB0Fz-Q2TuJRXvdw9LKCNBIgtPePlTkgaVHtWmgyS0Hv9u9SWubY-Q-AUHh_0lr_u6ViaNNF8a1HN9r7v0g-FK8NF3zVpu72Um3OQkhtxoocOHCvBJppdyL90kCPKl8l0DDAhJXaNymJRQtGx7P8",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Roma-Real Madrid (Youth League)",
-      "competizione": "Calcio - Youth League",
-      "canale": "Sky Sport Max, UEFA.TV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxgzmK6C-On-OElhXa-mfOZ8WQySmbOYbTbi1g9KZl6Z0d_u9CBu9ZMaAp82akoPg3GZPPeAmtUVrJpJ2ti_4uFcnPCPV7V0mxZvpSAB2uFKbRta3jQtUNN99u10sLRD3eewRHuPy7_uuVGdR4Eusc89xhtcZX0w04r68CFtQhDN2RUJt4taBo-N5fQupOPkKo6TinF3Bx_IK-3jlvzYLqKnA29JVZ5j8bDR_1LGGsA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG41xaQQL2PsuQQgGZ9SOVQuPNH6NVqPZqK0sVKp8070QJapyfsGEwP2fSBVm5M7U6F14M43FDJuuFUTYbiMAT5xe_tCqxFBiN-dctQKvQn-5wF_uo687sMJ1RH70huwBehXZ_bOQINI4EB8j_nT8AZDu6t-P8IeOjLZcoytbiysEk1zF48ebSZSGIKj_QsgISfbE05ZDMQ7tQSV_r_iRV_dQGxCR0t",
+      "orario": "18:45",
+      "evento": "UEFA Champions League: Feyenoord vs Como",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 253",
+      "note": "Squadra italiana coinvolta (Como).",
+      "fonte": "Skuola.net, Libero Magazine, Tuttomercatoweb, TuttomercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
-      "evento": "Feyenoord-Como (2a g.)",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport (canale 253), NOW",
+      "evento": "UEFA Champions League: LASK vs Liverpool",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyaYXoHFv3sOSx01TWo3DYjr9Acm2R4_Ykq1lxSSgugjR_iwhBeCXg9mjWV_xGQS2GIYBWsYZAiIolPaSsYdDWoQ2p0pClLvT4UclJ32A8Vfbx--MWImCjgNVD4sD7B9_ndNPt1FIJhqM41kQVFNn3uHU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxgzmK6C-On-OElhXa-mfOZ8WQySmbOYbTbi1g9KZl6Z0d_u9CBu9ZMaAp82akoPg3GZPPeAmtUVrJpJ2ti_4uFcnPCPV7V0mxZvpSAB2uFKbRta3jQtUNN99u10sLRD3eewRHuPy7_uuVGdR4Eusc89xhtcZX0w04r68CFtQhDN2RUJt4taBo-N5fQupOPkKo6TinF3Bx_IK-3jlvzYLqKnA29JVZ5j8bDR_1LGGsA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG41xaQQL2PsuQQgGZ9SOVQuPNH6NVqPZqK0sVKp8070QJapyfsGEwP2fSBVm5M7U6F14M43FDJuuFUTYbiMAT5xe_tCqxFBiN-dctQKvQn-5wF_uo687sMJ1RH70huwBehXZ_bOQINI4EB8j_nT8AZDu6t-P8IeOjLZcoytbiysEk1zF48ebSZSGIKj_QsgISfbE05ZDMQ7tQSV_r_iRV_dQGxCR0t, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb7-shPIZAcjJ-h4cKjgyoP_aC6Ibogv9RybcCPY0Y_74zER_fuBSGEYdx0Daq7kVtl17zQ3kjqGkafir1rcX35ZWZNQVvkwlP6wF79X9Kj_4WwBEtitUDihXWdNI5ggkc2qqAvzJgvoMdWUAgemEYtn6KJ9fgzb4ONr2ZGxX_1BQoRG7jVPzTQS7M5I0N8d-YqzkUu7DU49yCnc751P-YhEsiX6mkdE-INdifTJZRz-AIvo8o2msJq_0JGyCYE_UO9iiidvYWvXe0PD6xd9Sjl7eeSe8zQw1lp-O4fW9Yq0-yfISzJBxmmRbmrKJ3jn2ZB40BDQ0==",
+      "fonte": "Libero Magazine, TuttomercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
       "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport (canale 251), NOW",
-      "note": "Copertura multi-campo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxgzmK6C-On-OElhXa-mfOZ8WQySmbOYbTbi1g9KZl6Z0d_u9CBu9ZMaAp82akoPg3GZPPeAmtUVrJpJ2ti_4uFcnPCPV7V0mxZvpSAB2uFKbRta3jQtUNN99u10sLRD3eewRHuPy7_uuVGdR4Eusc89xhtcZX0w04r68CFtQhDN2RUJt4taBo-N5fQupOPkKo6TinF3Bx_IK-3jlvzYLqKnA29JVZ5j8bDR_1LGGsA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG41xaQQL2PsuQQgGZ9SOVQuPNH6NVqPZqK0sVKp8070QJapyfsGEwP2fSBVm5M7U6F14M43FDJuuFUTYbiMAT5xe_tCqxFBiN-dctQKvQn-5wF_uo687sMJ1RH70huwBehXZ_bOQINI4EB8j_nT8AZDu6t-P8IeOjLZcoytbiysEk1zF48ebSZSGIKj_QsgISfbE05ZDMQ7tQSV_r_iRV_dQGxCR0t, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExV5ZvOYps4Zaj2N-odkUmVx5yLl0F6NOORnRDQ6Ji5Y-3nwGViHVZ-B9-wGgIwlkNitQ8Grx2S_FOW5qLzw-jHb_wnkFZJeMKi-vwU5-6h7zBckBOiRSgop2Wqk2me_pJbNLol68Fm0l-bvZCPctEVIpDiYXe6KU3GveD-PlF5x4K0VHoMMN-qHjcqPif9caNEd-sxbNbLQE7",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Sport 251",
+      "note": "Visione simultanea delle partite.",
+      "fonte": "Skuola.net, Sky Sport, TuttomercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Roma-Real Madrid",
-      "competizione": "Calcio - UEFA Champions League",
+      "evento": "UEFA Champions League: Roma vs Real Madrid",
+      "competizione": "Calcio - Champions League",
       "canale": "Amazon Prime Video",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxgzmK6C-On-OElhXa-mfOZ8WQySmbOYbTbi1g9KZl6Z0d_u9CBu9ZMaAp82akoPg3GZPPeAmtUVrJpJ2ti_4uFcnPCPV7V0mxZvpSAB2uFKbRta3jQtUNN99u10sLRD3eewRHuPy7_uuVGdR4Eusc89xhtcZX0w04r68CFtQhDN2RUJt4taBo-N5fQupOPkKo6TinF3Bx_IK-3jlvzYLqKnA29JVZ5j8bDR_1LGGsA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG41xaQQL2PsuQQgGZ9SOVQuPNH6NVqPZqK0sVKp8070QJapyfsGEwP2fSBVm5M7U6F14M43FDJuuFUTYbiMAT5xe_tCqxFBiN-dctQKvQn-5wF_uo687sMJ1RH70huwBehXZ_bOQINI4EB8j_nT8AZDu6t-P8IeOjLZcoytbiysEk1zF48ebSZSGIKj_QsgISfbE05ZDMQ7tQSV_r_iRV_dQGxCR0t, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1FBjCvPL-FctXezSlTPv3V0P6I6A8TSay_zBJIaxLyX9o94LLbSvAtbaGF9YnTjL4L_c0GkX7Ng2MY6ekjEE6pp8i9-n53nFm1ji9JDrhawp7f9fZC0r7K_Lh4LlLfVS, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0z6kIazggn-zsjzJEeeMXAj7GKH0NQ8PabLAhs69JQnsg-EMG1lDALWRNJNDMFwJWTBfdEiZcY1euHtZJMXMKbHzGOAUk0o-rZ1bne0pfp_tnImdidDoU1C5LBfc32Tw582Jf0BhbCuuCUirjjhY0EYk6cm2J9C0bYY3W4rZFWQATlOZm24Jgzb67nmdu2PRcSTquXlPw3S2x5N8DaJFMezNJPRixfwPpoBfmwKQPmjEj",
+      "note": "Squadra italiana coinvolta (Roma).",
+      "fonte": "OA Sport, Skuola.net, Libero Magazine, Calcio e Finanza, Sky Sport, TuttomercatoWEB, Tutto Napoli",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Manchester City-PSG (2a g.)",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "TV8, Sky Sport Calcio, Sky Sport (canale 252)",
+      "evento": "UEFA Champions League: Manchester City vs PSG",
+      "competizione": "Calcio - Champions League",
+      "canale": "TV8, Sky Sport Calcio (202), Sky Sport 252",
+      "note": "Disponibile anche in chiaro su TV8.",
+      "fonte": "OA Sport, Skuola.net, Sportface.it, Libero Magazine, TuttomercatoWEB, Tutto Napoli",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Aston Villa vs Fenerbahçe",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport Arena (204), Sky Sport 253",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjL4PUnYxjF5iBRgjq6R2USzvRcTYeGlyA0nNJVoBiZIsZtaqXULYn9Ojc9_6nncsDWhGfhAv5Hc-iEsncvd6eSlWqtgK_fdyGQCwqqLA35PjzzJ6lVtidWG1LThwSdC2nBYZG9A==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxgzmK6C-On-OElhXa-mfOZ8WQySmbOYbTbi1g9KZl6Z0d_u9CBu9ZMaAp82akoPg3GZPPeAmtUVrJpJ2ti_4uFcnPCPV7V0mxZvpSAB2uFKbRta3jQtUNN99u10sLRD3eewRHuPy7_uuVGdR4Eusc89xhtcZX0w04r68CFtQhDN2RUJt4taBo-N5fQupOPkKo6TinF3Bx_IK-3jlvzYLqKnA29JVZ5j8bDR_1LGGsA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG41xaQQL2PsuQQgGZ9SOVQuPNH6NVqPZqK0sVKp8070QJapyfsGEwP2fSBVm5M7U6F14M43FDJuuFUTYbiMAT5xe_tCqxFBiN-dctQKvQn-5wF_uo687sMJ1RH70huwBehXZ_bOQINI4EB8j_nT8AZDu6t-P8IeOjLZcoytbiysEk1zF48ebSZSGIKj_QsgISfbE05ZDMQ7tQSV_r_iRV_dQGxCR0t",
+      "fonte": "OA Sport, Skuola.net, Libero Magazine, TuttomercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Bodo/Glimt vs Borussia Dortmund",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport 254",
+      "note": "",
+      "fonte": "OA Sport, Skuola.net, TuttomercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Betis vs FC Porto",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "Skuola.net, TuttomercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Shakhtar Donetsk vs AEK Atene",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "Skuola.net, TuttomercatoWEB",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Slovan Bratislava vs Stoccarda",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "Skuola.net, Tuttomercatoweb",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Arena",
-      "note": "Copertura multi-campo (altri match delle 21:00)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExV5ZvOYps4Zaj2N-odkUmVx5yLl0F6NOORnRDQ6Ji5Y-3nwGViHVZ-B9-wGgIwlkNitQ8Grx2S_FOW5qLzw-jHb_wnkFZJeMKi-vwU5-6h7zBckBOiRSgop2Wqk2me_pJbNLol68Fm0l-bvZCPctEVIpDiYXe6KU3GveD-PlF5x4K0VHoMMN-qHjcqPif9caNEd-sxbNbLQE7, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyaYXoHFv3sOSx01TWo3DYjr9Acm2R4_Ykq1lxSSgugjR_iwhBeCXg9mjWV_xGQS2GIYBWsYZAiIolPaSsYdDWoQ2p0pClLvT4UclJ32A8Vfbx--MWImCjgNVD4sD7B9_ndNPt1FIJhqM41kQVFNn3uHU=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "WTA 1000 Wuhan - Replica",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Jasmine Paolini attesa in campo nella sessione live",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjL4PUnYxjF5iBRgjq6R2USzvRcTYeGlyA0nNJVoBiZIsZtaqXULYn9Ojc9_6nncsDWhGfhAv5Hc-iEsncvd6eSlWqtgK_fdyGQCwqqLA35PjzzJ6lVtidWG1LThwSdC2nBYZG9A==",
+      "competizione": "Calcio - Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251",
+      "note": "Visione simultanea delle partite.",
+      "fonte": "Skuola.net, Sky Sport, TuttomercatoWEB",
       "accuratezza_orario": "esatto"
     }
   ]
