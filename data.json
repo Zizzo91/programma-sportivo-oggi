@@ -1,121 +1,40 @@
 {
-  "last_updated": "2026-10-14T23:05:21.003735+02:00",
+  "last_updated": "2026-10-15T04:11:31.295090+02:00",
   "events": [
     {
-      "orario": "05:00*",
-      "evento": "WTA 1000 Wuhan: Secondo turno (Jasmine Paolini vs Nikola Bartunkova)",
-      "competizione": "Tennis - WTA Wuhan",
-      "canale": "SuperTennis HD, Sky Sport Tennis (203)",
-      "note": "Programma dalle 05:00 CET, Paolini 2° match. Match già concluso con vittoria di Paolini.",
-      "fonte": "OA Sport, Sky Sport, SuperTennis.tv",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "05:00*",
-      "evento": "WTA 1000 Wuhan: Ottavi di finale doppio (Sara Errani/Jasmine Paolini vs Mihalikova/Nicholls)",
-      "competizione": "Tennis - WTA Wuhan",
-      "canale": "SuperTennis HD, Sky Sport Tennis (solo per Errani/Paolini)",
-      "note": "Programma dalle 05:00 CET, Errani/Paolini 4° match. Match già concluso con vittoria di Errani/Paolini.",
-      "fonte": "OA Sport, Sky Sport, SuperTennis.tv",
+      "orario": "08:00*",
+      "evento": "Jasmine Paolini vs Sonay Kartal",
+      "competizione": "WTA 1000 Wuhan (Ottavi di finale)",
+      "canale": "Sky Sport, NOW, Supertennis",
+      "note": "Orario stimato, il match potrebbe iniziare prima o dopo a seconda del completamento dei match precedenti.",
+      "fonte": "OA Sport, bet365 IT, LiveTennis.it, Sky Sport",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:45",
-      "evento": "UEFA Champions League: Feyenoord vs Como",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 253",
-      "note": "Squadra italiana coinvolta (Como).",
-      "fonte": "Skuola.net, Libero Magazine, Tuttomercatoweb, TuttomercatoWEB",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "UEFA Champions League: LASK vs Liverpool",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport Calcio",
+      "evento": "Salisburgo - Milan",
+      "competizione": "UEFA Europa League (League Phase, 2a giornata)",
+      "canale": "Sky Sport Uno, Sky Sport 253, NOW",
       "note": "",
-      "fonte": "Libero Magazine, TuttomercatoWEB",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Sport 251",
-      "note": "Visione simultanea delle partite.",
-      "fonte": "Skuola.net, Sky Sport, TuttomercatoWEB",
+      "fonte": "Sky Sport, Sportface.it, WH News, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "UEFA Champions League: Roma vs Real Madrid",
-      "competizione": "Calcio - Champions League",
-      "canale": "Amazon Prime Video",
-      "note": "Squadra italiana coinvolta (Roma).",
-      "fonte": "OA Sport, Skuola.net, Libero Magazine, Calcio e Finanza, Sky Sport, TuttomercatoWEB, Tutto Napoli",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Manchester City vs PSG",
-      "competizione": "Calcio - Champions League",
-      "canale": "TV8, Sky Sport Calcio (202), Sky Sport 252",
-      "note": "Disponibile anche in chiaro su TV8.",
-      "fonte": "OA Sport, Skuola.net, Sportface.it, Libero Magazine, TuttomercatoWEB, Tutto Napoli",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Aston Villa vs Fenerbahçe",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport Arena (204), Sky Sport 253",
+      "evento": "Celta Vigo - Juventus",
+      "competizione": "UEFA Europa League (League Phase, 2a giornata)",
+      "canale": "Sky Sport Uno, Sky Sport 252, NOW",
       "note": "",
-      "fonte": "OA Sport, Skuola.net, Libero Magazine, TuttomercatoWEB",
+      "fonte": "Sky Sport, Sportface.it, WH News, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "UEFA Champions League: Bodo/Glimt vs Borussia Dortmund",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport 254",
+      "evento": "Atalanta - Pafos",
+      "competizione": "UEFA Conference League (League Phase, 1a giornata)",
+      "canale": "Sky Sport Arena, Sky Sport 254, Sky Sport 4K, NOW",
       "note": "",
-      "fonte": "OA Sport, Skuola.net, TuttomercatoWEB",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Betis vs FC Porto",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "Skuola.net, TuttomercatoWEB",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Shakhtar Donetsk vs AEK Atene",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "Skuola.net, TuttomercatoWEB",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Slovan Bratislava vs Stoccarda",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "Skuola.net, Tuttomercatoweb",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251",
-      "note": "Visione simultanea delle partite.",
-      "fonte": "Skuola.net, Sky Sport, TuttomercatoWEB",
+      "fonte": "Sky Sport, Sportface.it, WH News, Calciomercato",
       "accuratezza_orario": "esatto"
     }
   ]
