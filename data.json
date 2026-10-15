@@ -1,40 +1,94 @@
 {
-  "last_updated": "2026-10-15T04:11:31.295090+02:00",
+  "last_updated": "2026-10-15T17:54:26.557613+02:00",
   "events": [
     {
-      "orario": "08:00*",
-      "evento": "Jasmine Paolini vs Sonay Kartal",
-      "competizione": "WTA 1000 Wuhan (Ottavi di finale)",
-      "canale": "Sky Sport, NOW, Supertennis",
-      "note": "Orario stimato, il match potrebbe iniziare prima o dopo a seconda del completamento dei match precedenti.",
-      "fonte": "OA Sport, bet365 IT, LiveTennis.it, Sky Sport",
-      "accuratezza_orario": "stimato"
+      "orario": "11:00",
+      "evento": "ATP Challenger Olbia - Ottavi di finale",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Include incontri con giocatori italiani (es. Luca Nardi).",
+      "fonte": "ATP Tour, Ticketmaster, SuperTennis.it",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "Salisburgo - Milan",
-      "competizione": "UEFA Europa League (League Phase, 2a giornata)",
-      "canale": "Sky Sport Uno, Sky Sport 253, NOW",
-      "note": "",
-      "fonte": "Sky Sport, Sportface.it, WH News, Goal.com",
+      "orario": "17:00",
+      "evento": "WTA 1000 Wuhan (replica)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Replica del torneo in cui ha partecipato Jasmine Paolini.",
+      "fonte": "ProgrammiTV.com, Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Salisburgo – Milan (2a giornata)",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno",
+      "note": "Diretta.",
+      "fonte": "Dituttounpop",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "ATP Challenger Olbia (replica)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Replica degli ottavi di finale.",
+      "fonte": "ProgrammiTV.com, Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Celta Vigo - Juventus",
-      "competizione": "UEFA Europa League (League Phase, 2a giornata)",
-      "canale": "Sky Sport Uno, Sky Sport 252, NOW",
-      "note": "",
-      "fonte": "Sky Sport, Sportface.it, WH News, Goal.com",
+      "evento": "Celta Vigo – Juventus (2a giornata)",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno",
+      "note": "Diretta.",
+      "fonte": "Dituttounpop",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Atalanta - Pafos",
-      "competizione": "UEFA Conference League (League Phase, 1a giornata)",
-      "canale": "Sky Sport Arena, Sky Sport 254, Sky Sport 4K, NOW",
-      "note": "",
-      "fonte": "Sky Sport, Sportface.it, WH News, Calciomercato",
+      "evento": "Atalanta-Pafos",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Arena",
+      "note": "Diretta.",
+      "fonte": "Dituttounpop",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Diretta Gol Europa e Conference League",
+      "competizione": "UEFA Europa League / Conference League",
+      "canale": "Sky Sport Mix",
+      "note": "Diretta contemporanea di più partite.",
+      "fonte": "Dituttounpop",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "WTA 1000 Wuhan (replica)",
+      "competizione": "Tennis",
+      "canale": "SuperTennis",
+      "note": "Replica del torneo in cui ha partecipato Jasmine Paolini.",
+      "fonte": "ProgrammiTV.com, Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:30",
+      "evento": "Celta Vigo – Juventus (2a giornata)",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica.",
+      "fonte": "GuidaTV.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Salisburgo – Milan (2a giornata)",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica.",
+      "fonte": "GuidaTV.com",
       "accuratezza_orario": "esatto"
     }
   ]
