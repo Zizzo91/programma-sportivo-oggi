@@ -1,58 +1,40 @@
 {
-  "last_updated": "2026-10-15T17:54:26.557613+02:00",
+  "last_updated": "2026-10-15T22:38:58.094956+02:00",
   "events": [
     {
-      "orario": "11:00",
-      "evento": "ATP Challenger Olbia - Ottavi di finale",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Include incontri con giocatori italiani (es. Luca Nardi).",
-      "fonte": "ATP Tour, Ticketmaster, SuperTennis.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "WTA 1000 Wuhan (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Replica del torneo in cui ha partecipato Jasmine Paolini.",
-      "fonte": "ProgrammiTV.com, Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Salisburgo – Milan (2a giornata)",
+      "orario": "18:45",
+      "evento": "Salisburgo - Milan",
       "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno",
-      "note": "Diretta.",
-      "fonte": "Dituttounpop",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEFDgDoCAVmGzZU0CKAVHGxUScCSQ9lntsYg4OTcwyDY-qQcWL_n9C2rdq1zem3GmGeJmLNh4ySaAZ9GXjmjeRMKlLbh3UR44OKxV4H5ev5JiI8n78IK8FjrTVrkYZau8IvLXY8PFcfd4BT237fOSRCUfiBE2YvEpmzElE0r9mkN7bhh6L3dk3vYucIgFl_tU_5VaxhPE9hq1bsKkaqL_HfQaow0XuYQ=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "ATP Challenger Olbia (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Replica degli ottavi di finale.",
-      "fonte": "ProgrammiTV.com, Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Celta Vigo – Juventus (2a giornata)",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno",
-      "note": "Diretta.",
-      "fonte": "Dituttounpop",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Atalanta-Pafos",
-      "competizione": "UEFA Europa League",
+      "orario": "18:45",
+      "evento": "Diretta Gol Europa e Conference League",
+      "competizione": "UEFA Europa League / Conference League",
       "canale": "Sky Sport Arena",
-      "note": "Diretta.",
-      "fonte": "Dituttounpop",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEFDgDoCAVmGzZU0CKAVHGxUScCSQ9lntsYg4OTcwyDY-qQcWL_n9C2rdq1zem3GmGeJmLNh4ySaAZ9GXjmjeRMKlLbh3UR44OKxV4H5ev5JiI8n78IK8FjrTVrkYZau8IvLXY8PFcfd4BT237fOSRCUfiBE2YvEpmzElE0r9mkN7bhh6L3dk3vYucIgFl_tU_5VaxhPE9hq1bsKkaqL_HfQaow0XuYQ=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Celta Vigo - Juventus",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEFDgDoCAVmGzZU0CKAVHGxUScCSQ9lntsYg4OTcwyDY-qQcWL_n9C2rdq1zem3GmGeJmLNh4ySaAZ9GXjmjeRMKlLbh3UR44OKxV4H5ev5JiI8n78IK8FjrTVrkYZau8IvLXY8PFcfd4BT237fOSRCUfiBE2YvEpmzElE0r9mkN7bhh6L3dk3vYucIgFl_tU_5VaxhPE9hq1bsKkaqL_HfQaow0XuYQ=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Atalanta - Pafos",
+      "competizione": "UEFA Conference League",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8vXoEjvCbCGLcdSyQQOUBjD8FuTk4yHSS7KMBAbgO9L__g8WDiqJTv38dmi1R6eHzMgiu6f9EtuomDahFYkZfzD799f6oHj2r8-kgk-eZ99QVbIM3Yt1zTzH-YrqLQYYkX_A1UHRMsMlrVwJ1PAsGZmTGh5nz_IbZ8Hgma7FHLgFrNSDNFbhFYsHa1-fI5X0w54beiBwVANOeWQgDnjAvr5ur2M559pJwLFJAmeyEV-w",
       "accuratezza_orario": "esatto"
     },
     {
@@ -60,36 +42,45 @@
       "evento": "Diretta Gol Europa e Conference League",
       "competizione": "UEFA Europa League / Conference League",
       "canale": "Sky Sport Mix",
-      "note": "Diretta contemporanea di più partite.",
-      "fonte": "Dituttounpop",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8vXoEjvCbCGLcdSyQQOUBjD8FuTk4yHSS7KMBAbgO9L__g8WDiqJTv38dmi1R6eHzMgiu6f9EtuomDahFYkZfzD799f6oHj2r8-kgk-eZ99QVbIM3Yt1zTzH-YrqLQYYkX_A1UHRMsMlrVwJ1PAsGZmTGh5nz_IbZ8Hgma7FHLgFrNSDNFbhFYsHa1-fI5X0w54beiBwVANOeWQgDnjAvr5ur2M559pJwLFJAmeyEV-w",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "23:00",
-      "evento": "WTA 1000 Wuhan (replica)",
-      "competizione": "Tennis",
-      "canale": "SuperTennis",
-      "note": "Replica del torneo in cui ha partecipato Jasmine Paolini.",
-      "fonte": "ProgrammiTV.com, Stasera in TV",
+      "evento": "Tv8 Football Night",
+      "competizione": "Calcio - Rubrica",
+      "canale": "TV8",
+      "note": "Studio calcistico con analisi, commenti e interviste",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE-EeYFaZjTlCaLbpIZgHDPZueoiuWtwTjGoZquQKADUk0sIFr0t1Kn61qk9v9A2UAelJZIsm1T4RH7J6HojGXVIACxFj2Lcw4ZghZ8aTNal3i_1Yk4Z1Piu4tzLM6t6wnrxXTARTNhh8RFMWfROWQFjATACvA857WQNkyRy0=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "01:30",
-      "evento": "Celta Vigo – Juventus (2a giornata)",
+      "evento": "Celta Vigo - Juventus (Replica)",
       "competizione": "UEFA Europa League",
       "canale": "Sky Sport Uno",
-      "note": "Replica.",
-      "fonte": "GuidaTV.com",
+      "note": "Replica della 2a giornata",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgiZEWfUKyLVAtmh1NfyJbeGv9qgAIBco2myoznLybACojz4ftjw1QYYpYP4mn_YG1DflwZOiRLVOE9h2Am9dOER3ZC_VAJioFYQWinQv7N6spZXSx0ynQKjeNVeNwmnroMHZFzDTMkkbbmYR5WVUU_jRRxClET6Drxkm2e28AhKw=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00",
-      "evento": "Salisburgo – Milan (2a giornata)",
+      "evento": "Red Bull Salisburgo - Milan (Replica)",
       "competizione": "UEFA Europa League",
       "canale": "Sky Sport Uno",
-      "note": "Replica.",
-      "fonte": "GuidaTV.com",
+      "note": "Replica della 2a giornata",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgiZEWfUKyLVAtmh1NfyJbeGv9qgAIBco2myoznLybACojz4ftjw1QYYpYP4mn_YG1DflwZOiRLVOE9h2Am9dOER3ZC_VAJioFYQWinQv7N6spZXSx0ynQKjeNVeNwmnroMHZFzDTMkkbbmYR5WVUU_jRRxClET6Drxkm2e28AhKw=",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00*",
+      "evento": "Jasmine Paolini vs Sonay Kartal",
+      "competizione": "WTA 1000 Wuhan (Ottavi di finale)",
+      "canale": "SuperTennis / Sky Sport Tennis",
+      "note": "3° match sul Court 1",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsJ1RsgdcduOu1shtYGaKsmLCT2MxPpxt4WKtTeVuaRyp2JCMrcejmVW_-buyfbudiaD1sMgi_yID_eCKg-DShFLPJ1qRgjT8Hl5PSDB_pVN5dsZt15OEs1WDsIt6czLTTjaKqUl_CQfcTemNhV_5m2z8pbtGDAD4lBccxW9OF8aB8ULF-4lOxPhn__ADaiaJZRNf-A_6RHLLm1Jz5PidSbIm7tUiu1DWAd0mvwpMmWlzSDbA7cRhFaNeZzkYK5QA=",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
