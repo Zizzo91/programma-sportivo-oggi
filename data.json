@@ -1,86 +1,40 @@
 {
-  "last_updated": "2026-10-15T22:38:58.094956+02:00",
+  "last_updated": "2026-10-16T22:11:56.347936+02:00",
   "events": [
     {
-      "orario": "18:45",
-      "evento": "Salisburgo - Milan",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEFDgDoCAVmGzZU0CKAVHGxUScCSQ9lntsYg4OTcwyDY-qQcWL_n9C2rdq1zem3GmGeJmLNh4ySaAZ9GXjmjeRMKlLbh3UR44OKxV4H5ev5JiI8n78IK8FjrTVrkYZau8IvLXY8PFcfd4BT237fOSRCUfiBE2YvEpmzElE0r9mkN7bhh6L3dk3vYucIgFl_tU_5VaxhPE9hq1bsKkaqL_HfQaow0XuYQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Diretta Gol Europa e Conference League",
-      "competizione": "UEFA Europa League / Conference League",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEFDgDoCAVmGzZU0CKAVHGxUScCSQ9lntsYg4OTcwyDY-qQcWL_n9C2rdq1zem3GmGeJmLNh4ySaAZ9GXjmjeRMKlLbh3UR44OKxV4H5ev5JiI8n78IK8FjrTVrkYZau8IvLXY8PFcfd4BT237fOSRCUfiBE2YvEpmzElE0r9mkN7bhh6L3dk3vYucIgFl_tU_5VaxhPE9hq1bsKkaqL_HfQaow0XuYQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Celta Vigo - Juventus",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEFDgDoCAVmGzZU0CKAVHGxUScCSQ9lntsYg4OTcwyDY-qQcWL_n9C2rdq1zem3GmGeJmLNh4ySaAZ9GXjmjeRMKlLbh3UR44OKxV4H5ev5JiI8n78IK8FjrTVrkYZau8IvLXY8PFcfd4BT237fOSRCUfiBE2YvEpmzElE0r9mkN7bhh6L3dk3vYucIgFl_tU_5VaxhPE9hq1bsKkaqL_HfQaow0XuYQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Atalanta - Pafos",
-      "competizione": "UEFA Conference League",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8vXoEjvCbCGLcdSyQQOUBjD8FuTk4yHSS7KMBAbgO9L__g8WDiqJTv38dmi1R6eHzMgiu6f9EtuomDahFYkZfzD799f6oHj2r8-kgk-eZ99QVbIM3Yt1zTzH-YrqLQYYkX_A1UHRMsMlrVwJ1PAsGZmTGh5nz_IbZ8Hgma7FHLgFrNSDNFbhFYsHa1-fI5X0w54beiBwVANOeWQgDnjAvr5ur2M559pJwLFJAmeyEV-w",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Diretta Gol Europa e Conference League",
-      "competizione": "UEFA Europa League / Conference League",
-      "canale": "Sky Sport Mix",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8vXoEjvCbCGLcdSyQQOUBjD8FuTk4yHSS7KMBAbgO9L__g8WDiqJTv38dmi1R6eHzMgiu6f9EtuomDahFYkZfzD799f6oHj2r8-kgk-eZ99QVbIM3Yt1zTzH-YrqLQYYkX_A1UHRMsMlrVwJ1PAsGZmTGh5nz_IbZ8Hgma7FHLgFrNSDNFbhFYsHa1-fI5X0w54beiBwVANOeWQgDnjAvr5ur2M559pJwLFJAmeyEV-w",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Tv8 Football Night",
-      "competizione": "Calcio - Rubrica",
-      "canale": "TV8",
-      "note": "Studio calcistico con analisi, commenti e interviste",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE-EeYFaZjTlCaLbpIZgHDPZueoiuWtwTjGoZquQKADUk0sIFr0t1Kn61qk9v9A2UAelJZIsm1T4RH7J6HojGXVIACxFj2Lcw4ZghZ8aTNal3i_1Yk4Z1Piu4tzLM6t6wnrxXTARTNhh8RFMWfROWQFjATACvA857WQNkyRy0=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:30",
-      "evento": "Celta Vigo - Juventus (Replica)",
+      "orario": "06:00",
+      "evento": "UEFA Europa League 2026/2027 - Celta Vigo - Juventus (2a giornata) - Replica",
       "competizione": "UEFA Europa League",
       "canale": "Sky Sport Uno",
-      "note": "Replica della 2a giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgiZEWfUKyLVAtmh1NfyJbeGv9qgAIBco2myoznLybACojz4ftjw1QYYpYP4mn_YG1DflwZOiRLVOE9h2Am9dOER3ZC_VAJioFYQWinQv7N6spZXSx0ynQKjeNVeNwmnroMHZFzDTMkkbbmYR5WVUU_jRRxClET6Drxkm2e28AhKw=",
+      "note": "Replay di una partita giocata il 15 ottobre 2026.",
+      "fonte": "tivù.tv / Sky Sport Uno",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00",
-      "evento": "Red Bull Salisburgo - Milan (Replica)",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della 2a giornata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgiZEWfUKyLVAtmh1NfyJbeGv9qgAIBco2myoznLybACojz4ftjw1QYYpYP4mn_YG1DflwZOiRLVOE9h2Am9dOER3ZC_VAJioFYQWinQv7N6spZXSx0ynQKjeNVeNwmnroMHZFzDTMkkbbmYR5WVUU_jRRxClET6Drxkm2e28AhKw=",
+      "orario": "06:35",
+      "evento": "Tennis WTA Wuhan 2026 - Quarti di finale doppio (programma inizio)",
+      "competizione": "WTA 1000 Wuhan",
+      "canale": "SuperTennis HD, Sky Sport Tennis (203)",
+      "note": "Programma inizio con il match Errani/Paolini vs Danilina/Zhang come 4° match. Streaming su supertennis.tv, SuperTennis+, SkyGo e NOW.",
+      "fonte": "OA Sport / Sportface.it / TennisTalker Magazine / Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00*",
-      "evento": "Jasmine Paolini vs Sonay Kartal",
-      "competizione": "WTA 1000 Wuhan (Ottavi di finale)",
-      "canale": "SuperTennis / Sky Sport Tennis",
-      "note": "3° match sul Court 1",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsJ1RsgdcduOu1shtYGaKsmLCT2MxPpxt4WKtTeVuaRyp2JCMrcejmVW_-buyfbudiaD1sMgi_yID_eCKg-DShFLPJ1qRgjT8Hl5PSDB_pVN5dsZt15OEs1WDsIt6czLTTjaKqUl_CQfcTemNhV_5m2z8pbtGDAD4lBccxW9OF8aB8ULF-4lOxPhn__ADaiaJZRNf-A_6RHLLm1Jz5PidSbIm7tUiu1DWAd0mvwpMmWlzSDbA7cRhFaNeZzkYK5QA=",
+      "orario": "14:10*",
+      "evento": "Tennis WTA Wuhan 2026 - Quarti di finale doppio: Errani/Paolini vs Danilina/Zhang",
+      "competizione": "WTA 1000 Wuhan",
+      "canale": "SuperTennis HD, Sky Sport Tennis (203)",
+      "note": "Orario stimato per il 4° match del programma iniziato alle 06:35. Streaming su supertennis.tv, SuperTennis+, SkyGo e NOW.",
+      "fonte": "TennisTalker Magazine / OA Sport / Sportface.it / Sky Sport",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Frosinone - Sassuolo",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "Anticipo della 7^ giornata di Serie A.",
+      "fonte": "DAZN / OA Sport / Virgilio Sport / Libero / Sky Sport"
     }
   ]
 }
