@@ -1,103 +1,31 @@
 {
-  "last_updated": "2026-10-17T16:34:33.161394+02:00",
+  "last_updated": "2026-10-17T21:47:28.316761+02:00",
   "events": [
-    {
-      "orario": "00:00",
-      "evento": "Stati Uniti vs Italia",
-      "competizione": "WXV Global Series femminile",
-      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Go, NOW",
-      "note": "",
-      "fonte": "Datasport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:15",
-      "evento": "GP Spagna, Superpole",
-      "competizione": "Superbike",
-      "canale": "Sky Sport MotoGP, Sky Go, NOW",
-      "note": "",
-      "fonte": "OA Sport, Datasport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30*",
-      "evento": "Errani/Paolini - Hunter/Siniakova (semifinale)",
-      "competizione": "WTA 1000 Wuhan",
-      "canale": "SuperTennis, Sky Sport Max, SkyGo, NOW, SuperTennis+",
-      "note": "Secondo match dalle 12:30",
-      "fonte": "TennisTalker Magazine, OA Sport",
-      "accuratezza_orario": "stimato"
-    },
     {
       "orario": "15:00",
       "evento": "Venezia-Napoli",
-      "competizione": "Serie A",
+      "competizione": "Calcio - Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Il Faro Online, Sky Sport, Goal.com Italia, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:15",
-      "evento": "Pre SBK",
-      "competizione": "Superbike - GP Spagna",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Quotidiano Nazionale, Stasera in TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "GP Spagna, Gara-1",
-      "competizione": "Superbike",
-      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW, tv8.it",
-      "note": "",
-      "fonte": "OA Sport, Datasport.it, Quotidiano Nazionale, Stasera in TV, Virgilio Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:05",
-      "evento": "Post SBK",
-      "competizione": "Superbike - GP Spagna",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Quotidiano Nazionale, Stasera in TV",
+      "fonte": "IlFaroOnline, DAZN News Italia, OA Sport, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Bologna-Inter",
-      "competizione": "Serie A",
+      "competizione": "Calcio - Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Il Faro Online, Goal.com Italia, Calciomagazine, Virgilio Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Numia Vero Volley Milano vs Igor Gorgonzola Novara",
-      "competizione": "SuperLega Femminile",
-      "canale": "Rai Sport, DAZN",
-      "note": "",
-      "fonte": "Lega Pallavolo Serie A Femminile, Vero Volley",
+      "fonte": "IlFaroOnline, DAZN News Italia, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Roma-Genoa",
-      "competizione": "Serie A",
+      "competizione": "Calcio - Serie A",
       "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW, Sky Go",
       "note": "",
-      "fonte": "Il Faro Online, Sky Sport, Goal.com Italia, Programmi Sky, Calciomagazine, Virgilio Sport, CronacaPop, Libero Magazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "Boca Juniors-Talleres",
-      "competizione": "Campionato argentino",
-      "canale": "SPORTITALIA, COMO TV",
-      "note": "Evento del giorno successivo, entro le 06:00 CET",
-      "fonte": "Calciomagazine, Virgilio Sport",
+      "fonte": "IlFaroOnline, DAZN News Italia, Forbidden Fruit, Sky Sport, Stasera in TV, Quotidiano Sportivo",
       "accuratezza_orario": "esatto"
     }
   ]
