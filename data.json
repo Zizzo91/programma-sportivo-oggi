@@ -1,31 +1,103 @@
 {
-  "last_updated": "2026-10-17T11:51:19.330849+02:00",
+  "last_updated": "2026-10-17T16:34:33.161394+02:00",
   "events": [
     {
+      "orario": "00:00",
+      "evento": "Stati Uniti vs Italia",
+      "competizione": "WXV Global Series femminile",
+      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Go, NOW",
+      "note": "",
+      "fonte": "Datasport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:15",
+      "evento": "GP Spagna, Superpole",
+      "competizione": "Superbike",
+      "canale": "Sky Sport MotoGP, Sky Go, NOW",
+      "note": "",
+      "fonte": "OA Sport, Datasport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30*",
+      "evento": "Errani/Paolini - Hunter/Siniakova (semifinale)",
+      "competizione": "WTA 1000 Wuhan",
+      "canale": "SuperTennis, Sky Sport Max, SkyGo, NOW, SuperTennis+",
+      "note": "Secondo match dalle 12:30",
+      "fonte": "TennisTalker Magazine, OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "15:00",
-      "evento": "Venezia - Napoli",
+      "evento": "Venezia-Napoli",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLn5OnE5s4BPJ-wBqMK3Vk_BfEFkGBHjGOOudNVIDUUcu-XATHUiSr1gNH6jOM1TUKsa39aRVZ1_gX3uZWSX_9311noXOAU-dB_Tsj4swl9Y67bscQ459KRma66HUw7-AvES79sI8ZjIvyUrCTKnGAprXonjArHcwIxKww9_JtEYYPBvVVLc-eUeDgmtH2zE-ocqr8o5cvdC4TT9CJDq-YINCqGdLWKSYWYInRixKC, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVkH2NdNcJ5wuP7WPLT8dmmg03xBnLvTrjx48wQb9O0zBKYAx_yrj4NfMwWFn8uZiVtTFnLAqVzhBp5Kt7UkytDtxeX7RymkuBWoAQNcjg2zDeKIIVGq0rb6BWLlElLoZdiEgIo3Dmp8bMQR_qN6VzrM1UhRxYusovpW5TaXVKK2YB60CY_VocjiLdoszHNY3Re_AWKrCDzLSbFIV6W1zJm8KWoXicVHp0F5xj1aIW_qCJxIpQt0_Bal-r-iCDCVKDxA-cWC6-ydM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB4Q68sgOgxQmDPjLa5m-T_ZW6aRubsrLn_SDjSIebuN1RO8XQvZhQ39-xJpZd2QqKEJiP6js7C94cDPR9QYGlXXxC0kG_Jv14yV9HEoVVIKkq5bXjZYv-QUbjTnX9kxGMaizjRHPwyRkPLfBMCJxYLA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiWg4_L1aCsZ0aqsjw6TX5mKcAqrVd5zayceouzxgik0xWDjy7dXrI-wWSLlyL6TQ_IJdlVzy3SizIoVtYJ1NXe__lyiaqUzd5vqzGoODPjhUzYEkD3luAd3pdpd9WppzkeKAJcqooqOtv600AsLYkQeJ_F2u1zjj_eca9pLNCoTyRXqqq5jK560nHP8kem2Xxov8TH5RD7_YaIwIm8AUUzm_LIRfj1xI4wHY=",
+      "fonte": "Il Faro Online, Sky Sport, Goal.com Italia, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:15",
+      "evento": "Pre SBK",
+      "competizione": "Superbike - GP Spagna",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "Quotidiano Nazionale, Stasera in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "GP Spagna, Gara-1",
+      "competizione": "Superbike",
+      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW, tv8.it",
+      "note": "",
+      "fonte": "OA Sport, Datasport.it, Quotidiano Nazionale, Stasera in TV, Virgilio Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:05",
+      "evento": "Post SBK",
+      "competizione": "Superbike - GP Spagna",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "Quotidiano Nazionale, Stasera in TV",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Bologna - Inter",
+      "evento": "Bologna-Inter",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLn5OnE5s4BPJ-wBqMK3Vk_BfEFkGBHjGOOudNVIDUUcu-XATHUiSr1gNH6jOM1TUKsa39aRVZ1_gX3uZWSX_9311noXOAU-dB_Tsj4swl9Y67bscQ459KRma66HUw7-AvES79sI8ZjIvyUrCTKnGAprXonjArHcwIxKww9_JtEYYPBvVVLc-eUeDgmtH2zE-ocqr8o5cvdC4TT9CJDq-YINCqGdLWKSYWYInRixKC, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVkH2NdNcJ5wuP7WPLT8dmmg03xBnLvTrjx48wQb9O0zBKYAx_yrj4NfMwWFn8uZiVtTFnLAqVzhBp5Kt7UkytDtxeX7RymkuBWoAQNcjg2zDeKIIVGq0rb6BWLlElLoZdiEgIo3Dmp8bMQR_qN6VzrM1UhRxYusovpW5TaXVKK2YB60CY_VocjiLdoszHNY3Re_AWKrCDzLSbFIV6W1zJm8KWoXicVHp0F5xj1aIW_qCJxIpQt0_Bal-r-iCDCVKDxA-cWC6-ydM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB4Q68sgOgxQmDPjLa5m-T_ZW6aRubsrLn_SDjSIebuN1RO8XQvZhQ39-xJpZd2QqKEJiP6js7C94cDPR9QYGlXXxC0kG_Jv14yV9HEoVVIKkq5bXjZYv-QUbjTnX9kxGMaizjRHPwyRkPLfBMCJxYLA==",
+      "fonte": "Il Faro Online, Goal.com Italia, Calciomagazine, Virgilio Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Numia Vero Volley Milano vs Igor Gorgonzola Novara",
+      "competizione": "SuperLega Femminile",
+      "canale": "Rai Sport, DAZN",
+      "note": "",
+      "fonte": "Lega Pallavolo Serie A Femminile, Vero Volley",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Roma - Genoa",
+      "evento": "Roma-Genoa",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
-      "note": "Disponibile anche su NOW e Sky Go.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLn5OnE5s4BPJ-wBqMK3Vk_BfEFkGBHjGOOudNVIDUUcu-XATHUiSr1gNH6jOM1TUKsa39aRVZ1_gX3uZWSX_9311noXOAU-dB_Tsj4swl9Y67bscQ459KRma66HUw7-AvES79sI8ZjIvyUrCTKnGAprXonjArHcwIxKww9_JtEYYPBvVVLc-eUeDgmtH2zE-ocqr8o5cvdC4TT9CJDq-YINCqGdLWKSYWYInRixKC, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVkH2NdNcJ5wuP7WPLT8dmmg03xBnLvTrjx48wQb9O0zBKYAx_yrj4NfMwWFn8uZiVtTFnLAqVzhBp5Kt7UkytDtxeX7RymkuBWoAQNcjg2zDeKIIVGq0rb6BWLlElLoZdiEgIo3Dmp8bMQR_qN6VzrM1UhRxYusovpW5TaXVKK2YB60CY_VocjiLdoszHNY3Re_AWKrCDzLSbFIV6W1zJm8KWoXicVHp0F5xj1aIW_qCJxIpQt0_Bal-r-iCDCVKDxA-cWC6-ydM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB4Q68sgOgxQmDPjLa5m-T_ZW6aRubsrLn_SDjSIebuN1RO8XQvZhQ39-xJpZd2QqKEJiP6js7C94cDPR9QYGlXXxC0kG_Jv14yV9HEoVVIKkq5bXjZYv-QUbjTnX9kxGMaizjRHPwyRkPLfBMCJxYLA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6q9xKZ219h8wvrGm3y62cdPYCPQOXuJLyMwCbFQ94WbJ9uKI9H91iLDbyNsCFAdhKSK_9vTNrqo8jQ6fThoZ24ik2bur3F15rrf27QsSbOzvPCTWqQx9-RCVeOI3G92bufQ1BJm0TEnw1LN77Nv2XqDMMHliyYOm-L1MC5jwe0AHG4bsdW5JB",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW, Sky Go",
+      "note": "",
+      "fonte": "Il Faro Online, Sky Sport, Goal.com Italia, Programmi Sky, Calciomagazine, Virgilio Sport, CronacaPop, Libero Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:30",
+      "evento": "Boca Juniors-Talleres",
+      "competizione": "Campionato argentino",
+      "canale": "SPORTITALIA, COMO TV",
+      "note": "Evento del giorno successivo, entro le 06:00 CET",
+      "fonte": "Calciomagazine, Virgilio Sport",
       "accuratezza_orario": "esatto"
     }
   ]
