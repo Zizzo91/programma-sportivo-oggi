@@ -1,40 +1,32 @@
 {
-  "last_updated": "2026-10-16T22:11:56.347936+02:00",
+  "last_updated": "2026-10-17T11:51:19.330849+02:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "UEFA Europa League 2026/2027 - Celta Vigo - Juventus (2a giornata) - Replica",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno",
-      "note": "Replay di una partita giocata il 15 ottobre 2026.",
-      "fonte": "tivù.tv / Sky Sport Uno",
+      "orario": "15:00",
+      "evento": "Venezia - Napoli",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLn5OnE5s4BPJ-wBqMK3Vk_BfEFkGBHjGOOudNVIDUUcu-XATHUiSr1gNH6jOM1TUKsa39aRVZ1_gX3uZWSX_9311noXOAU-dB_Tsj4swl9Y67bscQ459KRma66HUw7-AvES79sI8ZjIvyUrCTKnGAprXonjArHcwIxKww9_JtEYYPBvVVLc-eUeDgmtH2zE-ocqr8o5cvdC4TT9CJDq-YINCqGdLWKSYWYInRixKC, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVkH2NdNcJ5wuP7WPLT8dmmg03xBnLvTrjx48wQb9O0zBKYAx_yrj4NfMwWFn8uZiVtTFnLAqVzhBp5Kt7UkytDtxeX7RymkuBWoAQNcjg2zDeKIIVGq0rb6BWLlElLoZdiEgIo3Dmp8bMQR_qN6VzrM1UhRxYusovpW5TaXVKK2YB60CY_VocjiLdoszHNY3Re_AWKrCDzLSbFIV6W1zJm8KWoXicVHp0F5xj1aIW_qCJxIpQt0_Bal-r-iCDCVKDxA-cWC6-ydM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB4Q68sgOgxQmDPjLa5m-T_ZW6aRubsrLn_SDjSIebuN1RO8XQvZhQ39-xJpZd2QqKEJiP6js7C94cDPR9QYGlXXxC0kG_Jv14yV9HEoVVIKkq5bXjZYv-QUbjTnX9kxGMaizjRHPwyRkPLfBMCJxYLA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiWg4_L1aCsZ0aqsjw6TX5mKcAqrVd5zayceouzxgik0xWDjy7dXrI-wWSLlyL6TQ_IJdlVzy3SizIoVtYJ1NXe__lyiaqUzd5vqzGoODPjhUzYEkD3luAd3pdpd9WppzkeKAJcqooqOtv600AsLYkQeJ_F2u1zjj_eca9pLNCoTyRXqqq5jK560nHP8kem2Xxov8TH5RD7_YaIwIm8AUUzm_LIRfj1xI4wHY=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:35",
-      "evento": "Tennis WTA Wuhan 2026 - Quarti di finale doppio (programma inizio)",
-      "competizione": "WTA 1000 Wuhan",
-      "canale": "SuperTennis HD, Sky Sport Tennis (203)",
-      "note": "Programma inizio con il match Errani/Paolini vs Danilina/Zhang come 4° match. Streaming su supertennis.tv, SuperTennis+, SkyGo e NOW.",
-      "fonte": "OA Sport / Sportface.it / TennisTalker Magazine / Sky Sport",
+      "orario": "18:00",
+      "evento": "Bologna - Inter",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLn5OnE5s4BPJ-wBqMK3Vk_BfEFkGBHjGOOudNVIDUUcu-XATHUiSr1gNH6jOM1TUKsa39aRVZ1_gX3uZWSX_9311noXOAU-dB_Tsj4swl9Y67bscQ459KRma66HUw7-AvES79sI8ZjIvyUrCTKnGAprXonjArHcwIxKww9_JtEYYPBvVVLc-eUeDgmtH2zE-ocqr8o5cvdC4TT9CJDq-YINCqGdLWKSYWYInRixKC, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVkH2NdNcJ5wuP7WPLT8dmmg03xBnLvTrjx48wQb9O0zBKYAx_yrj4NfMwWFn8uZiVtTFnLAqVzhBp5Kt7UkytDtxeX7RymkuBWoAQNcjg2zDeKIIVGq0rb6BWLlElLoZdiEgIo3Dmp8bMQR_qN6VzrM1UhRxYusovpW5TaXVKK2YB60CY_VocjiLdoszHNY3Re_AWKrCDzLSbFIV6W1zJm8KWoXicVHp0F5xj1aIW_qCJxIpQt0_Bal-r-iCDCVKDxA-cWC6-ydM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB4Q68sgOgxQmDPjLa5m-T_ZW6aRubsrLn_SDjSIebuN1RO8XQvZhQ39-xJpZd2QqKEJiP6js7C94cDPR9QYGlXXxC0kG_Jv14yV9HEoVVIKkq5bXjZYv-QUbjTnX9kxGMaizjRHPwyRkPLfBMCJxYLA==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:10*",
-      "evento": "Tennis WTA Wuhan 2026 - Quarti di finale doppio: Errani/Paolini vs Danilina/Zhang",
-      "competizione": "WTA 1000 Wuhan",
-      "canale": "SuperTennis HD, Sky Sport Tennis (203)",
-      "note": "Orario stimato per il 4° match del programma iniziato alle 06:35. Streaming su supertennis.tv, SuperTennis+, SkyGo e NOW.",
-      "fonte": "TennisTalker Magazine / OA Sport / Sportface.it / Sky Sport",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Frosinone - Sassuolo",
+      "evento": "Roma - Genoa",
       "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "Anticipo della 7^ giornata di Serie A.",
-      "fonte": "DAZN / OA Sport / Virgilio Sport / Libero / Sky Sport"
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "note": "Disponibile anche su NOW e Sky Go.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLn5OnE5s4BPJ-wBqMK3Vk_BfEFkGBHjGOOudNVIDUUcu-XATHUiSr1gNH6jOM1TUKsa39aRVZ1_gX3uZWSX_9311noXOAU-dB_Tsj4swl9Y67bscQ459KRma66HUw7-AvES79sI8ZjIvyUrCTKnGAprXonjArHcwIxKww9_JtEYYPBvVVLc-eUeDgmtH2zE-ocqr8o5cvdC4TT9CJDq-YINCqGdLWKSYWYInRixKC, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVkH2NdNcJ5wuP7WPLT8dmmg03xBnLvTrjx48wQb9O0zBKYAx_yrj4NfMwWFn8uZiVtTFnLAqVzhBp5Kt7UkytDtxeX7RymkuBWoAQNcjg2zDeKIIVGq0rb6BWLlElLoZdiEgIo3Dmp8bMQR_qN6VzrM1UhRxYusovpW5TaXVKK2YB60CY_VocjiLdoszHNY3Re_AWKrCDzLSbFIV6W1zJm8KWoXicVHp0F5xj1aIW_qCJxIpQt0_Bal-r-iCDCVKDxA-cWC6-ydM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB4Q68sgOgxQmDPjLa5m-T_ZW6aRubsrLn_SDjSIebuN1RO8XQvZhQ39-xJpZd2QqKEJiP6js7C94cDPR9QYGlXXxC0kG_Jv14yV9HEoVVIKkq5bXjZYv-QUbjTnX9kxGMaizjRHPwyRkPLfBMCJxYLA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6q9xKZ219h8wvrGm3y62cdPYCPQOXuJLyMwCbFQ94WbJ9uKI9H91iLDbyNsCFAdhKSK_9vTNrqo8jQ6fThoZ24ik2bur3F15rrf27QsSbOzvPCTWqQx9-RCVeOI3G92bufQ1BJm0TEnw1LN77Nv2XqDMMHliyYOm-L1MC5jwe0AHG4bsdW5JB",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
