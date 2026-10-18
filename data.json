@@ -1,130 +1,40 @@
 {
-  "last_updated": "2026-10-18T12:02:40.612001+02:00",
+  "last_updated": "2026-10-18T17:01:51.494498+02:00",
   "events": [
-    {
-      "orario": "12:30",
-      "evento": "Udinese - Lecce",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "7ª giornata",
-      "fonte": "https://www.lapresse.it/sport/calcio-tv-oggi-18-ottobre-tutte-le-partite-gli-orari-e-dove-vederle-in-diretta-1.2825619, https://www.skysport.it/calcio/serie-a/guida-tv/2026/10/18/serie-a-partite-oggi-calendario-orari-tv-7-giornata, https://www.oasport.it/2026/10/sport-in-tv-oggi-domenica-18-ottobre-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Fiorentina - Como",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "7ª giornata",
-      "fonte": "https://www.calcioefinanza.it/2026/10/18/fiorentina-como-dove-vederla-tv-streaming/, https://www.lapresse.it/sport/calcio-tv-oggi-18-ottobre-tutte-le-partite-gli-orari-e-dove-vederle-in-diretta-1.2825619, https://www.oasport.it/2026/10/sport-in-tv-oggi-domenica-18-ottobre-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Nissa - Reggina",
-      "competizione": "Calcio - Serie D, Girone I",
-      "canale": "Reggio TV (Canale 77/677 DT Calabria), Reggina Channel (streaming)",
-      "note": "8ª giornata",
-      "fonte": "https://www.reggina.it/notizie/serie-d-girone-i-20262027-il-calendario-della-reggina/, https://www.tuttocalciocalabria.it/2026/10/18/nissa-reggina-in-tv-e-streaming-canale-orario-e-come-seguir/, https://www.reggiotv.it/guarda-la-diretta-di-nissa-reggina/, https://www.seried.it/notizie/nissa-reggina-dove-vedere-il-big-match-del-girone-i-di-serie-d-76435, https://www.formula1passion.it/2026/10/gp-stati-uniti-2026-orari-skynow-e-tv8-formulapassion/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Formula 1 - GP Stati Uniti - Qualifiche Sprint (differita)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Gran Premio MSC Cruises degli Stati Uniti",
-      "fonte": "https://www.tv8.it/sport/formula-1/gran-premio-msc-cruises-degli-stati-uniti.html",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "18:00",
       "evento": "Milan - Atalanta",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "7ª giornata",
-      "fonte": "https://www.skysport.it/calcio/serie-a/guida-tv/2026/10/18/serie-a-partite-oggi-calendario-orari-tv-7-giornata, https://www.lapresse.it/sport/calcio-tv-oggi-18-ottobre-tutte-le-partite-gli-orari-e-dove-vederle-in-diretta-1.2825619, https://www.goal.com/it/notizie/milan-atalanta-dazn-sky-canale-tv-diretta-streaming-orario/1z91v4274c52m16e51v2v6l7h2",
+      "competizione": "Serie A",
+      "canale": "Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251, NOW",
+      "note": "",
+      "fonte": "https://www.skysport.it/calcio/serie-a/2026/10/18/serie-a-partite-oggi-7-giornata-orari-tv",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Tinet Prata di Pordenone - Vero Volley Monza",
-      "competizione": "Volley - Superlega Credem Banca",
+      "competizione": "SuperLega Credem Banca",
       "canale": "VBTV",
-      "note": "1ª giornata di Regular Season",
-      "fonte": "https://www.volleynews.it/tutta-la-pallavolo-del-weekend-17-18-ottobre-in-tv-e-streaming-la-guida-completa/, https://www.legavolley.it/2026/10/18/the-debut-of-monza/, https://www.oasport.it/2026/10/superlega-volley-oggi-orari-partite-18-ottobre-tv-streaming/, https://www.sportface.it/volley/superlega-volley-2026-2027-programma-e-tv-delle-gare-di-domenica-18-ottobre/2491563, https://www.olympics.com/it/notizie/superlega-pallavolo-uomini-2026-2027-calendario-programma-tv-streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:15",
-      "evento": "Formula 1 - GP Stati Uniti - Paddock Pre Sprint (live)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Gran Premio MSC Cruises degli Stati Uniti",
-      "fonte": "https://www.tv8.it/sport/formula-1/gran-premio-msc-cruises-degli-stati-uniti.html",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Formula 1 - GP Stati Uniti - Gara Sprint (live)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Gran Premio MSC Cruises degli Stati Uniti",
-      "fonte": "https://www.tv8.it/sport/formula-1/gran-premio-msc-cruises-degli-stati-uniti.html",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Formula 1 - GP Stati Uniti - Paddock Post Sprint (live)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Gran Premio MSC Cruises degli Stati Uniti",
-      "fonte": "https://www.tv8.it/sport/formula-1/gran-premio-msc-cruises-degli-stati-uniti.html",
+      "note": "",
+      "fonte": "https://www.olympics.com/it/notizie/superlega-pallavolo-uomini-2026-2027-calendario-programma-regular-season",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Juventus - Lazio",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "7ª giornata",
-      "fonte": "https://www.calcioefinanza.it/2026/10/18/juventus-lazio-dove-vederla-tv-streaming/, https://www.lapresse.it/sport/calcio-tv-oggi-18-ottobre-tutte-le-partite-gli-orari-e-dove-vederle-in-diretta-1.2825619, https://www.oasport.it/2026/10/sport-in-tv-oggi-domenica-18-ottobre-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "competizione": "Serie A",
+      "canale": "DAZN 1",
+      "note": "",
+      "fonte": "https://www.skysport.it/calcio/serie-a/2026/10/18/serie-a-partite-oggi-7-giornata-orari-tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:15",
-      "evento": "Formula 1 - GP Stati Uniti - F1 Warm Up (live)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Gran Premio MSC Cruises degli Stati Uniti",
-      "fonte": "https://www.tv8.it/sport/formula-1/gran-premio-msc-cruises-degli-stati-uniti.html",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:30",
-      "evento": "Formula 1 - GP Stati Uniti - Paddock Pre Qualifiche (live)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Gran Premio MSC Cruises degli Stati Uniti",
-      "fonte": "https://www.tv8.it/sport/formula-1/gran-premio-msc-cruises-degli-stati-uniti.html",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Formula 1 - GP Stati Uniti - Qualifiche (live)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Gran Premio MSC Cruises degli Stati Uniti",
-      "fonte": "https://www.tv8.it/sport/formula-1/gran-premio-msc-cruises-degli-stati-uniti.html",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:15",
-      "evento": "Formula 1 - GP Stati Uniti - Paddock Post Qualifiche (live)",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Gran Premio MSC Cruises degli Stati Uniti",
-      "fonte": "https://www.tv8.it/sport/formula-1/gran-premio-msc-cruises-degli-stati-uniti.html",
+      "orario": "00:00",
+      "evento": "USA - Italia",
+      "competizione": "WXV Global Series (Rugby Femminile)",
+      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Go, NOW",
+      "note": "Evento che inizia dopo la mezzanotte del 18 ottobre, ma entro le 06:00 del giorno successivo (19 ottobre).",
+      "fonte": "https://www.datasport.it/2026/10/18/sport-in-tv-e-streaming-oggi-domenica-18-ottobre-orari-di-tutti-gli-eventi/",
       "accuratezza_orario": "esatto"
     }
   ]
