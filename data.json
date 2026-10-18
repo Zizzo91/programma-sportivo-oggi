@@ -1,41 +1,4 @@
 {
-  "last_updated": "2026-10-18T17:01:51.494498+02:00",
-  "events": [
-    {
-      "orario": "18:00",
-      "evento": "Milan - Atalanta",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://www.skysport.it/calcio/serie-a/2026/10/18/serie-a-partite-oggi-7-giornata-orari-tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Tinet Prata di Pordenone - Vero Volley Monza",
-      "competizione": "SuperLega Credem Banca",
-      "canale": "VBTV",
-      "note": "",
-      "fonte": "https://www.olympics.com/it/notizie/superlega-pallavolo-uomini-2026-2027-calendario-programma-regular-season",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Juventus - Lazio",
-      "competizione": "Serie A",
-      "canale": "DAZN 1",
-      "note": "",
-      "fonte": "https://www.skysport.it/calcio/serie-a/2026/10/18/serie-a-partite-oggi-7-giornata-orari-tv",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "USA - Italia",
-      "competizione": "WXV Global Series (Rugby Femminile)",
-      "canale": "Sky Sport Uno, Sky Sport Arena, Sky Go, NOW",
-      "note": "Evento che inizia dopo la mezzanotte del 18 ottobre, ma entro le 06:00 del giorno successivo (19 ottobre).",
-      "fonte": "https://www.datasport.it/2026/10/18/sport-in-tv-e-streaming-oggi-domenica-18-ottobre-orari-di-tutti-gli-eventi/",
-      "accuratezza_orario": "esatto"
-    }
-  ]
+  "last_updated": "2026-10-18T21:48:38.401746+02:00",
+  "events": []
 }
