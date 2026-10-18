@@ -1,31 +1,67 @@
 {
-  "last_updated": "2026-10-17T21:47:28.316761+02:00",
+  "last_updated": "2026-10-18T03:56:34.514748+02:00",
   "events": [
     {
-      "orario": "15:00",
-      "evento": "Venezia-Napoli",
+      "orario": "12:30",
+      "evento": "Udinese - Lecce",
       "competizione": "Calcio - Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "IlFaroOnline, DAZN News Italia, OA Sport, Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfV5zcvWPPV0WGXMATpDuwAt5sBtZgXC_MZW8KzPFGO2iIsuwDw5081VzQBGqt8Cc1-l11F5AvyloAiPm5tpJdscPthlG1WaAvwX0qGtXxeIHqyMFk7AaBsk5jWVjn5nW4DWwojtIXs5ljmG1hDl16Cl-0OtivZrZESf6TCyNGhA1G8gBAp3hDX1F7nxjhjtemFRWzNhKCExP40gaNb5YEbDnWOe_SWJefHxzbAe8cL5bYQrj8Q8QoX7tk-18FfMqeCGAKwkTb4Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtohTkkMNSv0D1CnGIBEksR_743uEJbB_qqMEgEhsKzDBHNp7R2JlK8JrrJvvOghuuvl4VbVhr4qUYfNBC3i5CmxyzdDFzTc0hg1IUjmLMBTplKLxoPYrCFNI-ujadoxjABaGdKfPQ3rJxX0_87ONBGNicuXxzIT-NpGbnsGkhMUmpFV0hqNr-qQz3brcN9ip_Eeausj2Xj2IXup8ZZj169kz1PFL6rc0gLuE==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb2D_r2ZTqmjlGB3l_TiaNbeHkERBHhypVpRUsub4yYes-F70sF1CUg1HSmiCVjv_TlQxluQ991JObkYyogJNjsDpvx8uHIFs9Rm0LplGHrEnL5sR-fJ1TczK2ykvvjL1vvw8BNjcJ-TdEkEa2VydOEJlEyn0Ri-TZwTHbpyK-A-2WVMMa2D06mQ4BBqw3OX-CvcV2d5S3I5Ed8ZalSEqniZnASXEzLCpxvsKuZ9hKelgHk7T9QVJD0jcOzLlNZS8rJpPJA0Q25_mhY==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIl5sw7vcqHpFCxmmbPqA9jPO7e7KLEjfcGMbl1tInzj5vyLKenAkzOuO0DHkabUhGBR2ruDkEx94SP5hV2UTxu4dpgPyDjxbFnkSvGYFzgiuLDvMbqMsUJmN3OsgF1b-DibWPSpzyponN-Yx5Gb6yQLSqtQMdi3OyTP310cpoWXPp58oYVYpDnt2wDe2kpZwAVw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Fiorentina - Como",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfV5zcvWPPV0WGXMATpDuwAt5sBtZgXC_MZW8KzPFGO2iIsuwDw5081VzQBGqt8Cc1-l11F5AvyloAiPm5tpJdscPthlG1WaAvwX0qGtXxeIHqyMFk7AaBsk5jWVjn5nW4DWwojtIXs5ljmG1hDl16Cl-0OtivZrZESf6TCyNGhA1G8gBAp3hDX1F7nxjhjtemFRWzNhKCExP40gaNb5YEbDnWOe_SWJefHxzbAe8cL5bYQrj8Q8QoX7tk-18FfMqeCGAKwkTb4Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtohTkkMNSv0D1CnGIBEksR_743uEJbB_qqMEgEhsKzDBHNp7R2JlK8JrrJvvOghuuvl4VbVhr4qUYfNBC3i5CmxyzdDFzTc0hg1IUjmLMBTplKLxoPYrCFNI-ujadoxjABaGdKfPQ3rJxX0_87ONBGNicuXxzIT-NpGbnsGkhMUmpFV0hqNr-qQz3brcN9ip_Eeausj2Xj2IXup8ZZj169kz1PFL6rc0gLuE==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb2D_r2ZTqmjlGB3l_TiaNbeHkERBHhypVpRUsub4yYes-F70sF1CUg1HSmiCVjv_TlQxluQ991JObkYyogJNjsDpvx8uHIFs9Rm0LplGHrEnL5sR-fJ1TczK2ykvvjL1vvw8BNjcJ-TdEkEa2VydOEJlEyn0Ri-TZwTHbpyK-A-2WVMMa2D06mQ4BBqw3OX-CvcV2d5S3I5Ed8ZalSEqniZnASXEzLCpxvsKuZ9hKelgHk7T9QVJD0jcOzLlNZS8rJpPJA0Q25_mhY==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Nissa - Reggina",
+      "competizione": "Calcio - Serie D Girone I",
+      "canale": "Reggio TV, Reggina Channel",
+      "note": "Ticket digitale gratuito su Reggio TV, a pagamento su Reggina Channel.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpG-zBH0Y-ICJfJZkYCTYf-jJTtK4x1Te4CmI6OiWA5UTeYImE-r4TAWm759YEGxxmhGQtI4X1EqB4lbOhLpn9vDeYVtydkJlEFqx_VDwFzNMf90l2XKBfZwruyZP7QejXOVXcUb0gqumuGlHIfDB35krLORQ4QkmjZ4RjwduzTm-n_CtERy98zSZVC2us4f45UPdlGDCgGw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQK5ahR6-MUGeEphXiImq9_-8xadVq5_ZMDpGTUABLmMXP5xdyy8ZUYLqbtKKA_yHhUyOjHpcwCbMkxjasbyIAgXatl3Ni4CexdpJkO7DqMBaVpUg4ZSIyxjH1Kn5fh97hY5_tm-zV8_7Fjq9k7uqfVBK_dFqnmZ-xAyRcguasQdM904dx5rLRpadu86-heEN7jA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Bologna-Inter",
+      "evento": "Milan - Atalanta",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251, NOW",
       "note": "",
-      "fonte": "IlFaroOnline, DAZN News Italia, Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfV5zcvWPPV0WGXMATpDuwAt5sBtZgXC_MZW8KzPFGO2iIsuwDw5081VzQBGqt8Cc1-l11F5AvyloAiPm5tpJdscPthlG1WaAvwX0qGtXxeIHqyMFk7AaBsk5jWVjn5nW4DWwojtIXs5ljmG1hDl16Cl-0OtivZrZESf6TCyNGhA1G8gBAp3hDX1F7nxjhjtemFRWzNhKCExP40gaNb5YEbDnWOe_SWJefHxzbAe8cL5bYQrj8Q8QoX7tk-18FfMqeCGAKwkTb4Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtohTkkMNSv0D1CnGIBEksR_743uEJbB_qqMEgEhsKzDBHNp7R2JlK8JrrJvvOghuuvl4VbVhr4qUYfNBC3i5CmxyzdDFzTc0hg1IUjmLMBTplKLxoPYrCFNI-ujadoxjABaGdKfPQ3rJxX0_87ONBGNicuXxzIT-NpGbnsGkhMUmpFV0hqNr-qQz3brcN9ip_Eeausj2Xj2IXup8ZZj169kz1PFL6rc0gLuE==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGinhVcgndHMex-AqTbRAUWo30yu0Ww7lY8nOqYrvKDGeS-lQjwpZhJgMLyjfGTHgiXto372lk_yo1L8w8LKHLqr1UaXDGkFsL3EN7CHuixcUNGBxhy_mYvic9aEAQZJ4AfOUlQaLn8uw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb2D_r2ZTqmjlGB3l_TiaNbeHkERBHhypVpRUsub4yYes-F70sF1CUg1HSmiCVjv_TlQxluQ991JObkYyogJNjsDpvx8uHIFs9Rm0LplGHrEnL5sR-fJ1TczK2ykvvjL1vvw8BNjcJ-TdEkEa2VydOEJlEyn0Ri-TZwTHbpyK-A-2WVMMa2D06mQ4BBqw3OX-CvcV2d5S3I5Ed8ZalSEqniZnASXEzLCpxvsKuZ9hKelgHk7T9QVJD0jcOzLlNZS8rJpPJA0Q25_mhY==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlWgF8XhNeJdWKHPa5D3Hhosid2zXVVLyAB1REYpCv_KAqoZqfk-gmnxH9lSVdIpXZV3owBcT5tDIqyJzuwNqp2AvACYTuOBkrIP9OArLeG4mSsROf4ck2psuMx8Oq_Z7UgUoCVy2L05J4TaT-fhzDDSWVYiDAQZs57WU93BRBzjU==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIl5sw7vcqHpFCxmmbPqA9jPO7e7KLEjfcGMbl1tInzj5vyLKenAkzOuO0DHkabUhGBR2ruDkEx94SP5hV2UTxu4dpgPyDjxbFnkSvGYFzgiuLDvMbqMsUJmN3OsgF1b-DibWPSpzyponN-Yx5Gb6yQLSqtQMdi3OyTP310cpoWXPp58oYVYpDnt2wDe2kpZwAVw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Tinet Prata di Pordenone - Vero Volley Monza",
+      "competizione": "Volley - SuperLega Credem Banca",
+      "canale": "VBTV",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmFo627fqB9nppiYO1GktbwR6UWCB1BnTPQk8nyegDdaFC1JElh4JaApXpLE1H7fCtosYhjz-9gsQ9noVaYXw1fXMtE48kx1G90D1gLngu5W5a-2G2oUKLkp8JuVWQmdveaBGWKqS5L8KPZK9kq7KkBmRLFoeFVkB-cXhZJJo7hIPcH18xXMpwZKw4rLa58bnyMLuc1d1HB6pg_Rfkop5z_A==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElI0TX09xT9teXudzwsq35rCo5_mT1lkIjLefEJ12JkZvEOwjPCde1ndfKJa2gMbUgzwwgX7a6j9Y2CiuQlhqMSfEDNPKeEUbbry5judG83Gx4ZqgfeiYQ_BbWUUCgHRv_Ah-mLThrC5-foqIHMy5KLWuOBZt1qJshzJE9cbSHMtjBO4p9hpTZCp_oDtXyJGKbZ_OVr1PJcobBWWyqKQ61diifPk29, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEweYdLltTo7JCEH-uHI4ckqpusk_GUz7kzM7bvyznLuaeVSecSCOQNImAAXQMo8rWXN38uklxopZTiDr2vgz3Djko33R59Mg-dQTTbD12z1WURE-NXYYK5aic02MAb-SNXdCezPWKtxh4PJrnv6q8NzQ==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Roma-Genoa",
+      "evento": "Juventus - Lazio",
       "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW, Sky Go",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "IlFaroOnline, DAZN News Italia, Forbidden Fruit, Sky Sport, Stasera in TV, Quotidiano Sportivo",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfV5zcvWPPV0WGXMATpDuwAt5sBtZgXC_MZW8KzPFGO2iIsuwDw5081VzQBGqt8Cc1-l11F5AvyloAiPm5tpJdscPthlG1WaAvwX0qGtXxeIHqyMFk7AaBsk5jWVjn5nW4DWwojtIXs5ljmG1hDl16Cl-0OtivZrZESf6TCyNGhA1G8gBAp3hDX1F7nxjhjtemFRWzNhKCExP40gaNb5YEbDnWOe_SWJefHxzbAe8cL5bYQrj8Q8QoX7tk-18FfMqeCGAKwkTb4Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtohTkkMNSv0D1CnGIBEksR_743uEJbB_qqMEgEhsKzDBHNp7R2JlK8JrrJvvOghuuvl4VbVhr4qUYfNBC3i5CmxyzdDFzTc0hg1IUjmLMBTplKLxoPYrCFNI-ujadoxjABaGdKfPQ3rJxX0_87ONBGNicuXxzIT-NpGbnsGkhMUmpFV0hqNr-qQz3brcN9ip_Eeausj2Xj2IXup8ZZj169kz1PFL6rc0gLuE==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb2D_r2ZTqmjlGB3l_TiaNbeHkERBHhypVpRUsub4yYes-F70sF1CUg1HSmiCVjv_TlQxluQ991JObkYyogJNjsDpvx8uHIFs9Rm0LplGHrEnL5sR-fJ1TczK2ykvvjL1vvw8BNjcJ-TdEkEa2VydOEJlEyn0Ri-TZwTHbpyK-A-2WVMMa2D06mQ4BBqw3OX-CvcV2d5S3I5Ed8ZalSEqniZnASXEzLCpxvsKuZ9hKelgHk7T9QVJD0jcOzLlNZS8rJpPJA0Q25_mhY==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Milan - Atalanta (Repliche)",
+      "competizione": "Calcio - Serie A",
+      "canale": "Sky Sport Uno",
+      "note": "Repliche 7a giornata",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlWgF8XhNeJdWKHPa5D3Hhosid2zXVVLyAB1REYpCv_KAqoZqfk-gmnxH9lSVdIpXZV3owBcT5tDIqyJzuwNqp2AvACYTuOBkrIP9OArLeG4mSsROf4ck2psuMx8Oq_Z7UgUoCVy2L05J4TaT-fhzDDSWVYiDAQZs57WU93BRBzjU==",
       "accuratezza_orario": "esatto"
     }
   ]
