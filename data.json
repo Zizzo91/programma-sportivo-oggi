@@ -1,94 +1,49 @@
 {
-  "last_updated": "2026-10-19T13:28:01.510181+02:00",
+  "last_updated": "2026-10-19T19:54:07.883145+02:00",
   "events": [
     {
-      "orario": "01:15",
-      "evento": "Belgrano-River Plate",
-      "competizione": "Campionato argentino (Liga Profesional)",
-      "canale": "Sportitalia, Como TV",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFizb0k-rMW_RqUFS0bP49qCId0XP3UkNkm58Ii2SBFSPNj0TG48zPurwSRsEq770msGsKtjV1SYMriJKxg1_ayhbJ2UVM9qlc4YQION_dAcEHXHrbHf80D1MimTKoR2KVvOgDaqJHinqChN6vgg7U_rB8pRpidcSim8cBQZRI532R3ZW-y0AgYvp9vjV37DXoKxUl65jPYlgsKGrU [2]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlds_3F7xrxR0-V7XGCUu0MdjewL-TRDKGTfXBfLZipkE7bw5DolHQUsh6lEQO5iOwTDutSdpRa7Fmf1Gh-rPBD7xw-naZcNTvj4-oHJ6aUfO_A3sSxevSsyusUt6kbWTVB3gQwlyEhRPyOcPZoHaLeFKDKa6tR-OHAXWc25LDnD6d5KFvXyCKPFfG6mxvJsA6e_5I9Xq-k5teBNhASX6E2-gCrFY3kXgX8lgddeP7wFd0wKPdXqPXnacmuHEpHPbE [3]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIjR9FwZR6nNbq1wM66NhFaAQvVyVCC3lWATiV4cS56kabOgBodQguNj_0hZqc4mxCpV6V8EjjxwHxLW3d05aY5a_F39_SrNYZC-WoLx8RA--chA4LtiKK9amgkMbIm0iNEU6PrKd2yb6ENf1usK2ZwLIhRS2ASWxH25XHphXZZs7D5P1MS68jM4HbgCHxGLz6WrUIdFi0nhOdAp3goTJjzaOL78rI4WyvoisejgzclGM= [32]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "WTA Ningbo: Primo Turno (con Jasmine Paolini)",
-      "competizione": "WTA 500 Ningbo Open",
-      "canale": "SuperTennis, Sky Sport Tennis, Sky Sport Uno (dalle 08:30)",
-      "note": "Jasmine Paolini impegnata",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABxzLSYY1ACZIq-J8JRdClUPuTrbYMhdlvlnVGjhL36LalgdeAT53iPm52i90u4I7PjOdwI6mBHh0snH_8kdI69H_dVYeK4zq1U7MIXKz0QXdU-kGr8JuQIs_euECfd-q1lpyefoLg1cw3A2LDe5_j3xmZjbleyJYc2zWoV2trr-H5gnpYcfczCvQsGpd3ZcHRVkSoe2Vy7LhxLoEBJ4Zk5RtNK84I0mx6dt4UyJqOOVMJZurtVk8AQXd9EibSw== [6]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_txrfyvxxdgz9OOIZH3-qvbfipzSbjkbD2fNSul9i5jv7O_nrJLJNx84JrzHCytogh_OnnwsNkHeVgPytbEqN64Np3B1MNYEW6Ig6gi22VWL38PpDBw3UjAd2YZBdRWjxyM4BFsP8aTND9L1llNPn7hYg9VoUrWAakuMNEL5GukAQh8QUSHpCBnkUiYeAvD29MYG9Zsd-40PD [24]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:30",
-      "evento": "ATP Almaty: Primo Turno (con Luciano Darderi e Mattia Bellucci)",
-      "competizione": "ATP 250 Almaty Open",
-      "canale": "Sky Sport Uno (fino alle 19:05), Sky Sport Tennis",
-      "note": "Luciano Darderi e Mattia Bellucci in campo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFABxzLSYY1ACZIq-J8JRdClUPuTrbYMhdlvlnVGjhL36LalgdeAT53iPm52i90u4I7PjOdwI6mBHh0snH_8kdI69H_dVYeK4zq1U7MIXKz0QXdU-kGr8JuQIs_euECfd-q1lpyefoLg1cw3A2LDe5_j3xmZjbleyJYc2zWoV2trr-H5gnpYcfczCvQsGpd3ZcHRVkSoe2Vy7LhxLoEBJ4Zk5RtNK84I0mx6dt4UyJqOOVMJZurtVk8AQXd9EibSw== [6]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_txrfyvxxdgz9OOIZH3-qvbfipzSbjkbD2fNSul9i5jv7O_nrJLJNx84JrzHCytogh_OnnwsNkHeVgPytbEqN64Np3B1MNYEW6Ig6gi22VWL38PpDBw3UjAd2YZBdRWjxyM4BFsP8aTND9L1llNPn7hYg9VoUrWAakuMNEL5GukAQh8QUSHpCBnkUiYeAvD29MYG9Zsd-40PD [24]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy0PfVxci99lEzieSlpLBHjwxykXtssQmubGSlEq6_6vQSAyFPWiQQcwQKSKC-4nB7lMS53iR18KFF3V401Vz-XtRH4KAKjWiADkpm9oFvsMidZUTAQPP1hpwFvLiph2QTGERNQJE447MIxYb8R6RqXM66UyB1OsT5pyKrj4SpUIjOJXCYaocKUzV8R-bKyGUEU3U4F2EY76mdgg7L0pCY7B7NU4EKT6VuTpxODuUIX-e0 [41]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:30",
-      "evento": "ATP Lione: Primo Turno Matteo Arnaldi-Lorenzo Musetti",
-      "competizione": "ATP 250 Grand Prix Auvergne-Rhone-Alpes, Lione",
-      "canale": "Sky Sport Tennis (probabile), NOW, bet365",
-      "note": "Derby italiano",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTymZaAFMXT3z-gCgmYEluKuHl2CbRXEwJv_dW3tQFgi9AWTUfAcQ6TppWI3IN6qaSXyIJhRb8WAJEJRvUCHfcwhQ_4CaC-1jenajOrRaF5Skj1-_cCBXIbXbGUGzc-u5zwkfNpyic-vLqhD3aF3GYGs9NIoZqE_ZPdA19yiEXQ05InJXqKOcqQhEwgEg1dbYt3u2Z38Eo3tt-xELE5wXMHEvrEtPgcE5-i_W8lAxm6aC7IRpjBcaKNWVz85VmEf1g1VoTVfNlWNwDJWbdGY= [11]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcU51SoROIrkv-4dajCAInx8Zb9OAWQwoP3kus4yjZ0q697KbX2VWhn5NATI8yptUZT8hpS5GosrRBvXeJqrUacdQlTXluJ0ceQdTJbHtOEVKR8Cin1BdepHYeq-NlT0sMDT4k3x6GEooNe1_kKUKKQq7W2lHBljr0-Z3M3hMJQmLZum0QNS6KMIcyfgX7elvZVFJaHxS3SB7L7WhYR1IQZvSNEhBs [29]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJtv4xiI_XX_emtECdChbG14SJpszlAgz6_V9a0pBFy6zBdan-t544iGxsSHpA3ySdSxxbWDVW-7bMEpASAVAdtzAgYfjtkndTqvIkqNoCXXySdsCIMKvwVlSBSqn85hfz0TjHBY8YwtvYL3RhxTRA9SA4d9JT9c28c8TrRhMqzOzaG3oaTXTBNpXyKT_K [36]",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "18:30",
-      "evento": "Monza-Cagliari",
+      "evento": "Monza - Cagliari",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFizb0k-rMW_RqUFS0bP49qCId0XP3UkNkm58Ii2SBFSPNj0TG48zPurwSRsEq770msGsKtjV1SYMriJKxg1_ayhbJ2UVM9qlc4YQION_dAcEHXHrbHf80D1MimTKoR2KVvOgDaqJHinqChN6vgg7U_rB8pRpidcSim8cBQZRI532R3ZW-y0AgYvp9vjV37DXoKxUl65jPYlgsKGrU [2]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlds_3F7xrxR0-V7XGCUu0MdjewL-TRDKGTfXBfLZipkE7bw5DolHQUsh6lEQO5iOwTDutSdpRa7Fmf1Gh-rPBD7xw-naZcNTvj4-oHJ6aUfO_A3sSxevSsyusUt6kbWTVB3gQwlyEhRPyOcPZoHaLeFKDKa6tR-OHAXWc25LDnD6d5KFvXyCKPFfG6mxvJsA6e_5I9Xq-k5teBNhASX6E2-gCrFY3kXgX8lgddeP7wFd0wKPdXqPXnacmuHEpHPbE [3]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjTV0ndoRleC-5GSGxadOOaI4IHJgJpuBAOaGSk5HrqV-uVRPLxoroZII5XcMJRZpSDV830OAtkQY9vAEfXY98RAMrqd93XlvZzoRCUIrlKFh8j54MpXMRIOHqp4CQBed9kQvoBxnJIQTv2l1CdWjIbvCA2zAQETcxtbmoz8QbSOaJG_Ak7VA8MW3cgZPDguJO6p7oltngEzGEQM2_nVG6R1snuwjiRHDHV8vKsHhzrU [8]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmKgyBVaPyNx5GTk9fdX7s_pccPBHEMQBiaDbApN1PTxHdQ5Aev9p0hRAlzq4Yk5WCMQq1EQYZQFh2EAHtCxwQyqCPIiDF1x6oSY1ZS0ASGnmgs-q6vv0aFQ_x4TbeCZPgf5HFDF0cPJImQxP1uxQEYAIQNO6Cpam0jf4TSp2dZmVKPW- [12]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRNYqRMzQVqbjumIX366itKSZvPZIvwIKgMS4iFJIUKODxzZZQet8oRy3HvjeaOxqq7IF2gLUyyF_9hbeSNUSZmKzu01DKJnfyn9K-ic60xEC8Qnz1onm58l7WMnZSQOLShIQc63HizZDBWL7nWWcELHvlTxO4U4jCrzL84Rs_FX1_m69Scgyj86tbDx7I6gjCrkXRmjQs_-zXtcmaPvQGwIGH4JQi80vXUsQ= [22]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIjR9FwZR6nNbq1wM66NhFaAQvVyVCC3lWATiV4cS56kabOgBodQguNj_0hZqc4mxCpV6V8EjjxwHxLW3d05aY5a_F39_SrNYZC-WoLx8RA--chA4LtiKK9amgkMbIm0iNEU6PrKd2yb6ENf1usK2ZwLIhRS2ASWxH25XHphXZZs7D5P1MS68jM4HbgCHxGLz6WrUIdFi0nhOdAp3goTJjzaOL78rI4WyvoisejgzclGM= [32]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Al Hilal-Al Hazem",
-      "competizione": "Saudi League (Campionato Saudita)",
-      "canale": "Sportitalia, Como TV",
-      "note": "Diretta",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo3GxkT9MH7u9HJ2R3KobIOqICh-zzSVEEdKr5zvn7icwidYNl5DgqG4jbbnZ422ABLlN2zeZxxgVTK02W3JoDVIcUXfKiClYVjmWGtwE8pD5nDAiE0aKAWojno9RaIW7dGtA= [1]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFizb0k-rMW_RqUFS0bP49qCId0XP3UkNkm58Ii2SBFSPNj0TG48zPurwSRsEq770msGsKtjV1SYMriJKxg1_ayhbJ2UVM9qlc4YQION_dAcEHXHrbHf80D1MimTKoR2KVvOgDaqJHinqChN6vgg7U_rB8pRpidcSim8cBQZRI532R3ZW-y0AgYvp9vjV37DXoKxUl65jPYlgsKGrU [2]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIjR9FwZR6nNbq1wM66NhFaAQvVyVCC3lWATiV4cS56kabOgBodQguNj_0hZqc4mxCpV6V8EjjxwHxLW3d05aY5a_F39_SrNYZC-WoLx8RA--chA4LtiKK9amgkMbIm0iNEU6PrKd2yb6ENf1usK2ZwLIhRS2ASWxH25XHphXZZs7D5P1MS68jM4HbgCHxGLz6WrUIdFi0nhOdAp3goTJjzaOL78rI4WyvoisejgzclGM= [32]",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQhwQFAZtjkYHz6ts7NY_3_oktDfmYovRNkU4dKnZCjMTZa03XQE6TsU6ybC7rC7mU310MDjQSiP4qM35bBaLNCy3KVNrrSRQGjH94LdZ4vOUNULuYwsjJPQ2Ho8EY48xLgL0x3vOTKweOuorIMdnGSJdodX0KdmlSCbXtdOplQ6xBtDyVq48hu8B_oeZq-W94mm2E9qwaUrtq9l2SSSwoWM45LtGcm19YjBc",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Parma-Torino",
+      "evento": "Parma - Torino",
       "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251, DAZN",
-      "note": "Co-esclusiva Sky",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlds_3F7xrxR0-V7XGCUu0MdjewL-TRDKGTfXBfLZipkE7bw5DolHQUsh6lEQO5iOwTDutSdpRa7Fmf1Gh-rPBD7xw-naZcNTvj4-oHJ6aUfO_A3sSxevSsyusUt6kbWTVB3gQwlyEhRPyOcPZoHaLeFKDKa6tR-OHAXWc25LDnD6d5KFvXyCKPFfG6mxvJsA6e_5I9Xq-k5teBNhASX6E2-gCrFY3kXgX8lgddeP7wFd0wKPdXqPXnacmuHEpHPbE [3]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjTV0ndoRleC-5GSGxadOOaI4IHJgJpuBAOaGSk5HrqV-uVRPLxoroZII5XcMJRZpSDV830OAtkQY9vAEfXY98RAMrqd93XlvZzoRCUIrlKFh8j54MpXMRIOHqp4CQBed9kQvoBxnJIQTv2l1CdWjIbvCA2zAQETcxtbmoz8QbSOaJG_Ak7VA8MW3cgZPDguJO6p7oltngEzGEQM2_nVG6R1snuwjiRHDHV8vKsHhzrU [8]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmKgyBVaPyNx5GTk9fdX7s_pccPBHEMQBiaDbApN1PTxHdQ5Aev9p0hRAlzq4Yk5WCMQq1EQYZQFh2EAHtCxwQyqCPIiDF1x6oSY1ZS0ASGnmgs-q6vv0aFQ_x4TbeCZPgf5HFDF0cPJImQxP1uxQEYAIQNO6Cpam0jf4TSp2dZmVKPW- [12]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3gnym1FneVFC7JhxrcU-9N2g6VXLNLIkxoMeyG43BUxk4qUqDNPAOEiVytx05ewyLk2M57tg1QVH1gLXQYULkoQlfaYkjCpmPMddged0DGUbazkr6fLIhg7n34-F16TpiWQpjHIJqbR_G3gh4Y_Iz58WBA4uiLWr6uV4MUgNeYUb04VVZqhMTYT6IbYsFu5oWCA== [14]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdPmxsQVvlHLgRJ9ETQGP4xrOsosgHyuzmwPmixONHJnUo81Q9eat5bMo0uRY2TSlJ6vR9mSmOGIhQK3i_BWkpjC0jeGnyCKdvIzSH-5_LAQlqfErjjb336d1S_bbk1h6yKD2cTGc-zitHb8qWofqzdSNAylBG_TLDIIhXF8I4vr9AkfuYb-C96246uZN3rIgek2oitu7fcEVot0SZaHBbLiuxO5YvVo= [17]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRNYqRMzQVqbjumIX366itKSZvPZIvwIKgMS4iFJIUKODxzZZQet8oRy3HvjeaOxqq7IF2gLUyyF_9hbeSNUSZmKzu01DKJnfyn9K-ic60xEC8Qnz1onm58l7WMnZSQOLShIQc63HizZDBWL7nWWcELHvlTxO4U4jCrzL84Rs_FX1_m69Scgyj86tbDx7I6gjCrkXRmjQs_-zXtcmaPvQGwIGH4JQi80vXUsQ= [22]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2Cadn2F-1BMJOAsR4SErk_c_wLfZGrpV3eRSwdC0u8oMzDlwCeU9-eYbeh8OUsIEjhFacrgNxfRZPnDgfP59oo0xmX3BVaM0MO2rMQTR_mt6nBL9GDkbV1heG6DBnrVMwKsCPUqvzF3CgP-C8mGtdXcrNXNnYOiIP8UgUmAVS2yG3g9T0pBRaBVuGIJsar-sBrDeSEy3jfFQxB8z_uDrHtErQaA== [23]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-lc7O1NrCrecTb7Fh11s_lBajr1ZCl2UHru-z0QP7LmDGFjyb2gND2YzxDprSxwYM3vXzckq_W-Y4YR2T-i7sFXs1Eo6pSRhsqGqOEUIPzuAS_dus7549FP7IItI_0aN4D9uV-cvRufy2AEwyFa4qq3rEUMf_UEonkRC4yhxkf6ARdpKEGRnqVqpVgxLTbwVeamct9o-5A3vbSB0iYE-v [30]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIjR9FwZR6nNbq1wM66NhFaAQvVyVCC3lWATiV4cS56kabOgBodQguNj_0hZqc4mxCpV6V8EjjxwHxLW3d05aY5a_F39_SrNYZC-WoLx8RA--chA4LtiKK9amgkMbIm0iNEU6PrKd2yb6ENf1usK2ZwLIhRS2ASWxH25XHphXZZs7D5P1MS68jM4HbgCHxGLz6WrUIdFi0nhOdAp3goTJjzaOL78rI4WyvoisejgzclGM= [32]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXdaZAkcHzDPjcgiGNh9Z4hiqvAVT7kmae5lS54iV3wwJz_MjvE2AIcHZUmC_mJRE6mVHqm2GLmQWI7ezy1D57UWAMknDkJdqxMvUidmjqdH9EKmRY_cGFsl6JS1QiWbfEVE6RmyqRmR6kWgluIoUin43VEq1BGPHHpa_i6u6Wn57MMFFFoxw= [35]",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:30",
-      "evento": "San Lorenzo-Estudiantes",
-      "competizione": "Campionato argentino",
-      "canale": "Sportitalia",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo3GxkT9MH7u9HJ2R3KobIOqICh-zzSVEEdKr5zvn7icwidYNl5DgqG4jbbnZ422ABLlN2zeZxxgVTK02W3JoDVIcUXfKiClYVjmWGtwE8pD5nDAiE0aKAWojno9RaIW7dGtA= [1]",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Z2QUKqNBKbjql45n1Q8RYYY1UWnnrWJyIf_hxhjIgQszdeiUcYlFsJWZet9dvtcZrbNkJbQt5cCR_fwzI2VD4be6yeZakaRhiQKwNzc38DotawPkoj9Z3wMJkmzlyrkFniGF6e44lkKLximmqKL-hUrvZHulWQrCkYhn0s0EXiNO2RS6FmaEXyONxCSZWkoc6me-UU-NkDhQC3g5oh90kSFnNj5EMdg",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "ATP Lione: Primo Turno Lorenzo Sonego vs Moise Kouamé",
-      "competizione": "ATP 250 Grand Prix Auvergne-Rhone-Alpes, Lione",
-      "canale": "Sky Sport Tennis (probabile), NOW",
-      "note": "Orario da definire, dipende dai match precedenti",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlds_3F7xrxR0-V7XGCUu0MdjewL-TRDKGTfXBfLZipkE7bw5DolHQUsh6lEQO5iOwTDutSdpRa7Fmf1Gh-rPBD7xw-naZcNTvj4-oHJ6aUfO_A3sSxevSsyusUt6kbWTVB3gQwlyEhRPyOcPZoHaLeFKDKa6tR-OHAXWc25LDnD6d5KFvXyCKPFfG6mxvJsA6e_5I9Xq-k5teBNhASX6E2-gCrFY3kXgX8lgddeP7wFd0wKPdXqPXnacmuHEpHPbE [3]; https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJtv4xiI_XX_emtECdChbG14SJpszlAgz6_V9a0pBFy6zBdan-t544iGxsSHpA3ySdSxxbWDVW-7bMEpASAVAdtzAgYfjtkndTqvIkqNoCXXySdsCIMKvwVlSBSqn85hfz0TjHBY8YwtvYL3RhxTRA9SA4d9JT9c28c8TrRhMqzOzaG3oaTXTBNpXyKT_K [36]",
-      "accuratezza_orario": "tba"
+      "orario": "08:30*",
+      "evento": "Tennis: ATP 250 Almaty - 1° Turno (match Luciano Darderi)",
+      "competizione": "ATP Tour",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Orario stimato, all'interno della programmazione ATP generale che inizia alle 08:30 CET e prosegue fino alle 19:05 CET su Sky Sport Uno.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6IyJICcey463ktSESvbjGdiF4O71E3wlq4EVP0JFrWxrQB6RH5Vz5yBPGfO5X201-ibYS-ndvATeTx_r-4PsnLwRHI1jwq8bp5CXX2YoyxlTfMSqQ43QB01BKXV1VidADH5XqJAhvOwzBARyqBStSEHtffP2LPMJYiFJv1SD_B34hcSftINfvSqTTXdT7fPE-CVHU7IuAhpuHh3nzQYM0KxKuuLgijYkJD31TJbXK2UwTmxkWb-R2sredGmrJaQ",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "00:00*",
-      "evento": "Manchester City - Sunderland",
-      "competizione": "Calcio",
-      "canale": "Sportitalia",
-      "note": "Evento registrato (probabile)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo3GxkT9MH7u9HJ2R3KobIOqICh-zzSVEEdKr5zvn7icwidYNl5DgqG4jbbnZ422ABLlN2zeZxxgVTK02W3JoDVIcUXfKiClYVjmWGtwE8pD5nDAiE0aKAWojno9RaIW7dGtA= [1]",
+      "orario": "08:30*",
+      "evento": "Tennis: ATP 250 Lione - 1° Turno (match Lorenzo Sonego)",
+      "competizione": "ATP Tour",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Orario stimato, all'interno della programmazione ATP generale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6IyJICcey463ktSESvbjGdiF4O71E3wlq4EVP0JFrWxrQB6RH5Vz5yBPGfO5X201-ibYS-bNfvATeTx_r-4PsnLwRHI1jwq8bp5CXX2YoyxlTfMSqQ43QB01BKXV1VidADH5XqJAhvOwzBARyqBStSEHtffP2LPMJYiFJv1SD_B34hcSftINfvSqTTXdT7fPE-CVHU7IuAhpuHh3nzQYM0KxKuuLgijYkJD31TJbXK2UwTmxkWb-R2sredGmrJaQ",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "08:30*",
+      "evento": "Tennis: ATP 250 Lione - 1° Turno (derby italiano Lorenzo Musetti vs Matteo Arnaldi)",
+      "competizione": "ATP Tour",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Orario stimato, all'interno della programmazione ATP generale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6IyJICcey463ktSESvbjGdiF4O71E3wlq4EVP0JFrWxrQB6RH5Vz5yBPGfO5X201-ibYS-ndvATeTx_r-4PsnLwRHI1jwq8bp5CXX2YoyxlTfMSqQ43QB01BKXV1VidADH5XqJAhvOwzBARyqBStSEHtffP2LPMJYiFJv1SD_B34hcSftINfvSqTTXdT7fPE-CVHU7IuAhpuHh3nzQYM0KxKuuLgijYkJD31TJbXK2UwTmxkWb-R2sredGmrJaQ",
       "accuratezza_orario": "stimato"
     }
   ]
