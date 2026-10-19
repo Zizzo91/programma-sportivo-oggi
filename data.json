@@ -1,50 +1,41 @@
 {
-  "last_updated": "2026-10-19T19:54:07.883145+02:00",
+  "last_updated": "2026-10-19T23:49:05.370567+02:00",
   "events": [
     {
       "orario": "18:30",
-      "evento": "Monza - Cagliari",
+      "evento": "Monza-Cagliari",
       "competizione": "Serie A",
-      "canale": "DAZN",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQhwQFAZtjkYHz6ts7NY_3_oktDfmYovRNkU4dKnZCjMTZa03XQE6TsU6ybC7rC7mU310MDjQSiP4qM35bBaLNCy3KVNrrSRQGjH94LdZ4vOUNULuYwsjJPQ2Ho8EY48xLgL0x3vOTKweOuorIMdnGSJdodX0KdmlSCbXtdOplQ6xBtDyVq48hu8B_oeZq-W94mm2E9qwaUrtq9l2SSSwoWM45LtGcm19YjBc",
+      "fonte": "Sky Sport, Libero, Calciomagazine, Calcio e Finanza, AC Monza, Virgilio Sport, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Parma - Torino",
+      "evento": "Parma-Torino",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
+      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Z2QUKqNBKbjql45n1Q8RYYY1UWnnrWJyIf_hxhjIgQszdeiUcYlFsJWZet9dvtcZrbNkJbQt5cCR_fwzI2VD4be6yeZakaRhiQKwNzc38DotawPkoj9Z3wMJkmzlyrkFniGF6e44lkKLximmqKL-hUrvZHulWQrCkYhn0s0EXiNO2RS6FmaEXyONxCSZWkoc6me-UU-NkDhQC3g5oh90kSFnNj5EMdg",
+      "fonte": "Sky Sport, Libero, Calciomagazine, Virgilio Sport, Digital-News.it, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "08:30*",
-      "evento": "Tennis: ATP 250 Almaty - 1° Turno (match Luciano Darderi)",
-      "competizione": "ATP Tour",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Orario stimato, all'interno della programmazione ATP generale che inizia alle 08:30 CET e prosegue fino alle 19:05 CET su Sky Sport Uno.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6IyJICcey463ktSESvbjGdiF4O71E3wlq4EVP0JFrWxrQB6RH5Vz5yBPGfO5X201-ibYS-ndvATeTx_r-4PsnLwRHI1jwq8bp5CXX2YoyxlTfMSqQ43QB01BKXV1VidADH5XqJAhvOwzBARyqBStSEHtffP2LPMJYiFJv1SD_B34hcSftINfvSqTTXdT7fPE-CVHU7IuAhpuHh3nzQYM0KxKuuLgijYkJD31TJbXK2UwTmxkWb-R2sredGmrJaQ",
+      "orario": "15:00*",
+      "evento": "Matteo Arnaldi (ITA) vs Lorenzo Musetti (ITA)",
+      "competizione": "ATP 250 Lione",
+      "canale": "Sky Sport Tennis, NOW",
+      "note": "Primo turno. Orario stimato (non prima delle 15:00 CET).",
+      "fonte": "Virgilio Sport, Sportface.it, Sky Sport, TennisTalker Magazine",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "08:30*",
-      "evento": "Tennis: ATP 250 Lione - 1° Turno (match Lorenzo Sonego)",
-      "competizione": "ATP Tour",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Orario stimato, all'interno della programmazione ATP generale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6IyJICcey463ktSESvbjGdiF4O71E3wlq4EVP0JFrWxrQB6RH5Vz5yBPGfO5X201-ibYS-bNfvATeTx_r-4PsnLwRHI1jwq8bp5CXX2YoyxlTfMSqQ43QB01BKXV1VidADH5XqJAhvOwzBARyqBStSEHtffP2LPMJYiFJv1SD_B34hcSftINfvSqTTXdT7fPE-CVHU7IuAhpuHh3nzQYM0KxKuuLgijYkJD31TJbXK2UwTmxkWb-R2sredGmrJaQ",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "08:30*",
-      "evento": "Tennis: ATP 250 Lione - 1° Turno (derby italiano Lorenzo Musetti vs Matteo Arnaldi)",
-      "competizione": "ATP Tour",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Orario stimato, all'interno della programmazione ATP generale.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6IyJICcey463ktSESvbjGdiF4O71E3wlq4EVP0JFrWxrQB6RH5Vz5yBPGfO5X201-ibYS-ndvATeTx_r-4PsnLwRHI1jwq8bp5CXX2YoyxlTfMSqQ43QB01BKXV1VidADH5XqJAhvOwzBARyqBStSEHtffP2LPMJYiFJv1SD_B34hcSftINfvSqTTXdT7fPE-CVHU7IuAhpuHh3nzQYM0KxKuuLgijYkJD31TJbXK2UwTmxkWb-R2sredGmrJaQ",
-      "accuratezza_orario": "stimato"
+      "orario": "TBA",
+      "evento": "Lorenzo Sonego (ITA) vs Moise Kouame (FRA)",
+      "competizione": "ATP 250 Lione",
+      "canale": "Sky Sport Tennis, NOW",
+      "note": "Primo turno. Orario da definire (a seguire dopo Arnaldi-Musetti).",
+      "fonte": "Virgilio Sport, Sportface.it, Sky Sport, TennisTalker Magazine",
+      "accuratezza_orario": "tba"
     }
   ]
 }
