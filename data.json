@@ -1,4 +1,59 @@
 {
-  "last_updated": "2026-10-18T21:48:38.401746+02:00",
-  "events": []
+  "last_updated": "2026-10-19T04:13:03.570265+02:00",
+  "events": [
+    {
+      "orario": "04:30",
+      "evento": "ATP 250 Lione / Bruxelles / Almaty (con Luciano Darderi) e WTA 500 Ningbo / WTA 250 Osaka - Copertura generale",
+      "competizione": "Tennis ATP/WTA",
+      "canale": "Sky Sport Tennis",
+      "note": "Programmazione fino alle 21:00, con possibili incontri di italiani. Luciano Darderi partecipa all'ATP 250 di Almaty.",
+      "fonte": "https://sportface.it/tennis/tennis-su-sky-e-now-dal-19-al-25-ottobre-cinque-tornei-atp-e-wta-in-diretta/2026/10/16/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "08:30",
+      "evento": "ATP 250 Lione / Bruxelles / Almaty (con Luciano Darderi) e WTA 500 Ningbo / WTA 250 Osaka - Copertura generale",
+      "competizione": "Tennis ATP/WTA",
+      "canale": "Sky Sport Uno",
+      "note": "Programmazione fino alle 19:15, con possibili incontri di italiani. Luciano Darderi partecipa all'ATP 250 di Almaty.",
+      "fonte": "https://sportface.it/tennis/tennis-su-sky-e-now-dal-19-al-25-ottobre-cinque-tornei-atp-e-wta-in-diretta/2026/10/16/",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "17:00",
+      "evento": "Kings Cup Lottomatica.Sport: Caesar - Circus",
+      "competizione": "Kings Cup",
+      "canale": "DAZN (gratuito)",
+      "note": "Inizio della Kings Cup.",
+      "fonte": "https://www.ilgiornaleditalia.it/news/sport/468846/kings-cup-lottomatica-sport-al-via-il-19-ottobre-con-12-squadre-fedez-contro-blur-alle-21-e-final-4-in-programma-il-30-novembre.html",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Monza - Cagliari",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "7ª giornata di Serie A.",
+      "fonte": "https://www.goal.com/it/liste/calendario-serie-a-dazn-sky-ottobre/blt804c478a85f40076",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Parma - Torino",
+      "competizione": "Serie A",
+      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN",
+      "note": "7ª giornata di Serie A.",
+      "fonte": "https://www.skysport.it/calcio/serie-a/2026/10/16/calendario-serie-a-7-giornata-programma-sky-dazn",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Kings Cup Lottomatica.Sport: Stallions - Boomers (Fedez vs Blur)",
+      "competizione": "Kings Cup",
+      "canale": "DAZN (gratuito)",
+      "note": "Partita clou della Kings Cup.",
+      "fonte": "https://www.ilgiornaleditalia.it/news/sport/468846/kings-cup-lottomatica-sport-al-via-il-19-ottobre-con-12-squadre-fedez-contro-blur-alle-21-e-final-4-in-programma-il-30-novembre.html",
+      "accuratezza_orario": "esatto"
+    }
+  ]
 }
