@@ -1,58 +1,112 @@
 {
-  "last_updated": "2026-10-20T17:57:55.516330+02:00",
+  "last_updated": "2026-10-20T22:58:49.320559+02:00",
   "events": [
     {
-      "orario": "07:00*",
-      "evento": "WTA Ningbo 2026 - Secondo turno: Jasmine Paolini vs Anhelina Kalinina (2° match)",
-      "competizione": "Tennis WTA 500",
-      "canale": "Sky Sport Tennis (203), Sky Sport Uno (dalle 08:30), SuperTennis HD",
-      "note": "Orario stimato, il programma inizia alle 07:00. Paolini è il secondo match in programma.",
-      "fonte": "OA Sport, Sky Sport, Sportface.it, Ubitennis",
-      "accuratezza_orario": "stimato"
+      "orario": "08:30",
+      "evento": "Jasmine Paolini vs Anhelina Kalinina",
+      "competizione": "Tennis - WTA 500 Ningbo",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, SuperTennis",
+      "note": "Secondo match di giornata, inizio programma ore 07:00",
+      "fonte": "https://www.ubitennis.com/blog/2026/10/20/wta-atp-italiani-in-campo-martedi-20-ottobre-esordio-per-paolini-e-berrettini/, https://www.bet365.it/news/tennis/tennis-gli-italiani-in-campo-oggi-programma-data-orario-e-dove-vedere-bellucci-darderi-e-paolini/, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
       "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League 2026/2027",
-      "canale": "Sky Sport Uno, Sky Sport 251",
-      "note": "Copertura in contemporanea delle partite delle 18:45.",
-      "fonte": "OA Sport, Sky Sport",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Per seguire in contemporanea le partite delle 18:45",
+      "fonte": "https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/, https://www.quotidiano.net/programmi-tv/sky-sport-uno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Sabah-Borussia Dortmund",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Sport 254",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Fenerbahçe-Slavia Praga",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 255",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.guida.tv/palinsesto/sky-sport-arena, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00*",
-      "evento": "ATP Lione 2026 - Primo turno: Matteo Berrettini vs Kyrian Jacquet",
-      "competizione": "Tennis ATP 250",
-      "canale": "Sky Sport, NOW",
-      "note": "Match non prima delle 19:00.",
-      "fonte": "Sky Sport, TennisTalker Magazine, Ubitennis",
+      "evento": "Matteo Berrettini vs Kyrian Jacquet",
+      "competizione": "Tennis - ATP 250 Lyon",
+      "canale": "Sky Sport, NOW, SuperTennis",
+      "note": "Non prima delle 19:00 CET",
+      "fonte": "https://www.ubitennis.com/blog/2026/10/20/wta-atp-italiani-in-campo-martedi-20-ottobre-esordio-per-paolini-e-berrettini/, https://www.livetennis.it/post/300194/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-20-ottobre-2026/, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Napoli-Bodo/Glimt",
-      "competizione": "UEFA Champions League 2026/2027",
-      "canale": "Sky Sport Uno, Sky Sport 252, NOW",
-      "note": null,
-      "fonte": "OA Sport, Sky Sport, Libero, Skuola.net, Sport in TV, Sportface.it, TorreSette, Sportface, Goal.com",
+      "evento": "Napoli-Bodø/Glimt",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 252",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.ilfaro.online/2026/10/19/champions-league-roma-slovan-bratislava-e-napoli-bodo-glimt-probabili-formazioni-orari-e-dove-vederle/, https://sport.sky.it/calcio/champions-league/2026/10/20/champions-league-calendario-partite-oggi, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://sport.sky.it/guida-tv/oggi/, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Roma-Slovan Bratislava",
-      "competizione": "UEFA Champions League 2026/2027",
-      "canale": "Sky Sport Arena, Sky Sport 4K, Sky Sport 253, NOW",
-      "note": null,
-      "fonte": "OA Sport, Sky Sport, Virgilio Sport, Canale 10, Libero, Skuola.net, Sport in TV, Sportface.it, TorreSette, Sportface, Sky Sport Arena, Goal.com",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 253, Sky Sport 4K",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.ilfaro.online/2026/10/19/champions-league-roma-slovan-bratislava-e-napoli-bodo-glimt-probabili-formazioni-orari-e-dove-vederle/, https://sport.sky.it/calcio/champions-league/2026/10/20/champions-league-calendario-partite-oggi, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.guida.tv/palinsesto/sky-sport-arena, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League 2026/2027",
-      "canale": "Sky Sport 251, NOW",
-      "note": "Copertura in contemporanea delle partite delle 21:00.",
-      "fonte": "OA Sport, Sky Sport, TorreSette",
+      "evento": "PSG-Barcellona",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Sport 254",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Manchester City-AEK Atene",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Mix, Sky Sport 255",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Liverpool-Villarreal",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport 256",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Stoccarda-Atlético Madrid",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport 257",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Porto-PSV Eindhoven",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport 258",
+      "note": "Terza giornata fase a gironi",
+      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/",
       "accuratezza_orario": "esatto"
     }
   ]
