@@ -1,139 +1,58 @@
 {
-  "last_updated": "2026-10-20T12:34:24.868047+02:00",
+  "last_updated": "2026-10-20T17:57:55.516330+02:00",
   "events": [
     {
-      "orario": "07:00",
-      "evento": "WTA Ningbo (con Jasmine Paolini)",
-      "competizione": "WTA 500",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, SuperTennis HD",
-      "note": "Inizio programma copertura del torneo, inclusa la partita di primo turno di Jasmine Paolini (già conclusa con vittoria).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRf740xWgjGcAoPB3llc20ZO15zLdXUJs9TUPlRZMIIe1ZpUMDt8Ik2cDKcBPAU6YY03ciB_Ti6mauezCzKSTpNVWsTynwQ0b4imyNDKOEfpSej45IPwozFyqmyGpqDwMVS97AzhqwGu9_RwsCWIPLvSF1Ob6eoh-WKaqswO3L8qDsQxAW2oJDvOA46KeKw_eLFnI2RgE2caZIZVQBUyBtlsCib0MUxpX8Mpmaw5tpO8wb6Ps-W7L-YRt1sJyX6hI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIfjDwNZ0aLrLhz4sRr763vq-HyUNKEZ8LMKXRTBFirdj0FeggS0Dk9RMeMUHscVTMJc2TFcvZNluFMFo8TrLM87agaiovZCsFmoRIUwMKeoZuGEfVREDhArve14bqzb2Me6Yh9aRILcpA7tx-Av8cDD_rQNu8BSNqTKW8n473PIcWtyhZnMUWn6WVar5JjUC73OMLBoN12DKL3KSH-UCBBnSUUqIMYF3dtBRoV9u9dkipAdcvfKuAHrAQZyx74N9v",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "ATP Lione",
-      "competizione": "ATP 250",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Tennis TV",
-      "note": "Inizio programma copertura del torneo. Matteo Berrettini giocherà più tardi.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIfjDwNZ0aLrLhz4sRr763vq-HyUNKEZ8LMKXRTBFirdj0FeggS0Dk9RMeMUHscVTMJc2TFcvZNluFMFo8TrLM87agaiovZCsFmoRIUwMKeoZuGEfVREDhArve14bqzb2Me6Yh9aRILcpA7tx-Av8cDD_rQNu8BSNqTKW8n473PIcWtyhZnMUWn6WVar5JjUC73OMLBoN12DKL3KSH-UCBBnSUUqIMYF3dtBRoV9u9dkipAdcvfKuAHrAQZyx74N9v",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Sky Calcio Show - Pre-partita Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport (vari canali)",
-      "note": "Studio pre-partita con Licia Virdis.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1_P11SDV3ax4degzgoLgMtChryjaxJ24glOOpiW39yVr3Cu9Jdu3wX7vAo-PcdABP_So1fBYgcVTVcX2TtS1H8SpKbEnm7OYI_g0K9RUFko4C3OK_u1OnsDhGzUoIhaEuJH8K3-XGnGz6Ipl1XjqAqqoyGujF_FT81FcZ8Dv-GdMIx60hf0Ki9CipVRGBqNowpTDYIP2M25Cw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:40",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Copertura multi-campo degli anticipi di Champions League.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7XQz5kzZBRL16eYwDQt73jEzfLdeXsN_lK-fv9haBJSKLXTxFnM19EleS82S39sHQ2npS6e4y9vEbMCmdAn4AiDi1mrYg-QbjuOWGoTGAfhOIXz-IFWEpJSCJVob__nOsUXG2UgdY8DQGYBk1-mQzWebpcZvKJUWQf_hbQ5LssQVxcsuhwQ9IorFFA7MArcZFYznt1Ke6Qz6qmG9Sb58hlXbd-g==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:40",
-      "evento": "Sabah - Borussia Dortmund",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Calcio, Sky Sport 254",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7XQz5kzZBRL16eYwDQt73jEzfLdeXsN_lK-fv9haBJSKLXTxFnM19EleS82S39sHQ2npS6e4y9vEbMCmdAn4AiDi1mrYg-QbjuOWGoTGAfhOIXz-IFWEpJSCJVob__nOsUXG2UgdY8DQGYBk1-mQzWebpcZvKJUWQf_hbQ5LssQVxcsuhwQ9IorFFA7MArcZFYznt1Ke6Qz6qmG9Sb58hlXbd-g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVKP4vuSSPRY7SzJA5xgmw5rBrdf4MMSKYJpVnR1a-Gs1OuHJhEv4Fq6_uJzsD-0WdBptkVFfGfivCO0gk3cHGVq8l8p_69m0LxD6HU4ee5gPHM7P9C7eTLV5_xPOLcNykZaXs0FmCxrJdcZkei5Y5oTsx06W1MZp6nPQDB-i5Izwgd5oRe7TZPyq-Evz-4tPH--NT7Ak3nfcO7_RwIfALiIkqVzGnDTAJg0Mk3cQu7j93tU6er3lBf-qyQhCkagV-o4PKhVMTH9QPB6gFCQ-bKRIk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:40",
-      "evento": "Fenerbahce - Slavia Praga",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 255",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7XQz5kzZBRL16eYwDQt73jEzfLdeXsN_lK-fv9haBJSKLXTxFnM19EleS82S39sHQ2npS6e4y9vEbMCmdAn4AiDi1mrYg-QbjuOWGoTGAfhOIXz-IFWEpJSCJVob__nOsUXG2UgdY8DQGYBk1-mQzWebpcZvKJUWQf_hbQ5LssQVxcsuhwQ9IorFFA7MArcZFYznt1Ke6Qz6qmG9Sb58hlXbd-g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVKP4vuSSPRY7SzJA5xgmw5rBrdf4MMSKYJpVnR1a-Gs1OuHJhEv4Fq6_uJzsD-0WdBptkVFfGfivCO0gk3cHGVq8l8p_69m0LxD6HU4ee5gPHM7P9C7eTLV5_xPOLcNykZaXs0FmCxrJdcZkei5Y5oTsx06W1MZp6nPQDB-i5Izwgd5oRe7TZPyq-Evz-4tPH--NT7Ak3nfcO7_RwIfALiIkqVzGnDTAJg0Mk3cQu7j93tU6er3lBf-qyQhCkagV-o4PKhVMTH9QPB6gFCQ-bKRIk=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Matteo Berrettini vs Kyrian Jacquet",
-      "competizione": "ATP Lione - Primo Turno",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Tennis TV",
-      "note": "Match di Matteo Berrettini. Orario stimato (non prima delle 19:00).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgH0jdMhyjWxiH4nC_JRCWcsbMTMGyvYZiSdi2GqqardwqHp7QVOTz_uyKUEc0f9T1ERKe3R7sizjW4kWdApfglDfw7dQUXPc8Ukl9l2ilx3huQvTK_mkstVE3m35U-o5AA2fkSUJ7QroNUTN0lff7_AWA0q2HYNOeeKUrepd0rCILwuImE6SmmsF8LFaJf6uuWf1y1H92vYkbfUyU6WqPigw6a5Cuqe_r919E-c0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIfjDwNZ0aLrLhz4sRr763vq-HyUNKEZ8LMKXRTBFirdj0FeggS0Dk9RMeMUHscVTMJc2TFcvZNluFMFo8TrLM87agaiovZCsFmoRIUwMKeoZuGEfVREDhArve14bqzb2Me6Yh9aRILcpA7tx-Av8cDD_rQNu8BSNqTKW8n473PIcWtyhZnMUWn6WVar5JjUC73OMLBoN12DKL3KSH-UCBBnSUUqIMYF3dtBRoV9u9dkipAdcvfKuAHrAQZyx74N9v",
+      "orario": "07:00*",
+      "evento": "WTA Ningbo 2026 - Secondo turno: Jasmine Paolini vs Anhelina Kalinina (2° match)",
+      "competizione": "Tennis WTA 500",
+      "canale": "Sky Sport Tennis (203), Sky Sport Uno (dalle 08:30), SuperTennis HD",
+      "note": "Orario stimato, il programma inizia alle 07:00. Paolini è il secondo match in programma.",
+      "fonte": "OA Sport, Sky Sport, Sportface.it, Ubitennis",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:00",
-      "evento": "Sky Calcio Show - Pre-partita Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport (vari canali)",
-      "note": "Studio pre-partita con Federica Masolin, Paolo Condò, Alessandro Del Piero, Alessandro Costacurta e Alessandro Florenzi.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1_P11SDV3ax4degzgoLgMtChryjaxJ24glOOpiW39yVr3Cu9Jdu3wX7vAo-PcdABP_So1fBYgcVTVcX2TtS1H8SpKbEnm7OYI_g0K9RUFko4C3OK_u1OnsDhGzUoIhaEuJH8K3-XGnGz6Ipl1XjqAqqoyGujF_FT81FcZ8Dv-GdMIx60hf0Ki9CipVRGBqNowpTDYIP2M25Cw==",
+      "orario": "18:45",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League 2026/2027",
+      "canale": "Sky Sport Uno, Sky Sport 251",
+      "note": "Copertura in contemporanea delle partite delle 18:45.",
+      "fonte": "OA Sport, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:55",
-      "evento": "Roma - Slovan Bratislava",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 253, Sky Sport 4K",
-      "note": "Squadra italiana in campo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1_P11SDV3ax4degzgoLgMtChryjaxJ24glOOpiW39yVr3Cu9Jdu3wX7vAo-PcdABP_So1fBYgcVTVcX2TtS1H8SpKbEnm7OYI_g0K9RUFko4C3OK_u1OnsDhGzUoIhaEuJH8K3-XGnGz6Ipl1XjqAqqoyGujF_FT81FcZ8Dv-GdMIx60hf0Ki9CipVRGBqNowpTDYIP2M25Cw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7XQz5kzZBRL16eYwDQt73jEzfLdeXsN_lK-fv9haBJSKLXTxFnM19EleS82S39sHQ2npS6e4y9vEbMCmdAn4AiDi1mrYg-QbjuOWGoTGAfhOIXz-IFWEpJSCJVob__nOsUXG2UgdY8DQGYBk1-mQzWebpcZvKJUWQf_hbQ5LssQVxcsuhwQ9IorFFA7MArcZFYznt1Ke6Qz6qmG9Sb58hlXbd-g==",
-      "accuratezza_orario": "esatto"
+      "orario": "19:00*",
+      "evento": "ATP Lione 2026 - Primo turno: Matteo Berrettini vs Kyrian Jacquet",
+      "competizione": "Tennis ATP 250",
+      "canale": "Sky Sport, NOW",
+      "note": "Match non prima delle 19:00.",
+      "fonte": "Sky Sport, TennisTalker Magazine, Ubitennis",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "20:55",
-      "evento": "Napoli - Bodø Glimt",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 252",
-      "note": "Squadra italiana in campo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1_P11SDV3ax4degzgoLgMtChryjaxJ24glOOpiW39yVr3Cu9Jdu3wX7vAo-PcdABP_So1fBYgcVTVcX2TtS1H8SpKbEnm7OYI_g0K9RUFko4C3OK_u1OnsDhGzUoIhaEuJH8K3-XGnGz6Ipl1XjqAqqoyGujF_FT81FcZ8Dv-GdMIx60hf0Ki9CipVRGBqNowpTDYIP2M25Cw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7XQz5kzZBRL16eYwDQt73jEzfLdeXsN_lK-fv9haBJSKLXTxFnM19EleS82S39sHQ2npS6e4y9vEbMCmdAn4AiDi1mrYg-QbjuOWGoTGAfhOIXz-IFWEpJSCJVob__nOsUXG2UgdY8DQGYBk1-mQzWebpcZvKJUWQf_hbQ5LssQVxcsuhwQ9IorFFA7MArcZFYznt1Ke6Qz6qmG9Sb58hlXbd-g==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:55",
-      "evento": "PSG - Barcellona",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Calcio, Sky Sport 254",
-      "note": "Big match di Champions League.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1_P11SDV3ax4degzgoLgMtChryjaxJ24glOOpiW39yVr3Cu9Jdu3wX7vAo-PcdABP_So1fBYgcVTVcX2TtS1H8SpKbEnm7OYI_g0K9RUFko4C3OK_u1OnsDhGzUoIhaEuJH8K3-XGnGz6Ipl1XjqAqqoyGujF_FT81FcZ8Dv-GdMIx60hf0Ki9CipVRGBqNowpTDYIP2M25Cw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7XQz5kzZBRL16eYwDQt73jEzfLdeXsN_lK-fv9haBJSKLXTxFnM19EleS82S39sHQ2npS6e4y9vEbMCmdAn4AiDi1mrYg-QbjuOWGoTGAfhOIXz-IFWEpJSCJVob__nOsUXG2UgdY8DQGYBk1-mQzWebpcZvKJUWQf_hbQ5LssQVxcsuhwQ9IorFFA7MArcZFYznt1Ke6Qz6qmG9Sb58hlXbd-g==",
+      "orario": "21:00",
+      "evento": "Napoli-Bodo/Glimt",
+      "competizione": "UEFA Champions League 2026/2027",
+      "canale": "Sky Sport Uno, Sky Sport 252, NOW",
+      "note": null,
+      "fonte": "OA Sport, Sky Sport, Libero, Skuola.net, Sport in TV, Sportface.it, TorreSette, Sportface, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Manchester City - AEK Atene",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Mix",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKiSterD7T6OeqUEp37T0jpSkbmRGWM1gSKHPdbxS7Idmc8iHO2dtE6YlEn7h314ovGmM2L-5Gvu3BHSWCc_FZZaG6M5UDRpj2L0jHos5wNfngIxqTatSRYwy9M072gKQQBfgWszwuWYylr7iykPP-BGfqrdGhYmZ7Kb6uVllli76zHKX276B2OQPpjHMUK6O1IvdxSGm1ajQGfFhqAsOY",
+      "evento": "Roma-Slovan Bratislava",
+      "competizione": "UEFA Champions League 2026/2027",
+      "canale": "Sky Sport Arena, Sky Sport 4K, Sky Sport 253, NOW",
+      "note": null,
+      "fonte": "OA Sport, Sky Sport, Virgilio Sport, Canale 10, Libero, Skuola.net, Sport in TV, Sportface.it, TorreSette, Sportface, Sky Sport Arena, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00",
-      "evento": "After Party Show",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport (vari canali)",
-      "note": "Studio post-partita con Mario Giunta.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1_P11SDV3ax4degzgoLgMtChryjaxJ24glOOpiW39yVr3Cu9Jdu3wX7vAo-PcdABP_So1fBYgcVTVcX2TtS1H8SpKbEnm7OYI_g0K9RUFko4C3OK_u1OnsDhGzUoIhaEuJH8K3-XGnGz6Ipl1XjqAqqoyGujF_FT81FcZ8Dv-GdMIx60hf0Ki9CipVRGBqNowpTDYIP2M25Cw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Napoli - Bodø Glimt",
-      "competizione": "UEFA Champions League (Replica)",
-      "canale": "Sky Sport Uno",
-      "note": "Replica dell'incontro della UEFA Champions League.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjxmz4tPgMZrO3xvzL_2LHS-hXYEVhDfFkL8DUjft4Jclo8zKIdArbn3uWZKRYHFmmaQimFxP9am3aEGAWb9X1L22G7VASdIzlF7TmecLU15LuESshQk5WMxx1K47koX6CKcglnT7_70wxq63EACZ7QK6lwgTBXiVlmExgUhE3LIMBf9k=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "PSG - Barcellona",
-      "competizione": "UEFA Champions League (Replica)",
-      "canale": "Sky Sport Uno",
-      "note": "Replica dell'incontro della UEFA Champions League.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjxmz4tPgMZrO3xvzL_2LHS-hXYEVhDfFkL8DUjft4Jclo8zKIdArbn3uWZKRYHFmmaQimFxP9am3aEGAWb9X1L22G7VASdIzlF7TmecLU15LuESshQk5WMxx1K47koX6CKcglnT7_70wxq63EACZ7QK6lwgTBXiVlmExgUhE3LIMBf9k=",
+      "orario": "21:00",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League 2026/2027",
+      "canale": "Sky Sport 251, NOW",
+      "note": "Copertura in contemporanea delle partite delle 21:00.",
+      "fonte": "OA Sport, Sky Sport, TorreSette",
       "accuratezza_orario": "esatto"
     }
   ]
