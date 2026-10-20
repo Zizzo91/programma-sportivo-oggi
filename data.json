@@ -1,41 +1,86 @@
 {
-  "last_updated": "2026-10-19T23:49:05.370567+02:00",
+  "last_updated": "2026-10-20T04:27:50.093908+02:00",
   "events": [
     {
-      "orario": "18:30",
-      "evento": "Monza-Cagliari",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
+      "orario": "18:45",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Sky Sport, Libero, Calciomagazine, Calcio e Finanza, AC Monza, Virgilio Sport, Goal.com",
+      "fonte": "Super Guida TV, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Parma-Torino",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, DAZN",
-      "note": "",
-      "fonte": "Sky Sport, Libero, Calciomagazine, Virgilio Sport, Digital-News.it, Goal.com",
+      "orario": "21:00",
+      "evento": "Napoli - Bodø Glimt",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 252",
+      "note": "Squadra italiana",
+      "fonte": "Sky Sport, Sportface.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00*",
-      "evento": "Matteo Arnaldi (ITA) vs Lorenzo Musetti (ITA)",
-      "competizione": "ATP 250 Lione",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Primo turno. Orario stimato (non prima delle 15:00 CET).",
-      "fonte": "Virgilio Sport, Sportface.it, Sky Sport, TennisTalker Magazine",
+      "orario": "21:00",
+      "evento": "Roma - Slovan Bratislava",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 253, Sky Sport 4K",
+      "note": "Squadra italiana",
+      "fonte": "Sky Sport, Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Super Guida TV, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Paris Saint-Germain - Barcellona",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Sport 254",
+      "note": "",
+      "fonte": "Sky Sport, Sportface.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "After Party: La notte dei campioni",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Del 21 ottobre",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "UEFA Champions League Magazine",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Del 21 ottobre",
+      "fonte": "Super Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:30*",
+      "evento": "Jasmine Paolini - Anhelina Kalinina",
+      "competizione": "WTA 500 Ningbo (1T)",
+      "canale": "Sky, NOW, Supertennis",
+      "note": "Italiana in campo, secondo match sul campo centrale, orario stimato per la messa in onda italiana.",
+      "fonte": "bet365, LiveTennis.it, OA Sport",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "TBA",
-      "evento": "Lorenzo Sonego (ITA) vs Moise Kouame (FRA)",
-      "competizione": "ATP 250 Lione",
-      "canale": "Sky Sport Tennis, NOW",
-      "note": "Primo turno. Orario da definire (a seguire dopo Arnaldi-Musetti).",
-      "fonte": "Virgilio Sport, Sportface.it, Sky Sport, TennisTalker Magazine",
-      "accuratezza_orario": "tba"
+      "orario": "19:00*",
+      "evento": "Matteo Berrettini - Jacquet",
+      "competizione": "ATP 250 Lione (R32)",
+      "canale": "Sky Sport Tennis",
+      "note": "Italiano in campo, orario non prima delle",
+      "fonte": "LiveTennis.it, Lottomatica.sport",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
