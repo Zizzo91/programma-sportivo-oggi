@@ -1,112 +1,121 @@
 {
-  "last_updated": "2026-10-20T22:58:49.320559+02:00",
+  "last_updated": "2026-10-21T04:21:46.972625+02:00",
   "events": [
     {
-      "orario": "08:30",
-      "evento": "Jasmine Paolini vs Anhelina Kalinina",
-      "competizione": "Tennis - WTA 500 Ningbo",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, SuperTennis",
-      "note": "Secondo match di giornata, inizio programma ore 07:00",
-      "fonte": "https://www.ubitennis.com/blog/2026/10/20/wta-atp-italiani-in-campo-martedi-20-ottobre-esordio-per-paolini-e-berrettini/, https://www.bet365.it/news/tennis/tennis-gli-italiani-in-campo-oggi-programma-data-orario-e-dove-vedere-bellucci-darderi-e-paolini/, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "orario": "04:00",
+      "evento": "UEFA Champions League 2026/2027 - Roma - Slovan Bratislava (Replica)",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della partita giocata in precedenza.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmajYA0DgX0DpCOHg1hXZAVBL1p8Y7OlvK6ij68gPVRck6a8yF4GIFMOypxFgmXiIz6QkNiWLuBVQrLqIgCpfbNlKQUI-Dx0ajnd1z9Eb5uYSp1bvBHlOQhx9M9agEYW9aIoLvKyLeafkmDWh2mQpiilI9pZcVmnFVE10Cu_bDIbRlunMhzGo9HMmNH9NzP7F3tCIXT63BRZRENs8AYEUNWVg6ZDQ=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "UEFA Champions League 2026/2027 - Napoli - Bodo Glimt (Replica)",
+      "competizione": "Calcio - UEFA Champions League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della partita giocata in precedenza.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmajYA0DgX0DpCOHg1hXZAVBL1p8Y7OlvK6ij68gPVRck6a8yF4GIFMOypxFgmXiIz6QkNiWLuBVQrLqIgCpfbNlKQUI-Dx0ajnd1z9Eb5uYSp1bvBHlOQhx9M9agEYW9aIoLvKyLeafkmDWh2mQpiilI9pZcVmnFVE10Cu_bDIbRlunMhzGo9HMmNH9NzP7F3tCIXT63BRZRENs8AYEUNWVg6ZDQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Y4UvEePDjPZ14OSwk1nos-TNxAz5IlB8YDzJ2TQbV98WfhSRqDXN_eDxWgcwMXIfThl62lMvr_egpN0StJvlaPIbGULW6jbXGqz2xRKMSMSTmpm7aiE8mK0JHx5jgpnnlDI231NWeeq0zNLrbk324jcsWqZ2MmO3pR8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Tennis: Sara Errani / Jasmine Paolini - Bucsa / Melichar-Martinez",
+      "competizione": "Tennis - WTA Ningbo (Doppio)",
+      "canale": "Sky Sport Tennis, NOW, Sky Go, Tennis TV",
+      "note": "Match con giocatrici italiane. Orario indicato come 'Dalle ore 7.00 italiane'.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8DFSzxsCWcyP9zCvceQ6FFpUbhx57QZ_IPZliN_ibnScCgpz8C7M88iVGKKBSaMoKCJrTkokgw5F8_An_KhwX-v3SzHd2KaannCc4H54EtKyUXPBrDC_oM2Mc4iUrBcdMW8S7snC9wxFOTXz6r8Vn3ABWfiSYIxsodWUTW1HCH4CcQzOHqGc5ckMLkjfSmV4brMrQcXNpbjv2-vEo0K-67NMWZLdbshbOo7yEUP-2BJo4TFbdy24lFcApco7Dpw==",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Tennis: Luciano Darderi - James Duckworth",
+      "competizione": "Tennis - ATP Almaty",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, NOW, Sky Go, Tennis TV, bet365",
+      "note": "Match con giocatore italiano.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdgQhN3SJO4G_6mQgE_zaTerM-DmhBQTk38awnug2msbBdavT11rTuYrF0qZRV_RWlHvIh_VAyUwTQzXORnTmObzPUFsite9thrpINMprlLA2BGIaxJyJVhq81J8Q564ghxzg0Wjp0KTD4o5DuCiVmse8GcscAHVm3JwNKn-J_ZflY97-Miv-thV8S9MxpW9iGJrW6Drr8SSRV5jQ8sZuULMgVf_hylYoSAceUwW9lyxO4xBlcchsjCbUMvmKJTORGz4tTdV-1ObjTfki0Ppke, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECfk2Dr7-OJAChnrTWwu3TIUhRcc5YX-VKwhjIWeDIGAM2ETyL5J2EgXE-VznwCAv_K9E9f2OT4cZ64jijZZEBcGOjOOUq09gx8WP2pFGxtXABkWlMK-HiivgLIC3kukRlSdZpa176Q-byQg5ohCn2MOzYx8AclRM5G7YPPr3WX-Poh6WdMD6aHN3l0CKClC61IgEiPPNWxkkE4scjqQt28iYckHrG8yXC",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Inter U20 - Shakhtar Donetsk U19",
+      "competizione": "Calcio - UEFA Youth League 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "Partita che coinvolge una squadra giovanile italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmajYA0DgX0DpCOHg1hXZAVBL1p8Y7OlvK6ij68gPVRck6a8yF4GIFMOypxFgmXiIz6QkNiWLuBVQrLqIgCpfbNlKQUI-Dx0ajnd1z9Eb5uYSp1bvBHlOQhx9M9agEYW9aIoLvKyLeafkmDWh2mQpiilI9pZcVmnFVE10Cu_bDIbRlunMhzGo9HMmNH9NzP7F3tCIXT63BRZRENs8AYEUNWVg6ZDQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3rgJ2klsr4bhuS2_duJ8tGMUGgLzx3zdDLMNUSIee8MJi16aCF-rfodlaavTK5ukU--h-Y-ptYEVzqp4hMnNdWRb-kLMxILEb7ukc8zdKYQ1pZI5_BTFA5d1tUBN69BTIzCbJ-PyXB1BAjDDiwTSwctT3Zi2mYxQ57_hnhiAHj8GzX0p8d6MM1DPRZ86hTEzvcnb0WnuN-FR6AS1RpzzuU9kf-q4J-Q==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Como - Manchester United",
+      "competizione": "Calcio - UEFA Champions League 2026/2027",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 253, NOW, Sky Go",
+      "note": "Partita che coinvolge una squadra italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmajYA0DgX0DpCOHg1hXZAVBL1p8Y7OlvK6ij68gPVRck6a8yF4GIFMOypxFgmXiIz6QkNiWLuBVQrLqIgCpfbNlKQUI-Dx0ajnd1z9Eb5uYSp1bvBHlOQhx9M9agEYW9aIoLvKyLeafkmDWh2mQpiilI9pZcVmnFVE10Cu_bDIbRlunMhzGo9HMmNH9NzP7F3tCIXT63BRZRENs8AYEUNWVg6ZDQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGafWv_bxjJiys2TzDqVzzLseJlsFhnKmUCZM4HH3IaD5kDbfpX3x2Ww7TA9mTmSq5liE6zWLZmlKjarWFDIAVOJ-LRVrv6Ltkf5BR9v_9BdKXaWsz6vbL6betN_FKnkBt7Rcvag8cOPwcKqLF8WFuMsUvtXrkOK4j5NmL5pYw81k66fwoVs5tfn71g0VWllYwaLrZqcW-yzXkiUtccX6OdMByNDVPiiKrsLpK26ovJ5f_DAg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhOM58hdMM23CST3byIAMMrspHFQe3ly_0IsRvMPxIwFFjK4jwhcC_ZoYBQtr1u1eC9cBb8BofoApFRj8U1Aj8NFGqhwVznLhDvhJBeVhe-cfLCvrqs_EjAQFPdaw2PYn-MjbKekVoUDqiq8L96Hwe7ppjjwpIDzrC8lbD6g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEfjxLpNZFIA4gyqP_sX0qStoQWxOB5FNa_gEiHML3GfcwQLciVIftNpboUvmGJHBM0LP-d8G-baU9TyZNZnmAR4o1HmYfDplKJZro4PeYKJaBc9vJPfYZpyKoHnMBw5FioWNJ-cakR5mihQrWzMs9tKVluNGxh-og46Yg4yNWRIVB9NtWxOTYVXOfDLPtn4LyefoGbzJbH85gyVdg3BgPbtPjr3doSxBi, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ_8OiOqonwYYZzvYOZR4a114CZqFWYvpCWfKaxwbyV5NOhg6kb8H5kA7JRdAlfErOj10efcyU7f58kigozS1qs6r-18-Nt7CKiaSGQOi6JSL4GsCKfnfTMybKJJcHq5N5Ub7Iv5DJgZvHwYrzEqtDLj8CnZcbTvYNpj2Qof789g4A_WAKL3_I2ydnUIj9DeQukAQctrhk0fx8sllpSBtV1-ACWEKtuZGWJCtb8KMo8P86VnJFKdS_sGGiBUh1IdrF9t4JW97c1W4C5X_M0n6qdCaVBudJs5UynWYeTWh7wwq4X52v_Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3rgJ2klsr4bhuS2_duJ8tGMUGgLzx3zdDLMNUSIee8MJi16aCF-rfodlaavTK5ukU--h-Y-ptYEVzqp4hMnNdWRb-kLMxILEb7ukc8zdKYQ1pZI5_BTFA5d1tUBN69BTIzCbJ-PyXB1BAjDDiwTSwctT3Zi2mYxQ57_hnhiAHj8GzX0p8d6MM1DPRZ86hTEzvcnb0WnuN-FR6AS1RpzzuU9kf-q4J-Q==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
       "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Uno",
-      "note": "Per seguire in contemporanea le partite delle 18:45",
-      "fonte": "https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/, https://www.quotidiano.net/programmi-tv/sky-sport-uno",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Sabah-Borussia Dortmund",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Calcio, Sky Sport 254",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Fenerbahçe-Slavia Praga",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 255",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.guida.tv/palinsesto/sky-sport-arena, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
+      "competizione": "Calcio - UEFA Champions League 2026/2027",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW, Sky Go, Sky Sport Arena",
+      "note": "Include collegamenti con le partite di Champions League.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGafWv_bxjJiys2TzDqVzzLseJlsFhnKmUCZM4HH3IaD5kDbfpX3x2Ww7TA9mTmSq5liE6zWLZmlKjarWFDIAVOJ-LRVrv6Ltkf5BR9v_9BdKXaWsz6vbL6betN_FKnkBt7Rcvag8cOPwcKqLF8WFuMsUvtXrkOK4j5NmL5pYw81k66fwoVs5tfn71g0VWllYwaLrZqcW-yzXkiUtccX6OdMByNDVPiiKrsLpK26ovJ5f_DAg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAzmDjBX_oNx2w6hPXqBidPsU_-pTihGc4KjWge1xriewDrnvuTwQf0LHjlkmgwxWAF8e7USadJKWEohmOSgH46pwcBOFp6H5EZRlV8NX8cu_IxXbMV4VQ217mcV0dymIgZ2-b659KXsefnvVS0ZbVvqjwO2w=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ_8OiOqonwYYZzvYOZR4a114CZqFWYvpCWfKaxwbyV5NOhg6kb8H5kA7JRdAlfErOj10efcyU7f58kigozS1qs6r-18-Nt7CKiaSGQOi6JSL4GsCKfnfTMybKJJcHq5N5Ub7Iv5DJgZvHwYrzEqtDLj8CnZcbTvYNpj2Qof789g4A_WAKL3_I2ydnUIj9DeQukAQctrhk0fx8sllpSBtV1-ACWEKtuZGWJCtb8KMo8P86VnJFKdS_sGGiBUh1IdrF9t4JW97c1W4C5X_M0n6qdCaVBudJs5UynWYeTWh7wwq4X52v_Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3rgJ2klsr4bhuS2_duJ8tGMUGgLzx3zdDLMNUSIee8MJi16aCF-rfodlaavTK5ukU--h-Y-ptYEVzqp4hMnNdWRb-kLMxILEb7ukc8zdKYQ1pZI5_BTFA5d1tUBN69BTIzCbJ-PyXB1BAjDDiwTSwctT3Zi2mYxQ57_hnhiAHj8GzX0p8d6MM1DPRZ86hTEzvcnb0WnuN-FR6AS1RpzzuU9kf-q4J-Q==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00*",
-      "evento": "Matteo Berrettini vs Kyrian Jacquet",
-      "competizione": "Tennis - ATP 250 Lyon",
-      "canale": "Sky Sport, NOW, SuperTennis",
-      "note": "Non prima delle 19:00 CET",
-      "fonte": "https://www.ubitennis.com/blog/2026/10/20/wta-atp-italiani-in-campo-martedi-20-ottobre-esordio-per-paolini-e-berrettini/, https://www.livetennis.it/post/300194/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-20-ottobre-2026/, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-orari-e-programma-dove-vedere-gli-eventi-in-streaming/",
+      "evento": "Tennis: Matteo Berrettini - Kyrian Jacquet",
+      "competizione": "Tennis - ATP Lione",
+      "canale": "Sky Sport Tennis, NOW, Sky Go, Tennis TV",
+      "note": "Match con giocatore italiano. Orario 'non prima delle 19:00'.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDbF60SHRmUGaUwyOe8QlF7APkjs0EpNSm-6w-5MKXJFPRolupeSqVwudfu8CsdZEzygpUUmvo1y2-Az2hUS1n-BaRhSsR_JwJlz6lxGdZHg-CYiGELWu-_iIAkjbe2fawdi3fo6FEJ2vXXHG3aMFTxRipvp8IsTWniaMsRF0mJzhkUUG9fUHeZHt1R4Bxih4Hs3iGCBycs5HNt1nnDCg=",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "21:00",
-      "evento": "Napoli-Bodø/Glimt",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 252",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.ilfaro.online/2026/10/19/champions-league-roma-slovan-bratislava-e-napoli-bodo-glimt-probabili-formazioni-orari-e-dove-vederle/, https://sport.sky.it/calcio/champions-league/2026/10/20/champions-league-calendario-partite-oggi, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://sport.sky.it/guida-tv/oggi/, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
+      "orario": "19:00*",
+      "evento": "Tennis: Lorenzo Musetti - Moise Kouamé",
+      "competizione": "Tennis - ATP Lione",
+      "canale": "Sky Sport (canale da definire), NOW, Sky Go",
+      "note": "Match con giocatore italiano. Orario 'non prima delle 19:00' come primo della sessione serale.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_yDk-Un6-J6Aj2q4MgeEhwF71DVsKWzCkjkci2D5AzMTDaZRBRq1FFsiklRHm6WU5rqB--eWB6Y266Vszbql1Zyi-5l7jnBAV0F2q8Nd8SMrqmdHWX1CWCyWhskSwoednlCOJdtkt1wYBRFLtxyh6gujbVilUyMWwFDsYbIwWCZLqR319KYAhvtA46uwXOCPovvff1l0=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Campionati Mondiali 2026 - Finale a squadre femminile",
+      "competizione": "Ginnastica Artistica",
+      "canale": "Rai Sport HD",
+      "note": "L'Italia partecipa alla finale a squadre femminile.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6io1uL4GRpjEJkQhq8B6z0UNtEonoykrF3sYju6K2keFuqa1JYqvNTb93jV7SeyE7bcPRcrklMU_felu2hpaHJpyRcdhCsw9Df6JMu0v33T5WEpaqySImYUgPUv8c3D5nNTXCy-K-WFNGQ8NAvvRv60w0bhVirFym_hHbhC4x6FYmTlbi4SvSr2JUrrsXxPjcDZYxW3lz_fhKxRm1OmOLujO1Dd2tpvSR4wQCfie3SvoaekHR6yuITVL5iHkRFkqe5nwP_EQik3XE9oOkeFLd4A==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Roma-Slovan Bratislava",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 253, Sky Sport 4K",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.ilfaro.online/2026/10/19/champions-league-roma-slovan-bratislava-e-napoli-bodo-glimt-probabili-formazioni-orari-e-dove-vederle/, https://sport.sky.it/calcio/champions-league/2026/10/20/champions-league-calendario-partite-oggi, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.guida.tv/palinsesto/sky-sport-arena, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
+      "evento": "Inter - Shakhtar Donetsk",
+      "competizione": "Calcio - UEFA Champions League 2026/2027",
+      "canale": "Amazon Prime Video (esclusiva)",
+      "note": "Partita che coinvolge una squadra italiana. Visibile anche tramite l'app Prime Video su Sky Q, Sky Stream e Sky Glass per abbonati.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGafWv_bxjJiys2TzDqVzzLseJlsFhnKmUCZM4HH3IaD5kDbfpX3x2Ww7TA9mTmSq5liE6zWLZmlKjarWFDIAVOJ-LRVrv6Ltkf5BR9v_9BdKXaWsz6vbL6betN_FKnkBt7Rcvag8cOPwcKqLF8WFuMsUvtXrkOK4j5NmL5pYw81k66fwoVs5tfn71g0VWllYwaLrZqcW-yzXkiUtccX6OdMByNDVPiiKrsLpK26ovJ5f_DAg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH2U3iKTDHeywJ_EEI7F3CYiI0Uw2LTdfTamk2Jd-fEU53PKDO_R8GRwMbd16QN_vc9bBBqR9pH0XRSJ59Tf5LgJ6QDefrHkpZz32t19f71TqXp21UhDyQN74O-LYLXVdIdD0bKSZPEXhmizJ8zy5aiXIEnCDhFTrAkuzT6FGzBwNzM02rkvDHIeD5_DUMJv5GyUAjiaw-fE0eBs4tKdRZCQKnyi4wVFWTgj1u46owGAoa5heOPkBl_WvnJFpA4GmzvgM_MQ3ElNS_7zhexhez8j84nOcT1aZJCMI=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ_8OiOqonwYYZzvYOZR4a114CZqFWYvpCWfKaxwbyV5NOhg6kb8H5kA7JRdAlfErOj10efcyU7f58kigozS1qs6r-18-Nt7CKiaSGQOi6JSL4GsCKfnfTMybKJJcHq5N5Ub7Iv5DJgZvHwYrzEqtDLj8CnZcbTvYNpj2Qof789g4A_WAKL3_I2ydnUIj9DeQukAQctrhk0fx8sllpSBtV1-ACWEKtuZGWJCtb8KMo8P86VnJFKdS_sGGiBUh1IdrF9t4JW97c1W4C5X_M0n6qdCaVBudJs5UynWYeTWh7wwq4X52v_Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3rgJ2klsr4bhuS2_duJ8tGMUGgLzx3zdDLMNUSIee8MJi16aCF-rfodlaavTK5ukU--h-Y-ptYEVzqp4hMnNdWRb-kLMxILEb7ukc8zdKYQ1pZI5_BTFA5d1tUBN69BTIzCbJ-PyXB1BAjDDiwTSwctT3Zi2mYxQ57_hnhiAHj8GzX0p8d6MM1DPRZ86hTEzvcnb0WnuN-FR6AS1RpzzuU9kf-q4J-Q==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "PSG-Barcellona",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Calcio, Sky Sport 254",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.skuola.net/news/curiosita/champions-league-oggi-20-ottobre-napoli-roma-partite-tv.html, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
+      "evento": "Bayern Monaco - Arsenal",
+      "competizione": "Calcio - UEFA Champions League 2026/2027",
+      "canale": "TV8, Sky Sport Calcio, Sky Sport 252, NOW, Sky Go",
+      "note": "Partita trasmessa in chiaro su TV8.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3f0a2gQxqNkqIfIkqh-p36XOTZwMk4rCTHg36C-_oSlSUXpzOzSTCio-8Eq1qgjdUnnPMmidNeNUtZ-EBcssOlPPrM7JR3NDOyZ6l6fWqvWUP0hjA5Axa0f0XQp05fn4fNcbI5EHJAkOq8AfXGOmRuQAZ-z1DDnEd3w5j0ONNjVh4hrf9Dq1LTiGw2ErpaDZziam8xskEcBIVL_pP7lmc8LT9, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ_8OiOqonwYYZzvYOZR4a114CZqFWYvpCWfKaxwbyV5NOhg6kb8H5kA7JRdAlfErOj10efcyU7f58kigozS1qs6r-18-Nt7CKiaSGQOi6JSL4GsCKfnfTMybKJJcHq5N5Ub7Iv5DJgZvHwYrzEqtDLj8CnZcbTvYNpj2Qof789g4A_WAKL3_I2ydnUIj9DeQukAQctrhk0fx8sllpSBtV1-ACWEKtuZGWJCtb8KMo8P86VnJFKdS_sGGiBUh1IdrF9t4JW97c1W4C5X_M0n6qdCaVBudJs5UynWYeTWh7wwq4X52v_Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3rgJ2klsr4bhuS2_duJ8tGMUGgLzx3zdDLMNUSIee8MJi16aCF-rfodlaavTK5ukU--h-Y-ptYEVzqp4hMnNdWRb-kLMxILEb7ukc8zdKYQ1pZI5_BTFA5d1tUBN69BTIzCbJ-PyXB1BAjDDiwTSwctT3Zi2mYxQ57_hnhiAHj8GzX0p8d6MM1DPRZ86hTEzvcnb0WnuN-FR6AS1RpzzuU9kf-q4J-Q==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Manchester City-AEK Atene",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Mix, Sky Sport 255",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/, https://www.libero.it/magazine/tv/il-calcio-in-tv-oggi-martedi-20-ottobre-c-e-la-champions-con-roma-e-napoli-dove-vederle-in-diretta-38118001, https://www.oasport.it/2026/10/sport-in-tv-oggi-martedi-20-ottobre-italia-spagna-di-pallanuoto-tennis-e-basket/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Liverpool-Villarreal",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport 256",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Stoccarda-Atlético Madrid",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport 257",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Porto-PSV Eindhoven",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport 258",
-      "note": "Terza giornata fase a gironi",
-      "fonte": "https://www.lanotizia.net/2026/10/20/champions-league-oggi-20-ottobre-2026/",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "Calcio - UEFA Champions League 2026/2027",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW, Sky Go",
+      "note": "Include collegamenti con le partite di Champions League.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmajYA0DgX0DpCOHg1hXZAVBL1p8Y7OlvK6ij68gPVRck6a8yF4GIFMOypxFgmXiIz6QkNiWLuBVQrLqIgCpfbNlKQUI-Dx0ajnd1z9Eb5uYSp1bvBHlOQhx9M9agEYW9aIoLvKyLeafkmDWh2mQpiilI9pZcVmnFVE10Cu_bDIbRlunMhzGo9HMmNH9NzP7F3tCIXT63BRZRENs8AYEUNWVg6ZDQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGafWv_bxjJiys2TzDqVzzLseJlsFhnKmUCZM4HH3IaD5kDbfpX3x2Ww7TA9mTmSq5liE6zWLZmlKjarWFDIAVOJ-LRVrv6Ltkf5BR9v_9BdKXaWsz6vbL6betN_FKnkBt7Rcvag8cOPwcKqLF8WFuMsUvtXrkOK4j5NmL5pYw81k66fwoVs5tfn71g0VWllYwaLrZqcW-yzXkiUtccX6OdMByNDVPiiKrsLpK26ovJ5f_DAg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ_8OiOqonwYYZzvYOZR4a114CZqFWYvpCWfKaxwbyV5NOhg6kb8H5kA7JRdAlfErOj10efcyU7f58kigozS1qs6r-18-Nt7CKiaSGQOi6JSL4GsCKfnfTMybKJJcHq5N5Ub7Iv5DJgZvHwYrzEqtDLj8CnZcbTvYNpj2Qof789g4A_WAKL3_I2ydnUIj9DeQukAQctrhk0fx8sllpSBtV1-ACWEKtuZGWJCtb8KMo8P86VnJFKdS_sGGiBUh1IdrF9t4JW97c1W4C5X_M0n6qdCaVBudJs5UynWYeTWh7wwq4X52v_Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL-2SJoPtsAWIe0GOKPaFtUaxdn6S8azY43Jg-iYro3EX_BZUvMDjWC77F7ZjTYSQLQlGM8nWp0n3hZ7_aWT0IFQDdl-Ia5SKR2TfseeKIve_GcnUBpUlpUr8SEdXRbjlQpJyYQKX8mNNJPQYhkWBHL5mUU0-hda5UUwC1IHlneqeA9qTjNFUJdQ-BJKEumw==",
       "accuratezza_orario": "esatto"
     }
   ]
