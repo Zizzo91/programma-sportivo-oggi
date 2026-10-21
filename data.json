@@ -1,49 +1,130 @@
 {
-  "last_updated": "2026-10-21T18:14:37.475065+02:00",
+  "last_updated": "2026-10-21T22:59:11.595731+02:00",
   "events": [
     {
-      "orario": "18:45",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251, NOW, Sky Go",
-      "note": "Terza giornata della League Phase. Include aggiornamenti in tempo reale da più partite.",
-      "fonte": "OA Sport, Sky Sport, Libero Magazine, Tuttomercatoweb",
+      "orario": "01:00",
+      "evento": "NBA: New York Knicks - Philadelphia 76ers",
+      "competizione": "NBA",
+      "canale": "Sky Sport Basket, Sky Go, NOW",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:30",
+      "evento": "NBA: San Antonio Spurs - Oklahoma City Thunder",
+      "competizione": "NBA",
+      "canale": "Sky Sport Basket, Sky Go, NOW",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "WTA 500 Ningbo: Sara Errani/Jasmine Paolini - Cristina Bucsa/Nicole Melichar-Martinez",
+      "competizione": "WTA 500 Ningbo",
+      "canale": "SuperTennis HD, SuperTennis+, Sky Sport Tennis, Sky Sport Uno",
+      "note": "Primo match del programma.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:30",
+      "evento": "ATP 250 Almaty: Luciano Darderi - James Duckworth",
+      "competizione": "ATP 250 Almaty",
+      "canale": "Sky Sport Tennis",
+      "note": "Secondo turno, primo match del programma sul Center Court.",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "UEFA Youth League: Inter U20 - Shakhtar Donetsk U19",
+      "competizione": "UEFA Youth League",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
-      "evento": "Como-Manchester United",
+      "evento": "UEFA Champions League: Como - Manchester United",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 253, NOW, Sky Go",
-      "note": "Terza giornata della League Phase. Il Como è una squadra italiana.",
-      "fonte": "OA Sport, Sky Sport, Libero Magazine, Tuttomercatoweb, Goal.com",
+      "canale": "Sky Sport Uno, Sky Sport 253, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "Sky Sport, NOW, Adnkronos",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "UEFA Champions League: Diretta Gol",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 251, NOW",
+      "note": "Copertura multi-match.",
+      "fonte": "Sky Sport, NOW",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251, NOW, Sky Go",
-      "note": "Terza giornata della League Phase. Include aggiornamenti in tempo reale da più partite.",
-      "fonte": "OA Sport, Libero Magazine, Tuttomercatoweb",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Inter-Shakhtar Donetsk",
+      "evento": "UEFA Champions League: Inter - Shakhtar Donetsk",
       "competizione": "UEFA Champions League",
       "canale": "Amazon Prime Video",
-      "note": "Terza giornata della League Phase. L'Inter è una squadra italiana.",
-      "fonte": "Vertex AI Search, OA Sport, Libero Magazine, Tuttomercatoweb",
+      "note": "Esclusiva Amazon Prime Video.",
+      "fonte": "Amazon Prime Video, Sky Sport, Adnkronos",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Bayern Monaco-Arsenal",
+      "evento": "UEFA Champions League: Bayern Monaco - Arsenal",
       "competizione": "UEFA Champions League",
-      "canale": "TV8, Sky Sport Calcio, Sky Sport 252, tv8.it, NOW, Sky Go",
-      "note": "Terza giornata della League Phase. Trasmissione in chiaro su TV8.",
-      "fonte": "Vertex AI Search, OA Sport, Sky Sport Arena, Libero Magazine",
+      "canale": "TV8, Sky Sport Calcio, Sky Sport 252, NOW",
+      "note": "Partita in chiaro su TV8.",
+      "fonte": "Sky Sport, NOW, TV8, Adnkronos",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Diretta Gol",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
+      "note": "Copertura multi-match.",
+      "fonte": "Sky Sport, NOW",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Real Madrid - Lipsia",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 254, NOW",
+      "note": "",
+      "fonte": "Sky Sport, NOW",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "UEFA Champions League: Aston Villa - Viking",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Max, Sky Sport 255, NOW",
+      "note": "",
+      "fonte": "Sky Sport, NOW",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "WNBA Finals 2026: Gara 3: Atlanta Dream - Golden State Valkyries",
+      "competizione": "WNBA Finals",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Quotidiano Nazionale",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Eurocup: Maxima Roma - Umana Reyer Venezia",
+      "competizione": "Eurocup",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "Quotidiano Nazionale",
       "accuratezza_orario": "esatto"
     }
   ]
