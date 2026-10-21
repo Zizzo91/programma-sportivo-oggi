@@ -1,85 +1,49 @@
 {
-  "last_updated": "2026-10-21T12:46:19.032155+02:00",
+  "last_updated": "2026-10-21T18:14:37.475065+02:00",
   "events": [
-    {
-      "orario": "16:00",
-      "evento": "Inter U20 vs Shakhtar Donetsk U19",
-      "competizione": "UEFA Youth League",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Como vs Manchester United",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 253, Sky Sport 4K, NOW, Sky Go",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "18:45",
       "evento": "Diretta Gol Champions League",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, altri canali Sky Sport",
-      "note": "Collegamenti da più campi",
-      "fonte": "Sky Sport",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW, Sky Go",
+      "note": "Terza giornata della League Phase. Include aggiornamenti in tempo reale da più partite.",
+      "fonte": "OA Sport, Sky Sport, Libero Magazine, Tuttomercatoweb",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "19:00",
-      "evento": "Lorenzo Musetti vs Moise Kouamé",
-      "competizione": "ATP 250 Lione, 2° turno",
-      "canale": "Sky Sport, NOW, SkyGo",
-      "note": "Singolare maschile",
-      "fonte": "Sky Sport, LaPresse",
+      "orario": "18:45",
+      "evento": "Como-Manchester United",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 253, NOW, Sky Go",
+      "note": "Terza giornata della League Phase. Il Como è una squadra italiana.",
+      "fonte": "OA Sport, Sky Sport, Libero Magazine, Tuttomercatoweb, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Inter vs Shakhtar Donetsk",
+      "evento": "Diretta Gol Champions League",
       "competizione": "UEFA Champions League",
-      "canale": "Amazon Prime Video (esclusiva), Sky Q/Stream/Glass (via app Prime Video)",
-      "note": "",
-      "fonte": "Amazon Prime Video, Sky Sport",
+      "canale": "Sky Sport Uno, Sky Sport 251, NOW, Sky Go",
+      "note": "Terza giornata della League Phase. Include aggiornamenti in tempo reale da più partite.",
+      "fonte": "OA Sport, Libero Magazine, Tuttomercatoweb",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Bayern Monaco vs Arsenal",
+      "evento": "Inter-Shakhtar Donetsk",
       "competizione": "UEFA Champions League",
-      "canale": "TV8 (in chiaro), Sky Sport Calcio, Sky Sport 252, NOW",
-      "note": "",
-      "fonte": "Virgilio Sport, Sky Sport",
+      "canale": "Amazon Prime Video",
+      "note": "Terza giornata della League Phase. L'Inter è una squadra italiana.",
+      "fonte": "Vertex AI Search, OA Sport, Libero Magazine, Tuttomercatoweb",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Real Madrid vs RB Lipsia",
+      "evento": "Bayern Monaco-Arsenal",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "Sky Sport Arena Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Sara Errani / Jasmine Paolini vs Cristina Bucsa / Nicole Melichar-Martinez",
-      "competizione": "WTA 500 Ningbo, 1° turno doppio",
-      "canale": "SuperTennis HD, SuperTennis+, Sky Sport Tennis, Sky Sport Uno",
-      "note": "",
-      "fonte": "Virgilio Sport, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "ChorusLife Volley Bergamo vs Numia Vero Volley Milano",
-      "competizione": "Serie A1 Femminile",
-      "canale": "DAZN (streaming)",
-      "note": "",
-      "fonte": "OA Sport",
+      "canale": "TV8, Sky Sport Calcio, Sky Sport 252, tv8.it, NOW, Sky Go",
+      "note": "Terza giornata della League Phase. Trasmissione in chiaro su TV8.",
+      "fonte": "Vertex AI Search, OA Sport, Sky Sport Arena, Libero Magazine",
       "accuratezza_orario": "esatto"
     }
   ]
