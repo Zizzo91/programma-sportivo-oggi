@@ -1,130 +1,193 @@
 {
-  "last_updated": "2026-10-21T22:59:11.595731+02:00",
+  "last_updated": "2026-10-22T04:16:45.373614+02:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "NBA: New York Knicks - Philadelphia 76ers",
-      "competizione": "NBA",
-      "canale": "Sky Sport Basket, Sky Go, NOW",
+      "orario": "06:00",
+      "evento": "Jasmine Paolini vs Iva Jovic",
+      "competizione": "WTA 500 Ningbo - Ottavi di finale",
+      "canale": "SuperTennis, Sky Sport Tennis, Sky Go, NOW",
       "note": "",
-      "fonte": "OA Sport",
+      "fonte": "Sky Sport, LiveTennis.it, sport2u.tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "03:30",
-      "evento": "NBA: San Antonio Spurs - Oklahoma City Thunder",
-      "competizione": "NBA",
-      "canale": "Sky Sport Basket, Sky Go, NOW",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "WTA 500 Ningbo: Sara Errani/Jasmine Paolini - Cristina Bucsa/Nicole Melichar-Martinez",
-      "competizione": "WTA 500 Ningbo",
-      "canale": "SuperTennis HD, SuperTennis+, Sky Sport Tennis, Sky Sport Uno",
-      "note": "Primo match del programma.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:30",
-      "evento": "ATP 250 Almaty: Luciano Darderi - James Duckworth",
-      "competizione": "ATP 250 Almaty",
-      "canale": "Sky Sport Tennis",
-      "note": "Secondo turno, primo match del programma sul Center Court.",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "UEFA Youth League: Inter U20 - Shakhtar Donetsk U19",
-      "competizione": "UEFA Youth League",
-      "canale": "Sky Sport Uno",
+      "orario": "06:00",
+      "evento": "Conferenza stampa piloti MotoGP",
+      "competizione": "MotoGP Gran Premio d'Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
       "note": "",
       "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "UEFA Champions League: Como - Manchester United",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 253, Sky Sport 4K, NOW",
+      "orario": "13:15",
+      "evento": "Paddock Pass",
+      "competizione": "MotoGP Gran Premio d'Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
       "note": "",
-      "fonte": "Sky Sport, NOW, Adnkronos",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "UEFA Champions League: Diretta Gol",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 251, NOW",
-      "note": "Copertura multi-match.",
-      "fonte": "Sky Sport, NOW",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Inter - Shakhtar Donetsk",
-      "competizione": "UEFA Champions League",
-      "canale": "Amazon Prime Video",
-      "note": "Esclusiva Amazon Prime Video.",
-      "fonte": "Amazon Prime Video, Sky Sport, Adnkronos",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Bayern Monaco - Arsenal",
-      "competizione": "UEFA Champions League",
-      "canale": "TV8, Sky Sport Calcio, Sky Sport 252, NOW",
-      "note": "Partita in chiaro su TV8.",
-      "fonte": "Sky Sport, NOW, TV8, Adnkronos",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Diretta Gol",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251, NOW",
-      "note": "Copertura multi-match.",
-      "fonte": "Sky Sport, NOW",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Real Madrid - Lipsia",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 254, NOW",
+      "orario": "17:00",
+      "evento": "Studio Europa e Conference League (Pre-partita)",
+      "competizione": "Calcio Europeo",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "Sky Sport, NOW",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "UEFA Champions League: Aston Villa - Viking",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Max, Sky Sport 255, NOW",
-      "note": "",
-      "fonte": "Sky Sport, NOW",
+      "orario": "17:45",
+      "evento": "Juventus-Rennes",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 253, Sky Sport 4K",
+      "note": "Diretta",
+      "fonte": "Sky Sport, Sportface.it, iGizmo.it, Napoli Magazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:00",
-      "evento": "WNBA Finals 2026: Gara 3: Atlanta Dream - Golden State Valkyries",
-      "competizione": "WNBA Finals",
-      "canale": "Sky Sport Uno",
+      "orario": "17:45",
+      "evento": "Diretta Gol Europa e Conference League",
+      "competizione": "UEFA Europa League / Conference League",
+      "canale": "Sky Sport Arena, Sky Sport 251",
+      "note": "Partite in contemporanea",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Flavio Cobolli vs Stan Wawrinka",
+      "competizione": "ATP 250 Lione - R16",
+      "canale": "Sky, NOW",
+      "note": "Non prima di. Orario stimato.",
+      "fonte": "bet365, Sky Sport, LiveTennis.it, Sportface.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Studio Europa e Conference League",
+      "competizione": "Calcio Europeo",
+      "canale": "Sky Sport",
       "note": "",
-      "fonte": "Quotidiano Nazionale",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Conferenza stampa piloti F1",
+      "competizione": "Formula 1 Gran Premio degli Stati Uniti",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Bournemouth-Milan",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K",
+      "note": "Diretta",
+      "fonte": "Sky Sport, Sportface.it, iGizmo.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Ajax-Atalanta",
+      "competizione": "UEFA Conference League",
+      "canale": "Sky Sport Arena, Sky Sport 254",
+      "note": "Diretta",
+      "fonte": "Sky Sport, Sportface.it, iGizmo.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Juventus-Rennes",
+      "competizione": "UEFA Europa League",
+      "canale": "TV8",
+      "note": "Differita (la diretta è alle 17:45)",
+      "fonte": "Napoli Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Studio Europa e Conference League",
+      "competizione": "Calcio Europeo",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:00",
+      "evento": "Highlights Champions League & Europa League",
+      "competizione": "Calcio Europeo",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "Napoli Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:55",
+      "evento": "Moto3 – Prove Libere 1",
+      "competizione": "MotoGP Gran Premio d'Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Inizio notte giovedì 22 - venerdì 23 ottobre",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "After Party Show / Goleador Europa",
+      "competizione": "Calcio Europeo",
+      "canale": "Sky Sport",
+      "note": "Riassunto gol",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:45",
+      "evento": "Moto2 – Prove Libere 1",
+      "competizione": "MotoGP Gran Premio d'Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Venerdì 23 ottobre (CET)",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:40",
+      "evento": "MotoGP - Prove Libere 1",
+      "competizione": "MotoGP Gran Premio d'Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Venerdì 23 ottobre (CET)",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:40",
+      "evento": "Paddock Live",
+      "competizione": "MotoGP Gran Premio d'Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Venerdì 23 ottobre (CET)",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:10",
+      "evento": "Moto3 – Pre-Qualifiche",
+      "competizione": "MotoGP Gran Premio d'Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Venerdì 23 ottobre (CET)",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00",
-      "evento": "Eurocup: Maxima Roma - Umana Reyer Venezia",
-      "competizione": "Eurocup",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "Quotidiano Nazionale",
+      "evento": "Moto2 – Pre-Qualifiche",
+      "competizione": "MotoGP Gran Premio d'Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Venerdì 23 ottobre (CET)",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
