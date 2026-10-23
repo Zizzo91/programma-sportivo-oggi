@@ -1,139 +1,130 @@
 {
-  "last_updated": "2026-10-22T22:57:05.746690+02:00",
+  "last_updated": "2026-10-23T04:22:03.913197+02:00",
   "events": [
-    {
-      "orario": "18:45",
-      "evento": "Juventus vs Rennes",
-      "competizione": "Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 253, Sky Sport 4K",
-      "note": "Disponibile anche in streaming su NOW e SkyGo. Differita su TV8 alle 21:00.",
-      "fonte": "tuttonapoli.net, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Diretta Gol Europa League",
-      "competizione": "Europa League",
-      "canale": "Sky Sport Arena, Sky Sport 251",
-      "note": "Copertura simultanea di più partite. Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "oasport.it, tuttonapoli.net, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00*",
-      "evento": "Flavio Cobolli vs Stan Wawrinka",
-      "competizione": "ATP Lione 2026 (Ottavi di finale)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Match previsto non prima delle 19:00 CET. Disponibile anche in streaming su SkyGo, NOW e Tennis TV.",
-      "fonte": "oasport.it, sportface.it, cronacapop.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "19:20",
-      "evento": "F1 Academy – Prove Libere",
-      "competizione": "F1 Academy (GP Stati Uniti)",
-      "canale": "Sky Sport F1",
-      "note": "Sessione di prove libere del campionato F1 Academy.",
-      "fonte": "teledigitale.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "F1 Prove Libere 1",
-      "competizione": "Formula 1 (GP Stati Uniti)",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "teledigitale.it, virgilio.it, alvolante.it, formulapassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "F1 Conferenza stampa piloti",
-      "competizione": "Formula 1 (GP Stati Uniti)",
-      "canale": "Sky Sport F1",
-      "note": "Conferenza stampa dei piloti del Gran Premio degli Stati Uniti.",
-      "fonte": "teledigitale.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Bournemouth vs Milan",
-      "competizione": "Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K",
-      "note": "Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "oasport.it, tuttonapoli.net, skysport.it, sportface.it, cronacapop.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Ajax vs Atalanta",
-      "competizione": "Conference League",
-      "canale": "Sky Sport Arena, Sky Sport 254",
-      "note": "Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "oasport.it, tuttonapoli.net, sportface.it, cronacapop.it, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Diretta Gol Conference League",
-      "competizione": "Conference League",
-      "canale": "Sky Sport 251",
-      "note": "Copertura simultanea di più partite. Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "oasport.it, tuttonapoli.net, skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "F1 Prove Libere 2",
-      "competizione": "Formula 1 (GP Stati Uniti)",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "virgilio.it, alvolante.it, formulapassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:25",
-      "evento": "F1 Academy – Qualifiche",
-      "competizione": "F1 Academy (GP Stati Uniti)",
-      "canale": "Sky Sport F1",
-      "note": "Sessione di qualifiche del campionato F1 Academy.",
-      "fonte": "teledigitale.it",
-      "accuratezza_orario": "esatto"
-    },
     {
       "orario": "00:00",
       "evento": "Moto3 Prove Libere 1",
-      "competizione": "MotoGP (GP Australia)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Inizio delle sessioni per il venerdì del GP d'Australia (orario italiano). Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "oasport.it, cronacapop.it, superscommesse.it",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Valido fino alle 06:00 del giorno successivo (24/10)",
+      "fonte": "FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:50",
       "evento": "Moto2 Prove Libere 1",
-      "competizione": "MotoGP (GP Australia)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Inizio delle sessioni per il venerdì del GP d'Australia (orario italiano). Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "oasport.it, cronacapop.it, superscommesse.it",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Valido fino alle 06:00 del giorno successivo (24/10)",
+      "fonte": "FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "01:45",
       "evento": "MotoGP Prove Libere 1",
-      "competizione": "MotoGP (GP Australia)",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "Inizio delle sessioni per il venerdì del GP d'Australia (orario italiano). Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "oasport.it, cronacapop.it, superscommesse.it",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Valido fino alle 06:00 del giorno successivo (24/10)",
+      "fonte": "FormulaPassion, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:15",
+      "evento": "Moto3 Prove 1",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Valido fino alle 06:00 del giorno successivo (24/10)",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:05",
+      "evento": "Moto2 Prove 1",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Valido fino alle 06:00 del giorno successivo (24/10)",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "06:00",
-      "evento": "MotoGP Pre-Qualifiche",
-      "competizione": "MotoGP (GP Australia)",
-      "canale": "Sky Sport MotoGP",
-      "note": "Sessione di pre-qualifiche del Gran Premio d'Australia. Disponibile anche in streaming su NOW e SkyGo.",
-      "fonte": "superscommesse.it",
+      "evento": "MotoGP Prove / Pre-Qualifiche",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Valido fino alle 06:00 del giorno successivo (24/10)",
+      "fonte": "Sky Sport, FormulaPassion, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "Hapoel IBI Tel Aviv - Virtus Bologna",
+      "competizione": "Eurolega",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "Quotidiano Nazionale, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Cobolli (ITA) vs Nakashima (USA)",
+      "competizione": "ATP 250 Lione",
+      "canale": "Sky Sport Tennis",
+      "note": "Quarti di finale",
+      "fonte": "LiveTennis.it, Lottomatica.Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1 - GP Stati Uniti",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "F1 Calendar, Virgilio, Quotidiano Motori, TuttoTech, Sky Sport F1, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Empoli - Vicenza",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "Calciomagazine, Sport e Calcio in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30*",
+      "evento": "Musetti (ITA) vs Van Assche (FRA)",
+      "competizione": "ATP 250 Lione",
+      "canale": "Sky Sport Tennis",
+      "note": "Quarti di finale",
+      "fonte": "LiveTennis.it, Lottomatica.Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Torino - Monza",
+      "competizione": "Serie A",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW, DAZN",
+      "note": "",
+      "fonte": "Sky Sport, DAZN, Lega Serie A, Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Connacht - Zebre Parma",
+      "competizione": "United Rugby Championship",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "Rugby in TV, Sport e Calcio in TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1 - GP Stati Uniti",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "F1 Calendar, Virgilio, Quotidiano Motori, TuttoTech, Sky Sport F1, FormulaPassion",
       "accuratezza_orario": "esatto"
     }
   ]
