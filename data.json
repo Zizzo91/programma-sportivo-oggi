@@ -1,103 +1,67 @@
 {
-  "last_updated": "2026-10-23T12:39:12.990728+02:00",
+  "last_updated": "2026-10-23T22:44:54.199370+02:00",
   "events": [
     {
       "orario": "00:00",
-      "evento": "Prove Libere 1",
-      "competizione": "Moto3 - Gran Premio d'Australia",
+      "evento": "Moto3 - GP Australia, Prove Libere 1",
+      "competizione": "Motomondiale 2026",
       "canale": "Sky Sport MotoGP",
-      "note": "Giovedì notte/Venerdì mattina",
-      "fonte": "FormulaPassion.it",
+      "note": "",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:50",
-      "evento": "Prove Libere 1",
-      "competizione": "Moto2 - Gran Premio d'Australia",
-      "canale": "Sky Sport MotoGP",
-      "note": "Giovedì notte/Venerdì mattina",
-      "fonte": "FormulaPassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:40",
-      "evento": "Prove Libere 1",
-      "competizione": "MotoGP - Gran Premio d'Australia",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "Giovedì notte/Venerdì mattina",
-      "fonte": "OA Sport, FormulaPassion.it, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:15",
-      "evento": "Prove 1",
-      "competizione": "Moto3 - Gran Premio d'Australia",
+      "evento": "Moto2 - GP Australia, Prove Libere 1",
+      "competizione": "Motomondiale 2026",
       "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion.it",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:05",
-      "evento": "Prove 1",
-      "competizione": "Moto2 - Gran Premio d'Australia",
-      "canale": "Sky Sport MotoGP",
+      "orario": "01:45",
+      "evento": "MotoGP - GP Australia, Prove Libere",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion.it",
+      "fonte": "OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:00",
-      "evento": "Prove / Pre-Qualifiche",
-      "competizione": "MotoGP - Gran Premio d'Australia",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "orario": "16:30",
+      "evento": "Formula 1 - GP USA (Austin), Prove Libere 1",
+      "competizione": "Formula 1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Orario convertito da locale (CDT) a CET.",
+      "fonte": "Sky Sport F1, F1 Official Calendar",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Formula 1 - GP USA (Austin), Prove Libere 2",
+      "competizione": "Formula 1 2026",
+      "canale": "Sky Sport F1",
+      "note": "Orario convertito da locale (CDT) a CET.",
+      "fonte": "Sky Sport F1, F1 Official Calendar",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Empoli-Vicenza",
+      "competizione": "Serie B",
+      "canale": "Dazn",
       "note": "",
-      "fonte": "Adnkronos, FormulaPassion.it, Sky Sport",
+      "fonte": "Sport today, Libero",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Quarti di finale: Flavio Cobolli vs Brandon Nakashima",
-      "competizione": "ATP 250 Lione",
-      "canale": "Sky, NOW, bet365 (streaming)",
-      "note": "",
-      "fonte": "bet365 IT, Lottomatica.sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1 - Gran Premio degli Stati Uniti (Austin)",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "OASport, Sky Sport, alVolante, FormulaPassion.it, Adnkronos, sportweek.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30*",
-      "evento": "Quarti di finale: Luca Van Assche vs Lorenzo Musetti",
-      "competizione": "ATP 250 Lione",
-      "canale": "Sky, NOW, bet365 (streaming)",
-      "note": "Orario stimato, a seguire il match di Cobolli",
-      "fonte": "bet365 IT, Lottomatica.sport",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
-      "evento": "Torino vs Monza",
+      "evento": "Torino-Monza",
       "competizione": "Serie A",
-      "canale": "DAZN 1, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "canale": "Sky, Dazn, Sky Sport Calcio",
       "note": "",
-      "fonte": "Virgilio Sport, Sky Sport, Libero, Lega Serie A, Movieplayer, Calciomagazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "Prove Libere 2",
-      "competizione": "Formula 1 - Gran Premio degli Stati Uniti (Austin)",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "OASport, Sky Sport, alVolante, FormulaPassion.it, Adnkronos, sportweek.it",
+      "fonte": "Sport today, Sky Sport, Libero, Movieplayer",
       "accuratezza_orario": "esatto"
     }
   ]
