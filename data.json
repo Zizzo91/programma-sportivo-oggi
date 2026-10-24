@@ -1,68 +1,194 @@
 {
-  "last_updated": "2026-10-24T17:00:03.120642+02:00",
+  "last_updated": "2026-10-24T21:56:43.169054+02:00",
   "events": [
     {
+      "orario": "00:25",
+      "evento": "Prove Libere 2 Moto2",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:10",
+      "evento": "Prove Libere 2 MotoGP",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:50",
+      "evento": "Qualifiche 1 MotoGP",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "Qualifiche Formula 1 (Replica)",
+      "competizione": "Formula 1 - GP Stati Uniti",
+      "canale": "Sky Sport",
+      "note": "Riferito al 25 ottobre (entro le 06:00 CET).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9wrddLbKZvcmyh3cvzQFH8Mw8GwWVoKiqDrQMwoD2gCFmuZrnkUuX8q4XIExAsKPetWGBo1rO-UrQnsEHJd1YfHsLmWpRclJ-pP7kpVXjlpVAvQsKQiGGFZ-OR2F5nOMognfTOFFthF9XNCD33N-0R3jq5u-RpECllWqXjWmS",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:15",
+      "evento": "Qualifiche 2 MotoGP",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:45",
+      "evento": "Qualifiche 1 Moto3",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Qualifiche Formula 1 (Replica)",
+      "competizione": "Formula 1 - GP Stati Uniti",
+      "canale": "Sky Sport",
+      "note": "Riferito al 25 ottobre (entro le 06:00 CET).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9wrddLbKZvcmyh3cvzQFH8Mw8GwWVoKiqDrQMwoD2gCFmuZrnkUuX8q4XIExAsKPetWGBo1rO-UrQnsEHJd1YfHsLmWpRclJ-pP7kpVXjlpVAvQsKQiGGFZ-OR2F5nOMognfTOFFthF9XNCD33N-0R3jq5u-RpECllWqXjWmS",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:10",
+      "evento": "Qualifiche 2 Moto3",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:40",
+      "evento": "Qualifiche 1 Moto2",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:05",
+      "evento": "Qualifiche 2 Moto2",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Sprint Race MotoGP",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP, TV8, Sky Go, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00*",
+      "evento": "Qualifiche MotoGP (Replica)",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP",
+      "note": "Orario stimato, diverse repliche durante la giornata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "09:00*",
+      "evento": "Sprint Race MotoGP (Replica)",
+      "competizione": "MotoGP - GP Australia",
+      "canale": "Sky Sport MotoGP",
+      "note": "Orario stimato, diverse repliche durante la giornata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuUMon5X3eBEaMvdjXNBTDGRAX-rCTcxA_lYZ5bFY5DZAXR6s7ZjMD5oiHg4XowtmscG9fThaKQsXbGjFVTmb3eUgOAUkqd2GBXloJNENgrIJFfxZ37xOtnrV_vBfp_o2SX1dNBxR7uanNq09bgwmLcz3MuCRhy6xH9q7LpR5ehYudip5aJrYiV6pQStkOjRbp24pY9QlBBEHpuG40qR4_vw0rq4VKHpds73FWJVTxnfu",
+      "accuratezza_orario": "stimato"
+    },
+    {
       "orario": "15:00",
-      "evento": "Cagliari - Bologna",
+      "evento": "Cagliari-Bologna",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "DAZN News Italia, ProgrammiTV.com, Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-X64z3BMiBumZ4yidJN6Q66UA4mqElzuwp-32U3MgtETPc-_4dfoXhEHm4bjnKkdSSUVtenliJfOxBBQRe_D-9_68waMqnA4vu7Wm2hnksCfSDXUNp9udeuFwQMeeFu04FnNjNHwNQeagCi_0cqUcPZ9H4un3uoJ1hfwgzFf3yDcyE-bMhz-g4DsIbH2gEFw3VRCAN-2oRmuTXRPHQf-SxZaEVW_coa8Pblyw",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Como - Sassuolo",
+      "evento": "Como-Sassuolo",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "DAZN News Italia, ProgrammiTV.com, Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-X64z3BMiBumZ4yidJN6Q66UA4mqElzuwp-32U3MgtETPc-_4dfoXhEHm4bjnKkdSSUVtenliJfOxBBQRe_D-9_68waMqnA4vu7Wm2hnksCfSDXUNp9udeuFwQMeeFu04FnNjNHwNQeagCi_0cqUcPZ9H4un3uoJ1hfwgzFf3yDcyE-bMhz-g4DsIbH2gEFw3VRCAN-2oRmuTXRPHQf-SxZaEVW_coa8Pblyw",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00*",
-      "evento": "Cobolli - Musetti",
-      "competizione": "ATP 250 Lione - Semifinale",
-      "canale": "",
-      "note": "Non prima delle 16:00 CET, in base ai match precedenti",
-      "fonte": "LiveTennis.it, OA Sport, Lottomatica.Sport",
+      "evento": "Flavio Cobolli vs Lorenzo Musetti (Semifinale)",
+      "competizione": "ATP 250 Lione",
+      "canale": "Sky Sport Tennis (203), Sky Go, NOW, Tennis TV",
+      "note": "Non prima delle ore 16:00. Derby italiano.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhkGX_A2JiUht-T8VoJp3UCbnyuFNVodAwVSZFRDWvsHvVE2vv6v8OaszsadbczB48MJfSjDooU5tb0PEMKIetYc0idQv0BHtC0_u0mvV48U-6D5Q0wl0cWA6xH0JqTzmMUgAPclzLJs80kC46oO7JJUZ5TBBjuWqDba5ffQvbLFr-6vwD8M_mE8rpmJYpt9AzZxVNyf2l6_ATZA==",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
-      "evento": "Napoli - Roma",
+      "evento": "Napoli-Roma",
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "DAZN News Italia, ProgrammiTV.com, Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-X64z3BMiBumZ4yidJN6Q66UA4mqElzuwp-32U3MgtETPc-_4dfoXhEHm4bjnKkdSSUVtenliJfOxBBQRe_D-9_68waMqnA4vu7Wm2hnksCfSDXUNp9udeuFwQMeeFu04FnNjNHwNQeagCi_0cqUcPZ9H4un3uoJ1hfwgzFf3yDcyE-bMhz-g4DsIbH2gEFw3VRCAN-2oRmuTXRPHQf-SxZaEVW_coa8Pblyw",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Prove Libere 3 Formula 1",
+      "competizione": "Formula 1 - GP Stati Uniti",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9wrddLbKZvcmyh3cvzQFH8Mw8GwWVoKiqDrQMwoD2gCFmuZrnkUuX8q4XIExAsKPetWGBo1rO-UrQnsEHJd1YfHsLmWpRclJ-pP7kpVXjlpVAvQsKQiGGFZ-OR2F5nOMognfTOFFthF9XNCD33N-0R3jq5u-RpECllWqXjWmS",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Lazio - Parma",
+      "evento": "Lazio-Parma",
       "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW, Sky Go",
       "note": "",
-      "fonte": "DAZN News Italia, ProgrammiTV.com, Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-X64z3BMiBumZ4yidJN6Q66UA4mqElzuwp-32U3MgtETPc-_4dfoXhEHm4bjnKkdSSUVtenliJfOxBBQRe_D-9_68waMqnA4vu7Wm2hnksCfSDXUNp9udeuFwQMeeFu04FnNjNHwNQeagCi_0cqUcPZ9H4un3uoJ1hfwgzFf3yDcyE-bMhz-g4DsIbH2gEFw3VRCAN-2oRmuTXRPHQf-SxZaEVW_coa8Pblyw",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "23:00",
-      "evento": "Qualifiche GP USA",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Qualifiche del Gran Premio degli Stati Uniti 2026 ad Austin (16:00 ora locale)",
-      "fonte": "Sky Sport F1, ProgrammiTV.com",
+      "evento": "Qualifiche Formula 1",
+      "competizione": "Formula 1 - GP Stati Uniti",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9wrddLbKZvcmyh3cvzQFH8Mw8GwWVoKiqDrQMwoD2gCFmuZrnkUuX8q4XIExAsKPetWGBo1rO-UrQnsEHJd1YfHsLmWpRclJ-pP7kpVXjlpVAvQsKQiGGFZ-OR2F5nOMognfTOFFthF9XNCD33N-0R3jq5u-RpECllWqXjWmS",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "00:00*",
-      "evento": "Vallejo - Sonego",
-      "competizione": "ATP 500 Vienna - Qualificazioni (Q1)",
-      "canale": "",
-      "note": "2° incontro dopo l'inizio del programma alle 11:00 CET",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
+      "orario": "00:30",
+      "evento": "Qualifiche Formula 1 (Differita)",
+      "competizione": "Formula 1 - GP Stati Uniti",
+      "canale": "TV8",
+      "note": "Riferito al 25 ottobre (entro le 06:00 CET).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbX34RL9PInTNGazmtXP1lF8GgRy6Iu_DByRb6-AVRYno0M_msFV6hNh1LesSyrhTv9CxXqa42nNx_cDh3KCvhRoeEg5RxrAjBiUOULdXt61oWUY49BX_CEu9mlK02JvzaXCbiFwi-redS8mIsALHPhLyG-brpyzsUKFOFeICA2u-u6mdFWqygpOSlP1DNE4m_fQI=",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
