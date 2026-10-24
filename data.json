@@ -1,67 +1,112 @@
 {
-  "last_updated": "2026-10-23T22:44:54.199370+02:00",
+  "last_updated": "2026-10-24T11:57:09.517792+02:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Moto3 - GP Australia, Prove Libere 1",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:50",
-      "evento": "Moto2 - GP Australia, Prove Libere 1",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:45",
-      "evento": "MotoGP - GP Australia, Prove Libere",
-      "competizione": "Motomondiale 2026",
+      "orario": "01:10",
+      "evento": "Prove Libere 2",
+      "competizione": "MotoGP GP Australia",
       "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "OA Sport",
+      "fonte": "Sport in tv oggi (sabato 24 ottobre): orari e programma. Dove vedere gli eventi in streaming",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:30",
-      "evento": "Formula 1 - GP USA (Austin), Prove Libere 1",
-      "competizione": "Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Orario convertito da locale (CDT) a CET.",
-      "fonte": "Sky Sport F1, F1 Official Calendar",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Formula 1 - GP USA (Austin), Prove Libere 2",
-      "competizione": "Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "Orario convertito da locale (CDT) a CET.",
-      "fonte": "Sky Sport F1, F1 Official Calendar",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Empoli-Vicenza",
-      "competizione": "Serie B",
-      "canale": "Dazn",
+      "orario": "01:50",
+      "evento": "Qualifiche",
+      "competizione": "MotoGP GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
       "note": "",
-      "fonte": "Sport today, Libero",
+      "fonte": "Sport in tv oggi (sabato 24 ottobre): orari e programma. Dove vedere gli eventi in streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "Gara",
+      "competizione": "MotoGP GP Australia",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sport in tv oggi sabato 24 ottobre: sci alpino a Soelden e MotoGP in Australia, Sportface su Prime Video e Samsung TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "Slalom Gigante femminile, 1ª manche",
+      "competizione": "Coppa del Mondo Sci Alpino Sölden",
+      "canale": "Rai 2, Eurosport",
+      "note": "Prevista la partecipazione di Federica Brignone o Sofia Goggia.",
+      "fonte": "Sport oggi in tv, la programmazione di sabato 24 ottobre: serie A, F1, volley donne e rugby femminile",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Slalom Gigante femminile, 2ª manche",
+      "competizione": "Coppa del Mondo Sci Alpino Sölden",
+      "canale": "Eurosport, Rai Sport",
+      "note": "Prevista la partecipazione di Federica Brignone o Sofia Goggia.",
+      "fonte": "Sport oggi in tv, la programmazione di sabato 24 ottobre: serie A, F1, volley donne e rugby femminile",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Gara (Differita)",
+      "competizione": "MotoGP GP Australia",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "Sport in tv oggi sabato 24 ottobre: sci alpino a Soelden e MotoGP in Australia, Sportface su Prime Video e Samsung TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Cagliari-Bologna",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Sport oggi in tv, la programmazione di sabato 24 ottobre: serie A, F1, volley donne e rugby femminile",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Como-Sassuolo",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Sport oggi in tv, la programmazione di sabato 24 ottobre: serie A, F1, volley donne e rugby femminile",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "Semifinale Lorenzo Musetti vs Flavio Cobolli",
+      "competizione": "ATP Lione",
+      "canale": "SuperTennis / Sky Sport Tennis (stimato)",
+      "note": "Orario stimato per le semifinali di tennis.",
+      "fonte": "Sport in tv oggi (sabato 24 ottobre): orari e programma. Dove vedere gli eventi in streaming, Sport in tv oggi sabato 24 ottobre: sci alpino a Soelden e MotoGP in Australia, Sportface su Prime Video e Samsung TV",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Napoli-Roma",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Sport oggi in tv, la programmazione di sabato 24 ottobre: serie A, F1, volley donne e rugby femminile, SSC Napoli vs AS Roma - Partita del 24/10/2026 in Serie A - Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Torino-Monza",
+      "evento": "Lazio-Parma",
       "competizione": "Serie A",
-      "canale": "Sky, Dazn, Sky Sport Calcio",
+      "canale": "Sky Sport Uno, Sky Sport Calcio",
       "note": "",
-      "fonte": "Sport today, Sky Sport, Libero, Movieplayer",
+      "fonte": "Sport oggi in tv, la programmazione di sabato 24 ottobre: serie A, F1, volley donne e rugby femminile, La Lazio sfida il Parma per restare in vetta in Serie A: il match è su Sky",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Qualifiche",
+      "competizione": "Formula 1 GP Stati Uniti",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Quando MotoGP e F1 oggi (sabato 24 ottobre): orari qualifiche e Sprint, streaming, programma TV8 e Sky",
       "accuratezza_orario": "esatto"
     }
   ]
