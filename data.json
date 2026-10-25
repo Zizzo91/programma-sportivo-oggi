@@ -1,166 +1,139 @@
 {
-  "last_updated": "2026-10-25T11:19:27.565667+01:00",
+  "last_updated": "2026-10-25T21:06:37.532397+01:00",
   "events": [
     {
-      "orario": "00:30",
-      "evento": "Qualifiche F1 (Differita)",
-      "competizione": "Formula 1 - GP USA 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:30",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP - GP Australia 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
-      "note": "Moto3 e Moto2 gare cancellate; Gara MotoGP posticipata. Ora solare in vigore dalla notte tra sabato e domenica.",
+      "orario": "18:00",
+      "evento": "Lecce-Juventus",
+      "competizione": "Serie A",
+      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW",
+      "note": "Diretta",
       "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:30",
-      "evento": "Gara MotoGP (Replica)",
-      "competizione": "MotoGP - GP Australia 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Gara MotoGP (Replica)",
-      "competizione": "MotoGP - GP Australia 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Inter - Fiorentina",
-      "competizione": "Calcio - Serie A ENILIVE",
-      "canale": "DAZN 1",
-      "note": "8^ giornata di Serie A.",
-      "fonte": "Sky Sport, Movieplayer, Goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP (Differita)",
-      "competizione": "MotoGP - GP Australia 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "OA Sport, Sky Sport, TTNews 24",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP (Replica)",
-      "competizione": "MotoGP - GP Australia 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Lorenzo Musetti vs Taylor Fritz (Finale)",
-      "competizione": "Tennis - ATP 250 Lione",
-      "canale": "Sky Sport Tennis (203), NOW",
-      "note": "Con Lorenzo Musetti (Italia).",
-      "fonte": "Tennis Magazine, OA Sport, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Atalanta - Frosinone",
-      "competizione": "Calcio - Serie A ENILIVE",
-      "canale": "DAZN 1",
-      "note": "8^ giornata di Serie A.",
-      "fonte": "Sky Sport, Movieplayer, Goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Genoa - Venezia",
-      "competizione": "Calcio - Serie A ENILIVE",
-      "canale": "DAZN 1",
-      "note": "8^ giornata di Serie A.",
-      "fonte": "Sky Sport, Movieplayer, Goal.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Lecce - Juventus",
-      "competizione": "Calcio - Serie A ENILIVE",
-      "canale": "Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251, DAZN 1",
-      "note": "8^ giornata di Serie A.",
-      "fonte": "Sky Sport, Libero Magazine, Movieplayer, Goal.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Gara MotoGP (Replica)",
-      "competizione": "MotoGP - GP Australia 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:45",
-      "evento": "Qualifiche F1 (Replica)",
-      "competizione": "Formula 1 - GP USA 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "Il Fatto Quotidiano",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Gara MotoGP (Replica)",
-      "competizione": "MotoGP - GP Australia 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
+      "evento": "Vero Volley Monza-Rana Verona",
+      "competizione": "Superlega Maschile",
+      "canale": "DAZN, VBTV",
+      "note": "Diretta",
+      "fonte": "Lega Pallavolo Serie A, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Udinese - Milan",
-      "competizione": "Calcio - Serie A ENILIVE",
-      "canale": "DAZN 1",
-      "note": "8^ giornata di Serie A.",
-      "fonte": "Sky Sport, Movieplayer",
+      "evento": "Udinese-Milan",
+      "competizione": "Serie A",
+      "canale": "DAZN",
+      "note": "Diretta",
+      "fonte": "Sky Sport, Goal.com Italia",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Gara F1",
-      "competizione": "Formula 1 - GP USA 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Diretta da Austin (USA).",
-      "fonte": "FormulaPassion, OA Sport, Virgilio Sport, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Barcellona - Real Madrid",
-      "competizione": "Calcio - LaLiga",
+      "evento": "Barcellona-Real Madrid",
+      "competizione": "La Liga",
       "canale": "Italia 1, Mediaset Infinity",
-      "note": "El Clásico. Diretta streaming su Mediaset Infinity.",
-      "fonte": "Programmi TV, Libero Magazine",
+      "note": "Diretta e in chiaro",
+      "fonte": "Calcio e Finanza, Libero Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "F1 - Gara GP Stati Uniti",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
+      "note": "Diretta",
+      "fonte": "Sky Sport, FormulaPassion, Adnkronos",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "22:30",
-      "evento": "Gara F1 (Differita)",
-      "competizione": "Formula 1 - GP USA 2026",
+      "evento": "F1 - Gara GP Stati Uniti",
+      "competizione": "Formula 1",
       "canale": "TV8",
+      "note": "Differita",
+      "fonte": "FormulaPassion, Adnkronos, alVolante",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "F1 - Paddock Live Post-Gara GP Stati Uniti",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1",
+      "note": "Approfondimento post-gara",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:30",
+      "evento": "F1 - Debriefing GP Stati Uniti",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Approfondimento",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "F1 - Notebook GP Stati Uniti",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Approfondimento",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:10",
+      "evento": "Pressing - Nel cuore dello sport",
+      "competizione": "Rubrica Sportiva",
+      "canale": "Canale 5",
       "note": "",
-      "fonte": "OA Sport, FormulaPassion, Fanpage, Il Fatto Quotidiano",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:15",
+      "evento": "F1 - Race Anatomy GP Stati Uniti",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1",
+      "note": "Approfondimento post-gara",
+      "fonte": "Sky Sport, Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:15",
+      "evento": "F1 - Podio GP Stati Uniti",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "Approfondimento post-gara",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:30",
+      "evento": "La Domenica Sportiva Extratime",
+      "competizione": "Rubrica Sportiva",
+      "canale": "Rai 2",
+      "note": "",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Race Anatomy MotoGP",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Arena",
+      "note": "Approfondimento. La gara MotoGP del GP Australia è stata cancellata per motivi di sicurezza.",
+      "fonte": "Quotidiano Nazionale, Guida TV, OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:55",
+      "evento": "Sport Mediaset - La Giornata",
+      "competizione": "Rubrica Sportiva",
+      "canale": "Italia 1",
+      "note": "",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
