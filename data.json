@@ -1,139 +1,85 @@
 {
-  "last_updated": "2026-10-25T21:06:37.532397+01:00",
+  "last_updated": "2026-10-26T18:48:41.407753+01:00",
   "events": [
     {
-      "orario": "18:00",
-      "evento": "Lecce-Juventus",
-      "competizione": "Serie A",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 251, Sky Sport 4K, NOW",
-      "note": "Diretta",
-      "fonte": "Sky Sport",
+      "orario": "02:30",
+      "evento": "Tennis: WTA 500 Tokyo",
+      "competizione": "WTA 500",
+      "canale": "SuperTennis, Sky Sport Uno, Sky Sport Tennis",
+      "note": "Inizio trasmissione, il match di doppio Errani/Paolini (ITA) vs Danilina/Jiang è il 3° match in programma dalle ore 03:00.",
+      "fonte": "Virgilio Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Formula 1: GP Stati Uniti 2026 - Gara",
+      "competizione": "Mondiale Formula 1",
+      "canale": "Sky Sport Uno",
+      "note": "Replica della gara di domenica 25 ottobre.",
+      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto, Mondiale Formula 1 2026-GP Stati Uniti: Gara su Sky Sport Uno - Guida TV",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:30",
+      "evento": "MotoGP: GP Australia 2026 - Gara",
+      "competizione": "Mondiale MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara di domenica 25 ottobre.",
+      "fonte": "MotoGP in Australia: la guida per le gare su Sky con il ritorno dell'ora solare",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "MotoGP: GP Australia 2026 - Gara",
+      "competizione": "Mondiale MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara di domenica 25 ottobre.",
+      "fonte": "MotoGP in Australia: la guida per le gare su Sky con il ritorno dell'ora solare",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Tennis: ATP 500 Vienna - Matteo Berrettini (ITA) vs Tomas Etcheverry",
+      "competizione": "ATP 500",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Match di singolare con giocatore italiano.",
+      "fonte": "Atp Vienna e Atp Basilea 2026, il programma di oggi: partite e orari, Italiani in Campo (ATP-WTA-Challenger): I risultati completi con il dettaglio del 26 Ottobre 2026, Atp Vienna e Basilea, dove vedere i tornei 500 in tv e streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "MotoGP: GP Australia 2026 - Gara",
+      "competizione": "Mondiale MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara di domenica 25 ottobre.",
+      "fonte": "MotoGP in Australia: la guida per le gare su Sky con il ritorno dell'ora solare",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:30",
+      "evento": "Tennis: ATP 500 Vienna - Luciano Darderi (ITA) vs Matteo Arnaldi (ITA)",
+      "competizione": "ATP 500",
+      "canale": "Sky Sport Tennis, Sky Sport Uno",
+      "note": "Match di singolare con due giocatori italiani (2° incontro dalle 13:30).",
+      "fonte": "Atp Vienna e Atp Basilea 2026, il programma di oggi: partite e orari, Italiani in Campo (ATP-WTA-Challenger): I risultati completi con il dettaglio del 26 Ottobre 2026, Atp Vienna e Basilea, dove vedere i tornei 500 in tv e streaming",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
-      "evento": "Vero Volley Monza-Rana Verona",
-      "competizione": "Superlega Maschile",
-      "canale": "DAZN, VBTV",
-      "note": "Diretta",
-      "fonte": "Lega Pallavolo Serie A, OA Sport",
+      "evento": "MotoGP: GP Australia 2026 - Gara",
+      "competizione": "Mondiale MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara di domenica 25 ottobre.",
+      "fonte": "MotoGP in Australia: la guida per le gare su Sky con il ritorno dell'ora solare",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Udinese-Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "Diretta",
-      "fonte": "Sky Sport, Goal.com Italia",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Barcellona-Real Madrid",
-      "competizione": "La Liga",
-      "canale": "Italia 1, Mediaset Infinity",
-      "note": "Diretta e in chiaro",
-      "fonte": "Calcio e Finanza, Libero Magazine",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "F1 - Gara GP Stati Uniti",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
-      "note": "Diretta",
-      "fonte": "Sky Sport, FormulaPassion, Adnkronos",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "22:30",
-      "evento": "F1 - Gara GP Stati Uniti",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Differita",
-      "fonte": "FormulaPassion, Adnkronos, alVolante",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:00",
-      "evento": "F1 - Paddock Live Post-Gara GP Stati Uniti",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1",
-      "note": "Approfondimento post-gara",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:30",
-      "evento": "F1 - Debriefing GP Stati Uniti",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Approfondimento",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "F1 - Notebook GP Stati Uniti",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Approfondimento",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:10",
-      "evento": "Pressing - Nel cuore dello sport",
-      "competizione": "Rubrica Sportiva",
-      "canale": "Canale 5",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:15",
-      "evento": "F1 - Race Anatomy GP Stati Uniti",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1",
-      "note": "Approfondimento post-gara",
-      "fonte": "Sky Sport, Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:15",
-      "evento": "F1 - Podio GP Stati Uniti",
-      "competizione": "Formula 1",
-      "canale": "TV8",
-      "note": "Approfondimento post-gara",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:30",
-      "evento": "La Domenica Sportiva Extratime",
-      "competizione": "Rubrica Sportiva",
-      "canale": "Rai 2",
-      "note": "",
-      "fonte": "Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Arena",
-      "note": "Approfondimento. La gara MotoGP del GP Australia è stata cancellata per motivi di sicurezza.",
-      "fonte": "Quotidiano Nazionale, Guida TV, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:55",
-      "evento": "Sport Mediaset - La Giornata",
-      "competizione": "Rubrica Sportiva",
-      "canale": "Italia 1",
-      "note": "",
-      "fonte": "Guida TV",
+      "orario": "20:00",
+      "evento": "MotoGP: GP Australia 2026 - Gara",
+      "competizione": "Mondiale MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Replica della gara di domenica 25 ottobre.",
+      "fonte": "MotoGP in Australia: la guida per le gare su Sky con il ritorno dell'ora solare",
       "accuratezza_orario": "esatto"
     }
   ]
