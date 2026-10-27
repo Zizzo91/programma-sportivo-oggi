@@ -1,50 +1,50 @@
 {
-  "last_updated": "2026-10-27T12:12:34.423122+01:00",
+  "last_updated": "2026-10-27T17:58:38.975726+01:00",
   "events": [
     {
-      "orario": "18:30",
-      "evento": "Sassuolo - Lazio",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "IlFaroOnline, OA Sport, Lifestyleblog.it, Il Fatto Quotidiano, Tutto Napoli, La Notizia, Calciomagazine, Libero, Calcio e Finanza",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Roma - Cagliari",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "IlFaroOnline, CronacaPop, Lifestyleblog.it, Il Fatto Quotidiano, Tutto Napoli, La Notizia, Calciomagazine, Libero",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Torino - Como",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "IlFaroOnline, CronacaPop, Lifestyleblog.it, Sky Sport, Il Fatto Quotidiano, Tutto Napoli, La Notizia, Calciomagazine, Sport Sera - Guida TV, Libero, Sport - Guida TV, Calcio e Finanza",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "09:00*",
-      "evento": "Jasmine Paolini (ITA) vs Naomi Osaka (JPN)",
-      "competizione": "Tennis - WTA Tokyo 500 (Primo turno)",
-      "canale": "SuperTennis HD, Sky Sport Tennis, Sky Go, NOW",
-      "note": "Quarto match in programma, inizio sessione alle 02:30. Orario stimato in base a 'non prima delle 09:00'.",
-      "fonte": "OA Sport, CronacaPop, Virgilio, Sky Sport, Notizie di bet365 IT, TennisTalker Magazine, Sportface",
+      "evento": "Jasmine Paolini vs Naomi Osaka",
+      "competizione": "WTA Tokyo - Primo Turno",
+      "canale": "Sky Sport Tennis, SuperTennis HD, NOW, Sky Go, supertennis.tv, SuperTennis+",
+      "note": "Quarto match in programma, inizio sessione alle 02:30 italiane.",
+      "fonte": "OA Sport, Virgilio, Sky Sport",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Sassuolo-Lazio",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky canale 214)",
+      "note": "",
+      "fonte": "La Notizia, IlFaroOnline, Quotidiano Sportivo, Tutto Napoli, Calciomagazine",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:00*",
-      "evento": "Flavio Cobolli (ITA) vs Grigor Dimitrov (BUL)",
-      "competizione": "Tennis - ATP Vienna 500 (Primo turno)",
-      "canale": "Sky Sport, NOW",
-      "note": "Orario stimato in base a 'non prima delle 20:00'.",
-      "fonte": "OA Sport, Virgilio, Sky Sport, Notizie di bet365 IT, TennisTalker Magazine, Sportface",
+      "evento": "Flavio Cobolli vs Grigor Dimitrov",
+      "competizione": "ATP Vienna - Primo Turno",
+      "canale": "Sky Sport Tennis, NOW, bet365",
+      "note": "Quarto match sul Centre Court, dopo Zverev-Landaluce (non prima delle 17:30).",
+      "fonte": "bet365 IT, OA Sport, ATP Tennis, Sky Sport",
       "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Roma-Cagliari",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky canale 214)",
+      "note": "",
+      "fonte": "La Notizia, IlFaroOnline, Quotidiano Sportivo, Tutto Napoli",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Torino-Como",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW, Sky Go",
+      "note": "",
+      "fonte": "La Notizia, IlFaroOnline, Sky Sport, Quotidiano Sportivo, Tutto Napoli, Virgilio, Calciomagazine, CronacaPop",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
