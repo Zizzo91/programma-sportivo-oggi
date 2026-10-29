@@ -1,95 +1,77 @@
 {
-  "last_updated": "2026-10-28T22:58:53.033580+01:00",
+  "last_updated": "2026-10-29T04:18:46.526674+01:00",
   "events": [
     {
-      "orario": "05:00",
-      "evento": "Sara Errani / Jasmine Paolini vs Anna Danilina / Xinyu Jiang",
-      "competizione": "WTA 500 Tokyo - Doppio (Ottavi di Finale)",
-      "canale": "SuperTennis HD, SuperTennis+, Sky Sport Tennis, Sky Sport Uno",
-      "note": "Match rinviato lunedì causa pioggia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOYRGK9fWmoOgWD3NbOaKXZCrjDPmI8oEg1tJ49xtJiqNA0v2jnpjKq_OUeDzXNkKnDvFiwaj7w6Y8VzmhroKWZaeuy60_tc__iOelr9FsnWz-L9oGd6do36iahaLgU80eMCxjyB78mwjM4DIkWwdhkvVin_VNaj5AlT-uElTDoaYcgO7xEIgJ1NRVHN1gs3JdaoyWjwvWAhHZqGqWXh2g0dyVxlfGdln983WgJochan_dtsxLyeIK-8PuxF35xm8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUT1a1ND_pKZBY1rn8EohClVF9j2aBVhd3ohle6r1jWGgwcMMx1ffvREEKZN8DvEOH_6rTLpVsnPUtifrAmob63fz56CpjX_bKH4923EluUBBBpH16dg9tS203o3QuZ7NyILzDW6uRJIyKP85AtRLtFNqTgM37hye37VE1hF9pTMJ-Rby7DWwrZGT_OZScsv-vsvNeg0DYVKaMzwY1UaRfe-jqH-aZxf_w7Jn6g04yD9BNQ-eJHz3Z0cNbhqQyippwvwCb8X0w0tQk6MiSsVo",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "MotoGP GP Australia - Gara (Replica)",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara del GP d'Australia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj8ffWckkky4Q3ybXfggdH25k85TuOQHbHZiW41am9Lru9Yxj_e-px66MCXB-YFHPRpx_P6q1Ue82tt4oXq9nGzIwJ3hgXQtOeYLd2xJ6mew8SUNoYZC-6_NO-2oVCaWRKZvyYvDpG7uO5pr3k_cuxmGr1",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "CastrumFavara – Reggina",
-      "competizione": "Serie D, Girone I (recupero 9ª giornata)",
-      "canale": "Reggio TV, Reggina Channel, Facebook Reggio TV, reggiotv.it",
-      "note": "Recupero della partita inizialmente prevista domenica.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_V1GAvWowayvyiyXCSW42MF89Srh_oUVCKiOOFxTjcVI9RoG_3uofWnBm3rJQwOpxXlClKPAC1LNNSDm55OFgjOgB1maUUu3KUD1XipO48BZ3tkrIUGjZ-4aFu9L_vWLLsZ7OPhC7gMOA7gJG3Ri0Q6zaf7Pt_IZT1bZxlLNQW1NJrSEN_3uOSRHn9Ypo7jD5E3v9PuYgVcHHPiy2UYvQxy7A0BFQGFU7HVGZCHhMjoI6sGA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr2i80lLjiyS6n0ymAbyadZRvsz69ppnuHdq5N_aj9stVa7PiXDqwF-ccKmcfxU3b6XnVo_Rfk6aawmjCBQY7u9vVceE5qkiOpicaLiwXdsoLKdTao518deQDOSymRs7XvpSaMnx-X4jq6RehDhK26sBja_SvsWCOL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7hu5JTQOYzhZtqn-nSAnPjEeJew7hecyp90tWCUnZB_ALx6FGABt_ybmgkviESbZxaD7JCUsLJElToqlyWlJQa0ujQTiUcIZT8ZebHqGGjvEGBE2gUzjFmqHzWa_GZmMyKwxonC0oERaTuEhOBjedGdmm0SWxdMxX67-_t7_omHzlsatODb8WhxDwrObCzSOIc4gvWl3tppuaDFew, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrow70zBEtZ1Q6B3GXVjbgW6_510ScwOrwX_MM8uthGNMLMBrv0T8du3KHAx5y-Zg4ybry6CChktyFzTdHldKU8Nvq9rvXewLYxSmlVzZezOMZU-GC2RiIvvjdF6pwB1J9NSACuqMcKBFKSHmjGOoU2KlTMcXOohBMJxTA9aI21sm7w6d26LtXrE-v-2LuqVC2VdOMfABm6QaMoTnEjK0UGUTt0ZvxFfeoCmvzynGHZo7Wcvg7EDY6Y5k3io7NlZuN6ahpngJlcGRr2A",
-      "accuratezza_orario": "esatto"
+      "orario": "17:00*",
+      "evento": "ATP Vienna - Ottavi di finale: Lorenzo Musetti vs Arthur Fery",
+      "competizione": "Tennis - ATP 500 Vienna",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
+      "note": "Orario stimato, terzo match a partire dalle 13:30 CET",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:30",
-      "evento": "Venezia - Inter",
-      "competizione": "Serie A 2026/2027 (9ª giornata)",
-      "canale": "Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251/252, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHVmxN7HOBFnPMSpfdTchmNp-Tju0Uv5Uzii1efg5ZPEbLD4Zo8IK91GH32J203wmXHRBMuDTNjB_pMjVjimvZ8OLqbZ8ZG80KxBQ2lMnvskl1plD_6R_entF4XhhbGyiMEsUILn8WqRD6RTHfJhSlVZkM29Vy9qD4MTwoIubLwEGyjZCMk6pV, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXYWOxmIKrX1qQO-tcRBZHoo6KUwSpACOAvPYHR0BvDOFl53U_EKY94Gp3hlZJ75fqUufz84pi1GJZgevS1pXzNYW3G_VexnGzpIe1Abk9S2T0sKo3ypnwTzmBSd1JSgiCNn4mvtu04qn7P6B0xr3K2KovlB7LSsfGKe-ifcrkTdbvFYye0S-0celxhnfVmQjpwd5u1yT8JBCvK72ElPI0PgnuqQyl-qD-B8rTAgpvKDur5kA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96IEZo4A7RWWllrImlJnziu8elNBtO2zB1kg0uvqDb2eGk9KdCp4dR9grzAW0rcQalDYCFOGUgCxUqn4hwHLa5Cdv46Olya0Q44XsLnKH8pRbTmVvVm4jVytVDTNtITXkbjlcqmnFRTFO4Ay9GYCsUe-S4N-NrEDEJctP6o94lTDMYZWTe3MLuznJspkOAzI",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Milan - Bologna",
-      "competizione": "Serie A 2026/2027 (9ª giornata)",
+      "evento": "Serie A: Frosinone - Lecce",
+      "competizione": "Calcio - Serie A",
       "canale": "DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHVmxN7HOBFnPMSpfdTchmNp-Tju0Uv5Uzii1efg5ZPEbLD4Zo8IK91GH32J203wmXHRBMuDTNjB_pMjVjimvZ8OLqbZ8ZG80KxBQ2lMnvskl1plD_6R_entF4XhhbGyiMEsUILn8WqRD6RTHfJhSlVZkM29Vy9qD4MTwoIubLwEGyjZCMk6pV, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXYWOxmIKrX1qQO-tcRBZHoo6KUwSpACOAvPYHR0BvDOFl53U_EKY94Gp3hlZJ75fqUufz84pi1GJZgevS1pXzNYW3G_VexnGzpIe1Abk9S2T0sKo3ypnwTzmBSd1JSgiCNn4mvtu04qn7P6B0xr3K2KovlB7LSsfGKe-ifcrkTdbvFYye0S-0celxhnfVmQjpwd5u1yT8JBCvK72ElPI0PgnuqQyl-qD-B8rTAgpvKDur5kA",
+      "fonte": "DAZN News Italia, NapoliCalcioNews.it, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Parma - Udinese",
-      "competizione": "Serie A 2026/2027 (9ª giornata)",
-      "canale": "DAZN 2",
+      "orario": "20:00*",
+      "evento": "ATP Vienna - Ottavi di finale: Flavio Cobolli vs Matteo Berrettini",
+      "competizione": "Tennis - ATP 500 Vienna",
+      "canale": "Sky Sport Uno (201), Sky Sport Tennis (203)",
+      "note": "Orario stimato, quarto match a partire dalle 13:30 CET",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Formula 1 - GP Messico: Conferenza stampa piloti",
+      "competizione": "Automobilismo - Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHVmxN7HOBFnPMSpfdTchmNp-Tju0Uv5Uzii1efg5ZPEbLD4Zo8IK91GH32J203wmXHRBMuDTNjB_pMjVjimvZ8OLqbZ8ZG80KxBQ2lMnvskl1plD_6R_entF4XhhbGyiMEsUILn8WqRD6RTHfJhSlVZkM29Vy9qD4MTwoIubLwEGyjZCMk6pV, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXYWOxmIKrX1qQO-tcRBZHoo6KUwSpACOAvPYHR0BvDOFl53U_EKY94Gp3hlZJ75fqUufz84pi1GJZgevS1pXzNYW3G_VexnGzpIe1Abk9S2T0sKo3ypnwTzmBSd1JSgiCNn4mvtu04qn7P6B0xr3K2KovlB7LSsfGKe-ifcrkTdbvFYye0S-0celxhnfVmQjpwd5u1yT8JBCvK72ElPI0PgnuqQyl-qD-B8rTAgpvKDur5kA",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Monza - Napoli",
-      "competizione": "Serie A 2026/2027 (9ª giornata)",
-      "canale": "Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHVmxN7HOBFnPMSpfdTchmNp-Tju0Uv5Uzii1efg5ZPEbLD4Zo8IK91GH32J203wmXHRBMuDTNjB_pMjVjimvZ8OLqbZ8ZG80KxBQ2lMnvskl1plD_6R_entF4XhhbGyiMEsUILn8WqRD6RTHfJhSlVZkM29Vy9qD4MTwoIubLwEGyjZCMk6pV, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXYWOxmIKrX1qQO-tcRBZHoo6KUwSpACOAvPYHR0BvDOFl53U_EKY94Gp3hlZJ75fqUufz84pi1GJZgevS1pXzNYW3G_VexnGzpIe1Abk9S2T0sKo3ypnwTzmBSd1JSgiCNn4mvtu04qn7P6B0xr3K2KovlB7LSsfGKe-ifcrkTdbvFYye0S-0celxhnfVmQjpwd5u1yT8JBCvK72ElPI0PgnuqQyl-qD-B8rTAgpvKDur5kA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Genoa - Juventus",
-      "competizione": "Serie A 2026/2027 (9ª giornata)",
+      "evento": "Serie A: Fiorentina - Atalanta",
+      "competizione": "Calcio - Serie A",
       "canale": "DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHVmxN7HOBFnPMSpfdTchmNp-Tju0Uv5Uzii1efg5ZPEbLD4Zo8IK91GH32J203wmXHRBMuDTNjB_pMjVjimvZ8OLqbZ8ZG80KxBQ2lMnvskl1plD_6R_entF4XhhbGyiMEsUILn8WqRD6RTHfJhSlVZkM29Vy9qD4MTwoIubLwEGyjZCMk6pV, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXYWOxmIKrX1qQO-tcRBZHoo6KUwSpACOAvPYHR0BvDOFl53U_EKY94Gp3hlZJ75fqUufz84pi1GJZgevS1pXzNYW3G_VexnGzpIe1Abk9S2T0sKo3ypnwTzmBSd1JSgiCNn4mvtu04qn7P6B0xr3K2KovlB7LSsfGKe-ifcrkTdbvFYye0S-0celxhnfVmQjpwd5u1yT8JBCvK72ElPI0PgnuqQyl-qD-B8rTAgpvKDur5kA",
+      "fonte": "DAZN News Italia, NapoliCalcioNews.it, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Lorenzo Musetti vs Frances Tiafoe",
-      "competizione": "ATP 500 Vienna - Singolare (Primo Turno)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Esordio di Lorenzo Musetti nel torneo. Orario non specificato, dipende dai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE9EF6WCUTRRRWj_b99YMw44XXCDEMIfcDWW4hI8vTL_nZzVCCUde-2RX1e6caP08PF0gYfDlQskvKVdmTKkYo9WKc_zzKIhA-Cwze9J18ZLf5OwcUEMTqxhC6vlIq9qd0Sepm930oOooBcFIiONOE2D0Xh82tgUUFofu0FbDw9NJ5Vhx8ZOeSDj7sZvuXH0rOppSUKR_k4FqcQZg1nbTs-LlkNfY6IGUXIIKIwqbpjbYZY4GdNFK4CC0_zlw-C2sjtQ",
-      "accuratezza_orario": "tba"
+      "orario": "21:30",
+      "evento": "Formula 1 - GP Messico: Paddock Live Pit Walk",
+      "competizione": "Automobilismo - Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "Simone Bolelli / Andrea Vavassori vs Marcelo Melo / Alexander Zverev",
-      "competizione": "ATP 500 Vienna - Doppio (Primo Turno)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Orario non specificato, dipende dai match precedenti.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE9EF6WCUTRRRWj_b99YMw44XXCDEMIfcDWW4hI8vTL_nZzVCCUde-2RX1e6caP08PF0gYfDlQskvKVdmTKkYo9WKc_zzKIhA-Cwze9J18ZLf5OwcUEMTqxhC6vlIq9qd0Sepm930oOooBcFIiONOE2D0Xh82tgUUFofu0FbDw9NJ5Vhx8ZOeSDj7sZvuXH0rOppSUKR_k4FqcQZg1nbTs-LlkNfY6IGUXIIKIwqbpjbYZY4GdNFK4CC0_zlw-C2sjtQ",
-      "accuratezza_orario": "tba"
+      "orario": "03:40",
+      "evento": "MotoGP - GP Malesia: Prove libere 1 (MotoGP)",
+      "competizione": "Motociclismo - MotoGP",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "Evento del 30 ottobre, rientra nel palinsesto notturno",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:55",
+      "evento": "MotoGP - GP Malesia: Pre-qualifiche (MotoGP)",
+      "competizione": "Motociclismo - MotoGP",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "Evento del 30 ottobre, rientra nel palinsesto notturno. L'orario di fine è oltre le 06:00, ma l'inizio è prima.",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
