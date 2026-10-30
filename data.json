@@ -1,58 +1,94 @@
 {
-  "last_updated": "2026-10-30T18:24:29.686901+01:00",
+  "last_updated": "2026-10-30T22:46:43.615201+01:00",
   "events": [
     {
       "orario": "02:00",
-      "evento": "Moto3 - GP Malesia, Prove Libere 1",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulYes9GZUdnrgwIFyl_YvSzkqKryGgIKJ9_EWdq-CHJqxmIVGxgzbrMzW9c-AyzRNfQ2fD-iqBpmS3zuODq1z0PwfgDn1WQiFdrRacIQWZ11oMWOFE6Px9LelxflRGT06JWnW2jIh9GkuG720761bgO1Ri3J4vMMuVspC3fUC-NpnKRSR3qs6j5xANzs5ZqK1abx8SmQTbuQrLKyW5ZQfyi7k5IgU827m44CTZ9MsibTbC90PU0alcvknK3DsFw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfqtzdbjTQYeT0-nh7CjJbldCmOl8HJFfCGMwNgGXVbVYNJRNyK_V9aruZW91gbxE8MmBoCCDUmYlhubzO5FE97X5jk5AN0ljB6tKyxUFWIm04SKn-yHiy589vlfL43R8oPlvrwdOtbzOHut0GQhNIpvYyq4r_qeSd5eznEe09tmdath5xKlo1ZooI4xSpqZk4vg==",
+      "evento": "GP Malesia - Prove Libere 1",
+      "competizione": "Moto3",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Sessione del venerdì notturno/sabato mattina ora locale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAt9bjPPp7106UJIwt9QH3jksXhn90Q-zidD5GVgBn2kihAAT2V5vGCb-Ag0t8iKJgCCVtY44C0PCopYqFnja3xdyat9xL9jK1wnQo6C5jplAHRmgOkvumJQ5JyNF-wMRhaewqvmJvL4x5E8pgp6O01MIXaXXM3zt87uwbXyW6uHaKQoHVhxDjOG8fmA8xuoYP5e_M7ePBTFePvY317NzQN3p6TCs3Cvth8RjOF-qab-K_F4t-V6WTE0iEzQqv8p9hW8mMdn1_ciAUI9f5YSiiUIMUnCqvB9gcTtn4YJFymhWIDXPXFnEND86NhKjvSACNqlWWDdN12aksm0dgmaEFqDGgee4Tn4hCLvXZH3X3cmE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQLaHfLTxr_CQpqEOWakdexbRgRLPPBSdy2nFOlQIUSHBInhvdo9dnLdYEivC25527PWW2Af__lym0geOY5KcvMdF0HU-8DRPQNuHNtYbUvHrCxcfI8ZD4ukIU8Fg2TO0a5A5CRC3QIFXdumnEDi_5rEI9E2y3CWy5i9DzN_MX0Wbc4UZyqfsinqyEYGNrXU4E7ebYs7ftS_EQiFm--u_9Baj70SmDFD2XzFjllgdSjZ-XTX1omvbsKBxlIrsKbKQ=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:50",
-      "evento": "Moto2 - GP Malesia, Prove Libere 1",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulYes9GZUdnrgwIFyl_YvSzkqKryGgIKJ9_EWdq-CHJqxmIVGxgzbrMzW9c-AyzRNfQ2fD-iqBpmS3zuODq1z0PwfgDn1WQiFdrRacIQWZ11oMWOFE6Px9LelxflRGT06JWnW2jIh9GkuG720761bgO1Ri3J4vMMuVspC3fUC-NpnKRSR3qs6j5xANzs5ZqK1abx8SmQTbuQrLKyW5ZQfyi7k5IgU827m44CTZ9MsibTbC90PU0alcvknK3DsFw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfqtzdbjTQYeT0-nh7CjJbldCmOl8HJFfCGMwNgGXVbVYNJRNyK_V9aruZW91gbxE8MmBoCCDUmYlhubzO5FE97X5jk5AN0ljB6tKyxUFWIm04SKn-yHiy589vlfL43R8oPlvrwdOtbzOHut0GQhNIpvYyq4r_qeSd5eznEe09tmdath5xKlo1ZooI4xSpqZk4vg==",
+      "evento": "GP Malesia - Prove Libere 1",
+      "competizione": "Moto2",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Sessione del venerdì notturno/sabato mattina ora locale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAt9bjPPp7106UJIwt9QH3jksXhn90Q-zidD5GVgBn2kihAAT2V5vGCb-Ag0t8iKJgCCVtY44C0PCopYqFnja3xdyat9xL9jK1wnQo6C5jplAHRmgOkvumJQ5JyNF-wMRhaewqvmJvL4x5E8pgp6O01MIXaXXM3zt87uwbXyW6uHaKQoHVhxDjOG8fmA8xuoYP5e_M7ePBTFePvY317NzQN3p6TCs3Cvth8RjOF-qab-K_F4t-V6WTE0iEzQqv8p9hW8mMdn1_ciAUI9f5YSiiUIMUnCqvB9gcTtn4YJFymhWIDXPXFnEND86NhKjvSACNqlWWDdN12aksm0dgmaEFqDGgee4Tn4hCLvXZH3X3cmE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQLaHfLTxr_CQpqEOWakdexbRgRLPPBSdy2nFOlQIUSHBInhvdo9dnLdYEivC25527PWW2Af__lym0geOY5KcvMdF0HU-8DRPQNuHNtYbUvHrCxcfI8ZD4ukIU8Fg2TO0a5A5CRC3QIFXdumnEDi_5rEI9E2y3CWy5i9DzN_MX0Wbc4UZyqfsinqyEYGNrXU4E7ebYs7ftS_EQiFm--u_9Baj70SmDFD2XzFjllgdSjZ-XTX1omvbsKBxlIrsKbKQ=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:45",
-      "evento": "MotoGP - GP Malesia, Prove Libere 1",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulYes9GZUdnrgwIFyl_YvSzkqKryGgIKJ9_EWdq-CHJqxmIVGxgzbrMzW9c-AyzRNfQ2fD-iqBpmS3zuODq1z0PwfgDn1WQiFdrRacIQWZ11oMWOFE6Px9LelxflRGT06JWnW2jIh9GkuG720761bgO1Ri3J4vMMuVspC3fUC-NpnKRSR3qs6j5xANzs5ZqK1abx8SmQTbuQrLKyW5ZQfyi7k5IgU827m44CTZ9MsibTbC90PU0alcvknK3DsFw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfqtzdbjTQYeT0-nh7CjJbldCmOl8HJFfCGMwNgGXVbVYNJRNyK_V9aruZW91gbxE8MmBoCCDUmYlhubzO5FE97X5jk5AN0ljB6tKyxUFWIm04SKn-yHiy589vlfL43R8oPlvrwdOtbzOHut0GQhNIpvYyq4r_qeSd5eznEe09tmdath5xKlo1ZooI4xSpqZk4vg==",
+      "evento": "GP Malesia - Prove Libere 1",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, NOW",
+      "note": "Sessione del venerdì notturno/sabato mattina ora locale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAt9bjPPp7106UJIwt9QH3jksXhn90Q-zidD5GVgBn2kihAAT2V5vGCb-Ag0t8iKJgCCVtY44C0PCopYqFnja3xdyat9xL9jK1wnQo6C5jplAHRmgOkvumJQ5JyNF-wMRhaewqvmJvL4x5E8pgp6O01MIXaXXM3zt87uwbXyW6uHaKQoHVhxDjOG8fmA8xuoYP5e_M7ePBTFePvY317NzQN3p6TCs3Cvth8RjOF-qab-K_F4t-V6WTE0iEzQqv8p9hW8mMdn1_ciAUI9f5YSiiUIMUnCqvB9gcTtn4YJFymhWIDXPXFnEND86NhKjvSACNqlWWDdN12aksm0dgmaEFqDGgee4Tn4hCLvXZH3X3cmE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQLaHfLTxr_CQpqEOWakdexbRgRLPPBSdy2nFOlQIUSHBInhvdo9dnLdYEivC25527PWW2Af__lym0geOY5KcvMdF0HU-8DRPQNuHNtYbUvHrCxcfI8ZD4ukIU8Fg2TO0a5A5CRC3QIFXdumnEDi_5rEI9E2y3CWy5i9DzN_MX0Wbc4UZyqfsinqyEYGNrXU4E7ebYs7ftS_EQiFm--u_9Baj70SmDFD2XzFjllgdSjZ-XTX1omvbsKBxlIrsKbKQ=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "04:00*",
-      "evento": "Tennis - WTA 500 Tokyo, Semifinale (Errani/Paolini)",
-      "competizione": "WTA 500 Tokyo 2026",
-      "canale": "Sky Sport Tennis, Super Tennis",
-      "note": "Partita di doppio con Sara Errani e Jasmine Paolini. Orario stimato per il secondo match.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2-k67dg2b-TZpWKFIwjHKhFKPE-cUqyMCDeaPdX_OBNY0C8jhKRQpF5jqOT_MpOQFvY2AkL1QiU2DXqeGAr0gE0khdVfWUFkEYVf_yvK2YqoVTOzkNON3tsQHw7KbibtWaVNd0wriD9Oi-wH7rKIlllwZZAJBUBePptC25aJwR2xQyteHeICuRhbjnuNtaWpdnqMglhE3_2lDvlaCaCf8Beec6d_GCtkFziico3E0dg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulYes9GZUdnrgwIFyl_YvSzkqKryGgIKJ9_EWdq-CHJqxmIVGxgzbrMzW9c-AyzRNfQ2fD-iqBpmS3zuODq1z0PwfgDn1WQiFdrRacIQWZ11oMWOFE6Px9LelxflRGT06JWnW2jIh9GkuG720761bgO1Ri3J4vMMuVspC3fUC-NpnKRSR3qs6j5xANzs5ZqK1abx8SmQTbuQrLKyW5ZQfyi7k5IgU827m44CTZ9MsibTbC90PU0alcvknK3DsFw==",
+      "evento": "WTA 500 Tokyo - Quarti di finale: Errani/Paolini vs Muhammad/Zhang",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis, Sky Sport Plus, Super Tennis, Sky Go, NOW, supertennis.tv, SuperTennis+",
+      "note": "Secondo match, non prima delle 05:30 CET. Coppia italiana in campo. Risultato: 4-6, 3-6 (già concluso al momento della ricerca, ma trasmesso in diretta il 30/10).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQLaHfLTxr_CQpqEOWakdexbRgRLPPBSdy2nFOlQIUSHBInhvdo9dnLdYEivC25527PWW2Af__lym0geOY5KcvMdF0HU-8DRPQNuHNtYbUvHrCxcfI8ZD4ukIU8Fg2TO0a5A5CRC3QIFXdumnEDi_5rEI9E2y3CWy5i9DzN_MX0Wbc4UZyqfsinqyEYGNrXU4E7ebYs7ftS_EQiFm--u_9Baj70SmDFD2XzFjllgdSjZ-XTX1omvbsKBxlIrsKbKQ=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEdgBsC_kTQOnqAXb1QWmiXdkb_1ukDuUpSdZOpA4QESw-lzh8x9GC-Z5iDUU5Yfwc53IghtBuoTiMnZXNHOUh0hW0GgHOrgMEnX2e3Q5xSTVldvvzp9xWkV8rh6jNWsw3fXgE7srVg37kyk8F1s31en-7ho6mmVPyvlN7_NZfBlu3_XzvbwbD2sTZI0e7oU74k1lWLEcGScNdD-7OCZSzE6h2VIWXqfsV_XBjHqGNj8Z742h-mBG-q6ktX_U9Yvme",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "19:30",
-      "evento": "Formula 1 - GP Messico, Prove Libere 1",
-      "competizione": "Formula 1 2026",
-      "canale": "Sky Sport F1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNm2UyvZGBjk6sJPIiKFbHZAtp1UfYGlXyhI15zS9prAFWf6ot3pejaEx6eYZ_KWHhfd2X58QRWw45o32eHFgihFegANh0D72JmL_VaFv7RUOFHKx74Xp6AgNcRUdnLxTdN4l3FaldNXP9fZGcYMqnN2sAPO-xMdWHtPFrUuZDOFc13bUU_AA-WJjmw-om0B9DoGU==",
+      "orario": "06:15",
+      "evento": "GP Malesia - Prove 1",
+      "competizione": "Moto3",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "Sessione del venerdì notturno/sabato mattina ora locale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAt9bjPPp7106UJIwt9QH3jksXhn90Q-zidD5GVgBn2kihAAT2V5vGCb-Ag0t8iKJgCCVtY44C0PCopYqFnja3xdyat9xL9jK1wnQo6C5jplAHRmgOkvumJQ5JyNF-wMRhaewqvmJvL4x5E8pgp6O01MIXaXXM3zt87uwbXyW6uHaKQoHVhxDjOG8fmA8xuoYP5e_M7ePBTFePvY317NzQN3p6TCs3Cvth8RjOF-qab-K_F4t-V6WTE0iEzQqv8p9hW8mMdn1_ciAUI9f5YSiiUIMUnCqvB9gcTtn4YJFymhWIDXPXFnEND86NhKjvSACNqlWWDdN12aksm0dgmaEFqDGgee4Tn4hCLvXZH3X3cmE",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Formula 1 - GP Messico, Prove Libere 2",
-      "competizione": "Formula 1 2026",
-      "canale": "Sky Sport F1",
+      "orario": "07:05",
+      "evento": "GP Malesia - Prove 1",
+      "competizione": "Moto2",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "Sessione del venerdì notturno/sabato mattina ora locale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAt9bjPPp7106UJIwt9QH3jksXhn90Q-zidD5GVgBn2kihAAT2V5vGCb-Ag0t8iKJgCCVtY44C0PCopYqFnja3xdyat9xL9jK1wnQo6C5jplAHRmgOkvumJQ5JyNF-wMRhaewqvmJvL4x5E8pgp6O01MIXaXXM3zt87uwbXyW6uHaKQoHVhxDjOG8fmA8xuoYP5e_M7ePBTFePvY317NzQN3p6TCs3Cvth8RjOF-qab-K_F4t-V6WTE0iEzQqv8p9hW8mMdn1_ciAUI9f5YSiiUIMUnCqvB9gcTtn4YJFymhWIDXPXFnEND86NhKjvSACNqlWWDdN12aksm0dgmaEFqDGgee4Tn4hCLvXZH3X3cmE",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "08:00",
+      "evento": "GP Malesia - Prove",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, NOW",
+      "note": "Sessione del venerdì notturno/sabato mattina ora locale. Corrisponde alle pre-qualifiche in alcune fonti.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAt9bjPPp7106UJIwt9QH3jksXhn90Q-zidD5GVgBn2kihAAT2V5vGCb-Ag0t8iKJgCCVtY44C0PCopYqFnja3xdyat9xL9jK1wnQo6C5jplAHRmgOkvumJQ5JyNF-wMRhaewqvmJvL4x5E8pgp6O01MIXaXXM3zt87uwbXyW6uHaKQoHVhxDjOG8fmA8xuoYP5e_M7ePBTFePvY317NzQN3p6TCs3Cvth8RjOF-qab-K_F4t-V6WTE0iEzQqv8p9hW8mMdn1_ciAUI9f5YSiiUIMUnCqvB9gcTtn4YJFymhWIDXPXFnEND86NhKjvSACNqlWWDdN12aksm0dgmaEFqDGgee4Tn4hCLvXZH3X3cmE, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsPKnNDOU-VgwqEqShnfxC1WOdSbDKQ8tfOcCP0g1tUZdgvEYVC0r8acCkyH5-N4iy4_2qPEGYJAVwkXt8XrahmPUPuWwNMnYCJBCsk-ID1BtKBnYc8ha-tCFebnp5deBJzDVpfTMLw7D9fDbwDom03UVY_S-896JXK12EZwr4BDsQCo2VeooI3lITqbzgaUTCdMG12E4sitU0OUd2B8xI0LuE0g==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "GP Messico - Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNm2UyvZGBjk6sJPIiKFbHZAtp1UfYGlXyhI15zS9prAFWf6ot3pejaEx6eYZ_KWHhfd2X58QRWw45o32eHFgihFegANh0D72JmL_VaFv7RUOFHKx74Xp6AgNcRUdnLxTdN4l3FaldNXP9fZGcYMqnN2sAPO-xMdWHtPFrUuZDOFc13bUU_AA-WJjmw-om0B9DoGU==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7g_Cs_THvEK1ruoc-eWXsVSveYNOba94CZxsGfPZN16qV8tjkHAcbodK18Ct-qWhgct83wBC1VMmN6hhNwiR7a3NqbNIYXGwCGIilMDrFDvEWCkzIZPtJt5juXTxA2SmGU0UdG7l0m1Q-1hRJProxa7e1tpht-JlUrW9E2kQrwrMTSJdw3DBkzXDLnSjdgNyL3yAp8h_-oAVqAmlExfNIpzSp9krCEon9ZVtNrnUforhdvsIASjWh-AASAkRfDBl4-rNDiXXrWPcfPXCFuDr3mEiQzeMqGJbQFB2fui6jCgzn4xB-xZsRE_Zr0bKS-UjlkSU5Pmfo0vkVLBbDeh3IUNfhQCC0jw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6kZlCcGbAMLlMwZ5s1eklV29Z_e_bLwOJ6VUJFHGsEOjGYDcWSPkMVxo4sqNMRE7G18ngABVsgDEMmE6rOqkhCavbAw7dv95ai7oECvCBdM4mg73-sNSaXlY1-On-SiqNnaMxvxT3Abhh76Q8n5puCyeKi0vPXZZ6TygGKPuTL6rfDjBDvObAb3gKxb5iydKLnL_go5FbA6zC4nlTbS2z8eKu, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gLcjhaijSkWRYAiYCR3Zhv89xAXaZv_phUrLMxepu5pwpb_kRWz-otNTQJ4wyxGLB-WsloqhaIZDd_MPMxup6bArJUfyRhUJgiAKFxTLiEISnPl4OanPP7gRg3I-7iDomswL-4CxKPyCC4Gjixsb25vX_xsR3JxPLWZyEp_GEFDRAZOmnU3WcxgRmMhMRkWpfsrRcrVJMVQpTetFbRJMiHApfFc-WIAVhb6y7WIwFrGW3RVHOQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcT3db1VvXADZkl0JLJvfMWK1Y91r6hjjCdy17FbfVblMizD7nqXzsfuRsSjbNDaGnJ6W9ZUkMZtsorGjYN0FycYwhh5J-8pHi7AQwWS4KxoVOG4xeio4kJI2VoQBs0fnZBBPxJa1Ucie3uic8Da9z17VN5qy9CpIf3UAYpAKaQjLl-9VqIN2YgSD9yA6o1ZycRo9bPEMmMfFKgV1D-DebgxWZziDnawWEm_ptyQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOcv1J7kc1xxCrHKLcGwSRPF9fj_60Vjh8qq14t9uMuowUpb8cgVXujm0tZ03od1HM0xD71EOd_dvgTq3vZxX5PriDVDaoO_VorOYyZlHPnvj7N4oemtCjYY4WrPlT1Pz7xOWaVhXSqg7UcwknpZXPqvZREkMfdq5_S4lrOYnQUmLjHlx3aYi2bXL1s1nvmIk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq-d8sjGSUmbhr04GCyLGgkI_utUvpG2pjPlWrNxfEE053fhr0abjHKtRL5Klig-edbTNzmQTYIs0vy0esd4Y2obST-kzWJzEx6aE65yRJDZDh6HI3Ol3RJODBZuVGRrDrM5V_CHKYEK636RaU-GzkrjUFdgZ9knzB6muql-M9UJRb-p8=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00*",
+      "evento": "ATP Vienna - Quarti di finale: Matteo Berrettini vs Alex de Minaur",
+      "competizione": "Tennis",
+      "canale": "Sky Sport",
+      "note": "Inizio indicativo, quarto match sul campo principale",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgA_OxIpiwHqDIJSe-jMumHVcAKei0rP4M3v3EG3g7qoauT_SpBk-pokq9yWdiAxCT9vGZjVf0r4fv3G5uxRspwXQuvXRARKB6lm9WF9doVl68Gfq1-v4VTu3I9tTBF-nZRb_2xMHlSx29Ypcv5l5L1sHHQ3GhzuPpq7MhGMf4hlSvPVU9-y9X85SgMltCDgqvzwSg6BgsvdIzA9QPaTyd-2n",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "23:00",
+      "evento": "GP Messico - Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7g_Cs_THvEK1ruoc-eWXsVSveYNOba94CZxsGfPZN16qV8tjkHAcbodK18Ct-qWhgct83wBC1VMmN6hhNwiR7a3NqbNIYXGwCGIilMDrFDvEWCkzIZPtJt5juXTxA2SmGU0UdG7l0m1Q-1hRJProxa7e1tpht-JlUrW9E2kQrwrMTSJdw3DBkzXDLnSjdgNyL3yAp8h_-oAVqAmlExfNIpzSp9krCEon9ZVtNrnUforhdvsIASjWh-AASAkRfDBl4-rNDiXXrWPcfPXCFuDr3mEiQzeMqGJbQFB2fui6jCgzn4xB-xZsRE_Zr0bKS-UjlkSU5Pmfo0vkVLBbDeh3IUNfhQCC0jw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6kZlCcGbAMLlMwZ5s1eklV29Z_e_bLwOJ6VUJFHGsEOjGYDcWSPkMVxo4sqNMRE7G18ngABVsgDEMmE6rOqkhCavbAw7dv95ai7oECvCBdM4mg73-sNSaXlY1-On-SiqNnaMxvxT3Abhh76Q8n5puCyeKi0vPXZZ6TygGKPuTL6rfDjBDvObAb3gKxb5iydKLnL_go5FbA6zC4nlTbS2z8eKu, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gLcjhaijSkWRYAiYCR3Zhv89xAXaZv_phUrLMxepu5pwpb_kRWz-otNTQJ4wyxGLB-WsloqhaIZDd_MPMxup6bArJUfyRhUJgiAKFxTLiEISnPl4OanPP7gRg3I-7iDomswL-4CxKPyCC4Gjixsb25vX_xsR3JxPLW7aZXPqvZREkMfdq5_S4lrOYnQUmLjHlx3aYi2bXL1s1nvmIk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOcv1J7kc1xxCrHKLcGwSRPF9fj_60Vjh8qq14t9uMuowUpb8cgVXujm0tZ03od1HM0xD71EOd_dvgTq3vZxX5PriDVDaoO_VorOYyZlHPnvj7N4oemtCjYY4WrPlT1Pz7xOWaVhXSqg7UcwknpZXPqvZREkMfdq5_S4lrOYnQUmLjHlx3aYi2bXL1s1nvmIk=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq-d8sjGSUmbhr04GCyLGgkI_utUvpG2pjPlWrNxfEE053fhr0abjHKtRL5Klig-edbTNzmQTYIs0vy0esd4Y2obST-kzWJzEx6aE65yRJDZDh6HI3Ol3RJODBZuVGRrDrM5V_CHKYEK636RaU-GzkrjUFdgZ9knzB6muql-M9UJRb-p8=",
       "accuratezza_orario": "esatto"
     }
   ]
