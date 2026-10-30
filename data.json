@@ -1,139 +1,58 @@
 {
-  "last_updated": "2026-10-30T04:19:45.732129+01:00",
+  "last_updated": "2026-10-30T18:24:29.686901+01:00",
   "events": [
     {
       "orario": "02:00",
-      "evento": "Moto3 - Prove Libere 1",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "evento": "Moto3 - GP Malesia, Prove Libere 1",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion.it, OA Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulYes9GZUdnrgwIFyl_YvSzkqKryGgIKJ9_EWdq-CHJqxmIVGxgzbrMzW9c-AyzRNfQ2fD-iqBpmS3zuODq1z0PwfgDn1WQiFdrRacIQWZ11oMWOFE6Px9LelxflRGT06JWnW2jIh9GkuG720761bgO1Ri3J4vMMuVspC3fUC-NpnKRSR3qs6j5xANzs5ZqK1abx8SmQTbuQrLKyW5ZQfyi7k5IgU827m44CTZ9MsibTbC90PU0alcvknK3DsFw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfqtzdbjTQYeT0-nh7CjJbldCmOl8HJFfCGMwNgGXVbVYNJRNyK_V9aruZW91gbxE8MmBoCCDUmYlhubzO5FE97X5jk5AN0ljB6tKyxUFWIm04SKn-yHiy589vlfL43R8oPlvrwdOtbzOHut0GQhNIpvYyq4r_qeSd5eznEe09tmdath5xKlo1ZooI4xSpqZk4vg==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "02:50",
-      "evento": "Moto2 - Prove Libere 1",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "evento": "Moto2 - GP Malesia, Prove Libere 1",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion.it, OA Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulYes9GZUdnrgwIFyl_YvSzkqKryGgIKJ9_EWdq-CHJqxmIVGxgzbrMzW9c-AyzRNfQ2fD-iqBpmS3zuODq1z0PwfgDn1WQiFdrRacIQWZ11oMWOFE6Px9LelxflRGT06JWnW2jIh9GkuG720761bgO1Ri3J4vMMuVspC3fUC-NpnKRSR3qs6j5xANzs5ZqK1abx8SmQTbuQrLKyW5ZQfyi7k5IgU827m44CTZ9MsibTbC90PU0alcvknK3DsFw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfqtzdbjTQYeT0-nh7CjJbldCmOl8HJFfCGMwNgGXVbVYNJRNyK_V9aruZW91gbxE8MmBoCCDUmYlhubzO5FE97X5jk5AN0ljB6tKyxUFWIm04SKn-yHiy589vlfL43R8oPlvrwdOtbzOHut0GQhNIpvYyq4r_qeSd5eznEe09tmdath5xKlo1ZooI4xSpqZk4vg==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "03:45",
-      "evento": "MotoGP - Prove Libere 1",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "evento": "MotoGP - GP Malesia, Prove Libere 1",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "FormulaPassion.it, OA Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulYes9GZUdnrgwIFyl_YvSzkqKryGgIKJ9_EWdq-CHJqxmIVGxgzbrMzW9c-AyzRNfQ2fD-iqBpmS3zuODq1z0PwfgDn1WQiFdrRacIQWZ11oMWOFE6Px9LelxflRGT06JWnW2jIh9GkuG720761bgO1Ri3J4vMMuVspC3fUC-NpnKRSR3qs6j5xANzs5ZqK1abx8SmQTbuQrLKyW5ZQfyi7k5IgU827m44CTZ9MsibTbC90PU0alcvknK3DsFw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfqtzdbjTQYeT0-nh7CjJbldCmOl8HJFfCGMwNgGXVbVYNJRNyK_V9aruZW91gbxE8MmBoCCDUmYlhubzO5FE97X5jk5AN0ljB6tKyxUFWIm04SKn-yHiy589vlfL43R8oPlvrwdOtbzOHut0GQhNIpvYyq4r_qeSd5eznEe09tmdath5xKlo1ZooI4xSpqZk4vg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "06:15",
-      "evento": "Moto3 - Prove 1 (Pre-Qualifiche)",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "FormulaPassion.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:05",
-      "evento": "Moto2 - Prove 1 (Pre-Qualifiche)",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "FormulaPassion.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "MotoGP - Prove (Pre-Qualifiche)",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "FormulaPassion.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Inter-Roma",
-      "competizione": "Campionato Primavera",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Goal.com Italia, Calcio su Sky e NOW",
-      "accuratezza_orario": "esatto"
+      "orario": "04:00*",
+      "evento": "Tennis - WTA 500 Tokyo, Semifinale (Errani/Paolini)",
+      "competizione": "WTA 500 Tokyo 2026",
+      "canale": "Sky Sport Tennis, Super Tennis",
+      "note": "Partita di doppio con Sara Errani e Jasmine Paolini. Orario stimato per il secondo match.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2-k67dg2b-TZpWKFIwjHKhFKPE-cUqyMCDeaPdX_OBNY0C8jhKRQpF5jqOT_MpOQFvY2AkL1QiU2DXqeGAr0gE0khdVfWUFkEYVf_yvK2YqoVTOzkNON3tsQHw7KbibtWaVNd0wriD9Oi-wH7rKIlllwZZAJBUBePptC25aJwR2xQyteHeICuRhbjnuNtaWpdnqMglhE3_2lDvlaCaCf8Beec6d_GCtkFziico3E0dg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulYes9GZUdnrgwIFyl_YvSzkqKryGgIKJ9_EWdq-CHJqxmIVGxgzbrMzW9c-AyzRNfQ2fD-iqBpmS3zuODq1z0PwfgDn1WQiFdrRacIQWZ11oMWOFE6Px9LelxflRGT06JWnW2jIh9GkuG720761bgO1Ri3J4vMMuVspC3fUC-NpnKRSR3qs6j5xANzs5ZqK1abx8SmQTbuQrLKyW5ZQfyi7k5IgU827m44CTZ9MsibTbC90PU0alcvknK3DsFw==",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "19:30",
-      "evento": "Formula 1 - Prove Libere 1",
-      "competizione": "F1 GP Messico 2026",
-      "canale": "Sky Sport F1, Sky Sport 4K",
+      "evento": "Formula 1 - GP Messico, Prove Libere 1",
+      "competizione": "Formula 1 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "alVolante, Tom's Hardware, FormulaPassion.it, F1GrandPrix.it, OA Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNm2UyvZGBjk6sJPIiKFbHZAtp1UfYGlXyhI15zS9prAFWf6ot3pejaEx6eYZ_KWHhfd2X58QRWw45o32eHFgihFegANh0D72JmL_VaFv7RUOFHKx74Xp6AgNcRUdnLxTdN4l3FaldNXP9fZGcYMqnN2sAPO-xMdWHtPFrUuZDOFc13bUU_AA-WJjmw-om0B9DoGU==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "23:00",
-      "evento": "Formula 1 - Prove Libere 2",
-      "competizione": "F1 GP Messico 2026",
-      "canale": "Sky Sport F1, Sky Sport 4K, Sky Sport Uno",
+      "evento": "Formula 1 - GP Messico, Prove Libere 2",
+      "competizione": "Formula 1 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "alVolante, Tom's Hardware, FormulaPassion.it, F1GrandPrix.it, OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:40",
-      "evento": "Moto3 - Prove 2",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "Evento del 31 ottobre, incluso in quanto entro le 06:00 del giorno successivo.",
-      "fonte": "FormulaPassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:25",
-      "evento": "Moto2 - Prove 2",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "Evento del 31 ottobre, incluso in quanto entro le 06:00 del giorno successivo.",
-      "fonte": "FormulaPassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:10",
-      "evento": "MotoGP - Prove Libere 2",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "Evento del 31 ottobre, incluso in quanto entro le 06:00 del giorno successivo.",
-      "fonte": "FormulaPassion.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:50",
-      "evento": "MotoGP - Qualifiche 1",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Evento del 31 ottobre, incluso in quanto entro le 06:00 del giorno successivo. Diretta su TV8.",
-      "fonte": "FormulaPassion.it, Fanpage",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:15",
-      "evento": "MotoGP - Qualifiche 2",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Evento del 31 ottobre, incluso in quanto entro le 06:00 del giorno successivo. Diretta su TV8.",
-      "fonte": "FormulaPassion.it, Fanpage",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:45",
-      "evento": "Moto3 - Qualifiche 1",
-      "competizione": "MotoGP GP Malesia 2026",
-      "canale": "Sky Sport MotoGP, TV8",
-      "note": "Evento del 31 ottobre, incluso in quanto entro le 06:00 del giorno successivo. Diretta su TV8.",
-      "fonte": "FormulaPassion.it, Fanpage",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNm2UyvZGBjk6sJPIiKFbHZAtp1UfYGlXyhI15zS9prAFWf6ot3pejaEx6eYZ_KWHhfd2X58QRWw45o32eHFgihFegANh0D72JmL_VaFv7RUOFHKx74Xp6AgNcRUdnLxTdN4l3FaldNXP9fZGcYMqnN2sAPO-xMdWHtPFrUuZDOFc13bUU_AA-WJjmw-om0B9DoGU==",
       "accuratezza_orario": "esatto"
     }
   ]
