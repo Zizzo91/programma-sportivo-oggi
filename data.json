@@ -1,94 +1,112 @@
 {
-  "last_updated": "2026-11-02T04:08:03.676859+01:00",
+  "last_updated": "2026-11-03T01:09:14.492517+01:00",
   "events": [
     {
-      "orario": "01:30",
-      "evento": "GP Messico: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara di Formula 1 del Gran Premio del Messico 2026.",
-      "fonte": "Formula 1, Antonelli campione: gli orari delle repliche del GP Messico 2026 - Sky Sport",
+      "orario": "14:00",
+      "evento": "Youth League: Manchester United U19-Roma U20",
+      "competizione": "UEFA Youth League",
+      "canale": "Sky Sport Calcio",
+      "note": "",
+      "fonte": "skysport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:30",
-      "evento": "GP Messico: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica della gara di Formula 1 del Gran Premio del Messico 2026.",
-      "fonte": "Formula 1, Antonelli campione: gli orari delle repliche del GP Messico 2026 - Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "GP Messico: Gara (Replica)",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara di Formula 1 del Gran Premio del Messico 2026.",
-      "fonte": "Dopodomani in tv su Sky sport arena - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "06:00",
-      "evento": "MotoGP 2026-GP Malesia: Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara di MotoGP del Gran Premio della Malesia 2026.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara del Gran Premio della Malesia di MotoGP.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:30",
+      "orario": "14:00",
       "evento": "Mondiale Formula 1 2026-GP Messico: Gara (Replica)",
       "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Replica della gara di Formula 1 del Gran Premio del Messico 2026, dove Kimi Antonelli ha vinto il titolo mondiale.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara disputata il 1° novembre 2026",
+      "fonte": "guida.tv - Quotidiano Nazionale",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:30",
-      "evento": "Race Anatomy F1",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno",
-      "note": "Analisi post-gara del Gran Premio del Messico di Formula 1.",
-      "fonte": "Sky Sport Uno : Programmi TV e Palinsesto",
+      "orario": "12:30*",
+      "evento": "ATP Masters 1000 Parigi: Brandon Nakashima vs Matteo Berrettini",
+      "competizione": "ATP Masters 1000 Parigi",
+      "canale": "Sky Sport, SuperTennis",
+      "note": "Orario stimato, il match è il secondo sul Campo 2 a partire dalle 11:00.",
+      "fonte": "bet365.it, lottomatica.sport, supertennis.tv",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:00*",
+      "evento": "ATP Masters 1000 Parigi: Bolelli/Vavassori vs Schnaitter/Wallner",
+      "competizione": "ATP Masters 1000 Parigi (Doppio)",
+      "canale": "Sky Sport, SuperTennis",
+      "note": "Orario stimato, il match è il secondo sul Campo 3 a partire dalle 13:00.",
+      "fonte": "supertennis.tv",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251",
+      "note": "",
+      "fonte": "oasport.it, skysport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "TBA",
-      "evento": "ATP Masters 1000 Parigi",
-      "competizione": "Tennis ATP Tour",
-      "canale": "Sky Sport Tennis (o canali correlati)",
-      "note": "Inizio del torneo. Partite con giocatori italiani (se presenti) in orario da definire. Il torneo si svolge dal 2 all'8 novembre 2026.",
-      "fonte": "Tennis, le date della stagione ATP 2026: il programma, i tornei e il calendario completo, Tennis ATP e WTA a Novembre 2026: il programma delle partite, tutti i tornei - Olympics.com",
-      "accuratezza_orario": "tba"
-    },
-    {
-      "orario": "18:30",
-      "evento": "Sassuolo-Fiorentina",
-      "competizione": "Calcio Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport (canale 251), NOW",
-      "note": "Partita valida per la decima giornata del campionato di Serie A 2026/2027.",
-      "fonte": "Calcio in tv oggi, 2 novembre 2026: Atalanta-Parma e le altre sfide del giorno, Calendario Serie A Enilive - Lega Serie A, Calcio su Sky e NOW dal 30 ottobre al 2 novembre: Milan-Inter, Liverpool-Arsenal e Bayern-Dortmund - Sportface.it",
+      "orario": "20:30",
+      "evento": "Curling",
+      "competizione": "Curling",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "programmitv.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:45",
-      "evento": "Atalanta-Parma",
-      "competizione": "Calcio Serie A",
-      "canale": "DAZN, DAZN 1 (canale 214 Sky)",
-      "note": "Partita valida per la decima giornata del campionato di Serie A 2026/2027.",
-      "fonte": "Calcio in tv oggi, 2 novembre 2026: Atalanta-Parma e le altre sfide del giorno, Calendario Serie A Enilive - Lega Serie A",
+      "orario": "21:00",
+      "evento": "Feyenoord-Inter",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 252",
+      "note": "",
+      "fonte": "oasport.it, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Manchester United-Roma",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 253",
+      "note": "",
+      "fonte": "oasport.it, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Diretta Gol Champions League",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport 251",
+      "note": "",
+      "fonte": "oasport.it, skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Serie A 2026/2027: Milan - Inter (10a giornata)",
+      "competizione": "Serie A",
+      "canale": "Canali Sky (Replay)",
+      "note": "Replicato in notturna, orario e canale specifico potrebbero variare tra Sky Sport.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "United Rugby Championship 2026/2027: Dragons - Zebre Parma",
+      "competizione": "United Rugby Championship",
+      "canale": "Canali Sky (Replay)",
+      "note": "Replicato in notturna, orario e canale specifico potrebbero variare tra Sky Sport.",
+      "fonte": "guida.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00",
+      "evento": "LBA 2026/2027: Dolomiti Energia Trento - Maxima Roma",
+      "competizione": "Lega Basket Serie A",
+      "canale": "Canali Sky (Replay)",
+      "note": "Replicato in notturna, orario e canale specifico potrebbero variare tra Sky Sport.",
+      "fonte": "guida.tv",
       "accuratezza_orario": "esatto"
     }
   ]
