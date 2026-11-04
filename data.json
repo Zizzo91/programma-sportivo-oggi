@@ -1,140 +1,77 @@
 {
-  "last_updated": "2026-11-04T14:25:46.917491+01:00",
+  "last_updated": "2026-11-04T23:58:39.546001+01:00",
   "events": [
     {
-      "orario": "16:30",
-      "evento": "Rennes vs Olympiacos",
-      "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "Libero, Virgilio",
-      "accuratezza_orario": "esatto"
+      "orario": "13:30*",
+      "evento": "Lorenzo Musetti (ITA) vs Alexander Zverev (GER)",
+      "competizione": "ATP Masters 1000 Parigi",
+      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201)",
+      "note": "Non prima delle 13:30 CET, terzo match dalle 11:00 CET, parte del programma Sky Sport per l'ATP Parigi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP10EVFpWKAWGD4YlgNBdNsVbs-owJSMqvvYU-d601gE6VSekOis45_7rrjfJUL35z3ed-zKi6Ax4TpGohX9HWPYzvnddpQlqIJVJrnAbA-LQ_JGO4dH2Rq99Zg9oY1KWZA==",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:45",
-      "evento": "AEK Atene vs Real Madrid",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Calcio, Sky Sport 253",
-      "note": "",
-      "fonte": "OA Sport, Libero, Sky Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "17:30*",
+      "evento": "Bolelli/Vavassori (ITA) vs Cash/Nakashima (DOppi)",
+      "competizione": "ATP Masters 1000 Parigi",
+      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201)",
+      "note": "Dalle 17:30 CET, parte del programma Sky Sport per l'ATP Parigi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP10EVFpWKAWGD4YlgNBdNsVbs-owJSMqvvYU-d601gE6VSekOis45_7rrjfJUL35z3ed-zKi6Ax4TpGohX9HWPYzvnddpQlqIJVJrnAbA-LQ_JGO4dH2Rq99Zg9oY1KWZA==",
+      "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:45",
-      "evento": "Fenerbahçe vs Liverpool",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 254",
-      "note": "",
-      "fonte": "Libero, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Diretta Gol",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251",
-      "note": "Per seguire più partite in contemporanea",
-      "fonte": "Libero, Sky Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "17:30*",
+      "evento": "Matteo Berrettini (ITA) vs Ugo Humbert (FRA)",
+      "competizione": "ATP Masters 1000 Parigi",
+      "canale": "Sky Sport Tennis (203), Sky Sport Uno (201)",
+      "note": "A seguire il match precedente (quinto match dalle 11:00 CET), parte del programma Sky Sport per l'ATP Parigi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP10EVFpWKAWGD4YlgNBdNsVbs-owJSMqvvYU-d601gE6VSekOis45_7rrjfJUL35z3ed-zKi6Ax4TpGohX9HWPYzvnddpQlqIJVJrnAbA-LQ_JGO4dH2Rq99Zg9oY1KWZA==",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:30",
       "evento": "Acqua Sant'Anna Cuneo vs Vero Volley Monza",
-      "competizione": "SuperLega Maschile",
-      "canale": "VBTV",
-      "note": "",
-      "fonte": "OA Sport, Volleyball World",
+      "competizione": "SuperLega 2026-2027",
+      "canale": "VBTV (streaming)",
+      "note": "4a giornata di andata del campionato di SuperLega",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEt199wItdeculROxvkqLBf6MfDypLuzm0f-pkOgEu0EsIqsO7J_SWN5btz_f480sFg9Iu15yl2PX8vdV_vbowUMlCjU1qlZmxaJpG1cG2odfeMGWHbbPJcM9_Eh2iaxysA1EZyvxVkyAAxATLKdh-JMDyKcRVjnuEgNH-Oke4uKHCeNbHb2hyFkq8IJ88Wz1yKDE0x6KPVEpuOA1ij7RR1gLgJQ0czkbvaZxfkF4hTA==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Porto vs Napoli",
-      "competizione": "UEFA Champions League",
+      "competizione": "UEFA Champions League 2026/2027",
       "canale": "Amazon Prime Video",
-      "note": "",
-      "fonte": "OA Sport, Libero, Virgilio, Adnkronos, Fanpage",
+      "note": "4a giornata della League Phase, per i clienti Sky abbonati al servizio Amazon Prime Video disponibile su Sky Q, Sky Stream e Sky Glass",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq8IOv4FTQQKKDbc3AGFgEeXmaYkdyS7u1J461r1qyQP75899MpxwCa3ckWaOEsEPge408TzI6alwKo-uhhEZT0ybIwKoT9Sg8WHk33CrXPgtmXh1wRFKRlkbUrzr7IuY1QMZuEFDLpG012NwDh8-k0iDnjszgY9yS0Vf4FiWsw9xXgB7kWVlJdiAC3OoL-BzNGJzNahqrijFyOGyohz744nMOAarEww==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Lens vs Como",
-      "competizione": "UEFA Champions League",
+      "competizione": "UEFA Champions League 2026/2027",
       "canale": "Sky Sport Uno, Sky Sport 252",
-      "note": "",
-      "fonte": "Libero, Fanpage, Sky Sport",
+      "note": "4a giornata della League Phase",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq8IOv4FTQQKKDbc3AGFgEeXmaYkdyS7u1J461r1qyQP75899MpxwCa3ckWaOEsEPge408TzI6alwKo-uhhEZT0ybIwKoT9Sg8WHk33CrXPgtmXh1wRFKRlkbUrzr7IuY1QMZuEFDLpG012NwDh8-k0iDnjszgY9yS0Vf4FiWsw9xXgB7kWVlJdiAC3OoL-BzNGJzNahqrijFyOGyohz744nMOAarEww==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "RB Lipsia vs Manchester City",
+      "orario": "01:15",
+      "evento": "UEFA Champions League 2026/2027 - Feyenoord vs Inter (Replica)",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Calcio, Sky Sport 253, TV8",
-      "note": "",
-      "fonte": "Libero, Virgilio, ProgrammiTV, Sky Sport",
+      "canale": "Sky Sport Arena",
+      "note": "Replica di una partita della 4a giornata di Champions League, giocata martedì 3 novembre.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9_NP4oXW62QT9L-t1AVebVJyQ-61UXoB0lrvKNqlrvbTeC6mmEwlcTWuwDvdrMOwwfjaRK2QyAQcPIeELyotvarQUF3MTg6dVp6q07fFKPNjhyi_tAdzF426K1mnPrS7HGskRqSSI4hvzpkyPgt5fA==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Slavia Praga vs Arsenal",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport 254",
-      "note": "",
-      "fonte": "Sky Sport",
+      "orario": "04:00",
+      "evento": "LBA 2026/2027 - Acqua S.Bernardo Cantù vs Armani Olimpia Milano (Replica)",
+      "competizione": "Lega Basket Serie A",
+      "canale": "Sky Sport Arena",
+      "note": "Replica. Partita di basket della LBA con una squadra italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9_NP4oXW62QT9L-t1AVebVJyQ-61UXoB0lrvKNqlrvbTeC6mmEwlcTWuwDvdrMOwwfjaRK2QyAQcPIeELyotvarQUF3MTg6dVp6q07fFKPNjhyi_tAdzF426K1mnPrS7HGskRqSSI4hvzpkyPgt5fA==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Diretta Gol",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 251",
-      "note": "Per seguire più partite in contemporanea",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Borussia Dortmund vs Betis",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport 255",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "PSV vs Bruges",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport 256",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Viking vs Sabah",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport 257",
-      "note": "",
-      "fonte": "OA Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30*",
-      "evento": "Lorenzo Musetti vs Alexander Zverev",
-      "competizione": "ATP Masters 1000 Parigi",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, NOW, SkyGo, Tennis TV",
-      "note": "Non prima delle 13:30; sul campo principale.",
-      "fonte": "OA Sport, Virgilio, LaPresse, Adnkronos, Fanpage",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "16:40*",
-      "evento": "Matteo Berrettini vs Ugo Humbert",
-      "competizione": "ATP Masters 1000 Parigi",
-      "canale": "Sky Sport, Sky Sport Tennis, NOW, SkyGo",
-      "note": "Non prima delle 16:40; sul campo 1.",
-      "fonte": "OA Sport, Virgilio, LaPresse",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
