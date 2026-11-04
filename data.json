@@ -1,86 +1,140 @@
 {
-  "last_updated": "2026-11-04T04:43:31.403576+01:00",
+  "last_updated": "2026-11-04T14:25:46.917491+01:00",
   "events": [
     {
-      "orario": "14:00",
-      "evento": "Lens U19 - Como U19",
-      "competizione": "UEFA Youth League",
-      "canale": "UEFA.TV",
+      "orario": "16:30",
+      "evento": "Rennes vs Olympiacos",
+      "competizione": "UEFA Europa League",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "Calciomagazine",
+      "fonte": "Libero, Virgilio",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:00*",
-      "evento": "Nakashima - Berrettini",
-      "competizione": "ATP Masters 1000 Paris",
-      "canale": "Sky Sport (stimato)",
-      "note": "2° match sul campo, orario stimato",
-      "fonte": "Spazio Tennis, LiveTennis.it",
-      "accuratezza_orario": "stimato"
+      "orario": "18:45",
+      "evento": "AEK Atene vs Real Madrid",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Sport 253",
+      "note": "",
+      "fonte": "OA Sport, Libero, Sky Sport",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:00*",
-      "evento": "Bolelli/Vavassori - Schnaitter/Wallner",
-      "competizione": "ATP Masters 1000 Paris",
-      "canale": "Sky Sport (stimato)",
-      "note": "2° match sul campo, orario stimato",
-      "fonte": "LiveTennis.it",
-      "accuratezza_orario": "stimato"
+      "orario": "18:45",
+      "evento": "Fenerbahçe vs Liverpool",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 254",
+      "note": "",
+      "fonte": "Libero, Sky Sport",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Re-Live Gara MotoGP Malesia",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Arena",
-      "note": "Replica della gara disputata il 1 novembre",
-      "fonte": "Guida TV",
+      "orario": "18:45",
+      "evento": "Diretta Gol",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251",
+      "note": "Per seguire più partite in contemporanea",
+      "fonte": "Libero, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "Acqua Sant'Anna Cuneo - Vero Volley Monza",
+      "evento": "Acqua Sant'Anna Cuneo vs Vero Volley Monza",
       "competizione": "SuperLega Maschile",
-      "canale": "VBTV (streaming)",
+      "canale": "VBTV",
       "note": "",
-      "fonte": "Volley News, Vero Volley Monza, Lega Pallavolo Serie A",
+      "fonte": "OA Sport, Volleyball World",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Porto - Napoli",
+      "evento": "Porto vs Napoli",
       "competizione": "UEFA Champions League",
       "canale": "Amazon Prime Video",
       "note": "",
-      "fonte": "kisskiss.it, Sky Sport, Calciomagazine, Virgilio, Eurosport, TUTTOmercatoWEB",
+      "fonte": "OA Sport, Libero, Virgilio, Adnkronos, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Lens - Como",
+      "evento": "Lens vs Como",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 252, NOW",
+      "canale": "Sky Sport Uno, Sky Sport 252",
       "note": "",
-      "fonte": "kisskiss.it, Sky Sport, Calciomagazine, Virgilio, TUTTOmercatoWEB",
+      "fonte": "Libero, Fanpage, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:00 (5 nov)",
-      "evento": "Benetton Rugby - Connacht",
-      "competizione": "United Rugby Championship 2026/2027",
-      "canale": "Sky Sport Arena",
-      "note": "Fuso orario italiano (CET)",
-      "fonte": "Guida TV",
+      "orario": "21:00",
+      "evento": "RB Lipsia vs Manchester City",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Sport 253, TV8",
+      "note": "",
+      "fonte": "Libero, Virgilio, ProgrammiTV, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "04:00 (5 nov)",
-      "evento": "Acqua S.Bernardo Cantù - Armani Olimpia Milano",
-      "competizione": "LBA 2026/2027",
-      "canale": "Sky Sport Arena",
-      "note": "Fuso orario italiano (CET)",
-      "fonte": "Guida TV",
+      "orario": "21:00",
+      "evento": "Slavia Praga vs Arsenal",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport 254",
+      "note": "",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Diretta Gol",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 251",
+      "note": "Per seguire più partite in contemporanea",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Borussia Dortmund vs Betis",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport 255",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "PSV vs Bruges",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport 256",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Viking vs Sabah",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport 257",
+      "note": "",
+      "fonte": "OA Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30*",
+      "evento": "Lorenzo Musetti vs Alexander Zverev",
+      "competizione": "ATP Masters 1000 Parigi",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, NOW, SkyGo, Tennis TV",
+      "note": "Non prima delle 13:30; sul campo principale.",
+      "fonte": "OA Sport, Virgilio, LaPresse, Adnkronos, Fanpage",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:40*",
+      "evento": "Matteo Berrettini vs Ugo Humbert",
+      "competizione": "ATP Masters 1000 Parigi",
+      "canale": "Sky Sport, Sky Sport Tennis, NOW, SkyGo",
+      "note": "Non prima delle 16:40; sul campo 1.",
+      "fonte": "OA Sport, Virgilio, LaPresse",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
