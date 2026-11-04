@@ -1,67 +1,85 @@
 {
-  "last_updated": "2026-11-03T23:39:44.456209+01:00",
+  "last_updated": "2026-11-04T04:43:31.403576+01:00",
   "events": [
     {
-      "orario": "13:00*",
-      "evento": "ATP Masters 1000 Parigi - R64 Nakashima vs Berrettini",
-      "competizione": "Tennis - ATP Masters 1000 Parigi",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, NOW, Sky Go, Tennis TV",
-      "note": "Secondo incontro sul Campo 2 a partire dalle 11:00 CET. Matteo Berrettini è italiano. Il match si è concluso oggi.",
-      "fonte": "LiveTennis.it, Sky Sport, OA Sport, Virgilio Sport, Corriere dello Sport",
-      "accuratezza_orario": "stimato"
-    },
-    {
       "orario": "14:00",
-      "evento": "UEFA Youth League: Manchester United U19 vs Roma U20",
-      "competizione": "Calcio - UEFA Youth League",
-      "canale": "Sky Sport Calcio",
-      "note": "Partita di Youth League.",
-      "fonte": "Sky Sport, Libero Magazine",
+      "evento": "Lens U19 - Como U19",
+      "competizione": "UEFA Youth League",
+      "canale": "UEFA.TV",
+      "note": "",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00*",
-      "evento": "ATP Masters 1000 Parigi - R32 Bolelli/Vavassori vs Schnaitter/Wallner",
-      "competizione": "Tennis - ATP Masters 1000 Parigi",
-      "canale": "Sky Sport Max, NOW, Sky Go, Tennis TV",
-      "note": "Secondo incontro sul Campo a partire dalle 13:00 CET, o a seguire il match di Stefanini sul canale Sky Sport Max. Simone Bolelli e Andrea Vavassori sono italiani.",
-      "fonte": "LiveTennis.it, Sky Sport, OA Sport",
+      "orario": "11:00*",
+      "evento": "Nakashima - Berrettini",
+      "competizione": "ATP Masters 1000 Paris",
+      "canale": "Sky Sport (stimato)",
+      "note": "2° match sul campo, orario stimato",
+      "fonte": "Spazio Tennis, LiveTennis.it",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "18:45",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 251, NOW, Sky GO",
-      "note": "Diretta Gol per seguire più partite in contemporanea.",
-      "fonte": "OA Sport, Sky Sport, Libero Magazine",
+      "orario": "13:00*",
+      "evento": "Bolelli/Vavassori - Schnaitter/Wallner",
+      "competizione": "ATP Masters 1000 Paris",
+      "canale": "Sky Sport (stimato)",
+      "note": "2° match sul campo, orario stimato",
+      "fonte": "LiveTennis.it",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:30",
+      "evento": "Re-Live Gara MotoGP Malesia",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Arena",
+      "note": "Replica della gara disputata il 1 novembre",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Acqua Sant'Anna Cuneo - Vero Volley Monza",
+      "competizione": "SuperLega Maschile",
+      "canale": "VBTV (streaming)",
+      "note": "",
+      "fonte": "Volley News, Vero Volley Monza, Lega Pallavolo Serie A",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "UEFA Champions League: Feyenoord vs Inter",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport 252, NOW, Sky GO",
-      "note": "L'Inter è una squadra italiana.",
-      "fonte": "OA Sport, Sky Sport, la notizia, Il Fatto Quotidiano, iGizmo.it, Libero Magazine",
+      "evento": "Porto - Napoli",
+      "competizione": "UEFA Champions League",
+      "canale": "Amazon Prime Video",
+      "note": "",
+      "fonte": "kisskiss.it, Sky Sport, Calciomagazine, Virgilio, Eurosport, TUTTOmercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "UEFA Champions League: Manchester United vs Roma",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 253, NOW, Sky GO",
-      "note": "La Roma è una squadra italiana.",
-      "fonte": "OA Sport, Sky Sport, la notizia, Il Fatto Quotidiano, iGizmo.it, Libero Magazine",
+      "evento": "Lens - Como",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 252, NOW",
+      "note": "",
+      "fonte": "kisskiss.it, Sky Sport, Calciomagazine, Virgilio, TUTTOmercatoWEB",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "Calcio - UEFA Champions League",
-      "canale": "Sky Sport 251, NOW, Sky GO",
-      "note": "Diretta Gol per seguire più partite in contemporanea.",
-      "fonte": "OA Sport, Sky Sport, Libero Magazine",
+      "orario": "02:00 (5 nov)",
+      "evento": "Benetton Rugby - Connacht",
+      "competizione": "United Rugby Championship 2026/2027",
+      "canale": "Sky Sport Arena",
+      "note": "Fuso orario italiano (CET)",
+      "fonte": "Guida TV",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "04:00 (5 nov)",
+      "evento": "Acqua S.Bernardo Cantù - Armani Olimpia Milano",
+      "competizione": "LBA 2026/2027",
+      "canale": "Sky Sport Arena",
+      "note": "Fuso orario italiano (CET)",
+      "fonte": "Guida TV",
       "accuratezza_orario": "esatto"
     }
   ]
