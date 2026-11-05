@@ -1,31 +1,76 @@
 {
-  "last_updated": "2026-11-05T14:39:54.542952+01:00",
+  "last_updated": "2026-11-05T23:59:58.104719+01:00",
   "events": [
+    {
+      "orario": "14:00*",
+      "evento": "Musetti vs Van Assche",
+      "competizione": "ATP Masters 1000 Parigi - Ottavi di finale",
+      "canale": "Sky Sport Tennis (203), Sky Sport Uno (fino alle 18:00)",
+      "note": "Lorenzo Musetti in campo. Terzo match sul Campo Centrale, inizio programma sul campo alle 11:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd10zMM5PRWO5LfstiZ4fYGiZ1OhjATR4aBT8YR-sw8XWMfMxuMgWzpI2ndL1xXX0R9eN_kakiqF8qRef03ERNUX_SceLyOAH4Y4EToUPCHVYaFasxhXGG4TKWx07v29WqlsdfFl87wRttnwBtFCn9xA_mW7BjruUwUpBtmVxzEzlCXPGsHVfiQFpSzR1QlKaIi1JIEZyVuPbsTBhqVA4O6aMjTSO57w",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "14:00 - 14:50",
+      "evento": "Giochi Olimpici Giovanili Dakar - 5a giornata",
+      "competizione": "Olimpiadi Giovanili 2026",
+      "canale": "Rai Sport HD",
+      "note": "Finestra di diretta. L'Italia proverà a mettersi in mostra.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERvDrVuGnfyk7HwUf2lb5na-vKULKvq04suPHVbfhggOvJ2z398HuoYjwQp95kTPRFBnxczuAP0lfsiTRzh3zFNYMz-TW3OQciC6tVx5BT_vUXqMzlqS1j0aUCO_hWCMl2pUkGWZXGZhRmsFDVjlX4YMWRxNi-q0_f87cMhbcrlVX3pW7uDMXHNJj8lMF-FUPaNVo4gOL3mb8hStemIJvqpQ5DetTBYxvE",
+      "accuratezza_orario": "esatto"
+    },
     {
       "orario": "18:45",
       "evento": "Milan - Ferencvaros",
       "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 253, NOW",
+      "canale": "Sky Sport Uno, Sky Sport 253, Sky Sport 4K",
       "note": "Diretta",
-      "fonte": "calciomagazine.net, cronacapop.it, libero.it, sport.sky.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVbolE6ZErn-AuXNrqaVbJ-X7Vihsi49S6RdIKAF9UgwGi-8sHGqFgiJize2AwBSA8HwlBOgKWH0eCoKkJ5AhYmKzvuvlTWBCQtoZu6kEjtmlK6haM9QyOxtTFTfTPg5RtKlPMXMZMApEcR2vlUkih2P6tlxjRaYHxh7_V7-H-ZulM7H-FxvIdIjXDGUQI7Avc1E3ly_kQRMxjL6XqsxfqLtz9m5KqrreUN69mm3dSSrtnjwcQVY6GgzULf-iC1-DHbh6G-tVO73FOE1F9BdW5Wdsn3Ew",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
       "evento": "Atalanta - Kairat Almaty",
       "competizione": "UEFA Conference League",
-      "canale": "Sky Sport Arena, Sky Sport 254, NOW",
+      "canale": "Sky Sport Arena, Sky Sport 254",
       "note": "Diretta",
-      "fonte": "oasport.it, calciomagazine.net, cronacapop.it, sport.sky.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdU92m096OmJwOy2G1yNNAGxXtXvt5S9J28xxV1KmGZGDmalLSAfwAQmC8M7kTE8-oE5nj8iIW9sW0vTGmxhoygkzgg-GZROF_e4uHtqbahTqhALSEyi_QS_KDGV5mMW68Ukzw_btTEwh6Zl-Hiq_ZUVwuNw8S03sVgk8ntCADiH6HGI2uRiJr-EjXc6TTtfaLByPLBXeeRTNTrNJFF6LWTZ2_rBLLz7SkZX5Hg3LKifB9wiynodh5kfZnvB-ymw",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
-      "evento": "Diretta Gol Europa & Conference League",
+      "evento": "Diretta Gol Europa League & Conference League",
       "competizione": "UEFA Europa League / Conference League",
-      "canale": "Sky Sport 251, NOW",
-      "note": "Diretta Gol di più partite",
-      "fonte": "oasport.it, calciomagazine.net, cronacapop.it, sport.sky.it",
+      "canale": "Sky Sport Arena (204), Sky Sport 251",
+      "note": "Diretta Gol da vari campi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdU92m096OmJwOy2G1yNNAGxXtXvt5S9J28xxV1KmGZGDmalLSAfwAQmC8M7kTE8-oE5nj8iIW9sW0vTGmxhoygkzgg-GZROF_e4uHtqbahTqhALSEyi_QS_KDGV5mMW68Ukzw_btTEwh6Zl-Hiq_ZUVwuNw8S03sVgk8ntCADiH6HGI2uRiJr-EjXc6TTtfaLByPLBXeeRTNTrNJFF6LWTZ2_rBLLz7SkZX5Hg3LKifB9wiynodh5kfZnvB-ymw",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00*",
+      "evento": "Berrettini vs Alcaraz",
+      "competizione": "ATP Masters 1000 Parigi - Ottavi di finale",
+      "canale": "Sky Sport Tennis (203)",
+      "note": "Matteo Berrettini in campo. Non prima delle 19:00.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS07-XSyyjA1ow63dDwNEJCllLejIgAiyHF0vuJR7cCyyIfrR4eIEH-vES8-JVWLSxX2BRS8EcBKh4NtifDL7Fm8Ga-ro-j4agGfh0RfLsHgpL-TF-e3Fj5vdrG6VyepW0htrTjVspwQ9lM6asLHvepYmLnaBIdcRHdvvWleTv17Z_J-eZNsOk0wqpAne0pMjRZXWjxC3MGJYSQcZevALQpsNdDkYeqOKZYAedRS0JVOW-73dEUvX4uZN1A_tB0-K4dYwfiHWtdOc",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:20",
+      "evento": "TV8 Football Night",
+      "competizione": "Calcio Europeo",
+      "canale": "TV8",
+      "note": "Talk show pre-partita differita Milan-Ferencvaros",
+      "fonte": "https://vertexaisearch.google.com/grounding/result?p=Cgx1c2VyX2Rpc2JsYXllZBIoCgNuaWwSKwoTVFY4OiBpbCBNaWxhbiBpbiBjaGlhcm8SBwoEdHY4Lml0IgYyNjM1OTY4NgA",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Armani Olimpia Milano vs Valencia",
+      "competizione": "Eurolega di Basket",
+      "canale": "Sky Sport Basket (205)",
+      "note": "Diretta",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdU92m096OmJwOy2G1yNNAGxXtXvt5S9J28xxV1KmGZGDmalLSAfwAQmC8M7kTE8-oE5nj8iIW9sW0vTGmxhoygkzgg-GZROF_e4uHtqbahTqhALSEyi_QS_KDGV5mMW68Ukzw_btTEwh6Zl-Hiq_ZUVwuNw8S03sVgk8ntCADiH6HGI2uRiJr-EjXc6TTtfaLByPLBXeeRTNTrNJFF6LWTZ2_rBLLz7SkZX5Hg3LKifB9wiynodh5kfZnvB-ymw",
       "accuratezza_orario": "esatto"
     },
     {
@@ -34,62 +79,26 @@
       "competizione": "UEFA Europa League",
       "canale": "TV8",
       "note": "Differita",
-      "fonte": "calciomagazine.net, programmi.tv, libero.it",
+      "fonte": "https://vertexaisearch.google.com/grounding/result?p=Cgx1c2VyX2Rpc2JsYXllZBIoCgNuaWwSKwoTVFY4OiBpbCBNYW5kcmxhIGluIGNoaWFybyBzdWxsYSB0dm8SBwoEdHY4Lml0IgYyNjM1OTY4NgA",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "AZ Alkmaar - Juventus",
       "competizione": "UEFA Europa League",
-      "canale": "Sky Sport Uno, Sky Sport 252, NOW",
+      "canale": "Sky Sport Uno, Sky Sport 252",
       "note": "Diretta",
-      "fonte": "calciomagazine.net, cronacapop.it, libero.it, sport.sky.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVbolE6ZErn-AuXNrqaVbJ-X7Vihsi49S6RdIKAF9UgwGi-8sHGqFgiJize2AwBSA8HwlBOgKWH0eCoKkJ5AhYmKzvuvlTWBCQtoZu6kEjtmlK6haM9QyOxtTFTfTPg5RtKlPMXMZMApEcR2vlUkih2P6tlxjRaYHxh7_V7-H-ZulM7H-FxvIdIjXDGUQI7Avc1E3ly_kQRMxjL6XqsxfqLtz9m5KqrreUN69mm3dSSrtnjwcQVY6GgzULf-iC1-DHbh6G-tVO33FOE1F9BdW5Wdsn3Ew",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Diretta Gol Europa & Conference League",
+      "evento": "Diretta Gol Europa League & Conference League",
       "competizione": "UEFA Europa League / Conference League",
-      "canale": "Sky Sport Arena, Sky Sport 251, NOW",
-      "note": "Diretta Gol di più partite",
-      "fonte": "calciomagazine.net, cronacapop.it, libero.it, sport.sky.it",
+      "canale": "Sky Sport Arena (204), Sky Sport 251",
+      "note": "Diretta Gol da vari campi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdU92m096OmJwOy2G1yNNAGxXtXvt5S9J28xxV1KmGZGDmalLSAfwAQmC8M7kTE8-oE5nj8iIW9sW0vTGmxhoygkzgg-GZROF_e4uHtqbahTqhALSEyi_QS_KDGV5mMW68Ukzw_btTEwh6Zl-Hiq_ZUVwuNw8S03sVgk8ntCADiH6HGI2uRiJr-EjXc6TTtfaLByPLBXeeRTNTrNJFF6LWTZ2_rBLLz7SkZX5Hg3LKifB9wiynodh5kfZnvB-ymw",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00*",
-      "evento": "Musetti (Ita) vs Van Assche (Fra)",
-      "competizione": "ATP Masters 1000 Parigi (Ottavi di Finale)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, NOW",
-      "note": "L'orario esatto dipende dai match precedenti; non prima delle 14:00 CET.",
-      "fonte": "sport.sky.it, lapresse.it",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "17:30",
-      "evento": "F1 GP Brasile - Conferenza Stampa Piloti",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, NOW",
-      "note": "Anteprima del Gran Premio",
-      "fonte": "sport.sky.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "MotoGP GP Qatar - Conferenza Stampa Piloti",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, NOW",
-      "note": "Anteprima del Gran Premio",
-      "fonte": "sport.sky.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00*",
-      "evento": "Cuneo - Vero Volley Monza (risultato finale 2-3)",
-      "competizione": "SuperLega Credem Banca",
-      "canale": "VBTV, DAZN IT (on-demand)",
-      "note": "Partita iniziata il 4 novembre alle 20:30 CET e conclusasi nelle prime ore del 5 novembre, con risultati riportati il 5 novembre.",
-      "fonte": "legavolley.it, dazn.com, grptv.it",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
