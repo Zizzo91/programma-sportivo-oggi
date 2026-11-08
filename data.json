@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T04:06:29.386787+01:00",
+  "last_updated": "2026-11-08T13:22:00.836428+01:00",
   "events": [
     {
       "orario": "12:30",
@@ -7,34 +7,25 @@
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkAJ93fdmy8tplVX9v3nK1DSGieOVp9Itc1oA1iXQAvHVB2dRhdLGBelJIvpavdFjOW9Gkgx4yGvoJeRkBu65RB9TKEdeRA1Hnjpw2C5OrRkzgTYatsE5BCKLiJWedZhwC5DIHAG1oErUja2hHrw5cW4AN45h4WZtgCzxoXkZE0kRoSvZ5W1xQ-pOsbyEmGKJmvopJtESIPzaR85r4pc041QCTfgYx87_mbX6kKl1rG_uC0ZXa-dOPhcJhCQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:40",
-      "evento": "MotoGP Warm Up",
-      "competizione": "GP Qatar 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp3A6G6Gd9RtQi01C8srb5aCAM2_axigAv14SXCe9qQQqwLEEeB9EBOjX0tiLfHfMrvwD7HZzyV-xaNFF0xeYfExzIlo7wfclLuzhRWfqpK20aSNs0h9OObCIC3UBoPmqzEGs5vQ8UXbvANiFrj4dsqf3ZQscPiuZeBdaKOOPN1akdB0fKdaNy-BB6CmZypmMs1Rh_6cNPIyA3sQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhze88TdBwOQxpnfOxWqWxLzu186Bj7Hn4o2DS0z5DGYh9TXE4lZh21hzosO3eGfA5zQ2RSjsn3pJhINlz4C6xFzN4QfAnEjbOCKoqP1GpfjHlZwU09Vg3XFwXYsuG1NWlRYRTtYOXeW8e7xLyjO4HbhQihHYscYnqX0m3mLFj3eRJbM-Js4CG9ZgR9ibBwGxAXWwtMjgAeky-DqdMo6t_zjQWcgcHSD-z-j1_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEofAdjyEf0lH1k9PfKCcSkkJOHdPzQhyJvIy4-_VVZLF3PGX9HRG5e6n_XX0Dt4wqg-O8pv-nm-NQBQLlk0nz7eFkMobWqldytr10bdGeOrEQKjd6at-t7S4pRWQdy1xJCHe6kMQnildSTtUqy02saZVCC1wRabhYzWEnshDSDkD3W8nlFxe3vY3mq_gw-jVB2PiGldzmGoK1K0jdTkeaLksw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjI9X-2eTjUixN723obYyd47CeOXhXAl_dPWxRY-Pm3ok18k8x7OfwwEY6FStAFsesMD1zxGqIru9CJjR3qlkgKq04bA5uBOneOMceV8Yk_2ozXOFmez9nl2ac4aiA4wMTWUv0bOG2-8W6JsKJRyVAVT62SmRjm_yugYH4Q1fHg0kiO_sUesdGLEogwlwPNqadWjy2AaoXo1b1p01IhhRss2TD18eZ1VcevwUIH_DViQ==",
+      "fonte": "Fanpage, kisskiss.it, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00",
       "evento": "Gara Moto3",
-      "competizione": "GP Qatar 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "competizione": "MotoGP GP Qatar",
+      "canale": "Sky Sport MotoGP, TV8, NOW, Sky Go",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxdAenhWb1nbS4z9VKnUf__23k3bdd6vOvFiv3DouXzooiLLO6fiWy1N-cucNw4KuA4W5AYJAZAFk4CnW7SfLpmrJ5cdNACBRiDUA16WqIg_rGJE7tl4-TG6HGETh4zJ0D1P_GOEA6HszNx-RY17dH9vNijrWLP8WUOpCz8qoidwzNutBWCBfFYfG7HjzrVL15t-QfR0lig0bjK3bE8mJIaouLZ8kW_1kXYfWBMFAP-07kra8WNcjWTgMHb9-xSQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp3A6G6Gd9RtQi01C8srb5aCAM2_axigAv14SXCe9qQQqwLEEeB9EBOjX0tiLfHfMrvwD7HZzyV-xaNFF0xeYfExzIlo7wfclLuzhRWfqpK20aSNs0h9OObCIC3UBoPmqzEGs5vQ8UXbvANiFrj4dsqf3ZQscPiuZeBdaKOOPN1akdB0fKdaNy-BB6CmZypmMs1Rh_6cNPIyA3sQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhze88TdBwOQxpnfOxWqWxLzu186Bj7Hn4o2DS0z5DGYh9TXE4lZh21hzosO3eGfA5zQ2RSjsn3pJhINlz4C6xFzN4QfAnEjbOCKoqP1GpfjHlZwU09Vg3XFwXYsuG1NWlRYRTtYOXeW8e7xLyjO4HbhQihHYscYnqX0m3mLFj3eRJbM-Js4CG9ZgR9ibBwGxAXWwtMjgAeky-DqdMo6t_zjQWcgcHSD-z-j1_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYxutTGH1J7h2oN8byK9cLMAw0-B3u9vccq666tjDlYYe7f7lPbgBTw_coaeavA9TuOd8DHgG4i9I2mS2TgXZec75nbipQSmAVl6W9moyAhZ_vNuj1wbeouK9Q0rnppp0CSra1VP0CpsA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjI9X-2eTjUixN723obYyd47CeOXhXAl_dPWxRY-Pm3ok18k8x7OfwwEY6FStAFsesMD1zxGqIru9CJjR3qlkgKq04bA5uBOneOMceV8Yk_2ozXOFmez9nl2ac4aiA4wMTWUv0bOG2-8W6JsKJRyVAVT62SmRjm_yugYH4Q1fHg0kiO_sUesdGLEogwlwPNqadWjy2AaoXo1b1p01IhhRss2TD18eZ1VcevwUIH_DViQ==",
+      "fonte": "CronacaPop, kisskiss.it, Sport in tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:30",
       "evento": "Enna-Reggina",
       "competizione": "Serie D",
-      "canale": "Reggio TV, Reggina Channel",
-      "note": "Partita giocata allo stadio Silvio Proto di Troina a porte chiuse.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAsaeu8ejePL7w5-h-pbO9fexcJpDpcLSS6oaRFsSYmz6MTtHgb1KYLNM5xh3mqe22FHY_hxjCKPIyupqKlec3CR4AMQy0uQ84-Aj7YRADcEhQ1UD1I_JJliFluS8NtMM6q4jsyQxqEE3zMfrWi1tOuejuBMkXZPwUEI9LUV_RJylnBeBp1VAQet3Uz0CoMEVZ2nc7PHwC_0Aoh61HYCCkQcAQBTYJW-oYJ-CHbBNJQJCTkY8eI4tE8uK_Mx0wzkBuYIbOAcrf7mM9DGGnlUgEWw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzStE_LZBKoU182DJFLHRrivjIrNvH6idE5swhDpyDW2PcTfX6J8fqYkMXbjSGwX8RPozmoxccSijdn98eYxJdrqi8RNdXFKwFMKERjCXyZfuDQ0wZqdQvl3vxEEFXnOURsmwWm8guwOuD_4fO81M0fG18teadRRrquNj8AjygPqUvK16Kv1O9Qvl2Y9fRAFMqHpbk48ZKzJGvx7mP0YqQ5xZQqyDDWo_ClY0hnxo_SAEFFaC-uD58q7Ryy7iqCHFDLw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzeXS1x_sex77ofIuBmSki8bX3ed2PbO5D-53TTuVlPUP2Cr1DDwYTD0GlVNfdeEWz1Qc969szLSJwgXjQc5RtvQ1UhIbhGBQSCSPQI-ZOOHUcmhmpj22hHH7a9sMcu732lrJhaDsLkf9CHn11sRNHRUXu283yfESwNAKB6zQmu905WowoAkM_ivQ==",
+      "canale": "ReggioTV (Canale 77, 677 DTT Calabria, 251 DTT Italia via internet), Reggina Channel (streaming)",
+      "note": "Partita a porte chiuse allo stadio Silvio Proto di Troina.",
+      "fonte": "ReggioTV, News Serie D, CronacaPop, CityNow",
       "accuratezza_orario": "esatto"
     },
     {
@@ -43,7 +34,7 @@
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkAJ93fdmy8tplVX9v3nK1DSGieOVp9Itc1oA1iXQAvHVB2dRhdLGBelJIvpavdFjOW9Gkgx4yGvoJeRkBu65RB9TKEdeRA1Hnjpw2C5OrRkzgTYatsE5BCKLiJWedZhwC5DIHAG1oErUja2hHrw5cW4AN45h4WZtgCzxoXkZE0kRoSvZ5W1xQ-pOsbyEmGKJmvopJtESIPzaR85r4pc041QCTfgYx87_mbX6kKl1rG_uC0ZXa-dOPhcJhCQ==",
+      "fonte": "Fanpage, kisskiss.it, Sky Sport, CronacaPop",
       "accuratezza_orario": "esatto"
     },
     {
@@ -52,25 +43,25 @@
       "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIfq9T7gIMnJ0gqc8qK5yHHx1nz2Oc74BEXYhPVp2NFNhDo-GxD1H9Jh6F2JHgsX9yj7jGXEJcTsOshy1SR8PBj2ffM3ADUrQwhJ9K2gL9QtC3GE5nf0UuEtmYmFDMJhIkuqwOPYKTToiacNjjZUUeeOCeKIvwSWITdIVaCr7ckX1ciYUlnZq6_bYl66zEQBUqdFU=",
+      "fonte": "Fanpage, kisskiss.it, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:15",
       "evento": "Gara Moto2",
-      "competizione": "GP Qatar 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "competizione": "MotoGP GP Qatar",
+      "canale": "Sky Sport MotoGP, TV8, NOW, Sky Go",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxdAenhWb1nbS4z9VKnUf__23k3bdd6vOvFiv3DouXzooiLLO6fiWy1N-cucNw4KuA4W5AYJAZAFk4CnW7SfLpmrJ5cdNACBRiDUA16WqIg_rGJE7tl4-TG6HGETh4zJ0D1P_GOEA6HszNx-RY17dH9vNijrWLP8WUOpCz8qoidwzNutBWCBfFYfG7HjzrVL15t-QfR0lig0bjK3bE8mJIaouLZ8kW_1kXYfWBMFAP-07kra8WNcjWTgMHb9-xSQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp3A6G6Gd9RtQi01C8srb5aCAM2_axigAv14SXCe9qQQqwLEEeB9EBOjX0tiLfHfMrvwD7HZzyV-xaNFF0xeYfExzIlo7wfclLuzhRWfqpK20aSNs0h9OObCIC3UBoPmqzEGs5vQ8UXbvANiFrj4dsqf3ZQscPiuZeBdaKOOPN1akdB0fKdaNy-BB6CmZypmMs1Rh_6cNPIyA3sQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhze88TdBwOQxpnfOxWqWxLzu186Bj7Hn4o2DS0z5DGYh9TXE4lZh21hzosO3eGfA5zQ2RSjsn3pJhINlz4C6xFzN4QfAnEjbOCKoqP1GpfjHlZwU09Vg3XFwXYsuG1NWlRYRTtYOXeW8e7xLyjO4HbhQihHYscYnqX0m3mLFj3eRJbM-Js4CG9ZgR9ibBwGxAXWwtMjgAeky-DqdMo6t_zjQWcgcHSD-z-j1_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYxutTGH1J7h2oN8byK9cLMAw0-B3u9vccq666tjDlYYe7f7lPbgBTw_coaeavA9TuOd8DHgG4i9I2mS2TgXZec75nbipQSmAVl6W9moyAhZ_vNuj1wbeouK9Q0rnppp0CSra1VP0CpsA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjI9X-2eTjUixN723obYyd47CeOXhXAl_dPWxRY-Pm3ok18k8x7OfwwEY6FStAFsesMD1zxGqIru9CJjR3qlkgKq04bA5uBOneOMceV8Yk_2ozXOFmez9nl2ac4aiA4wMTWUv0bOG2-8W6JsKJRyVAVT62SmRjm_yugYH4Q1fHg0kiO_sUesdGLEogwlwPNqadWjy2AaoXo1b1p01IhhRss2TD18eZ1VcevwUIH_DViQ==",
+      "fonte": "CronacaPop, kisskiss.it, Sport in tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "17:00",
       "evento": "Gara MotoGP",
-      "competizione": "GP Qatar 2026",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
+      "competizione": "MotoGP GP Qatar",
+      "canale": "Sky Sport MotoGP, TV8, NOW, Sky Go",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxdAenhWb1nbS4z9VKnUf__23k3bdd6vOvFiv3DouXzooiLLO6fiWy1N-cucNw4KuA4W5AYJAZAFk4CnW7SfLpmrJ5cdNACBRiDUA16WqIg_rGJE7tl4-TG6HGETh4zJ0D1P_GOEA6HszNx-RY17dH9vNijrWLP8WUOpCz8qoidwzNutBWCBfFYfG7HjzrVL15t-QfR0lig0bjK3bE8mJIaouLZ8kW_1kXYfWBMFAP-07kra8WNcjWTgMHb9-xSQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp3A6G6Gd9RtQi01C8srb5aCAM2_axigAv14SXCe9qQQqwLEEeB9EBOjX0tiLfHfMrvwD7HZzyV-xaNFF0xeYfExzIlo7wfclLuzhRWfqpK20aSNs0h9OObCIC3UBoPmqzEGs5vQ8UXbvANiFrj4dsqf3ZQscPiuZeBdaKOOPN1akdB0fKdaNy-BB6CmZypmMs1Rh_6cNPIyA3sQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhze88TdBwOQxpnfOxWqWxLzu186Bj7Hn4o2DS0z5DGYh9TXE4lZh21hzosO3eGfA5zQ2RSjsn3pJhINlz4C6xFzN4QfAnEjbOCKoqP1GpfjHlZwU09Vg3XFwXYsuG1NWlRYRTtYOXeW8e7xLyjO4HbhQihHYscYnqX0m3mLFj3eRJbM-Js4CG9ZgR9ibBwGxAXWwtMjgAeky-DqdMo6t_zjQWcgcHSD-z-j1_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYxutTGH1J7h2oN8byK9cLMAw0-B3u9vccq666tjDlYYe7f7lPbgBTw_coaeavA9TuOd8DHgG4i9I2mS2TgXZec75nbipQSmAVl6W9moyAhZ_vNuj1wbeouK9Q0rnppp0CSra1VP0CpsA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjI9X-2eTjUixN723obYyd47CeOXhXAl_dPWxRY-Pm3ok18k8x7OfwwEY6FStAFsesMD1zxGqIru9CJjR3qlkgKq04bA5uBOneOMceV8Yk_2ozXOFmez9nl2ac4aiA4wMTWUv0bOG2-8W6JsKJRyVAVT62SmRjm_yugYH4Q1fHg0kiO_sUesdGLEogwlwPNqadWjy2AaoXo1b1p01IhhRss2TD18eZ1VcevwUIH_DViQ==",
+      "fonte": "CronacaPop, kisskiss.it, Sport in tv oggi, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
@@ -79,88 +70,52 @@
       "competizione": "Serie A",
       "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkAJ93fdmy8tplVX9v3nK1DSGieOVp9Itc1oA1iXQAvHVB2dRhdLGBelJIvpavdFjOW9Gkgx4yGvoJeRkBu65RB9TKEdeRA1Hnjpw2C5OrRkzgTYatsE5BCKLiJWedZhwC5DIHAG1oErUja2hHrw5cW4AN45h4WZtgCzxoXkZE0kRoSvZ5W1xQ-pOsbyEmGKJmvopJtESIPzaR85r4pc041QCTfgYx87_mbX6kKl1rG_uC0ZXa-dOPhcJhCQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAY7S4XR6ePtFx8pr3x31IoTYdbdIG7rpyGM1va5aj36USRouW_AZclI5fx4DaUPGiEvTNrSMpt4vsIAfTisLsv2TxLBVQh4UWAq9Lj3DHmmjC7E-pbjZkmWcF-Apvhz-ykFEbrTFbMo763UjMS0cX2EIsRmlK08IMmfW5_RcQafMo==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIfq9T7gIMnJ0gqc8qK5yHHx1nz2Oc74BEXYhPVp2NFNhDo-GxD1H9Jh6F2JHgsX9yj7jGXEJcTsOshy1SR8PBj2ffM3ADUrQwhJ9K2gL9QtC3GE5nf0UuEtmYmFDMJhIkuqwOPYKTToiacNjjZUUeeOCeKIvwSWITdIVaCr7ckX1ciYUlnZq6_bYl66zEQBUqdFU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFjbL3N10-8__iL3Nvcxv5xHUXg4Jw0OBBxlRA67o491iRfDufFpIRVL1_Z6QC7_L2EMeAXhqQeGq3s2CVuBhy-uBJ9tz4sM2TPeTdn8iqb9HGDNIDblHJIv6zk-nRg7SEVABMeRC8GhxQ9PT909t9R-MWg0PktSXCH2DcSiYyZiheBqP6XLI==",
+      "fonte": "Fanpage, kisskiss.it, Sport in TV oggi, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Gara F1",
-      "competizione": "GP Brasile 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "evento": "Gara",
+      "competizione": "Formula 1 GP Brasile",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW, Sky Go",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_qFSILi7AdgmYNf6nStFOVgm2vWjDVsa1v4bNQb1yi-17LwBDDgjQRe9-nA3KDhqFHQ7Wm_h_nQqmwX_kP5ld4LEB65QGNYf8DJRsFNaoSfolhwuMJf1067OLxYl-Pbxw88Ne055OevUdRY1YRImWkpcfM7UIfxfEwtsWUCXaSY06ir_znVLo8nz_GxqBVVUKuys6LUA0lCVbbgI8Kz9Kuo52Wj4=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhze88TdBwOQxpnfOxWqWxLzu186Bj7Hn4o2DS0z5DGYh9TXE4lZh21hzosO3eGfA5zQ2RSjsn3pJhINlz4C6xFzN4QfAnEjbOCKoqP1GpfjHlZwU09Vg3XFwXYsuG1NWlRYRTtYOXeW8e7xLyjO4HbhQihHYscYnqX0m3mLFj3eRJbM-Js4CG9ZgR9ibBwGxAXWwtMjgAeky-DqdMo6t_zjQWcgcHSD-z-j1_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWRejub43u-Zc0V-YMLvndbmXtNmHTTuvo6ey1JRxNhd836i84AJn9RtM5gCP9aPLwZRwyuhsbkEu37H_rZOfhIrDUcqeUtGKZJUmrSV1RIHYzCSwAh3pMGzbWQwIGR1l_vhCkO0E96ZIP__VNlBFvrmcCQ7AddVWqeEsN0x6Vnvni1f_EQWFXa4z0yWHfWdiJxqTPGpj4_iw5XFQKhw3MCIz3uTgetjqzbZouqSJ4QeFCeqtzy0fua9T2SNZz-7rYYhnkWdIgI5vp5FJS_XQMAzWYKVbWa-k4OpogfgpcDWpp8Cn_nUW5-sl3lKXCXnFZN7HKDTJ04D6TKIvN324QDlsOH18DRw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjI9X-2eTjUixN723obYyd47CeOXhXAl_dPWxRY-Pm3ok18k8x7OfwwEY6FStAFsesMD1zxGqIru9CJjR3qlkgKq04bA5uBOneOMceV8Yk_2ozXOFmez9nl2ac4aiA4wMTWUv0bOG2-8W6JsKJRyVAVT62SmRjm_yugYH4Q1fHg0kiO_sUesdGLEogwlwPNqadWjy2AaoXo1b1p01IhhRss2TD18eZ1VcevwUIH_DViQ==",
+      "fonte": "Sport in TV oggi, kisskiss.it, FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "Vero Volley Monza-Valsa Group Modena",
-      "competizione": "SuperLega Credem Banca",
+      "evento": "Monza-Modena",
+      "competizione": "Volley Superlega Maschile",
       "canale": "DAZN, VBTV",
-      "note": "5° turno di Regular Season",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMqcmCr4xCYXeMoSm05nDuib2o78apb5Fdp3j4AAXswu667Z8y0aGtep5MzE9w8Psf7Ah-AhlGJvS7Rg9iZ90C6lhzzaLJmmSHbOUTT1lDnqAPOMtj5PgUo_MjQEhrTEMXhjkFagRTj4sw-ndAXsPsBdNN1vxlkiEGBXaXP6441matFE6iR0EqoX0f5A-6iKTLfSIriqE4XM0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV4WHhWDTyrWDi3Cwo1SDGylRtfE27k8q52vCXgoFNGAtRB8lOr_acUSMQnb38zEhe6gAcU_xHod3Dl6D4Y-Ee3I7yir9gV2NX847P75gM8JJmzNrHLhoE6ZJS7a5tOFTNTt4fBfUfSEbVonuH4pWuzCy_7MIN-i6JABs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4OlJB8tXWltk7XC1KNAnVQnKd3JfA6QNzOL3aOVupuoUO1xrc2Q9FvNrs5IF_ibE-oL3moRM4E_BrHcRS4dfMuUsNueIla_wT6g5b48p9baIfnKutN2hODs5QG1sedBaWshYixpByjrlxE6rPr9lBwfjiZC-unV41gY0q-nLjctUuXa2fnW2KyB9QRZfQbaKbglpO2TNYy-tXPQT11r9OpoFnc5THtA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_HBGBM3yk66AI1wQM2RIIDHxgBTp7IPC6049WiyKMOaLkaqpweyFKedXn1D_CIj33XCbuQeaYKQL9H0dzeNZ7I14Y_8g8gEK4szSV4-Zcbpmu2ntQZ8xGbjPJpmMWrih9wC9Qi2pbiNGnaby5K1sVn_ME8GY==",
+      "note": "",
+      "fonte": "Sport in TV oggi, Volleyball World",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Fiorentina-Juventus",
       "competizione": "Serie A",
-      "canale": "DAZN, Canale DAZN (su Sky)",
+      "canale": "DAZN, DAZN 1",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkAJ93fdmy8tplVX9v3nK1DSGieOVp9Itc1oA1iXQAvHVB2dRhdLGBelJIvpavdFjOW9Gkgx4yGvoJeRkBu65RB9TKEdeRA1Hnjpw2C5OrRkzgTYatsE5BCKLiKWedZhwC5DIHAG1oErUja2hHrw5cW4AN45h4WZtgCzxoXkZE0kRoSvZ5W1xQ-pOsbyEmGKJmvopJtESIPzaR85r4pc041QCTfgYx87_mbX6kKl1rG_uC0ZXa-dOPhcJhCQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYHYHUpGCpvHYlrk_07prGyBS0R9TQKLdX4RwwUmjdmmGJMjBgKutUiwi9qR4leklae-YGbvXEgN8yc95nYp7mvw6Os3hNHWdXVDldx7QGOsYcHRzNJl0HKhCp8B86IjGyQf9n-iiQNIuf36pB1wQndLdyOpoUrShzvwMIux945KiEItverD_Ky-wnFqvpj-YUe7MjGjJfWC5isX5hHlhxKaaR2b-uFdF7McvGDcR5VsqzZBmo1A==",
+      "fonte": "Fanpage, kisskiss.it, Sport in TV oggi, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:30",
-      "evento": "Differita Gara F1",
-      "competizione": "GP Brasile 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxrTlGGk6b5VXzgYQ86mSSNpxKWrpvyQMdm_d9SlJWFehfxggAHJW9Q2w4k9LybR0EVXMkXgG_3cVBA3NaOFUoNvOtjUKH5SWdVwRf9JREVrTjLjCtbJYnhtDhdWq-zZjxo3TVNCzM2WQ5zJmN28Zj1DP-I1_TyaYGkbdp9fuOQ1TQtXpZuDGaKpxnW7DA3MzdsqwRy5j_kCmtH9g821SLbC4XC2QPKP1rf1jjiLaiIr4OWHPesg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhze88TdBwOQxpnfOxWqWxLzu186Bj7Hn4o2DS0z5DGYh9TXE4lZh21hzosO3eGfA5zQ2RSjsn3pJhINlz4C6xFzN4QfAnEjbOCKoqP1GpfjHlZwU09Vg3XFwXYsuG1NWlRYRTtYOXeW8e7xLyjO4HbhQihHYscYnqX0m3mLFj3eRJbM-Js4CG9ZgR9ibBwGxAXWwtMjgAeky-DqdMo6t_zjQWcgcHSD-z-j1_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWRejub43u-Zc0V-YMLvndbmXtNmHTTuvo6ey1JRxNhd836i84AJn9RtM5gCP9aPLwZRwyuhsbkEu37H_rZOfhIrDUcqeUtGKZJUmrSV1RIHYzCSwAh3pMGzbWQwIGR1l_vhCkO0E96ZIP__VNlBFvrmcCQ7AddVWqeEsN0x6Vnvni1f_EQWFXa4z0yWHfWdiJxqTPGpj4_iw5XFQKhw3MCIz3uTgetjqzbZouqSJ4QeFCeqtzy0fua9T2SNZz-7rYYhnkWdIgI5vp5FJS_XQMAzWYKVbWa-k4OpogfgpcDWpp8Cn_nUW5-sl3lKXCXnFZN7HKDTJ04D6TKIvN324QDlsOH18DRw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjI9X-2eTjUixN723obYyd47CeOXhXAl_dPWxRY-Pm3ok18k8x7OfwwEY6FStAFsesMD1zxGqIru9CJjR3qlkgKq04bA5uBOneOMceV8Yk_2ozXOFmez9nl2ac4aiA4wMTWUv0bOG2-8W6JsKJRyVAVT62SmRjm_yugYH4Q1fHg0kiO_sUesdGLEogwlwPNqadWjy2AaoXo1b1p01IhhRss2TD18eZ1VcevwUIH_DViQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:15",
-      "evento": "F1 Podio",
-      "competizione": "GP Brasile 2026",
-      "canale": "TV8",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6H3uYA4e_sRPsQD8rTsxCtwR6ngo7YvHXCmBgv_jw6jteASaDUrEMNKIIisv_dP7wr2zMPIrqJvLFKfA36gFSKxWxWSG2xgROKHh1e3NwCC2DTzkM45IC_RUcsDaSe__0irzl5w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:30",
-      "evento": "F1 Paddock Live Post Gara",
-      "competizione": "GP Brasile 2026",
-      "canale": "TV8",
-      "note": "Con Davide Camicioli",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6H3uYA4e_sRPsQD8rTsxCtwR6ngo7YvHXCmBgv_jw6jteASaDUrEMNKIIisv_dP7wr2zMPIrqJvLFKfA36gFSKxWxWSG2xgROKHh1e3NwCC2DTzkM45IC_RUcsDaSe__0irzl5w==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:00*",
-      "evento": "Siniakova/Townsend-Paolini/Errani",
-      "competizione": "WTA Finals 2026",
-      "canale": "Sky Sport Tennis, SuperTennis",
-      "note": "Match di doppio con giocatrici italiane. Orario stimato (CET) per inizio del 9 novembre.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPSOHawyNkoddsPOw54xnAEl8vJIovjyDbTP6_X3Qwgzcq2Bcuq2YtWH3l4NtcwLgabFaFqfzOYurHFFDKwDFozp39klY2yKfRqvYkPnjCVibCI8Pw8bJPClVdesY7qevxSl8C_xdMH2h2ENU-WRVo-Fy_yDPHb4T6eAxMrjYikUDKZpmjjRRd8-pjnP2mPAmraTQdkln1jInLd8kAliJ2v7ekDA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbntGFHSm8TBxt97DD4rE1ngYJ5BfI333Xj6FBE3ZdkqupW2B3TPye3aaF-83_updkpWSiOK2JkqZ1IjWbHvCaz3yacuiabexaaLNLoop_ImCTsVkxkgK-rK-JeUMwn7ru0BConPhDmHg0ZR-Owgg2HId5QwNuoygemLiydJLurCDXG8HUum1w3vERmy4z-p5G0qX2E2NkidgqDM1xlvUm_oiERmHMqOMBOW6R_Gp8VmeVrjVL8Z2doPFGsKcP3ItXlGwikTAtCPfuJSRHpeMeAfsPY1WKt4_ViJeP5jaHZegoeyLBbaYN9HzOIz5jp5ccrXcMK4JlUk8Oyy-QQs0iAQZxSZTjfpnjk8O75SBmP_wu0Spr",
+      "orario": "21:00*",
+      "evento": "WTA Finals - Doppio: Errani/Paolini vs Siniakova/Townsend",
+      "competizione": "Tennis WTA Finals (Indian Wells, USA)",
+      "canale": "Sky Sport Tennis, SuperTennis HD, Sky Go, NOW, SuperTennis+",
+      "note": "Terzo match della serata, orario stimato dopo i due singolari.",
+      "fonte": "Sport in TV oggi, Olympics.com, CronacaPop",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "01:30",
-      "evento": "Replica Gara MotoGP",
-      "competizione": "GP Qatar 2026",
-      "canale": "Sky Sport Uno",
+      "orario": "21:30",
+      "evento": "Replica Gara",
+      "competizione": "Formula 1 GP Brasile",
+      "canale": "TV8 HD, tv8.it (streaming)",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-vTP04Eg4PBpog0XnJmh5nWWYC06bCkHVFuW61XVrNMG4994zzCUdwYHuFAdPZgrO9YYEE-tnq8gF7aowjazRli324Q-j3P1jNDUL7B-k6sE2-sgvy5wUDO05eSSFfDFelwXcBpmjVnf7NyEStLQgeI9fL_4qc1IGrcrsWrAePkDn0HKnVPPNjHqVpBHFwbcrEps=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:45",
-      "evento": "Replica Gara Moto3",
-      "competizione": "GP Qatar 2026",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-vTP04Eg4PBpog0XnJmh5nWWYC06bCkHVFuW61XVrNMG4994zzCUdwYHuFAdPZgrO9YYEE-tnq8gF7aowjazRli324Q-j3P1jNDUL7B-k6sE2-sgvy5wUDO05eSSFfDFelwXcBpmjVnf7NyEStLQgeI9fL_4qc1IGrcrsWrAePkDn0HKnVPPNjHqVpBHFwbcrEps=",
+      "fonte": "Sport in TV oggi, kisskiss.it, FormulaPassion, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     }
   ]
