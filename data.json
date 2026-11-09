@@ -1,40 +1,13 @@
 {
-  "last_updated": "2026-11-09T04:28:24.316528+01:00",
+  "last_updated": "2026-11-09T15:35:33.799115+01:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "MotoGP GP Qatar - Gara (Replica)",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport 1",
+      "orario": "00:30",
+      "evento": "Formula 1 - Replica Gara GP Brasile",
+      "competizione": "Campionato del Mondo Formula 1 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Libero Magazine (Programmi Tv - Oggi - Sport), Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "07:00",
-      "evento": "Race Anatomy MotoGP",
-      "competizione": "Motomondiale 2026",
-      "canale": "Sky Sport 1",
-      "note": "Programma di approfondimento post-gara",
-      "fonte": "Libero Magazine (Programmi Tv - Oggi - Sport), Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Rugby: Italia - Sudafrica",
-      "competizione": "Nations Championship 2026",
-      "canale": "Sky Sport 1",
-      "note": "",
-      "fonte": "Libero Magazine (Programmi Tv - Oggi - Sport), Sky Sport Uno : Programmi TV e Palinsesto",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:50",
-      "evento": "Road to Nitto ATP Finals",
-      "competizione": "Tennis",
-      "canale": "Italia 1",
-      "note": "Speciale di avvicinamento al torneo",
-      "fonte": "Sport Pomeriggio - Guida TV, Guida TV (Sport), ATP Finals, il programma tv sulle reti Mediaset, Tennis, Nitto Atp Finals 2026: dal 9 novembre al via gli speciali di avvicinamento al torneo sui canali Mediaset",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
