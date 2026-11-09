@@ -1,121 +1,40 @@
 {
-  "last_updated": "2026-11-08T13:22:00.836428+01:00",
+  "last_updated": "2026-11-09T04:28:24.316528+01:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Napoli-Lazio",
-      "competizione": "Serie A",
-      "canale": "DAZN",
+      "orario": "06:00",
+      "evento": "MotoGP GP Qatar - Gara (Replica)",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport 1",
       "note": "",
-      "fonte": "Fanpage, kisskiss.it, Sky Sport",
+      "fonte": "Libero Magazine (Programmi Tv - Oggi - Sport), Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP GP Qatar",
-      "canale": "Sky Sport MotoGP, TV8, NOW, Sky Go",
-      "note": "",
-      "fonte": "CronacaPop, kisskiss.it, Sport in tv oggi",
+      "orario": "07:00",
+      "evento": "Race Anatomy MotoGP",
+      "competizione": "Motomondiale 2026",
+      "canale": "Sky Sport 1",
+      "note": "Programma di approfondimento post-gara",
+      "fonte": "Libero Magazine (Programmi Tv - Oggi - Sport), Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Enna-Reggina",
-      "competizione": "Serie D",
-      "canale": "ReggioTV (Canale 77, 677 DTT Calabria, 251 DTT Italia via internet), Reggina Channel (streaming)",
-      "note": "Partita a porte chiuse allo stadio Silvio Proto di Troina.",
-      "fonte": "ReggioTV, News Serie D, CronacaPop, CityNow",
+      "orario": "10:00",
+      "evento": "Rugby: Italia - Sudafrica",
+      "competizione": "Nations Championship 2026",
+      "canale": "Sky Sport 1",
+      "note": "",
+      "fonte": "Libero Magazine (Programmi Tv - Oggi - Sport), Sky Sport Uno : Programmi TV e Palinsesto",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Genoa-Milan",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Fanpage, kisskiss.it, Sky Sport, CronacaPop",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Monza-Atalanta",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "Fanpage, kisskiss.it, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP GP Qatar",
-      "canale": "Sky Sport MotoGP, TV8, NOW, Sky Go",
-      "note": "",
-      "fonte": "CronacaPop, kisskiss.it, Sport in tv oggi",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP GP Qatar",
-      "canale": "Sky Sport MotoGP, TV8, NOW, Sky Go",
-      "note": "",
-      "fonte": "CronacaPop, kisskiss.it, Sport in tv oggi, FormulaPassion",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Inter-Como",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "Fanpage, kisskiss.it, Sport in TV oggi, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Gara",
-      "competizione": "Formula 1 GP Brasile",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K, NOW, Sky Go",
-      "note": "",
-      "fonte": "Sport in TV oggi, kisskiss.it, FormulaPassion, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Monza-Modena",
-      "competizione": "Volley Superlega Maschile",
-      "canale": "DAZN, VBTV",
-      "note": "",
-      "fonte": "Sport in TV oggi, Volleyball World",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Fiorentina-Juventus",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "Fanpage, kisskiss.it, Sport in TV oggi, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00*",
-      "evento": "WTA Finals - Doppio: Errani/Paolini vs Siniakova/Townsend",
-      "competizione": "Tennis WTA Finals (Indian Wells, USA)",
-      "canale": "Sky Sport Tennis, SuperTennis HD, Sky Go, NOW, SuperTennis+",
-      "note": "Terzo match della serata, orario stimato dopo i due singolari.",
-      "fonte": "Sport in TV oggi, Olympics.com, CronacaPop",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "21:30",
-      "evento": "Replica Gara",
-      "competizione": "Formula 1 GP Brasile",
-      "canale": "TV8 HD, tv8.it (streaming)",
-      "note": "",
-      "fonte": "Sport in TV oggi, kisskiss.it, FormulaPassion, Il Fatto Quotidiano",
+      "orario": "13:50",
+      "evento": "Road to Nitto ATP Finals",
+      "competizione": "Tennis",
+      "canale": "Italia 1",
+      "note": "Speciale di avvicinamento al torneo",
+      "fonte": "Sport Pomeriggio - Guida TV, Guida TV (Sport), ATP Finals, il programma tv sulle reti Mediaset, Tennis, Nitto Atp Finals 2026: dal 9 novembre al via gli speciali di avvicinamento al torneo sui canali Mediaset",
       "accuratezza_orario": "esatto"
     }
   ]
