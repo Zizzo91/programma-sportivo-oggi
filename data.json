@@ -1,13 +1,157 @@
 {
-  "last_updated": "2026-11-09T15:35:33.799115+01:00",
+  "last_updated": "2026-11-10T01:57:20.096444+01:00",
   "events": [
     {
-      "orario": "00:30",
-      "evento": "Formula 1 - Replica Gara GP Brasile",
-      "competizione": "Campionato del Mondo Formula 1 2026",
-      "canale": "Sky Sport F1",
+      "orario": "06:00",
+      "evento": "Inter - Como",
+      "competizione": "Serie A 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa8tldj-4qykUYI4kWUKsoowxYqn_TFPm21dwcqZZl-AYGTXHurj6glWXpur0O42dnP7z2swcIxHWNLBaxV_HL3HbLIYfqbOug3lBSLe5_k0EFA_kZPOHBcVIlJeakKgu_Yil0DZf1knW6Rkk3xS5JGT0=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Gara MotoGP",
+      "competizione": "Motociclismo, MotoGP",
+      "canale": "Sky Sport 1",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-892BjQrFNpzoNVCfi5CkzjsSP-VV4n8M0CvI2OTrGd6yte8zUaga_spZczo6Gxp1JhxHlmD2FL6l9Oz1Nyv5nPvTr1ei_5xzzvbmhGYdIY8gFe56X8xmTSo4rsMt24TH1n1XVlTTeQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:00",
+      "evento": "Race Anatomy MotoGP",
+      "competizione": "Motociclismo, MotoGP",
+      "canale": "Sky Sport 1",
+      "note": "Analisi",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-892BjQrFNpzoNVCfi5CkzjsSP-VV4n8M0CvI2OTrGd6yte8zUaga_spZczo6Gxp1JhxHlmD2FL6l9Oz1Nyv5nPvTr1ei_5xzzvbmhGYdIY8gFe56X8xmTSo4rsMt24TH1n1XVlTTeQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Inter - Como",
+      "competizione": "Serie A 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa8tldj-4qykUYI4kWUKsoowxYqn_TFPm21dwcqZZl-AYGTXHurj6glWXpur0O42dnP7z2swcIxHWNLBaxV_HL3HbLIYfqbOug3lBSLe5_k0EFA_kZPOHBcVIlJeakKgu_Yil0DZf1knW6Rkk3xS5JGT0=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Häcken-Chelsea",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
       "note": "",
-      "fonte": "Sky Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE8aHoitMPqcQvg0yB_sutXsdpo0Lopo8VOpMNPV1vk79PhiCpX4UUoEUBakil-173wOsjvJZVbLkOZEcmmbesya3mZw5H-uCA-VpEbIQcVKNwaj7eyvhAGxqBiqCCFTRuwwGN0rDJA2lfVLitq_9nZQmc4WXjcoMIyi_kAuAKoZqJflrM2Xw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Real Madrid-Paris FC",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE8aHoitMPqcQvg0yB_sutXsdpo0Lopo8VOpMNPV1vk79PhiCpX4UUoEUBakil-173wOsjvJZVbLkOZEcmmbesya3mZw5H-uCA-VpEbIQcVKNwaj7eyvhAGxqBiqCCFTRuwwGN0rDJA2lfVLitq_9nZQmc4WXjcoMIyi_kAuAKoZqJflrM2Xw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "San Paolo",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Analisi del Gran Premio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_meHknCNurqAvT9w8sWu_ZHzWb3xMd9XwmhMeKAsOeAPB17qfqqz18rCektOdfJ5Cgfooe6YRpUwfjNKV5iJFxi065an5XNKN8sv6KIYAwYJDpmqDnPjJMJagcRLvtiVd45e",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Roma-Servette",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE8aHoitMPqcQvg0yB_sutXsdpo0Lopo8VOpMNPV1vk79PhiCpX4UUoEUBakil-173wOsjvJZVbLkOZEcmmbesya3mZw5H-uCA-VpEbIQcVKNwaj7eyvhAGxqBiqCCFTRuwwGN0rDJA2lfVLitq_9nZQmc4WXjcoMIyi_kAuAKoZqJflrM2Xw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Inter-Manchester City",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE8aHoitMPqcQvg0yB_sutXsdpo0Lopo8VOpMNPV1vk79PhiCpX4UUoEUBakil-173wOsjvJZVbLkOZEcmmbesya3mZw5H-uCA-VpEbIQcVKNwaj7eyvhAGxqBiqCCFTRuwwGN0rDJA2lfVLitq_9nZQmc4WXjcoMIyi_kAuAKoZqJflrM2Xw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "PSG-Bayern",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE8aHoitMPqcQvg0yB_sutXsdpo0Lopo8VOpMNPV1vk79PhiCpX4UUoEUBakil-173wOsjvJZVbLkOZEcmmbesya3mZw5H-uCA-VpEbIQcVKNwaj7eyvhAGxqBiqCCFTRuwwGN0rDJA2lfVLitq_9nZQmc4WXjcoMIyi_kAuAKoZqJflrM2Xw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "WTA Finals 2026 - Doppio Round Robin",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
+      "note": "Con partecipazione italiana (Errani/Paolini)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa8tldj-4qykUYI4kWUKsoowxYqn_TFPm21dwcqZZl-AYGTXHurj6glWXpur0O42dnP7z2swcIxHWNLBaxV_HL3HbLIYfqbOug3lBSLe5_k0EFA_kZPOHBcVIlJeakKgu_Yil0DZf1knW6Rkk3xS5JGT0=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:15",
+      "evento": "GP San Paolo: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_meHknCNurqAvT9w8sWu_ZHzWb3xMd9XwmhMeKAsOeAPB17qfqqz18rCektOdfJ5Cgfooe6YRpUwfjNKV5iJFxi065an5XNKN8sv6KIYAwYJDpmqDnPjJMJagcRLvtiVd45e",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:50",
+      "evento": "San Paolo",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Analisi del Gran Premio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_meHknCNurqAvT9w8sWu_ZHzWb3xMd9XwmhMeKAsOeAPB17qfqqz18rCektOdfJ5Cgfooe6YRpUwfjNKV5iJFxi065an5XNKN8sv6KIYAwYJDpmqDnPjJMJagcRLvtiVd45e",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:50",
+      "evento": "GP San Paolo: Gara",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_meHknCNurqAvT9w8sWu_ZHzWb3xMd9XwmhMeKAsOeAPB17qfqqz18rCektOdfJ5Cgfooe6YRpUwfjNKV5iJFxi065an5XNKN8sv6KIYAwYJDpmqDnPjJMJagcRLvtiVd45e",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:55",
+      "evento": "San Paolo",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Analisi del Gran Premio",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_meHknCNurqAvT9w8sWu_ZHzWb3xMd9XwmhMeKAsOeAPB17qfqqz18rCektOdfJ5Cgfooe6YRpUwfjNKV5iJFxi065an5XNKN8sv6KIYAwYJDpmqDnPjJMJagcRLvtiVd45e",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00",
+      "evento": "WTA Finals 2026 - Doppio",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno",
+      "note": "Con partecipazione italiana (Errani/Paolini)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa8tldj-4qykUYI4kWUKsoowxYqn_TFPm21dwcqZZl-AYGTXHurj6glWXpur0O42dnP7z2swcIxHWNLBaxV_HL3HbLIYfqbOug3lBSLe5_k0EFA_kZPOHBcVIlJeakKgu_Yil0DZf1knW6Rkk3xS5JGT0=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "06:00",
+      "evento": "Inter - Como",
+      "competizione": "Serie A 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "Replica",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa8tldj-4qykUYI4kWUKsoowxYqn_TFPm21dwcqZZl-AYGTXHurj6glWXpur0O42dnP7z2swcIxHWNLBaxV_HL3HbLIYfqbOug3lBSLe5_k0EFA_kZPOHBcVIlJeakKgu_Yil0DZf1knW6Rkk3xS5JGT0=",
       "accuratezza_orario": "esatto"
     }
   ]
