@@ -1,131 +1,68 @@
 {
-  "last_updated": "2026-11-11T04:35:29.449073+01:00",
+  "last_updated": "2026-11-11T14:07:16.371750+01:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "WTA Finals Indian Wells 2026: Doppio Round Robin P1 (con italiani)",
-      "competizione": "Tennis - WTA Finals",
-      "canale": "Sky Sport Tennis",
-      "note": "Include giocatrici italiane Jasmine Paolini e Sara Errani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElGZZtCdBYpy3JeT-nMjDbNm-kzzuvumSmrEJHmeGOVmR9scOtiZaKFewYsZJqcKyxvs6qR6ZefadzJGkn9oWh6crPI99EN41cUhHxKKgIuc3023cU8zYPx6H5jr4h8Ri7",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:15",
-      "evento": "Qualificazioni Women's Eurobasket 2027: Italia - Slovenia",
-      "competizione": "Basket Femminile",
-      "canale": "Sky Sport Uno",
-      "note": "Replica dell'evento delle 20:00.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr1iCIN1AIlbaT-dMQTmGeBlcuTTE7YYpg6JoYIdWpo63ca44yllkEHMTStmM1R4JOX3vt2rPvdQ_nSJw_oDXijjCzjm71otzQl-O2OZ3N_ufKxYNjQVDLwsvz3HcXaQtBF0QdKIydmn12--ikmDvHU9Lq_iUwbXs=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:30",
-      "evento": "WTA Finals Indian Wells 2026: Doppio Round Robin P2 (con italiani)",
-      "competizione": "Tennis - WTA Finals",
-      "canale": "Sky Sport Tennis",
-      "note": "Include giocatrici italiane Jasmine Paolini e Sara Errani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElGZZtCdBYpy3JeT-nMjDbNm-kzzuvumSmrEJHmeGOVmR9scOtiZaKFewYsZJqcKyxvs6qR6ZefadzJGkn9oWh6crPI99EN41cUhHxKKgIuc3023cU8zYPx6H5jr4h8Ri7",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "ATP 250 Stoccolma: 4a giornata sessione diurna",
-      "competizione": "Tennis - ATP 250",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Include giocatori italiani Lorenzo Musetti e Lorenzo Sonego.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELKGDIvOudXkQl-57NwNDGb_qKvPLaDQZaIDfv_QrpRrYT8VZaW5LQw-zknlsF3avIm7wUG-4V-gxY4quFxF4cGKRBKpjxHvukARNcDqUs-uhyRu-8nLv49KwMkqpT2SFjHhUt0Ua3jd6qdoBix9qDOe4RzLNDUNDmgjY5fnCMjsWWFrjA7qtgbQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:10",
-      "evento": "Sport Mediaset",
-      "competizione": "Notiziario sportivo",
-      "canale": "Italia 1",
+      "orario": "09:00",
+      "evento": "Lussemburgo U17 vs Italia U17",
+      "competizione": "Qualificazioni Europei U17",
+      "canale": null,
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8nc8bJVvqI7BE60I1frgy3hiDZXzglOTjPnOhiAU2Cjh_UFc36W4Rpj9Zvh9qkiRmAehkv6mn_nHdwLPOHZ_UFQp_cTa6FJJjJw47Zzm4C8zbggeon3p6cAC-1bQIqRb3_Y9KBeU3aCLW8Q7k3iK6gQ51tOxI_sGPsNpPbwMnXy_ezfF_rx-iExCVHEOK7vH8=",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCh-jh5tUCbjoPlFQsZGQb6gaLMq6HVerHWcQwqJsOwEhdLUOVYEb6zXrU-6IWCNQiQ4bCdfxbrRomH1EKJG4eceIp_yJNvUkwpVipSTT2CtAyK_2_iEbWsCdAr5Kk6zxjbTOv48yUzvAdlJbdTg6a9iy6xfUv59Hgsar1nry8TS71eg85ttbbfFri80CRBSXUqUg2SVcInlqrrMHoKm1KXzIm",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:30",
-      "evento": "Qualificazioni Europei U19 Cechia 2027: Italia-Romania",
-      "competizione": "Calcio Giovanile - Qualificazioni Europei U19",
+      "orario": "13:00*",
+      "evento": "Lorenzo Sonego vs Alejandro Tabilo",
+      "competizione": "Tennis - ATP 250 Stoccolma (Ottavi di Finale)",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Go, NOW, Tennis TV",
+      "note": "Primo match della sessione diurna",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Pru1lO7pNZcFcBQFPICw-aseXEv0oOit0RZ_BH9c-XSf2CclPc1ZhaWpPTCeG3gSHvAP-0iOAUAYb7nT-y3bSpi7vtrH16ZUWzpfuPYpivAPqpKWt9_p3nkGga7t8kcZBdUIE98-Oe6Aps_bMODLda1-XMXbIh2j8KX31SmIfJjXlb44TCQe11zlG0QxIIPlFEJxHXFwzzmkhR6cfN5EaP6p_SEwZ5M5iygL",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "15:20",
+      "evento": "Italia U19 vs Romania U19",
+      "competizione": "Qualificazioni Europei U19",
       "canale": "Rai Sport",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElGZZtCdBYpy3JeT-nMjDbNm-kzzuvumSmrEJHmeGOVmR9scOtiZaKFewYsZJqcKyxvs6qR6ZefadzJGkn9oWh6crPI99EN41cUhHxKKgIuc3023cU8zYPx6H5jr4h8Ri7",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "ATP 250 Stoccolma: 4a giornata sessione serale",
-      "competizione": "Tennis - ATP 250",
-      "canale": "Sky Sport Tennis, Sky Sport Max",
-      "note": "Include giocatori italiani Lorenzo Musetti e Lorenzo Sonego.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElGZZtCdBYpy3JeT-nMjDbNm-kzzuvumSmrEJHmeGOVmR9scOtiZaKFewYsZJqcKyxvs6qR6ZefadzJGkn9oWh6crPI99EN41cUhHxKKgIuc3023cU8zYPx6H5jr4h8Ri7",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:00",
-      "evento": "Eurocup: Niners Chemnitz-Napoli",
-      "competizione": "Basket - Eurocup",
-      "canale": "Sky Sport Basket",
-      "note": "Partita che coinvolge una squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2fN7oxSYls5EEmohaVxmwogbLQNzo79gb51PS-q_XYrCA8yaDFm2IHFkInhwmr9Lp4sFTX-BVKgjqL8iaC88uG_J8A3EULJQu4HEe8-9HQ3Ngy4DU81uGEXpqHmAimKUYWp_V5286VUxO2ONRWExCJ3MHru7LPIr8SliQduoMOcBwVumPfgAL4T7UMYcgj7n8ApvI6Apg8dJKiLG_PBDpY29yROzzyIC9l61dZhlBruY1wfIfaQknBg4dQ5w-ovw2O8B0WZ7Ylw_DHA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:30",
-      "evento": "Eurocup: Derthona Tortona-Hapoel Gerusalemme",
-      "competizione": "Basket - Eurocup",
-      "canale": "Sky Sport Mix",
-      "note": "Partita che coinvolge una squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2fN7oxSYls5EEmohaVxmwogbLQNzo79gb51PS-q_XYrCA8yaDFm2IHFkInhwmr9Lp4sFTX-BVKgjqL8iaC88uG_J8A3EULJQu4HEe8-9HQ3Ngy4DU81uGEXpqHmAimKUYWp_V5286VUxO2ONRWExCJ3MHru7LPIr8SliQduoMOcBwVumPfgAL4T7UMYcgj7n8ApvI6Apg8dJKiLG_PBDpY29yROzzyIC9l61dZhlBruY1wfIfaQknBg4dQ5w-ovw2O8B0WZ7Ylw_DHA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Eurocup: BC Roma-Ulm",
-      "competizione": "Basket - Eurocup",
-      "canale": "Sky Sport Arena",
-      "note": "Partita che coinvolge una squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2fN7oxSYls5EEmohaVxmwogbLQNzo79gb51PS-q_XYrCA8yaDFm2IHFkInhwmr9Lp4sFTX-BVKgjqL8iaC88uG_J8A3EULJQu4HEe8-9HQ3Ngy4DU81uGEXpqHmAimKUYWp_V5286VUxO2ONRWExCJ3MHru7LPIr8SliQduoMOcBwVumPfgAL4T7UMYcgj7n8ApvI6Apg8dJKiLG_PBDpY29yROzzyIC9l61dZhlBruY1wfIfaQknBg4dQ5w-ovw2O8B0WZ7Ylw_DHA=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Qualificazioni Women's Eurobasket 2027: Italia-Slovenia",
-      "competizione": "Basket Femminile",
-      "canale": "Sky Sport 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElGZZtCdBYpy3JeT-nMjDbNm-kzzuvumSmrEJHmeGOVmR9scOtiZaKFewYsZJqcKyxvs6qR6ZefadzJGkn9oWh6crPI99EN41cUhHxKKgIuc3023cU8zYPx6H5jr4h8Ri7",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Serie A1 Femminile: Numia Vero Volley Milano - Brescia",
-      "competizione": "Pallavolo - Serie A1",
-      "canale": "DAZN",
-      "note": "Partita che coinvolge una squadra Monza (Vero Volley Milano).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2uvwO9vgo-n_HCFTcf_Od9TDkSPULL6L_ecSPAnIbPfR95lbxqq5SC9zu4j-lb_n4o-ds6eepLhebsQpawxyl6KJImItYGpEmz-VmHdZCk558LZ76V3TwF2ZtE37EkDydgeyin3_TJVHjEo7_9novoDXiCSjdVUVP3hMsuNMuGNYtk0OpmFoGbPwfswC_hLYOiFTX0y-EKPmSZIYv8vaq6xIbKqOXe2MO",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyIkMndZEPN6H4_aCDNGhB1W6_5YI5SVtMdwrOl5TIa739s0sG5iUT3HOnU7Nbgbsiwe_0BXKFwS-_PEYrKAl5tZeILjvP1gVIvxvdlcgcI8-RwNMfXSfnxVwrKAProSMMGB-xFLVtSKr4zubjwvpiLNOuqpI1x_TdgGA5_YzsnTo2oJG4fkGhOsJrUQez4la0Yqf0ymTIkZLRrKwgJUU",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "WTA Finals Indian Wells 2026: Singolare Round Robin P1 (con italiani)",
-      "competizione": "Tennis - WTA Finals",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Include giocatrici italiane Jasmine Paolini e Sara Errani. Sky Sport Uno inizia alle 22:15. A seguire altri match di singolare e doppio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELKGDIvOudXkQl-57NwNDGb_qKvPLaDQZaIDfv_QrpRrYT8VZaW5LQw-zknlsF3avIm7wUG-4V-gxY4quFxF4cGKRBKpjxHvukARNcDqUs-uhyRu-8nLv49KwMkqpT2SFjHhUt0Ua3jd6qdoBix9qDOe4RzLNDUNDmgjY5fnCMjsWWFrjA7qtgbQ=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Champions League Femminile: Juventus-Lione",
-      "competizione": "Calcio Femminile - Champions League",
+      "evento": "Juventus vs Lyon",
+      "competizione": "UEFA Women's Champions League",
       "canale": "Disney+",
-      "note": "Partita che coinvolge una squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEard2QHgPbYNRcnRN_HVLLUd5velAfTXzpzB0YCKsxVcw9bFnT6Nq79ulNQo_rxVVgTyIT59Us8b1s4OAhmbjXOGqspd5Ecr9A8Q9WcyhFNuFEIfADvua5yVu6wUAWVrQn0is5bq8AORS_UwkqGlMhPy03BCfPeq6JZhlzra5tCPwP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGxdcrCocjNGPVFjKPPiFKYtDqPVq8d6sp-saVESIVOzm8IzfrFmVJUo8hHdTjqPl6zGrZq2-mOIbo_UhITOlf8cXhSt6dZFX5kKu_pvrEAlgHNwfXIgifM66PDnCriMYYmMAH4Rj3qFU4-5KcH52ThUQ4lYT4XLtdI2Yh5KnrQjLFIP1TNOOiQ428t6q2CzqQjns8P5lemZLOWUQX0DF7bnlvOHyWDeXbbGU5znHCFtUxu3sl0wM",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Roma vs Servette",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBjLoteUtr3W3Ua-ggY-1QXDIZ5t_g3IP_gowDfkfR5btuJpTBKoufSD-hWAKgFOZ2YXwrJZMlDVMG8RZPKakvTPEyAVYGLVAUJT_xFs5iakVSZRBsDL9AoICxq06Sm84-X2Xz7F6ki_kkpzW7JPVLtZ4xmp5mNh7g9JbHKvWRylj1XuDRAIHLJThIpD56nOS88oyief_CpV3v5vdcicU3ny887q_gdQPKn-qiwys_r-nfqHhLNfykTirT",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Inter vs Manchester City",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBjLoteUtr3W3Ua-ggY-1QXDIZ5t_g3IP_gowDfkfR5btuJpTBKoufSD-hWAKgFOZ2YXwrJZMlDVMG8RZPKakvTPEyAVYGLVAUJT_xFs5iakVSZRBsDL9AoICxq06Sm84-X2Xz7F6ki_kkpzW7JPVLtZ4xmp5mNh7g9JbHKvWRylj1XuDRAIHLJThIpD56nOS88oyief_CpV3v5vdcicU3ny887q_gdQPKn-qiwys_r-nfqHhLNfykTirT",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:00*",
+      "evento": "Sara Errani / Jasmine Paolini vs Cristina Bucsa / Nicole Melichar-Martinez",
+      "competizione": "Tennis - WTA Finals Indian Wells (Doppio)",
+      "canale": "Sky Sport Tennis, SuperTennis HD, Sky Go, NOW, supertennis.tv, SuperTennis+",
+      "note": "Ultimo match della sessione serale, orario stimato (notte tra 11 e 12 novembre)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD4MeQyP_73bAdHq57rlUf36Z2aaMyhIqYSgRAdDjNvh2zKM1oNy7B1oiDK2A_jLf3EMWnXhB0VzpyDaJPKfBXzipkcXcoCKVfDG-WEuliok5J4oYlHdlMKiBhU7Av3RD5wV1ClBgyB6_r9iCfPzl72BNfxz9pawDo_BQmczW-SKnQxeeiNVRtjs065x9mPJgbkagr4TgI6zubkyGIlBeUn22fCDGOjrp5z9rjRBlRZla_JGz6vm3qnP6d",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
