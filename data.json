@@ -1,68 +1,113 @@
 {
-  "last_updated": "2026-11-11T14:07:16.371750+01:00",
+  "last_updated": "2026-11-12T00:47:57.167462+01:00",
   "events": [
     {
-      "orario": "09:00",
-      "evento": "Lussemburgo U17 vs Italia U17",
-      "competizione": "Qualificazioni Europei U17",
-      "canale": null,
+      "orario": "14:00",
+      "evento": "Giochi Olimpici Giovanili Dakar 2026 - 12a giornata",
+      "competizione": "Giochi Olimpici Giovanili",
+      "canale": "Raisport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCh-jh5tUCbjoPlFQsZGQb6gaLMq6HVerHWcQwqJsOwEhdLUOVYEb6zXrU-6IWCNQiQ4bCdfxbrRomH1EKJG4eceIp_yJNvUkwpVipSTT2CtAyK_2_iEbWsCdAr5Kk6zxjbTOv48yUzvAdlJbdTg6a9iy6xfUv59Hgsar1nry8TS71eg85ttbbfFri80CRBSXUqUg2SVcInlqrrMHoKm1KXzIm",
+      "fonte": "ProgrammiTV / Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:00*",
-      "evento": "Lorenzo Sonego vs Alejandro Tabilo",
-      "competizione": "Tennis - ATP 250 Stoccolma (Ottavi di Finale)",
-      "canale": "Sky Sport Tennis, Sky Sport Uno, Sky Sport Max, Sky Go, NOW, Tennis TV",
-      "note": "Primo match della sessione diurna",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Pru1lO7pNZcFcBQFPICw-aseXEv0oOit0RZ_BH9c-XSf2CclPc1ZhaWpPTCeG3gSHvAP-0iOAUAYb7nT-y3bSpi7vtrH16ZUWzpfuPYpivAPqpKWt9_p3nkGga7t8kcZBdUIE98-Oe6Aps_bMODLda1-XMXbIh2j8KX31SmIfJjXlb44TCQe11zlG0QxIIPlFEJxHXFwzzmkhR6cfN5EaP6p_SEwZ5M5iygL",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:20",
-      "evento": "Italia U19 vs Romania U19",
-      "competizione": "Qualificazioni Europei U19",
-      "canale": "Rai Sport",
+      "orario": "14:50",
+      "evento": "Italia - Romania (secondo turno)",
+      "competizione": "Qualificazioni Europei U19 2027",
+      "canale": "Raisport HD",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyIkMndZEPN6H4_aCDNGhB1W6_5YI5SVtMdwrOl5TIa739s0sG5iUT3HOnU7Nbgbsiwe_0BXKFwS-_PEYrKAl5tZeILjvP1gVIvxvdlcgcI8-RwNMfXSfnxVwrKAProSMMGB-xFLVtSKr4zubjwvpiLNOuqpI1x_TdgGA5_YzsnTo2oJG4fkGhOsJrUQez4la0Yqf0ymTIkZLRrKwgJUU",
+      "fonte": "ProgrammiTV / Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Juventus vs Lyon",
-      "competizione": "UEFA Women's Champions League",
-      "canale": "Disney+",
+      "orario": "17:00",
+      "evento": "Italia-Portogallo",
+      "competizione": "U20 Elite League",
+      "canale": "Sportitalia",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGxdcrCocjNGPVFjKPPiFKYtDqPVq8d6sp-saVESIVOzm8IzfrFmVJUo8hHdTjqPl6zGrZq2-mOIbo_UhITOlf8cXhSt6dZFX5kKu_pvrEAlgHNwfXIgifM66PDnCriMYYmMAH4Rj3qFU4-5KcH52ThUQ4lYT4XLtdI2Yh5KnrQjLFIP1TNOOiQ428t6q2CzqQjns8P5lemZLOWUQX0DF7bnlvOHyWDeXbbGU5znHCFtUxu3sl0wM",
+      "fonte": "Virgilio",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Roma vs Servette",
-      "competizione": "UEFA Women's Champions League",
-      "canale": "Disney+",
+      "orario": "18:00",
+      "evento": "Turchia-Belgio",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Uno, Sky Sport Calcio",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBjLoteUtr3W3Ua-ggY-1QXDIZ5t_g3IP_gowDfkfR5btuJpTBKoufSD-hWAKgFOZ2YXwrJZMlDVMG8RZPKakvTPEyAVYGLVAUJT_xFs5iakVSZRBsDL9AoICxq06Sm84-X2Xz7F6ki_kkpzW7JPVLtZ4xmp5mNh7g9JbHKvWRylj1XuDRAIHLJThIpD56nOS88oyief_CpV3v5vdcicU3ny887q_gdQPKn-qiwys_r-nfqHhLNfykTirT",
+      "fonte": "Virgilio / Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Inter vs Manchester City",
-      "competizione": "UEFA Women's Champions League",
-      "canale": "Disney+",
+      "orario": "20:00",
+      "evento": "Skyliners Francoforte-Maxima Roma",
+      "competizione": "Eurocup Basket",
+      "canale": "Sky Sport Arena",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBjLoteUtr3W3Ua-ggY-1QXDIZ5t_g3IP_gowDfkfR5btuJpTBKoufSD-hWAKgFOZ2YXwrJZMlDVMG8RZPKakvTPEyAVYGLVAUJT_xFs5iakVSZRBsDL9AoICxq06Sm84-X2Xz7F6ki_kkpzW7JPVLtZ4xmp5mNh7g9JbHKvWRylj1XuDRAIHLJThIpD56nOS88oyief_CpV3v5vdcicU3ny887q_gdQPKn-qiwys_r-nfqHhLNfykTirT",
+      "fonte": "Sky Sport / Virgilio",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:00*",
-      "evento": "Sara Errani / Jasmine Paolini vs Cristina Bucsa / Nicole Melichar-Martinez",
-      "competizione": "Tennis - WTA Finals Indian Wells (Doppio)",
-      "canale": "Sky Sport Tennis, SuperTennis HD, Sky Go, NOW, supertennis.tv, SuperTennis+",
-      "note": "Ultimo match della sessione serale, orario stimato (notte tra 11 e 12 novembre)",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD4MeQyP_73bAdHq57rlUf36Z2aaMyhIqYSgRAdDjNvh2zKM1oNy7B1oiDK2A_jLf3EMWnXhB0VzpyDaJPKfBXzipkcXcoCKVfDG-WEuliok5J4oYlHdlMKiBhU7Av3RD5wV1ClBgyB6_r9iCfPzl72BNfxz9pawDo_BQmczW-SKnQxeeiNVRtjs065x9mPJgbkagr4TgI6zubkyGIlBeUn22fCDGOjrp5z9rjRBlRZla_JGz6vm3qnP6d",
-      "accuratezza_orario": "stimato"
+      "orario": "20:15",
+      "evento": "Olympiacos-Dubai Basketball",
+      "competizione": "Euroleague Basket",
+      "canale": "Sky Sport Mix",
+      "note": "",
+      "fonte": "Sky Sport / Virgilio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Olimpia Milano-Zalgiris Kaunas",
+      "competizione": "Euroleague Basket",
+      "canale": "Sky Sport Basket",
+      "note": "",
+      "fonte": "Sky Sport / Virgilio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Inghilterra-Croazia",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "Virgilio / Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Repubblica Ceca-Spagna",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport 251",
+      "note": "",
+      "fonte": "Virgilio / Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Diretta Gol",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Include Albania-Finlandia, San Marino-Bielorussia, Montenegro-Lettonia",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "Italia-Francia (Differita)",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Partita giocata in precedenza, trasmessa in differita.",
+      "fonte": "Sky Sport / Rai 1 HD",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:30",
+      "evento": "Houston Rockets-Golden State Warriors",
+      "competizione": "NBA",
+      "canale": "Sky Sport Basket",
+      "note": "",
+      "fonte": "Virgilio / Sky Sport",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
