@@ -1,76 +1,58 @@
 {
-  "last_updated": "2026-11-12T15:09:59.844744+01:00",
+  "last_updated": "2026-11-12T23:56:52.152538+01:00",
   "events": [
     {
-      "orario": "17:00",
-      "evento": "Italia U20 vs Portogallo",
-      "competizione": "U20 Elite League",
-      "canale": "Sportitalia",
-      "note": "",
-      "fonte": "Virgilio Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "18:00",
-      "evento": "Turchia vs Belgio",
+      "evento": "Turchia-Belgio",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Uno, Sky Sport Calcio",
       "note": "",
-      "fonte": "OA Sport, CalcioMagazine, Sky Sport, Libero Magazine, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Italia vs Francia",
-      "competizione": "UEFA Nations League",
-      "canale": "Rai 1",
-      "note": "",
-      "fonte": "I programmi TV di oggi, CalcioMagazine, kisskiss.it, Libero Magazine, Guida tv Dituttounpop",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Inghilterra vs Croazia",
+      "evento": "Inghilterra-Croazia",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Virgilio Sport, CronacaPop, CalcioMagazine, Sky Sport, Libero Magazine, Sky Sport",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Repubblica Ceca vs Spagna",
+      "evento": "Repubblica Ceca-Spagna",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport 251",
       "note": "",
-      "fonte": "Sky Sport, Sky Sport",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Diretta Gol UEFA Nations League",
+      "evento": "Diretta Gol Nations League",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Calcio",
       "note": "Include Albania-Finlandia, San Marino-Bielorussia, Montenegro-Lettonia",
-      "fonte": "Sky Sport, Sky Sport",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Italia vs Francia (Differita)",
+      "evento": "Italia-Francia",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Calcio",
-      "note": "Giovedì 12 novembre - notte su venerdì 13 novembre",
-      "fonte": "Sky Sport, Sky Sport, Sky Sport",
+      "note": "Differita",
+      "fonte": "Sky Sport, Sportface.it, Guida TV",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "02:00*",
-      "evento": "WTA Finals: Doppio (Sara Errani/Jasmine Paolini vs Ellen Perez/Demi Schuurs)",
-      "competizione": "WTA Finals",
-      "canale": "SuperTennis HD, Sky Sport Tennis",
-      "note": "Orario stimato, a seguire dopo le partite di singolare iniziate alle 21:00 CET. Giovedì 12 novembre - notte su venerdì 13 novembre",
-      "fonte": "OA Sport, CronacaPop, SuperTennis",
+      "orario": "01:30*",
+      "evento": "WTA Finals - Doppio: Ellen Perez/Demi Schuurs vs Sara Errani/Jasmine Paolini",
+      "competizione": "Tennis WTA Finals",
+      "canale": "Sky Sport Tennis, SuperTennis, NOW",
+      "note": "Quarto match del programma serale. Partita con giocatrici italiane. Orario stimato, a seguire il precedente incontro.",
+      "fonte": "OA Sport, Guida TV, SuperTennis",
       "accuratezza_orario": "stimato"
     }
   ]
