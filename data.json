@@ -1,113 +1,77 @@
 {
-  "last_updated": "2026-11-12T00:47:57.167462+01:00",
+  "last_updated": "2026-11-12T15:09:59.844744+01:00",
   "events": [
     {
-      "orario": "14:00",
-      "evento": "Giochi Olimpici Giovanili Dakar 2026 - 12a giornata",
-      "competizione": "Giochi Olimpici Giovanili",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "ProgrammiTV / Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:50",
-      "evento": "Italia - Romania (secondo turno)",
-      "competizione": "Qualificazioni Europei U19 2027",
-      "canale": "Raisport HD",
-      "note": "",
-      "fonte": "ProgrammiTV / Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "17:00",
-      "evento": "Italia-Portogallo",
+      "evento": "Italia U20 vs Portogallo",
       "competizione": "U20 Elite League",
       "canale": "Sportitalia",
       "note": "",
-      "fonte": "Virgilio",
+      "fonte": "Virgilio Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Turchia-Belgio",
+      "evento": "Turchia vs Belgio",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Uno, Sky Sport Calcio",
       "note": "",
-      "fonte": "Virgilio / Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Skyliners Francoforte-Maxima Roma",
-      "competizione": "Eurocup Basket",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "Sky Sport / Virgilio",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:15",
-      "evento": "Olympiacos-Dubai Basketball",
-      "competizione": "Euroleague Basket",
-      "canale": "Sky Sport Mix",
-      "note": "",
-      "fonte": "Sky Sport / Virgilio",
+      "fonte": "OA Sport, CalcioMagazine, Sky Sport, Libero Magazine, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "Olimpia Milano-Zalgiris Kaunas",
-      "competizione": "Euroleague Basket",
-      "canale": "Sky Sport Basket",
+      "evento": "Italia vs Francia",
+      "competizione": "UEFA Nations League",
+      "canale": "Rai 1",
       "note": "",
-      "fonte": "Sky Sport / Virgilio",
+      "fonte": "I programmi TV di oggi, CalcioMagazine, kisskiss.it, Libero Magazine, Guida tv Dituttounpop",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Inghilterra-Croazia",
+      "evento": "Inghilterra vs Croazia",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Uno",
       "note": "",
-      "fonte": "Virgilio / Sky Sport",
+      "fonte": "Virgilio Sport, CronacaPop, CalcioMagazine, Sky Sport, Libero Magazine, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Repubblica Ceca-Spagna",
+      "evento": "Repubblica Ceca vs Spagna",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport 251",
       "note": "",
-      "fonte": "Virgilio / Sky Sport",
+      "fonte": "Sky Sport, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Diretta Gol",
+      "evento": "Diretta Gol UEFA Nations League",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Calcio",
       "note": "Include Albania-Finlandia, San Marino-Bielorussia, Montenegro-Lettonia",
-      "fonte": "Sky Sport",
+      "fonte": "Sky Sport, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Italia-Francia (Differita)",
+      "evento": "Italia vs Francia (Differita)",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Calcio",
-      "note": "Partita giocata in precedenza, trasmessa in differita.",
-      "fonte": "Sky Sport / Rai 1 HD",
+      "note": "Giovedì 12 novembre - notte su venerdì 13 novembre",
+      "fonte": "Sky Sport, Sky Sport, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "03:30",
-      "evento": "Houston Rockets-Golden State Warriors",
-      "competizione": "NBA",
-      "canale": "Sky Sport Basket",
-      "note": "",
-      "fonte": "Virgilio / Sky Sport",
-      "accuratezza_orario": "esatto"
+      "orario": "02:00*",
+      "evento": "WTA Finals: Doppio (Sara Errani/Jasmine Paolini vs Ellen Perez/Demi Schuurs)",
+      "competizione": "WTA Finals",
+      "canale": "SuperTennis HD, Sky Sport Tennis",
+      "note": "Orario stimato, a seguire dopo le partite di singolare iniziate alle 21:00 CET. Giovedì 12 novembre - notte su venerdì 13 novembre",
+      "fonte": "OA Sport, CronacaPop, SuperTennis",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
