@@ -1,103 +1,58 @@
 {
-  "last_updated": "2026-11-13T14:34:15.847557+01:00",
+  "last_updated": "2026-11-13T23:59:11.945062+01:00",
   "events": [
     {
-      "orario": "11:45",
-      "evento": "Prove Libere 1",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgaXLnXmkI2YfAJrARo5TLWrT0LAlXLzO0GZeq1VbxbIXqhJdUGkeh-Fc5H5BbifOnkn8dkLZ2h2qdtAI9W6svLqFS5TvDw77Q8tPHUVusz95-jiRq_5TSrspU1mB9ftKzkKFEnsAaMBMhXMfRweCXxigjg13yYkWgBpmbf6V43IeCkikgP7CUdYBbuS9tP8I-gFo=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:00",
-      "evento": "Prove Libere (FP2)",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgaXLnXmkI2YfAJrARo5TLWrT0LAlXLzO0GZeq1VbxbIXqhJdUGkeh-Fc5H5BbifOnkn8dkLZ2h2qdtAI9W6svLqFS5TvDw77Q8tPHUVusz95-jiRq_5TSrspU1mB9ftKzkKFEnsAaMBMhXMfRweCXxigjg13yYkWgBpmbf6V43IeCkikgP7CUdYBbuS9tP8I-gFo=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:00*",
-      "evento": "Semifinale: Lorenzo Musetti (ITA) vs Taylor Fritz (USA)",
-      "competizione": "Tennis ATP 250 Stoccolma",
+      "orario": "14:00",
+      "evento": "1a Semifinale Tennis: ATP 250 Stoccolma",
+      "competizione": "ATP 250 Stoccolma",
       "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Non prima delle 17:00, terzo match del programma.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHxNjhHX27347eg9AQ_iQYwf_Wmz5luldggOOdedT080NJm6vSP29PrTemAmmhGltDsmiOL2LQFPwrULqdxANl-VutaPBhzdxGAt1j9Y3kiBGxMTU_-HJWmckhGTeR0_GmurQesoIzKgGOUuelJ-NXJP4emvSwkpv14PWNhOHIxZ7HNOcg5r4Rmw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIKBPwif019t4xnozN7CpVT2_wRDz69gB3OY6MlDEz3ZR9Ba4dbOwz8CjcMmtIWEI4TaM2R_FQ7bnGNCi5sZlp0_lGKiIs5Ok0ESsrVHwYzmCVvkYPIjZYWUgWBGlZqhhhO1UsYueG8Df8wosBv9KGjPMrKvjYclUVTm9zb1QX3Sy, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1meuPgb__tqxde1m3wsJKEO9JVrcJ58Oy2AY3Vv6AdmRuZOwL-ncPQ4dslGePy_A7AT00z2IGGXKmYR8pLJM4hoCG0s-uihR69-CSC4y6KQJkyMmL3UV8F2Rn2hvX8h-qgqNLXlmx9huFHUv-nRolVnq-vgeN5dji8R_91-9-UYlFbWH2Ez70Nw_q-rXev4hGDmkebu4I59mIh56lApXe76dHt9LqTpnjAK4ZUibL_ReXzyBlMVdAUTHHzth1KzpY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgzV62Tij9MDHFz2HqUxG2SnXGqATvgSMQ2NchQdawUccaiV3Wx6L4jrDy5JWC8KJ2d73-o8RzzkvnoCxtdDsXmU-bpKM4Vq2GwhSJhECHITgWDdZ6ePXstTMi2npPz4JR3aMXChCmDPHJ8PW6tPbZw7c, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEWbBZ9ydxQTCtfY2lSeRZKKXknzBguJSQiLKyETr-JNKltp-Imp9sk18guLJZ3zGm3tXOOwSN71jJPGqNgShHX8Nupr4F-VebwLQwLD3BNXb_KIR0Eq892MOZkshCc5MQBNMYIEFrmZPFXPVy57HLjykmOoKI2OrD4dwvULMXeYMsk8rPc0T_owNxCs3cWoikaV-9NBbEDGkc1eWsS5X9HrHJpL6V4qGJeD1bT5qreQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRss7YxBdNlbjZLeQk6xubis07Od7bKXmvzxNBwty9CfiUQ3NG-9yISWjesMK-CUf5FI4Op_AyOmLN1Y1N_wUk6V9eam5ilcM7HblK5HMZQQSZp648szfciWSU7r4UMrO1n4GEW7vFbkNCzXWOKOV3juP5VvC0Cp1vpkmYMP3ZMcOgtEIVMC2seDu44TJ0VuuHPI=",
-      "accuratezza_orario": "stimato"
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfsmP5P6dgW1awkrZDeruif7f5TWwklpQF1MTtSVoUxg6OeURpN2XxHnuTtLzyCuciwQznF-_fCmLMDgS8GG6fm2BF6JCbrrE-Pzjtnxu4bA5cK2xc1raFe5tHVuGw0nlyxRh48_tq079fcU2OnMPo8U0amzQjOfBWpBwiBYLp-KiLTvgw7PWyFIknfrgTBGirD6iu5QZT51xGb4BkCebeFmXyEyU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqJz3WIzZg1fwod5JVncAALThxhNU28U7NU9OjRdFRWF57j9b7Aizdd3d9YXhFO5OF_yfsLKEkq1RFofb5v7PeHd0QZG9m9ycW1JmselicbsdxFTZ0pPb6yHItIVjYduzpSqeJS4jbdHW8x42m4AtyQIFNmy9iflqbx8u6ikFsrr0DVdmOjDdBWsi8HT5BjhgyQNcm_ZCo5eFUswXWNCjrr67keAn7-WjDR44M54VvtuCQWnKP-WWKBjsBwK-OaUGX",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "17:00",
+      "evento": "2a Semifinale Tennis: ATP 250 Stoccolma (Musetti-Fritz)",
+      "competizione": "ATP 250 Stoccolma",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Con la partecipazione di Lorenzo Musetti.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfsmP5P6dgW1awkrZDeruif7f5TWwklpQF1MTtSVoUxg6OeURpN2XxHnuTtLzyCuciwQznF-_fCmLMDgS8GG6fm2BF6JCbrrE-Pzjtnxu4bA5cK2xc1raFe5tHVuGw0nlyxRh48_tq079fcU2OnMPo8U0amzQjOfBWpBwiBYLp-KiLTvgw7PWyFIknfrgTBGirD6iu5QZT51xGb4BkCebeFmXyEyU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzJb54Sbu0Nckl5iuvV_vaWx5Ew5Yvd3c6LuPxVJipaOr_p46u3V8JcAKw03u0c0L1COv7-JwYakr1CFprUy-SKBWNueYp8xUt1dSH0On6ewwDvmIRONsjE2R5ncVHFpoMI1HkX75YyLD1HwTYEP6Gnfwxah-Ecb7uimdQkQgnOyNCIjAzgrZsezO9GGJermTKDtvEVo9ryM1gvPD3Skjb2C9lCJneLIGIH_VgTO-v7Ku0P601qgmghpy-F6Rcw-BL9VICeHM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqJz3WIzZg1fwod5JVncAALThxhNU28U7NU9OjRdFRWF57j9b7Aizdd3d9YXhFO5OF_yfsLKEkq1RFofb5v7PeHd0QZG9m9ycW1JmselicbsdxFTZ0pPb6yHItIVjYduzpSqeJS4jbdHW8x42m4AtyQIFNmy9iflqbx8u6ikFsrr0DVdmOjDdBWsi8HT5BjhgyQNcm_ZCo5eFUswXWNCjrr67keAn7-WjDR44M54VvtuCQWnKP-WWKBjsBwK-OaUGX",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Moldavia - Kazakistan",
-      "competizione": "Calcio UEFA Nations League",
+      "competizione": "UEFA Nations League",
       "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnZtmQJjYVzbIa0CgUxpcb4rnXzmH44Jbj_Lk-d7isvfRHwLRWh9j2b5ZUwQfASOcETpxOl2F9lkFcbf_V6bqXkVRyq-PaL7J1VL9wz6y3ikr7jw8JOxjh0JDCrW6wCHy_-xs9wpHLUww1YdW2y3hOjndPfX2QpQlQS3IsR1LKfDQJw==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_1YucCXmukfeAmR_EQJ1z6x8k1y31Hq3cjvVLMjV9-xXeZobNKOzYWcRdShSiGtKNiAqUawHTW7o-xlRZdfI4eiyEdF6TO95aBgB5XxUSlDJlqo2Rb-iozKJSggCmrm3npPxJqw685RMsmyZOG8ANIFLR8abd0bAL4CIaVNQivHIcxo79Hc4ZsGJ_68j5EG9cpe-U-MSxE5NPBlB-YBPPAkX2Ng==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMgBK1pG2JSoQsU4eis42FO3W_ELkDXob1hpg9GeoiZ2v9VVTlw9iOboVijhDrMuXp1xwX71jsvGfsPyIBRn1F46ik1nQAD7D_rN_It4hIepEogzuTQVSWanzzaB7pMe11q-S1CaWEIv9IRgQWsC0kTLThLFUyMy_lTfZfIhpJv5IesbSkyUfobX7cuNuydJUwsGuS66aEWaXOc7wE3p97scQ0tH1boYelLwD428NDzBY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5oDWJO1EhNVdpWO01upbhZnsUK4BVCUq_vJLds74f5tc-RDKgchb-6jMG4BSRCSkbZSKou8FX1uizKNKiOQlQu55grgFNmwrDe20W5uLmCGnUOyFo8-B_XEFLrU35B2z3hKpxaQkakuMkSBCC20WFOEFkqe61EOgenkRnIilvpaTa3URCr71c00-X0IwJ9tRn4GBNDA7q2INSyzZYnfCJFj4XcJpg5A8ZYte_-SFC347Tr-AI0eIqz-JtY-DJ-g==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:30",
-      "evento": "Francia - Italia Under 21",
-      "competizione": "Calcio Amichevole Under 21",
-      "canale": "Rai 2",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnZtmQJjYVzbIa0CgUxpcb4rnXzmH44Jbj_Lk-d7isvfRHwLRWh9j2b5ZUwQfASOcETpxOl2F9lkFcbf_V6bqXkVRyq-PaL7J1VL9wz6y3ikr7jw8JOxjh0JDCrW6wCHy_-xs9wpHLUww1YdW2y3hOjndPfX2QpQlQS3IsR1LKfDQJw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsUP26NJUoz143x842hkexOdfDot8FW3VHb1lC1M756-7M7ntEdVJcR3-CtSXq3S597iXBaCA89_UA44AgHw9tTTPIfklOjxT8Zgqk4GHUUhYKONv1rnlbueGikbGa3CaCjblAxalqZc7rWBWRszcQi66Dn_pcOaQ3mhPhHk_q19R63m6dBbPGL07v-WiOuqkkDyWKe33B_nySwUbnx__S69OoLXyqNa-Y7i3eq2X5JTvpfB8o2pCG9o_NDQVPDg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ9V2IYRwn04ZgyuZmAUOBW9o7Kz4i79kLY4hdj0kf5mf5X6XVtm8cW3jN-2s5qNrDbIApgycubeSw1CBvRabc5DDYuONpH3Vs3nPtPG7DrcRpHRfe38ULvbtzZb4YD-Jy7_u35NzmF1X9fcEiPBPfasIVhPrSVrGQMX-QmSfs3HdpoBGXePGjvUXXBBysmBhjybnsjdQg82OSDQkVzXOKoQh8kulGnZ9M2rlBf-SKa5Q=",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:35",
-      "evento": "Diretta Gol UEFA Nations League",
-      "competizione": "Calcio UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnZtmQJjYVzbIa0CgUxpcb4rnXzmH44Jbj_Lk-d7isvfRHwLRWh9j2b5ZUwQfASOcETpxOl2F9lkFcbf_V6bqXkVRyq-PaL7J1VL9wz6y3ikr7jw8JOxjh0JDCrW6wCHy_-xs9wpHLUww1YdW2y3hOjndPfX2QpQlQS3IsR1LKfDQJw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHxNjhHX27347eg9AQ_iQYwf_Wmz5luldggOOdedT080NJm6vSP29PrTemAmmhGltDsmiOL2LQFPwrULqdxANl-VutaPBhzdxGAt1j9Y3kiBGxMTU_-HJWmckhGTeR0_GmurQesoIzKgGOUuelJ-NXJP4emvSwkpv14PWNhOHIxZ7HNOcg5r4Rmw",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:35",
+      "orario": "20:45",
       "evento": "Serbia - Germania",
-      "competizione": "Calcio UEFA Nations League",
+      "competizione": "UEFA Nations League",
       "canale": "Sky Sport Uno, Canale 20",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnZtmQJjYVzbIa0CgUxpcb4rnXzmH44Jbj_Lk-d7isvfRHwLRWh9j2b5ZUwQfASOcETpxOl2F9lkFcbf_V6bqXkVRyq-PaL7J1VL9wz6y3ikr7jw8JOxjh0JDCrW6wCHy_-xs9wpHLUww1YdW2y3hOjndPfX2QpQlQS3IsR1LKfDQJw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsUP26NJUoz143x842hkexOdfDot8FW3VHb1lC1M756-7M7ntEdVJcR3-CtSXq3S597iXBaCA89_UA44AgHw9tTTPIfklOjxT8Zgqk4GHUUhYKONv1rnlbueGikbGa3CaCjblAxalqZc7rWBWRszcQi66Dn_pcOaQ3mhPhHk_q19R63m6dBbPGL07v-WiOuqkkDyWKe33B_nySwUbnx__S69OoLXyqNa-Y7i3eq2X5JTvpfB8o2pCG9o_NDQVPDg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgzV62Tij9MDHFz2HqUxG2SnXGqATvgSMQ2NchQdawUccaiV3Wx6L4jrDy5JWC8KJ2d73-o8RzzkvnoCxtdDsXmU-bpKM4Vq2GwhSJhECHITgWDdZ6ePXstTMi2npPz4JR3aMXChCmDPHJ8PW6tPbZw7c",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfsmP5P6dgW1awkrZDeruif7f5TWwklpQF1MTtSVoUxg6OeURpN2XxHnuTtLzyCuciwQznF-_fCmLMDgS8GG6fm2BF6JCbrrE-Pzjtnxu4bA5cK2xc1raFe5tHVuGw0nlyxRh48_tq079fcU2OnMPo8U0amzQjOfBWpBwiBYLp-KiLTvgw7PWyFIknfrgTBGirD6iu5QZT51xGb4BkCebeFmXyEyU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_1YucCXmukfeAmR_EQJ1z6x8k1y31Hq3cjvVLMjV9-xXeZobNKOzYWcRdShSiGtKNiAqUawHTW7o-xlRZdfI4eiyEdF6TO95aBgB5XxUSlDJlqo2Rb-iozKJSggCmrm3npPxJqw685RMsmyZOG8ANIFLR8abd0bAL4CIaVNQivHIcxo79Hc4ZsGJ_68j5EG9cpe-U-MSxE5NPBlB-YBPPAkX2Ng==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMgBK1pG2JSoQsU4eis42FO3W_ELkDXob1hpg9GeoiZ2v9VVTlw9iOboVijhDrMuXp1xwX71jsvGfsPyIBRn1F46ik1nQAD7D_rN_It4hIepEogzuTQVSWanzzaB7pMe11q-S1CaWEIv9IRgQWsC0kTLThLFUyMy_lTfZfIhpJv5IesbSkyUfobX7cuNuydJUwsGuS66aEWaXOc7wE3p97scQ0tH1boYelLwD428NDzBY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5oDWJO1EhNVdpWO01upbhZnsUK4BVCUq_vJLds74f5tc-RDKgchb-6jMG4BSRCSkbZSKou8FX1uizKNKiOQlQu55grgFNmwrDe20W5uLmCGnUOyFo8-B_XEFLrU35B2z3hKpxaQkakuMkSBCC20WFOEFkqe61EOgenkRnIilvpaTa3URCr71c00-X0IwJ9tRn4GBNDA7q2INSyzZYnfCJFj4XcJpg5A8ZYte_-SFC347Tr-AI0eIqz-JtY-DJ-g==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSUqHFkGys4gWdXIEh3f7kLVHpdIBSTP6QTpZE5oi-458IknWzuFDgUHz2Nsv7s7D43BzbOMq1fCJZpXtXBy1OB-g6aZDoSuvFKaULqLp_yaAA9kFw0q9WkhRnbmQdE8Im9zqQTyQa0_THQQ1YrQUJrIfpyfWorrj56XBYEgYN6rMPYVgbMOpFIXy3CtFSddPkE6LkWIVoh2mbDOMaXg3eiq1eYkbI0uNwT_COeb_UjUMkVWnLyt4LfmD67pOtWKUF-mMtXV-AL5f6TZVIWXgGcKKNVChWFDrRkBLhNRJk7xCIV-P4FpSmMdRzwe2URHh_Ng9WIjk3bHQvQzSaFGy_oItJbDarSUE19ObVucHOITk43kwCKAjb8cqk5m2wWk9N1zsDtJVWcky2GZFLc3dIx5A=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUVmpEa2m74bJTrCCj74lT5w_7JdvY2uOOY7xx6GVFnDVhq-ip6RaNrkE3uKqMqJE9ZfP_6gWAudXwiMoUpus5KHbzLW_q46KNeWFX04vLLJgrTKnTfMfY3vCgC2OeYpcwDmbnhmAMU91ugxiNVPcEYoZGfJbZPY5R94Lf8qUVRQN_QbdiNW2KhZAtwHhtdyFAsQ0=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00*",
-      "evento": "Singolare Round Robin",
-      "competizione": "Tennis WTA Finals Indian Wells",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Seconda partita singolare, a seguire la prima. Nessun giocatore italiano in singolare.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgzV62Tij9MDHFz2HqUxG2SnXGqATvgSMQ2NchQdawUccaiV3Wx6L4jrDy5JWC8KJ2d73-o8RzzkvnoCxtdDsXmU-bpKM4Vq2GwhSJhECHITgWDdZ6ePXstTMi2npPz4JR3aMXChCmDPHJ8PW6tPbZw7c, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqclSkKiYcw8eZN_INKHRzZFpPux-Q8jWP8hUWiGHsJT04IQRcnxQ2ub8fECahERpB_5kJNX8fLrqvp35k71HlokadkUS5CIPnRdsjhE95Yfd4bzU_FWkVoS5R3JMqids9v6ZHpTBq-BRL7APklS02xn1_qzo05eplNU9csswnNXBayI1Ahfe67Dc=",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "01:00",
-      "evento": "Doppio Round Robin",
-      "competizione": "Tennis WTA Finals Indian Wells",
-      "canale": "Sky Sport Tennis",
-      "note": "Nella notte tra venerdì e sabato. Nessun giocatore italiano specificato per questo slot.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA",
+      "orario": "20:45",
+      "evento": "Diretta Gol UEFA Nations League",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Include highlights e collegamenti da diversi campi.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfsmP5P6dgW1awkrZDeruif7f5TWwklpQF1MTtSVoUxg6OeURpN2XxHnuTtLzyCuciwQznF-_fCmLMDgS8GG6fm2BF6JCbrrE-Pzjtnxu4bA5cK2xc1raFe5tHVuGw0nlyxRh48_tq079fcU2OnMPo8U0amzQjOfBWpBwiBYLp-KiLTvgw7PWyFIknfrgTBGirD6iu5QZT51xGb4BkCebeFmXyEyU=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_1YucCXmukfeAmR_EQJ1z6x8k1y31Hq3cjvVLMjV9-xXeZobNKOzYWcRdShSiGtKNiAqUawHTW7o-xlRZdfI4eiyEdF6TO95aBgB5XxUSlDJlqo2Rb-iozKJSggCmrm3npPxJqw685RMsmyZOG8ANIFLR8abd0bAL4CIaVNQivHIcxo79Hc4ZsGJ_68j5EG9cpe-U-MSxE5NPBlB-YBPPAkX2Ng==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:15",
-      "evento": "Doppio Round Robin",
-      "competizione": "Tennis WTA Finals Indian Wells",
-      "canale": "SuperTennis",
-      "note": "Nella notte tra venerdì e sabato. Nessun giocatore italiano specificato per questo slot.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Singolare Round Robin",
-      "competizione": "Tennis WTA Finals Indian Wells",
-      "canale": "Sky Sport Uno",
-      "note": "Nella notte tra venerdì e sabato. Repliche delle sessioni precedenti o match in corso per il fuso orario americano. Nessun giocatore italiano specificato.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgzV62Tij9MDHFz2HqUxG2SnXGqATvgSMQ2NchQdawUccaiV3Wx6L4jrDy5JWC8KJ2d73-o8RzzkvnoCxtdDsXmU-bpKM4Vq2GwhSJhECHITgWDdZ6ePXstTMi2npPz4JR3aMXChCmDPHJ8PW6tPbZw7c",
+      "orario": "01:45",
+      "evento": "Francia U21 - Italia U21",
+      "competizione": "Amichevole Nazionale Under 21 maschile",
+      "canale": "Rai Sport HD",
+      "note": "Orario notturno del 14 novembre.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAzkdVgfqUodYFRh8E_fw6ahYATs6GI66R7ajfVaZrV56Iqy1wpryS4ZdHL8H9elRLYxM2NAaXafJ4XOlDFOTVDr02bNcHkxZx4yxTn4njHry3YCNmZu6h7cg9GpBEKvr-tCRoxEQ=",
       "accuratezza_orario": "esatto"
     }
   ]
