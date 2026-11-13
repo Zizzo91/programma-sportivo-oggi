@@ -1,112 +1,103 @@
 {
-  "last_updated": "2026-11-13T04:56:08.341520+01:00",
+  "last_updated": "2026-11-13T14:34:15.847557+01:00",
   "events": [
     {
-      "orario": "00:00",
-      "evento": "Eurolega 2026/2027: Armani Olimpia Milano - Zalgiris Kaunas",
-      "competizione": "Eurolega",
-      "canale": "Sky Sport Arena",
-      "note": "Replica",
-      "fonte": "Sport Notte - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "01:45",
-      "evento": "Amichevole: Francia - Italia Under 21",
-      "competizione": "Calcio Internazionale",
-      "canale": "Raisport HD",
-      "note": "Replica",
-      "fonte": "Sport Notte - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "United Rugby Championship 2026/2027: Dragons - Zebre Parma",
-      "competizione": "United Rugby Championship",
-      "canale": "Sky Sport Arena",
-      "note": "Replica",
-      "fonte": "Sport Notte - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Eurocup 2025/2026: Dolomiti Energia Trento - Tofas",
-      "competizione": "Eurocup",
-      "canale": "Sky Sport Arena",
-      "note": "Replica",
-      "fonte": "Sport Notte - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "08:00",
-      "evento": "Eurolega 2026/2027: Armani Olimpia Milano - Zalgiris Kaunas",
-      "competizione": "Eurolega",
-      "canale": "Sky Sport Uno",
+      "orario": "11:45",
+      "evento": "Prove Libere 1",
+      "competizione": "MotoGP GP Portogallo",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "WTA Finals 2026 su Sky Sport Uno - Guida TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgaXLnXmkI2YfAJrARo5TLWrT0LAlXLzO0GZeq1VbxbIXqhJdUGkeh-Fc5H5BbifOnkn8dkLZ2h2qdtAI9W6svLqFS5TvDw77Q8tPHUVusz95-jiRq_5TSrspU1mB9ftKzkKFEnsAaMBMhXMfRweCXxigjg13yYkWgBpmbf6V43IeCkikgP7CUdYBbuS9tP8I-gFo=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:29",
-      "evento": "Giochi Olimpici Giovanili Dakar 2026: Breaking Quarti di finale Bboy (Leonardo Casula)",
-      "competizione": "Olimpiadi Giovanili",
-      "canale": "Non specificato, likely streaming o canali olimpici",
-      "note": "Partecipazione italiana",
-      "fonte": "Giochi Olimpici Giovanili Dakar 2026: italiani in gara oggi, venerdì 13 novembre",
+      "orario": "16:00",
+      "evento": "Prove Libere (FP2)",
+      "competizione": "MotoGP GP Portogallo",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgaXLnXmkI2YfAJrARo5TLWrT0LAlXLzO0GZeq1VbxbIXqhJdUGkeh-Fc5H5BbifOnkn8dkLZ2h2qdtAI9W6svLqFS5TvDw77Q8tPHUVusz95-jiRq_5TSrspU1mB9ftKzkKFEnsAaMBMhXMfRweCXxigjg13yYkWgBpmbf6V43IeCkikgP7CUdYBbuS9tP8I-gFo=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "12:15",
-      "evento": "Giochi Olimpici Giovanili Dakar 2026: Breaking Semifinali Bboy (ev. Leonardo Casula)",
-      "competizione": "Olimpiadi Giovanili",
-      "canale": "Non specificato, likely streaming o canali olimpici",
-      "note": "Eventuale partecipazione italiana",
-      "fonte": "Giochi Olimpici Giovanili Dakar 2026: italiani in gara oggi, venerdì 13 novembre",
+      "orario": "17:00*",
+      "evento": "Semifinale: Lorenzo Musetti (ITA) vs Taylor Fritz (USA)",
+      "competizione": "Tennis ATP 250 Stoccolma",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Non prima delle 17:00, terzo match del programma.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHxNjhHX27347eg9AQ_iQYwf_Wmz5luldggOOdedT080NJm6vSP29PrTemAmmhGltDsmiOL2LQFPwrULqdxANl-VutaPBhzdxGAt1j9Y3kiBGxMTU_-HJWmckhGTeR0_GmurQesoIzKgGOUuelJ-NXJP4emvSwkpv14PWNhOHIxZ7HNOcg5r4Rmw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIKBPwif019t4xnozN7CpVT2_wRDz69gB3OY6MlDEz3ZR9Ba4dbOwz8CjcMmtIWEI4TaM2R_FQ7bnGNCi5sZlp0_lGKiIs5Ok0ESsrVHwYzmCVvkYPIjZYWUgWBGlZqhhhO1UsYueG8Df8wosBv9KGjPMrKvjYclUVTm9zb1QX3Sy, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1meuPgb__tqxde1m3wsJKEO9JVrcJ58Oy2AY3Vv6AdmRuZOwL-ncPQ4dslGePy_A7AT00z2IGGXKmYR8pLJM4hoCG0s-uihR69-CSC4y6KQJkyMmL3UV8F2Rn2hvX8h-qgqNLXlmx9huFHUv-nRolVnq-vgeN5dji8R_91-9-UYlFbWH2Ez70Nw_q-rXev4hGDmkebu4I59mIh56lApXe76dHt9LqTpnjAK4ZUibL_ReXzyBlMVdAUTHHzth1KzpY, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgzV62Tij9MDHFz2HqUxG2SnXGqATvgSMQ2NchQdawUccaiV3Wx6L4jrDy5JWC8KJ2d73-o8RzzkvnoCxtdDsXmU-bpKM4Vq2GwhSJhECHITgWDdZ6ePXstTMi2npPz4JR3aMXChCmDPHJ8PW6tPbZw7c, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEWbBZ9ydxQTCtfY2lSeRZKKXknzBguJSQiLKyETr-JNKltp-Imp9sk18guLJZ3zGm3tXOOwSN71jJPGqNgShHX8Nupr4F-VebwLQwLD3BNXb_KIR0Eq892MOZkshCc5MQBNMYIEFrmZPFXPVy57HLjykmOoKI2OrD4dwvULMXeYMsk8rPc0T_owNxCs3cWoikaV-9NBbEDGkc1eWsS5X9HrHJpL6V4qGJeD1bT5qreQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRss7YxBdNlbjZLeQk6xubis07Od7bKXmvzxNBwty9CfiUQ3NG-9yISWjesMK-CUf5FI4Op_AyOmLN1Y1N_wUk6V9eam5ilcM7HblK5HMZQQSZp648szfciWSU7r4UMrO1n4GEW7vFbkNCzXWOKOV3juP5VvC0Cp1vpkmYMP3ZMcOgtEIVMC2seDu44TJ0VuuHPI=",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "18:00",
-      "evento": "UEFA Nations League: Moldavia - Kazakistan",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio, NOW",
+      "evento": "Moldavia - Kazakistan",
+      "competizione": "Calcio UEFA Nations League",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "Calcio in tv oggi, 13 novembre 2026: Nations League e Serie C in primo piano",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnZtmQJjYVzbIa0CgUxpcb4rnXzmH44Jbj_Lk-d7isvfRHwLRWh9j2b5ZUwQfASOcETpxOl2F9lkFcbf_V6bqXkVRyq-PaL7J1VL9wz6y3ikr7jw8JOxjh0JDCrW6wCHy_-xs9wpHLUww1YdW2y3hOjndPfX2QpQlQS3IsR1LKfDQJw==",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:30",
-      "evento": "Amichevole: Francia - Italia Under 21",
-      "competizione": "Calcio Internazionale",
-      "canale": "Non specificato, Calciomagazine menziona l'evento",
+      "evento": "Francia - Italia Under 21",
+      "competizione": "Calcio Amichevole Under 21",
+      "canale": "Rai 2",
       "note": "",
-      "fonte": "Calcio in tv oggi, 13 novembre 2026: Nations League e Serie C in primo piano",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnZtmQJjYVzbIa0CgUxpcb4rnXzmH44Jbj_Lk-d7isvfRHwLRWh9j2b5ZUwQfASOcETpxOl2F9lkFcbf_V6bqXkVRyq-PaL7J1VL9wz6y3ikr7jw8JOxjh0JDCrW6wCHy_-xs9wpHLUww1YdW2y3hOjndPfX2QpQlQS3IsR1LKfDQJw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsUP26NJUoz143x842hkexOdfDot8FW3VHb1lC1M756-7M7ntEdVJcR3-CtSXq3S597iXBaCA89_UA44AgHw9tTTPIfklOjxT8Zgqk4GHUUhYKONv1rnlbueGikbGa3CaCjblAxalqZc7rWBWRszcQi66Dn_pcOaQ3mhPhHk_q19R63m6dBbPGL07v-WiOuqkkDyWKe33B_nySwUbnx__S69OoLXyqNa-Y7i3eq2X5JTvpfB8o2pCG9o_NDQVPDg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ9V2IYRwn04ZgyuZmAUOBW9o7Kz4i79kLY4hdj0kf5mf5X6XVtm8cW3jN-2s5qNrDbIApgycubeSw1CBvRabc5DDYuONpH3Vs3nPtPG7DrcRpHRfe38ULvbtzZb4YD-Jy7_u35NzmF1X9fcEiPBPfasIVhPrSVrGQMX-QmSfs3HdpoBGXePGjvUXXBBysmBhjybnsjdQg82OSDQkVzXOKoQh8kulGnZ9M2rlBf-SKa5Q=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:15",
-      "evento": "Giochi Olimpici Giovanili Dakar 2026: Cerimonia di Chiusura",
-      "competizione": "Olimpiadi Giovanili",
-      "canale": "Raisport HD",
+      "orario": "20:35",
+      "evento": "Diretta Gol UEFA Nations League",
+      "competizione": "Calcio UEFA Nations League",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "Sport Sera - Guida TV",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnZtmQJjYVzbIa0CgUxpcb4rnXzmH44Jbj_Lk-d7isvfRHwLRWh9j2b5ZUwQfASOcETpxOl2F9lkFcbf_V6bqXkVRyq-PaL7J1VL9wz6y3ikr7jw8JOxjh0JDCrW6wCHy_-xs9wpHLUww1YdW2y3hOjndPfX2QpQlQS3IsR1LKfDQJw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHxNjhHX27347eg9AQ_iQYwf_Wmz5luldggOOdedT080NJm6vSP29PrTemAmmhGltDsmiOL2LQFPwrULqdxANl-VutaPBhzdxGAt1j9Y3kiBGxMTU_-HJWmckhGTeR0_GmurQesoIzKgGOUuelJ-NXJP4emvSwkpv14PWNhOHIxZ7HNOcg5r4Rmw",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30",
-      "evento": "Eurolega 2026/2027: Anadolu Efes Spor Kulubu - Virtus Bologna",
-      "competizione": "Eurolega",
+      "orario": "20:35",
+      "evento": "Serbia - Germania",
+      "competizione": "Calcio UEFA Nations League",
+      "canale": "Sky Sport Uno, Canale 20",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnZtmQJjYVzbIa0CgUxpcb4rnXzmH44Jbj_Lk-d7isvfRHwLRWh9j2b5ZUwQfASOcETpxOl2F9lkFcbf_V6bqXkVRyq-PaL7J1VL9wz6y3ikr7jw8JOxjh0JDCrW6wCHy_-xs9wpHLUww1YdW2y3hOjndPfX2QpQlQS3IsR1LKfDQJw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsUP26NJUoz143x842hkexOdfDot8FW3VHb1lC1M756-7M7ntEdVJcR3-CtSXq3S597iXBaCA89_UA44AgHw9tTTPIfklOjxT8Zgqk4GHUUhYKONv1rnlbueGikbGa3CaCjblAxalqZc7rWBWRszcQi66Dn_pcOaQ3mhPhHk_q19R63m6dBbPGL07v-WiOuqkkDyWKe33B_nySwUbnx__S69OoLXyqNa-Y7i3eq2X5JTvpfB8o2pCG9o_NDQVPDg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgzV62Tij9MDHFz2HqUxG2SnXGqATvgSMQ2NchQdawUccaiV3Wx6L4jrDy5JWC8KJ2d73-o8RzzkvnoCxtdDsXmU-bpKM4Vq2GwhSJhECHITgWDdZ6ePXstTMi2npPz4JR3aMXChCmDPHJ8PW6tPbZw7c",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00*",
+      "evento": "Singolare Round Robin",
+      "competizione": "Tennis WTA Finals Indian Wells",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Seconda partita singolare, a seguire la prima. Nessun giocatore italiano in singolare.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgzV62Tij9MDHFz2HqUxG2SnXGqATvgSMQ2NchQdawUccaiV3Wx6L4jrDy5JWC8KJ2d73-o8RzzkvnoCxtdDsXmU-bpKM4Vq2GwhSJhECHITgWDdZ6ePXstTMi2npPz4JR3aMXChCmDPHJ8PW6tPbZw7c, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqclSkKiYcw8eZN_INKHRzZFpPux-Q8jWP8hUWiGHsJT04IQRcnxQ2ub8fECahERpB_5kJNX8fLrqvp35k71HlokadkUS5CIPnRdsjhE95Yfd4bzU_FWkVoS5R3JMqids9v6ZHpTBq-BRL7APklS02xn1_qzo05eplNU9csswnNXBayI1Ahfe67Dc=",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "01:00",
+      "evento": "Doppio Round Robin",
+      "competizione": "Tennis WTA Finals Indian Wells",
+      "canale": "Sky Sport Tennis",
+      "note": "Nella notte tra venerdì e sabato. Nessun giocatore italiano specificato per questo slot.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:15",
+      "evento": "Doppio Round Robin",
+      "competizione": "Tennis WTA Finals Indian Wells",
+      "canale": "SuperTennis",
+      "note": "Nella notte tra venerdì e sabato. Nessun giocatore italiano specificato per questo slot.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fDCOJTFXiVnHNAONngQeo5qUgXOR7RPfsH0CflV3raPl7KooM8rmMprf7R3642nX-ZhzCCnx1Y-yBP0WjbbI-X-TSVqKNQn1lYxdk6-VUv9g_0vPJiUpfTAFyMIBrOogxyJDLIeLb714w8EkVFHrqGxAG0Y10QCC_ZzCv-M9IdZNFRPM5g7wEeXe3jeNT6e6RdMmtkkdgdZwjF5PIs-KYJ1IvLA",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00",
+      "evento": "Singolare Round Robin",
+      "competizione": "Tennis WTA Finals Indian Wells",
       "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "WTA Finals 2026 su Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "UEFA Nations League: Serbia - Germania",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Uno, NOW",
-      "note": "Diretta Gol su Sky Sport Calcio",
-      "fonte": "Calcio in tv oggi, 13 novembre 2026: Nations League e Serie C in primo piano, WTA Finals 2026 su Sky Sport Uno - Guida TV, Sky Sport Uno Stasera: Programmi Prima Serata - Guida TV, Sport Sera - Guida TV",
+      "note": "Nella notte tra venerdì e sabato. Repliche delle sessioni precedenti o match in corso per il fuso orario americano. Nessun giocatore italiano specificato.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgzV62Tij9MDHFz2HqUxG2SnXGqATvgSMQ2NchQdawUccaiV3Wx6L4jrDy5JWC8KJ2d73-o8RzzkvnoCxtdDsXmU-bpKM4Vq2GwhSJhECHITgWDdZ6ePXstTMi2npPz4JR3aMXChCmDPHJ8PW6tPbZw7c",
       "accuratezza_orario": "esatto"
     }
   ]
