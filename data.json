@@ -1,131 +1,104 @@
 {
-  "last_updated": "2026-11-14T13:39:45.271530+01:00",
+  "last_updated": "2026-11-14T22:46:31.677259+01:00",
   "events": [
     {
-      "orario": "10:00",
-      "evento": "Coppa del Mondo Slalom Femminile - 1a manche",
-      "competizione": "Sci Alpino Coppa del Mondo",
-      "canale": "Rai 2, Eurosport",
-      "note": "Con Federica Brignone o Sofia Goggia",
-      "fonte": "NeveItalia, Virgilio, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "12:30",
-      "evento": "Napoli - Milan",
-      "competizione": "Calcio Femminile Serie A",
+      "evento": "Napoli Women - Milan",
+      "competizione": "Serie A Femminile",
       "canale": "DAZN",
       "note": "",
-      "fonte": "Calciomagazine, CronacaPop, Sportface",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:00",
-      "evento": "Coppa del Mondo Slalom Femminile - 2a manche",
-      "competizione": "Sci Alpino Coppa del Mondo",
-      "canale": "Rai Sport, Eurosport",
-      "note": "Con Federica Brignone o Sofia Goggia",
-      "fonte": "NeveItalia, Virgilio, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:30*",
-      "evento": "Speciale Nitto ATP Finals",
-      "competizione": "Tennis ATP Finals",
-      "canale": "Italia 1",
-      "note": "A seguire di SportMediaset; presentazione e analisi dei protagonisti",
-      "fonte": "Agenzia Dire, Qui Mediaset, Agenzia Dire",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Kosovo - Israele",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Max, NOW",
-      "note": "",
-      "fonte": "CronacaPop, Sportface, Sky Sport",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
       "evento": "Roma - Parma",
-      "competizione": "Calcio Femminile Serie A",
+      "competizione": "Serie A Femminile",
       "canale": "DAZN",
       "note": "",
-      "fonte": "CronacaPop",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:45",
-      "evento": "Grand Opening Show Nitto ATP Finals",
-      "competizione": "Tennis ATP Finals",
-      "canale": "Italia 1",
-      "note": "Evento inaugurale con Max Giusti e Achille Lauro",
-      "fonte": "Agenzia Dire, Qui Mediaset, Agenzia Dire",
+      "orario": "15:00",
+      "evento": "Kosovo - Israele",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Max",
+      "note": "",
+      "fonte": "vertexaisearch.cloud.google.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Italia - Ucraina",
+      "competizione": "Qualificazioni Europei Under 19",
+      "canale": "RaiPlay Sport 1",
+      "note": "",
+      "fonte": "vertexaisearch.cloud.google.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Fiorentina - Lazio",
+      "competizione": "Serie A Femminile",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Norvegia - Galles",
       "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Max, NOW",
+      "canale": "Sky Sport Max",
       "note": "",
-      "fonte": "CronacaPop, Sportface, Sky Sport",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
       "evento": "Georgia - Ungheria",
       "competizione": "UEFA Nations League",
-      "canale": "Sky Sport 255, NOW",
+      "canale": "Sky Sport 255",
       "note": "",
-      "fonte": "Sportface, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Fiorentina - Lazio",
-      "competizione": "Calcio Femminile Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "CronacaPop, Sportface",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "19:45",
-      "evento": "Torino Tennis Talks",
-      "competizione": "Tennis ATP Finals",
-      "canale": "Sky Sport Tennis",
-      "note": "Nuovo vodcast quotidiano di Sky Sport con Alessandro Del Piero",
-      "fonte": "Sky Sport, Sportface.it",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Portogallo - Danimarca",
       "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Uno, NOW, TV8",
+      "canale": "Sky Sport Uno, TV8",
       "note": "",
-      "fonte": "Sportface, Il Calcio in TV, Sky Sport, Onefootball, Napoli Magazine, Programmi TV",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Diretta Gol Nations League (Irlanda del Nord-Ucraina, Austria-Irlanda, Romania-Polonia, Svezia-Bosnia Erzegovina)",
+      "evento": "Diretta Gol",
       "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "Sky Sport",
+      "canale": "Sky Sport Calcio",
+      "note": "Include Irlanda del Nord-Ucraina, Austria-Irlanda, Romania-Polonia, Svezia-Bosnia ed Erzegovina",
+      "fonte": "vertexaisearch.cloud.google.com",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "WTA Finals Indian Wells - Semifinali Doppio",
-      "competizione": "Tennis WTA Finals",
-      "canale": "SuperTennis, Sky Sport Tennis (dalle 23:00 anche su Sky Sport Uno)",
-      "note": "Errani/Paolini vs Guo/Mladenovic (quarto match del programma)",
-      "fonte": "CronacaPop, Sportface, Programmi TV, Sport in TV",
-      "accuratezza_orario": "esatto"
+      "orario": "01:00*",
+      "evento": "1a Semifinale Doppio WTA Finals Indian Wells",
+      "competizione": "Tennis - WTA Finals Indian Wells",
+      "canale": "Sky Sport Tennis, SuperTennis",
+      "note": "Include match con Sara Errani e Jasmine Paolini (quarto match del programma). L'orario è stimato in base all'inizio delle semifinali singolari e al fatto che il doppio con italiane è il quarto match. Il secondo doppio è alle 03:00*.",
+      "fonte": "vertexaisearch.cloud.google.com",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "03:00*",
+      "evento": "2a Semifinale Doppio WTA Finals Indian Wells",
+      "competizione": "Tennis - WTA Finals Indian Wells",
+      "canale": "Sky Sport Tennis",
+      "note": "L'orario è stimato in base all'inizio delle semifinali singolari e al fatto che il doppio con italiane è il quarto match. La prima semifinale doppio è alle 01:00*.",
+      "fonte": "vertexaisearch.cloud.google.com",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
