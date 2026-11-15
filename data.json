@@ -1,104 +1,77 @@
 {
-  "last_updated": "2026-11-14T22:46:31.677259+01:00",
+  "last_updated": "2026-11-15T14:05:38.856447+01:00",
   "events": [
     {
-      "orario": "12:30",
-      "evento": "Napoli Women - Milan",
-      "competizione": "Serie A Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "vertexaisearch.cloud.google.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Roma - Parma",
-      "competizione": "Serie A Femminile",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "vertexaisearch.cloud.google.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Kosovo - Israele",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Max",
-      "note": "",
-      "fonte": "vertexaisearch.cloud.google.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:30",
-      "evento": "Italia - Ucraina",
-      "competizione": "Qualificazioni Europei Under 19",
-      "canale": "RaiPlay Sport 1",
-      "note": "",
-      "fonte": "vertexaisearch.cloud.google.com",
+      "orario": "14:30",
+      "evento": "Reggina - Sambiase",
+      "competizione": "Serie D, Girone I",
+      "canale": "Piattaforma ufficiale Reggina (streaming)",
+      "note": "12ª giornata",
+      "fonte": "https://www.calciomagazine.net/diretta-reggina-sambiase-formazioni-tabellino-dove-vederla-tv-streaming-domenica-15-novembre-2026",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Fiorentina - Lazio",
-      "competizione": "Serie A Femminile",
+      "evento": "Granda Volley Cuneo - Numia Vero Volley Milano",
+      "competizione": "Volley Femminile - Serie A1 Fineco",
       "canale": "DAZN",
-      "note": "",
-      "fonte": "vertexaisearch.cloud.google.com",
+      "note": "9ª giornata di andata",
+      "fonte": "https://www.volleyball.it/tutta-la-pallavolo-del-weekend-14-15-novembre-in-tv-e-streaming-la-guida-completa/; https://www.verovolley.com/a1-femminile/",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Norvegia - Galles",
+      "orario": "20:30",
+      "evento": "Belgio - Italia",
       "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Max",
-      "note": "",
-      "fonte": "vertexaisearch.cloud.google.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Georgia - Ungheria",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport 255",
-      "note": "",
-      "fonte": "vertexaisearch.cloud.google.com",
+      "canale": "Rai 1",
+      "note": "Partita Italia",
+      "fonte": "https://www.programmitv.com/programmi-tv-sport-oggi-domenica-15-novembre-2026/",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Portogallo - Danimarca",
+      "evento": "Siniakova/Townsend - Errani/Paolini",
+      "competizione": "WTA Finals - Doppio Finale",
+      "canale": "SuperTennis, Sky Sport",
+      "note": "Finale con giocatrici italiane",
+      "fonte": "https://www.livetennis.it/post/191754/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-15-novembre-2026/; https://www.dazn.com/it-IT/news/tennis/quando-giocano-gli-italiani-alle-atp-finals/w368i071t3s1d1x1l0j3yq9144t4v",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Francia - Turchia",
       "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Uno, TV8",
+      "canale": "Sky Sport Max",
       "note": "",
-      "fonte": "vertexaisearch.cloud.google.com",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-15-novembre-dove-vederle-tv-streaming",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Diretta Gol",
+      "evento": "Spagna - Inghilterra",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Mix, Sky Sport 251",
+      "note": "",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-15-novembre-dove-vederle-tv-streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Diretta Gol (include Croazia-Repubblica Ceca)",
       "competizione": "UEFA Nations League",
       "canale": "Sky Sport Calcio",
-      "note": "Include Irlanda del Nord-Ucraina, Austria-Irlanda, Romania-Polonia, Svezia-Bosnia ed Erzegovina",
-      "fonte": "vertexaisearch.cloud.google.com",
+      "note": "",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-15-novembre-dove-vederle-tv-streaming",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00*",
-      "evento": "1a Semifinale Doppio WTA Finals Indian Wells",
-      "competizione": "Tennis - WTA Finals Indian Wells",
-      "canale": "Sky Sport Tennis, SuperTennis",
-      "note": "Include match con Sara Errani e Jasmine Paolini (quarto match del programma). L'orario è stimato in base all'inizio delle semifinali singolari e al fatto che il doppio con italiane è il quarto match. Il secondo doppio è alle 03:00*.",
-      "fonte": "vertexaisearch.cloud.google.com",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "03:00*",
-      "evento": "2a Semifinale Doppio WTA Finals Indian Wells",
-      "competizione": "Tennis - WTA Finals Indian Wells",
-      "canale": "Sky Sport Tennis",
-      "note": "L'orario è stimato in base all'inizio delle semifinali singolari e al fatto che il doppio con italiane è il quarto match. La prima semifinale doppio è alle 01:00*.",
-      "fonte": "vertexaisearch.cloud.google.com",
-      "accuratezza_orario": "stimato"
+      "orario": "00:00",
+      "evento": "Belgio - Italia",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Differita",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-15-novembre-dove-vederle-tv-streaming",
+      "accuratezza_orario": "esatto"
     }
   ]
 }
