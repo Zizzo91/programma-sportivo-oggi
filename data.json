@@ -1,13 +1,76 @@
 {
-  "last_updated": "2026-11-15T14:05:38.856447+01:00",
+  "last_updated": "2026-11-15T23:13:49.414034+01:00",
   "events": [
     {
+      "orario": "12:55",
+      "evento": "Slalom Gigante (1a e 2a manche)",
+      "competizione": "Sci Alpino - Coppa del Mondo Levi",
+      "canale": "Rai Sport HD",
+      "note": "Partecipazione di Federica Brignone o Sofia Goggia probabile in caso di competizione femminile.",
+      "fonte": "https://tivu.tv/palinsesto-rai-sport-hd",
+      "accuratezza_orario": "esatto"
+    },
+    {
       "orario": "14:30",
-      "evento": "Reggina - Sambiase",
-      "competizione": "Serie D, Girone I",
-      "canale": "Piattaforma ufficiale Reggina (streaming)",
-      "note": "12ª giornata",
-      "fonte": "https://www.calciomagazine.net/diretta-reggina-sambiase-formazioni-tabellino-dove-vederla-tv-streaming-domenica-15-novembre-2026",
+      "evento": "Reggina 1914 - ASD Sambiase 2023",
+      "competizione": "Calcio - Serie D Girone I",
+      "canale": null,
+      "note": "Partita di campionato.",
+      "fonte": "https://www.calciomagazine.net/diretta-reggina-sambiase-domenica-15-novembre-2026-621873.html, https://www.transfermarkt.it/reggina-1914-vs-asd-sambiase-2023/index/spielbericht/4728551",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Cipro - Montenegro",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "Sky Sport Max",
+      "note": "Telecronaca Luca Pellegrini.",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Lettonia - Armenia",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "Sky Sport 257",
+      "note": "Telecronaca Matteo Migliori.",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Como 1907 - Como Women",
+      "competizione": "Calcio - Serie A Women",
+      "canale": "DAZN",
+      "note": "Derby di campionato femminile.",
+      "fonte": "https://www.figc.it/news/date-e-orari-dalla-7-alla-9-giornata-domenica-15-novembre-il-derby-di-como-e-inter-juventus/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:30",
+      "evento": "Inter - Juventus",
+      "competizione": "Calcio - Serie A Women",
+      "canale": "DAZN, Rai Sport, RaiPlay",
+      "note": "Partita di campionato femminile.",
+      "fonte": "https://www.figc.it/news/date-e-orari-dalla-7-alla-9-giornata-domenica-15-novembre-il-derby-di-como-e-inter-juventus/",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Bielorussia - Albania",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "Sky Sport Max",
+      "note": "Telecronaca Giovanni Cristiano.",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Finlandia - San Marino",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "Sky Sport 257",
+      "note": "Telecronaca Andrea Voria.",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
       "accuratezza_orario": "esatto"
     },
     {
@@ -15,62 +78,53 @@
       "evento": "Granda Volley Cuneo - Numia Vero Volley Milano",
       "competizione": "Volley Femminile - Serie A1 Fineco",
       "canale": "DAZN",
-      "note": "9ª giornata di andata",
-      "fonte": "https://www.volleyball.it/tutta-la-pallavolo-del-weekend-14-15-novembre-in-tv-e-streaming-la-guida-completa/; https://www.verovolley.com/a1-femminile/",
+      "note": "Partita di campionato femminile.",
+      "fonte": "https://www.legavolleyfemminile.it/a1-femminile/, https://www.volleynews.it/tutta-la-pallavolo-del-weekend-14-15-novembre-in-tv-e-streaming-la-guida-completa/",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Belgio - Italia",
-      "competizione": "UEFA Nations League",
-      "canale": "Rai 1",
-      "note": "Partita Italia",
-      "fonte": "https://www.programmitv.com/programmi-tv-sport-oggi-domenica-15-novembre-2026/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Siniakova/Townsend - Errani/Paolini",
-      "competizione": "WTA Finals - Doppio Finale",
-      "canale": "SuperTennis, Sky Sport",
-      "note": "Finale con giocatrici italiane",
-      "fonte": "https://www.livetennis.it/post/191754/italiani-in-campo-atp-wta-challenger-i-risultati-completi-con-il-dettaglio-del-15-novembre-2026/; https://www.dazn.com/it-IT/news/tennis/quando-giocano-gli-italiani-alle-atp-finals/w368i071t3s1d1x1l0j3yq9144t4v",
-      "accuratezza_orario": "stimato"
     },
     {
       "orario": "20:45",
       "evento": "Francia - Turchia",
-      "competizione": "UEFA Nations League",
+      "competizione": "Calcio - UEFA Nations League",
       "canale": "Sky Sport Max",
-      "note": "",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-15-novembre-dove-vederle-tv-streaming",
+      "note": "Telecronaca Matteo Marceddu, Diretta Gol Daniele Barone.",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
       "evento": "Spagna - Inghilterra",
-      "competizione": "UEFA Nations League",
+      "competizione": "Calcio - UEFA Nations League",
       "canale": "Sky Sport Mix, Sky Sport 251",
-      "note": "",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-15-novembre-dove-vederle-tv-streaming",
+      "note": "Telecronaca Stefano Borghi, Diretta Gol Filippo Benincampi.",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Diretta Gol (include Croazia-Repubblica Ceca)",
-      "competizione": "UEFA Nations League",
+      "evento": "Diretta Gol (Croazia - Repubblica Ceca)",
+      "competizione": "Calcio - UEFA Nations League",
       "canale": "Sky Sport Calcio",
-      "note": "",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-15-novembre-dove-vederle-tv-streaming",
+      "note": "Menzione della partita in Diretta Gol.",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "23:00",
+      "evento": "Siniakova/Townsend - Errani/Paolini (Finale Doppio)",
+      "competizione": "Tennis - WTA Finals Indian Wells",
+      "canale": "Sky Sport Arena, Sky Sport Tennis, SuperTennis",
+      "note": "Finale doppio femminile con giocatrici italiane.",
+      "fonte": "https://sport.sky.it/tennis/2026/11/08/wta-finals-2026-programma-orari-tv, https://www.lottomatica.sport/news/tennis/wta-finals-indian-wells-2026-programma-e-orari-di-domenica-15-novembre-quando-errani-e-paolini-giocano-la-finale",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "00:00",
-      "evento": "Belgio - Italia",
-      "competizione": "UEFA Nations League",
+      "evento": "Belgio - Italia (Differita)",
+      "competizione": "Calcio - UEFA Nations League",
       "canale": "Sky Sport Calcio",
-      "note": "Differita",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-15-novembre-dove-vederle-tv-streaming",
+      "note": "Differita della partita della nazionale italiana.",
+      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
       "accuratezza_orario": "esatto"
     }
   ]
