@@ -1,131 +1,95 @@
 {
-  "last_updated": "2026-11-15T23:13:49.414034+01:00",
+  "last_updated": "2026-11-16T04:36:41.927539+01:00",
   "events": [
     {
-      "orario": "12:55",
-      "evento": "Slalom Gigante (1a e 2a manche)",
-      "competizione": "Sci Alpino - Coppa del Mondo Levi",
-      "canale": "Rai Sport HD",
-      "note": "Partecipazione di Federica Brignone o Sofia Goggia probabile in caso di competizione femminile.",
-      "fonte": "https://tivu.tv/palinsesto-rai-sport-hd",
+      "orario": "03:00",
+      "evento": "Campionati Assoluti Invernali 2026 - Finali (3a giornata)",
+      "competizione": "Nuoto",
+      "canale": "Rai Sport + HD",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXWW61zCOAvuSf2Oj7_IiVkzfuf1IXwjctfOb_aP3cj9t_fln7tyvWRPSjUqAMKG9pPSeGNm018n8OFWWZetkVIPY00inWAWYGxD6zPPvlNz3IeJrsA0C0isK8LHzmriFVJBGIcs8SkJlnJw==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Reggina 1914 - ASD Sambiase 2023",
-      "competizione": "Calcio - Serie D Girone I",
-      "canale": null,
-      "note": "Partita di campionato.",
-      "fonte": "https://www.calciomagazine.net/diretta-reggina-sambiase-domenica-15-novembre-2026-621873.html, https://www.transfermarkt.it/reggina-1914-vs-asd-sambiase-2023/index/spielbericht/4728551",
+      "orario": "05:00",
+      "evento": "Coppa del Mondo 2026-2027 - Levi: Slalom Maschile (2a manche)",
+      "competizione": "Sci Alpino",
+      "canale": "Rai Sport + HD",
+      "note": "Probabile partecipazione italiana (es. Alex Vinatzer).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXWW61zCOAvuSf2Oj7_IiVkzfuf1IXwjctfOb_aP3cj9t_fln7tyvWRPSjUqAMKG9pPSeGNm018n8OFWWZetkVIPY00inWAWYGxD6zPPvlNz3IeJrsA0C0isK8LHzmriFVJBGIcs8SkJlnJw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsATnBr0DbEqCBWDAkTTE86_ZCusHNgrdbWt0391cS4grYsyMh7EqUhKQiXAuRyVgATo6k7DP34EjrAwYKqK9RWK7PQmcgwZYql0sLDo_l_OYjs9jSlnDKjWc3qOkBqNUwknGJiKlGNafnwLp3bD1g1e96aKiCSdIZP_XV7VttSfEMOXeUYxUjeG9XiHx3BqGpiZnJRtrhcg2A7xutGiWJwFbPr38E6CuMuJJex0yBtMXLJg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Cipro - Montenegro",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport Max",
-      "note": "Telecronaca Luca Pellegrini.",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Lettonia - Armenia",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport 257",
-      "note": "Telecronaca Matteo Migliori.",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
+      "orario": "11:30",
+      "evento": "ATP Finals 2026 - Doppio Round Robin: Granollers/Zeballos vs Bolelli/Vavassori",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Partecipazione italiana (Bolelli, Vavassori).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAEpBFCnvflrg_FVkJ4GOeNFShJFP8lA1wI0Lwklme5M9d5WMhpl8wJSdwQ8dCKD0z1cRhYz47ZTMBN9ijQvAbc5vXF8hmItRp3UGhewRRV9oFF34Ewl2AXtpSCCOzAve54S0-H2Z1z8qUONrAGj7kPR0a5OgZPuzU28ALefhVuWW7, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAtme3WY1GdUrI23Mn52lj65_b99jzQTx41SN7JwL95R83E6DG110_KRtezC7PFrcQlUoodSDaOnYXSG2iGBX7iP_UXq3iWyoItZJnt9Yp0C8W7_MV_QRPtrxE8BOKCf6djQr_nm_1EUyP_vfr-A1Bp3XM6ZQYgitXqvOs_wZ4Os1ycrSUcWrbf0jvuen-Qsrrr94HZMX2c9RdfAKVHkH3ACRawKTGxftOcxYSs13EKLhksHyc24lrxk_TzySxQI0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI5sFk1MJ2iXJ2KvFhdEKcgEkIW6-_cR0rEJdpGYrQx8OJArQjNWwY1yxn3ffWn7xpR19P_PGumuI2_aKZaxyXsahOkU0O2EZZYVCibr9S3TA5Xoxtrgo4NiNdOxj-8zQt9MBCoqtzu_5sYcX-X38Bcqj8q8nmVAe_Boyw6NlPjtivJ-1H4-wML5QYVfk1-Vj8qZ7vVI_Qo-w5lJ8j1EtRxAJZRgPJ_T5p6-bvx1WQ2HJstxh06zRC2rO1tQ8xrhaF1RGdDfOC",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Como 1907 - Como Women",
-      "competizione": "Calcio - Serie A Women",
-      "canale": "DAZN",
-      "note": "Derby di campionato femminile.",
-      "fonte": "https://www.figc.it/news/date-e-orari-dalla-7-alla-9-giornata-domenica-15-novembre-il-derby-di-como-e-inter-juventus/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "16:30",
-      "evento": "Inter - Juventus",
-      "competizione": "Calcio - Serie A Women",
-      "canale": "DAZN, Rai Sport, RaiPlay",
-      "note": "Partita di campionato femminile.",
-      "fonte": "https://www.figc.it/news/date-e-orari-dalla-7-alla-9-giornata-domenica-15-novembre-il-derby-di-como-e-inter-juventus/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Bielorussia - Albania",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport Max",
-      "note": "Telecronaca Giovanni Cristiano.",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Finlandia - San Marino",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport 257",
-      "note": "Telecronaca Andrea Voria.",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Granda Volley Cuneo - Numia Vero Volley Milano",
-      "competizione": "Volley Femminile - Serie A1 Fineco",
-      "canale": "DAZN",
-      "note": "Partita di campionato femminile.",
-      "fonte": "https://www.legavolleyfemminile.it/a1-femminile/, https://www.volleynews.it/tutta-la-pallavolo-del-weekend-14-15-novembre-in-tv-e-streaming-la-guida-completa/",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Francia - Turchia",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport Max",
-      "note": "Telecronaca Matteo Marceddu, Diretta Gol Daniele Barone.",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Spagna - Inghilterra",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport Mix, Sky Sport 251",
-      "note": "Telecronaca Stefano Borghi, Diretta Gol Filippo Benincampi.",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Diretta Gol (Croazia - Repubblica Ceca)",
+      "evento": "Diretta Gol Nations League",
       "competizione": "Calcio - UEFA Nations League",
       "canale": "Sky Sport Calcio",
-      "note": "Menzione della partita in Diretta Gol.",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
+      "note": "Include match pomeridiani della fase a gironi.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-AkvQlvKFbQNLRjs829jZfUGviHYmP2fj4siBTiwD2ZppPed8zx2knC5U_qbQqOzaFIx4UPDudgYMO9bWHZ0gaPTkLQ5DPKx4_sz96jgJM--aAeRnMmLLBToKSgfgcLwYdnyg7cOleYVktg1gNXKEYoKtvs2tmuN64UtNlfOxUht-g6_8zMswU8C5ggWnY7eoMKPjACG",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Siniakova/Townsend - Errani/Paolini (Finale Doppio)",
-      "competizione": "Tennis - WTA Finals Indian Wells",
-      "canale": "Sky Sport Arena, Sky Sport Tennis, SuperTennis",
-      "note": "Finale doppio femminile con giocatrici italiane.",
-      "fonte": "https://sport.sky.it/tennis/2026/11/08/wta-finals-2026-programma-orari-tv, https://www.lottomatica.sport/news/tennis/wta-finals-indian-wells-2026-programma-e-orari-di-domenica-15-novembre-quando-errani-e-paolini-giocano-la-finale",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Belgio - Italia (Differita)",
+      "orario": "18:00",
+      "evento": "Diretta Gol Nations League",
       "competizione": "Calcio - UEFA Nations League",
       "canale": "Sky Sport Calcio",
-      "note": "Differita della partita della nazionale italiana.",
-      "fonte": "https://sport.sky.it/calcio/nations-league/2026/11/15/nations-league-partite-oggi-tv-streaming",
+      "note": "Include sfide preserale come Estonia-Bulgaria e Islanda-Lussemburgo.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-AkvQlvKFbQNLRjs829jZfUGviHYmP2fj4siBTiwD2ZppPed8zx2knC5U_qbQqOzaFIx4UPDudgYMO9bWHZ0gaPTkLQ5DPKx4_sz96jgJM--aAeRnMmLLBToKSgfgcLwYdnyg7cOleYVktg1gNXKEYoKtvs2tmuN64UtNlfOxUht-g6_8zMswU8C5ggWnY7eoMKPjACG",
       "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:15",
+      "evento": "Amichevole Internazionale: Italia Under 21 vs Belgio Under 21",
+      "competizione": "Calcio",
+      "canale": "Rai 2",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Segunda División Spagnola: Albacete vs Celta",
+      "competizione": "Calcio",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "UEFA Nations League: Germania vs Olanda",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "Sky Sport Arena, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-AkvQlvKFbQNLRjs829jZfUGviHYmP2fj4siBTiwD2ZppPed8zx2knC5U_qbQqOzaFIx4UPDudgYMO9bWHZ0gaPTkLQ5DPKx4_sz96jgJM--aAeRnMmLLBToKSgfgcLwYdnyg7cOleYVktg1gNXKEYoKtvs2tmuN64UtNlfOxUht-g6_8zMswU8C5ggWnY7eoMKPjACG",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "Diretta Gol Nations League",
+      "competizione": "Calcio - UEFA Nations League",
+      "canale": "Sky Sport Calcio",
+      "note": "Include verdetti serali come Grecia-Serbia, Svizzera-Scozia e Macedonia del Nord-Slovenia.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==, https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQH6-AkvQlvKFbQNLRjs829jZfUGviHYmP2fj4siBTiwD2ZppPed8zx2knC5U_qbQqOzaFIx4UPDudgYMO9bWHZ0gaPTkLQ5DPKx4_sz96jgJM--aAeRnMmLLBToKSgfgcLwYdnyg7cOleYVktg1gNXKEYoKtvs2tmuN64UtNlfOxUht-g6_8zMswU8C5ggWnY7eoMKPjACG",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30*",
+      "evento": "ATP Finals 2026 - Singolare Round Robin: Flavio Cobolli vs Daniil Medvedev",
+      "competizione": "Tennis",
+      "canale": "Italia 1, Sky Sport Uno, Sky Sport Tennis",
+      "note": "Orario 'non prima delle 20:30'. Partecipazione italiana (Flavio Cobolli).",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAEpBFCnvflrg_FVkJ4GOeNFShJFP8lA1wI0Lwklme5M9d5WMhpl8wJSdwQ8dCKD0z1cRhYz47ZTMBN9ijQvAbc5vXF8hmItRp3UGhewRRV9oFF34Ewl2AXtpSCCOzAve54S0-H2Z1z8qUONrAGj7kPR0a5OgZPuzU28ALefhVuWW7, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbNzhrOeRGURJ-38jvz2SN2Qndj92tezDRX9Ttg5cLYlX4leclwHdmiNw-h42JRBrT9z0-Iek9OHqN_zTeAobpSAxyacv-i005kw5ZXZrVRigpsdTlSNT6zbji6O3nW7AYQcxd9frgPt8LS6vTlhyaGzSHzhZsB_NDjevVrNdgapCOptmvCnyGY0y4YasWqozukDj4SFsFhtuPClPZn-f--6q3oO0tDB2myAoStaxNodgsGipKLzxYU1mbaDe8kYP5nSmxUO8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAtme3WY1GdUrI23Mn52lj65_b99jzQTx41SN7JwL95R83E6DG110_KRtezC7PFrcQlUoodSDaOnYXSG2iGBX7iP_UXq3iWyoItZJnt9Yp0C8W7_MV_QRPtrxE8BOKCf6djQr_nm_1EUyP_vfr-A1Bp3XM6ZQYgitXqvOs_wZ4Os1ycrSUcWrbf0jvuen-Qsrrr94HZMX2c9RdfAKVHkH3ACRawKTGxftOcxYSs13EKLhksHyc24lrxk_TzySxQI0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWisXKMJwQPHjC4HZiONnfPjNlfrXb7_k6ZxufdDnJrFwREfgsdA_KfEN8vjvZTlBK05BkKD1oqP9J82UJy0U9tgkuFCOyX6aJ0qI2bewOFbAhZVjHQBJlpcSwXFgBwhKzNwQ_XhVi2YMf8k8COg63JGY315hN0wU1Ta7rXNtkCbVp_RAiJDtgfx4YYAGaoxy1-VzZTrh-3n_J3Ir7qupgfNpVcRupu0g05XtuZaVhoOmhGSE",
+      "accuratezza_orario": "stimato"
     }
   ]
 }
