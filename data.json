@@ -1,95 +1,113 @@
 {
-  "last_updated": "2026-11-16T04:36:41.927539+01:00",
+  "last_updated": "2026-11-17T02:14:59.946533+01:00",
   "events": [
     {
-      "orario": "03:00",
-      "evento": "Campionati Assoluti Invernali 2026 - Finali (3a giornata)",
-      "competizione": "Nuoto",
-      "canale": "Rai Sport + HD",
+      "orario": "01:00",
+      "evento": "NBA: Boston Celtics-Orlando Magic",
+      "competizione": "NBA",
+      "canale": "Sky Sport Basket",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXWW61zCOAvuSf2Oj7_IiVkzfuf1IXwjctfOb_aP3cj9t_fln7tyvWRPSjUqAMKG9pPSeGNm018n8OFWWZetkVIPY00inWAWYGxD6zPPvlNz3IeJrsA0C0isK8LHzmriFVJBGIcs8SkJlnJw==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHllIHPxlYJAJ1mL8ohnIPtAfOR-M1EERYcwls4uP4sgS2q74Pdnq6E2HDML4_iAQLKAza2YdBxkqd1Sh6Gpoygxa_ro8AFxaaE93bHkmSGZjUNPC08OYxetKTZiZswxL",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "05:00",
-      "evento": "Coppa del Mondo 2026-2027 - Levi: Slalom Maschile (2a manche)",
-      "competizione": "Sci Alpino",
-      "canale": "Rai Sport + HD",
-      "note": "Probabile partecipazione italiana (es. Alex Vinatzer).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXWW61zCOAvuSf2Oj7_IiVkzfuf1IXwjctfOb_aP3cj9t_fln7tyvWRPSjUqAMKG9pPSeGNm018n8OFWWZetkVIPY00inWAWYGxD6zPPvlNz3IeJrsA0C0isK8LHzmriFVJBGIcs8SkJlnJw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsATnBr0DbEqCBWDAkTTE86_ZCusHNgrdbWt0391cS4grYsyMh7EqUhKQiXAuRyVgATo6k7DP34EjrAwYKqK9RWK7PQmcgwZYql0sLDo_l_OYjs9jSlnDKjWc3qOkBqNUwknGJiKlGNafnwLp3bD1g1e96aKiCSdIZP_XV7VttSfEMOXeUYxUjeG9XiHx3BqGpiZnJRtrhcg2A7xutGiWJwFbPr38E6CuMuJJex0yBtMXLJg==",
+      "orario": "02:15",
+      "evento": "Los Angeles Chargers vs. Baltimore Ravens",
+      "competizione": "NFL Monday Night Football",
+      "canale": "NFL Game Pass on DAZN",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFV2sXUbHMVog8vA5rOalBmIvMiRtKaBewFTW9tPckG50UqfoW90O153JriDN7zyIMvdMkssWkABClATZk7ykw_Nrfh43Id0_xTZXGv9PvXnKIFFpID4oxhG8z-BBkktkVq7jPpvXkafEe-lBmuPmbsk3gG-r0e53DbP5JOJwfpXuf6ERUQujHbXDgiSpTR53TcyZlpDvi9EbcngDPowFwAmziWgQYFuRfpinwLOG_7TanbTrwwKjYK5lzblnzDHUhXx9ep_32puZiW-5Y04Y32qqjCZCU7xUAnnzVYKYYB0iWOUxaU7rFJ72G0YBHYPdiIJfegbvWm3TjOcw",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:30",
-      "evento": "ATP Finals 2026 - Doppio Round Robin: Granollers/Zeballos vs Bolelli/Vavassori",
-      "competizione": "Tennis",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Partecipazione italiana (Bolelli, Vavassori).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAEpBFCnvflrg_FVkJ4GOeNFShJFP8lA1wI0Lwklme5M9d5WMhpl8wJSdwQ8dCKD0z1cRhYz47ZTMBN9ijQvAbc5vXF8hmItRp3UGhewRRV9oFF34Ewl2AXtpSCCOzAve54S0-H2Z1z8qUONrAGj7kPR0a5OgZPuzU28ALefhVuWW7, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAtme3WY1GdUrI23Mn52lj65_b99jzQTx41SN7JwL95R83E6DG110_KRtezC7PFrcQlUoodSDaOnYXSG2iGBX7iP_UXq3iWyoItZJnt9Yp0C8W7_MV_QRPtrxE8BOKCf6djQr_nm_1EUyP_vfr-A1Bp3XM6ZQYgitXqvOs_wZ4Os1ycrSUcWrbf0jvuen-Qsrrr94HZMX2c9RdfAKVHkH3ACRawKTGxftOcxYSs13EKLhksHyc24lrxk_TzySxQI0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI5sFk1MJ2iXJ2KvFhdEKcgEkIW6-_cR0rEJdpGYrQx8OJArQjNWwY1yxn3ffWn7xpR19P_PGumuI2_aKZaxyXsahOkU0O2EZZYVCibr9S3TA5Xoxtrgo4NiNdOxj-8zQt9MBCoqtzu_5sYcX-X38Bcqj8q8nmVAe_Boyw6NlPjtivJ-1H4-wML5QYVfk1-Vj8qZ7vVI_Qo-w5lJ8j1EtRxAJZRgPJ_T5p6-bvx1WQ2HJstxh06zRC2rO1tQ8xrhaF1RGdDfOC",
+      "orario": "06:00",
+      "evento": "UEFA Nations League 2026/2027-Belgio - Italia",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Uno",
+      "note": "Replica/Differita",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUghdX32o9swUXmxIgV_vQaoWQjnePmbDSSIqn6zv_veHyEmRgMNCGFKcxigrkG4Bpxiwsca5PP1OOhUGok3K3PObmoLCqpU3it7ZaUanfLnDwnIFqqvc5FaBTlq7dHFoskp4eDojUbNNDqy5RkZLHMs8",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:00",
-      "evento": "Diretta Gol Nations League",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Include match pomeridiani della fase a gironi.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-AkvQlvKFbQNLRjs829jZfUGviHYmP2fj4siBTiwD2ZppPed8zx2knC5U_qbQqOzaFIx4UPDudgYMO9bWHZ0gaPTkLQ5DPKx4_sz96jgJM--aAeRnMmLLBToKSgfgcLwYdnyg7cOleYVktg1gNXKEYoKtvs2tmuN64UtNlfOxUht-g6_8zMswU8C5ggWnY7eoMKPjACG",
+      "orario": "13:00",
+      "evento": "Qualificazioni Europei Under 19 - Israele-Italia",
+      "competizione": "Calcio Giovanile",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMHmfS-KpPVhEaPyGh2rBU9T2ZuVZef-cOiBoEf0ESoanvWGnw7T3T00Ifwr7vq1_DxIYwYsmLI2Kj0AZWX8yHx4jW6Y-5pbE5n04cUVhPoKKjqdB9FibbWN5oEF9tHaJ53QsuaYW53ox8feSPz7L9xCqalSI0QTt5G3fZYvABxmk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHllIHPxlYJAJ1mL8ohnIPbAfOR-M1EERYcwls4uP4sgS2q74Pdnq6E2HDML4_iAQLKAza2YdBxkqd1Sh6Gpoygxa_ro8AFxaaE93bHkmSGZjUNPC08OYxetKTZiZswxL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyYdxq0uqTxSsiB0eGcQfnVS5azIJFfKf3lFnl3jUNUecDKqzsfJFhG4ik-YfKStsyYF3hdT6Mhiunl7Imj62nmQNvTnBMKPw2A2NsSBOxI5mME7_WqD9GJ1jwu8DEymDRYM1_hxGe1adOhJiZXZDwbpF7bQISvusj-omwo8kB2_zNjYd0UV-afk5Hd8WwGpKA5ijZvQoYNBISXP4IrSqOQoHBs0OuI2KyZ924cMmNEg",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Diretta Gol Nations League",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Include sfide preserale come Estonia-Bulgaria e Islanda-Lussemburgo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-AkvQlvKFbQNLRjs829jZfUGviHYmP2fj4siBTiwD2ZppPed8zx2knC5U_qbQqOzaFIx4UPDudgYMO9bWHZ0gaPTkLQ5DPKx4_sz96jgJM--aAeRnMmLLBToKSgfgcLwYdnyg7cOleYVktg1gNXKEYoKtvs2tmuN64UtNlfOxUht-g6_8zMswU8C5ggWnY7eoMKPjACG",
+      "evento": "Qualificazioni Eurobasket 2027 - Lettonia-Italia (femminile)",
+      "competizione": "Pallacanestro Femminile",
+      "canale": "Sky Sport Basket",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHllIHPxlYJAJ1mL8ohnIPbAfOR-M1EERYcwls4uP4sgS2q74Pdnq6E2HDML4_iAQLKAza2YdBxkqd1Sh6Gpoygxa_ro8AFxaaE93bHkmSGZjUNPC08OYxetKTZiZswxL",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:15",
-      "evento": "Amichevole Internazionale: Italia Under 21 vs Belgio Under 21",
-      "competizione": "Calcio",
-      "canale": "Rai 2",
+      "orario": "20:00",
+      "evento": "Eurocup - Roma Basketball-Bahcesehir",
+      "competizione": "Eurocup (Pallacanestro)",
+      "canale": "Sky Sport Mix",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHllIHPxlYJAJ1mL8ohnIPbAfOR-M1EERYcwls4uP4sgS2q74Pdnq6E2HDML4_iAQLKAza2YdBxkqd1Sh6Gpoygxa_ro8AFxaaE93bHkmSGZjUNPC08OYxetKTZiZswxL",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30",
-      "evento": "Segunda División Spagnola: Albacete vs Celta",
-      "competizione": "Calcio",
+      "evento": "Eurolega - Milano-Stella Rossa Belgrado",
+      "competizione": "Eurolega (Pallacanestro)",
+      "canale": "Sky Sport Basket",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKr_D9sIR9VHooRhnZDIz4WVTkobxmeVSQR-fJkeiMb6Zkna0f4sre_cWVGc4TcACrZbcpgBuYkIgfE6TlWcv68G1hMFDtuc7r-hNUuKE0hyNa4CREEZZygdzr_wh64K2CAbvvXK1eRmxkj-kayLPyU7CQCJPJja7gR9xExP57xOaE_XGHRT-cxbEu4-YpRpZRQw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "UEFA Nations League - Diretta Gol",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMHmfS-KpPVhEaPyGh2rBU9T2ZuVZef-cOiBoEf0ESoanvWGnw7T3T00Ifwr7vq1_DxIYwYsmLI2Kj0AZWX8yHx4jW6Y-5pbE5n04cUVhPoKKjqdB9FibbWN5oEF9tHaJ53QsuaYW53ox8feSPz7L9xCqalSI0QTt5G3fZYvABxmk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyYdxq0uqTxSsiB0eGcQfnVS5azIJFfKf3lFnl3jUNUecDKqzsfJFhG4ik-YfKStsyYF3hdT6Mhiunl7Imj62nmQNvTnBMKPw2A2NsSBOxI5mME7_WqD9GJ1jwu8DEymDRYM1_hxGe1adOhJiZXZDwbpF7bQISvusj-omwo8kB2_zNjYd0UV-afk5Hd8WwGpKA5ijZvQoYNBISXP4IrSqOQoHBs0OuI2KyZ924cMmNEg",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "UEFA Nations League - Danimarca-Norvegia",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport Max, NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMHmfS-KpPVhEaPyGh2rBU9T2ZuVZef-cOiBoEf0ESoanvWGnw7T3T00Ifwr7vq1_DxIYwYsmLI2Kj0AZWX8yHx4jW6Y-5pbE5n04cUVhPoKKjqdB9FibbWN5oEF9tHaJ53QsuaYW53ox8feSPz7L9xCqalSI0QTt5G3fZYvABxmk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyYdxq0uqTxSsiB0eGcQfnVS5azIJFfKf3lFnl3jUNUecDKqzsfJFhG4ik-YfKStsyYF3hdT6Mhiunl7Imj62nmQNvTnBMKPw2A2NsSBOxI5mME7_WqD9GJ1jwu8DEymDRYM1_hxGe1adOhJiZXZDwbpF7bQISvusj-omwo8kB2_zNjYd0UV-afk5Hd8WwGpKA5ijZvQoYNBISXP4IrSqOQoHBs0OuI2KyZ924cMmNEg",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:45",
+      "evento": "UEFA Nations League - Galles-Portogallo",
+      "competizione": "UEFA Nations League",
+      "canale": "Sky Sport (canale 251), NOW",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMHmfS-KpPVhEaPyGh2rBU9T2ZuVZef-cOiBoEf0ESoanvWGnw7T3T00Ifwr7vq1_DxIYwYsmLI2Kj0AZWX8yHx4jW6Y-5pbE5n04cUVhPoKKjqdB9FibbWN5oEF9tHaJ53QsuaYW53ox8feSPz7L9xCqalSI0QTt5G3fZYvABxmk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyYdxq0uqTxSsiB0eGcQfnVS5azIJFfKf3lFnl3jUNUecDKqzsfJFhG4ik-YfKStsyYF3hdT6Mhiunl7Imj62nmQNvTnBMKPw2A2NsSBOxI5mME7_WqD9GJ1jwu8DEymDRYM1_hxGe1adOhJiZXZDwbpF7bQISvusj-omwo8kB2_zNjYd0UV-afk5Hd8WwGpKA5ijZvQoYNBISXP4IrSqOQoHBs0OuI2KyZ924cMmNEg",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:00",
+      "evento": "Eurolega - Virtus Bologna-Panathinaikos",
+      "competizione": "Eurolega (Pallacanestro)",
+      "canale": "Sky Sport Arena",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKr_D9sIR9VHooRhnZDIz4WVTkobxmeVSQR-fJkeiMb6Zkna0f4sre_cWVGc4TcACrZbcpgBuYkIgfE6TlWcv68G1hMFDtuc7r-hNUuKE0hyNa4CREEZZygdzr_wh64K2CAbvvXK1eRmxkj-kayLPyU7CQCJPJja7gR9xExP57xOaE_XGHRT-cxbEu4-YpRpZRQw==",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "TBA",
+      "evento": "Juventus - Reggiana",
+      "competizione": "Basketball Champions League",
       "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "UEFA Nations League: Germania vs Olanda",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport Arena, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-AkvQlvKFbQNLRjs829jZfUGviHYmP2fj4siBTiwD2ZppPed8zx2knC5U_qbQqOzaFIx4UPDudgYMO9bWHZ0gaPTkLQ5DPKx4_sz96jgJM--aAeRnMmLLBToKSgfgcLwYdnyg7cOleYVktg1gNXKEYoKtvs2tmuN64UtNlfOxUht-g6_8zMswU8C5ggWnY7eoMKPjACG",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "Diretta Gol Nations League",
-      "competizione": "Calcio - UEFA Nations League",
-      "canale": "Sky Sport Calcio",
-      "note": "Include verdetti serali come Grecia-Serbia, Svizzera-Scozia e Macedonia del Nord-Slovenia.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHEeFHpfqQakywoy4ndM3c1aC20mp3bm81rJFS7i54kFN68RMPrGEEgerRQb_xNUAoVE61FX-MJ0TEj5O3WF-zqEtHOFbNKTPUxVa5_V9EHlmeyI-gnYpNQJxiFvniHJxLXf9agMvE_iGVriH_VKl5v_Xwbyfte6yr2z0RA2dphZ-BQ==, https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQH6-AkvQlvKFbQNLRjs829jZfUGviHYmP2fj4siBTiwD2ZppPed8zx2knC5U_qbQqOzaFIx4UPDudgYMO9bWHZ0gaPTkLQ5DPKx4_sz96jgJM--aAeRnMmLLBToKSgfgcLwYdnyg7cOleYVktg1gNXKEYoKtvs2tmuN64UtNlfOxUht-g6_8zMswU8C5ggWnY7eoMKPjACG",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30*",
-      "evento": "ATP Finals 2026 - Singolare Round Robin: Flavio Cobolli vs Daniil Medvedev",
-      "competizione": "Tennis",
-      "canale": "Italia 1, Sky Sport Uno, Sky Sport Tennis",
-      "note": "Orario 'non prima delle 20:30'. Partecipazione italiana (Flavio Cobolli).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAEpBFCnvflrg_FVkJ4GOeNFShJFP8lA1wI0Lwklme5M9d5WMhpl8wJSdwQ8dCKD0z1cRhYz47ZTMBN9ijQvAbc5vXF8hmItRp3UGhewRRV9oFF34Ewl2AXtpSCCOzAve54S0-H2Z1z8qUONrAGj7kPR0a5OgZPuzU28ALefhVuWW7, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbNzhrOeRGURJ-38jvz2SN2Qndj92tezDRX9Ttg5cLYlX4leclwHdmiNw-h42JRBrT9z0-Iek9OHqN_zTeAobpSAxyacv-i005kw5ZXZrVRigpsdTlSNT6zbji6O3nW7AYQcxd9frgPt8LS6vTlhyaGzSHzhZsB_NDjevVrNdgapCOptmvCnyGY0y4YasWqozukDj4SFsFhtuPClPZn-f--6q3oO0tDB2myAoStaxNodgsGipKLzxYU1mbaDe8kYP5nSmxUO8, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAtme3WY1GdUrI23Mn52lj65_b99jzQTx41SN7JwL95R83E6DG110_KRtezC7PFrcQlUoodSDaOnYXSG2iGBX7iP_UXq3iWyoItZJnt9Yp0C8W7_MV_QRPtrxE8BOKCf6djQr_nm_1EUyP_vfr-A1Bp3XM6ZQYgitXqvOs_wZ4Os1ycrSUcWrbf0jvuen-Qsrrr94HZMX2c9RdfAKVHkH3ACRawKTGxftOcxYSs13EKLhksHyc24lrxk_TzySxQI0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWisXKMJwQPHjC4HZiONnfPjNlfrXb7_k6ZxufdDnJrFwREfgsdA_KfEN8vjvZTlBK05BkKD1oqP9J82UJy0U9tgkuFCOyX6aJ0qI2bewOFbAhZVjHQBJlpcSwXFgBwhKzNwQ_XhVi2YMf8k8COg63JGY315hN0wU1Ta7rXNtkCbVp_RAiJDtgfx4YYAGaoxy1-VzZTrh-3n_J3Ir7qupgfNpVcRupu0g05XtuZaVhoOmhGSE",
-      "accuratezza_orario": "stimato"
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGetiiLJ0mbzXyDmEenGyIKvS3JbOGyIKQa90PAYtW-Y3YAZI6Ay7aJ3TNX1tZwce5PNZbY0p7d4590uCpd7M-pOCF7UoLE4AW0Hnqya18J1DX5drOZj795HhZNNAU",
+      "accuratezza_orario": "tba"
     }
   ]
 }
