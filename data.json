@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-11-18T15:44:03.019637+01:00",
+  "last_updated": "2026-11-19T00:40:46.155556+01:00",
   "events": [
     {
-      "orario": "11:30",
-      "evento": "Bolelli/Vavassori - Harrison/Skupski",
-      "competizione": "ATP Finals (doppio)",
-      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "orario": "20:30",
+      "evento": "Tennis - Davis Cup Finals: Cobolli vs Munar",
+      "competizione": "Davis Cup Finals",
+      "canale": "SuperTennis",
       "note": "",
-      "fonte": "sportface.it, oasport.it, virgilio.it, fanpage.it, libero.it, skysport.it",
+      "fonte": "Stasera in TV - Oggi in TV - Programmi SuperTennis giovedi 19 novembre 2026",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "Real Madrid - Inter Women",
-      "competizione": "UEFA Women's Champions League",
-      "canale": "Disney+",
-      "note": "",
-      "fonte": "calciomagazine.net",
+      "orario": "23:00",
+      "evento": "Tennis WTA - Finals Indian Wells: Errani / Paolini vs Guo / Mladenovic",
+      "competizione": "WTA Finals Indian Wells",
+      "canale": "SuperTennis",
+      "note": "Doppio femminile",
+      "fonte": "Sport in TV giovedi 19 novembre 2026 - Programmi TV, Stasera in TV - Oggi in TV - Programmi SuperTennis giovedi 19 novembre 2026",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:30*",
-      "evento": "Flavio Cobolli - Frances Tiafoe",
-      "competizione": "ATP Finals (singolare)",
-      "canale": "Italia 1, Sky Sport Uno, Sky Sport Tennis",
-      "note": "Orario stimato, non prima delle 20:30 CET. Trasmissione in chiaro su Italia 1, Mediaset Infinity e SportMediaset.it.",
-      "fonte": "sportface.it, cronacapop.it, oasport.it, canaletv.it, virgilio.it, canaledieci.it, fanpage.it, tennistalkermagazine.it, libero.it, kisskiss.it, skysport.it",
-      "accuratezza_orario": "stimato"
+      "orario": "01:30",
+      "evento": "Formula 1 - GP Las Vegas: Prove Libere 1",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport F1, NOW",
+      "note": "Eventi del 20 novembre, entro le 06:00 CET del giorno successivo",
+      "fonte": "Formula 1, orari GP Las Vegas 2026 negli Usa: dove vedere la F1 in tv | Sky Sport, F1 | ORARI TV GP Las Vegas: tutta la programmazione Sky e TV8 del weekend, Formula 1, Gp Las Vegas 2026: dove vedere in tv e in streaming - L'Automobile ACI, Calendario Formula 1 2026: orari e dirette TV Sky e TV8 - FormulaPassion",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:00",
-      "evento": "Juventus Women - OH Leuven",
-      "competizione": "UEFA Women's Champions League",
-      "canale": "Disney+",
-      "note": "",
-      "fonte": "calciomagazine.net",
+      "orario": "05:00",
+      "evento": "Formula 1 - GP Las Vegas: Prove Libere 2",
+      "competizione": "Mondiale Formula 1 2026",
+      "canale": "Sky Sport F1, NOW",
+      "note": "Eventi del 20 novembre, entro le 06:00 CET del giorno successivo",
+      "fonte": "Formula 1, orari GP Las Vegas 2026 negli Usa: dove vedere la F1 in tv | Sky Sport, F1 | ORARI TV GP Las Vegas: tutta la programmazione Sky e TV8 del weekend, Formula 1, Gp Las Vegas 2026: dove vedere in tv e in streaming - L'Automobile ACI, Calendario Formula 1 2026: orari e dirette TV Sky e TV8 - FormulaPassion",
       "accuratezza_orario": "esatto"
     }
   ]
