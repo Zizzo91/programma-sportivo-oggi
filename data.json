@@ -1,49 +1,40 @@
 {
-  "last_updated": "2026-11-18T01:08:46.314111+01:00",
+  "last_updated": "2026-11-18T15:44:03.019637+01:00",
   "events": [
     {
-      "orario": "06:00",
-      "evento": "Galles - Portogallo (replica)",
-      "competizione": "UEFA Nations League 2026/2027",
-      "canale": "Sky Sport Uno",
-      "note": "Replica di una partita della Nations League.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwL1YztImYsLJ0ClugYyZ9igBVrg7uTFW-Zs6g8q8i_qYaZhbSTzeit18tRbY3-J2hZvFDibAvA6fO7Xr0gZIbd9aP1nGcizHF4QwDNTSOhBmZ96ZuqBk5AEwhvUG0C_GKWvWZfzCWM-18kWpLT93J5vu26OJsv6S3Sx4=",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "11:30",
-      "evento": "Doppio: Christian Harrison (USA) / Neal Skupski (GBR) vs Simone Bolelli (ITA) / Andrea Vavassori (ITA)",
-      "competizione": "ATP Finals 2026 - Gruppo Mark Woodforde",
+      "evento": "Bolelli/Vavassori - Harrison/Skupski",
+      "competizione": "ATP Finals (doppio)",
       "canale": "Sky Sport Uno, Sky Sport Tennis",
-      "note": "Match con giocatori italiani.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKux39gtrXf2vqWoQ0LZKD5hF5U3YlsNF9RwwpJUvcuwmvGQ4kZ48enfCWIdstPjf46wVJADo2x98YqN3TvFliVMFCEz9xbkLVh_3MemrO6F4Kq6RGrvsXYqz4KDMEn_Ww4nmYTCJ771sNA1-GY6s59tpwBM6ocvKgwbcIYKazdnJCxI8uJgTXiWsXg7pXvkTaemllWk9S-A0crX7PVekwOkYTipB5M3PXWEkVMxiN24IVBIWYms2pLFDldnYAOooSctN_7X0PRNPlYt9tR2wVeCz8jfT8MOt8hVRUVgM=",
+      "note": "",
+      "fonte": "sportface.it, oasport.it, virgilio.it, fanpage.it, libero.it, skysport.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:45",
-      "evento": "Real Madrid vs Inter Women",
+      "evento": "Real Madrid - Inter Women",
       "competizione": "UEFA Women's Champions League",
       "canale": "Disney+",
-      "note": "Partita con squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIdmIlog4Z5_3CWeOkozd1bONxiUROgHSdSEeGp_znS7tnVSur2eYu-yjoDJ2PXXfn4RJmG20oPmw8CWf2sMP9CdtfX-n7hLqGpznCBBmvHcGct1BAgyFqTYPVVTKaKSx9aaxLGowsbieNKz02dY2wGlSoYxuaWMMQcKCtUjD9o8nJxg==",
+      "note": "",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:30*",
-      "evento": "Singolare: Flavio Cobolli (ITA) vs Frances Tiafoe (USA)",
-      "competizione": "ATP Finals 2026",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, Italia 1",
-      "note": "Match con giocatore italiano; inizio non prima delle 20:30.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKux39gtrXf2vqWoQ0LZKD5hF5U3YlsNF9RwwpJUvcuwmvGQ4kZ48enfCWIdstPjf46wVJADo2x98YqN3TvFliVMFCEz9xbkLVh_3MemrO6F4Kq6RGrvsXYqz4KDMEn_Ww4nmYTCJ771sNA1-GY6s59tpwBM6ocvKgwbcIYKazdnJCxI8uJgTXiWsXg7pXvkTaemllWk9S-A0crX7PVekwOkYTipB5M3PXWEkVMxiN24IVBIWYms2pLFDldnYAOooSctN_7X0PRNPlYt9tR2wVeCz8jfT8MOt8hVRUVgM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzlghw1KESmZY2M9ctUf0sGcDaVE-B_osurCuX53YFKufT5VzLM8Yt7ZTx8FPjltLpNZSztEvoDfLXu26BIgwwxH_VznwRgU2NU7Ri73t-00ZNZ5BDcCKn5m7DoN6MDIqGS21EZEPJW1M7jGjJJHgjDiOQBF2EwfO_uW2ulVZl_ubznIeKiRrPoMAGr5vxrwf9DB1Gq9ZXWZQqI64S3p9zNQ9zZt38Kf01czSbLv9-rCnEIE65, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTQgLs8VO8PohHDHBkDW5Sa6wEJoP6G-qG_xR0jd2o1mQad0D-5wrqbz4JYqWf_so_LRcs1uJY8ub3Jkh9PY95xSyyK9r855HN-lDYCvRS8aKgQTs9sC7ZG3uy9CBoKSe1UOgE7mJzBuEyUyIj-pSTnk-x8E2DhMxap3NFr3E8uOgtqJe4UAwNPzqWXjYRjlDtcaobBO4YPm8sxpU4QWMXea7WMxQqfWIf-5sA9rQQXouNr0ZklbpUxHSoD-GbIWLdorGK",
+      "evento": "Flavio Cobolli - Frances Tiafoe",
+      "competizione": "ATP Finals (singolare)",
+      "canale": "Italia 1, Sky Sport Uno, Sky Sport Tennis",
+      "note": "Orario stimato, non prima delle 20:30 CET. Trasmissione in chiaro su Italia 1, Mediaset Infinity e SportMediaset.it.",
+      "fonte": "sportface.it, cronacapop.it, oasport.it, canaletv.it, virgilio.it, canaledieci.it, fanpage.it, tennistalkermagazine.it, libero.it, kisskiss.it, skysport.it",
       "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Juventus Women vs OH Leuven",
+      "evento": "Juventus Women - OH Leuven",
       "competizione": "UEFA Women's Champions League",
       "canale": "Disney+",
-      "note": "Partita con squadra italiana.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIdmIlog4Z5_3CWeOkozd1bONxiUROgHSdSEeGp_znS7tnVSur2eYu-yjoDJ2PXXfn4RJmG20oPmw8CWf2sMP9CdtfX-n7hLqGpznCBBmvHcGct1BAgyFqTYPVVTKaKSx9aaxLGowsbieNKz02dY2wGlSoYxuaWMMQcKCtUjD9o8Jxg==",
+      "note": "",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     }
   ]
