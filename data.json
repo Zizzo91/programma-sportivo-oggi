@@ -1,113 +1,50 @@
 {
-  "last_updated": "2026-11-17T02:14:59.946533+01:00",
+  "last_updated": "2026-11-18T01:08:46.314111+01:00",
   "events": [
     {
-      "orario": "01:00",
-      "evento": "NBA: Boston Celtics-Orlando Magic",
-      "competizione": "NBA",
-      "canale": "Sky Sport Basket",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHllIHPxlYJAJ1mL8ohnIPtAfOR-M1EERYcwls4uP4sgS2q74Pdnq6E2HDML4_iAQLKAza2YdBxkqd1Sh6Gpoygxa_ro8AFxaaE93bHkmSGZjUNPC08OYxetKTZiZswxL",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:15",
-      "evento": "Los Angeles Chargers vs. Baltimore Ravens",
-      "competizione": "NFL Monday Night Football",
-      "canale": "NFL Game Pass on DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFV2sXUbHMVog8vA5rOalBmIvMiRtKaBewFTW9tPckG50UqfoW90O153JriDN7zyIMvdMkssWkABClATZk7ykw_Nrfh43Id0_xTZXGv9PvXnKIFFpID4oxhG8z-BBkktkVq7jPpvXkafEe-lBmuPmbsk3gG-r0e53DbP5JOJwfpXuf6ERUQujHbXDgiSpTR53TcyZlpDvi9EbcngDPowFwAmziWgQYFuRfpinwLOG_7TanbTrwwKjYK5lzblnzDHUhXx9ep_32puZiW-5Y04Y32qqjCZCU7xUAnnzVYKYYB0iWOUxaU7rFJ72G0YBHYPdiIJfegbvWm3TjOcw",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "06:00",
-      "evento": "UEFA Nations League 2026/2027-Belgio - Italia",
-      "competizione": "UEFA Nations League",
+      "evento": "Galles - Portogallo (replica)",
+      "competizione": "UEFA Nations League 2026/2027",
       "canale": "Sky Sport Uno",
-      "note": "Replica/Differita",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUghdX32o9swUXmxIgV_vQaoWQjnePmbDSSIqn6zv_veHyEmRgMNCGFKcxigrkG4Bpxiwsca5PP1OOhUGok3K3PObmoLCqpU3it7ZaUanfLnDwnIFqqvc5FaBTlq7dHFoskp4eDojUbNNDqy5RkZLHMs8",
+      "note": "Replica di una partita della Nations League.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwL1YztImYsLJ0ClugYyZ9igBVrg7uTFW-Zs6g8q8i_qYaZhbSTzeit18tRbY3-J2hZvFDibAvA6fO7Xr0gZIbd9aP1nGcizHF4QwDNTSOhBmZ96ZuqBk5AEwhvUG0C_GKWvWZfzCWM-18kWpLT93J5vu26OJsv6S3Sx4=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:00",
-      "evento": "Qualificazioni Europei Under 19 - Israele-Italia",
-      "competizione": "Calcio Giovanile",
-      "canale": "Rai Sport",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMHmfS-KpPVhEaPyGh2rBU9T2ZuVZef-cOiBoEf0ESoanvWGnw7T3T00Ifwr7vq1_DxIYwYsmLI2Kj0AZWX8yHx4jW6Y-5pbE5n04cUVhPoKKjqdB9FibbWN5oEF9tHaJ53QsuaYW53ox8feSPz7L9xCqalSI0QTt5G3fZYvABxmk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHllIHPxlYJAJ1mL8ohnIPbAfOR-M1EERYcwls4uP4sgS2q74Pdnq6E2HDML4_iAQLKAza2YdBxkqd1Sh6Gpoygxa_ro8AFxaaE93bHkmSGZjUNPC08OYxetKTZiZswxL, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyYdxq0uqTxSsiB0eGcQfnVS5azIJFfKf3lFnl3jUNUecDKqzsfJFhG4ik-YfKStsyYF3hdT6Mhiunl7Imj62nmQNvTnBMKPw2A2NsSBOxI5mME7_WqD9GJ1jwu8DEymDRYM1_hxGe1adOhJiZXZDwbpF7bQISvusj-omwo8kB2_zNjYd0UV-afk5Hd8WwGpKA5ijZvQoYNBISXP4IrSqOQoHBs0OuI2KyZ924cMmNEg",
+      "orario": "11:30",
+      "evento": "Doppio: Christian Harrison (USA) / Neal Skupski (GBR) vs Simone Bolelli (ITA) / Andrea Vavassori (ITA)",
+      "competizione": "ATP Finals 2026 - Gruppo Mark Woodforde",
+      "canale": "Sky Sport Uno, Sky Sport Tennis",
+      "note": "Match con giocatori italiani.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKux39gtrXf2vqWoQ0LZKD5hF5U3YlsNF9RwwpJUvcuwmvGQ4kZ48enfCWIdstPjf46wVJADo2x98YqN3TvFliVMFCEz9xbkLVh_3MemrO6F4Kq6RGrvsXYqz4KDMEn_Ww4nmYTCJ771sNA1-GY6s59tpwBM6ocvKgwbcIYKazdnJCxI8uJgTXiWsXg7pXvkTaemllWk9S-A0crX7PVekwOkYTipB5M3PXWEkVMxiN24IVBIWYms2pLFDldnYAOooSctN_7X0PRNPlYt9tR2wVeCz8jfT8MOt8hVRUVgM=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:00",
-      "evento": "Qualificazioni Eurobasket 2027 - Lettonia-Italia (femminile)",
-      "competizione": "Pallacanestro Femminile",
-      "canale": "Sky Sport Basket",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHllIHPxlYJAJ1mL8ohnIPbAfOR-M1EERYcwls4uP4sgS2q74Pdnq6E2HDML4_iAQLKAza2YdBxkqd1Sh6Gpoygxa_ro8AFxaaE93bHkmSGZjUNPC08OYxetKTZiZswxL",
+      "orario": "18:45",
+      "evento": "Real Madrid vs Inter Women",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "Partita con squadra italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIdmIlog4Z5_3CWeOkozd1bONxiUROgHSdSEeGp_znS7tnVSur2eYu-yjoDJ2PXXfn4RJmG20oPmw8CWf2sMP9CdtfX-n7hLqGpznCBBmvHcGct1BAgyFqTYPVVTKaKSx9aaxLGowsbieNKz02dY2wGlSoYxuaWMMQcKCtUjD9o8nJxg==",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Eurocup - Roma Basketball-Bahcesehir",
-      "competizione": "Eurocup (Pallacanestro)",
-      "canale": "Sky Sport Mix",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHllIHPxlYJAJ1mL8ohnIPbAfOR-M1EERYcwls4uP4sgS2q74Pdnq6E2HDML4_iAQLKAza2YdBxkqd1Sh6Gpoygxa_ro8AFxaaE93bHkmSGZjUNPC08OYxetKTZiZswxL",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Eurolega - Milano-Stella Rossa Belgrado",
-      "competizione": "Eurolega (Pallacanestro)",
-      "canale": "Sky Sport Basket",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKr_D9sIR9VHooRhnZDIz4WVTkobxmeVSQR-fJkeiMb6Zkna0f4sre_cWVGc4TcACrZbcpgBuYkIgfE6TlWcv68G1hMFDtuc7r-hNUuKE0hyNa4CREEZZygdzr_wh64K2CAbvvXK1eRmxkj-kayLPyU7CQCJPJja7gR9xExP57xOaE_XGHRT-cxbEu4-YpRpZRQw==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "UEFA Nations League - Diretta Gol",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Calcio, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMHmfS-KpPVhEaPyGh2rBU9T2ZuVZef-cOiBoEf0ESoanvWGnw7T3T00Ifwr7vq1_DxIYwYsmLI2Kj0AZWX8yHx4jW6Y-5pbE5n04cUVhPoKKjqdB9FibbWN5oEF9tHaJ53QsuaYW53ox8feSPz7L9xCqalSI0QTt5G3fZYvABxmk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyYdxq0uqTxSsiB0eGcQfnVS5azIJFfKf3lFnl3jUNUecDKqzsfJFhG4ik-YfKStsyYF3hdT6Mhiunl7Imj62nmQNvTnBMKPw2A2NsSBOxI5mME7_WqD9GJ1jwu8DEymDRYM1_hxGe1adOhJiZXZDwbpF7bQISvusj-omwo8kB2_zNjYd0UV-afk5Hd8WwGpKA5ijZvQoYNBISXP4IrSqOQoHBs0OuI2KyZ924cMmNEg",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "UEFA Nations League - Danimarca-Norvegia",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport Max, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMHmfS-KpPVhEaPyGh2rBU9T2ZuVZef-cOiBoEf0ESoanvWGnw7T3T00Ifwr7vq1_DxIYwYsmLI2Kj0AZWX8yHx4jW6Y-5pbE5n04cUVhPoKKjqdB9FibbWN5oEF9tHaJ53QsuaYW53ox8feSPz7L9xCqalSI0QTt5G3fZYvABxmk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyYdxq0uqTxSsiB0eGcQfnVS5azIJFfKf3lFnl3jUNUecDKqzsfJFhG4ik-YfKStsyYF3hdT6Mhiunl7Imj62nmQNvTnBMKPw2A2NsSBOxI5mME7_WqD9GJ1jwu8DEymDRYM1_hxGe1adOhJiZXZDwbpF7bQISvusj-omwo8kB2_zNjYd0UV-afk5Hd8WwGpKA5ijZvQoYNBISXP4IrSqOQoHBs0OuI2KyZ924cMmNEg",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:45",
-      "evento": "UEFA Nations League - Galles-Portogallo",
-      "competizione": "UEFA Nations League",
-      "canale": "Sky Sport (canale 251), NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMHmfS-KpPVhEaPyGh2rBU9T2ZuVZef-cOiBoEf0ESoanvWGnw7T3T00Ifwr7vq1_DxIYwYsmLI2Kj0AZWX8yHx4jW6Y-5pbE5n04cUVhPoKKjqdB9FibbWN5oEF9tHaJ53QsuaYW53ox8feSPz7L9xCqalSI0QTt5G3fZYvABxmk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyYdxq0uqTxSsiB0eGcQfnVS5azIJFfKf3lFnl3jUNUecDKqzsfJFhG4ik-YfKStsyYF3hdT6Mhiunl7Imj62nmQNvTnBMKPw2A2NsSBOxI5mME7_WqD9GJ1jwu8DEymDRYM1_hxGe1adOhJiZXZDwbpF7bQISvusj-omwo8kB2_zNjYd0UV-afk5Hd8WwGpKA5ijZvQoYNBISXP4IrSqOQoHBs0OuI2KyZ924cMmNEg",
-      "accuratezza_orario": "esatto"
+      "orario": "20:30*",
+      "evento": "Singolare: Flavio Cobolli (ITA) vs Frances Tiafoe (USA)",
+      "competizione": "ATP Finals 2026",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, Italia 1",
+      "note": "Match con giocatore italiano; inizio non prima delle 20:30.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKux39gtrXf2vqWoQ0LZKD5hF5U3YlsNF9RwwpJUvcuwmvGQ4kZ48enfCWIdstPjf46wVJADo2x98YqN3TvFliVMFCEz9xbkLVh_3MemrO6F4Kq6RGrvsXYqz4KDMEn_Ww4nmYTCJ771sNA1-GY6s59tpwBM6ocvKgwbcIYKazdnJCxI8uJgTXiWsXg7pXvkTaemllWk9S-A0crX7PVekwOkYTipB5M3PXWEkVMxiN24IVBIWYms2pLFDldnYAOooSctN_7X0PRNPlYt9tR2wVeCz8jfT8MOt8hVRUVgM=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzlghw1KESmZY2M9ctUf0sGcDaVE-B_osurCuX53YFKufT5VzLM8Yt7ZTx8FPjltLpNZSztEvoDfLXu26BIgwwxH_VznwRgU2NU7Ri73t-00ZNZ5BDcCKn5m7DoN6MDIqGS21EZEPJW1M7jGjJJHgjDiOQBF2EwfO_uW2ulVZl_ubznIeKiRrPoMAGr5vxrwf9DB1Gq9ZXWZQqI64S3p9zNQ9zZt38Kf01czSbLv9-rCnEIE65, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTQgLs8VO8PohHDHBkDW5Sa6wEJoP6G-qG_xR0jd2o1mQad0D-5wrqbz4JYqWf_so_LRcs1uJY8ub3Jkh9PY95xSyyK9r855HN-lDYCvRS8aKgQTs9sC7ZG3uy9CBoKSe1UOgE7mJzBuEyUyIj-pSTnk-x8E2DhMxap3NFr3E8uOgtqJe4UAwNPzqWXjYRjlDtcaobBO4YPm8sxpU4QWMXea7WMxQqfWIf-5sA9rQQXouNr0ZklbpUxHSoD-GbIWLdorGK",
+      "accuratezza_orario": "stimato"
     },
     {
       "orario": "21:00",
-      "evento": "Eurolega - Virtus Bologna-Panathinaikos",
-      "competizione": "Eurolega (Pallacanestro)",
-      "canale": "Sky Sport Arena",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKr_D9sIR9VHooRhnZDIz4WVTkobxmeVSQR-fJkeiMb6Zkna0f4sre_cWVGc4TcACrZbcpgBuYkIgfE6TlWcv68G1hMFDtuc7r-hNUuKE0hyNa4CREEZZygdzr_wh64K2CAbvvXK1eRmxkj-kayLPyU7CQCJPJja7gR9xExP57xOaE_XGHRT-cxbEu4-YpRpZRQw==",
+      "evento": "Juventus Women vs OH Leuven",
+      "competizione": "UEFA Women's Champions League",
+      "canale": "Disney+",
+      "note": "Partita con squadra italiana.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIdmIlog4Z5_3CWeOkozd1bONxiUROgHSdSEeGp_znS7tnVSur2eYu-yjoDJ2PXXfn4RJmG20oPmw8CWf2sMP9CdtfX-n7hLqGpznCBBmvHcGct1BAgyFqTYPVVTKaKSx9aaxLGowsbieNKz02dY2wGlSoYxuaWMMQcKCtUjD9o8Jxg==",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "TBA",
-      "evento": "Juventus - Reggiana",
-      "competizione": "Basketball Champions League",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGetiiLJ0mbzXyDmEenGyIKvS3JbOGyIKQa90PAYtW-Y3YAZI6Ay7aJ3TNX1tZwce5PNZbY0p7d4590uCpd7M-pOCF7UoLE4AW0Hnqya18J1DX5drOZj795HhZNNAU",
-      "accuratezza_orario": "tba"
     }
   ]
 }
