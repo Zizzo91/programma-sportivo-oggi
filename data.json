@@ -1,49 +1,31 @@
 {
-  "last_updated": "2026-11-19T05:53:03.156433+01:00",
+  "last_updated": "2026-11-20T00:59:24.666898+01:00",
   "events": [
     {
-      "orario": "12:00",
-      "evento": "Conferenza stampa piloti GP Las Vegas",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Benfica – Roma",
-      "competizione": "Women's Champions League",
-      "canale": "Disney+",
-      "note": "",
-      "fonte": "calciomagazine.net",
-      "accuratezza_orario": "esatto"
-    },
-    {
       "orario": "01:30",
-      "evento": "Prove Libere 1 GP Las Vegas",
-      "competizione": "Formula 1",
+      "evento": "Prove Libere 1",
+      "competizione": "Formula 1, Gran Premio di Las Vegas 2026",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "(del 20 novembre)",
-      "fonte": "skysport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:15",
-      "evento": "Qualificazioni Europei U19 Israele - Italia",
-      "competizione": "Calcio Nazionale Under 19",
-      "canale": "Rai Sport HD",
-      "note": "(del 20 novembre)",
-      "fonte": "programmitv.com",
+      "note": "Diretta TV. Orario italiano (CET). Le prove libere a Las Vegas iniziano alle 16:30 PST del 19 novembre, corrispondenti alle 01:30 CET del 20 novembre.",
+      "fonte": "OA Sport, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:00",
-      "evento": "Prove Libere 2 GP Las Vegas",
-      "competizione": "Formula 1",
+      "evento": "Prove Libere 2",
+      "competizione": "Formula 1, Gran Premio di Las Vegas 2026",
       "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "(del 20 novembre)",
-      "fonte": "skysport.it",
+      "note": "Diretta TV. Orario italiano (CET). Le prove libere a Las Vegas iniziano alle 20:00 PST del 19 novembre, corrispondenti alle 05:00 CET del 20 novembre.",
+      "fonte": "OA Sport, Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:00",
+      "evento": "Test match: Selezione Italiana vs Queensland Reds",
+      "competizione": "Rugby",
+      "canale": "Canale Youtube della FIR (streaming)",
+      "note": "Test match della squadra di selezione italiana.",
+      "fonte": "OnRugby",
       "accuratezza_orario": "esatto"
     }
   ]
