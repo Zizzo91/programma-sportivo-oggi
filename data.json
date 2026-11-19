@@ -1,40 +1,49 @@
 {
-  "last_updated": "2026-11-19T00:40:46.155556+01:00",
+  "last_updated": "2026-11-19T05:53:03.156433+01:00",
   "events": [
     {
-      "orario": "20:30",
-      "evento": "Tennis - Davis Cup Finals: Cobolli vs Munar",
-      "competizione": "Davis Cup Finals",
-      "canale": "SuperTennis",
+      "orario": "12:00",
+      "evento": "Conferenza stampa piloti GP Las Vegas",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "Stasera in TV - Oggi in TV - Programmi SuperTennis giovedi 19 novembre 2026",
+      "fonte": "skysport.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "23:00",
-      "evento": "Tennis WTA - Finals Indian Wells: Errani / Paolini vs Guo / Mladenovic",
-      "competizione": "WTA Finals Indian Wells",
-      "canale": "SuperTennis",
-      "note": "Doppio femminile",
-      "fonte": "Sport in TV giovedi 19 novembre 2026 - Programmi TV, Stasera in TV - Oggi in TV - Programmi SuperTennis giovedi 19 novembre 2026",
+      "orario": "21:00",
+      "evento": "Benfica – Roma",
+      "competizione": "Women's Champions League",
+      "canale": "Disney+",
+      "note": "",
+      "fonte": "calciomagazine.net",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "01:30",
-      "evento": "Formula 1 - GP Las Vegas: Prove Libere 1",
-      "competizione": "Mondiale Formula 1 2026",
-      "canale": "Sky Sport F1, NOW",
-      "note": "Eventi del 20 novembre, entro le 06:00 CET del giorno successivo",
-      "fonte": "Formula 1, orari GP Las Vegas 2026 negli Usa: dove vedere la F1 in tv | Sky Sport, F1 | ORARI TV GP Las Vegas: tutta la programmazione Sky e TV8 del weekend, Formula 1, Gp Las Vegas 2026: dove vedere in tv e in streaming - L'Automobile ACI, Calendario Formula 1 2026: orari e dirette TV Sky e TV8 - FormulaPassion",
+      "evento": "Prove Libere 1 GP Las Vegas",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "(del 20 novembre)",
+      "fonte": "skysport.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "02:15",
+      "evento": "Qualificazioni Europei U19 Israele - Italia",
+      "competizione": "Calcio Nazionale Under 19",
+      "canale": "Rai Sport HD",
+      "note": "(del 20 novembre)",
+      "fonte": "programmitv.com",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:00",
-      "evento": "Formula 1 - GP Las Vegas: Prove Libere 2",
-      "competizione": "Mondiale Formula 1 2026",
-      "canale": "Sky Sport F1, NOW",
-      "note": "Eventi del 20 novembre, entro le 06:00 CET del giorno successivo",
-      "fonte": "Formula 1, orari GP Las Vegas 2026 negli Usa: dove vedere la F1 in tv | Sky Sport, F1 | ORARI TV GP Las Vegas: tutta la programmazione Sky e TV8 del weekend, Formula 1, Gp Las Vegas 2026: dove vedere in tv e in streaming - L'Automobile ACI, Calendario Formula 1 2026: orari e dirette TV Sky e TV8 - FormulaPassion",
+      "evento": "Prove Libere 2 GP Las Vegas",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "note": "(del 20 novembre)",
+      "fonte": "skysport.it",
       "accuratezza_orario": "esatto"
     }
   ]
