@@ -1,77 +1,104 @@
 {
-  "last_updated": "2026-11-20T06:48:07.636546+01:00",
+  "last_updated": "2026-11-20T15:31:56.055285+01:00",
   "events": [
     {
       "orario": "01:30",
-      "evento": "Formula 1 - GP Las Vegas: Prove Libere 1",
+      "evento": "Formula 1 - GP Las Vegas 2026: Prove Libere 1",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "Sky Sport, F1ingenerale, sport2u.tv, OA Sport",
+      "fonte": "OA Sport, FormulaPassion, sport2u.tv",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:00",
-      "evento": "Formula 1 - GP Las Vegas: Prove Libere 2",
+      "evento": "Formula 1 - GP Las Vegas 2026: Prove Libere 2",
       "competizione": "Formula 1",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
       "note": "",
-      "fonte": "Sky Sport, F1ingenerale, sport2u.tv, OA Sport",
+      "fonte": "OA Sport, FormulaPassion, sport2u.tv",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:45",
-      "evento": "MotoGP - GP Portogallo: Prove Libere 1",
+      "orario": "10:00",
+      "evento": "Moto3 - GP Portogallo 2026: Prove Libere 1",
       "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
       "note": "",
-      "fonte": "Sky Sport, Moveo, FormulaPassion.it",
+      "fonte": "OA Sport, Sky Sport Uno",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:50",
+      "evento": "Moto2 - GP Portogallo 2026: Prove Libere 1",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport Uno, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:40",
+      "evento": "MotoGP - GP Portogallo 2026: Prove Libere 1",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport Uno, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:00*",
-      "evento": "Tennis - Singolare Round Robin: Carlos Alcaraz vs Flavio Cobolli",
-      "competizione": "Nitto ATP Finals",
-      "canale": "Sky Sport Uno, Sky Sport Tennis, NOW",
-      "note": "Orario stimato, non prima delle 14:00 CET",
-      "fonte": "kisskiss.it, sport2u.tv, Sky Sport, ATP Finals",
+      "evento": "Tennis - ATP Finals 2026: Carlos Alcaraz vs Flavio Cobolli",
+      "competizione": "ATP Finals",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, NOW, Tennis TV",
+      "note": "Match di singolare con giocatore italiano. Orario 'Non prima delle'.",
+      "fonte": "OA Sport, CronacaPop, Eventi News, Atp Finals oggi",
       "accuratezza_orario": "stimato"
     },
     {
-      "orario": "16:00",
-      "evento": "Calcio - Italia U17 vs Giamaica",
-      "competizione": "Qualificazioni Europee U17",
-      "canale": "Rai Sport",
+      "orario": "14:00",
+      "evento": "Moto3 - GP Portogallo 2026: Prove Libere 2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "Calciomagazine, Calcio in tv oggi",
+      "fonte": "FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Moto2 - GP Portogallo 2026: Prove Libere 2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "MotoGP - GP Portogallo: Prove (FP2)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "evento": "Calcio - Mondiali U17: Italia vs Giamaica",
+      "competizione": "Mondiali Under 17",
+      "canale": "Rai Sport HD, RaiPlay",
       "note": "",
-      "fonte": "Sky Sport, Moveo, FormulaPassion.it",
+      "fonte": "OA Sport, Calciomagazine, Eventi News, Virgilio",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "MotoGP - GP Portogallo 2026: Prove Libere 2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00*",
-      "evento": "Tennis - Doppio Round Robin: Simone Bolelli/Andrea Vavassori vs Kevin Krawietz/Tim Puetz",
-      "competizione": "Nitto ATP Finals",
+      "evento": "Tennis - ATP Finals 2026: Simone Bolelli/Andrea Vavassori vs Kevin Krawietz/Tim Pütz",
+      "competizione": "ATP Finals",
       "canale": "Sky Sport Uno, Sky Sport Tennis, NOW",
-      "note": "Orario stimato, non prima delle 18:00 CET",
-      "fonte": "kisskiss.it, sport2u.tv, Sky Sport, ATP Finals",
+      "note": "Match di doppio con giocatori italiani. Orario 'Non prima delle'.",
+      "fonte": "Atp Finals oggi",
       "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "20:30",
-      "evento": "Calcio - Hellas Verona vs Cesena",
-      "competizione": "Serie B",
-      "canale": "DAZN, Lab Channel",
-      "note": "",
-      "fonte": "Calciomagazine, Calcio in tv oggi, Lega B",
-      "accuratezza_orario": "esatto"
     }
   ]
 }
