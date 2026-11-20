@@ -1,31 +1,76 @@
 {
-  "last_updated": "2026-11-20T00:59:24.666898+01:00",
+  "last_updated": "2026-11-20T06:48:07.636546+01:00",
   "events": [
     {
       "orario": "01:30",
-      "evento": "Prove Libere 1",
-      "competizione": "Formula 1, Gran Premio di Las Vegas 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Diretta TV. Orario italiano (CET). Le prove libere a Las Vegas iniziano alle 16:30 PST del 19 novembre, corrispondenti alle 01:30 CET del 20 novembre.",
-      "fonte": "OA Sport, Sky Sport",
+      "evento": "Formula 1 - GP Las Vegas: Prove Libere 1",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "",
+      "fonte": "Sky Sport, F1ingenerale, sport2u.tv, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:00",
-      "evento": "Prove Libere 2",
-      "competizione": "Formula 1, Gran Premio di Las Vegas 2026",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Diretta TV. Orario italiano (CET). Le prove libere a Las Vegas iniziano alle 20:00 PST del 19 novembre, corrispondenti alle 05:00 CET del 20 novembre.",
-      "fonte": "OA Sport, Sky Sport",
+      "evento": "Formula 1 - GP Las Vegas: Prove Libere 2",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "",
+      "fonte": "Sky Sport, F1ingenerale, sport2u.tv, OA Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "20:00",
-      "evento": "Test match: Selezione Italiana vs Queensland Reds",
-      "competizione": "Rugby",
-      "canale": "Canale Youtube della FIR (streaming)",
-      "note": "Test match della squadra di selezione italiana.",
-      "fonte": "OnRugby",
+      "orario": "11:45",
+      "evento": "MotoGP - GP Portogallo: Prove Libere 1",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport, Moveo, FormulaPassion.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00*",
+      "evento": "Tennis - Singolare Round Robin: Carlos Alcaraz vs Flavio Cobolli",
+      "competizione": "Nitto ATP Finals",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, NOW",
+      "note": "Orario stimato, non prima delle 14:00 CET",
+      "fonte": "kisskiss.it, sport2u.tv, Sky Sport, ATP Finals",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Calcio - Italia U17 vs Giamaica",
+      "competizione": "Qualificazioni Europee U17",
+      "canale": "Rai Sport",
+      "note": "",
+      "fonte": "Calciomagazine, Calcio in tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "MotoGP - GP Portogallo: Prove (FP2)",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
+      "note": "",
+      "fonte": "Sky Sport, Moveo, FormulaPassion.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00*",
+      "evento": "Tennis - Doppio Round Robin: Simone Bolelli/Andrea Vavassori vs Kevin Krawietz/Tim Puetz",
+      "competizione": "Nitto ATP Finals",
+      "canale": "Sky Sport Uno, Sky Sport Tennis, NOW",
+      "note": "Orario stimato, non prima delle 18:00 CET",
+      "fonte": "kisskiss.it, sport2u.tv, Sky Sport, ATP Finals",
+      "accuratezza_orario": "stimato"
+    },
+    {
+      "orario": "20:30",
+      "evento": "Calcio - Hellas Verona vs Cesena",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "",
+      "fonte": "Calciomagazine, Calcio in tv oggi, Lega B",
       "accuratezza_orario": "esatto"
     }
   ]
