@@ -1,112 +1,265 @@
 {
-  "last_updated": "2026-11-21T00:28:15.698860+01:00",
+  "last_updated": "2026-11-21T05:38:59.695463+01:00",
   "events": [
     {
-      "orario": "01:30",
-      "evento": "Formula 1 - Prove Libere 3",
-      "competizione": "GP Las Vegas 2026",
-      "canale": "Sky Sport F1, NOW",
+      "orario": "00:00",
+      "evento": "Velez-Belgrano",
+      "competizione": "Campionato argentino",
+      "canale": "Sportitalia, Como TV",
       "note": "",
-      "fonte": "alVolante.it, Sky Sport, Automoto.it",
+      "fonte": "Calciomagazine, Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "01:30",
+      "evento": "Formula 1 - GP Las Vegas 2026 - Prove Libere 3",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "FormulaPassion, Sky Sport, Programmi Sky, Automoto",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "05:00",
-      "evento": "Formula 1 - Qualifiche",
-      "competizione": "GP Las Vegas 2026",
-      "canale": "Sky Sport F1, NOW, Sky Sport Uno, Sky Sport 4K",
+      "evento": "Formula 1 - GP Las Vegas 2026 - Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "Tom's Hardware, alVolante.it, Sky Sport, Sky Sport",
+      "fonte": "FormulaPassion, Sky Sport, Programmi Sky, Automoto, Il Fatto Quotidiano",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:35",
-      "evento": "Moto3 - Prove Libere 2",
-      "competizione": "GP Portogallo 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:20",
-      "evento": "Moto2 - Prove Libere 2",
-      "competizione": "GP Portogallo 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:05",
-      "evento": "MotoGP - Prove Libere 2",
-      "competizione": "GP Portogallo 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport, Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:45",
-      "evento": "MotoGP - Qualifiche",
-      "competizione": "GP Portogallo 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8",
-      "note": "Diretta su Sky Sport e TV8",
-      "fonte": "Sky Sport, Sky Sport, Moto.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:45",
-      "evento": "Moto3 - Qualifiche",
-      "competizione": "GP Portogallo 2026",
+      "orario": "09:40",
+      "evento": "MotoGP - GP Portogallo 2026 - Moto3 Prove Libere 2",
+      "competizione": "MotoGP",
       "canale": "Sky Sport MotoGP, TV8",
-      "note": "Diretta su Sky Sport e TV8",
-      "fonte": "Sky Sport, Moto.it",
+      "note": "",
+      "fonte": "formularace.it, Sky Sport, Fanpage, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:25",
+      "evento": "MotoGP - GP Portogallo 2026 - Moto2 Prove Libere 2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "formularace.it, Sky Sport, Fanpage, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Lecce-Atalanta",
+      "competizione": "Campionato Primavera",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Calciomagazine, Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:00",
+      "evento": "Monza-Fiorentina",
+      "competizione": "Campionato Primavera",
+      "canale": "Primavera TV",
+      "note": "",
+      "fonte": "Calciomagazine, Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:10",
+      "evento": "MotoGP - GP Portogallo 2026 - MotoGP Prove Libere 2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "",
+      "fonte": "formularace.it, Sky Sport, Fanpage, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "11:50",
+      "evento": "MotoGP - GP Portogallo 2026 - MotoGP Qualifiche",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta anche su TV8",
+      "fonte": "formularace.it, Sky Sport, Fanpage, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:00",
+      "evento": "ATP Finals 2026 - Semifinale Doppio",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Mediaset",
+      "note": "Possibile partecipazione italiana (Bolelli/Vavassori) se qualificati.",
+      "fonte": "Sky Sport, OA Sport, Lottomatica.Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:30",
+      "evento": "Parma-Napoli",
+      "competizione": "Serie A Femminile",
+      "canale": "DAZN, DAZN 1 (Sky)",
+      "note": "",
+      "fonte": "Calciomagazine, Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:00",
+      "evento": "Inter-Juventus",
+      "competizione": "Campionato Primavera",
+      "canale": "Sportitalia",
+      "note": "",
+      "fonte": "Calciomagazine, Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:30",
+      "evento": "Manchester City-Fulham",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Calcio, Sky Sport 4K, NOW",
+      "note": "",
+      "fonte": "Calciomagazine, Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:40",
+      "evento": "MotoGP - GP Portogallo 2026 - Moto3 Qualifiche",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta anche su TV8",
+      "fonte": "formularace.it, Sky Sport, Fanpage, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:00",
+      "evento": "Alaves-Deportivo A Coruna",
+      "competizione": "Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine, Goal.com Italia",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30",
+      "evento": "ATP Finals 2026 - Semifinale Singolare",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Mediaset",
+      "note": "Possibile partecipazione italiana (Flavio Cobolli) se qualificato.",
+      "fonte": "Sky Sport, OA Sport, Lottomatica.Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "14:40",
-      "evento": "Moto2 - Qualifiche",
-      "competizione": "GP Portogallo 2026",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
+      "evento": "MotoGP - GP Portogallo 2026 - Moto2 Qualifiche",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta anche su TV8",
+      "fonte": "formularace.it, Sky Sport, Fanpage, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:55",
-      "evento": "MotoGP - Sprint",
-      "competizione": "GP Portogallo 2026",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8",
-      "note": "Diretta su Sky Sport e TV8",
-      "fonte": "Sky Sport, Sky Sport, kisskiss.it",
+      "orario": "15:00",
+      "evento": "Lazio-Lecce",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky)",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Como-Cagliari",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 2 (Sky)",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Milan-Sassuolo",
+      "competizione": "Serie A Femminile",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "MotoGP - GP Portogallo 2026 - Sprint",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta anche su TV8",
+      "fonte": "formularace.it, Sky Sport, Fanpage, FormulaPassion, sport2u.tv",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Parma-Roma",
+      "competizione": "Serie A",
+      "canale": "DAZN, DAZN 1 (Sky)",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "ATP Finals 2026 - Semifinale Doppio",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Mediaset",
+      "note": "Possibile partecipazione italiana (Bolelli/Vavassori) se qualificati.",
+      "fonte": "Sky Sport, OA Sport, Lottomatica.Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Newcastle-Arsenal",
+      "competizione": "Premier League",
+      "canale": "Sky Sport Calcio, NOW",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Schalke 04-Stoccarda",
+      "competizione": "Bundesliga",
+      "canale": "Sky Sport Mix, NOW",
+      "note": "",
+      "fonte": "Calciomagazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:30",
+      "evento": "Siviglia-Betis",
+      "competizione": "Liga",
+      "canale": "DAZN",
+      "note": "",
+      "fonte": "Calciomagazine",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:15",
-      "evento": "Formula 1 - Qualifiche (Differita)",
-      "competizione": "GP Las Vegas 2026",
+      "evento": "Formula 1 - GP Las Vegas 2026 - Qualifiche (Differita)",
+      "competizione": "Formula 1",
       "canale": "TV8",
-      "note": "Replica delle qualifiche trasmesse al mattino",
-      "fonte": "Tom's Hardware, alVolante.it",
+      "note": "",
+      "fonte": "FormulaPassion, Automoto",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "20:30",
+      "evento": "ATP Finals 2026 - Semifinale Singolare",
+      "competizione": "Tennis",
+      "canale": "Sky Sport Tennis, Sky Sport Uno, Mediaset",
+      "note": "Possibile partecipazione italiana (Flavio Cobolli) se qualificato.",
+      "fonte": "Sky Sport, OA Sport, Lottomatica.Sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Napoli vs Torino",
+      "evento": "Napoli-Torino",
       "competizione": "Serie A",
-      "canale": "Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251, DAZN",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport (canale 251), NOW",
       "note": "",
-      "fonte": "Programmi Sky, Sky Sport, DAZN News",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Formula 1 - Gara",
-      "competizione": "GP Las Vegas 2026",
-      "canale": "Sky Sport F1, NOW, Sky Sport Uno, Sky Sport 4K",
-      "note": "Evento della domenica mattina, incluso nel palinsesto notturno come richiesto (fino alle 06:00 CET del giorno successivo)",
-      "fonte": "Tom's Hardware, alVolante.it, Sky Sport, Sky Sport",
+      "fonte": "Calciomagazine, Stasera in TV",
       "accuratezza_orario": "esatto"
     }
   ]
