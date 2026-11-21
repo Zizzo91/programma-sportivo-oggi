@@ -1,130 +1,256 @@
 {
-  "last_updated": "2026-11-21T14:50:48.949172+01:00",
+  "last_updated": "2026-11-21T23:32:16.212208+01:00",
   "events": [
     {
-      "orario": "05:00",
-      "evento": "Formula 1 - GP Las Vegas: Qualifiche",
+      "orario": "01:30",
+      "evento": "F1 - GP Las Vegas: Prove Libere 3",
       "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "",
-      "fonte": "Sport in TV oggi, sabato 21 novembre 2026: orari e canali di calcio, tennis e motori, Sport in tv oggi (sabato 21 novembre): orari e programma. Dove vedere gli eventi in streaming, Serie A, F1, MotoGP, Premier League e tennis: programmazione weekend su Sky",
+      "canale": "Sky Sport F1",
+      "note": "Diretta",
+      "fonte": "FormulaPassion, F1ingenerale, Sky Sport, SNAI sportnews, Sport in tv oggi",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "05:00",
+      "evento": "F1 - GP Las Vegas: Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "Diretta",
+      "fonte": "FormulaPassion, F1ingenerale, Sky Sport, SNAI sportnews, Sport in tv oggi, Atom Heart Magazine, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "07:30",
+      "evento": "F1 - GP Las Vegas: Replica Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "Sky Sport, Atom Heart Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "09:40",
+      "evento": "MotoGP - GP Portogallo: Prove Libere 2 Moto3",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "formularace.it, FormulaPassion",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:00",
+      "evento": "F1 - GP Las Vegas: Replica Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1",
+      "note": "Replica",
+      "fonte": "Sky Sport, Atom Heart Magazine",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:25",
+      "evento": "MotoGP - GP Portogallo: Prove Libere 2 Moto2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP",
+      "note": "Diretta",
+      "fonte": "formularace.it, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "10:30",
-      "evento": "Coppa del Mondo Gurgl: Slalom femminile, 1ª manche",
-      "competizione": "Sci Alpino",
-      "canale": "Eurosport, Rai 2",
-      "note": "",
-      "fonte": "Sport oggi in tv, la programmazione di sabato 21 novembre: serie A, sci alpino, Motogp, Atp Finals - Virgilio, Sport in tv oggi (sabato 21 novembre): orari e programma. Dove vedere gli eventi in streaming, Sport in TV oggi, sabato 21 novembre 2026: orari e programma completo. Dove vedere gli eventi in diretta e streaming",
+      "evento": "Sci Alpino: Coppa del Mondo Gurgl - Slalom Femminile 1ª Manche",
+      "competizione": "Coppa del Mondo Sci Alpino",
+      "canale": "Rai 2, Rai Play, Eurosport 1, Discovery Plus",
+      "note": "Diretta",
+      "fonte": "Sport in TV oggi, Virgilio, Sport in tv oggi (sabato 21 novembre)",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:05",
-      "evento": "MotoGP - GP Portogallo: Prove Libere 2",
+      "orario": "11:10",
+      "evento": "MotoGP - GP Portogallo: Prove Libere MotoGP",
       "competizione": "MotoGP",
       "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Serie A, F1, MotoGP, Premier League e tennis: programmazione weekend su Sky",
+      "note": "Diretta",
+      "fonte": "formularace.it, FormulaPassion",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "11:45",
-      "evento": "MotoGP - GP Portogallo: Qualifiche",
+      "orario": "11:50",
+      "evento": "MotoGP - GP Portogallo: Qualifiche MotoGP Q1",
       "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Serie A, F1, MotoGP, Premier League e tennis: programmazione weekend su Sky",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta",
+      "fonte": "formularace.it, Il Fatto Quotidiano, FormulaPassion, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "13:30",
-      "evento": "Coppa del Mondo Gurgl: Slalom femminile, 2ª manche",
-      "competizione": "Sci Alpino",
-      "canale": "Eurosport, Rai Sport",
-      "note": "",
-      "fonte": "Sport oggi in tv, la programmazione di sabato 21 novembre: serie A, sci alpino, Motogp, Atp Finals - Virgilio",
+      "orario": "12:15",
+      "evento": "MotoGP - GP Portogallo: Qualifiche MotoGP Q2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta",
+      "fonte": "Il Fatto Quotidiano, FormulaPassion, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:15",
+      "evento": "Sci Alpino: Coppa del Mondo Gurgl - Slalom Femminile 2ª Manche",
+      "competizione": "Coppa del Mondo Sci Alpino",
+      "canale": "Rai Sport HD, Rai 2, Rai Play, Eurosport 1, Discovery Plus",
+      "note": "Diretta",
+      "fonte": "tivù.tv, Sport in TV oggi, Virgilio, Sport in tv oggi (sabato 21 novembre)",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:40",
+      "evento": "MotoGP - GP Portogallo: Qualifiche Moto3 Q1",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta",
+      "fonte": "formularace.it, Il Fatto Quotidiano, FormulaPassion, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:10",
+      "evento": "MotoGP - GP Portogallo: Qualifiche Moto3 Q2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta",
+      "fonte": "Il Fatto Quotidiano, FormulaPassion, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:40",
+      "evento": "MotoGP - GP Portogallo: Qualifiche Moto2 Q1",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta",
+      "fonte": "formularace.it, Il Fatto Quotidiano, FormulaPassion, Fanpage",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Calcio - Serie A: Como-Cagliari",
+      "evento": "Calcio: Lazio-Lecce",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "Sport in TV oggi, sabato 21 novembre 2026: orari e canali di calcio, tennis e motori, Il calcio in TV oggi, sabato 21 novembre 2026: da Napoli-Torino a Lazio-Lecce, Calcio in tv oggi, 21 novembre 2026: Como-Cagliari e le altre sfide del giorno, Calendario | Serie A Enilive, Serie A oggi: partite, orari e dove vederle tutte tra DAZN e Sky Sport",
+      "canale": "DAZN, DAZN 1 Sky",
+      "note": "Diretta",
+      "fonte": "CronacaPop, Calciomagazine, Tifo Juventus, Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Calcio - Serie A: Lazio-Lecce",
+      "evento": "Calcio: Como-Cagliari",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "Sport in TV oggi, sabato 21 novembre 2026: orari e canali di calcio, tennis e motori, Il calcio in TV oggi, sabato 21 novembre 2026: da Napoli-Torino a Lazio-Lecce, Dove vedere Lazio Lecce in tv e streaming gratis: orario e diretta, Calcio in tv oggi, 21 novembre 2026: Como-Cagliari e le altre sfide del giorno, Calendario | Serie A Enilive, Serie A oggi: partite, orari e dove vederle tutte tra DAZN e Sky Sport, Lazio Lecce in tv e streaming: dove vedere la partita",
+      "canale": "DAZN, DAZN 2 Sky",
+      "note": "Diretta",
+      "fonte": "CronacaPop, Calciomagazine, Tifo Juventus, Libero",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:55",
+      "orario": "15:00",
+      "evento": "Calcio: Ascoli-Cesena",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "Diretta",
+      "fonte": "Tifo Juventus",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Carrarese-Virtus Entella",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "Diretta",
+      "fonte": "Calciomagazine, Tifo Juventus, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Modena-Juve Stabia",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "Diretta",
+      "fonte": "Calciomagazine, Tifo Juventus, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Sampdoria-Benevento",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "Diretta",
+      "fonte": "Calciomagazine, Tifo Juventus, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "Calcio: Südtirol-Cremonese",
+      "competizione": "Serie B",
+      "canale": "DAZN, Lab Channel",
+      "note": "Diretta",
+      "fonte": "Calciomagazine, Tifo Juventus, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:05",
+      "evento": "MotoGP - GP Portogallo: Qualifiche Moto2 Q2",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport MotoGP, TV8",
+      "note": "Diretta",
+      "fonte": "Il Fatto Quotidiano, FormulaPassion, Fanpage",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
       "evento": "MotoGP - GP Portogallo: Sprint Race",
       "competizione": "MotoGP",
       "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8",
-      "note": "",
-      "fonte": "Sport in TV oggi, sabato 21 novembre 2026: orari e canali di calcio, tennis e motori, Sport oggi in tv, la programmazione di sabato 21 novembre: serie A, sci alpino, Motogp, Atp Finals - Virgilio, Serie A, F1, MotoGP, Premier League e tennis: programmazione weekend su Sky",
+      "note": "Diretta",
+      "fonte": "CronacaPop, formularace.it, Il Fatto Quotidiano, FormulaPassion, Fanpage, Sport in tv oggi",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "17:40",
-      "evento": "Rugby - Nations Championship 2026: Italia-Fiji",
-      "competizione": "Rugby",
-      "canale": "Sky Sport Uno, Sky Sport Arena, TV8",
-      "note": "",
-      "fonte": "Italia-Isole Fiji, Nations Championship rugby: orario e dove vederla in tv e in streaming, Serie A, F1, MotoGP, Premier League e tennis: programmazione weekend su Sky, Back in the Game - Sky Sport Uno - Guida TV",
+      "orario": "17:15",
+      "evento": "Calcio: Catanzaro-Palermo",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "Diretta",
+      "fonte": "CronacaPop, Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Calcio - Serie A: Parma-Roma",
+      "evento": "Calcio: Parma-Roma",
       "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "Il calcio in TV oggi, sabato 21 novembre 2026: da Napoli-Torino a Lazio-Lecce, Calcio in tv oggi, 21 novembre 2026: Como-Cagliari e le altre sfide del giorno, Calendario | Serie A Enilive, Serie A oggi: partite, orari e dove vederle tutte tra DAZN e Sky Sport",
+      "canale": "DAZN, DAZN 1 Sky",
+      "note": "Diretta",
+      "fonte": "Calciomagazine, Libero",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:30",
+      "evento": "Calcio: Empoli-Pisa",
+      "competizione": "Serie B",
+      "canale": "DAZN",
+      "note": "Diretta",
+      "fonte": "Libero",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:15",
-      "evento": "Formula 1 - GP Las Vegas: Qualifiche (Replica)",
+      "evento": "F1 - GP Las Vegas: Differita Qualifiche",
       "competizione": "Formula 1",
       "canale": "TV8",
-      "note": "Differita TV",
-      "fonte": "Sport in tv oggi (sabato 21 novembre): orari e programma. Dove vedere gli eventi in streaming",
+      "note": "Differita",
+      "fonte": "FormulaPassion, F1ingenerale, Fanpage, SNAI sportnews",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Calcio - Serie A: Napoli-Torino",
+      "evento": "Calcio: Napoli-Torino",
       "competizione": "Serie A",
-      "canale": "Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, DAZN",
-      "note": "",
-      "fonte": "Sport in TV oggi, sabato 21 novembre 2026: orari e canali di calcio, tennis e motori, Sport oggi in tv, la programmazione di sabato 21 novembre: serie A, sci alpino, Motogp, Atp Finals - Virgilio, Il calcio in TV oggi, sabato 21 novembre 2026: da Napoli-Torino a Lazio-Lecce, Il calendario di Serie A, le partite e gli orari della 12^ giornata - Sky Sport, Calendario · SSC Napoli, Calcio in tv oggi, 21 novembre 2026: Como-Cagliari e le altre sfide del giorno, Calendario Completo Serie A Enilive 2026/2027, guarda tutte le partite su DAZN, Serie A, F1, MotoGP, Premier League e tennis: programmazione weekend su Sky, Serie A oggi: partite, orari e dove vederle tutte tra DAZN e Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "23:15",
-      "evento": "MotoGP - GP Portogallo: Sprint Race (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno",
-      "note": "",
-      "fonte": "Back in the Game - Sky Sport Uno - Guida TV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Formula 1 - GP Las Vegas: Gara",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
-      "note": "Ora italiana (CET) del 22 novembre",
-      "fonte": "Sport in TV oggi, sabato 21 novembre 2026: orari e canali di calcio, tennis e motori, Serie A, F1, MotoGP, Premier League e tennis: programmazione weekend su Sky, Las Vegas Grand Prix 2026: Full F1 schedule, UK start times and how to watch on TV",
+      "canale": "DAZN, Sky Sport Uno, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251",
+      "note": "Diretta",
+      "fonte": "CronacaPop, Calciomagazine, Sky Sport, Wannart, Libero, Sky Sport",
       "accuratezza_orario": "esatto"
     }
   ]
