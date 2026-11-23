@@ -1,193 +1,58 @@
 {
-  "last_updated": "2026-11-22T23:56:33.037853+01:00",
+  "last_updated": "2026-11-23T05:31:54.148092+01:00",
   "events": [
     {
-      "orario": "00:30",
-      "evento": "Replica GP Las Vegas",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Repliche nella fascia notturna/mattutina del 23 novembre 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-IFBCB_fDlINOXbS5VAlNghz1eZk5SklXMleU-W1hi_ytz8_Eqv1Pk7ROqKDLT6jaZ113sFeEWP2rckHo4v3BtoFwjEeauJo7FahbsK5i9UGrEke_QE9cYpaSif9neiMQZrERHzpQ-p5cOXD3lhxHhUYcMye5c1uKMQuAUT_Qk5FmluQiCP3H01kjeFebqBbhH8zSrw_18JcEgu0cfhjbnj7X3NU_SGODJfePR0ujndcRXfnYn3pvRsPYQflYdEtC",
+      "orario": "09:00",
+      "evento": "Milan - Frosinone (Replay)",
+      "competizione": "Serie A 2026/2027",
+      "canale": "Sky Sport Uno",
+      "note": "12^ giornata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgNb8nEtZaiYo_7tPGtN-90E0ryfnb-s5js1OpKrWZAOiOpQLxQZ-8uOSfD8uImQukUUvC8kTNO7MjEDyM4IA9XMYB_oG2V8VyXnMxDOjve7Q2vs1YPDBCt3ICSfnDEuN8y4fZLaBPg4ScyLvHDW7UBusB, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLncbQvALuLuO9s5CElaWapPomn4zfo5h8gA8E92DNA3M-qcF0mfRin28bd_stKDcj2yrxIIBcskXilsFnzVvIeRfwcKR18q2eecAsd0agRtcCLScsgTJBQYiKcgbctoTk1zXQtlzffdJmBc7f-A5mAbl1en28UXHKaVs8LflBd66cMI55fYuQTMx3wtc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtT2IhHDqeCcZ0WnGksN7akBowdKUk88Pm7y0tvIxhooO5gdMbgWTr-HHSh6FKrvNst5HejEiPiMHwuJrxn0abYqxJphzEpISlCQujfU3CwcEX0LWCEFFgD7FnwjhQhF1dhQ-hXCSc0k6GN6x1bcUeL6pHSXoaYIjAYKk, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4O30GZyJEV6f1UYgSiSxDi-zKP5eCx5HiAfmkIBI4OqxNVsMBg9GgX3wBAdMczYblm4jyUaRw6d-c6zPqEh3NNPcqZaMUDYrJbnwo0rJYtF6nuUdsYUMt3OKUJm-Hkav55O2vLU0qPqvtPNaxirByJJ6HOfsB2CAbRN7B4hRtS04",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "01:00*",
-      "evento": "Replica Gara MotoGP",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica nella notte tra il 22 e il 23 novembre 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx7HbR30xPV4At-ED6tK1cMKO_FS0WEQGQdha4oYrUY1jOQ236UCBd6PjpbEu7JxdmUqquQQzFvQWfe_PWrXSAExBZq9xYt_4S92_TiablDR1Sbx7HuvwXAyQOYDtv6BsLKuC2OU8tMUCx_Nvo_nPx56WD0pLANIoNSrOhlu-o_RMCzXaWbxnPMHpqdtx0BjrZ",
-      "accuratezza_orario": "stimato"
-    },
-    {
-      "orario": "03:00",
-      "evento": "Replica GP Las Vegas",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Repliche nella fascia notturna/mattutina del 23 novembre 2026",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-IFBCB_fDlINOXbS5VAlNghz1eZk5SklXMleU-W1hi_ytz8_Eqv1Pk7ROqKDLT6jaZ113sFeEWP2rckHo4v3BtoFwjEeauJo7FahbsK5i9UGrEke_QE9cYpaSif9neiMQZrERHzpQ-p5cOXD3lhxHhUYcMye5c1uKMQuAUT_Qk5FmluQiCP3H01kjeFebqBbhH8zSrw_18JcEgu0cfhjbnj7X3NU_SGODJfePR0ujndcRXfnYn3pvRsPYQflYdEtC",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "05:00",
-      "evento": "Gara F1 GP Las Vegas",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K, Sky Go, NOW",
-      "note": "Diretta del Gran Premio di Las Vegas",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV7vt7MgdFTeQ9UL6-2p2SuOYnL0sSpSO8tgcidDJr9PWD2Be5sa71azXdlws6UtFD23VQw5MpGmyPChfVMI3empMvWcJqA8dbYFfUIE913Sh1oK3WxJ9F_XhT_1_KvAvNzxBE7gnMeKICwaefRm85PRew-CVPhYPXodSuUpaxJqmXq70RwUiJk2bkWXApYG1RG9dopFk6bbUp3i3a2dgN8b8oC5nyoTSc4Rp4yfojggy1ZARYeH0TLnwhV2fj2x58Cg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5TersebpcOlrWVqRUd7ZXswDROicwCNffvPu-oNUNX3YSKzcLURTVBaxBZ4NLkWY1SU4OJy1KNGK8q7bjKL659VdUIpUPFY2FlMAZeknnijaSCPIAccDq_BaIyVcGWkhBLb06ikGXSBBVmrCnva_ktKwwc-GSd4tfFjejlH7djDys-ZO9zG4qNE_VJhQWdRezy7BGiU6uBva-WekHirFO7J-KaClmUVEdPHc3n2xhlz4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHboH269dp2IFZhsBGQeSeudRz7Cd5afzjGNnxag3m-O_I2rHAftBdbJQ9CctDQzvF7OroFWeKYd7pWDuiTGutwfljINK3NGCfrb2FCyScdYPKVoMGOcjKFB33jzxndray-C3Fi_2Bi_ngO0oQKhn0yB_0Y5TXJhX5_TdQBOLZ3808Wfjktc8oJwz332OFZQr5KSkG8bYun1QPAKG052ojMZDkg0HtOnK74X6e2-8qBVN0ovAnlsbL3cLppesT0tua-Olmw2jXkG3vcPl6I1JJHmCBWii172fY_yeTHOJY1btkATcraO9tFUQ6s-uWZ7g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuKdyu3LgvfxalpN5r7XxvY7wCV7dBiSOVigFKOfUXs8-ao-BXivIFBJItkO2q0eZLrCw3UgmVcWOcVxDvfZedfIMQceDclzvhbp7zRgOK-FbKb9Cxyvg74jfheXSVQyaaZNnJDZkGPnvan7TwBmZz-YChhQmfDPXRfXyL2dIyRk5WojAOYpF7PvY-17xWaF59dAdNnYjTcy_VCahQoHyUi3-2KOYk8AlNrg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8NrkYNzhoDEVNPVB8cpmfSnA08yxIUeI5vrihq9L7Qmpfs3QDN2JiynBqcdcZNGbAojpOJWwmsBQLr8IYcVZb3tE1I0UXT2kGq6Auc29hxOcfVeST9I9tgCaCmoD0qAgxNwFW5at8W_Gght5oNse2uvZ1OVLtgiAFgZy1nzPGzTosGpqHzQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZW4AK5d-iTOo3YRXLnlhWHMFdIac7L-GleZOCb6VAcrSGHViituzcpu1cAQrOLSYzIs4UkL4UZ_FkUf8LiZICz4ktR7DSJCk3wpoN15-W_i4Ed7g2kv2WkQvBzVsDO_eYK0XtJSXYQ4aIcl0uHs6x6LqJgQSZh4K64Zc7AnbIB1uTwPtmQrCv5uj9_6YYV8jnEviCNpQZV6KuKrwRpvHYaQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyt2APvFpPF3lFH4dkBQH0_cIy7RryzKsbyMBhCcMEWq5JNfAc5ekW26vuWUX6-LHPf6AUUq94OAvcBb5oxbL13RPNZA1pdtH4GTTs9ch2tFJxEYahta1UPpr4BzZnvhmonNu_3w8ltMeq6KlVJ6m8JIQq2LaRxum-6YcWJG7hXUBjaqQr-Ip408XemqH9mtTzZV_034S1hOrz3V2lPJtQx2_wlBK6nnzMXFrf6K855g4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8pxaPqQFQoIgMBhxDwPjaYRE_oqVtuB4VZL-FSnh5Uu6pBd94JTAElfMGDRzEQNvH2eBNNiYeNZW6YO6KE9tnkjwKaVFBLE-VRlyjumILzN8F_0sDUPHJkcsQEvJO4bIETh_X5sze-qrkcvQUbfRFdHulrBauymEgYBOFwgEyCowref9HNQuSLrnFntSa_j5px1Rao-MBiFQN8NM, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtpYADyPKNLGn347owuBXYjaFtvWSjr0GKLJbMu3X2rGsfpKXsCotekoMKj_c-ItRs8u-2xVoLZy-ZtaQu0-JrUx3W5zFUJI7FWs1Tig135u8Hdmb18chsxO_JDP5sWSP0pLMTJQUcoccVK0kBrmpvN9AcsVR7Y9HIZ7-4ojS7qlOAX0kc9ppmu48iRxbDudMxgg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvqi52L4CgDcsNEWG4jLDFMe_ngF5ekV_Cj7CwTbD9C0n7FE3m2OKOP79Mnh4crYF_htalGYCF-o3WdIANRwY4ULnX2VGct5xCP9tN2MENjZUj0WjGJE3HE6Wi6s9AsevTlY5l2j15Hu81QOfJOGOivwnEmOWXj7_29jG9lhmT9ALHgg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFnzj8NxZUnHNOkK3z1sp15zOQ3xh5iJZkEQJSRXuslRqeDpnJTyLM_dri-Aq8WYiHenbqC_wbUCp3TzEAbXuNynIqfPyQShxoMJ6O6Zk_XDH69H5tnFV9aAuu3LGYpyR9PXIEFMWbikN06yJBNSCSC_GPxq9MsXgKWE4Hp4e1gqzdbUrxAaJ_KSGBvEQ0az0fUgxkLZuFRxEUucrr7utC777o1LoU8Sna3S-CYiT9YDq1PDhAr3bQt4xtCswMKBrIE4xriO5yKbA5tpLYcr_gC1LVdLh087I-n2gDbWPNbBnM1NE9_LhkbdP0othHVuRvxylcHrQf9vSSNeAT7eQYVDGZrl5tpDsVFiXKje4",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:30",
-      "evento": "Replica GP Las Vegas",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Prima replica mattutina del Gran Premio di Las Vegas",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8NrkYNzhoDEVNPVB8cpmfSnA08yxIUeI5vrihq9L7Qmpfs3QDN2JiynBqcdcZNGbAojpOJWwmsBQLr8IYcVZb3tE1I0UXT2kGq6Auc29hxOcfVeST9I9tgCaCmoD0qAgxNwFW5at8W_Gght5oNse2uvZ1OVLtgiAFgZy1nzPGzTosGpqHzQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:00",
-      "evento": "Warm Up MotoGP",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP, NOW, Sky Go",
-      "note": "Preparazione alla gara del GP del Portogallo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5CXCcp_uz9QFk0INfUVwXiHa4-aR-_cL34rgsMYVJm0zcBjUOQ58wLnxBBQCl8y226cRSoV0sN83MkOOiwI-YlXIMPAzCuVB-rtKH7OP7BO43Oc5b_XixHCm6RFfy8Ln1zUi88Vq3bfGzTeOmUjkY2ZayVZAz0DAi3EeGtOFPauwWqInfwJLFP15hHGBHo8DxBlDjtBmk-DrzHs9FCClOfAjQmHWIovrReXp3iRhDqjrpinpnzcAx7VFhbngmwqPBhA4u, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4N4joMexDTqtz5k4VWAazILirAbcIfZznyayJm5n8c81wxojxzVjdY4vjmj29mcjxHIjctRwhxLF9JUg98krgBCS0lkXd_FsBZnYYxsPAI2R6PMExxwKHCBK8nNu4-BnlrxrQ1LvAkvAGrhrezDz47uFpDXgGq-aOZKUpx3T25xqeG2C8_gEwon1MpeVeRLdbEA1UFGhmvh5UgmXc-Li7dhskZQxxZFBpTZ4UAO4lq0DGKqH1xAYKqOzvfI4Vcn7n",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "11:00",
-      "evento": "Gara Moto3",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP, TV8, NOW, Sky Go",
-      "note": "Gara della classe Moto3 del GP del Portogallo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV7vt7MgdFTeQ9UL6-2p2SuOYnL0sSpSO8tgcidDJr9PWD2Be5sa71azXdlws6UtFD23VQw5MpGmyPChfVMI3empMvWcJqA8dbYFfUIE913Sh1oK3WxJ9F_XhT_1_KvAvNzxBE7gnMeKICwaefRm85PRew-CVPhYPXodSuUpaxJqmXq70RwUiJk2bkWXApYG1RG9dopFk6bbUp3i3a2dgN8b8oC5nyoTSc4Rp4yfojggy1ZARYeH0TLnwhV2fj2x58Cg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5CXCcp_uz9QFk0INfUVwXiHa4-aR-_cL34rgsMYVJm0zcBjUOQ58wLnxBBQCl8y226cRSoV0sN83MkOOiwI-YlXIMPAzCuVB-rtKH7OP7BO43Oc5b_XixHCm6RFfy8Ln1zUi88Vq3bfGzTeOmUjkY2ZayVZAz0DAi3EeGtOFPauwWqInfwJLFP15hHGBHo8DxBlDjtBmk-DrzHs9FCClOfAjQmHWIovrReXp3iRhDqjrpinpnzcAx7VFhbngmwqPBhA4u, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx7HbR30xPV4At-ED6tK1cMKO_FS0WEQGQdha4oYrUY1jOQ236UCBd6PjpbEu7JxdmUqquQQzFvQWfe_PWrXSAExBZq9xYt_4S92_TiablDR1Sbx7HuvwXAyQOYDtv6BsLKuC2OU8tMUCx_Nvo_nPx56WD0pLANIoNSrOhlu-o_RMCxXaWbxnPMHpqdtx0BjrZ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjh3nxZ6FaRxhcoPTvmZifibKrrsFJW0dJ-CzBUr9zP8oFNvwj8iXrSl9-fDyfMK6LT2aIfKZQaRKxEz6XKIesUlXRKdYqxdYTPrQPpLpdjujNJ21GOBpfQKvpQMi7GYYSJOHeQJ5gCfsxX_ph4Gx8y8bFzsiPIln1tqmkmtt8CDPEDEurKhwWSnoBzzWHcEPDTbHZjk5FSamUeuK3-qwH8LQresMuTas5jwswQatGMw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyt2APvFpPF3lFH4dkBQH0_cIy7RryzKsbyMBhCcMEWq5JNfAc5ekW26vuWUX6-LHPf6AUUq94OAvcBb5oxbL13RPNZA1pdtH4GTTs9ch2tFJxEYahta1UPpr4BzZnvhmonNu_3w8ltMeq6KlVJ6m8JIQq2LaRxum-6YcWJG7hXUBjaqQr-Ip408XemqH9mtTzZV_034S1hOrz3V2lPJtQx2_wlBK6nnzMXFrf6K855g4",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:00",
-      "evento": "Replica GP Las Vegas",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport F1",
-      "note": "Replica del Gran Premio di Las Vegas",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8NrkYNzhoDEVNPVB8cpmfSnA08yxIUeI5vrihq9L7Qmpfs3QDN2JiynBqcdcZNGbAojpOJWwmsBQLr8IYcVZb3tE1I0UXT2kGq6Auc29hxOcfVeST9I9tgCaCmoD0qAgxNwFW5at8W_Gght5oNse2uvZ1OVLtgiAFgZy1nzPGzTosGpqHzQ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:15",
-      "evento": "Gara Moto2",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP, TV8, NOW, Sky Go",
-      "note": "Gara della classe Moto2 del GP del Portogallo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV7vt7MgdFTeQ9UL6-2p2SuOYnL0sSpSO8tgcidDJr9PWD2Be5sa71azXdlws6UtFD23VQw5MpGmyPChfVMI3empMvWcJqA8dbYFfUIE913Sh1oK3WxJ9F_XhT_1_KvAvNzxBE7gnMeKICwaefRm85PRew-CVPhYPXodSuUpaxJqmXq70RwUiJk2bkWXApYG1RG9dopFk6bbUp3i3a2dgN8b8oC5nyoTSc4Rp4yfojggy1ZARYeH0TLnwhV2fj2x58Cg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5CXCcp_uz9QFk0INfUVwXiHa4-aR-_cL34rgsMYVJm0zcBjUOQ58wLnxBBQCl8y226cRSoV0sN83MkOOiwI-YlXIMPAzCuVB-rtKH7OP7BO43Oc5b_XixHCm6RFfy8Ln1zUi88Vq3bfGzTeOmUjkY2ZayVZAz0DAi3EeGtOFPauwWqInfwJLFP15hHGBHo8DxBlDjtBmk-DrzHs9FCClOfAjQmHWIovrReXp3iRhDqjrpinpnzcAx7VFhbngmwqPBhA4u, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx7HbR30xPV4At-ED6tK1cMKO_FS0WEQGQdha4oYrUY1jOQ236UCBd6PjpbEu7JxdmUqquQQzFvQWfe_PWrXSAExBZq9xYt_4S92_TiablDR1Sbx7HuvwXAyQOYDtv6BsLKuC2OU8tMUCx_Nvo_nPx56WD0pLANIoNSrOhlu-o_RMCxXaWbxnPMHpqdtx0BjrZ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjh3nxZ6FaRxhcoPTvmZifibKrrsFJW0dJ-CzBUr9zP8oFNvwj8iXrSl9-fDyfMK6LT2aIfKZQaRKxEz6XKIesUlXRKdYqxdYTPrQPpLpdjujNJ21GOBpfQKvpQMi7GYYSJOHeQJ5gCfsxX_ph4Gx8y8bFzsiPIln1tqmkmtt8CDPEDEurKhwWSnoBzzWHcEPDTbHZjk5FSamUeuK3-qwH8LQresMuTas5jwswQatGMw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyt2APvFpPF3lFH4dkBQH0_cIy7RryzKsbyMBhCcMEWq5JNfAc5ekW26vuWUX6-LHPf6AUUq94OAvcBb5oxbL13RPNZA1pdtH4GTTs9ch2tFJxEYahta1UPpr4BzZnvhmonNu_3w8ltMeq6KlVJ6m8JIQq2LaRxum-6YcWJG7hXUBjaqQr-Ip408XemqH9mtTzZV_034S1hOrz3V2lPJtQx2_wlBK6nnzMXFrf6K855g4",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:30",
-      "evento": "Juventus-Venezia",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1GNly1-Tg99uCgWg0PQ2oy6Dsogg05hKRFZNVirciuPgTS2wpTkx3av4_1nIimHB1_0xaUBX-IUrWeBaGfdl0SHFe4POmmMD7Mo_c0tcFKCRdxOA4pt2yd_rs4wY-1ZOAGTcZEaW8q5FigC47_h6JnKTyVaJefEwuZJNTHdK3UyMYGoH5w4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKHF8u-cHA8CrjlkYHlJjQJYfg0B96qr_KMDWvTE6WMAJjl32W-U_AOl-HwHekmAYonkWX09h9ek1x0iYCsyTKINZe09sGPQF-8igXsOXNNr6G4OKEodEpXHKmPhLw7ieoPDyz_CY7AqEhPMAEZjlND8HBQx3VIGAk_35Imi6VfOtKdA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd_ckBm9w14cdhZLm0Ng4SFqTD5zPsnjbCx7i1UAV7WpORGr6wSYcAWqzMBMByesNYePjGOEatzEIkNVMVj6fvCtFz3RTFLLQ2pbz20s7BZJtEpo15NUSYeNo7-0sEjZQImq5nHBly3pmCEFoRiUziXN3JjdfeZaoaJzZTooMHJQCy7XKAKfCuARE0VrDgc3xdR5VqaGRWG-81LPj6yQtA_9eqftAz1pgXEtQEq3QJ3V0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2OnKZpQJi2OzZUgzqIvtCFpon9m0IApN3PX-78T-Rosut7gfgk7yLhDJKDHLsdBhcNRNMZNV4IIZeW76IHDA6wFga4zYguyPbJuSCZt10qc2i1EQDa23UWyjuc_DRaexpPG1UITFb_G8FtS04LK9tNVtQCsk9S8GZ26didFCDEFSa71THJWnvul7otvkrMEydSOTXsWQ0A1XcYg1dd3uop36IySj7uudRevJvLSTG3uizVYLSmbX8J52sw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:00",
-      "evento": "Gara MotoGP",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP, TV8, NOW, Sky Go",
-      "note": "Gara della classe regina del GP del Portogallo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVjAp9azTbXP5C4NDQYrgvGEFtSLdQVVHy3M6TSdEgJbe4e_QcPfbuH9_WrLhbHqnIaYHAAHlFAhhEOWYCpw7mDMzdOdUM0NlZf2sUeBSuQxurnnRR4bIoO23mkEJfEAefxklMTKvwe3qxZjJtl0cdgquxkuwaeVO9EnNvlztWT8yd7h36H5gApDBXsngXG4D0ioF4JVkqRqCt9BL0cleJ6DbLPWgH, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV7vt7MgdFTeQ9UL6-2p2SuOYnL0sSpSO8tgcidDJr9PWD2Be5sa71azXdlws6UtFD23VQw5MpGmyPChfVMI3empMvWcJqA8dbYFfUIE913Sh1oK3WxJ9F_XhT_1_KvAvNzxBE7gnMeKICwaefRm85PRew-CVPhYPXodSuUpaxJqmXq70RwUiJk2bkWXApYG1RG9dopFk6bbUp3i3a2dgN8b8oC5nyoTSc4Rp4yfojggy1ZARYeH0TLnwhV2fj2x58Cg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5CXCcp_uz9QFk0INfUVwXiHa4-aR-_cL34rgsMYVJm0zcBjUOQ58wLnxBBQCl8y226cRSoV0sN83MkOOiwI-YlXIMPAzCuVB-rtKH7OP7BO43Oc5b_XixHCm6RFfy8Ln1zUi88Vq3bfGzTeOmUjkY2ZayVZAz0DAi3EeGtOFPauwWqInfwJLFP15hHGBHo8DxBlDjtBmk-DrzHs9FCClOfAjQmHWIovrReXp3iRhDqjrpinpnzcAx7VFhbngmwqPBhA4u, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuKdyu3LgvfxalpN5r7XxvY7wCV7dBiSOVigFKOfUXs8-ao-BXivIFBJItkO2q0eZLrCw3UgmVcWOcVxDvfZedfIMQceDclzvhbp7zRgOK-FbKb9Cxyvg74jfheXSVQyaaZNnJDZkGPnvan7TwBmZz-YChhQmfDPXRfXyL2dIyRk5WojAOYpF7PvY-17xWaF59dAdNnYjTcy_VCahQoHyUi3-2KOYk8AlNrg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx7HbR30xPV4At-ED6tK1cMKO_FS0WEQGQdha4oYrUY1jOQ236UCBd6PjpbEu7JxdmUqquQQzFvQWfe_PWrXSAExBZq9xYt_4S92_TiablDR1Sbx7HuvwXAyQOYDtv6BsLKuC2OU8tMUCx_Nvo_nPx56WD0pLANIoNSrOhlu-o_RMCxXaWbxnPMHpqdtx0BjrZ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjh3nxZ6FaRxhcoPTvmZifibKrrsFJW0dJ-CzBUr9zP8oFNvwj8iXrSl9-fDyfMK6LT2aIfKZQaRKxEz6XKIesUlXRKdYqxdYTPrQPpLpdjujNJ21GOBpfQKvpQMi7GYYSJOHeQJ5gCfsxX_ph4Gx8y8bFzsiPIln1tqmkmtt8CDPEDEurKhwWSnoBzzWHcEPDTbHZjk5FSamUeuK3-qwH8LQresMuTas5jwswQatGMw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4N4joMexDTqtz5k4VWAazILirAbcIfZznyayJm5n8c81wxojxzVjdY4vjmj29mcjxHIjctRwhxLF9JUg98krgBCS0lkXd_FsBZnYYxsPAI2R6PMExxwKHCBK8nNu4-BnlrxrQ1LvAkvAGrhrezDz47uFpDXgGq-aOZKUpx3T25xqeG2C8_gEwon1MpeVeRLdbEA1UFGhmvh5UgmXc-Li7dhskZQxxZFBpTZ4UAO4lq0DGKqH1xAYKqOzvfI4Vcn7n, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyt2APvFpPF3lFH4dkBQH0_cIy7RryzKsbyMBhCcMEWq5JNfAc5ekW26vuWUX6-LHPf6AUUq94OAvcBb5oxbL13RPNZA1pdtH4GTTs9ch2tFJxEYahta1UPpr4BzZnvhmonNu_3w8ltMeq6KlVJ6m8JIQq2LaRxum-6YcWJG7hXUBjaqQr-Ip408XemqH9mtTzZV_034S1hOrz3V2lPJtQx2_wlBK6nnzMXFrf6K855g4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwsWLWpZdBEnDcKYnEjRdgYlabYsy3WVg7jfaNbIO6sqV-eBI8hWv0EfcYHux4iKs6gaMFW_LvOTKzr6gJG7l6aFn3FsIpQUO6trHw5V_sCZGpfzXQ8pClaRgLxjS_s9j-RUowAiKWT2W_5piuMYnno_-Z4BIsOKN3SZpm1g41qGf_xRq1KXaUcQrgODqOCPiAM9EDWUioFkGZOwVPhR1t7erz7cJ3JuTY1KiihSZZVo3dza0aSIgjb_1Q2TXUN_PbmnMPo-QUM-J1JMWsuiW7j5-cMZKSYkJVZ0mU2B6cRjS_HGIzSG9aLoF9aH4hSideSpH5NlCzJ4lO7fiQ7dcJH4hb2370Qw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmkZESeb2Oi6h0tDlFUsA3ivlr7OeInmZYRiQE80L14BzKkPzz4wx1KzxTF1V2WjhTuctGojeHxUkSGoel2G8lIcBThEghc3a-_xYayLIPfQQuzQisiy-IXbSZZecoXnAKsve11DQDhSMJlau4Pa67hJG9sc8mFFKASQUWgFcw7HHtk4HBbdE4Lhn63Tags2Lp-9w7q33zO_edujmsabOJeROox5WaM4Uid2dujUWcut-TxDA0pOK67Mm3wkcdZ9cP_zLCSAUPiWFIJu2N2NZroChdA1_7kYF9Oz5eILgGftv3pET0pGIDtCtMjog",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:30",
-      "evento": "Athletic Palermo-Reggina",
-      "competizione": "Serie D Girone I",
-      "canale": "ReggioTV (Canale 77/677 DT Calabria, 251 DT Nazionale via internet), reggiotv.it streaming",
-      "note": "Partita valida per la 13ª giornata di Serie D.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9WyNoTHKneZT5yQAnzd6RFZDmmG7-8yAQY3auR0xhYOZLzo_ivV61m7r4XmoCvjvm1VOUAQzzPY14-vCCkZBCRQCxIwWRQc1dM7jlatIWJ8Shw198qF9W2aCbE56GOf-15ItoiR6JBNOa_jUKqKPpR7ntUQeNxU7-Cjjq8BzOoNNK3PCXrUspMdwCuYtJWV5FPyfmdLm2pWI8t52BzB_Vug, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-RvgBNvAYB7jKR5w0U5-l7P2g4u_Xp4mPV9dDvGiGQ_NJGjdiTiOU0gZVTlwcTtZRQVftAlMoKCHBI_6pK6MsYF39MCum4Hki7taplZyZ0r5boGKslmeAeYWZKPUYXUilwh5hpKDSuMtns9PKTMg8-rzS6d5J6gAhJuXnF0wkdiVFrKjGLRz7WLN3yavGH0zqKT7RZmxPt3_2CwHyc357ULeRZmq0S0ImUMJgEmq4DoocKQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPXBMZFOGLa78ct34c1Ur7ySFPyPDVaj8V4qtfXbUtVUFBTbxO0UXYDfbPkO0iDcSELE74AIPS6ajmjt3fkG6GOuDw8SP_F_fqv0KNSgILpx15VIWJDGplT5bfRCzyV58YuGpftpnNez3Fz32eOPGBjp0pYLpjYwRFZgrz2wo-1Ox7M0rNLHo0EBh-tUS0wdPcv, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwULfIWJ8zVzkAi1pMwVApnYBatUJXdmBaMWRQWQY6WQXLmKEvzuX70F4so0AyxSdzU5HVhP4tmJyd5asJvlQdWQCCxhHJY0P49Tu8MO8HX0Wx2aqCFvS3eSPnzl3H4RZhXp0kaWVD4WJWbkVoVZ--1bkT27M143kX_5ZtWlfR3XrGRWN7VhF1jdVNHN0NQWMDu9KwOQ==",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Bologna-Udinese",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1GNly1-Tg99uCgWg0PQ2oy6Dsogg05hKRFZNVirciuPgTS2wpTkx3av4_1nIimHB1_0xaUBX-IUrWeBaGfdl0SHFe4POmmMD7Mo_c0tcFKCRdxOA4pt2yd_rs4wY-1ZOAGTcZEaW8q5FigC47_h6JnKTyVaJefEwuZJNTHdK3UyMYGoH5w4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKHF8u-cHA8CrjlkYHlJjQJYfg0B96qr_KMDWvTE6WMAJjl32W-U_AOl-HwHekmAYonkWX09h9ek1x0iYCsyTKINZe09sGPQF-8igXsOXNNr6G4OKEodEpXHKmPhLw7ieoPDyz_CY7AqEhPMAEZjlND8HBQx3VIGAk_35Imi6VfOtKdA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd_ckBm9w14cdhZLm0Ng4SFqTD5zPsnjbCx7i1UAV7WpORGr6wSYcAWqzMBMByesNYePjGOEatzEIkNVMVj6fvCtFz3RTFLLQ2pbz20s7BZJtEpo15NUSYeNo7-0sEjZQImq5nHBly3pmCEFoRiUziXN3JjdfeZaoaJzZTooMHJQCy7XKAKfCuARE0VrDgc3xdR5VqaGRWG-81LPj6yQtA_9eqftAz1pgXEtQEq3QJ3V0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2OnKZpQJi2OzZUgzqIvtCFpon9m0IApN3PX-78T-Rosut7gfgk7yLhDJKDHLsdBhcNRNMZNV4IIZeW76IHDA6wFga4zYguyPbJuSCZt10qc2i1EQDa23UWyjuc_DRaexpPG1UITFb_G8FtS04LK9tNVtQCsk9S8GZ26didFCDEFSa71THJWnvul7otvkrMEydSOTXsWQ0A1XcYg1dd3uop36IySj7uudRevJvLSTG3uizVYLSmbX8J52sw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Sassuolo-Genoa",
-      "competizione": "Serie A",
-      "canale": "DAZN",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1GNly1-Tg99uCgWg0PQ2oy6Dsogg05hKRFZNVirciuPgTS2wpTkx3av4_1nIimHB1_0xaUBX-IUrWeBaGfdl0SHFe4POmmMD7Mo_c0tcFKCRdxOA4pt2yd_rs4wY-1ZOAGTcZEaW8q5FigC47_h6JnKTyVaJefEwuZJNTHdK3UyMYGoH5w4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKHF8u-cHA8CrjlkYHlJjQJYfg0B96qr_KMDWvTE6WMAJjl32W-U_AOl-HwHekmAYonkWX09h9ek1x0iYCsyTKINZe09sGPQF-8igXsOXNNr6G4OKEodEpXHKmPhLw7ieoPDyz_CY7AqEhPMAEZjlND8HBQx3VIGAk_35Imi6VfOtKdA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd_ckBm9w14cdhZLm0Ng4SFqTD5zPsnjbCx7i1UAV7WpORGr6wSYcAWqzMBMByesNYePjGOEatzEIkNVMVj6fvCtFz3RTFLLQ2pbz20s7BZJtEpo15NUSYeNo7-0sEjZQImq5nHBly3pmCEFoRiUziXN3JjdfeZaoaJzZTooMHJQCy7XKAKfCuARE0VrDgc3xdR5VqaGRWG-81LPj6yQtA_9eqftAz1pgXEtQEq3QJ3V0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2OnKZpQJi2OzZUgzqIvtCFpon9m0IApN3PX-78T-Rosut7gfgk7yLhDJKDHLsdBhcNRNMZNV4IIZeW76IHDA6wFga4zYguyPbJuSCZt10qc2i1EQDa23UWyjuc_DRaexpPG1UITFb_G8FtS04LK9tNVtQCsk9S8GZ26didFCDEFSa71THJWnvul7otvkrMEydSOTXsWQ0A1XcYg1dd3uop36IySj7uudRevJvLSTG3uizVYLSmbX8J52sw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "15:00",
-      "evento": "Doppio Finale ATP Finals",
-      "competizione": "Tennis ATP Finals",
-      "canale": "Sky Sport Tennis, Sky Sport Uno",
-      "note": "Finale del doppio delle ATP Finals di Torino, con la partecipazione di Bolelli/Vavassori nel torneo.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVjAp9azTbXP5C4NDQYrgvGEFtSLdQVVHy3M6TSdEgJbe4e_QcPfbuH9_WrLhbHqnIaYHAAHlFAhhEOWYCpw7mDMzdOdUM0NlZf2sUeBSuQxurnnRR4bIoO23mkEJfEAefxklMTKvwe3qxZjJtl0cdgquxkuwaeVO9EnNvlztWT8yd7h36H5gApDBXsngXG4D0ioF4JVkqRqCt9BL0cleJ6DbLPWgH, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFEgvFDf4UPfHWJkcqeoSkjQ3gFWjvlEqB_AxjKMHlR4OrjzH1RHsfMYYZK4IdVpTpOHCrh1Qyp-qXmKAijsq4yG3DNhUHVPkiG3XrCQddwtoTlZ5M6JFq3FtwEKroN_zsT_YXUZhcfPMXTkvEVQluiY57Om3Gzt1V935kQ0jnaw3wtlTDY9DFEAj2UU5yLhz1LI1lbpAfP-1lVmRCWmfU6caIsKhQWLaVAwqZ-kgt6iqQNYFV",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:10",
-      "evento": "Differita Gara F1 GP Las Vegas",
-      "competizione": "Formula 1",
-      "canale": "TV8, tv8.it",
-      "note": "Differita in chiaro del Gran Premio di Las Vegas. Orari TV8 possono variare leggermente (es. 17:15, 18:00).",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV7vt7MgdFTeQ9UL6-2p2SuOYnL0sSpSO8tgcidDJr9PWD2Be5sa71azXdlws6UtFD23VQw5MpGmyPChfVMI3empMvWcJqA8dbYFfUIE913Sh1oK3WxJ9F_XhT_1_KvAvNzxBE7gnMeKICwaefRm85PRew-CVPhYPXodSuUpaxJqmXq70RwUiJk2bkWXApYG1RG9dopFk6bbUp3i3a2dgN8b8oC5nyoTSc4Rp4yfojggy1ZARYeH0TLnwhV2fj2x58Cg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5TersebpcOlrWVqRUd7ZXswDROicwCNffvPu-oNUNX3YSKzcLURTVBaxBZ4NLkWY1SU4OJy1KNGK8q7bjKL659VdUIpUPFY2FlMAZeknnijaSCPIAccDq_BaIyVcGWkhBLb06ikGXSBBVmrCnva_ktKwwc-GSd4tfFjejlH7djDys-ZO9zG4qNE_VJhQWdRezy7BGiU6uBva-WekHirFO7J-KaClmUVEdPHc3n2xhlz4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHboH269dp2IFZhsBGQeSeudRz7Cd5afzjGNnxag3m-O_I2rHAftBdbJQ9CctDQzvF7OroFWeKYd7pWDuiTGutwfljINK3NGCfrb2FCyScdYPKVoMGOcjKFB33jzxndray-C3Fi_2Bi_ngO0oQKhn0yB_0Y5TXJhX5_TdQBOLZ3808Wfjktc8oJwz332OFZQr5KSkG8bYun1QPAKG052ojMZDkg0HtOnK74X6e2-8qBVN0ovAnlsbL3cLppesT0tua-Olmw2jXkG3vcPl6I1JJHmCBWii172fY_yeTHOJY1btkATcraO9tFUQ6s-uWZ7g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuKdyu3LgvfxalpN5r7XxvY7wCV7dBiSOVigFKOfUXs8-ao-BXivIFBJItkO2q0eZLrCw3UgmVcWOcVxDvfZedfIMQceDclzvhbp7zRgOK-FbKb9Cxyvg74jfheXSVQyaaZNnJDZkGPnvan7TwBmZz-YChhQmfDPXRfXyL2dIyRk5WojAOYpF7PvY-17xWaF59dAdNnYjTcy_VCahQoHyUi3-2KOYk8AlNrg, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZW4AK5d-iTOo3YRXLnlhWHMFdIac7L-GleZOCb6VAcrSGHViituzcpu1cAQrOLSYzIs4UkL4UZ_FkUf8LiZICz4ktR7DSJCk3wpoN15-W_i4Ed7g2kv2WkQvBzVsDO_eYK0XtJSXYQ4aIcl0uHs6x6LqJgQSZh4K64Zc7AnbIB1uTwPtmQrCv5uj9_6YYV8jnEviCNpQZV6KuKrwRpvHYaQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyt2APvFpPF3lFH4dkBQH0_cIy7RryzKsbyMBhCcMEWq5JNfAc5ekW26vuWUX6-LHPf6AUUq94OAvcBb5oxbL13RPNZA1pdtH4GTTs9ch2tFJxEYahta1UPpr4BzZnvhmonNu_3w8ltMeq6KlVJ6m8JIQq2LaRxum-6YcWJG7hXUBjaqQr-Ip408XemqH9mtTzZV_034S1hOrz3V2lPJtQx2_wlBK6nnzMXFrf6K855g4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFnzj8NxZUnHNOkK3z1sp15zOQ3xh5iJZkEQJSRXuslRqeDpnJTyLM_dri-Aq8WYiHenbqC_wbUCp3TzEAbXuNynIqfPyQShxoMJ6O6Zk_XDH69H5tnFV9aAuu3LGYpyR9PXIEFMWbikN06yJBNSCSC_GPxq9MsXgKWE4Hp4e1gqzdbUrxAaJ_KSGBvEQ0az0fUgxkLZuFrxEUucrr7utC777o1LoU8Sna3S-CYiT9YDq1PDhAr3bQt4xtCswMKBrIE4xriO5yKbA5tpLYcr_gC1LVdLh087I-n2gDbWPNbBnM1NE9_LhkbdP0othHVuRvxylcHrQf9vSSNeAT7eQYVDGZrl5tpDsVFiXKje4",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "17:15",
-      "evento": "Replica Gara MotoGP",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara del GP del Portogallo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx7HbR30xPV4At-ED6tK1cMKO_FS0WEQGQdha4oYrUY1jOQ236UCBd6PjpbEu7JxdmUqquQQzFvQWfe_PWrXSAExBZq9xYt_4S92_TiablDR1Sbx7HuvwXAyQOYDtv6BsLKuC2OU8tMUCx_Nvo_nPx56WD0pLANIoNSrOhlu-o_RMCxXaWbxnPMHpqdtx0BjrZ",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:00",
-      "evento": "Milan-Frosinone",
-      "competizione": "Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1GNly1-Tg99uCgWg0PQ2oy6Dsogg05hKRFZNVirciuPgTS2wpTkx3av4_1nIimHB1_0xaUBX-IUrWeBaGfdl0SHFe4POmmMD7Mo_c0tcFKCRdxOA4pt2yd_rs4wY-1ZOAGTcZEaW8q5FigC47_h6JnKTyVaJefEwuZJNTHdK3UyMYGoH5w4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKHF8u-cHA8CrjlkYHlJjQJYfg0B96qr_KMDWvTE6WMAJjl32W-U_AOl-HwHekmAYonkWX09h9ek1x0iYCsyTKINZe09sGPQF-8igXsOXNNr6G4OKEodEpXHKmPhLw7ieoPDyz_CY7AqEhPMAEZjlND8HBQx3VIGAk_35Imi6VfOtKdA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd_ckBm9w14cdhZLm0Ng4SFqTD5zPsnjbCx7i1UAV7WpORGr6wSYcAWqzMBMByesNYePjGOEatzEIkNVMVj6fvCtFz3RTFLLQ2pbz20s7BZJtEpo15NUSYeNo7-0sEjZQImq5nHBly3pmCEFoRiUziXN3JjdfeZaoaJzZTooMHJQCy7XKAKfCuARE0VrDgc3xdR5VqaGRWG-81LPj6yQtA_9eqftAz1pgXEtQEq3QJ3V0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2OnKZpQJi2OzZUgzqIvtCFpon9m0IApN3PX-78T-Rosut7gfgk7yLhDJKDHLsdBhcNRNMZNV4IIZeW76IHDA6wFga4zYguyPbJuSCZt10qc2i1EQDa23UWyjuc_DRaexpPG1UITFb_G8FtS04LK9tNVtQCsk9S8GZ26didFCDEFSa71THJWnvul7otvkrMEydSOTXsWQ0A1XcYg1dd3uop36IySj7uudRevJvLSTG3uizVYLSmbX8J52sw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "20:00",
-      "evento": "Replica Gara MotoGP",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara del GP del Portogallo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx7HbR30xPV4At-ED6tK1cMKO_FS0WEQGQdha4oYrUY1jOQ236UCBd6PjpbEu7JxdmUqquQQzFvQWfe_PWrXSAExBZq9xYt_4S92_TiablDR1Sbx7HuvwXAyQOYDtv6BsLKuC2OU8tMUCx_Nvo_nPx56WD0pLANIoNSrOhlu-o_RMCxXaWbxnPMHpqdtx0BjrZ",
+      "orario": "13:45",
+      "evento": "GP Portogallo: Qualifiche Moto3 (Replay)",
+      "competizione": "MotoGP 2026 (Mondiale Moto3)",
+      "canale": "Sky Sport Uno",
+      "note": "Telecronaca Triolo-Pasini",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhbqke3urupEykLO3kSQ_SA_iwSGc__Mi3ZX9TH-t4S627CccQd8qOfTAG6k-V_vkM-3Pz4SX36RP0G1kTTT1iMu_db0WBEKFs4qUPJLw_Z1OpJefsWLnLm3ZbsHZqJLDWqKme3Mqx3iE0JUujHKTkQkRen91nxo2s9iwfBmYQh_aPviY",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Atalanta-Inter",
-      "competizione": "Serie A",
-      "canale": "DAZN, DAZN 1",
-      "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIflse__JDOJ3YYd0yWs75iIpLamQmlzthiaCZ4_eHd4S-uU4el5rCYGtwm_MnJIXTNj4uJSbr5jLvpRGPzCkrNfsg9VqITSeJWqglIIfOhx-uU66sVxZqo5Y9F5eCiKOroG_OiWyDlYg8kIKbuUC_bPjsPFrznvc_tpHDlWnPurJ8554v4TchPKFskG8bYun1QPAKG052ojMZDkg0HtOnK74X6e2-8qBVN0ovAnlsbL3cLppesT0tua-Olmw2jXkG3vcPl6I1JJHmCBWii172fY_yeTHOJY1btkATcraO9tFUQ6s-uWZ7g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1GNly1-Tg99uCgWg0PQ2oy6Dsogg05hKRFZNVirciuPgTS2wpTkx3av4_1nIimHB1_0xaUBX-IUrWeBaGfdl0SHFe4POmmMD7Mo_c0tcFKCRdxOA4pt2yd_rs4wY-1ZOAGTcZEaW8q5FigC47_h6JnKTyVaJefEwuZJNTHdK3UyMYGoH5w4, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKHF8u-cHA8CrjlkYHlJjQJYfg0B96qr_KMDWvTE6WMAJjl32W-U_AOl-HwHekmAYonkWX09h9ek1x0iYCsyTKINZe09sGPQF-8igXsOXNNr6G4OKEodEpXHKmPhLw7ieoPDyz_CY7AqEhPMAEZjlND8HBQx3VIGAk_35Imi6VfOtKdA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd_ckBm9w14cdhZLm0Ng4SFqTD5zPsnjbCx7i1UAV7WpORGr6wSYcAWqzMBMByesNYePjGOEatzEIkNVMVj6fvCtFz3RTFLLQ2pbz20s7BZJtEpo15NUSYeNo7-0sEjZQImq5nHBly3pmCEFoRiUziXN3JjdfeZaoaJzZTooMHJQCy7XKAKfCuARE0VrDgc3xdR5VqaGRWG-81LPj6yQtA_9eqftAz1pgXEtQEq3QJ3V0, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkM91kmFLltb_DLnUceeNS4DfsP74hoOLONjfUvLXeiO8VUFxOPViyfVbya1wUjiKFzxfNcWHryHe-csWHxlbbPTRFQlXDHdLRqijzHKinJo1ozogu1fGSMw2H3zK7bPNefwRN8SgnuqeTSl9bqpfwzUbSAMt8jBdVRZuskycBbmIqVPF8m-Jyf_1zP4lTgfUBW2C7gaDbR-N2EO3hjaYfpNZ59lGi7jea9cs3dd-BaxMYxdZAsTZsNEB5Xzbm-1g, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2OnKZpQJi2OzZUgzqIvtCFpon9m0IApN3PX-78T-Rosut7gfgk7yLhDJKDHLsdBhcNRNMZNV4IIZeW76IHDA6wFga4zYguyPbJuSCZt10qc2i1EQDa23UWyjuc_DRaexpPG1UITFb_G8FtS04LK9tNVtQCsk9S8GZ26didFCDEFSa71THJWnvul7otvkrMEydSOTXsWQ0A1XcYg1dd3uop36IySj7uudRevJvLSTG3uizVYLSmbX8J52sw, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMRMrVS8vtzaBU6aBdKMAMOlnpPg1ij9SCFApH1YsN8oKfxE7-zWyLXV9HKPt7JnWrLPotyTI0w6DrVDbrO0tDdqOKidKwB5xLw0i7bVvBVr5KQS8RGAvtH4hlKq_0bv_leq9K6_tJUlXSvDrGwOGfbLGQIfUXFz2wXWvXuYluCWV8FYWqhZdTedDPgSyOOAIuiTtRe3ZmJ5OHOZypRCGbCi3vvS-DMNSd6Wgh-vMX6augaEUIrEyWLjgCkeFVry",
+      "evento": "Monza - Fiorentina",
+      "competizione": "Serie A 2026/2027",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
+      "note": "Posticipo 12^ giornata.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWt1S8vIl5-SLaPQ3jzSSeEopsbcyhFsQNqmzjsSKTZOILkPO9yNQWZP6GRMdzUpvxlu7GUJI5i0PE0CBnvK3PaewWV-AUUAuir9Vxr6ltx0sh65tvlbydpPejuKQHLWP8zqqYI6MQUwoRD17PUIpH3_yBAkuq2Gc_CSXo6gVA436QGQ, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOqtq66a9ZV9bSi8uKGLsoXLFqrE6YXwxPRTcDzCYSzMNC-NMKycss_oSIVHdld_AaFQR4hmBD9U89dNYGrYcaR4YOzf1OWTQB4XF_Esc-ZXYP0vohcfP4ZjwuIUDN7vNF1SMh--0VSFgmyhU1ZZsJDFEtdjobOBMMLV9IXAKrdO55p_P7S0wj, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCewdrpXdHaHrCEBM8NByd6jtIZJw94kcVv_iNeQg9a7124FC_35bxliiIo1N4Wp4yWMA0R_wo2NKKKpO7WnR92nZwUQ3UZTguAzTyPrGfW-KSNS-lyUZSfHpnFzMFEY3tz24SezUZY9_DrozQP9-gNBbnipGNb6oNxzHXAVIhvr0yr4r-X5q19SwlTIUHM1dNXtw4WV5R6F03jVoYsrHbZdYWZBXKlMvGQ4IH0tQmrKjpqAHgYHjKzNzVbnXySdkE5_BCTGLevie7nlOGxBuML2b",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "22:00",
-      "evento": "Replica Gara MotoGP",
-      "competizione": "MotoGP GP Portogallo",
-      "canale": "Sky Sport MotoGP",
-      "note": "Replica della gara del GP del Portogallo",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx7HbR30xPV4At-ED6tK1cMKO_FS0WEQGQdha4oYrUY1jOQ236UCBd6PjpbEu7JxdmUqquQQzFvQWfe_PWrXSAExBZq9xYt_4S92_TiablDR1Sbx7HuvwXAyQOYDtv6BsLKuC2OU8tMUCx_Nvo_nPx56WD0pLANIoNSrOhlu-o_RMCxXaWbxnPMHpqdtx0BjrZ",
+      "orario": "01:00 (24-11-2026)",
+      "evento": "MotoGP 2026 - GP Portogallo: Gara (Replay)",
+      "competizione": "MotoGP 2026",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLncbQvALuLuO9s5CElaWapPomn4zfo5h8gA8E92DNA3M-qcF0mfRin28bd_stKDcj2yrxIIBcskXilsFnzVvIeRfwcKR18q2eecAsd0agRtcCLScsgTJBQYiKcgbctoTk1zXQtlzffdJmBc7f-A5mAbl1en28UXHKaVs8LflBd66cMI55fYuQTMx3wtc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4O30GZyJEV6f1UYgSiSxDi-zKP5eCx5HiAfmkIBI4OqxNVsMBg9GgX3wBAdMczYblm4jyUaRw6d-c6zPqEh3NNPcqZaMUDYrJbnwo0rJYtF6nuUdsYUMt3OKUJm-Hkav55O2vLU0qPqvtPNaxirByJJ6HOfsB2CAbRN7B4hRtS04",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:00 (24-11-2026)",
+      "evento": "Moto2 2026 - GP Portogallo: Gara (Replay)",
+      "competizione": "MotoGP 2026 (Mondiale Moto2)",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLncbQvALuLuO9s5CElaWapPomn4zfo5h8gA8E92DNA3M-qcF0mfRin28bd_stKDcj2yrxIIBcskXilsFnzVvIeRfwcKR18q2eecAsd0agRtcCLScsgTJBQYiKcgbctoTk1zXQtlzffdJmBc7f-A5mAbl1en28UXHKaVs8LflBd66cMI55fYuQTMx3wtc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4O30GZyJEV6f1UYgSiSxDi-zKP5eCx5HiAfmkIBI4OqxNVsMBg9GgX3wBAdMczYblm4jyUaRw6d-c6zPqEh3NNPcqZaMUDYrJbnwo0rJYtF6nuUdsYUMt3OKUJm-Hkav55O2vLU0qPqvtPNaxirByJJ6HOfsB2CAbRN7B4hRtS04",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "03:30 (24-11-2026)",
+      "evento": "Moto3 2026 - GP Portogallo: Gara (Replay)",
+      "competizione": "MotoGP 2026 (Mondiale Moto3)",
+      "canale": "Sky Sport Uno",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLncbQvALuLuO9s5CElaWapPomn4zfo5h8gA8E92DNA3M-qcF0mfRin28bd_stKDcj2yrxIIBcskXilsFnzVvIeRfwcKR18q2eecAsd0agRtcCLScsgTJBQYiKcgbctoTk1zXQtlzffdJmBc7f-A5mAbl1en28UXHKaVs8LflBd66cMI55fYuQTMx3wtc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4O30GZyJEV6f1UYgSiSxDi-zKP5eCx5HiAfmkIBI4OqxNVsMBg9GgX3wBAdMczYblm4jyUaRw6d-c6zPqEh3NNPcqZaMUDYrJbnwo0rJYtF6nuUdsYUMt3OKUJm-Hkav55O2vLU0qPqvtPNaxirByJJ6HOfsB2CAbRN7B4hRtS04",
       "accuratezza_orario": "esatto"
     }
   ]
