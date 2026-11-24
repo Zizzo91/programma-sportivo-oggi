@@ -1,146 +1,41 @@
 {
-  "last_updated": "2026-11-24T04:34:25.511470+01:00",
+  "last_updated": "2026-11-24T17:39:33.277354+01:00",
   "events": [
     {
-      "orario": "01:30",
-      "evento": "Minnesota Timberwolves-Brooklyn Nets",
-      "competizione": "NBA Regular Season",
-      "canale": "Sky Sport Basket",
-      "note": "Commento in lingua originale",
-      "fonte": "Basketinside.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "02:00",
-      "evento": "Washington Wizards-Boston Celtics",
-      "competizione": "NBA Regular Season",
-      "canale": "Sky Sport Uno",
-      "note": "Commento in lingua originale",
-      "fonte": "Basketinside.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "04:00",
-      "evento": "Denver Nuggets-Dallas Mavericks",
-      "competizione": "NBA Regular Season",
-      "canale": "Sky Sport Basket",
-      "note": "Telecronaca Dario Vismara; commento Davide Pessina",
-      "fonte": "Basketinside.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
+      "orario": "18:40",
       "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport Uno, Sky Sport 251",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "OA Sport"
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport (canale 251), NOW",
+      "note": "",
+      "fonte": "Calciomagazine, OA Sport, Virgilio Sport",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "Galatasaray-Aston Villa",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport Calcio, Sky Sport 254",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Calciomagazine, Il Faro online, OA Sport"
+      "orario": "21:00",
+      "evento": "Manchester City - Napoli",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport (canale 252), NOW, Sky Go",
+      "note": "",
+      "fonte": "CronacaPop, Sky Sport, Calciomagazine, OA Sport, Sport in TV, Virgilio Sport, Libero",
+      "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "Bodø/Glimt-LASK",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport Arena, Sky Sport 255",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Calciomagazine, Il Faro online, OA Sport"
-    },
-    {
-      "orario": "19:30",
-      "evento": "MotoGP: Highlights GP Portogallo",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Mix HD",
-      "note": "Produzione 2026, durata 60 minuti",
-      "fonte": "TV Movie"
+      "orario": "21:00",
+      "evento": "Como - AEK Atene",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Arena, Sky Sport 4K, Sky Sport (canale 253), NOW, Sky Go",
+      "note": "",
+      "fonte": "Sky Sport, Calciomagazine, OA Sport, Sport in TV, Virgilio Sport, Libero",
+      "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
       "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport 251",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Calciomagazine, OA Sport"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Manchester City-Napoli",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport Uno, Sky Sport 4K, Sky Sport 252",
-      "note": "Telecronaca: Zancan-Montolivo. Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Calciomagazine, Il Faro online, OA Sport, ProgrammiTV24.it, OA Sport, Goal.com"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Como-AEK Atene",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport Arena, Sky Sport 4K, Sky Sport 253",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Calciomagazine, Il Faro online, OA Sport, OA Sport, Goal.com"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Arsenal-Borussia Dortmund",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport Calcio, Sky Sport 254",
-      "note": "Telecronaca: Massimo Marianella. Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Il Faro online, OA Sport, ProgrammiTV24.it"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Real Madrid-PSV Eindhoven",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport Mix, Sky Sport 255",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Il Faro online, OA Sport, ProgrammiTV24.it"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Feyenoord-Porto",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport 256",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Il Faro online, OA Sport"
-    },
-    {
-      "orario": "21:00",
-      "evento": "RB Leipzig-Lens",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport 257",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Il Faro online, OA Sport"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Slovan Bratislava-Real Betis",
-      "competizione": "UEFA Champions League League Phase",
-      "canale": "Sky Sport 258",
-      "note": "Disponibile anche in streaming su NOW e Sky Go",
-      "fonte": "Il Faro online, OA Sport"
-    },
-    {
-      "orario": "21:00",
-      "evento": "MotoGP: GP Portogallo - Sprint Race (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Telecronaca Meda-Sanchini",
-      "fonte": "ProgrammiTV24.it",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport (canale 251), NOW, Sky Go",
+      "note": "",
+      "fonte": "Calciomagazine, OA Sport",
       "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:45*",
-      "evento": "MotoGP: GP Portogallo - Gara (Replica)",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport MotoGP",
-      "note": "Orario stimato, a seguire la Sprint Race. Telecronaca Meda-Sanchini",
-      "fonte": "ProgrammiTV24.it",
-      "accuratezza_orario": "stimato"
     }
   ]
 }
