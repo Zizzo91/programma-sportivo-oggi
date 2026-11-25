@@ -1,40 +1,76 @@
 {
-  "last_updated": "2026-11-24T17:39:33.277354+01:00",
+  "last_updated": "2026-11-25T17:22:56.113419+01:00",
   "events": [
     {
-      "orario": "18:40",
-      "evento": "Diretta Gol Champions League",
-      "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport (canale 251), NOW",
+      "orario": "16:00",
+      "evento": "Youth League, PSG U19 - Roma U20",
+      "competizione": "UEFA Youth League",
+      "canale": "Sky Sport Calcio",
       "note": "",
-      "fonte": "Calciomagazine, OA Sport, Virgilio Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRQnGnfrODB-38-vLUGY0_1HIEDdOJVCs4Q9uG9mT6uvQRp8pSjsLHhhODc9JKmh5i3S2bbUKeKFESyk2V_urH-dMffLAkdES2AZDV5Uv0pzbIksrxeJ_PxT8LEWNXTbmCGxvsg9QgXy4nvduWRq3Jr603seAxcJfLSJC5QT-ge5ZuazHg92kM8zFPXSQaEyb3p03tskQBSCvH2mE",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "16:00",
+      "evento": "Italia vs Corea del Sud",
+      "competizione": "Coppa Davis (Quarti di finale)",
+      "canale": "SuperTennis",
+      "note": "Con giocatori italiani in campo (es. Musetti, Cobolli, Berrettini)",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETP4aPXhfNHSm2zKnvtYDiZgeSZmsyAT4neusAIwAaMwRQIc41HrNy9NOJR-JBAPWkvCD1X-uur6HoGg3FtGNqAqk2zIx6mgdQreqwdwm8ohTeBqiSPJfDsY6f77Tgs3SRHbg4FE70qR2SOWQC2VNqBg4adoyWEtU9fXYrNoxPw06-tIPiQjQrhvXNK28xCv2Aey0hI3YsauknkFtBSp_FfbhljWkdXgda1vYlWOH_BOyKg_7YM7BXhOmcxP7_9n-qYNF1Coy0MmRLRQM",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Diretta Gol",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Uno, Sky Sport 251",
+      "note": "Copertura in contemporanea delle partite delle 18:45",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRQnGnfrODB-38-vLUGY0_1HIEDdOJVCs4Q9uG9mT6uvQRp8pSjsLHhhODc9JKmh5i3S2bbUKeKFESyk2V_urH-dMffLAkdES2AZDV5Uv0pzbIksrxeJ_PxT8LEWNXTbmCGxvsg9QgXy4nvduWRq3Jr603seAxcJfLSJC5QT-ge5ZuazHg92kM8zFPXSQaEyb3p03tskQBSCvH2mE",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:45",
+      "evento": "Sabah - Barcellona",
+      "competizione": "UEFA Champions League",
+      "canale": "Sky Sport Calcio, Sky Sport 253",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEE5GmiVijQ5Eu4U0sv_QFSxub6czKMRspA6aqOZjLXUUP3LSzc6rZA-u1UiYQvEnncjuib0e6mQFH90508BIf62NfMprDcMkkZk-Fd5tx2P-LUC2iW5IzXLPKdyoAZnK2rN45hNCBSsNZWcFsXywj7m5gHrT18Q7KAYRr2GfJ8LqO4O_zzSHFlniVZuf5MFSWvorFrpk",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Manchester City - Napoli",
+      "evento": "Inter - VfB Stoccarda",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Uno, Sky Sport (canale 252), NOW, Sky Go",
+      "canale": "Sky Sport Uno, Sky Sport 252, Sky Sport 4K",
       "note": "",
-      "fonte": "CronacaPop, Sky Sport, Calciomagazine, OA Sport, Sport in TV, Virgilio Sport, Libero",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEjoyE7QHixZNkLGtk2blLZK4rfovGEdMgm3r926sHLAoxlpqT4IEUqZchaXY04pND_4D476yT2ZU5Gixrj-NRfqRiqIuXJXRkeT8Ygr9Z-1VKSpRixphQJsTFooYXZXGo0csOpQQUenAX4OlFzNs48Rz0hbXHxTbqJ2V95pt-LQRZrMdHD5j_j_qcHEwqWgoGLFOqzLslCF4-CcsiIdVthrG92OXTNr_nK2Ial9tPt5UBxGHHtacp7JgaSO3Jl-Xen5x4w",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Como - AEK Atene",
+      "evento": "PSG - Roma",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport Arena, Sky Sport 4K, Sky Sport (canale 253), NOW, Sky Go",
+      "canale": "Amazon Prime Video",
       "note": "",
-      "fonte": "Sky Sport, Calciomagazine, OA Sport, Sport in TV, Virgilio Sport, Libero",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEjoyE7QHixZNkLGtk2blLZK4rfovGEdMgm3r926sHLAoxlpqT4IEUqZchaXY04pND_4D476yT2ZU5Gixrj-NRfqRiqIuXJXRkeT8Ygr9Z-1VKSpRixphQJsTFooYXZXGo0csOpQQUenAX4OlFzNs48Rz0hbXHxTbqJ2V95pt-LQRZrMdHD5j_j_qcHEwqWgoGLFOqzLslCF4-CcsiIdVthrG92OXTNr_nK2Ial9tPt5UBxGHHtacp7JgaSO3Jl-Xen5x4w",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "21:00",
-      "evento": "Diretta Gol Champions League",
+      "evento": "Lille - Bayern Monaco",
       "competizione": "UEFA Champions League",
-      "canale": "Sky Sport (canale 251), NOW, Sky Go",
+      "canale": "TV8, Sky Sport Calcio, Sky Sport 253",
       "note": "",
-      "fonte": "Calciomagazine, OA Sport",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEE5GmiVijQ5Eu4U0sv_QFSxub6czKMRspA6aqOZjLXUUP3LSzc6rZA-u1UiYQvEnncjuib0e6mQFH90508BIf62NfMprDcMkkZk-Fd5tx2P-LUC2iW5IzXLPKdyoAZnK2rN45hNCBSsNZWcFsXywj7m5gHrT18Q7KAYRr2GfJ8LqO4O_zzSHFlniVZuf5MFSWvorFrpk",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "00:00",
+      "evento": "After Party - La Notte",
+      "competizione": "UEFA Champions League (Post-partita)",
+      "canale": "Sky Sport Uno",
+      "note": "Del 26/11/2026",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA1xJrrcZorQVQRbcG8ZYwdJV1E0XkeReSdTXUfUlj0D2qIsN0-e9Uxm5lnUBvax2rzmlb7aap718i7m5U93u_9SwSBmesuLVCCCrt68FzrCp08x-iXyfPO6uIB1AYqg1FlKiRQ8KoEpxBqm8eYrCKN-fI8_rg0CV6A65w_2xkPH3MMaeW5v5h27O3X2UMWCuLZQWX1ptZbksVelIynSWb-lLh-UFUmg==",
       "accuratezza_orario": "esatto"
     }
   ]
