@@ -1,94 +1,76 @@
 {
-  "last_updated": "2026-11-26T16:57:13.968045+01:00",
+  "last_updated": "2026-11-27T16:46:02.805470+01:00",
   "events": [
     {
-      "orario": "14:50",
-      "evento": "Mondiali U17 - Uzbekistan vs Italia",
-      "competizione": "Calcio - Mondiali U17",
-      "canale": "Rai Sport HD",
+      "orario": "08:55",
+      "evento": "Moto3 Prove Libere 1",
+      "competizione": "MotoGP GP Valencia 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "tivu.tv, superguidatv.it, sport2u.tv",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxl0UuHqOqYcJWvZu5A4yiEn0J8TLJxuMrk1MibYo7j6rRZzX6YZN9hRnf22QainRb4Xpe56ljX1U-JE8bPeiVZ3CpudI8NzktjIFxV_hT3MgBG7y5-pcW1MhnxL-8rZiVee7rXHzT7KbO-TGQ47WQkvk=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "15:30",
-      "evento": "F1 GP Qatar 2026 - Conferenza stampa piloti",
-      "competizione": "Formula 1",
-      "canale": "Sky Sport Uno, Sky Sport F1, Sky Sport 4K",
+      "orario": "09:45",
+      "evento": "Moto2 Prove Libere 1",
+      "competizione": "MotoGP GP Valencia 2026",
+      "canale": "Sky Sport F1",
       "note": "",
-      "fonte": "skysport.it, motorinolimits.com, cronacapop.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxl0UuHqOqYcJWvZu5A4yiEn0J8TLJxuMrk1MibYo7j6rRZzX6YZN9hRnf22QainRb4Xpe56ljX1U-JE8bPeiVZ3CpudI8NzktjIFxV_hT3MgBG7y5-pcW1MhnxL-8rZiVee7rXHzT7KbO-TGQ47WQkvk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "10:40",
+      "evento": "MotoGP Prove Libere 1",
+      "competizione": "MotoGP GP Valencia 2026",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxl0UuHqOqYcJWvZu5A4yiEn0J8TLJxuMrk1MibYo7j6rRZzX6YZN9hRnf22QainRb4Xpe56ljX1U-JE8bPeiVZ3CpudI8NzktjIFxV_hT3MgBG7y5-pcW1MhnxL-8rZiVee7rXHzT7KbO-TGQ47WQkvk=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:30",
+      "evento": "Formula 1 Prove Libere 1",
+      "competizione": "F1 GP Qatar 2026",
+      "canale": "Sky Sport F1, NOW, Sky Go",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUF97aeebzUw9htcERnaGeaykqwkLxSN9o9LICd6eHyD_ngtIy-gunCLgR0ZxzDczONOHzsBd8R9J-CRSIDamsEeYV0g9UN_fmw_K120A_yjyXVAxL4CBSsTYpaXIF1_adcvLpvKw-ucm42_woL_tgXt0PnzNGlYij4sE9hYLRAzBb4sF3xlsrXYHPmN2vfasu5DABR2GAx1lpecwgjX02, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0i2ntPuG3Mk1GhMij6xshdHlM54_JCauL4vt0B_l0iuqotpI9mJ5of1TgtLoamVj1H6jtU0-CVqke81UnETDPrtHG4LvyYbIAIdmuoGdJBWauQ6Kif7TDm8ii7kJVJ2vEhrX4MbL_L7MVW58NC0ThqnVN-zo1dNmkBSTE5T8uqXPaQqm7agGpX2sxyavdOxQ4O1T-XVui4BzPWyJ6RwmcYd8y2E=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:00",
+      "evento": "MotoGP Pre Qualifiche",
+      "competizione": "MotoGP GP Valencia 2026",
+      "canale": "Sky Sport",
+      "note": "",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcH24LTw8SPYnDP1eKavDAfE_hRNk6VoeWYr-3NxwVrKTHfai81j8GaTvCY9-IYJK9HUlqsgR_KByvfdcEOzX5S9GWgQq43lAV1gI180Ah98N8_Sog1VXIaGnj6MbQw_wC5KS_YYIw60VLaOHSqN8suyURa93V71_UvIAm50jbPzjqTwbnmsDHM1fUloqWPpbUsSUu3ywlDGnlYfp5jewwvA=",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "16:00",
-      "evento": "MotoGP GP Comunità Valenciana 2026 - Conferenza stampa piloti",
-      "competizione": "MotoGP",
-      "canale": "Sky Sport Uno, Sky Sport MotoGP",
+      "evento": "Italia - Cechia, Semifinale",
+      "competizione": "Coppa Davis 2026",
+      "canale": "SuperTennis HD, Rai 1 HD, SuperTennis+, Rai Play",
+      "note": "Il programma prevede due singolari e l'eventuale doppio.",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEya94kpkkJLvQL6Q4HmSY3cAsfSHw6XRP4XhdWCAfgM085EhK0aJw5H9qWpStCALMGExI3h8QduwGfvpmbCvRIJDAb1X6smKIKJK9KJeXPiQYLYE7AJ1DLZJHPyOAs9q7XKZbtkTscZFcjEbBLd3252oCaSC7p6wXVa4Hmr8j386qdeV-J3lKmljOKKw=",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:00",
+      "evento": "Formula 1 Prove Libere 2",
+      "competizione": "F1 GP Qatar 2026",
+      "canale": "Sky Sport F1, NOW, Sky Go",
       "note": "",
-      "fonte": "skysport.it, motorinolimits.com",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUF97aeebzUw9htcERnaGeaykqwkLxSN9o9LICd6eHyD_ngtIy-gunCLgR0ZxzDczONOHzsBd8R9J-CRSIDamsEeYV0g9UN_fmw_K120A_yjyXVAxL4CBSsTYpaXIF1_adcvLpvKw-ucm42_woL_tgXt0PnzNGlYij4sE9hYLRAzBb4sF3xlsrXYHPmN2vfasu5DABR2GAx1lpecwgjX02, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0i2ntPuG3Mk1GhMij6xshdHlM54_JCauL4vt0B_l0iuqotpI9mJ5of1TgtLoamVj1H6jtU0-CVqke81UnETDPrtHG4LvyYbIAIdmuoGdJBWauQ6Kif7TDm8ii7kJVJ2vEhrX4MbL_L7MVW58NC0ThqnVN-zo1dNmkBSTE5T8uqXPaQqm7agGpX2sxyavdOxQ4O1T-XVui4BzPWyJ6RwmcYd8y2E=",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "18:45",
-      "evento": "Europa League - Olympiacos vs Milan",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky Sport Uno (201), Sky Sport 253",
-      "note": "Diretta tv",
-      "fonte": "oasport.it, libertiamo.it, datasport.it, sportface.it, fanpage.it, dazn.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:45",
-      "evento": "Europa League / Conference League - Diretta Gol",
-      "competizione": "Calcio - UEFA Europa League / UEFA Conference League",
-      "canale": "Sky Sport Max (206), Sky Sport 251",
+      "orario": "20:45",
+      "evento": "Venezia-Bologna",
+      "competizione": "Serie A 2026/2027",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
       "note": "",
-      "fonte": "oasport.it, libertiamo.it, datasport.it, cronacapop.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Europa League - Olympiacos vs Milan",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "TV8",
-      "note": "Differita tv",
-      "fonte": "oasport.it, sky.it, cronacapop.it, canale10.it, fanpage.it, calcioefinanza.it, dituttounpop.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Europa League - Juventus vs Omonia",
-      "competizione": "Calcio - UEFA Europa League",
-      "canale": "Sky Sport Uno (201), Sky Sport 4K (213), Sky Sport 252",
-      "note": "Diretta tv",
-      "fonte": "oasport.it, libertiamo.it, datasport.it, cronacapop.it, sportface.it, dazn.com",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Conference League - Borac Banja Luka vs Atalanta",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky Sport Max (205), Sky Sport 254",
-      "note": "Diretta tv",
-      "fonte": "oasport.it, libertiamo.it, datasport.it, cronacapop.it, sportface.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "21:00",
-      "evento": "Conference League - Diretta Gol",
-      "competizione": "Calcio - UEFA Conference League",
-      "canale": "Sky Sport 251",
-      "note": "",
-      "fonte": "oasport.it, datasport.it",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "00:00",
-      "evento": "Goleador Europa",
-      "competizione": "Calcio - UEFA Europa League / UEFA Champions League",
-      "canale": "Sky Sport Calcio",
-      "note": "Programma di riassunto gol",
-      "fonte": "cronacapop.it",
+      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1nTJkPF3Bc25_oTp43FeJbx5BRLnyW6eCl9cRgBqWmbMeulrudrujXe4RNdJINi9iWTqmF13dB7Fy-TreigVGrol6I7d0Zp0BbMVFhdodlwM1DQh3C2ANrfuWR9yMJqh4g8l2Tb_DOd6F2YfFdr5FLBP41-09TySM1NW8BBvTpgN1mPSd8LG6Sk-JmENfmJdjkv_RS82CHJBU4fLerUGScEWXyWDGeLqAyBPBmmzkar4ShAGsWWOsvHUTvFCMzlvL7S1qKfwwpHRhgpTB3Q=",
       "accuratezza_orario": "esatto"
     }
   ]
