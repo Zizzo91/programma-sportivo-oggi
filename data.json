@@ -1,76 +1,139 @@
 {
-  "last_updated": "2026-11-27T16:46:02.805470+01:00",
+  "last_updated": "2026-11-28T01:48:11.652115+01:00",
   "events": [
     {
-      "orario": "08:55",
-      "evento": "Moto3 Prove Libere 1",
-      "competizione": "MotoGP GP Valencia 2026",
-      "canale": "Sky Sport F1",
+      "orario": "08:35",
+      "evento": "Moto3 – Prove Libere 2",
+      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxl0UuHqOqYcJWvZu5A4yiEn0J8TLJxuMrk1MibYo7j6rRZzX6YZN9hRnf22QainRb4Xpe56ljX1U-JE8bPeiVZ3CpudI8NzktjIFxV_hT3MgBG7y5-pcW1MhnxL-8rZiVee7rXHzT7KbO-TGQ47WQkvk=",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "09:45",
-      "evento": "Moto2 Prove Libere 1",
-      "competizione": "MotoGP GP Valencia 2026",
-      "canale": "Sky Sport F1",
+      "orario": "09:20",
+      "evento": "Moto2 – Prove Libere 2",
+      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
+      "canale": "Sky Sport MotoGP",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxl0UuHqOqYcJWvZu5A4yiEn0J8TLJxuMrk1MibYo7j6rRZzX6YZN9hRnf22QainRb4Xpe56ljX1U-JE8bPeiVZ3CpudI8NzktjIFxV_hT3MgBG7y5-pcW1MhnxL-8rZiVee7rXHzT7KbO-TGQ47WQkvk=",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "10:40",
-      "evento": "MotoGP Prove Libere 1",
-      "competizione": "MotoGP GP Valencia 2026",
-      "canale": "Sky Sport F1",
+      "orario": "10:05",
+      "evento": "MotoGP - Prove Libere 2",
+      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxl0UuHqOqYcJWvZu5A4yiEn0J8TLJxuMrk1MibYo7j6rRZzX6YZN9hRnf22QainRb4Xpe56ljX1U-JE8bPeiVZ3CpudI8NzktjIFxV_hT3MgBG7y5-pcW1MhnxL-8rZiVee7rXHzT7KbO-TGQ47WQkvk=",
+      "fonte": "Sky Sport",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "14:30",
-      "evento": "Formula 1 Prove Libere 1",
-      "competizione": "F1 GP Qatar 2026",
-      "canale": "Sky Sport F1, NOW, Sky Go",
+      "orario": "10:45",
+      "evento": "MotoGP – Qualifiche",
+      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUF97aeebzUw9htcERnaGeaykqwkLxSN9o9LICd6eHyD_ngtIy-gunCLgR0ZxzDczONOHzsBd8R9J-CRSIDamsEeYV0g9UN_fmw_K120A_yjyXVAxL4CBSsTYpaXIF1_adcvLpvKw-ucm42_woL_tgXt0PnzNGlYij4sE9hYLRAzBb4sF3xlsrXYHPmN2vfasu5DABR2GAx1lpecwgjX02, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0i2ntPuG3Mk1GhMij6xshdHlM54_JCauL4vt0B_l0iuqotpI9mJ5of1TgtLoamVj1H6jtU0-CVqke81UnETDPrtHG4LvyYbIAIdmuoGdJBWauQ6Kif7TDm8ii7kJVJ2vEhrX4MbL_L7MVW58NC0ThqnVN-zo1dNmkBSTE5T8uqXPaQqm7agGpX2sxyavdOxQ4O1T-XVui4BzPWyJ6RwmcYd8y2E=",
+      "fonte": "Sky Sport, SNAI sportnews",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "12:45",
+      "evento": "Moto3 – Qualifiche",
+      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "13:35",
+      "evento": "Moto2 – Qualifiche",
+      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
+      "canale": "Sky Sport MotoGP",
+      "note": "",
+      "fonte": "Sky Sport",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "14:55",
+      "evento": "MotoGP – Sprint",
+      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
+      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8",
+      "note": "",
+      "fonte": "Sky Sport, SNAI sportnews",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "MotoGP Pre Qualifiche",
-      "competizione": "MotoGP GP Valencia 2026",
-      "canale": "Sky Sport",
+      "evento": "Frosinone-Parma",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcH24LTw8SPYnDP1eKavDAfE_hRNk6VoeWYr-3NxwVrKTHfai81j8GaTvCY9-IYJK9HUlqsgR_KByvfdcEOzX5S9GWgQq43lAV1gI180Ah98N8_Sog1VXIaGnj6MbQw_wC5KS_YYIw60VLaOHSqN8suyURa93V71_UvIAm50jbPzjqTwbnmsDHM1fUloqWPpbUsSUu3ywlDGnlYfp5jewwvA=",
+      "fonte": "DAZN, Goal.com Italia, TuttoFrosinone.com, Movieplayer",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "16:00",
-      "evento": "Italia - Cechia, Semifinale",
-      "competizione": "Coppa Davis 2026",
-      "canale": "SuperTennis HD, Rai 1 HD, SuperTennis+, Rai Play",
-      "note": "Il programma prevede due singolari e l'eventuale doppio.",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEya94kpkkJLvQL6Q4HmSY3cAsfSHw6XRP4XhdWCAfgM085EhK0aJw5H9qWpStCALMGExI3h8QduwGfvpmbCvRIJDAb1X6smKIKJK9KJeXPiQYLYE7AJ1DLZJHPyOAs9q7XKZbtkTscZFcjEbBLd3252oCaSC7p6wXVa4Hmr8j386qdeV-J3lKmljOKKw=",
+      "orario": "15:15",
+      "evento": "Sci Alpino - Slalom Gigante Femminile (1a manche)",
+      "competizione": "Coppa del Mondo Killington",
+      "canale": "Rai Sport, RaiPlay, Eurosport 1, Discovery Plus, HBO Max, Sky Go, Now Tv, DAZN",
+      "note": "Con Sofia Goggia",
+      "fonte": "Rai Sport, sport2u.tv, Quotidiano Nazionale",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "15:30",
+      "evento": "Formula 1 – Prove Libere 3",
+      "competizione": "Formula 1 - Gran Premio del Qatar",
+      "canale": "Sky Sport F1",
+      "note": "",
+      "fonte": "Sky Sport, FormulaPassion, Quattroruote, OA Sport, SNAI sportnews",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Formula 1 Prove Libere 2",
-      "competizione": "F1 GP Qatar 2026",
-      "canale": "Sky Sport F1, NOW, Sky Go",
+      "evento": "Torino-Lazio",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUF97aeebzUw9htcERnaGeaykqwkLxSN9o9LICd6eHyD_ngtIy-gunCLgR0ZxzDczONOHzsBd8R9J-CRSIDamsEeYV0g9UN_fmw_K120A_yjyXVAxL4CBSsTYpaXIF1_adcvLpvKw-ucm42_woL_tgXt0PnzNGlYij4sE9hYLRAzBb4sF3xlsrXYHPmN2vfasu5DABR2GAx1lpecwgjX02, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0i2ntPuG3Mk1GhMij6xshdHlM54_JCauL4vt0B_l0iuqotpI9mJ5of1TgtLoamVj1H6jtU0-CVqke81UnETDPrtHG4LvyYbIAIdmuoGdJBWauQ6Kif7TDm8ii7kJVJ2vEhrX4MbL_L7MVW58NC0ThqnVN-zo1dNmkBSTE5T8uqXPaQqm7agGpX2sxyavdOxQ4O1T-XVui4BzPWyJ6RwmcYd8y2E=",
+      "fonte": "DAZN, Goal.com Italia, TuttoFrosinone.com, Movieplayer",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "18:15",
+      "evento": "Sci Alpino - Slalom Gigante Femminile (2a manche)",
+      "competizione": "Coppa del Mondo Killington",
+      "canale": "Rai Sport, RaiPlay, Eurosport 1, Discovery Plus, HBO Max, Sky Go, Now Tv, DAZN",
+      "note": "Con Sofia Goggia",
+      "fonte": "Rai Sport, sport2u.tv, Quotidiano Nazionale",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "19:00",
+      "evento": "Formula 1 – Qualifiche",
+      "competizione": "Formula 1 - Gran Premio del Qatar",
+      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "note": "",
+      "fonte": "Sky Sport, FormulaPassion, Quattroruote, OA Sport, SNAI sportnews",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Venezia-Bologna",
-      "competizione": "Serie A 2026/2027",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport 4K, Sky Sport 251, NOW",
+      "evento": "Inter-Genoa",
+      "competizione": "Calcio - Serie A",
+      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
       "note": "",
-      "fonte": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1nTJkPF3Bc25_oTp43FeJbx5BRLnyW6eCl9cRgBqWmbMeulrudrujXe4RNdJINi9iWTqmF13dB7Fy-TreigVGrol6I7d0Zp0BbMVFhdodlwM1DQh3C2ANrfuWR9yMJqh4g8l2Tb_DOd6F2YfFdr5FLBP41-09TySM1NW8BBvTpgN1mPSd8LG6Sk-JmENfmJdjkv_RS82CHJBU4fLerUGScEWXyWDGeLqAyBPBmmzkar4ShAGsWWOsvHUTvFCMzlvL7S1qKfwwpHRhgpTB3Q=",
+      "fonte": "DAZN, Goal.com Italia, Calcio in tv oggi, Movieplayer, Sky Sport, TuttoFrosinone.com",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "21:30",
+      "evento": "Formula 1 – Qualifiche (Differita)",
+      "competizione": "Formula 1 - Gran Premio del Qatar",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "FormulaPassion, Quattroruote, OA Sport, SNAI sportnews",
       "accuratezza_orario": "esatto"
     }
   ]
