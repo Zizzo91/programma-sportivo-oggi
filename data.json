@@ -1,139 +1,85 @@
 {
-  "last_updated": "2026-11-28T01:48:11.652115+01:00",
+  "last_updated": "2026-11-28T15:41:31.814301+01:00",
   "events": [
     {
-      "orario": "08:35",
-      "evento": "Moto3 – Prove Libere 2",
-      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
-      "canale": "Sky Sport MotoGP",
+      "orario": "15:00",
+      "evento": "Calcio Serie A: Frosinone vs Parma",
+      "competizione": "Serie A",
+      "canale": "DAZN",
       "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "09:20",
-      "evento": "Moto2 – Prove Libere 2",
-      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:05",
-      "evento": "MotoGP - Prove Libere 2",
-      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "10:45",
-      "evento": "MotoGP – Qualifiche",
-      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "Sky Sport, SNAI sportnews",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "12:45",
-      "evento": "Moto3 – Qualifiche",
-      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "13:35",
-      "evento": "Moto2 – Qualifiche",
-      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
-      "canale": "Sky Sport MotoGP",
-      "note": "",
-      "fonte": "Sky Sport",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "14:55",
-      "evento": "MotoGP – Sprint",
-      "competizione": "MotoGP - Gran Premio della Comunità Valenciana",
-      "canale": "Sky Sport MotoGP, Sky Sport Uno, TV8",
-      "note": "",
-      "fonte": "Sky Sport, SNAI sportnews",
+      "fonte": "legaseriea.it, rai.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:00",
-      "evento": "Frosinone-Parma",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN",
+      "evento": "MotoGP GP Valencia: Sprint Race",
+      "competizione": "MotoGP",
+      "canale": "Sky Sport Uno, Sky Sport MotoGP, Sky Go, NOW, TV8, tv8.it",
       "note": "",
-      "fonte": "DAZN, Goal.com Italia, TuttoFrosinone.com, Movieplayer",
+      "fonte": "periodicodaily.com, cronacapop.it, virgilio.it/sport",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:15",
-      "evento": "Sci Alpino - Slalom Gigante Femminile (1a manche)",
-      "competizione": "Coppa del Mondo Killington",
-      "canale": "Rai Sport, RaiPlay, Eurosport 1, Discovery Plus, HBO Max, Sky Go, Now Tv, DAZN",
-      "note": "Con Sofia Goggia",
-      "fonte": "Rai Sport, sport2u.tv, Quotidiano Nazionale",
+      "evento": "Sci Alpino Coppa del Mondo Killington: Slalom Gigante Femminile (1a manche)",
+      "competizione": "Coppa del Mondo Sci Alpino",
+      "canale": "Rai Sport HD, RaiPlay, Eurosport 1, Discovery Plus, HBO Max, Sky Go, Now Tv, DAZN",
+      "note": "Sofia Goggia potrebbe partecipare.",
+      "fonte": "guida.tv, sport2u.tv",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "15:30",
-      "evento": "Formula 1 – Prove Libere 3",
-      "competizione": "Formula 1 - Gran Premio del Qatar",
-      "canale": "Sky Sport F1",
+      "evento": "F1 GP Qatar: Prove Libere 3",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Go, NOW",
       "note": "",
-      "fonte": "Sky Sport, FormulaPassion, Quattroruote, OA Sport, SNAI sportnews",
+      "fonte": "periodicodaily.com, skysport.it/f1/calendario-risultati, formulapassion.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "18:00",
-      "evento": "Torino-Lazio",
-      "competizione": "Calcio - Serie A",
+      "evento": "Calcio Serie A: Torino vs Lazio",
+      "competizione": "Serie A",
       "canale": "DAZN",
       "note": "",
-      "fonte": "DAZN, Goal.com Italia, TuttoFrosinone.com, Movieplayer",
-      "accuratezza_orario": "esatto"
-    },
-    {
-      "orario": "18:15",
-      "evento": "Sci Alpino - Slalom Gigante Femminile (2a manche)",
-      "competizione": "Coppa del Mondo Killington",
-      "canale": "Rai Sport, RaiPlay, Eurosport 1, Discovery Plus, HBO Max, Sky Go, Now Tv, DAZN",
-      "note": "Con Sofia Goggia",
-      "fonte": "Rai Sport, sport2u.tv, Quotidiano Nazionale",
+      "fonte": "legaseriea.it, rai.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "19:00",
-      "evento": "Formula 1 – Qualifiche",
-      "competizione": "Formula 1 - Gran Premio del Qatar",
-      "canale": "Sky Sport F1, Sky Sport Uno, Sky Sport 4K",
+      "evento": "F1 GP Qatar: Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "Sky Sport F1, Sky Go, NOW",
       "note": "",
-      "fonte": "Sky Sport, FormulaPassion, Quattroruote, OA Sport, SNAI sportnews",
+      "fonte": "periodicodaily.com, skysport.it/f1/calendario-risultati, formulapassion.it",
       "accuratezza_orario": "esatto"
     },
     {
       "orario": "20:45",
-      "evento": "Inter-Genoa",
-      "competizione": "Calcio - Serie A",
-      "canale": "DAZN, Sky Sport Calcio, Sky Sport Uno, Sky Sport 4K, Sky Sport 251",
+      "evento": "Calcio Serie A: Inter vs Genoa",
+      "competizione": "Serie A",
+      "canale": "DAZN, Sky",
       "note": "",
-      "fonte": "DAZN, Goal.com Italia, Calcio in tv oggi, Movieplayer, Sky Sport, TuttoFrosinone.com",
+      "fonte": "calciomagazine.net, legaseriea.it, rai.it",
       "accuratezza_orario": "esatto"
     },
     {
-      "orario": "21:30",
-      "evento": "Formula 1 – Qualifiche (Differita)",
-      "competizione": "Formula 1 - Gran Premio del Qatar",
+      "orario": "21:25",
+      "evento": "F1 GP Qatar: Qualifiche (Replica/Differita)",
+      "competizione": "Formula 1",
       "canale": "TV8",
       "note": "",
-      "fonte": "FormulaPassion, Quattroruote, OA Sport, SNAI sportnews",
+      "fonte": "periodicodaily.com, cronacapop.it",
+      "accuratezza_orario": "esatto"
+    },
+    {
+      "orario": "22:50",
+      "evento": "F1 Paddock Live Post Qualifiche",
+      "competizione": "Formula 1",
+      "canale": "TV8",
+      "note": "",
+      "fonte": "cronacapop.it",
       "accuratezza_orario": "esatto"
     }
   ]
